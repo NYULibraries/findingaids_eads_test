@@ -31,3 +31,4 @@ The commits within range [5a67a80](https://github.com/NYULibraries/findingaids_e
 ## Reporting Issues
 
 The special collections content owners can [create issues here](https://github.com/NYULibraries/findingaids_eads/issues) if they are relevant to data errors in the EADs.
+
