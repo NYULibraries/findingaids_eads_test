@@ -47,4 +47,7 @@ workflows:
   deploy:
     jobs:
       # - deploy-prod
-      - deploy-dev
+      - deploy-dev:
+          filters:
+            branches:
+              only: master
