@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_31">mc_31</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Nineteenth Century Notebooks, Diaries, and Journals <num>MC.31</num></titleproper>
+        <author>Steven A. Walker</author>
+      </titlestmt>
+      <editionstmt>
+        <p>The 2012 finding aid was derived from a group of text finding aids that described the separate contents of this collection.</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:33:38 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>February 2019</date>
+        <item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Nineteenth Century Notebooks, Diaries, and Journals</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Torrey, John, 1796-1873</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Van Dyck, Ezekiel Deyo</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Paton, James Morton, 1863-1944</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Houghton, George Hendric, 1820-1897</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">MacCracken, John Henry, 1875-1948</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Ludlum, Charles Henry</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Brown, Elbert William</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Burroughs, William Frank, d. 1899</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Crosby, Howard, 1826-1891</persname>
+      </origination>
+      <origination label="source">
+        <corpname rules="dacs" source="naf">Gould Memorial Library</corpname>
+      </origination>
+      <unitid>MC.31</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in four manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1833/1938" type="inclusive">1833-1938</unitdate>
+      <unitdate datechar="creation" normal="1833/1883" type="bulk">1833-1883</unitdate>
+      <abstract id="aspace_075d74de345c6e990ce676030c331161">The collection contains notebooks, diaries, and journals kept by NYU students and professors from the late nineteenth century. The student notebooks contain the lecture notes taken by five New York University students between 1858-1897. Also included in the collection is Professor John Torrey's diary while traveling in Europe and a sermon journal kept by Professor Howard Crosby.</abstract>
+      <langmaterial id="aspace_5050497fe5e1f7e63766dc5bdb5a23e9">Materials are primarily in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_8aa767173ab21c19240f5af97c34de6e">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_1b72bd4ad8e9fe06719fe1d199750e4f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials were transferred from Gould Memorial Library, University Heights in 1973. The accession number realated to this collection is 2019.016.</p>
+    </acqinfo>
+    <arrangement id="aspace_a1fe3baba4b3a175b494cccb3edf6bb1">
+      <head>Arrangement</head>
+      <p>Materials are arranged chronologically in nine series:</p>
+      <p>I. Charles Ludlum</p>
+      <p>II. Ezekiel Deyo Van Dyck </p>
+      <p>III. James Morton Paton</p>
+      <p>IV. George Hendric Houghton</p>
+      <p>V. William Frank Burroughs</p>
+      <p>VI. John Henry McCracken</p>
+      <p>VII. Elbert William Brown</p>
+      <p>VII. John Torrey</p>
+      <p>IX. Howard Crosby</p>
+    </arrangement>
+    <bioghist id="aspace_1c73954e00f9f5b7f5b1005d66240e95">
+      <head>Biographical Note</head>
+      <p>Charles Henry Ludlum was born in Jamaica, New York, on February 21, 1843. He attended New York University (then the University of the City of New York) College of Arts and Pure Science from 1859-1863 and graduated with an A.B. in 1863. He attended New York University Medical College from 1863-1865 and received his M.D. in 1865. He received his A.M. degree from NYU in 1866. Ludlum was an intern at Bellevue Hospital from 1865-1867, and a visiting physician O.D.D. from 1867-1874. A practicing physician in Boonton, New Jersey, from 1874-1878, he moved his practice to Hempstead, New York, where he spent the remainder of his life. In 1889 Ludlum became a member of the Board of Education of Hempstead and became its president in 1890. He was married to Mary Jane White on May 20, 1868, and had six children. </p>
+      <p>Ezekiel Deyo Van Dyck was born in New Paltz, New York, on February 15, 1858. He attended New York University's College of Arts and Pure Science from 1876-1880 and graduated with an A.B. degree in 1880. He attended the Union Theological Seminary from 1880-1883 and received his A.M. degree in 1883. Van Dyck was a Presbyterian minister and served the following communities: Carlisle, New York, from 1883-1890; Johnsonville, New York, from 1890-1893; and Greenville, New York, from 1893 on. He married Alida Bevier June 21, 1888, and had four children.</p>
+      <p>James Morton Paton was born in the city of New York on May 12, 1863. He attended New York University from 1879-1883 and received his A.B. degree in 1883. Paton attended Harvard University from 1883-1887, studied at the American School of Classical Studies at Athens and was a Rogers fellow of Harvard from 1892-1893. He received his Ph.D. from Bonn University in 1894. In 1906, he was a student of classical archaeology in Europe. Paton was a Morton Professor of Latin and French at Middlebury College, Vermont, from 1887-1891. He became an instructor of Greek at Wesleyan University, Connecticut, from 1895-1897, and an associate professor from 1895-1905. He was managing editor of the <emph render="italic">American Journal of Archeology</emph> from 1906-1908, and editor-in-chief from 1917-1920. He died in 1944.</p>
+      <p>George Hendric Houghton was born in Deerfield, Massachusetts, on February 1, 1820. He attended New York University (then the University of the City of New York) from 1838-1843 and received his A.B. degree in 1842 and his A.M. degree in 1845. He later received a D.D. degree from Columbia University. Houghton was a Protestant Episcopal clergyman who studied theology under the direction of William A. Muhlenberg, while at the same time teaching Greek at St. Paul's College, Flushing, Long Island (1843-1846), of which Muhlenberg was headmaster. He was ordained deacon in 1845 and priest in 1846, and was Muhlenberg's curate at the Church of the Holy Communion in New York until 1847. He ministered to the sick and dying in Bellevue Hospital and devoted his time to the underprivileged, establishing regular religious services at 48 East Twenty-Fourth Street. The parish was organized February 12, 1849, as the Church of the Transfiguration in the City of New York. From 1850-1862, Houghton was also a professor of Hebrew in the General Theological Seminary, New York City. During the Civil War he harbored slaves on their way to the Canadian border, established a war hospital, and during the Draft Riots of 1863 he sheltered hundreds of children driven by a mob from the Colored Orphan Asylum. Houghton's Church of the Transfiguration achieved lasting fame as "the little church around the corner."</p>
+      <p>William Frank Burroughs received his A.B. degree from New York University in 1859. He died in 1899.</p>
+      <p>John Henry MacCracken was born in Rochester, Vermont, on September 30, 1875. He attended New York University's College of Arts and Pure Science and graduated with an A.B. in 1894 and an A.M in 1897. He briefly attended Union Theological Seminary in 1894-1895. MacCracken received his Ph.D. from the University of Halle-Wittenburg, Germany, in 1899 and his LL.D. from Westminster College, Missouri, in 1903. MacCracken was an A. Ogden Butler fellow in philosophy in 1894-1895. He became an instructor in Philosophy at New York University and served from 1896-1899, becoming an assistant professor in 1899. He served as President of Westminster College, Missouri, from 1899-1903, and then returned once again to NYU serving as Syndic and Professor of Politics from 1903-1915, which also included one year as acting Chancellor of the University. He became President of Lafayette College in Easton, Pennsylvania and served from 1915-1926. In 1929 he became President of the American Institute of Christian Philosophy, President of the Phi Beta Kappa Alumni of New York, President of the Board at Alborz College in Teheran, Iran and served as a trustee to the American University, Cairo, Egypt and the Masters School at Dobbs Ferry, New York. MacCracken also served as Regional Director of Student Army Training Corps in 1918. In 1927 he was a delegate to the Lausanne Conference, and was a delegate to the Oxford and Edinburough Conferences of 1937. MacCracken was the author of "College and the Commonwealth" (1920). He died in 1948.</p>
+      <p>Elbert William Brown received his A.B. degree from Yale University in 1865. He was a graduate student attending New York University during the years 1896-1898. He was listed as a student from Flushing, Long Island.</p>
+      <p>John Torrey was born in New York on August 15, 1796. He later became known as the first professional botanist in the United States. He specialized in the North American flora and is most known for his innovative classification system, known as the "natural system." He often worked with Asa Gray and other notable botanists. In 1858 he founded the Botanical Club of New York, which later became known as the Torrey Botanical Club. During his illustrious career he held several professorial posts beginning at the West Point Military Academy from 1824-1827. In 1832, Torrey arrived at New York University as a professor of chemistry and botany. Later in his life, Torrey served as an Assayer for the United States Mint.</p>
+      <p>Howard Crosby was born in New York City in 1826. Crosby, after graduating from New York University in 1844, became a Professor of Greek at NYU. After NYU Crosby taught at Rutgers College in New Jersey and in 1863 became pastor of the Fourth Avenue Presbyterian Church. Crosby returned to NYU and became its fourth chancellor in 1870 and maintained his pastorship during that time. The eleven years of his administration (1870-1881) marked a period of financial uncertainty and little growth. During his career he published several notable religious works including "The Lands of the Moslem" (1851), "Bible Companion" (1870), "Jesus: His Life and Works" (1871), and "True Temperance Reform" (1879).</p>
+    </bioghist>
+    <prefercite id="aspace_fcca5099a8ffcf6e477f98b35b44547b">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Nineteenth Century Notebooks, Diaries, and Journals; MC 31; box number; folder number or item identifier; New York University Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_cb5c1a89e69e46db4a3fea7979fab631">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2018 are unknown. Because this is an assembled collection, University Archives and ACM staff made the decision in 2019 to unify this collection under one call phrase, MC 31. The individual collection numbers, MC 31-37 and MC 39-40, have been changed to series one through nine (I = MC 31, II = MC 32, III = MC 33, IV = MC 34, V = MC 35, VI = MC 36, VII = MC 37, VIII = MC 39, IX = MC 40). Materials were rehoused in four manuscript boxes and folder numbers were changed accordingly.</p>
+    </processinfo>
+    <scopecontent id="aspace_183dadcf9b05ca914421ed5d01b639cf">
+      <head>Scope and Contents</head>
+      <p>The collection contains various notebooks, journals, and diaries kept by both students and professors at New York University. The student notebooks provide a useful insight into the lectures and classroom materials presented in the late nineteenth century. John Torrey's diary sheds light on the development of his innovative classification system and would be of interest to scholars studying botanical history. Also included in the collection is a compilation of sermons given by pastor and NYU Professor Howard Crosby.</p>
+    </scopecontent>
+    <userestrict id="aspace_998f25ab6671704e4d336c117d57b50a">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. New York University Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Universities and Colleges -- Curricula.</subject>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Lecture notes.</genreform>
+      <subject source="lcsh">Pneumatics</subject>
+      <genreform source="aat">Notebooks</genreform>
+      <subject source="lcsh">Religion -- History</subject>
+      <subject source="lcsh">Religion -- Study and teaching</subject>
+      <genreform source="aat">Sermons.</genreform>
+      <subject source="lcsh">Heat -- Study and teaching</subject>
+      <subject source="lcsh">Magnetism -- Study and teaching</subject>
+      <subject source="lcsh">Geology -- Study and teaching</subject>
+      <subject source="lcsh">Greek literature -- Study and teaching</subject>
+      <subject source="lcsh">Philosophy -- Study and teaching.</subject>
+      <subject source="lcsh">Mathematics --  Study and teaching -- United States</subject>
+      <subject source="lcsh">Optics -- Study and teaching</subject>
+      <subject source="lcsh">American poetry</subject>
+      <subject source="lcsh">Physiology -- Study and teaching</subject>
+      <subject source="lcsh">Physics -- Study and teaching</subject>
+      <subject source="lcsh">Church history -- Study and teaching</subject>
+      <subject source="lcsh">English literature -- Study and teaching</subject>
+      <subject source="lcsh">Archaeology -- Greece</subject>
+      <subject source="lcsh">Botany -- Study and teaching</subject>
+      <corpname source="naf">New York University -- Faculty -- 19th century</corpname>
+      <corpname source="naf">New York University -- Students -- 19th century</corpname>
+      <persname source="naf">Stevenson, John J. (John James), 1841-1924</persname>
+      <corpname source="naf">New York University</corpname>
+      <persname source="naf">Loomis, Elias, 1811-1889</persname>
+      <persname source="naf">Draper, John C. (John Christopher), 1835-1885</persname>
+      <persname rules="dacs" source="naf">Gallatin, Albert, 1761-1849</persname>
+      <persname source="naf">Martin, Benj. N. (Benjamin Nicholas), 1816-1883</persname>
+      <corpname source="naf">New York University -- Curricula -- History</corpname>
+      <persname source="naf">Baird, Henry Martyn, 1832-1906</persname>
+      <persname rules="dacs" source="local">Coakley, George Washington</persname>
+      <persname source="naf">Draper, Henry, 1837-1882</persname>
+      <corpname role="fmo" rules="dacs" source="naf">Gould Memorial Library</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series I: Charles Ludlum </unittitle>
+          <unitdate datechar="creation" normal="1860/1863" type="inclusive">1860-1863</unitdate>
+        </did>
+        <scopecontent id="aspace_d2aef642ccaf764c031426c6edfcad53">
+          <head>Scope and Contents</head>
+          <p>Series I consists of seven notebooks. Most of the notebooks appear to contain verbatim portions of professorial lectures, although some, such as Loomis' Algebra, were copied directly from the course textbook. The notebooks are representative of classes in: Greek Language and Literature taught by Professor Henry M. Baird; English Literature, Rhetoric, and Natural Religion taught by Professor Benjamin N. Martin; Evidences of Revelation taught by Chancellor Isaac Ferris; and Comparative Physiology taught by Professor Henry Draper.</p>
+        </scopecontent>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Greek Geography: Professor Henry M. Baird and Loomis' Algebra: Professor George W. Coakley</unittitle>
+            <unitdate datechar="creation" normal="1860/1860">1860</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_84ca07248d7eaa215c3928e5446678c0" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_b80216f654f46e1018062e2bb3af545e" parent="aspace_84ca07248d7eaa215c3928e5446678c0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Greek Language Vol.1: Professor Henry M. Baird</unittitle>
+            <unitdate datechar="creation" normal="1860/1860">1860</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f4e9d51eff6f46da514a8687b48a5c83" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_95a7c956ad58e1a4b7f212119757c005" parent="aspace_f4e9d51eff6f46da514a8687b48a5c83" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Greek Language Vol.2: Professor Henry M. Baird</unittitle>
+            <unitdate datechar="creation" normal="1860/1860">1860</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5a92a2daa6cd71bc469ff29748d23525" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_f6c486373c91c5ac1da33a7f1fb36fbf" parent="aspace_5a92a2daa6cd71bc469ff29748d23525" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Greek Literature: Professor Henry M. Baird</unittitle>
+            <unitdate datechar="creation" normal="1861/1861">1861</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1547f65d8763049be7f96a41f0544a6a" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_3a3d9204dbc25d43331bc3cd55a62447" parent="aspace_1547f65d8763049be7f96a41f0544a6a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>English Literature, Rhetoric, and Natural Religion: Professor Benjam N. Martin</unittitle>
+            <unitdate datechar="creation" normal="1861/1862" type="inclusive">1861-1862</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a2a4ef36332805aee36d5bf4fede35d5" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_34a24ab8120430ce9a069cc1d8c0c81a" parent="aspace_a2a4ef36332805aee36d5bf4fede35d5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Evidence of Revelation: Chancellor Ferris and Osteology: Unknown</unittitle>
+            <unitdate datechar="creation" normal="1862/1863" type="inclusive">1862-1863</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d8a1ba9387715ecbfda6339b8e3b7815" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_cb737494842c40fb843205200d2e6b6d" parent="aspace_d8a1ba9387715ecbfda6339b8e3b7815" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Comparative Physiology: Professor Henry Draper</unittitle>
+            <unitdate datechar="creation" normal="1863/1863">1863</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2463b825bd791e38dfa0a30d00d86b4c" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_2831fd7164df698427aa31d933fa7707" parent="aspace_2463b825bd791e38dfa0a30d00d86b4c" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref26" level="series">
+        <did>
+          <unittitle>Series II, Ezekiel Deyo Van Dyck </unittitle>
+          <unitdate datechar="creation" normal="1878/1880" type="inclusive">1878-1880</unitdate>
+        </did>
+        <scopecontent id="aspace_8fb4396ff19d979283298137503f00a6">
+          <head>Scope and Contents</head>
+          <p>Series II contains five notebooks. The student notebooks are representative of classes taught by professors Henry M. Baird and John J. Stevenson spanning 1878-1880.</p>
+        </scopecontent>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Greek Archaeology and Greek Literature: Professor Henry M. Baird</unittitle>
+            <unitdate datechar="creation" normal="1878/1879" type="inclusive">1878-1879</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0174f9e4096038eedd8a62486d6e40ed" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_234cf2ed3c65a1441b29886fe0c7619f" parent="aspace_0174f9e4096038eedd8a62486d6e40ed" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Greek Literature: Professor Henry M. Baird</unittitle>
+            <unitdate datechar="creation" normal="1879/1879">1879</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dc334822c48d4a2ca3e797ccaef9bb5f" label="Mixed Materials [31142062743672]" type="Box">1</container>
+            <container id="aspace_cce921a2dbac5afd30b3a1a26e8fad2c" parent="aspace_dc334822c48d4a2ca3e797ccaef9bb5f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Geology: Professor John J. Stevenson</unittitle>
+            <unitdate datechar="creation" normal="1880/1880">1880</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9177a24b8ad4d6df898943024a586c1d" label="Mixed Materials [31142062743664]" type="Box">2</container>
+            <container id="aspace_de28234af0ec2c0fb3b5a5b3149f48a5" parent="aspace_9177a24b8ad4d6df898943024a586c1d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Geology and Botany: Professor John J. Stevenson</unittitle>
+            <unitdate datechar="creation" normal="1880/1880">1880</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d6d0c5cca0047a19f63150184886fe4d" label="Mixed Materials [31142062743664]" type="Box">2</container>
+            <container id="aspace_abe244e4fa622e9d4161cc9661c42ea1" parent="aspace_d6d0c5cca0047a19f63150184886fe4d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Geology: Professor John J. Stevenson</unittitle>
+            <unitdate datechar="creation" normal="1880/1880">1880</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5bb1ce084172f46f20b0a98cb0be1168" label="Mixed Materials [31142062743664]" type="Box">2</container>
+            <container id="aspace_985663158aae76fad92ed08149b3e600" parent="aspace_5bb1ce084172f46f20b0a98cb0be1168" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref32" level="series">
+        <did>
+          <unittitle>Series III, James Morton Paton</unittitle>
+          <unitdate datechar="creation" normal="1880/1883" type="inclusive">1880-1883</unitdate>
+        </did>
+        <scopecontent id="aspace_d67a9edbbadd48a6e6ca46534bdd11b5">
+          <head>Scope and Contents</head>
+          <p>Series III consists of seven notebooks. The notebooks are representative of classes taught by Professors John C. Draper, George W. Coakley, John J. Stevenson, Henry M. Baird, and Albert H. Gallatin.</p>
+        </scopecontent>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Chemistry, Table of Contents: Professor. John C. Draper</unittitle>
+            <unitdate datechar="creation" normal="1880/1880">1880</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4341816c2bd6b2b5dd548798cb0b89ab" label="Mixed Materials [31142062743664]" type="Box">2</container>
+            <container id="aspace_194f02a60893ee245d98f778cce601f2" parent="aspace_4341816c2bd6b2b5dd548798cb0b89ab" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Chemistry Vol. 1: Professor John C. Draper</unittitle>
+            <unitdate datechar="creation" normal="1880/1880">1880</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f67efae756f013520d3f6d3a2130ed7f" label="Mixed Materials [31142062743664]" type="Box">2</container>
+            <container id="aspace_36e8d26d2e1ae2d11b8a4c9f9bb2b037" parent="aspace_f67efae756f013520d3f6d3a2130ed7f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Chemistry Vol. 2: Professor John C. Draper</unittitle>
+            <unitdate datechar="creation" normal="1880/1881" type="inclusive">1880-1881</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a17c3b1e8677e2cc93d4da7ccc0d7749" label="Mixed Materials [31142062743664]" type="Box">2</container>
+            <container id="aspace_dab33d700c16c4c9f1e4442d675faea3" parent="aspace_a17c3b1e8677e2cc93d4da7ccc0d7749" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Trigonometry: Professor George W. Coakley</unittitle>
+            <unitdate datechar="creation" normal="1881/1881">1881</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6d2d17c186d8d6caa2c91726b065634f" label="Mixed Materials [31142062743664]" type="Box">2</container>
+            <container id="aspace_97e5d219411a365ab68cc8c430365df0" parent="aspace_6d2d17c186d8d6caa2c91726b065634f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Botany: Professor John J. Stevenson</unittitle>
+            <unitdate datechar="creation" normal="1883/1883">1883</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a86216140d71baea71b0ec0c81aadec5" label="Mixed Materials [31142062743664]" type="Box">2</container>
+            <container id="aspace_e2bd520567d1db2dca2a0f265d3a9964" parent="aspace_a86216140d71baea71b0ec0c81aadec5" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Geology: Professor John J. Stevenson</unittitle>
+            <unitdate datechar="creation" normal="1883/1883">1883</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_91c5099184ccc034ebc873f489ebfcae" label="Mixed Materials [31142062743656]" type="Box">3</container>
+            <container id="aspace_d379a5b7fd1766316b8898c3b5b2c4b8" parent="aspace_91c5099184ccc034ebc873f489ebfcae" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Greek Archaeology: Professor Henry M. Baird</unittitle>
+            <unitdate datechar="creation" normal="1883/1883">1883</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a3fc2af9c19fc2be02379cd4a8fdfab7" label="Mixed Materials [31142062743656]" type="Box">3</container>
+            <container id="aspace_77b88cb8032fad76019609d54b3d9eb9" parent="aspace_a3fc2af9c19fc2be02379cd4a8fdfab7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Physiology: Professor Albert H. Gallatin</unittitle>
+            <unitdate datechar="creation" normal="1883/1883">1883</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ecc178e94fa57df0ecace16997ebbcbf" label="Mixed Materials [31142062743656]" type="Box">3</container>
+            <container id="aspace_22509d7aef45763767677e07233f7289" parent="aspace_ecc178e94fa57df0ecace16997ebbcbf" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref41" level="series">
+        <did>
+          <unittitle>Series IV, George Hendric Houghton</unittitle>
+          <unitdate datechar="creation" normal="1839/1850" type="inclusive">1839-1850</unitdate>
+        </did>
+        <scopecontent id="aspace_c21b1c7777d29411685e998deeb773ba">
+          <head>Scope and Contents</head>
+          <p>Series IV includes a journal entitled, "Nugae," a collection of orations and poetry written by Houghton and later presented to G.H. Houghton Butler from an enigmatic "S.H.B." Although several pages have been cut out from the journal, it still contains revealing thoughts and emotions of a young man aged 19 to 30 in early 19th century New York. Of special interest is "The Growth of Freedom", (pp. 1-17) an oration delivered at the University of the City of New York's July 20, 1842 commencement, and the Valedictory Oration (pp. 19-29) delivered the same day. "National Retribution" (pp. 91-101) is the title of an oration delivered in the University Chapel on January 29, 1842. "On Leaving the South-West Turret of the University," (p. 77) written in December 1841, and "On Leaving the University," written in May 1843, expresses in poetical form Houghton's mixed emotions upon graduating.</p>
+        </scopecontent>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Houghton, George H.: Orations and Poetry</unittitle>
+            <unitdate datechar="creation" normal="1842/1850" type="inclusive">1842-1850</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1bef2edb4865334d5f8a4e17dd3141e0" label="Mixed Materials [31142062743656]" type="Box">3</container>
+            <container id="aspace_b6e33a3bf539e9611a49315b6fe99612" parent="aspace_1bef2edb4865334d5f8a4e17dd3141e0" type="Folder">4</container>
+          </did>
+          <c id="aspace_ref43" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Valedictory Oration</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1842/1842">1842</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_15aab7726247398bcbb6e5c31371147b" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_a506988287b33fc925a03c2d63c93f1f" parent="aspace_15aab7726247398bcbb6e5c31371147b" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">A Farewell</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1850/1850">1850</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ff7b4e41fdbd54389bbb8169e4b2a17e" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_4735dc83557debb17f543780933482fa" parent="aspace_ff7b4e41fdbd54389bbb8169e4b2a17e" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref45" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">This Too Shall Pass Away</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1842/1842">1842</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_083345f02c5fa72dcb548803f396da0f" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_54c8c81ba7a97697a2a32db0426eedb3" parent="aspace_083345f02c5fa72dcb548803f396da0f" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref46" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Epigram</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5976096c34a0911858527afd93576ba7" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_88f58907978e949674da6f610b8c6628" parent="aspace_5976096c34a0911858527afd93576ba7" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref47" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Voice of the Streamlet</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6520ea64079571b3dd875a960117485f" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_c9bf6ff26b621f03fcec1e457a42de8b" parent="aspace_6520ea64079571b3dd875a960117485f" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref48" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Shall We Meet In Heaven</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1841/1841">1841</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_96f90ac4ce183ce641276534dacf5c0c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_6802c7dffeb631341fc1a50d1b5d9f33" parent="aspace_96f90ac4ce183ce641276534dacf5c0c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref49" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Darkness Filled The Firmament</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1842/1842">1842</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_0b883062ccd06e80986bc741bfdb06b1" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_02eed680c9f1a979b540b013cc615eae" parent="aspace_0b883062ccd06e80986bc741bfdb06b1" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref50" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Anacreon's Loves</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_74cb44125c457e3f09dfabb017a8ca5a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_6ca2fd28070a857e03794658a4872765" parent="aspace_74cb44125c457e3f09dfabb017a8ca5a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref51" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Response</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1839/1839">1839</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8b85cc27da4b7b82b4855bb0d62b90a2" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_5f0986bb13a6524b99dd65c665e9e5f8" parent="aspace_8b85cc27da4b7b82b4855bb0d62b90a2" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref52" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Hieron, or The Call To Rest</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_dfedee8887f53ca51e468a01bb880454" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_9ff2279b3710dfb8a146cabd79722971" parent="aspace_dfedee8887f53ca51e468a01bb880454" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Unwritten Thoughts</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1842/1842">1842</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_1c5d6accf3e4b19c0021fe79a3a6cad1" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_7345c16d7c7095c954fdb030bca3a686" parent="aspace_1c5d6accf3e4b19c0021fe79a3a6cad1" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Son of Jonas, Lovest Thou Me?</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_28bd6faee4cee1b6b91104d31c305070" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_67a5c7976574293a1d2f711273ad9e33" parent="aspace_28bd6faee4cee1b6b91104d31c305070" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Cypress and the Lily</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3cc8f5fa2239b6cb01f6cf40f6c6e714" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_25b3b0828cbbb5272dfbfd9822e9c133" parent="aspace_3cc8f5fa2239b6cb01f6cf40f6c6e714" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To Anne</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e44f9cc674b89d8e35bdbc4d2736c041" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8ad99a155a3194d967be2d83e2b3b701" parent="aspace_e44f9cc674b89d8e35bdbc4d2736c041" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref57" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The River's Tale</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_896f8b5245c1e2e24b130f8cecbcbed0" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_cf44a3f97dbfe09242bf1f65f6bd4a4a" parent="aspace_896f8b5245c1e2e24b130f8cecbcbed0" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref58" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Mountain Oak</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_f9895250476728d80120538f7be85823" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_768c530207e254ed1e9df5415ef0df44" parent="aspace_f9895250476728d80120538f7be85823" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Burning Of Moscow</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1840/1840">1840</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8e070db1531aaa29dd70eecdc0fcc8be" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_78afb0353b61fac0c20af4084c86fc18" parent="aspace_8e070db1531aaa29dd70eecdc0fcc8be" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">On Leaving The South-West Turret of the University</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1841/1841">1841</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_036bc84c3617331cb38fb2a45199b16c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_eac15ca1816b5219f399d1fc77d81dcc" parent="aspace_036bc84c3617331cb38fb2a45199b16c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Meeting of the Sons of Abraham</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_858613195588993524080def1b3f6c45" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_9ab3ec227c497f489f5273be89944121" parent="aspace_858613195588993524080def1b3f6c45" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref62" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Art</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b39d2f2a97b22b0ae5ff12dc17fc93f6" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_fed96f49133bcc0e75f80d3607f29ba8" parent="aspace_b39d2f2a97b22b0ae5ff12dc17fc93f6" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Alcanzor and Layda</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_a774fa49870c4580e32ab5063debce36" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_aa74f5b35a37f701878d74c21f11c056" parent="aspace_a774fa49870c4580e32ab5063debce36" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Night Hath Cast Her Mantle O'er Me</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1841/1841">1841</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2fcaafc7abeeaef928286ccf5b52b021" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_a39e9b14d63d9e9fa9dd8cff4a929d0c" parent="aspace_2fcaafc7abeeaef928286ccf5b52b021" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">National Retribution</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1842/1842">1842</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_07883f0fe83bfdd0857112d76c3882ec" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_4122142dee0919cfa4deae293eb8dc43" parent="aspace_07883f0fe83bfdd0857112d76c3882ec" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref66" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Path To Heaven</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1841/1841">1841</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_388f2e61b4bb043bbd777c0cf4ccd97a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_fed14e8548b6453b36dab2057e0bdb2f" parent="aspace_388f2e61b4bb043bbd777c0cf4ccd97a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref67" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To Miss C.D.</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_a3480afd236e55eda9f22c7516ffb106" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_7156d992c464faa0c711c801ce789caa" parent="aspace_a3480afd236e55eda9f22c7516ffb106" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref68" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">An Unbidden Song</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7cfca345d78e752f9e82863a3d83e21e" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_a204cf190682dfd329df9e5c12eb873a" parent="aspace_7cfca345d78e752f9e82863a3d83e21e" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To One Departed</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9d6aa4d69c14d7e3ad20278425e75bd4" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_ecd1f166ae79f201a3b11fbe3565a3c3" parent="aspace_9d6aa4d69c14d7e3ad20278425e75bd4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Fragment</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b1da7439c07fdbaeb9f17c01853b2ef0" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_f95ad63fd3034ec3f62ffa7d2cabe89b" parent="aspace_b1da7439c07fdbaeb9f17c01853b2ef0" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Bird of the Drooping Wing</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_beeca0b2f2a0e35eea6c0cdb58a25351" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_b4532c420ebc31ab366efc4aaa9364aa" parent="aspace_beeca0b2f2a0e35eea6c0cdb58a25351" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Clusters and Cycles in Literature</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e362168ec7af49608e41e9cffaf0ffb6" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_0540cb4402470ad104d1ab3581c78a7a" parent="aspace_e362168ec7af49608e41e9cffaf0ffb6" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref73" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Stricken of the Herd</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_82e0c9a7a3602d789ef413f296e2460c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_e86a23f665506e88a4dde3b6e46e4c64" parent="aspace_82e0c9a7a3602d789ef413f296e2460c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Heaven</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7f9a888636cc21e36940430ef071c884" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_7791b6ccdf4dace39478fb24d5545c37" parent="aspace_7f9a888636cc21e36940430ef071c884" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Repentant</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1841/1841">1841</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e49811f9210ac1bcf932672920ff66fc" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_73b1ee08279ff94b97ca70f7865859bf" parent="aspace_e49811f9210ac1bcf932672920ff66fc" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Curse of the Memory</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1841/1841">1841</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_32d7a566fe532ec205d93831fdf9ae57" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_582ebdf6804f72e2c25a07959881c56c" parent="aspace_32d7a566fe532ec205d93831fdf9ae57" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Mission of the Roman Empire</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1840/1840">1840</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7da369694bd66d94c4a269619b3a590c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_aa30ab50608a37b12606c5d8968553b2" parent="aspace_7da369694bd66d94c4a269619b3a590c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To A Child On Its 3rd Birth-day</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9388c0c10a8a5b41b8a773a6398e8fab" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_7471e112ab906da267981d3dd1871f3f" parent="aspace_9388c0c10a8a5b41b8a773a6398e8fab" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Weep Not For The Dead</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1840/1840">1840</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_d515642b9d92729322b12432de3ac2f2" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_fb9fe5a6b1b4282f472cdeaf1480b78b" parent="aspace_d515642b9d92729322b12432de3ac2f2" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">A Song</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1840/1840">1840</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_33b3c77e70ce3438ec39a2037c3f803f" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_c15eb73935cf58fd13e99d92f6eaf085" parent="aspace_33b3c77e70ce3438ec39a2037c3f803f" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Orphan's Prayer</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1839/1839">1839</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_dbc9d732418b6d8408eeda28de853394" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_98686216b1927f54e17e2b5358511561" parent="aspace_dbc9d732418b6d8408eeda28de853394" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Love and Beauty</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_da921c68e446e1c40403c286c637127e" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_907d95ee879a0ce0b23a563149e90c9a" parent="aspace_da921c68e446e1c40403c286c637127e" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Watch of Selene</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_cd494cc613533d2f77bb7669498b7d25" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2c6f6c4f012ce1cd2476fb540e16ab09" parent="aspace_cd494cc613533d2f77bb7669498b7d25" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">A Good Night</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_1f4f8faf06dc1e62131745328c442e1c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_86a14e8e660ff6290c8011366617ac2a" parent="aspace_1f4f8faf06dc1e62131745328c442e1c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To A Friend</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1850/1850">1850</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_63058c1556be61405806b6f771574c8c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_b895d395fe76903dc7335256a6fb0269" parent="aspace_63058c1556be61405806b6f771574c8c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">God Himself Shall Dry Thy Tears</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1842/1842">1842</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_983d4fdcb05be238bf58cd68d6ecb12a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2749d0b431f065de23f9871819d445da" parent="aspace_983d4fdcb05be238bf58cd68d6ecb12a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref87" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Kaleidoscope</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1842/1842">1842</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3ebf98f0672b51f40be8cb8a2f602003" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_7d77101f889b4c37292f246ed1c0dfc6" parent="aspace_3ebf98f0672b51f40be8cb8a2f602003" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">De Advintu Et Exitu Metae</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1842/1842">1842</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_33a8ee774d087f2588950445925bb145" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8a4e3dfa88de24b6797c4994e6726f42" parent="aspace_33a8ee774d087f2588950445925bb145" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref89" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To M.41. , Cupid Wounded</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4c12cfd7d8e87aa1df7b35a6dc496744" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_febae9e805429456cf469f244c293dcd" parent="aspace_4c12cfd7d8e87aa1df7b35a6dc496744" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Lydian Stone</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_60c22ed9dc0f1c430de01fa3a7e75600" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8eaeb534cca11b335203f7217e30073c" parent="aspace_60c22ed9dc0f1c430de01fa3a7e75600" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Tell Me Lephyr</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_87776657d3a02048ff5ec3c9f97570d1" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_05004887e542b5a1e856049e554ded44" parent="aspace_87776657d3a02048ff5ec3c9f97570d1" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref92" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Virtue and Vice</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7f3105652623729648782c5a8bc7e599" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_60c476c5ec679a3689b8e589c7e79c1e" parent="aspace_7f3105652623729648782c5a8bc7e599" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref93" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">From Hesiod, From Homer</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6016b95cd82240be7e4f607d52978a12" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_fe3940564889425cb32384ae8100cc37" parent="aspace_6016b95cd82240be7e4f607d52978a12" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref94" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To A Stream</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_db7b7542fb764ba932d8b4ca4d74acf4" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_3542b85ea2a991e4ed0f851877a79b62" parent="aspace_db7b7542fb764ba932d8b4ca4d74acf4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To A Maiden</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c9cfe0661be04061e6051e643fcc69a9" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_f53b35722deae625f6e329a123184b6a" parent="aspace_c9cfe0661be04061e6051e643fcc69a9" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref96" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To Lais - With A Rosebud</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5b31a60c6232354d0599d9397249d52e" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2b8818bea217db08af9f28a1f7694555" parent="aspace_5b31a60c6232354d0599d9397249d52e" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref97" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Midas' Epitaph</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e81ff8efc4903598d829110d33010543" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_7aa5a5f1cc7d17ee647430ff961119f6" parent="aspace_e81ff8efc4903598d829110d33010543" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref98" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">I Am Weary</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b120b4cd42fd1c4665e68dc2d2bd6761" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_f187256b7406bf18ed3618df6aabb7d0" parent="aspace_b120b4cd42fd1c4665e68dc2d2bd6761" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref99" level="item">
+            <did>
+              <unittitle>(page cut, title unknown)</unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_0cb67724db688f2a6f00ed74ff10777c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_28ff975ba3c5679d53c6c813d5219895" parent="aspace_0cb67724db688f2a6f00ed74ff10777c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="item">
+            <did>
+              <unittitle><title render="italic">To A Painter</title> (pages cut)</unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_42617a40ef042a2f4f664cae0b6cdb04" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8dd9bc11de5949bd049b64398f8a3c0e" parent="aspace_42617a40ef042a2f4f664cae0b6cdb04" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref101" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Nurse</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1849/1849">1849</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8ed9165b842e2a8938e2a03ddd56777b" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_631103bd1dcd2deef96ff37630188c97" parent="aspace_8ed9165b842e2a8938e2a03ddd56777b" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref102" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">An Evening Hymn</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1849/1849">1849</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_053d3435172d2940bbcee1045654ae54" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_652f733eefa5b9ac5792b2dd03a38968" parent="aspace_053d3435172d2940bbcee1045654ae54" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref103" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">A Promise Redeamed</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1849/1849">1849</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_0e3cab10640f33c2979644062db11895" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_0f23983b392572276f6a34f2db78752c" parent="aspace_0e3cab10640f33c2979644062db11895" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref104" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To A Friend</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1849/1849">1849</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4dbd5ad20c78679855d2a619134e13e6" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_0dd321cb22abd6881ebfe9786deafc07" parent="aspace_4dbd5ad20c78679855d2a619134e13e6" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref105" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Three Wishes</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1849/1849">1849</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6330df708374b572a13484287fe7b97a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_48e5963c11640fda21aac02c462fc150" parent="aspace_6330df708374b572a13484287fe7b97a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref106" level="item">
+            <did>
+              <unittitle><title render="italic">Died</title> (obituary)</unittitle>
+              <unitdate datechar="creation" normal="1849/1849">1849</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ce38cb50de74802f529e5bf91dad11e7" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_bd54fd91f30d3468ca1a6ea73095cfe1" parent="aspace_ce38cb50de74802f529e5bf91dad11e7" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref107" level="item">
+            <did>
+              <unittitle><title render="italic">To My Guardian Angel </title>(pages cut)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_517831ab3ebdf5cd32c2ae2295db8077" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_bc8dbeed58f162210ace0faf52699e56" parent="aspace_517831ab3ebdf5cd32c2ae2295db8077" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref108" level="item">
+            <did>
+              <unittitle><title render="italic">The Holy Innocents </title>(from a Sermon)</unittitle>
+              <unitdate datechar="creation" normal="1849/1849">1849</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_571c9309a8daee6c605c7675fa38dfa6" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_639408d7500b612486c1bd003d9f1f9c" parent="aspace_571c9309a8daee6c605c7675fa38dfa6" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref109" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Our Lord's Childhood</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_225bd4f79a4cf9b3cdcd7f0906e7a6e7" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8b493e6b1403933c6683ca902a4bfc89" parent="aspace_225bd4f79a4cf9b3cdcd7f0906e7a6e7" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref110" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Ascention</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1850/1850">1850</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7cfbb35c852fa91fea7becd5c10201b7" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8f15278ac784e905ded0eb8f14429962" parent="aspace_7cfbb35c852fa91fea7becd5c10201b7" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref111" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Little Eugenia - who died August 1850</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1850/1850">1850</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_603b51879ef9d6ef7d50803e60261fa3" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_cc54599c21ab88bcf73b98ebcc9a4f49" parent="aspace_603b51879ef9d6ef7d50803e60261fa3" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref112" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Lines</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_db4937c246f060486dbc20dfdebd5c57" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_c73cb946db5a629a3e216d97fbf7486e" parent="aspace_db4937c246f060486dbc20dfdebd5c57" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref113" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">On The Late Secession of a Somewhat Notorious Author</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1850/1850">1850</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_d50a1b06b0bd11637e868270f6a2b978" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_404bb0db92ad185fff5ecd6e244df9ad" parent="aspace_d50a1b06b0bd11637e868270f6a2b978" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref114" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Frey Zyolenia</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_11b0660d9947d3268d1b1a73c9097043" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2b78a8e0f65bee5454f714ab7ac74825" parent="aspace_11b0660d9947d3268d1b1a73c9097043" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref115" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Three Wishes</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_41143c20388de5e44557a2611529af4b" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_6e0eb188d3d954a14ab6f009a0f00ad7" parent="aspace_41143c20388de5e44557a2611529af4b" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref116" level="file">
+            <did>
+              <unittitle>
+                <title render="italic">Song</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_63cb1b6c65a8b8f3b2860d2aae3456eb" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_779bf66954be6526b6c4b3c242fac3c7" parent="aspace_63cb1b6c65a8b8f3b2860d2aae3456eb" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref117" level="item">
+            <did>
+              <unittitle><title render="italic">Horace </title>(pages cut)</unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_abecd7f2061e73537fadc417237da84e" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_003381cd13d0d19450e15a01695fa20e" parent="aspace_abecd7f2061e73537fadc417237da84e" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref118" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Halcyon</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8c5473dd0f1351d6cb514d75b7039ede" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2d5cd22d53d2ab9afec2706b4aa7a4d3" parent="aspace_8c5473dd0f1351d6cb514d75b7039ede" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref119" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Odes Of Sappho</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3279d8343ee27efa0f4fc40a91561377" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_b6bba6587656d8810267c148845fb5f1" parent="aspace_3279d8343ee27efa0f4fc40a91561377" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref120" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To A Beloved Maiden</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_91a532915ad7511bd8c0a4697bd5b5b3" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_1bd038b7ded14a03a37db705639e08cd" parent="aspace_91a532915ad7511bd8c0a4697bd5b5b3" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref121" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To A Rich, But Ignorant And Unpoetic Woman</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3d6a21b66d35b87ca32f96f2f803a4e4" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8b717e3f5c8231ce1d473c4fe6e88622" parent="aspace_3d6a21b66d35b87ca32f96f2f803a4e4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref122" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To Venus</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5175233aa3b040222cc8cc74780e7c7d" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_053c6f8e034e3536aa2c0d629685ce52" parent="aspace_5175233aa3b040222cc8cc74780e7c7d" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref123" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Song</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9031dc5f8f836af1d53f9dbb1d8f51f1" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8002d0fa87e5acb45867dda775036f37" parent="aspace_9031dc5f8f836af1d53f9dbb1d8f51f1" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref124" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Serpent-slain Eagle</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1841/1841">1841</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6203a6bab4fef681086a760376f7d630" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2492966589d1e350ca8517845b58a43b" parent="aspace_6203a6bab4fef681086a760376f7d630" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref125" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Ad Amicum Carissimun</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_82df97f6ad460b303c90179d46c954ed" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_27aef6bbbfbcf5225eeb98e1a47aa907" parent="aspace_82df97f6ad460b303c90179d46c954ed" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref126" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">On Leaving the University</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_57622472049eb1852c40484773f29309" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_e7ce092d66faa77ab13d2ea15a723d63" parent="aspace_57622472049eb1852c40484773f29309" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref127" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Mother Fold Me To Thy Breast</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_1b533acb40db69a0f7fb097f8b1458cf" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_029985956f0fe79a716fe24aacc40035" parent="aspace_1b533acb40db69a0f7fb097f8b1458cf" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref128" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Ad Umbras Puellarium Trium</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b504862f1fd546a703d9244675d53083" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_ed6ecf4c222736652fc70f60fa413078" parent="aspace_b504862f1fd546a703d9244675d53083" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref129" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">An Angel From Heaven Such Honor Accord</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_129da845d1f1bff995a91fd0fc496fcb" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_9e98c581bc922f45a47560ee20411b54" parent="aspace_129da845d1f1bff995a91fd0fc496fcb" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref130" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">An Allegory</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_746bb96a0e1fba0781fb6e3073bf44ee" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_40586e434ac3daabe41a2717961094fc" parent="aspace_746bb96a0e1fba0781fb6e3073bf44ee" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref131" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">When The Wind And The Tempest</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4188c78216b19abb428383e8e3512e5d" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_3066ef83e480ea1bcf5fcbb3c221de50" parent="aspace_4188c78216b19abb428383e8e3512e5d" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref132" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">I'm Hastening To My Father</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_931cb35eb851a90284db47ace54c3a8b" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_bc7ba1881fed31fee02ccf675ef08cd6" parent="aspace_931cb35eb851a90284db47ace54c3a8b" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref133" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">I Would Go Where Hedron Floweth</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_25abe434333a4bc38cae008fc6debdf1" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_5fe4c7541ea024cba318980ca18c179b" parent="aspace_25abe434333a4bc38cae008fc6debdf1" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref134" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Evening Hymn</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ca77e77dd4188faccf2a94bcc55de739" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8871c0ba61ba6c8ca292bf7874cc053e" parent="aspace_ca77e77dd4188faccf2a94bcc55de739" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref135" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Gift Of The Heart</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_46c8998d12406348aa0fd33f5a450d4c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_a09973574a75b3fd1872eab718046d42" parent="aspace_46c8998d12406348aa0fd33f5a450d4c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref136" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To My Mother</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_484feb10114c70a7344e11cfb73118c5" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_35bd045feea0b77c84561416c09adc6e" parent="aspace_484feb10114c70a7344e11cfb73118c5" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref137" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Twelve Apostles</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2edaa30ad44eb80f41e58a57788b5298" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_64093d156119a645775ef57a250ed46c" parent="aspace_2edaa30ad44eb80f41e58a57788b5298" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref138" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Lavarium at Pompeii</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_168810f70c27c871386b4dfdb1f32cf7" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_f409d483ca5dd0a204e628d6fcf4dbd0" parent="aspace_168810f70c27c871386b4dfdb1f32cf7" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref139" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Maiden Alethe</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7d52c4926296f685458d849d910074fc" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_010c2ddd00dff445744bbc94455a57ef" parent="aspace_7d52c4926296f685458d849d910074fc" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref140" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Rose</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_405538982da58b82a88e5a06252e5e06" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_67f43cc332209f25ff8197c869cef9bf" parent="aspace_405538982da58b82a88e5a06252e5e06" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref141" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Golden Censer</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_a5db1349fc56f5990cc80b5b88ec4a37" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_c8d98f1393668e36e14d3088f9f034d5" parent="aspace_a5db1349fc56f5990cc80b5b88ec4a37" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref142" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Jesus</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1845/1845">1845</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2b3cdfa3c1c78e19d6e8f51fa65da653" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_ea7dc69ff71dd3ec88ab8b505ed857c6" parent="aspace_2b3cdfa3c1c78e19d6e8f51fa65da653" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref143" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Prayer For Mary</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1845/1845">1845</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_22b1cc668b196ef215a7b86746b63b49" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_fa79ac158cf257edbad0822584765aa3" parent="aspace_22b1cc668b196ef215a7b86746b63b49" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref144" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Holy Week</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1845/1845">1845</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b1f4d92b39d26471b999bf479ec39c6a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_552f717b2bbaaa1bfd0ef4050537ea86" parent="aspace_b1f4d92b39d26471b999bf479ec39c6a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref145" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">My Prayer Has Been For Thee</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1845/1845">1845</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3f246c5a84e63ec99a8e5cdad32ce82d" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_4e5a2dcb05753bf58a64b495579cd74a" parent="aspace_3f246c5a84e63ec99a8e5cdad32ce82d" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref146" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To Alethe</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8c8f00f383ca72ed237d6aabbf41289a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_30c4a21713138b76d2ed3af5b605bf8b" parent="aspace_8c8f00f383ca72ed237d6aabbf41289a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref147" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To Mary</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8f3ecf9f74b59dba9494a28f3c903bf4" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_3fcf4ae8580d7fb4e2aa11aff7ddd659" parent="aspace_8f3ecf9f74b59dba9494a28f3c903bf4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref148" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Jerusalem</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1845/1845">1845</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7efb364532a19b700fdae24b479123b5" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_3d30521d07440610a3af77376db5dd80" parent="aspace_7efb364532a19b700fdae24b479123b5" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref149" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">To My Sister</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1844/1844">1844</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6ecdaad4de5c2b3fabdedf609f405caf" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_34e5ecf950f78865e93424cd86022837" parent="aspace_6ecdaad4de5c2b3fabdedf609f405caf" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref150" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">We Have Decked Thine Holy Shrine</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_1efb48ad9f6a34d474570eb8179f89c4" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_538283249206568c19ae86a9abfba806" parent="aspace_1efb48ad9f6a34d474570eb8179f89c4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref151" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Sonnet de Des-Barreaux</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_70ed0ab2215f51a474c00ee00f4baf51" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_1956c09a0b1a624851d0a94156269e75" parent="aspace_70ed0ab2215f51a474c00ee00f4baf51" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref152" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Doxology</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_adc07a2ddcea8a323bcd64b3c80a4545" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_88dfbb6fffa4c2bf272f796e366fb00f" parent="aspace_adc07a2ddcea8a323bcd64b3c80a4545" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref153" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Jesu Miserre</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c13e208e1cde50bf4547eaa8b976a41a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_44c666aa014a4af0dbfcdce7ec23773e" parent="aspace_c13e208e1cde50bf4547eaa8b976a41a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref154" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Cara Epitaph</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4f95bc16fc065f397b453f13ad255f2d" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_b699b8596dbe77448f84c17f223beb3b" parent="aspace_4f95bc16fc065f397b453f13ad255f2d" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref155" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Cara</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1845/1845">1845</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c7a0bc514401609ab52bd737795d46fc" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_a130201e529fc6454bc90264b1eb97b0" parent="aspace_c7a0bc514401609ab52bd737795d46fc" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref156" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The White Robed</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1847/1847">1847</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_db96b860d7d34032e026f71b025ba53a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_b03eb02bdc98b553b2ffba1bb565469b" parent="aspace_db96b860d7d34032e026f71b025ba53a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref157" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Self</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1846/1846">1846</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_057a10baa9f338c694c089b16e07ce73" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_0e2d4753eb09d249eadb20533a064e18" parent="aspace_057a10baa9f338c694c089b16e07ce73" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref158" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Peace</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_68bc3d9ed3f760740b23580891b1d00d" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_4237df8d72bdaf4df5b161b3c3bd99e4" parent="aspace_68bc3d9ed3f760740b23580891b1d00d" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref159" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Ad Meipsum</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1846/1846">1846</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2195cbb1712a2fe3a343fb29a21281c5" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_5051946982904db27f0f951f66a362a1" parent="aspace_2195cbb1712a2fe3a343fb29a21281c5" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref160" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Ad Jesu Christum, Nobis Exemplar</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1846/1846">1846</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6b620c07ea56466a37c6469aabd875b4" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2454bc1daf5f2727715480551e7cc0d2" parent="aspace_6b620c07ea56466a37c6469aabd875b4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref161" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Renunciation</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1846/1846">1846</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5e335041eef6792400f6a4d1769a1fc4" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_78f3d646816144efb88a5541a9292cb7" parent="aspace_5e335041eef6792400f6a4d1769a1fc4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref162" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Bonum Est</title>
+              </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_adb6d9a2f708d1c7bc2ceb5d25b2bed6" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_d1f2a482ae12c5a22bc4fb34a9605d91" parent="aspace_adb6d9a2f708d1c7bc2ceb5d25b2bed6" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref163" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Heart Come Home</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1847/1847">1847</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_48edba7e9d7d3ba4103d55b315c826f6" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_39afb1a1d132c18dea0b8abd5d5ff6b4" parent="aspace_48edba7e9d7d3ba4103d55b315c826f6" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref164" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Tongue Refrain</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1847/1847">1847</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ab81cfbba324d03034bfb4a0c31fbfca" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_228b5e0dd0491232a65efa1c9d224ea8" parent="aspace_ab81cfbba324d03034bfb4a0c31fbfca" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref165" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Eyes Be Closed</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1847/1847">1847</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4563cf516a9857f9e1848f2ba2ddd206" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_1c831aaa249ea4ce036bcead43190c03" parent="aspace_4563cf516a9857f9e1848f2ba2ddd206" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref166" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">Mrs. Ballard</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1847/1847">1847</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_63639eec62574dfc48e901fdaf767234" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_beb230f2e9da986d9052daff97fee6d5" parent="aspace_63639eec62574dfc48e901fdaf767234" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref167" level="item">
+            <did>
+              <unittitle>
+                <title render="italic">The Antithesis</title>
+              </unittitle>
+              <unitdate datechar="creation" normal="1850/1850">1850</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_df3ba5d84d95c1f27f15ac346f27de54" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_1905d233f73fe22b634377b67a14ed79" parent="aspace_df3ba5d84d95c1f27f15ac346f27de54" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_bb24f909e46379a1fdca3b5a3265357e" level="file">
+          <did>
+            <unittitle>Nuage: Orations and Poetry photocopies</unittitle>
+            <unitdate datechar="creation" normal="1839/1850" type="inclusive">1839-1850</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ba183d00e2e301c1b9b5a1e22a68a84e" label="Mixed Materials [31142062743656]" type="Box">3</container>
+            <container id="aspace_a9473e8945d428acdec1c25774ab2108" parent="aspace_ba183d00e2e301c1b9b5a1e22a68a84e" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref168" level="series">
+        <did>
+          <unittitle>Series V, William Frank Burroughs</unittitle>
+          <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+        </did>
+        <scopecontent id="aspace_0bf967914f6d71597f9e05159a5f243a">
+          <head>Scope and Contents</head>
+          <p>This series contains one student notebook covering the Lectures on Natural Philosophy delivered by Professor Elias A. Loomis in 1858. Included in the notes are sections on pneumatics, acoustics, heat, magnetism, and optics.</p>
+        </scopecontent>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>Natural Philosophy: Professor Elias A. Loomis</unittitle>
+            <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_03bc229b2304404733a40d0bdbc6e837" label="Mixed Materials [31142062743656]" type="Box">3</container>
+            <container id="aspace_1bde4faae2a9e8c46d41bb4f6c9252f0" parent="aspace_03bc229b2304404733a40d0bdbc6e837" type="Folder">6</container>
+          </did>
+          <c id="aspace_a16b5163d1a55854b04a24e537050d43" level="item">
+            <did>
+              <unittitle> Lecture number: 1, PNEUMATICS</unittitle>
+              <unitdate datechar="creation" normal="1868/1868">1868</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_87976e663887da4666ff6a8e8f045034" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_6035a2b81bc0f9db8e08bfc83df8b0bf" parent="aspace_87976e663887da4666ff6a8e8f045034" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref170" level="item">
+            <did>
+              <unittitle>Lecture number: 1, Diving Bell</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3f766092e54055dd539d00a39f02bef0" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_feff05f1bd9ea5770414463262444c89" parent="aspace_3f766092e54055dd539d00a39f02bef0" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref171" level="item">
+            <did>
+              <unittitle>Lecture number: 1, Principle of the Air Pump</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_421652685462e6d5d0855772555f8a7d" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_a05057416b33b2a9e2ec6e208354a88a" parent="aspace_421652685462e6d5d0855772555f8a7d" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref172" level="item">
+            <did>
+              <unittitle>Lecture number: 1, Valves</unittitle>
+              <unitdate datechar="creation">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_51bf66ec53bd50993821af71e57f17eb" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_b0adc1431a429cf3139c15537dcd5dc0" parent="aspace_51bf66ec53bd50993821af71e57f17eb" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref173" level="item">
+            <did>
+              <unittitle>Lecture number: 2, Exhaustion of the receiver</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_98fbdf89b89f7850e68887f2623fe04e" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_afb81b5392c01a5866264328614b3f06" parent="aspace_98fbdf89b89f7850e68887f2623fe04e" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref174" level="item">
+            <did>
+              <unittitle>Lecture number: 2, The Condenser</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c03037d4ef78548b3062d09a73ab547d" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_09b3077c766cd78a06c30481fea0d66c" parent="aspace_c03037d4ef78548b3062d09a73ab547d" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref175" level="item">
+            <did>
+              <unittitle>Lecture number: 3, Magdeburg Hemispheres</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ab2f7d924f963a00f26499b4f3f2d989" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2afca85576f9615398675c22aa1905aa" parent="aspace_ab2f7d924f963a00f26499b4f3f2d989" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref176" level="item">
+            <did>
+              <unittitle>Lecture number: 3, The Barometer</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_79c05e88290b1acb148cc71ef249086f" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_26633c61d81a1fd7d8d38b6fe28b2aae" parent="aspace_79c05e88290b1acb148cc71ef249086f" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref177" level="item">
+            <did>
+              <unittitle>Lecture number: 5, Different Forms of Barometers</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_796fae0342f830effc076c34bf32e135" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8d5882d861027c3a2cdedfb6e6f47dac" parent="aspace_796fae0342f830effc076c34bf32e135" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref178" level="item">
+            <did>
+              <unittitle>Lecture number: 6, Maiotte's Law</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_634e2d327e596be5637e0371128ff260" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_52dd6c1ab7911014da32b780c5736789" parent="aspace_634e2d327e596be5637e0371128ff260" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref179" level="item">
+            <did>
+              <unittitle>Lecture number: 6, Observing the boiling point of water</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_df5e33494e8d6721526107451460de8c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_bed7f586a9e9dd07ba72c11bb00a327a" parent="aspace_df5e33494e8d6721526107451460de8c" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref180" level="item">
+            <did>
+              <unittitle>Lecture number: 8, The Suction Pump</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_d4600c51fe8ed12043aa63b9975b1314" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_0c876e92646fa8710d534021e9f9e431" parent="aspace_d4600c51fe8ed12043aa63b9975b1314" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref181" level="item">
+            <did>
+              <unittitle>Lecture number: 8, The Forcing Pump</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4ac181eac0f587679a83ea80b6b3322b" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_5e5475eeb6dfd8db8ceff5ffb67a06e3" parent="aspace_4ac181eac0f587679a83ea80b6b3322b" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref182" level="item">
+            <did>
+              <unittitle>Lecture number: 8, The Fire Engine</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5d5c8701a4da1a31de8c87a58d623fe6" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_0d5e9ee25bc060bdb1a85e204d47bd8b" parent="aspace_5d5c8701a4da1a31de8c87a58d623fe6" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref183" level="item">
+            <did>
+              <unittitle>Lecture number: 9, The Syphon</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6d27c68b9acb2ae472a8167a9ea3d33a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_b3d9ed3f236e2032b37ae14cfb8c4103" parent="aspace_6d27c68b9acb2ae472a8167a9ea3d33a" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref184" level="item">
+            <did>
+              <unittitle>Lecture number: 10, ACOUSTICS</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_456f0884b4b72c60f910bba3ac26e103" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_3fe08969e1078d059a9086de29a63e36" parent="aspace_456f0884b4b72c60f910bba3ac26e103" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref185" level="item">
+            <did>
+              <unittitle>Lecture number: 11, Theory of waves in liquid bodies</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_872c8beb006d2a8a1e7ab16dfc561785" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_4b8d85222f704130b7652c567f86b7ef" parent="aspace_872c8beb006d2a8a1e7ab16dfc561785" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref186" level="item">
+            <did>
+              <unittitle>Lecture number: 12, Velocity of sound</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_dfba9eb4b7f1fc87457a84b4d7291063" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_ed845509025c95cdab0c7cda794d910d" parent="aspace_dfba9eb4b7f1fc87457a84b4d7291063" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref187" level="item">
+            <did>
+              <unittitle>Lecture number: 13, Theory of echoes</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_068034b160404325ff5cd3974be78bdb" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_4c5e77cd30b00bd96110d4bb02b30cb6" parent="aspace_068034b160404325ff5cd3974be78bdb" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref188" level="item">
+            <did>
+              <unittitle>Lecture number: 14, Musical Sounds</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_659fed447fb07421a1ec4b35c7079e55" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_a04b42e3a06d3ff62390ae95bf2ba34a" parent="aspace_659fed447fb07421a1ec4b35c7079e55" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref189" level="item">
+            <did>
+              <unittitle>Lecture number: 15, Vibrations of strings</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2246560914104420ccfa899226ba5717" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_fae241b24a122612fb7f57639d3ff289" parent="aspace_2246560914104420ccfa899226ba5717" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref190" level="item">
+            <did>
+              <unittitle>Lecture number: 16, Musical Chords</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_38b0644a65bdbc167b5e226ae89fdfde" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_5aefd2df25572a93e9cbe4e7a41ba48b" parent="aspace_38b0644a65bdbc167b5e226ae89fdfde" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref191" level="item">
+            <did>
+              <unittitle>Lecture number: 17, Vibrations of thin plates</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b631a82ade4231cb28be6dfecb75add7" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_581ee0656b3b1991d22371f8daa8cde2" parent="aspace_b631a82ade4231cb28be6dfecb75add7" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref192" level="item">
+            <did>
+              <unittitle>Lecture number: 18, Organ of Voice</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_0c89a8c5adfc79568943b1f4a3974be2" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_8c7e2df5af58ff4002860a798d8db62b" parent="aspace_0c89a8c5adfc79568943b1f4a3974be2" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref193" level="item">
+            <did>
+              <unittitle>Lecture number: 19, HEAT</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2daee5c8bea0a4d1203ad355b1c78b59" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_7199b7a413061f2a4217b05752ced065" parent="aspace_2daee5c8bea0a4d1203ad355b1c78b59" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref194" level="item">
+            <did>
+              <unittitle>Lecture number: 20, Air Thermometer</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_56b5ce40518833c872f93a52da4f0863" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_160a4ad20725427abb031a06bab2fb91" parent="aspace_56b5ce40518833c872f93a52da4f0863" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref195" level="item">
+            <did>
+              <unittitle>Lecture number: 21, Conduction</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_300733bbbe3b57ed42da1859461f4669" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_af56244e33fd541a482f89f8425804a9" parent="aspace_300733bbbe3b57ed42da1859461f4669" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref196" level="item">
+            <did>
+              <unittitle>Lecture number: 22, Latent Heat</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8d3800fb335d4ef8c7373074b261a9f5" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_5e3c7b7e25814967bfa308a434385c1b" parent="aspace_8d3800fb335d4ef8c7373074b261a9f5" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref197" level="item">
+            <did>
+              <unittitle>Lecture number: 23, The Pulse Glass</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_19ec13a8fc178857aa032167fe75a194" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_f37beb6cb90ccce29c032c9edf979634" parent="aspace_19ec13a8fc178857aa032167fe75a194" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref198" level="item">
+            <did>
+              <unittitle>Lecture number: 24, The Steam Engine</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9c2d760c998db583fef947cfd4116522" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_caae0e67252f8d9755e98eca92640b1f" parent="aspace_9c2d760c998db583fef947cfd4116522" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref199" level="item">
+            <did>
+              <unittitle>Lecture number: 25, High Pressure Engine</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5ee88667573fad284be421a8976ca056" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_938f2458ebaa61b0210a74055821fc56" parent="aspace_5ee88667573fad284be421a8976ca056" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref200" level="item">
+            <did>
+              <unittitle>Lecture number: 26, Watt's Double Acting Engine</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b3102d057d9182c47ba433ad91a2124c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2f7d0e1f8bc3975bfd5f360505b1381b" parent="aspace_b3102d057d9182c47ba433ad91a2124c" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref201" level="item">
+            <did>
+              <unittitle>Lecture number: 27, Definition of Horse Power</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_032f5d502f6bbf93e156b42dba096dfa" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_540bc2a0b82f04a6f6808f450daeaee6" parent="aspace_032f5d502f6bbf93e156b42dba096dfa" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref202" level="item">
+            <did>
+              <unittitle>Lecture number: 28, MAGNETISM</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9f7357e692a30e89e9d2b17092c6a57d" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_410f2c2079ead780813b3db7f47751f9" parent="aspace_9f7357e692a30e89e9d2b17092c6a57d" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref203" level="item">
+            <did>
+              <unittitle>Lecture number: 29, Austral fluid and Boreal fluid</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8ccf27acab37ba327e98d453a25b734c" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2a9c88c49b1f1df96a2be77c40e38484" parent="aspace_8ccf27acab37ba327e98d453a25b734c" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref204" level="item">
+            <did>
+              <unittitle>Lecture number: 30, Magnetic Waves</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_fd0fd68eead481435f6e7389c8049112" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_48e52d058c9b828152cc5684796f1b95" parent="aspace_fd0fd68eead481435f6e7389c8049112" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref205" level="item">
+            <did>
+              <unittitle>Lecture number: 31, Terrestrial Magnetism</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_d8334d9225f5956ddada4bef2d5ed5f2" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_057f07ae7aa8d7f2e7198d286903b5d7" parent="aspace_d8334d9225f5956ddada4bef2d5ed5f2" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref206" level="item">
+            <did>
+              <unittitle>Lecture number: 32, Declination</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_45a4170f1905fc4c1a6b4d901aa04642" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_041db0164d908eda1db44310e15ed720" parent="aspace_45a4170f1905fc4c1a6b4d901aa04642" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref207" level="item">
+            <did>
+              <unittitle>Lecture number: 33, Intensity of terrestrial magnetism</unittitle>
+              <unitdate datechar="creation">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4ee7fe55901ee58c766f1fb958ae186a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_3729c3b9f6abb0d98ca4a5291a28d9be" parent="aspace_4ee7fe55901ee58c766f1fb958ae186a" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref208" level="item">
+            <did>
+              <unittitle>Lecture number: 34, OPTICS</unittitle>
+              <unitdate datechar="creation">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_57a06a0afcfa349f8741cd46161da126" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_d2b8116cef05f988a12ba9854bb4b367" parent="aspace_57a06a0afcfa349f8741cd46161da126" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref209" level="item">
+            <did>
+              <unittitle>Lecture number: 35, Reflection of Light</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_dadf76dc8dfef0b01f21c01147c1e596" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_afb97933667e64d3840a920f0ee4778f" parent="aspace_dadf76dc8dfef0b01f21c01147c1e596" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref210" level="item">
+            <did>
+              <unittitle>Lecture number: 36, The Kaleidoscope</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_801fc4a631cc88acdc6e9e8ec25d1bf9" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_6610f200b116f4f483325ff0d23fdbd1" parent="aspace_801fc4a631cc88acdc6e9e8ec25d1bf9" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref211" level="item">
+            <did>
+              <unittitle>Lecture number: 37, Mirrors</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4c234040e35aa8eb011051fbd7218355" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_2ed3f077f4abdafaf3745710d4c16df5" parent="aspace_4c234040e35aa8eb011051fbd7218355" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref212" level="item">
+            <did>
+              <unittitle>Lecture number: 38, Refraction of Light</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e5c62f262bbe541c7b5812cc2c08158a" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_fcdc5fb01a60425f9e30a96e8fda2ef6" parent="aspace_e5c62f262bbe541c7b5812cc2c08158a" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref213" level="item">
+            <did>
+              <unittitle>Lecture number: 39, Axis of a lens</unittitle>
+              <unitdate datechar="creation" normal="1858/1858">1858</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_62c906deffe54cf7d010332d76c99984" label="Mixed Materials [31142062743656]" type="Box">3</container>
+              <container id="aspace_d4038d9341910601edccaf5fcfd879c0" parent="aspace_62c906deffe54cf7d010332d76c99984" type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref214" level="series">
+        <did>
+          <unittitle>Series VI, John Henry MacCracken </unittitle>
+          <unitdate datechar="creation" normal="1892/1893" type="inclusive">1892-1893</unitdate>
+        </did>
+        <scopecontent id="aspace_03edb08110040aad051d11d84c834430">
+          <head>Scope and Contents</head>
+          <p>Series VI contains the student notebook of John Henry MacCracken which includes the 1895 lecture of Professor John J. Stevenson on Physiology and the 1893 lecture of Professor Henry Mitchell MacCracken on Church History.</p>
+        </scopecontent>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>Notes on Physiology: Professor John J. Stevenson and Lectures on Church History: Professor Henry M. MacCraken</unittitle>
+            <unitdate datechar="creation" normal="1892/1893" type="inclusive">1892-1893</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e84bb3c01712cbdeab3313938ec84aeb" label="Mixed Materials [31142062743649]" type="Box">4</container>
+            <container id="aspace_76c1d6636f9abb0277f1c49ab5624c30" parent="aspace_e84bb3c01712cbdeab3313938ec84aeb" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref216" level="series">
+        <did>
+          <unittitle>Series VII, Elbert William Brown </unittitle>
+          <unitdate datechar="creation" normal="1897/1897">1897</unitdate>
+        </did>
+        <scopecontent id="aspace_1d7239558a22fb3622ee77a036e441ed">
+          <head>Scope and Contents</head>
+          <p>Series VII consists of a single notebook. The cover of the notebook had a date of November 1897 and includes the notes of the lectures delivered by instructor John Henry MacCracken on Philosophy.</p>
+        </scopecontent>
+        <c id="aspace_ref217" level="file">
+          <did>
+            <unittitle>Philosophy: Professor John Henry MacCracken</unittitle>
+            <unitdate datechar="creation" normal="1897/1897">1897</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fa71c561e05f7756ea7ab63c2eec6e64" label="Mixed Materials [31142062743649]" type="Box">4</container>
+            <container id="aspace_f3b952f808b24066c017bc7cb78364c4" parent="aspace_fa71c561e05f7756ea7ab63c2eec6e64" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref218" level="series">
+        <did>
+          <unittitle>Series VIII, John Torrey </unittitle>
+          <unitdate datechar="creation" normal="1883/1938" type="inclusive">1883, 1938</unitdate>
+        </did>
+        <scopecontent id="aspace_70ed70d77d06c5d5f21713592b5968ea">
+          <head>Scope and Contents</head>
+          <p>Series VIII contains a diary of John Torrey while he was traveling abroad in Europe. Included in this diary are references to his "natural system" of botanical classification.</p>
+        </scopecontent>
+        <c id="aspace_df42f119f262f5b9241e7f94163777df" level="file">
+          <did>
+            <unittitle>Catalogue of North American Plants</unittitle>
+            <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2d506a26a5459bf4335a4289e89e8aa7" label="Mixed Materials [31142062743649]" type="Box">4</container>
+            <container id="aspace_d5488a56d6c10ac468797cdebff69857" parent="aspace_2d506a26a5459bf4335a4289e89e8aa7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>User Copy of Torrey's Diary</unittitle>
+            <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3d289387844fdbd5086497fad1871796" label="Mixed Materials [31142062743649]" type="Box">4</container>
+            <container id="aspace_d206aa9273e9b511b7784fa4ca63202c" parent="aspace_3d289387844fdbd5086497fad1871796" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="file">
+          <did>
+            <unittitle>Pages Removed From Diary During Preservation Treatment</unittitle>
+            <unitdate datechar="creation" normal="1833/1833">1833</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cbb9dc3ad7271ac35c999c0565be92de" label="Mixed Materials [31142062743649]" type="Box">4</container>
+            <container id="aspace_92fd0ccd6461cafa9b78a1fd9be6f3d2" parent="aspace_cbb9dc3ad7271ac35c999c0565be92de" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="file">
+          <did>
+            <unittitle>Letters Concerning Torrey Material</unittitle>
+            <unitdate datechar="creation" normal="1938/1938">1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b6ee6f9116e0f58a38f214d558dcfd2" label="Mixed Materials [31142062743649]" type="Box">4</container>
+            <container id="aspace_21ea1268acd4c26819815be65d72e337" parent="aspace_1b6ee6f9116e0f58a38f214d558dcfd2" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref222" level="series">
+        <did>
+          <unittitle>Series IX, Howard Crosby</unittitle>
+          <unitdate datechar="creation" normal="1886/1886">1886</unitdate>
+        </did>
+        <scopecontent id="aspace_d45e97c4c8d150e0df0dd4a7882e424f">
+          <head>Scope and Contents</head>
+          <p>Series IX consists of one journal, which contains sermons written by Howard Crosby.</p>
+        </scopecontent>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>The Revelation of Saint John: Sermons by Howard Crosby</unittitle>
+            <unitdate datechar="creation" normal="1886/1886">1886</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f4964ece2aeddad2b5015889f39b5c55" label="Mixed Materials [31142062743649]" type="Box">4</container>
+            <container id="aspace_a1748ee6c13965d861cd34507075d15f" parent="aspace_f4964ece2aeddad2b5015889f39b5c55" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
