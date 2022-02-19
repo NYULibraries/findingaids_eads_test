@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NHi">nyhs_friendsofcityhallpark</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Friends of City Hall Park Papers<lb/>
+1992-2009<lb/> <num>MS 1335</num></titleproper>
+        <author>Christine George with additions by Catherine Newton</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New-York Historical Society</publisher>
+        <p>
+          <date>2011</date>
+        </p>
+        <address>
+          <addressline>170 Central Park West</addressline>
+          <addressline>New York, NY 10024</addressline>
+          <addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-04-12 13:32:42 -0400</date>.</creation>
+      <langusage>Finding Aid is written in English.<lb/></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New-York Historical Society</corpname>
+      </repository>
+      <unittitle>Friends of City Hall Park Papers</unittitle>
+      <origination label="Creator">
+        <corpname rules="rda" source="local">Friends of City Hall Park</corpname>
+      </origination>
+      <unitid>MS 1335</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
+        <extent altrender="carrier">(6 boxes, 1 oversized folder)</extent>
+      </physdesc>
+      <unitdate normal="1992/2009" type="inclusive">1992-2009 (Bulk 1997-2007)</unitdate>
+      <abstract id="aspace_b0cb48292239b22dbdf00fd317a26401">The Friends of City Hall Park Papers contain materials from the Friends of City Hall Park, an advocacy group, and its campaigns to better City Hall Park in lower Manhattan. Within this collection are materials pertaining to the park itself as well as other organizations that assisted Friends of City Hall Park. The materials include correspondence, ephemera, newspaper clippings, and maps.</abstract>
+      <langmaterial id="aspace_969dccda1e01d91f90e5747a67cc5040">The Friends of City Hall Park Papers are written in English.</langmaterial>
+    </did>
+    <arrangement id="aspace_325010da551150bde4b6fe3d56e593d6">
+      <head>Arrangement Note</head>
+      <p>The Friends of City Hall Park Papers are arranged into three series. Within those series, the materials are arranged into subseries and chronologically into folders.</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Friends of City Hall Park </item>
+        <item>Series II: Government, Park, Activist, and Other Organizations </item>
+        <item>Series III: New York City Parks</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_f443d29e10a2d63074917d958cb7d0dd">
+      <head>Historical Note</head>
+      <chronlist>
+        <head>Missing Title</head>
+        <chronitem>
+          <date>1765</date>
+          <eventgrp>
+            <event>New Yorkers protested the Stamp Act in the Commons</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1766 </date>
+          <eventgrp>
+            <event>The Sons of Liberty erected (and then repeatedly re-erected) a Liberty Pole in the Commons</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>July 9, 1776 </date>
+          <eventgrp>
+            <event>The Declaration of Independence was read in the Commons in the presence of General George Washington</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>November 25, 1783 </date>
+          <eventgrp>
+            <event>The American Flag was raised over the Commons after the British evacuated New York</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1803 </date>
+          <eventgrp>
+            <event>Construction began on City Hall, changing the Commons' name to City Hall Park</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1827 </date>
+          <eventgrp>
+            <event>A parade celebrating New York's abolition of slavery stopped in the Park</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1842 </date>
+          <eventgrp>
+            <event>Croton Fountain was  built on the Southside of the Park</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1870 </date>
+          <eventgrp>
+            <event>The Federal Post Office was built and destroyed the triangular shape of the Park</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>December 31, 1897 </date>
+          <eventgrp>
+            <event>New Yorkers gather in the Park to celebration the creation of the City of Greater New York</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1903 </date>
+          <eventgrp>
+            <event>The Park's gas lampposts were replaced with electric lampposts</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1920 </date>
+          <eventgrp>
+            <event>The Croton Fountain was replaced with a statue</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1939 </date>
+          <eventgrp>
+            <event>The Federal Post Office was torn down and the Park returned to a triangular shape</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1978 </date>
+          <eventgrp>
+            <event>The Delacorte Family donated a fountain to the Park</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1996 </date>
+          <eventgrp>
+            <event>Friends of City Hall Park was founded</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1997 </date>
+          <eventgrp>
+            <event>Renovations began in the Park</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1999 </date>
+          <eventgrp>
+            <event>City Hall Park was rededicated</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>2001 </date>
+          <eventgrp>
+            <event>The Northern portion of the Park was closed to the public due to the September 11 terrorist attacks</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>July 2007 </date>
+          <eventgrp>
+            <event>The Park was again completely open to the public</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <p>Older than New York City itself, City Hall Park has played an important role for all who settled in Manhattan. When New York was the Dutch colony, New Amsterdam, the land that is currently known as City Hall Park was referred to as the Commons and was used as a pasture, parade ground, and gathering space. Public executions took place there and, during different periods, it provided space for an almshouse and prison. </p>
+      <p>When the land was under British rule, the Commons became an important place for those inclined towards revolution. New Yorkers protested the Stamp Act there in 1765. The Sons of Liberty, the rebels who helped spark the American Revolution, erected a Liberty Pole outside the soldiers' barracks in 1766. When the British chopped the pole down, it was replaced. This continued five times. (Today, there is a replica of the Liberty Pole between City Hall and Broadway.) On July 9, 1776, the Declaration of Independence was read in the Commons, in front of George Washington, Continental Army soldiers, and New Yorkers. After the British evacuation of New York on November 25, 1783, the American flag was raised over the Commons.</p>
+      <p>In the early nineteenth century, the Commons began to evolve into City Hall Park. In 1802 there was a contest to design a new City Hall. The first stone was laid in 1803 and by 1812 the building had been opened to the public. Keeping with its past, when slavery was abolished in New York in 1827, part of the celebration was a parade that stopped in City Hall Park. To mark the Croton Aqueduct's opening in 1842—which was the first dependable source of pure water in New York City—the Croton Fountain was built on the Park's south side. During the American Civil War, there were a number of temporary buildings, including soldiers' barracks—put up all over the Park. </p>
+      <p>Until 1870, City Hall Park had a triangular shape. However, when the Federal Post Office was built on the southern tip of the park, the shape changed. The Croton fountain had been removed to be replaced by a granite fountain placed in the center of the Park. Though it had begun to change, New Yorkers still gathered in the Park to celebrate as they did on December 31, 1897 to celebrate the City of Greater New York when Brooklyn, Queens, Staten Island, the Bronx, and Manhattan consolidated into one city. City Hall Park began to mark technological changes as its gas lighting was replaced in 1903 with electric lampposts. In 1920, the Park lost its fountain and replaced it with a statue called "Civic Virtue." (The statue was eventually moved to Queens Borough Hall in 1941.) As the country was engulfed in the Great Depression in the 1930s, City Hall Park was once again used as a place of protest.</p>
+      <p>Towards the end of the Great Depression, City officials began to think about renovating the Park. In 1939, the Federal Post Office was torn down, which restored the Park to its former triangular shape. The Delacorte Family donated a fountain to the Park in 1978 which remained in the Park until 1999. Even with the new fountain, the Park began to be neglected and fell into disrepair in the 1980s and 1990s.</p>
+      <p>Aware of City Hall Park's history as well as its deteriorating state, neighborhood residents and local businesses came together in 1996 to found Friends of City Hall Park (FCHP). FCHP is an activist organization dedicated to support City Hall Park as a civic center and neighborhood park. In 1997, FCHP produced a "State of the Park" report which determined that immediate action needed to be taken to restore the Park to its former glory. FCHP acted as an advocate for the park, drawing the public's attention to its condition, calling for its renovation. In order to advance its goals, the FCHP joined its efforts with organizations such as the Parks Department, New York City and State officials, Community Organization No. 1, Partnerships for Parks, New Yorkers for Parks, and other community and activist organizations. In Fall 1998 FCHP was successful and construction began to renovate the Park. The Park was rededicated in 1999 by New York City Mayor Rudolph W. Giuliani. After the attacks on September 11, 2001, a portion of City Hall Park was closed to the public. FCHP, led by its president Skip Blumberg, began a six year campaign to have the Northern section of the Park opened again to the public. In July 2007 the entirety of City Hall Park was once again open to the public. </p>
+      <p><emph render="italic">City Hall Park: New York's Historic Commons</emph>  (New York: City of New York, 1999).</p>
+    </bioghist>
+    <prefercite id="aspace_341ef08177c4fe7922fa9b55139455ff">
+      <head>Preferred Citation Note</head>
+      <p>This collection should be cited as the Friends of City Hall Park Papers, MS 1335, The New-York Historical Society.</p>
+    </prefercite>
+    <userestrict id="aspace_0ace885a08f67616f3aff8ed4d96f1ce">
+      <head>Use Restrictions</head>
+      <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote to: Manuscript Curator, The New-York Historical Society, 170 Central Park West, New York, NY 10024</p>
+    </userestrict>
+    <accessrestrict id="aspace_86543bb10ec4689f622ffa1c82398369">
+      <head>Access Restrictions</head>
+      <p>Open to qualified researchers.</p>
+    </accessrestrict>
+    <scopecontent id="aspace_a599ac96f0f1ebb1525d48e5e23dfdd5">
+      <head>Scope and Content Note</head>
+      <p>The Friends of City Hall Park Papers consist mainly of materials generated by the organization from the 1990's through the 2000's. The bulk of materials are handouts and fliers concerning the organization's goals and efforts. There is also a large amount of correspondence, both to and from the Friends of City Hall Park. The collection also has similar materials from government and other community organizations that were involved with the campaign to restore City Hall Park. There is a variety of ephemera from these organizations, taking the form of fliers, a t shirt, buttons, and other materials. </p>
+      <p>There is also information about City Hall Park itself as well as other urban parks within New York City. There are maps of the parks, information on plants and animals, as well as advice on gardening.</p>
+      <p>The collection contains materials from the start of the Friends of City Hall Park through its successful campaign to reopen the Northern section of the Park after it was closed following the September 11, 2001 terrorist attacks.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_61df15fb8cc266efda300ffa81123838">
+      <head>Related Archival Materials Note</head>
+      <p>In its main collection the New-York Historical Society Library holds several volumes about City Hall Park. For information concerning advocacy for other New York City parks, please see the Shirley Hayes Papers at the New-York Historical Society Library.</p>
+    </relatedmaterial>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Newspapers.</genreform>
+      <genreform source="aat">Ephemera.</genreform>
+      <genreform source="aat">Pamphlets.</genreform>
+      <genreform source="aat">Legal correspondence</genreform>
+      <subject source="lcsh">Urban parks -- New York (State)  -- New York. </subject>
+      <geogname source="lcsh">New York (N.Y.)</geogname>
+      <subject source="lcsh">City Hall Park (New York, N.Y.)</subject>
+      <persname source="naf">Giuliani, Rudolph W.</persname>
+      <persname rules="rda" source="naf">Bloomberg, Michael</persname>
+      <persname rules="rda" source="naf">Blumberg, Skip</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1_t7x" level="series">
+        <did>
+          <unittitle>Series I: Friends of City Hall Park</unittitle>
+          <unitdate normal="1996/2009" type="inclusive">1996-2009</unitdate>
+        </did>
+        <scopecontent id="aspace_7b9dddbc8dcdfb3117e61e5892fa786d">
+          <head>Scope and Content</head>
+          <p>Within this series there is a wide variety of material from the Friends of City Hall Park, dating back to its formation. These materials consist of correspondence, newspaper articles, information handouts, notes, and ephemera.</p>
+        </scopecontent>
+        <c id="aspace_ref14_5a4" level="subseries">
+          <did>
+            <unittitle>Subseries A: Correspondence </unittitle>
+            <unitdate normal="1996/2008" type="inclusive">1996-2008, undated</unitdate>
+            <container id="aspace_6b2076b3e411bbd02bc173b76439580b" label="Mixed Materials" type="Box">1</container>
+          </did>
+          <scopecontent id="aspace_92ff198155a3620bfac974363b12ce65">
+            <head>Scope and Content</head>
+            <p>This subseries contains correspondence both to and from the Friends of City Hall Park. Within the correspondence from the Friends of City Hall Park, the correspondence is both to New York City officials and to other organizations. Many of the letters to the Friends of City Hall Park are from civic officials, responding to letters that had been sent to them. Many of the aforementioned correspondence was either signed by or written to Skip Blumberg, president of  Friends of City Hall Park. Of particular interest is the correspondence from letter writing campaigns. New Yorkers wrote to officials, letting them know what City Hall Park means to them. In one instance, a woman wrote to George Steinbrenner, former owner of the New York Yankees, urging him to support City Hall Park.</p>
+          </scopecontent>
+          <c id="aspace_ref15_ic6" level="file">
+            <did>
+              <unittitle>Correspondence to Friends of City Hall Park </unittitle>
+              <unitdate normal="1996/2000" type="inclusive">1996-2000</unitdate>
+              <container id="aspace_b0f026b4f3cf137b0294f72ac476702f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_ac9f3992b0176faae7edfeb801f8301d" parent="aspace_b0f026b4f3cf137b0294f72ac476702f" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref16_nyx" level="file">
+            <did>
+              <unittitle>Correspondence to Friends of City Hall Park </unittitle>
+              <unitdate normal="2001/2008" type="inclusive">2001-2008, undated </unitdate>
+              <container id="aspace_8792175042127f6675ba58ba5fffc14f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a72a1dbb557870eaa4cdbdb69c5ccab2" parent="aspace_8792175042127f6675ba58ba5fffc14f" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref17_9vr" level="file">
+            <did>
+              <unittitle>Correspondence from Friends of City Hall Park </unittitle>
+              <unitdate normal="1997/2001" type="inclusive">1997-2001</unitdate>
+              <container id="aspace_9c5ec89e14cc39379bbf549ad76df9d9" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_fb8cf188b4fde84ae0920c90cc41005d" parent="aspace_9c5ec89e14cc39379bbf549ad76df9d9" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref18_cwu" level="file">
+            <did>
+              <unittitle>Correspondence from Friends of City Hall Park </unittitle>
+              <unitdate normal="2002/2007" type="inclusive">2002-2007, undated</unitdate>
+              <container id="aspace_c9db817f62f88495981dd238e1ecca29" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_cebc79db9a2a0f42121da6311826ddfb" parent="aspace_c9db817f62f88495981dd238e1ecca29" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref19_gza" level="file">
+            <did>
+              <unittitle>Legal Correspondence and Memos </unittitle>
+              <unitdate normal="1998/2008" type="inclusive">1998-2008, undated</unitdate>
+              <container id="aspace_ab7955fd54c70c7dc334e8790060aec7" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_06ff6bf9e65ea17342b164262c7bce83" parent="aspace_ab7955fd54c70c7dc334e8790060aec7" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref20_zw0" level="file">
+            <did>
+              <unittitle>Letter Campaigns </unittitle>
+              <unitdate normal="1997/2000" type="inclusive">1997-2000, undated</unitdate>
+              <container id="aspace_6f16023f27ae4bc6f33d49a046c11556" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_ee6bdde6b47eba30f0cecf67fea3c1d2" parent="aspace_6f16023f27ae4bc6f33d49a046c11556" type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref21_mga" level="subseries">
+          <did>
+            <unittitle>Subseries B: Administrative and Promotional Materials </unittitle>
+            <unitdate normal="1996/2009" type="inclusive">1996-2009, undated</unitdate>
+            <container id="aspace_c1934b8ed3b8e57c9cc575f0dae0c84f" label="Mixed Materials" type="Box">1</container>
+          </did>
+          <scopecontent id="aspace_e7e58f60a0ca3fac421b3b4ac29ecece">
+            <head>Scope and Content</head>
+            <p>Within this subseries are materials that the Friends of City Hall Park utilized in its everyday operations. The bulk of this subseries is made up of information materials that outline the Friends' campaign to better City Hall Park and the various issues that the park faced.</p>
+          </scopecontent>
+          <c id="aspace_ref22_bu5" level="file">
+            <did>
+              <unittitle>Corporate Organization Papers </unittitle>
+              <unitdate normal="1999/1999" type="inclusive">1999, undated</unitdate>
+              <container id="aspace_5e64f27741d1b568fc93de8e661d180d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_66854dafcbaf51083efa0bfb49c2c870" parent="aspace_5e64f27741d1b568fc93de8e661d180d" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref23_vtt" level="file">
+            <did>
+              <unittitle>Friends of City Hall Park Information Materials </unittitle>
+              <unitdate normal="1996/1998" type="inclusive">1996-1998</unitdate>
+              <container id="aspace_01bcd8ffc5f8ea983e9bc0bed77e8b59" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_c23dd2badbcc1d74e267ada50fe00cb4" parent="aspace_01bcd8ffc5f8ea983e9bc0bed77e8b59" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref24_g2l" level="file">
+            <did>
+              <unittitle>Friends of City Hall Park Information Materials </unittitle>
+              <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
+              <container id="aspace_0e4ddb6eabb9df6db1c0fc72d86cfc56" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_b4d92f134b7447b5c04ce28a7d32ceee" parent="aspace_0e4ddb6eabb9df6db1c0fc72d86cfc56" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref25_vy2" level="file">
+            <did>
+              <unittitle>Friends of City Hall Park Information Materials </unittitle>
+              <unitdate normal="2001/2008" type="inclusive">2001-2008</unitdate>
+              <container id="aspace_b6e6b6a471177211751f53eb96e58170" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_08ef5ea373301cf53990a96993003dc4" parent="aspace_b6e6b6a471177211751f53eb96e58170" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref26_j1j" level="file">
+            <did>
+              <unittitle>Friends of City Hall Park Information Materials </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_312e6d162c40d54c7ed640f788f1a074" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_82a4f6b6cc0a28193f21ad85d632eb31" parent="aspace_312e6d162c40d54c7ed640f788f1a074" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref27_7fc" level="file">
+            <did>
+              <unittitle>Portions of Speeches, Articles, and other Promotional Material </unittitle>
+              <unitdate normal="1997/1999" type="inclusive">1997-1999, undated</unitdate>
+              <container id="aspace_d66c00ddfefe215eeed664e6fb7da5ec" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f6376c464bfdeac6f51f4811c53d9d05" parent="aspace_d66c00ddfefe215eeed664e6fb7da5ec" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref28_e3r" level="file">
+            <did>
+              <unittitle>Administrative and Event Notes </unittitle>
+              <unitdate normal="1997/2009" type="inclusive">1997-2009, undated </unitdate>
+              <container id="aspace_3cf942688d0e9545f6a7165ccf447a5f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_8a05212c080de6f8c807c5d40306a5af" parent="aspace_3cf942688d0e9545f6a7165ccf447a5f" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref29_q18" level="file">
+            <did>
+              <unittitle>Fundraising Information and Notes  </unittitle>
+              <unitdate normal="1998/1999" type="inclusive">1998-1999, undated</unitdate>
+              <container id="aspace_a7d655af003e499fcc78de044dc754a0" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_85742f114e1cf62f98fa44bb71836cd4" parent="aspace_a7d655af003e499fcc78de044dc754a0" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref30_pg5" level="file">
+            <did>
+              <unittitle>Letterhead  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_2b42cb8da171bbf0c62861b84b05e4a5" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f9ee960c79a9dfe97060a85311de8ca3" parent="aspace_2b42cb8da171bbf0c62861b84b05e4a5" type="Folder">15</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref31_ao7" level="subseries">
+          <did>
+            <unittitle>Subseries C: Multimedia Materials </unittitle>
+            <unitdate>1996-2004, undated</unitdate>
+            <container id="aspace_bc5539c3b569e6c7a5da59c6b12b974f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ecfc2eff47c1627578dd6ee503401507" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ebda7e3ad1ed8fb26628084d172d474a" label="Mixed Materials" type="Box">2</container>
+          </did>
+          <scopecontent id="aspace_e36cf972638187da4c85a9b4a4d2235f">
+            <head>Scope and Content</head>
+            <p>There are a wide variety of materials within this subseries, all of which document the Friends of City Hall Park. There are DVDs of appearances made by Skip Blumberg, president of the Friends of City Hall Park. There are also many photographs of the members of the organization as well as others who partook in various events at City Hall Park. The bulk of the photographs were taken in 1997. There are also two VHS tapes, one of which is the 1996 major motion picture <emph render="italic">City Hall</emph>, starring Al Pacino, John Cusack, and Bridget Fonda. The other VHS is of a more personal nature, entitled <emph render="italic">Skip…The Best Friend of City Hall Park</emph>. There is also an autographed copy of the 1997 book, <emph render="italic">Sleeping with the Mayor</emph>, which tells the story of protesters in City Hall Park.</p>
+          </scopecontent>
+          <c id="aspace_ref32_pna" level="file">
+            <did>
+              <unittitle>CDs, DVDs, and Zip Disks </unittitle>
+              <unitdate normal="2007/2007" type="inclusive">2007, undated </unitdate>
+              <container id="aspace_bb97069d0e607a2961c0d8fdd49f1358" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_3cfa59660dd092f728d23a6adc1e8f19" parent="aspace_bb97069d0e607a2961c0d8fdd49f1358" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref33_6pr" level="file">
+            <did>
+              <unittitle>Photographs  </unittitle>
+              <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+              <container id="aspace_f467629585d46720a5946611f70d20aa" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_03a1aed69b6bfb68cef6e7eae9b69f31" parent="aspace_f467629585d46720a5946611f70d20aa" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref34_w66" level="file">
+            <did>
+              <unittitle>Photographs </unittitle>
+              <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+              <container id="aspace_88ad90fa7417cdee3b20f636d6b9cad8" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_6fddf9f9b37d9665733147b0dc2c1b02" parent="aspace_88ad90fa7417cdee3b20f636d6b9cad8" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref35_2ad" level="file">
+            <did>
+              <unittitle>Photographs  </unittitle>
+              <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+              <container id="aspace_21595dee03c72a634c0c716c8b5f2703" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_382e7c366bb4bb9d6d7781309c61349f" parent="aspace_21595dee03c72a634c0c716c8b5f2703" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref36_wxp" level="file">
+            <did>
+              <unittitle>Photographs </unittitle>
+              <unitdate normal="1998/1999" type="inclusive">1998-1999 </unitdate>
+              <container id="aspace_78df926496ec897cf92e5d4bc6ec9944" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_ace1d01205cd9b65738e16b0c5625dd7" parent="aspace_78df926496ec897cf92e5d4bc6ec9944" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref37_apc" level="file">
+            <did>
+              <unittitle>Photographs </unittitle>
+              <unitdate normal="2003/2004" type="inclusive">2003-2004 </unitdate>
+              <container id="aspace_b6a90b7419c54707063adef3692791d8" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_90f63ed7dd9aa7e8709709e98771f8f9" parent="aspace_b6a90b7419c54707063adef3692791d8" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref38_ztp" level="file">
+            <did>
+              <unittitle>Photographs  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_37481fa00e61b911c2f91c5e31c35895" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_1262a8a7128453101f7308a8b7bf8663" parent="aspace_37481fa00e61b911c2f91c5e31c35895" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref39_zjj" level="item">
+            <did>
+              <unittitle><emph render="italic">City Hall</emph>  [VHS]  </unittitle>
+              <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+              <container id="aspace_2c9edb0d7713b50f8c0b7eface4b6c79" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref40_4wy" level="item">
+            <did>
+              <unittitle><emph render="italic">Skip…The Best Friend of City Hall Park</emph>  [VHS]  </unittitle>
+              <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+              <container id="aspace_a0dbd73500d985597b399f16cfa8ba7e" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref41_co6" level="item">
+            <did>
+              <unittitle><emph render="italic">Sleeping with the Mayor</emph> [book]</unittitle>
+              <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+              <container id="aspace_79a43f8b807b54205a02935f33b646b8" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref42_ipi" level="subseries">
+          <did>
+            <unittitle>Subseries D: Newspaper Coverage </unittitle>
+            <unitdate normal="1996/2008" type="inclusive">1996-2008, undated</unitdate>
+            <container id="aspace_c4c5a2fab6ed6f800a450a7bf195ab80" label="Mixed Materials" type="Box">4</container>
+          </did>
+          <scopecontent id="aspace_ec64513ce80ddd8e9ef436f8e867ea84">
+            <head>Scope and Content</head>
+            <p>These articles, taken from a variety of New York City newspapers, follow any and all coverage of City Hall Park from 1996 through 2008.</p>
+          </scopecontent>
+          <c id="aspace_ref43_cdq" level="file">
+            <did>
+              <unittitle>Newspaper Articles </unittitle>
+              <unitdate normal="1996/1997" type="inclusive">1996-1997  </unitdate>
+              <container id="aspace_8aafa2d6e4f692ee001cc6bd85047d3c" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_c9c55d940b240cff05d66d8a495d64a1" parent="aspace_8aafa2d6e4f692ee001cc6bd85047d3c" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref44_ggt" level="file">
+            <did>
+              <unittitle>Newspaper Articles  </unittitle>
+              <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+              <container id="aspace_66b7c51ff0dc798cf2e321a4c79afea9" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_4fed2b3931cd0bb17523a71763b9b508" parent="aspace_66b7c51ff0dc798cf2e321a4c79afea9" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref45_kdg" level="file">
+            <did>
+              <unittitle>Newspaper Articles  </unittitle>
+              <unitdate>January-May 1999</unitdate>
+              <container id="aspace_fff0a5844fd9dac5c3bb19e7763b4232" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_1e8cf1197ec4ced72cc8af62305489e6" parent="aspace_fff0a5844fd9dac5c3bb19e7763b4232" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref108_c92" level="file">
+            <did>
+              <unittitle>Newspaper Articles</unittitle>
+              <unitdate>June-December, 1999</unitdate>
+              <container id="aspace_80349cb5626d4d92a6380d658d2b6b43" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_7ef1a86713cd3bfd8307bd986e4290b3" parent="aspace_80349cb5626d4d92a6380d658d2b6b43" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref46_ej1" level="file">
+            <did>
+              <unittitle>Newspaper Articles  </unittitle>
+              <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+              <container id="aspace_810737338098043b6e469334ce6f23e1" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_b68eba446ee34bb90d22b43b1daa257e" parent="aspace_810737338098043b6e469334ce6f23e1" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref47_ucy" level="file">
+            <did>
+              <unittitle>Newspaper Articles  </unittitle>
+              <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+              <container id="aspace_aa841071050ab6290af7e39bf30f262d" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_9ceaeae5de0547b830c1153b9025e567" parent="aspace_aa841071050ab6290af7e39bf30f262d" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref48_1lm" level="file">
+            <did>
+              <unittitle>Newspaper Articles </unittitle>
+              <unitdate normal="2002/2003" type="inclusive">2002-2003 </unitdate>
+              <container id="aspace_e379bbcd68a4b8864f8a4141e98540fb" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_ad41989463bece07d625b9d425390047" parent="aspace_e379bbcd68a4b8864f8a4141e98540fb" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref49_fbx" level="file">
+            <did>
+              <unittitle>Newspaper Articles </unittitle>
+              <unitdate normal="2005/2006" type="inclusive">2005-2006 </unitdate>
+              <container id="aspace_d4b80df4f8db2c02bafff76409aa7427" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_d1dcace2f0a9f5b719c36cb92cfc2345" parent="aspace_d4b80df4f8db2c02bafff76409aa7427" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref50_dnk" level="file">
+            <did>
+              <unittitle>Newspaper Articles </unittitle>
+              <unitdate normal="2007/2007" type="inclusive">February-March 2007 </unitdate>
+              <container id="aspace_667b775c58f7cc45cbc41fc67d202781" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_2883e300e5e84d3d3fbe16941a543379" parent="aspace_667b775c58f7cc45cbc41fc67d202781" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref51_eh9" level="file">
+            <did>
+              <unittitle>Newspaper Articles </unittitle>
+              <unitdate normal="2007/2007" type="inclusive">July-November 2007 </unitdate>
+              <container id="aspace_d9614407c38a116d05c239022e4e497b" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_8997429771be3b0e367cdd611464e05e" parent="aspace_d9614407c38a116d05c239022e4e497b" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref52_aff" level="file">
+            <did>
+              <unittitle>Newspaper Articles  </unittitle>
+              <unitdate>2008-2009</unitdate>
+              <container id="aspace_316010720811fe420c0b9054489ee630" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_143c9f8327a660c8dd5da38418f2d038" parent="aspace_316010720811fe420c0b9054489ee630" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref53_gre" level="file">
+            <did>
+              <unittitle>Newspaper Articles  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_39c68eda11af7cfde3c29bcf19419be6" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_584b425c4122bbeff5c927967a641892" parent="aspace_39c68eda11af7cfde3c29bcf19419be6" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref54_euz" level="file">
+            <did>
+              <unittitle>Newspaper Articles  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_2e0a6358f19185c7008fce0f994c0f42" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_a6f79872e618b26d7d7763e8fe887376" parent="aspace_2e0a6358f19185c7008fce0f994c0f42" type="Folder">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref55_53o" level="subseries">
+          <did>
+            <unittitle>Subseries E: Notes and Ephemera </unittitle>
+            <unitdate normal="1997/1999" type="inclusive">1997-1999, undated</unitdate>
+            <container id="aspace_d945beaf08f13aefde7f125e4ad9e10b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_463f2fa82f9da92fde110d3d4f400efd" label="Mixed Materials" type="Box">4</container>
+          </did>
+          <scopecontent id="aspace_d32ee4eb06dc69dc542670d421c384ae">
+            <head>Scope and Content</head>
+            <p>Within this subseries are a variety of ephemera. There are membership forms and fliers for events from the Friends of City Hall Park. Of note is a Friends of City Hall Park t-shirt.</p>
+          </scopecontent>
+          <c id="aspace_ref56_ek5" level="file">
+            <did>
+              <unittitle>Friends of City Hall Park Membership Forms  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_059ca80750ec64f2d98430d1cc17b527" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_77ecefba4b1eebbb8985fcfab1563bbb" parent="aspace_059ca80750ec64f2d98430d1cc17b527" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref57_ed9" level="file">
+            <did>
+              <unittitle>Fliers</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_63fcc910e2c3b77ddbfd1e7e1e70f3a6" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_902983cf6a056bc3d353b0ec80fef2e5" parent="aspace_63fcc910e2c3b77ddbfd1e7e1e70f3a6" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref58_j3f" level="file">
+            <did>
+              <unittitle>Handwritten Notes  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_40c12a8c9fc11fae7c994bf13fcb4856" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_5ba40b183da35686cca40937a95dbe41" parent="aspace_40c12a8c9fc11fae7c994bf13fcb4856" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref59_q9g" level="file">
+            <did>
+              <unittitle>Ephemera  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_6aea85d71e152167f3093f9658a210da" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_b7e58768a98f2653f4a9dc39a54908a1" parent="aspace_6aea85d71e152167f3093f9658a210da" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref60_tdx" level="file">
+            <did>
+              <unittitle>Folders and Envelopes </unittitle>
+              <unitdate normal="1997/1999" type="inclusive">1997-1999, undated </unitdate>
+              <container id="aspace_23c941962869ca2fd673542b9bb40ad8" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_cdd6cba2bc7ad237673530acf2fd73f4" parent="aspace_23c941962869ca2fd673542b9bb40ad8" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref61_a4w" level="file">
+            <did>
+              <unittitle>Folders and Envelopes  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_c2ef73e86174e914b823781455352fe2" label="Mixed Materials" type="Box">4</container>
+              <container id="aspace_eea8756b7b0685ef72949927b5c1c10c" parent="aspace_c2ef73e86174e914b823781455352fe2" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref62_ibb" level="item">
+            <did>
+              <unittitle>Friends of City Hall Park T-Shirt  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_a1ecf996d3996009b8e84351aece5e2b" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref2_l3k" level="series">
+        <did>
+          <unittitle>Series II: Government, Park, Activist, and Other Organizations</unittitle>
+          <unitdate normal="1992/2008" type="inclusive">1992-2008</unitdate>
+          <container id="aspace_9d0e7f8eb251099a4e60691bb88a9766" label="Mixed Materials" type="Box">6</container>
+        </did>
+        <scopecontent id="aspace_eeae5faa5eccf9984adaaa54a357ee47">
+          <head>Scope and Content</head>
+          <p>This series consists of materials from government and community organizations that the Friends of City Hall Park interacted with during their campaigns to better City Hall Park. Similar to Series I, this series contains correspondence, information materials, notes, and ephemera dating back to the late 1990s through to 2008.</p>
+        </scopecontent>
+        <c id="aspace_ref63_fvu" level="subseries">
+          <did>
+            <unittitle>Subseries A: Government Organizations</unittitle>
+            <unitdate normal="1992/2008" type="inclusive">1992-2008</unitdate>
+            <container id="aspace_f8fa2c818a00bbf7b386b8a219f7810b" label="Mixed Materials" type="Box">6</container>
+          </did>
+          <scopecontent id="aspace_38ef5f25b4450d1ba994d45eb352f650">
+            <head>Scope and Content</head>
+            <p>The bulk of the material in this subseries comes from the City of New York's Department of Parks &amp; Recreation. Much like the Friends of City Hall Park series, there is correspondence, general information, notes, and ephemera. There are also materials from other government officials.</p>
+          </scopecontent>
+          <c id="aspace_ref64_lan" level="file">
+            <did>
+              <unittitle>City of New York Parks &amp; Recreation Correspondence </unittitle>
+              <unitdate normal="1997/2003" type="inclusive">1997- 2003 </unitdate>
+              <container id="aspace_2226ffc95e4e846db3235a4c8d9128ae" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_538a4cef8c633765953aa484a9d57a98" parent="aspace_2226ffc95e4e846db3235a4c8d9128ae" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref65_pl1" level="file">
+            <did>
+              <unittitle>City of New York Parks &amp; Recreation Memos </unittitle>
+              <unitdate normal="1997/1998" type="inclusive">1997-1998, undated </unitdate>
+              <container id="aspace_0a072cffb3a23a36545f89e9f01d26d0" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_1173aeb6695a971d208a50d1b15e6240" parent="aspace_0a072cffb3a23a36545f89e9f01d26d0" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref66_pzs" level="file">
+            <did>
+              <unittitle>City of New York Parks &amp; Recreation Notes and Ephemera </unittitle>
+              <unitdate normal="1997/2003" type="inclusive">1997-2003, undated </unitdate>
+              <container id="aspace_2a21062cf36e6b5c5fb1425e6f6382b4" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_6f322885edb21797d34b81c8ca377541" parent="aspace_2a21062cf36e6b5c5fb1425e6f6382b4" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref68_vqp" level="file">
+            <did>
+              <unittitle>Partnership for Parks </unittitle>
+              <unitdate normal="1997/1998" type="inclusive">1997-1998, undated </unitdate>
+              <container id="aspace_f0e6ef0f88db92f3b97d47f4b306cd88" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_44141b91ea70e3f36162ecb55fa94d0c" parent="aspace_f0e6ef0f88db92f3b97d47f4b306cd88" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref69_foj" level="file">
+            <did>
+              <unittitle>Municipal and State Materials</unittitle>
+              <unitdate normal="1997/2008" type="inclusive">1997-2008, undated</unitdate>
+              <container id="aspace_b60e59ad85c6321123faac577a49a032" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_ee90e9bf61c7177f43d3749a7f359c3d" parent="aspace_b60e59ad85c6321123faac577a49a032" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref67_zzr" level="file">
+            <did>
+              <unittitle>City of New York Parks &amp; Recreation Oversized Posters  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_7bb8b8ddbaf02034656b3675d542847b" label="Mixed Materials" type="oversize">OS 1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref70_192" level="subseries">
+          <did>
+            <unittitle>Subseries B: Park, Activist, and Other Organizations </unittitle>
+            <unitdate normal="1992/2008" type="inclusive">1992-2008, undated</unitdate>
+            <container id="aspace_1181fecd8f11d4d9d8ba607dfc8a1e83" label="Mixed Materials" type="Box">6</container>
+          </did>
+          <scopecontent id="aspace_90c2f256a81d37fd538634dd60171185">
+            <head>Scope and Content</head>
+            <p>This subseries contains materials from organizations involved with the Friends of City Hall Park. There is correspondence, informational material, and notes from these organizations. There is also a fair amount of ephemera including fliers, pins, and buttons. Of interest are fliers from activist organizations against the (then) mayor of New York City, Rudolph W. Giuliani.</p>
+          </scopecontent>
+          <c id="aspace_ref71_y1u" level="file">
+            <did>
+              <unittitle>Citizens Committee for New York City </unittitle>
+              <unitdate normal="1999/1999" type="inclusive">1999, undated </unitdate>
+              <container id="aspace_b8e740077df5f55a2c8a29b46b2a287c" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_f0e85c6989a1193e2d98dfc918bdf4b1" parent="aspace_b8e740077df5f55a2c8a29b46b2a287c" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref72_vzm" level="file">
+            <did>
+              <unittitle>Community Board No. 1 </unittitle>
+              <unitdate normal="1996/2008" type="inclusive">1996-2008 </unitdate>
+              <container id="aspace_6d20d19a37acbb104c8e192670069397" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_2300def6ca08b65269f95a0cc5d684b9" parent="aspace_6d20d19a37acbb104c8e192670069397" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref73_g58" level="file">
+            <did>
+              <unittitle>New Yorkers for Parks Information Materials </unittitle>
+              <unitdate normal="2004/2008" type="inclusive">2004-2008, undated </unitdate>
+              <container id="aspace_b3b5afa16bed70eed6d17bfbfff6ea05" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_d199a802eb464f2f92685447e4ae0c18" parent="aspace_b3b5afa16bed70eed6d17bfbfff6ea05" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref74_ukb" level="file">
+            <did>
+              <unittitle>New Yorkers for Parks Maps, Reports, and Ephemera </unittitle>
+              <unitdate normal="2003/2006" type="inclusive">2003-2006, undated </unitdate>
+              <container id="aspace_ec8393c1f88fb9d2f1362171d3752ad9" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_7e8b0a31c4ecee6fba565c4dd4dfe866" parent="aspace_ec8393c1f88fb9d2f1362171d3752ad9" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref75_jtd" level="file">
+            <did>
+              <unittitle>Materials from Other Community and Activist Organizations </unittitle>
+              <unitdate normal="1992/2007" type="inclusive">1992-2007, undated </unitdate>
+              <container id="aspace_68f7e3e91e01668cca9b070390b99f53" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_6630e6556bb53de88df58011226de35b" parent="aspace_68f7e3e91e01668cca9b070390b99f53" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref76_fsy" level="file">
+            <did>
+              <unittitle>Ephemera from Other Community Organizations </unittitle>
+              <unitdate normal="1999/1999" type="inclusive">1999, undated </unitdate>
+              <container id="aspace_ff254a6e504b667dda98bd16e640d7f1" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_ebe2889ad5924d3a5e66365c49e5eaae" parent="aspace_ff254a6e504b667dda98bd16e640d7f1" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref77_wuj" level="file">
+            <did>
+              <unittitle>Activist Ephemera  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_44a6b498b8bd805a51816ab16fac15de" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_f33b59a1b589a8912eef7b684c84d204" parent="aspace_44a6b498b8bd805a51816ab16fac15de" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref78_hid" level="file">
+            <did>
+              <unittitle>Ephemera </unittitle>
+              <unitdate>1996-2002, undated </unitdate>
+              <container id="aspace_ae6b8a5ac049ae87181b192a1280e9c0" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_82356df4e441d4e0009eddc1d7371a9f" parent="aspace_ae6b8a5ac049ae87181b192a1280e9c0" type="Folder">13</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref3_u95" level="series">
+        <did>
+          <unittitle>Series III: New York City Parks</unittitle>
+          <unitdate normal="1996/2005" type="inclusive">1996-2005, undated</unitdate>
+          <container id="aspace_056f544eba22187cb989089d4ff87d9e" label="Mixed Materials" type="Box">6</container>
+        </did>
+        <scopecontent id="aspace_4ceba58da2324858f022badac918bd5d">
+          <head>Scope and Content</head>
+          <p>Within this series is information about parks in New York City. The series covers City Hall Park as well as other urban parks and contains maps and other assorted relevant information.</p>
+        </scopecontent>
+        <c id="aspace_ref80_un3" level="subseries">
+          <did>
+            <unittitle>Subseries A: City Hall Park </unittitle>
+            <unitdate normal="1996/2005" type="inclusive">1996-2005, undated</unitdate>
+            <container id="aspace_5e84da37673238c9b9a90d08e4b7be70" label="Mixed Materials" type="Box">6</container>
+          </did>
+          <scopecontent id="aspace_48a1e1955dd2747cd178198c012afbd8">
+            <head>Scope and Content</head>
+            <p>This subseries concerns City Hall Park itself. Materials within the subseries include official documents, pamphlets on history, maps of the park, and ephemera from events hosted by New York City within the Park.</p>
+          </scopecontent>
+          <c id="aspace_ref81_xcg" level="file">
+            <did>
+              <unittitle>Official Documents Concerning City Hall Park  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_d38f6d579ee6cd4931c38acd35f21154" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_f3701fef500ec1552155acc3b0f0bdd1" parent="aspace_d38f6d579ee6cd4931c38acd35f21154" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref83_nwc" level="file">
+            <did>
+              <unittitle>City Hall Park History </unittitle>
+              <unitdate normal="1996/1999" type="inclusive">1996-1999 </unitdate>
+              <container id="aspace_a426c7baba44be3a4ea3e8a96af44694" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_faf3f4fcc3bb5557ff0fe3cd4fe979cb" parent="aspace_a426c7baba44be3a4ea3e8a96af44694" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref84_0o2" level="file">
+            <did>
+              <unittitle>Maps of City Hall Park </unittitle>
+              <unitdate>1998-2003 </unitdate>
+              <container id="aspace_5a7fa26a58fd71d5f9ca29ede9659e0a" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_1f700a320cb15473b28ff86d819de35f" parent="aspace_5a7fa26a58fd71d5f9ca29ede9659e0a" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref85_da8" level="file">
+            <did>
+              <unittitle>Maps of City Hall Park  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_d19ce3bcdeb28d42aa0d91a22c7c0901" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_0a8463581bda6c52db1f3044a28b2994" parent="aspace_d19ce3bcdeb28d42aa0d91a22c7c0901" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref86_fds" level="file">
+            <did>
+              <unittitle>Events Hosted by New York City </unittitle>
+              <unitdate normal="1996/2005" type="inclusive">1996-2005 </unitdate>
+              <container id="aspace_8b53b05e741dc977d3e9721b9c105829" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_fcce9154bf0764196021c0cd145b52e0" parent="aspace_8b53b05e741dc977d3e9721b9c105829" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref82_xzr" level="file">
+            <did>
+              <unittitle>Oversized Official Documents Concerning City Hall Park </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_f5e1a53b129a458b908f58e3adab0a31" label="Mixed Materials" type="oversize">OS 1</container>
+            </did>
+          </c>
+          <c id="aspace_ref87_l33" level="file">
+            <did>
+              <unittitle>Oversized Maps of City Hall Park </unittitle>
+              <unitdate normal="1998/1998" type="inclusive">1998, undated </unitdate>
+              <container id="aspace_9daf27962dac1c5314437fcd86fabee9" label="Mixed Materials" type="oversize">OS 1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref88_4le" level="subseries">
+          <did>
+            <unittitle>Subseries B: Other Parks and Relevant Material </unittitle>
+            <unitdate normal="1996/1999" type="inclusive">1996-1999, undated</unitdate>
+            <container id="aspace_58465a4f79cf79facbf439a2b16f1619" label="Mixed Materials" type="Box">6</container>
+          </did>
+          <scopecontent id="aspace_6bbec8c3a3024f3914ea3f9d5ece4c7a">
+            <head>Scope and Content</head>
+            <p>Within this subseries is a variety of information concerning parks in New York City. There is information concerning plants and animals, gardening, tour companies, and maps.</p>
+          </scopecontent>
+          <c id="aspace_ref89_a1b" level="file">
+            <did>
+              <unittitle>Plants, Animals, and Gardening Information </unittitle>
+              <unitdate normal="1996/1999" type="inclusive">1996-1999, undated</unitdate>
+              <container id="aspace_ebf7c718c34367b011e71cdd8ff39fe5" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_3d86aeb2c8ce79b1ee9c818fef1c2136" parent="aspace_ebf7c718c34367b011e71cdd8ff39fe5" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref91_cy2" level="file">
+            <did>
+              <unittitle>Information on Other Parks  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_a7598d1251e08faab7ff262132099771" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_a4e1a48d22e2d8b7bd8b2a736550853a" parent="aspace_a7598d1251e08faab7ff262132099771" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref92_ita" level="file">
+            <did>
+              <unittitle>Tour Companies </unittitle>
+              <unitdate normal="1999/1999" type="inclusive">1999, undated </unitdate>
+              <container id="aspace_29a876aa8261f724352291bbe885fe52" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_e93d4ec3c3814c155eda09c48bd7b78d" parent="aspace_29a876aa8261f724352291bbe885fe52" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref93_i9f" level="file">
+            <did>
+              <unittitle>Maps  </unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_88fbc574f6bd81f8e5bb9b345ae05166" label="Mixed Materials" type="Box">6</container>
+              <container id="aspace_0489efef9d92ee81e7d4cbc7bddf30d4" parent="aspace_88fbc574f6bd81f8e5bb9b345ae05166" type="Folder">22</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
