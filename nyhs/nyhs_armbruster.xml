@@ -1,0 +1,2225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NHi">nyhs_armbruster</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Eugene L. Armbruster Photograph Collection<lb/><date calendar="gregorian" era="ce">1894-1939</date><lb/><num> </num> <num>PR 81</num></titleproper>
+        <author>Jenny Gotwals</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from armbruster.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New-York Historical Society</publisher>
+        <address>
+          <addressline>170 Central Park West</addressline>
+          <addressline>New York, NY 10024</addressline>
+          <addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-04-12 13:33:23 -0400</date>.</creation>
+      <langusage>Description is in <language>English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New-York Historical Society</corpname>
+      </repository>
+      <unittitle>Eugene L. Armbruster Photograph Collection</unittitle>
+      <unitid>PR 81</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">36.5 Linear feet</extent>
+        <extent altrender="carrier">(Ca. 5,000 black and white gelatin silver prints, 5 x 7 in. or smaller. Ca 3,500 acetate negatives, 3.5 x 4.5 in. 1,400 nitrate negatives, 5 x 7 in. 517 glass negatives, 8 x 10 in. or smaller.)</extent>
+      </physdesc>
+      <unitdate normal="1894/1939" type="inclusive">1894-1939</unitdate>
+      <abstract id="aspace_609cad44109750dd513e5a768648e530">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.
+<lb/><lb/> 
+Prints and negatives related to New York from the Eugene L. Armbruster Photograph Collection have been digitized and are available in the <emph render="bold"><extref xlink:actuate="onRequest" xlink:href="http://digitalcollections.nyhistory.org/islandora/object/nyhs%3Aarmbruster">Shelby White and Leon Levy Digital Library</extref>.</emph></abstract>
+      <physdesc id="aspace_3d31de1281339f7d830799c34c8b1b01" label="General Physical Description note">36.5 linear feet. Ca. 5,000 black and white gelatin silver prints, 5 x 7 in. or smaller. Ca 3,500 acetate negatives, 3.5 x 4.5 in. 1,400 nitrate negatives, 5 x 7 in. 517 glass negatives, 8 x 10 in. or smaller.</physdesc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <custodhist id="aspace_567f1425cf4b661f08032e82db09b172">
+      <head>Provenance</head>
+      <p>Purchase, October 21, 1944, November 20, 1944, and February 28, 1945.</p>
+    </custodhist>
+    <accessrestrict id="aspace_586b3a5977d1af6d9f33d989a81b7fbc">
+      <head>Access Restrictions</head>
+      <p>Open to qualified researchers.</p>
+      <p>Photocopying undertaken by staff only. Limited to 30 photocopies per day per person. Suitability of the original for photocopying is at the discretion of the staff. Neither blueprints nor tracings can be copied under any circumstances. Duplication of large-format items will be done by the house photographer. See Print Room guidelines for details.</p>
+    </accessrestrict>
+    <userestrict id="aspace_056f24bab432932be831228a28cc88b3">
+      <head>Use Restrictions</head>
+      <p>Permission to reproduce any Print Room holdings through publication must be obtained from <lb/><lb/><address><addressline>Rights and Reproductions<lb/> </addressline><addressline>The New-York Historical Society<lb/> </addressline><addressline>Two West 77th Street<lb/> </addressline><addressline>New York, NY 10024<lb/><lb/> </addressline><addressline>Phone: (212) 873-3400 ext. 282<lb/> </addressline><addressline>Fax: (212) 579-8794<lb/> </addressline></address><lb/> </p>
+      <p>The copyright law of the United States governs the making of photocopies and protects unpublished materials as well as published materials. Unpublished materials created before January 1, 1978 cannot be quoted in publication without permission of the copyright holder.</p>
+    </userestrict>
+    <prefercite id="aspace_f6046252b2fde3112b1fa9aa94e54d8e">
+      <head>Preferred Citation</head>
+      <p>This collection should be cited as: Eugene L. Armbruster Photograph Collection, PR 81, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society.</p>
+    </prefercite>
+    <bioghist id="aspace_432fb14895a298ed249712c50950ccbe">
+      <head>Biographical Note</head>
+      <p>Eugene L. Armbruster (1865 - 1943) was born in Baden-Baden, Germany, and came to the United States in 1882. His first job was with H. Henkel Cigar Box Manufacturing Company, where he continued to work until his retirement in 1920. He lived in Bushwick, Brooklyn, with his wife and two children, Julia and Eugene Jr.</p>
+      <p>Armbruster took photographs beginning in the late 19th century, but the majority of his work is from the 1910s and 1920s. Around the time of his retirement, Armbruster became interested in local history and began to photograph his environs in earnest, specifically the boroughs of Brooklyn and Queens. He took thousands of photographs of historic houses, churches, streetscapes, and buildings throughout New York City and Long Island.</p>
+      <p>Beginning around 1915, Armbruster wrote for the "Old-Timer" column of the Brooklyn Eagle. He honed his knowledge of local history through reading and extensive walking throughout the streets he was documenting. A majority of his photographs are annotated with historical information. He sought the rural environments linked to the past, turning to the rural counties of Long Island after the towns and neighborhoods of Brooklyn and Queens started growing and modernizing in the early 1920s. From 1914 to 1929, Armbruster published several pamphlets about local history, which he illustrated with his own line drawings, copy photos, and original photographs. In the 1930s, he published three pamphlets on language and its origins, seemingly a new interest.</p>
+      <p>He was forced to give up photography around 1940 after he developed cataracts on his eyes. He died on September 21, 1943.</p>
+    </bioghist>
+    <scopecontent id="aspace_56018ff0578ba538ee31bc1db5e6a8c5">
+      <head>Scope and Content Note</head>
+      <p>The Eugene L. Armbruster Photograph Collection includes approximately 5,000 black and white gelatin silver prints, approximately 3,500 acetate film negatives; approximately 1,400 nitrate film negatives; four 4 x 5" glass negatives; 235 5 x 7" glass negatives; 230 6.5 x 8.5" glass negatives; and 48 8 x 10" glass negatives.</p>
+      <p>The collection spans the period from 1894-1939 and contains photographic views of New York State, Pennsylvania, New Jersey, New England, and Canada. Most of the photographs show New York City, especially Brooklyn, Queens, and Long Island. These images document many structures that no longer exist, and in some cases may be the only extant photographic record. The collection is arranged into two series based on format: Prints and Negatives. The prints and negatives have not been matched to each other, although there are most likely many corresponding positives and negatives in the collection. Within each series, subseries are arranged by size or material, and thereunder alphabetically by state, and then by. Within New York State, the photos of New York City and Long Island are divided into county and then by neighborhood. </p>
+      <p>Series I. Prints is divided into the following subseries: Prints: 3.5 x 4.5" (and smaller); Prints: 5 x 7"; and Mounted Prints. Most prints are annotated in some manner on the verso. Some prints have Armbruster's map on the verso, showing the exact location of the building/house. Often he has included historical information on the house or building and in some cases he has added notes such as "still standing 1929."</p>
+      <p>The majority of photographs were taken after Armbruster's retirement in 1920. Earlier photographs are generally of New York City or nearby counties in New Jersey. With time on his hands, Armbruster traveled out of New York City, and those trips are well documented here. In July, 1925, for example, Armbruster traveled throughout New York State, New England, and Canada. It is notable that these photographs reflect only historic buildings and sites, not family or leisure shots. </p>
+      <p>Many of the Brooklyn and Queens photos (and all of the 5 x 7" prints) date from 1922. Most of the subjects no longer exist, mainly due to a building boom in the boroughs in the late 1920s. In some cases Armbruster seems to have been aware of demolition plans, and photographed houses for just that reason. The views of Brooklyn are also notable for their almost exclusive focus on historical sites and subjects. Other photographs of the borough from a similar time period often show modern improvements, such as elevated rail tracks, automobiles, industry and skyscrapers. Armbruster organized his Brooklyn photos in groups according to the six original towns in the county: Brooklyn, Bushwick, Flatbush, Flatlands, Gravesend and New Utrecht.</p>
+      <p>Notable Brooklyn structures pictured include Holland School, Lefferts Farm, and Packer Collegiate Institute. Other commercial buildings shown are grocery stores, engine houses, gymnasiums, banks, hotels, cigar stores, a tollhouse on Flatbush Avenue, florists, and a blacksmith and wheelwright shop.</p>
+      <p>Brooklyn residences include the homes of the following notable Brooklyn residents: Treadwell Abrams, Wynant Bennett, Fenwick Bergen, Jeremiah Bergen, John L. Bergen; Horace B. Claflin, Samuel Coland, Charles Ekoch, Joseph Fleming, John Franklin, Joseph Golden, Joseph Herrings, John F. James, Horatio King, Johannes Lott, Judge Ganet L. Martense, Henry Evelyn Pierrepont (1808-1888), W. A. Putnam, Derick Remsen, Johannes Remsen, James S. Rockwell, John J. Ryder, John F. Ryerson, John Schenk, Moses Snydaw, David D. Stillwell, Colonel David M. Stone (1817-1895), Charles Strohm, Spencer Trask, Rutgert Joosten Van Brunt, John H. Van Cleef, John L. Van Pelt, John J. Vanderbilt (d. 1842), Daniel D. Whitney, Lionel Wilbur, and Garrett Williams. </p>
+      <p>Churches in Brooklyn shown include: Central Presbyterian Church, Church of the New Jerusalem, Emanuel Protestant Episcopal Church, First Presbyterian Church, First Unitarian Church of Our Savior, Grace Church, Holy Cross Roman Catholic Church, New Utrecht Reformed Dutch Church, Plymouth Church, Reform Church on the Heights, St. John's Lutheran Church, St. Patrick's Roman Catholic Church, and St. Paul's Episcopal Church.</p>
+      <p>Series II. Negatives is arranged in five subseries: Acetate Film Negatives: 4 x 5"; Nitrate Film Negatives: 5 x 7"; Glass Plate Negatives: 5 x 7" (and smaller); Glass Plate Negatives: 6.5 x 8.5"; and Glass Plate Negatives: 8 x 10".</p>
+      <p>Negatives are arranged by geographic location, if known, as described above. Subject terms found in the Thesaurus for Graphic Material (Library of Congress: 1995) have been utilized to further organize negatives beyond geographical divisions. Photograph topics fall into the following categories: architectural elements, automobiles, barns, boats, buildings, churches, dams, farmhouses, interiors, landscapes, people, row houses, streets, and windmills.</p>
+      <p>Featured buildings in Subseries IV: Glass Plate Negatives: 6.5 x 8.5," include: the Abbey Pub, the Brooklyn Bridge, Brooklyn Waterworks, the Bushwick Hospital, Federal Courts Building, Fort Greene Tobacco Works, Mansion House, the Packer Collegiate Institute, and Underhill's Colonnade Buildings (on edge of Brooklyn Heights). Other commercial buildings shown are hotels, a horse-shoeing shop, ferry terminals, flour mills, printing offices, public school, race courses, a saw manufacturer, and several theaters. Among the churches shown are: Bushwick Church, First Reformed Church, Grace Church, New Utrecht Church, Old Assumption Church, Old St. Ann's Protestant Episcopal Church, Plymouth Church, St. James Roman Catholic Church, and St. Mark's Episcopal Church.</p>
+      <p>Houses shown in Subseries IV include those of: Thomas Bennett; Dewitt Clinton; Seth Low, mayor of Brooklyn and New York City; the Schermerhorn family; the Van Brunt family; and Mayor (of Williamsburgh) William Wall. Other views of interest are: a circular, dated October 1, 1869, announcing the opening of Wechsler and Abraham Clothing Store; the City of Williamsburgh Seal; and an October 3, 1860 Brooklyn survey map.</p>
+    </scopecontent>
+    <arrangement id="aspace_f4a5fa35b1d5bc06b74e4d04d1e5f1e4">
+      <head>Arrangement</head>
+      <p>Within each series, materials are divided by format and by size.</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Prints</item>
+        <item>Series II: Negatives</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_a6e38e7a221d717cea7c21986da32a02">
+      <head>Related Material at The New-York Historical Society</head>
+      <p>The following 10 pamphlets written and/or published by Armbruster are held in The New-York Historical Society Library: <list><item>Bruijkleen Colonie. New York, 1918.</item><item>Coney Island. New York: [Armbruster], 1924.</item><item>The Eastern district of Brooklyn; with illustrations and maps. New York [Printed by G. Quattlander], 1912.</item><item>The Ferry road on Long Island. New York [Printed by G. Quattlander], 1919.</item><item>Long Island landmarks. New York, 1923.</item><item>The Indians of New England and New Netherland. [Brooklyn, N.Y. : Quattlander], 1918.</item><item>Marriages of Long Island settlers and allied families. Jamaica, N.Y. : Queens Borough Public Library, 1941.</item><item>Montauk. New York: [s.n.], c. 1923.</item><item>The Olympia settlement in early Brooklyn. N.Y. New York, 1929.</item><item>The Wallabout prison ships. New York, 1920.</item></list> </p>
+      <p>The New York Public Library, Brooklyn Historical Society, and Queens Borough Public Library all hold extensive Armbruster photograph and ephemera (pamphlets, scrapbooks, papers) collections.</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_3924a10fade686d0fb4d44d62193b5ef">
+      <head>Separated Material</head>
+      <p>Subseries II, Nitrate Film Negatives: 5 x 7", has been separated from the rest of the Eugene L. Armbruster Collection. Nitrate negatives are not housed in the Print Room due to potential storage hazards; all nitrate negatives are stored on Floor 14 of the N-YHS Library stacks. Please ask a staff member for assistance with these negatives.</p>
+    </separatedmaterial>
+    <controlaccess>
+      <genreform source="aat">negatives (photographs)</genreform>
+      <genreform source="aat">Glass negatives.</genreform>
+      <genreform source="aat">Acetate film.</genreform>
+      <geogname source="lcsh">Niagara Falls (N.Y. and Ont.)</geogname>
+      <geogname source="lcsh">New York (N.Y.) -- Pictorial works.</geogname>
+      <geogname source="lcsh">New England -- Pictorial works.</geogname>
+      <geogname source="lcsh">Suffolk County (N.Y.)</geogname>
+      <geogname source="lcsh">Nassau County (N.Y.)</geogname>
+      <geogname source="lcsh">Long Island (N.Y.) -- Buildings, structures, etc.</geogname>
+      <genreform source="aat">Photographic prints.</genreform>
+      <geogname source="lcsh">Queens (New York, N.Y.) -- Buildings, structures, etc.</geogname>
+      <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Buildings, structures, etc.</geogname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13_l7y" level="series">
+        <did>
+          <unittitle>Series I: Prints</unittitle>
+        </did>
+        <scopecontent id="aspace_ea084e62c09410277d5fda0133a57a9e">
+          <head>Scope and Contents note</head>
+          <p>Series I is divided into the following subseries: Prints: 3.5 x 4.5" (and smaller); Prints: 5 x 7"; and Mounted Prints. Each subseries has been arranged by state, and thereunder by county and town.</p>
+        </scopecontent>
+        <altformavail id="aspace_968b506137332ccf54c5be16852f1334">
+          <head>Existence and Location of Copies</head>
+          <p>Digital copies of prints related to New York are available in the <emph render="bold"><extref xlink:actuate="onRequest" xlink:href="http://digitalcollections.nyhistory.org/islandora/object/nyhs%3Aarmbruster">Shelby White and Leon Levy Digital Library</extref>.</emph></p>
+        </altformavail>
+        <c id="aspace_ref14_typ" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries I: Prints: 3.5 x 4.5" (and smaller)</unittitle>
+          </did>
+          <scopecontent id="aspace_5e10c86c7c4a2085419a7da82f0bfe3c">
+            <head>Scope and Contents note</head>
+            <p>Subseries I is about evenly split between scenes of New England and those of New York. Most of these prints are annotated by Armbruster. Some annotations include supplementary information, such as the population of Hampshire County, Massachusetts. Two small postcard sets ("tour cards") of Philadelphia and Williamsport, Pennsylvania are included.</p>
+          </scopecontent>
+          <c id="aspace_ref15_nm9" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Connecticut--Fairfield County</unittitle>
+              <unitdate>1927 Jul.</unitdate>
+              <container id="aspace_92484246ea8dc089086f497d13260891" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref16_yda" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Connecticut--Hartford County</unittitle>
+              <unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate>
+              <container id="aspace_f5271377c684af44a03815f5a8b12c3f" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref17_ahg" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Connecticut--New Haven County</unittitle>
+              <unitdate>1927 Jul.</unitdate>
+              <container id="aspace_e82eb929d0a6036b3184184dee2b1191" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref18_gwt" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Connecticut--New London County</unittitle>
+              <unitdate normal="1923/1927" type="inclusive">1923-1927</unitdate>
+              <container id="aspace_f57a78201a7da07b18eb7d8b116df870" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref19_fpo" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Maine--Androscan County</unittitle>
+              <unitdate>1926 Aug.</unitdate>
+              <container id="aspace_7e4f9302e8700c1a91c73a0b69e352d5" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref20_mpy" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Maine--Cumberland County</unittitle>
+              <unitdate>1926 Aug.</unitdate>
+              <container id="aspace_93dcd607b1af0ec2895ccbdf172e1a0a" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref21_mrk" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Maine--Hancock County</unittitle>
+              <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+              <container id="aspace_4f6bfc01ce223905294d08d7e90bb63a" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref22_d1h" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Maine--Knox County</unittitle>
+              <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+              <container id="aspace_bc18d40c7c61e6004dcc049ff6f04082" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref23_83e" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Maine--York County</unittitle>
+              <unitdate>1926 Aug.</unitdate>
+              <container id="aspace_b1b586c13a4750be65b3b243ba676971" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref24_vxy" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Maine--Unidentified</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_5f44f2c51b5a5f0284afa7a757cfbe4c" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref25_x60" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Barnstable County</unittitle>
+              <unitdate>1925 Oct.</unitdate>
+              <container id="aspace_969f76bdb6efa199d762dbfd3367f253" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref26_q83" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Berkshire County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_f4457251a5eb6e80493ad26fba759e74" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref27_kun" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Essex County</unittitle>
+              <unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate>
+              <container id="aspace_e80880b9e86db338d9a0c416d45bd5a1" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref28_vmd" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Franklin County</unittitle>
+              <unitdate normal="1928/1935" type="inclusive">1928-1935</unitdate>
+              <container id="aspace_82f78acc644b9c5fee47cb05cb051764" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref29_ayn" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Hampton County</unittitle>
+              <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+              <container id="aspace_9912d36cc7316a31d74365af55874a52" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref30_73d" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Hampshire County</unittitle>
+              <unitdate normal="1925/1929" type="inclusive">1925-1929</unitdate>
+              <container id="aspace_86b18d803664f9545a618eb4339a29c8" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref31_0i2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Middlesex County</unittitle>
+              <unitdate normal="1926/1928" type="inclusive">1926-1928</unitdate>
+              <container id="aspace_6fdb8a79dd03807b675aa54dd9c06db8" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref32_ftd" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Suffolk County</unittitle>
+              <unitdate normal="1925/1930" type="inclusive">1925-1930</unitdate>
+              <container id="aspace_4d381920d04d7b90bb57f4c3ddb13b7f" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref33_9kj" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts--Worcester County</unittitle>
+              <unitdate normal="1927/1928" type="inclusive">1927-1928</unitdate>
+              <container id="aspace_c513733b39c33611240263f25d1123e3" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref34_sxm" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Belknap County</unittitle>
+              <unitdate>1929 May</unitdate>
+              <container id="aspace_79e5490f90533a3707373bc930d88586" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref35_528" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Carroll County</unittitle>
+              <unitdate>1926 Aug.</unitdate>
+              <container id="aspace_eea054cf770514ef27cef0cf8029be00" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref36_sag" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Cheshire County</unittitle>
+              <unitdate normal="1925/1927" type="inclusive">1925-1927</unitdate>
+              <container id="aspace_7ae88e9cab7ce8d2172de5b1b1b71c6c" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref37_nww" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Coos County</unittitle>
+              <unitdate normal="1926/1929" type="inclusive">1926-1929</unitdate>
+              <container id="aspace_7bd317cd7978330e1171f48b3a223d9c" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref38_rgk" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Hillsborough County</unittitle>
+              <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
+              <container id="aspace_1acfdb76cf9aed2b558ecda785572db7" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref39_kms" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Merrimack County</unittitle>
+              <unitdate normal="1926/1929" type="inclusive">1926-1929</unitdate>
+              <container id="aspace_434e4051639c760e79adbebee7a9a899" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref40_oea" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Rockingham County</unittitle>
+              <unitdate normal="1928/1929" type="inclusive">1928-1929</unitdate>
+              <container id="aspace_58cd4e5bba4a4c905ef6298553809634" label="Mixed Materials" type="Box">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref41_ic2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Strafford County</unittitle>
+              <unitdate>1929 May</unitdate>
+              <container id="aspace_18ec1895d77b46e8d6c6df98d28ec42c" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref42_r8u" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Sullivan County</unittitle>
+              <unitdate normal="1926/1929" type="inclusive">1926-1929</unitdate>
+              <container id="aspace_eea20bcfca2f763f1a0bcbe5dda523f0" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref43_588" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire--Unidentified</unittitle>
+              <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+              <container id="aspace_4bf8dbbce55cbc100e72f3f29afb4daf" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref44_4iu" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts, New Hampshire or Vermont (unidentified)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_f2735459ed4b1492172d7e3daf8e369c" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref45_wo8" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Jersey--Bergen County</unittitle>
+              <unitdate normal="1894/1925" type="inclusive">1894-1925</unitdate>
+              <container id="aspace_801d298629e32283d0f69a7bb9a6da53" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref46_x20" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Jersey--Essex County</unittitle>
+              <unitdate>1929 Aug.</unitdate>
+              <container id="aspace_822d408e223cfb4f69235821d09de1d6" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref47_tdq" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Jersey--Hudson County</unittitle>
+              <unitdate normal="1897/1897" type="inclusive">1897</unitdate>
+              <container id="aspace_a3cfd739be546ba02f57063b99206f56" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref48_5h9" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Jersey--Middlesex County</unittitle>
+              <unitdate>1923 Aug.</unitdate>
+              <container id="aspace_7e528838036b26023dcf3aa79e7b14c8" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref49_tno" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Jersey--Monmouth County</unittitle>
+              <unitdate>1925 Aug.</unitdate>
+              <container id="aspace_7bf38be5acb01c8c8542b1b7ecf1d159" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref50_i4w" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Jersey--Morris County</unittitle>
+              <unitdate>1929 Aug.</unitdate>
+              <container id="aspace_a2c6ce854998f30999e6bfa3381f66aa" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref51_naz" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Jersey--Warren County</unittitle>
+              <unitdate normal="1925/1929" type="inclusive">1925-1929</unitdate>
+              <container id="aspace_59da99465c7b202bf85df7fb3f3e3a3c" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref52_2eo" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Albany County</unittitle>
+              <unitdate>1926 Jul.</unitdate>
+              <container id="aspace_a3c43191493bc1b415c0c69e055954c0" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref53_w7w" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Broome County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_42c5ea84ae9480013841ae80e8d96943" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref54_ld8" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Bronx County</unittitle>
+              <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
+              <container id="aspace_4b94046b4c4793465d05f68ef0ee8701" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref55_0td" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Clinton County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_076ef726d10e7fd41ffa392e746efc6c" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref56_ms8" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Columbia County</unittitle>
+              <unitdate normal="1925/1925" type="inclusive">1925 Oct.</unitdate>
+              <container id="aspace_0e82cb38eb56441bedbdb2df386417ff" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref57_nx8" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Delaware County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_5ffb4eea6b5784f86d4ae993be614b36" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref58_foq" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Dutchess County</unittitle>
+              <unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate>
+              <container id="aspace_bf0a05aec8964940ca9a93d8d67803c2" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref59_vmz" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Essex County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_7c847173f6065ac7c9e484f646831639" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref60_pa5" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Greene County</unittitle>
+              <unitdate>1923 Apr.</unitdate>
+              <container id="aspace_dab8916ac85d5bfb5ae294eca27cd8fd" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref61_ws2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Bushwick</unittitle>
+              <unitdate normal="1897/1924" type="inclusive">1897-1924</unitdate>
+              <container id="aspace_e85eb1de988ea1892651bff7d94bdc30" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref62_g6c" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatbush</unittitle>
+              <unitdate normal="1895/1926" type="inclusive">1895-1926</unitdate>
+              <container id="aspace_d341cbeda1aec91982c884bf2635a141" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref63_942" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatlands</unittitle>
+              <unitdate normal="1915/1925" type="inclusive">1915-1925</unitdate>
+              <container id="aspace_e5221ae999f3b7cc2bbdc81b7b88c18e" label="Mixed Materials" type="Box">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref64_qug" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Gravesend</unittitle>
+              <unitdate normal="1922/1928" type="inclusive">1922-1928</unitdate>
+              <container id="aspace_96400cc26f6585daa18429390f21f288" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref65_ktq" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--New Lots</unittitle>
+              <unitdate normal="1895/1923" type="inclusive">1895-1923</unitdate>
+              <container id="aspace_0c6ec8e782f009d2783dceceac467baa" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref66_g1y" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--New Utrecht</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_2fdb93bc1e18a599d3859c45fe516f05" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref67_z68" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Williamsburg</unittitle>
+              <unitdate normal="1907/1924" type="inclusive">1907-1924</unitdate>
+              <container id="aspace_cf6ddd3799d064818125b5fcd96ec1c6" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref68_0rz" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Unidentified</unittitle>
+              <unitdate normal="1922/1925" type="inclusive">1922-1925</unitdate>
+              <container id="aspace_ff5e3302d0c013ed8590e46bf68f131f" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref69_qke" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Livingston County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_c91487b9e0a345cbbce8850d9e00cdf3" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref70_85u" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--New York County (Manhattan)--Lower East Side and Greenwich Village</unittitle>
+              <unitdate>1909-1924</unitdate>
+              <container id="aspace_5e25001977b2dcbe958a926119d52ab2" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref71_piw" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--New York County (Manhattan)--Unidentified views</unittitle>
+              <unitdate>1923-1929</unitdate>
+              <container id="aspace_116a9490583ca2a6cc02b49b06c6e4c0" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref72_abg" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Nassau County--Hempstead</unittitle>
+              <unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate>
+              <container id="aspace_6374ad6395094f27ee4252b980e55260" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref73_xl6" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Nassau County--North Hempstead</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_2b84f5eeac65bc500d564781dd802cbc" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref74_9ef" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Nassau County--Oyster Bay</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_799d8942de197ba9b027b2224aac57fd" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref75_rue" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Niagara County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_ebbef4bde3b0b0b59f68f4c4f64227e1" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref76_iox" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Otsego County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_bcf7ef01f21a607406eec6b1017fa73c" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref77_fe7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Onandaga County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_9cfc2b344ec5719c28e1e37be703905e" label="Mixed Materials" type="Box">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref78_zr9" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Orleans County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_b87c11419c3e02cbdadfe80f6bbf093b" label="Mixed Materials" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref79_fp8" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Orange County</unittitle>
+              <unitdate normal="1916/1929" type="inclusive">1916-1929</unitdate>
+              <container id="aspace_967f5be56e2cc231d03aececcda15fc9" label="Mixed Materials" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref80_my3" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Flushing</unittitle>
+              <unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate>
+              <container id="aspace_74734cf3033d2ac673b562d80c10c9d0" label="Mixed Materials" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref81_79q" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Jamaica</unittitle>
+              <unitdate normal="1895/1935" type="inclusive">1895-1935</unitdate>
+              <container id="aspace_ea1bcbd78b32694836a740c6b253a2d6" label="Mixed Materials" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref82_3e9" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Newtown</unittitle>
+              <unitdate normal="1922/1925" type="inclusive">1922-1925</unitdate>
+              <container id="aspace_b5b4b39f3386b9122697dcbc116a4d26" label="Mixed Materials" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref83_igi" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Rockaway</unittitle>
+              <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+              <container id="aspace_8fe1cf18f746090cfed2c16a9e069080" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref84_b6l" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Richmond County (Staten Island)</unittitle>
+              <unitdate normal="1895/1925" type="inclusive">1895-1925</unitdate>
+              <container id="aspace_57d4e8e14e2e92f74c6f30d733a0de9e" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref85_zm0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Rockland County</unittitle>
+              <unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate>
+              <container id="aspace_e8755eba50763fb58e564f9a7ce13c08" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref86_q9l" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Schuyler County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_74601c73a604d256805b91dd43cc6514" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref87_did" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--St. Lawrence County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_e751a05a3f7e971fd67a3ed944bbb935" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref88_di0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Amagansett</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_3ffc378576b524538c550d6a4ac6f20f" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref89_is8" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Babylon</unittitle>
+              <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
+              <container id="aspace_b99fbeff54ee765d0fa3572dacce707a" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref90_8a7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Bridgehampton</unittitle>
+              <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
+              <container id="aspace_e931c53657b76624e64ba76b30911f45" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref91_4u5" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Brookhaven</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_b5562235f74483d730fc5d31986f1cef" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref92_fdy" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--East Hampton</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_6cdad09407af2516c83b7b8679323269" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref93_k9j" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Huntington</unittitle>
+              <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+              <container id="aspace_000b119f233064876d710e89525e0d77" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref94_ykr" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Islip</unittitle>
+              <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+              <container id="aspace_c9e166912803fedc37ab1d2b358f64bd" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref95_sxm" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Montauk</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_20a8d6325b39ed2355e5b20134116a91" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref96_gzt" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Sagaponick</unittitle>
+              <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+              <container id="aspace_2777d983b091c7f540e29bf199e17ca6" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref97_grq" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Shelter Island</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_bf97ad31c948c9fdbf282707497e84d4" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref98_xpz" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Smithtown</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_80733ec5fec0f7b4d4c20656a1a6b06b" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref99_6l5" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Southampton</unittitle>
+              <unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate>
+              <container id="aspace_fe7766f25b02fd028baa79bbd5cd1f4a" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref100_wtq" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Southold</unittitle>
+              <unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate>
+              <container id="aspace_3491c4c171a9d571610a406c6bc2c855" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref101_4du" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Ulster County</unittitle>
+              <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+              <container id="aspace_4e88064d2f4796abb0c579d02b261474" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref102_100" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Warren County</unittitle>
+              <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+              <container id="aspace_67a44817e6fc39a6d8061804940bd709" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref103_c4j" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Westchester County</unittitle>
+              <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+              <container id="aspace_19fb07188aa2175a2ba0331542959b9e" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref104_mqu" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Wyoming County</unittitle>
+              <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+              <container id="aspace_c84f3976c596e661e9f5785689c4a08f" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref105_ww1" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Unidentified</unittitle>
+              <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+              <container id="aspace_aac42f81e68f5259a80c2ba09e727dd7" label="Mixed Materials" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref106_xrb" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Berks County</unittitle>
+              <unitdate>1926 Oct.</unitdate>
+              <container id="aspace_90202ba0d0adaa78a0875d862a2dd03c" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref107_dms" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Carbon County</unittitle>
+              <unitdate>1925 Oct.</unitdate>
+              <container id="aspace_8cbaf9e4da4f6cdb7e73dbd28db85bd9" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref108_fao" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Dauphin County</unittitle>
+              <unitdate>1925 Oct.</unitdate>
+              <container id="aspace_8ec7144d059c1a415ef344f58e5be539" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref109_c9d" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Lehigh County</unittitle>
+              <unitdate>1926 Oct.</unitdate>
+              <container id="aspace_d6389061ccf5cd7df876a9123c5c4e6c" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref110_hyy" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Lycoming County</unittitle>
+              <unitdate>1925 Oct.</unitdate>
+              <container id="aspace_db12c085101b904e6c13e0fd44283e7f" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref111_eu1" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Monroe County</unittitle>
+              <unitdate normal="1925/1929" type="inclusive">1925-1929</unitdate>
+              <container id="aspace_f1daa2dc6ca4b989f55fd4e1cadfd26a" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref112_0th" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Northampton County</unittitle>
+              <unitdate normal="1925/1929" type="inclusive">1925-1929</unitdate>
+              <container id="aspace_fd9dfbc75afef03f3c2c50b65c591492" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref113_vny" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Philadelphia County: Philadelphia Tour Cards</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_50774f3d93e5ea3f5981a92f0f124377" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref114_m7l" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Schuylkill County</unittitle>
+              <unitdate>1925 Oct.</unitdate>
+              <container id="aspace_f30c3ffe085a025a4a592c07dea0d880" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref115_nb9" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania--Washington County: Williamsport Tour Cards</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_c8fe18ff1b28b2c3d9acda80de28aa1c" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref116_s5t" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Vermont--Bennington County</unittitle>
+              <unitdate>1927 Jul.</unitdate>
+              <container id="aspace_208dd57f9e9f76d8729b14515d9b9185" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref117_idq" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Vermont--Rutland County</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_637a631552750b25653136dd82f79cc7" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref118_xj7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Vermont--Windham County</unittitle>
+              <unitdate normal="1925/1930" type="inclusive">1925-1930</unitdate>
+              <container id="aspace_218d994ff39913f314f1f63c9a5a67e3" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref119_lke" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Vermont--Windsor County</unittitle>
+              <unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate>
+              <container id="aspace_0d8cac19dafb1289ce94dfbcb8fc6ae5" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref120_dlw" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Vermont--Unidentified</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_5dbe73a9456f4f0e2ee9c8e21167f139" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref121_nph" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada--Greenville-Welland</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_451a5eda1bd86de84ffb710f5a0709d9" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref122_3q2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada--Jacques Cartier</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_9128192fcdf948f6fd50d71924ab49ec" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref123_dx7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada--La Prairie</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_6e70dc17ff85b6a28734d3bcab5f22fb" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref124_xl2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada--Lavel</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_ca54362bb6e47f76af54168922ea9849" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref125_scf" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada--Quebec</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_b35d7c59d76ae4a93b4ab9e1a66a6309" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref126_lbs" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada--St. Johns</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_fd17a7399d9791005530b6657dd28100" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref127_z92" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada--Stormant</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_b131713acc1ecf503f6f2897d1fdec76" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref128_1nf" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada--Welland</unittitle>
+              <unitdate>1925 Jul.</unitdate>
+              <container id="aspace_1a13418476f864e4b3eb84b4ae683f63" label="Mixed Materials" type="Box">6</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref130_gct" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries II: Prints: 5 x 7"</unittitle>
+          </did>
+          <scopecontent id="aspace_7a127f7b549cfa828bf8f24648b3969b">
+            <head>Scope and Contents note</head>
+            <p>Subseries II is made up primarily of Brooklyn scenes. The prints are almost all labeled by Armbruster with the names of the original owner of the house, and of the notable people who lived in it; often the exact street address is noted. Armbruster sometimes noted on the back of prints when structures were torn down; most of these semi-rural houses have since been demolished. Neighborhoods (formerly separate towns) are noted, other prints marked "Brooklyn" mainly correspond to downtown Brooklyn and Brooklyn Heights. These prints generally correspond to the 5 x 7" Glass Plate Negatives in Series II, Subseries III, although there are unmatched prints and negatives.</p>
+          </scopecontent>
+          <c id="aspace_ref131_dyp" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Brooklyn</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_766e541029449c2dcebd57d31cb3f89e" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref132_t2j" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Bushwick</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_5c5fa46b4e3637e06f82e554e07f2c3f" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref133_mnu" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatbush</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_8aaf4f2ada60d46cfc6004500a5dcd6e" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref134_357" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatlands</unittitle>
+              <unitdate normal="1898/1922" type="inclusive">1898-1922</unitdate>
+              <container id="aspace_5264f780c09bd0e2d413380fe786405c" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref135_qu6" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Gravesend</unittitle>
+              <unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate>
+              <container id="aspace_53553ee5a06ae7c1be8b50c9a4fcddd1" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref136_h51" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--New Lots</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_e284c447d4e245b48baa5eae146091a2" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref137_10d" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--New Utrecht</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_7c77d584ed82ed91465255002259ad9f" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref138_27f" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Nassau County--Hempstead</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_82954a59c900b61edaf21ae6fa9e49c5" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref139_d87" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Nassau County--Oyster Bay</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_03e49891c121e89379f87ef8cc80d495" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref140_mjn" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--New York County (Manhattan)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_ee1a76aac03b2e52ae486498f1b74d96" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref141_ujj" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Flushing</unittitle>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+              <container id="aspace_cd535f7741521ddd755f6cb4c9489118" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref142_pj0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Newtown</unittitle>
+              <unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate>
+              <container id="aspace_293979e7aa7b912591f63cd4ddf10873" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref143_0jx" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Richmond County (Staten Island)</unittitle>
+              <unitdate>1925 May</unitdate>
+              <container id="aspace_4c1e71071c3c7331f59950fc523dc4d8" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref144_6wn" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Westchester County</unittitle>
+              <unitdate>1925 May</unitdate>
+              <container id="aspace_57b0613e8f4b549e52aca03b4383eaff" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref145_rty" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_05fe81afa68076032ca9806a051aa33c" label="Mixed Materials" type="Box">7</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref147_id3" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries III: Mounted Prints</unittitle>
+          </did>
+          <scopecontent id="aspace_bf3d70efe0b59d99c76ea169a13e06a1">
+            <head>Scope and Contents note</head>
+            <p>Box 8 consists of several of the above 5 x 7" prints mounted on board with typed titles. Box 8A contains assorted mounted photographs, including an image of boaters in Prospect Park, a shot of Pierrepont Street in downtown Brooklyn covered in snow, a photo of Midland Beach in Staten Island, Lenox Avenue Bridge, Central Bridge, New York and Putnam Railroad Bridge, and others.</p>
+          </scopecontent>
+          <c id="aspace_ref148_7f3" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Brooklyn</unittitle>
+              <unitdate normal="1921/1923" type="inclusive">1921-1923</unitdate>
+              <container id="aspace_38b1ea07ffd48cc275b2c30e7c459769" label="Mixed Materials" type="Box">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref321_bef" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Manhattan, Brooklyn, Staten Island</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_3e250c0c6d81e22cde97b6974d1c7da4" label="Graphic Materials" type="Box">8A</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref151_ze9" level="series">
+        <did>
+          <unittitle>Series II: Negatives</unittitle>
+        </did>
+        <scopecontent id="aspace_bb5910d523fec79fcf00eb17b9b42a53">
+          <head>Scope and Contents note</head>
+          <p>Series II. Negatives is arranged in five subseries: Acetate Film Negatives: 4 x 5"; Nitrate Film Negatives: 5 x 7"; Glass Plate Negatives: 5 x 7" (and smaller); Glass Plate Negatives: 6.5 x 8.5"; and Glass Plate Negatives: 8 x 10".</p>
+        </scopecontent>
+        <altformavail id="aspace_8e5c52f756554703afad28a4037c3a05">
+          <head>Existence and Location of Copies</head>
+          <p>Digital copies of negatives related to New York are available in the <emph render="bold"><extref xlink:actuate="onRequest" xlink:href="http://digitalcollections.nyhistory.org/islandora/object/nyhs%3Aarmbruster">Shelby White and Leon Levy Digital Library</extref>.</emph></p>
+        </altformavail>
+        <c id="aspace_ref152_8b8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries I, Acetate Film Negatives: 4 x 5"</unittitle>
+          </did>
+          <scopecontent id="aspace_56c28927be6d77613c292a02d15b1f7b">
+            <head>Scope and Contents note</head>
+            <p>Subseries I is housed in envelopes, which are grouped by geographic region. The number of negatives in each grouping is listed in parentheses after the geographical location. These negatives seem to correspond, however roughly, to groupings of prints in Series I. It is probable that the geographic names found on each envelope were transferred from titles on the original film boxes. These envelopes are numbered; the number seems to correspond to their original physical placement in a cabinet in the N-YHS library stacks.</p>
+          </scopecontent>
+          <c id="aspace_ref153_mkw" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Connecticut (18)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_2bc72a2368167a7ab02669d447680d6b" label="Mixed Materials" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref154_ym0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Maine (72)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_4c1b9d14692613c480bf1bb16e650db9" label="Mixed Materials" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref155_1sm" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts (128)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_9a54ac0a6185c755d6efde33b6610b83" label="Mixed Materials" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref156_qqu" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Massachusetts and New Hampshire (174)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_50b624d69ab94a9f0c5d157ccbf7c3cf" label="Mixed Materials" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref157_vwm" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New England (419)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_d5ed08c9b90e84427bb5de9149eb8f4e" label="Mixed Materials" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref158_s0a" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New England (54)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_0b9f4ee08bc4b7804df6d156bbbd1876" label="Mixed Materials" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref159_bn7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Hampshire (211)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_303bd029aed45b2c816b462629d44bd8" label="Mixed Materials" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref160_mm0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New Jersey (48)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e56babe8ea2110ac72921e62eb8a9ff7" label="Mixed Materials" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref161_5c1" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York (31)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_da19ad29ccdacc5180fa2c953e5dcb1d" label="Mixed Materials" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref162_wx2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Brooklyn (146)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_d1dca60fccd908e3b8d77e5f8a127109" label="Mixed Materials" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref163_maz" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Bushwick (108)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_9fb391cd9a8deacc10aa7c811e8fbce6" label="Mixed Materials" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref164_orn" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatbush (88)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e0ceed4f779df81eca64a34ca7f8ee38" label="Mixed Materials" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref165_u0m" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatbush (53)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_5d814e0f772511abeea5af8169545ec4" label="Mixed Materials" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref166_8ug" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatlands (355)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_238ecafb2c143d6ae108bab3771716a5" label="Mixed Materials" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref167_wfs" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Gravesend (207)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_164fc32ff2fccc82127ec0906f185a62" label="Mixed Materials" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref168_wx1" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--New Lots (73)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_ac22b3c34288857531450338ecfc9ba9" label="Mixed Materials" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref169_iz4" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--New Utrecht (77)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_24f6b011470afeddbc818254669c5754" label="Mixed Materials" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref170_kri" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Lake Mohegan (50)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_9f07bd28dba686c0cec9e4b7afb993d0" label="Mixed Materials" type="Box">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref171_ugp" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Long Island (mixed) (15)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_7e6f50da794d35bfdaa92b4e563b3b3f" label="Mixed Materials" type="Box">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref172_48s" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Nassau County--Hempstead (32)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_cc76e7bab66933509158ba7931dcc85b" label="Mixed Materials" type="Box">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref173_kui" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Nassau County--Oyster Bay (1)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_c2c2276bc16bcf604f31bb3779563b92" label="Mixed Materials" type="Box">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref174_aie" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--New York County (Manhattan) (144)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_87bcb0a058d4724cc895f92663c3b784" label="Mixed Materials" type="Box">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref175_q9y" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Orange County--Newburgh (27)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_c8a8ff0727bd81f748297b46b66b3c5b" label="Mixed Materials" type="Box">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref176_se8" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Brookhaven (347)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_1084110cd3397667e397cd05a2e7ca14" label="Mixed Materials" type="Box">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref177_3dc" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--East Hampton (107)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_bffc545728b97df24b676bab3588772b" label="Mixed Materials" type="Box">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref178_v7w" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--East Hampton (204)</unittitle>
+              <container id="aspace_39ded69348bc41caad685b2180c328cd" label="Mixed Materials" type="Box">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref179_oig" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Hamptons (86)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_85baa59f0d8a614fcd247ee6b65b38ca" label="Mixed Materials" type="Box">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref180_sj6" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Huntington (16)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_bb1d31875aa5cbab1bd03eaf61295be7" label="Mixed Materials" type="Box">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref181_mzn" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Islip (8)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_58bd7e4b5a229786e8d682e28e91bafd" label="Mixed Materials" type="Box">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref182_h6w" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Montauk (452)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_2084ff16a488ab1eae8caf0ec3b4512c" label="Mixed Materials" type="Box">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref183_uug" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Shelter Island (1)</unittitle>
+              <container id="aspace_c1e45fa57751a2b9f4d9abc7eac5b1d8" label="Mixed Materials" type="Box">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref184_3l1" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Southampton (341)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_f0e019be7a345440ccdd54c0fa6811bb" label="Mixed Materials" type="Box">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref185_k72" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Suffolk County--Southold (21)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_963b28f902c7d5e6671213a354c80c82" label="Mixed Materials" type="Box">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref186_xsf" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Richmond County (Staten Island) (16)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_712650ca7dd5e3f308a362743f3ac734" label="Mixed Materials" type="Box">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref187_ij2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Far Rockaway (38)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e8c383088ebb45e602d287bb59577e19" label="Mixed Materials" type="Box">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref188_2pl" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Flushing (324)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_9138e4350a103ba5d9883f855b83f538" label="Mixed Materials" type="Box">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref189_ccj" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Flushing (129)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_4c3ef54bbf18115e3375977cab1f6a8b" label="Mixed Materials" type="Box">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref190_5i9" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Jamaica (407)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_65b156f5f62631b0148177711e41dcd6" label="Mixed Materials" type="Box">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref191_x6f" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Long Island City (245)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_3fc28a1b6c15347a075edbdf2888ff79" label="Mixed Materials" type="Box">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref192_4d0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Newtown (840)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_44d271055d78799b5d29859ea05dd6c6" label="Mixed Materials" type="Box">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref193_di4" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Newtown (423)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_98f2b678538a90eac0377acf45a65490" label="Mixed Materials" type="Box">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref194_f72" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Queens County--Rockaway Peninsula (19)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e7b88096ad28693d9390c0e9ad330b67" label="Mixed Materials" type="Box">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref195_ak5" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Westchester County (75)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_33d22bdfc35f1a8b341883d3b3de3eb3" label="Mixed Materials" type="Box">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref196_lre" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pennsylvania (102)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_cb52968bc7c7e5ef15be54255d4277ed" label="Mixed Materials" type="Box">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref197_a0s" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Vermont (47)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_a8c8d2b1f7e5560a282ab88d1aac4eff" label="Mixed Materials" type="Box">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref198_3xh" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Vermont, New Hampshire (41)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_cf5a18cdf93541031532a9b4f157dc6e" label="Mixed Materials" type="Box">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref199_k7r" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Vermont, New Hampshire, Massachusetts (60)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_9ea48b52081aaa8e31f50abf26c1ed02" label="Mixed Materials" type="Box">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref200_vv4" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Canada (287)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_ee14cf4922bcb2e833b78a361eedff3d" label="Mixed Materials" type="Box">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref201_h2a" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified (340)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_ec4087c38c33adfb55428fc667ac3ec8" label="Mixed Materials" type="Box">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref202_gc6" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified (448)</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_fcf89c10d893e7c2085ead46c7fef64d" label="Mixed Materials" type="Box">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref203_5a1" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Deteriorated negatives</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_ad2f7c9f1a14ffba5d810f9445b4445f" label="Mixed Materials" type="Box">19</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref205_15r" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries II, Nitrate Film Negatives: 5 x 7"</unittitle>
+          </did>
+          <scopecontent id="aspace_fe00448b3ea99feb09ac723a3b6c3689">
+            <head>Scope and Contents note</head>
+            <p>Subseries II is composed mainly of views of residential houses, including some of Brooklyn row houses. Most of these photographs appear to be on Long Island; many shots show wooden, farm-like houses. The same scene is often shown in several negatives. A churchyard in East Hampton is pictured with an elaborate sepulchre. Windmills are shown for many of the Long Island towns. Several of the negative boxes had Armbruster's notation on the geographical location of negative subjects. The negatives in the boxes which lacked any notation have been arranged by general subject category.</p>
+            <p>Nitrate negatives were interleaved with acid free paper and stored five to a negative sleeve. Several of the negative boxes had Armbruster's notation on geographical place of negatives. These negatives are grouped by geography after Armbruster's titles (which appear in quotation marks) and then further divided by subject. Many other boxes had no notation. These negatives were arranged by general subject category. Nitrate negatives were assigned box numbers in coordination with other nitrate negatives held by the New-York Historical Society. These negatives are located on Floor 14 in the N-YHS Library Stacks. (See also, Separated Material)</p>
+          </scopecontent>
+          <c id="aspace_ref206_ibl" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Amaganset, Wainscott "--Farms</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_89d368b0938d131714d3ae419672db0c" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref207_97y" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Amaganset, Wainscott "--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_fc0addaf827959a5c77257f819919af5" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref208_0m6" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Amaganset, Wainscott "--Landscapes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_72b64ea8bd911a16d6155f445ad84833" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref209_wmv" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Amaganset, Wainscott "--Windmills</unittitle>
+              <container id="aspace_2c737555120049303e27936c6ba10426" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref210_wpd" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"East Hampton"--Churches/churchyards</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_880f86dcd532a5b731bfe337ead14dec" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref211_t8r" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"East Hampton"--Farms</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_1279e0dbaf34bca22fe2fccdacc14093" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref212_ehx" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"East Hampton"--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_2ace4045c145fbfae5aca1f240ed129f" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref213_3hb" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"East Hampton"--Windmills</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_adf0aca1e41e01876714aa11ebfe3075" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref214_39y" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Gravesend, New Utrecht, New Lots, Canarsie"</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_f47c7eeb3004743e9d6ce7247154cc83" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref215_135" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Huntington-Old House"</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_6f4db14bb53a6700ef88d2682e7d5520" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref216_u9q" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Manhasset -- Roslyn, Little Neck, Dougleston, Alley Road"--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_19db083e6f189f75d78433dee9df389d" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref217_6i2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Manhasset -- Roslyn, Little Neck, Dougleston, Alley Road"--Landscapes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_158a9f848ab6d624bfdba96c01c7525e" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref218_wye" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Manhasset -- Roslyn, Little Neck, Dougleston, Alley Road"--Other</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_f1bac0920eb408539df0ef1eb8bc5655" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref219_pez" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Melville Alley, Moriches"--Buildings</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_bde2758cd39dd39588a40ef55727517d" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref220_zn5" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Melville Alley, Moriches"--Farmhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e1b8c620b8afada8b040724984c6c903" label="Mixed Materials" type="Box">N26</container>
+            </did>
+          </c>
+          <c id="aspace_ref221_j38" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Melville Alley, Moriches"--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_62f8baef6269237485570942082bb09d" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref222_66a" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Melville Alley, Moriches"--Landscapes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_fcd8ed7c0ac3e40eb83a9c02da6dd0d1" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref223_u1t" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"New York-Brooklyn"--Buildings</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_98e715ca5946083fafbcb032dd35a5fb" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref224_n4t" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"New York-Brooklyn"--Other</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_c1e662fd4347353665d94406c0e680e0" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref225_58y" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"New York-Brooklyn"--Rowhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_cb84e14e5c1f83b2b302e5fe258b76d8" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref226_2f7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"New York-Brooklyn"--Streets</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_7fa28a5fcd47374fcbc56832077a7baa" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref227_y1j" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"New York-Skyline"</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_3b4dbd6f077f435180598d278f78a59b" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref228_l50" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Patchogue, Bell Port, Yaphank, Brookhaven, Middle Is., Selden, Corem"--Architectural elements</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_23552149f875e94e83e2f3610a441e5a" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref229_394" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Patchogue, Bell Port, Yaphank, Brookhaven, Middle Is., Selden, Corem"--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_166c0bcf6a90a0b1f1cb0a1c65c4b8af" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref230_70b" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Patchogue, Bell Port, Yaphank, Brookhaven, Middle Is., Selden, Corem"--Landscapes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e598272925f88ce967156e0f8860736e" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref231_vvd" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Patchogue, Bell Port, Yaphank, Brookhaven, Middle Is., Selden, Corem"--People</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_f3bddf22a258c25537a595f099d20b8c" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref232_frr" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Ryerson"--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_43775701eb1dc78642b7451723792e95" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref233_9yd" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Ryerson"--Interiors</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e3d54353df6502ab5e957f600bd38ce6" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref234_xv4" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Stony-Brook, South-Haven, Happauge"--Barns</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_01caa21aeb95ef0e526fd4f1b6d376cd" label="Mixed Materials" type="Box">N27</container>
+            </did>
+          </c>
+          <c id="aspace_ref235_ijp" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Stony-Brook, South-Haven, Happauge"--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_983c0b6b767f27a9e8890849474a32ec" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref236_zum" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Stony-Brook, South-Haven, Happauge"--Landscapes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_9d3b4cad1899075123e8fcc8d6e8424d" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref237_dnp" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Stony-Brook, South-Haven, Happauge"--Other</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_5e7ae626144fe022145c72fd77459e65" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref238_c9j" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location---Architectural elements</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_4a503c215850aab514764b28839f9e9f" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref239_k6r" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Barns</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_5412e87e93459de63047046f9e84174f" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref240_hb1" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Boats</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_b0918e12c386dd8f8398835bca490f86" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref241_067" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Buildings</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_dd1d19f663ed1c4a55428647188f53da" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref242_361" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Cars</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_7d5477f7e93c0c2ccaccf065be9d8c3d" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref243_nx7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Churches</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_6b1623579b308e7478f6d0ffdb4adb92" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref244_24l" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Dams</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e503b5d2431cc0a32bb2254d8332ab4c" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref245_en2" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Farmhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_70ceb116a6f940fa5fbc9e484edc9c84" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref246_zev" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_a694debd301562e01b9710f8f171f917" label="Mixed Materials" type="Box">N28</container>
+            </did>
+          </c>
+          <c id="aspace_ref247_vgi" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_35d39620706c5ad120912b54e41894c5" label="Mixed Materials" type="Box">N29</container>
+            </did>
+          </c>
+          <c id="aspace_ref248_nzf" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_21873cb6d5501cab90d8b8cc8e32b415" label="Mixed Materials" type="Box">N30</container>
+            </did>
+          </c>
+          <c id="aspace_ref249_p6y" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_fd783d4d83a573af35166726e28d13cc" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+          <c id="aspace_ref250_qh5" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Interiors</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_b9dcccda9a0526214792f1cdae36ebf3" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+          <c id="aspace_ref251_58o" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Landscapes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_5a66dbe306c5fd598d61bbd57164b40e" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+          <c id="aspace_ref252_wv7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Other</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_9b4baed944ddd242efe6eb7d0945af44" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+          <c id="aspace_ref253_6gg" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--People</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_fe28d7c61550dab6adcf77ef66a5df09" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+          <c id="aspace_ref254_6y6" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Row houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_ebe9d8eb36439f964f584b69b981c8d5" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+          <c id="aspace_ref255_56x" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified location--Windmills</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_77c578a7c498beedd31ae6dab54602b9" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+          <c id="aspace_ref256_xji" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives of other Armbruster prints</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_2527e3ba6aeedc5e904231bbf772766a" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+          <c id="aspace_ref257_kcf" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives of drawings, newspapers</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_313990012cfa4d11588c9ea0d021d7d9" label="Mixed Materials" type="Box">N31</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref259_bvn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries III, Glass Plate Negatives: 5 x 7" (and smaller)</unittitle>
+          </did>
+          <scopecontent id="aspace_8fba12d050e0745edc367a1716d0a183">
+            <head>Scope and Contents note</head>
+            <p>Subseries III generally corresponds to prints found in Series I, Subseries II. All were taken in Brooklyn in 1922. When possible, negatives have been matched to prints and titled accordingly. When no print was available, a bracketed descriptive title was assigned to each negative. Negatives are not numbered, but are ordered geographically. Within each geographic designation, negatives are arranged loosely by subject: Buildings, Churches, Houses, and Other.</p>
+          </scopecontent>
+          <c id="aspace_ref260_j1r" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_0a846a6ff22fb490e8960e6549061c63" label="Mixed Materials" type="Box">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref261_k65" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_c3fe82068583438694763278ef778a2b" label="Mixed Materials" type="Box">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref262_dpu" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_b98310ccc52e82c0cd59a70eba71d442" label="Mixed Materials" type="Box">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref263_w2i" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatbush</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_4264ba3b40de82cb2088cfd1054be085" label="Mixed Materials" type="Box">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref264_ffd" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatbush</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_bf812b4c335c30318b4e6c30d97f3b58" label="Mixed Materials" type="Box">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref265_lt0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatlands</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_74a2268248def43d38ab90e4a6bf988e" label="Mixed Materials" type="Box">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref266_87f" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Flatlands</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_b8255d3d761259dceb4f8126429843e2" label="Mixed Materials" type="Box">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref267_o0l" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--Gravesend</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_49bd231118cf3f03b9a962f2d7849ee7" label="Mixed Materials" type="Box">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref268_63z" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>New York--Kings County (Brooklyn)--New Utrecht</unittitle>
+              <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+              <container id="aspace_f42b4fcbfbb5f585f51011a1c82932c5" label="Mixed Materials" type="Box">25</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref270_vsc" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries IV, Glass Plate Negatives: 6.5 x 8.5"</unittitle>
+          </did>
+          <scopecontent id="aspace_35c57ccca9ee9c7f5a2a4a1224a8dae4">
+            <head>Scope and Contents note</head>
+            <p>Subseries IV includes copy negatives from Frank Leslie's Illustrated Newspaper, the Brooklyn Eagle, engravings, oil paintings, pen and ink drawings; mainly of historic houses or buildings in Brooklyn. Many of these look as if Armbruster had pinned them to a board for enlarging purposes. The pins and board are visible in some of the negatives. There are also enlargements in this same manner of several of Armbruster's own prints. Copy negatives carry either Armbruster's or the original captions (and sometimes both). In cases where no caption was written on the negative, a bracketed descriptive title was assigned to each negative. Original negatives are grouped together and organized by subject. Copy negatives are also grouped together and organized by subject.</p>
+          </scopecontent>
+          <c id="aspace_ref271_q22" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Aerial views</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_e92128edbb1b540e3a5a40b3f58deae4" label="Mixed Materials" type="Box">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref272_cug" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Architectural Elements</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_6082bd1174dbbe465f83c167e8169b1b" label="Mixed Materials" type="Box">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref273_ey8" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Barns</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_0d2ed9904bf122f95d35c93a25cf2c6f" label="Mixed Materials" type="Box">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref274_jzd" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Boats</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_cd7f0669f1c2ae1d502c98d33d88eef8" label="Mixed Materials" type="Box">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref275_iqb" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Churches</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_6f347edbead75d14b48a051158a61491" label="Mixed Materials" type="Box">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref276_qg4" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Churches</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_77e147a457f709d81834e92a3a0c7b09" label="Mixed Materials" type="Box">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref277_rcq" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Farmhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_ddee9c7707bfbc5e5d88ddfa032072b7" label="Mixed Materials" type="Box">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref278_rlu" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_4d287f1ba44a52b61a4cf46480c6d7ff" label="Mixed Materials" type="Box">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref279_jwu" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Houses</unittitle>
+              <container id="aspace_91ab2c8c3b89eac930fa13a1fcb76d4d" label="Mixed Materials" type="Box">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref280_kbz" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Other</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_75d77759e304298107b6a319f3155461" label="Mixed Materials" type="Box">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref281_0ii" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: People</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_1c524bf4170ee2bfef3f16c8f10491da" label="Mixed Materials" type="Box">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref282_hz7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Rowhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_382cafbafec199f1e8118afb2e4fd8c4" label="Mixed Materials" type="Box">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref283_025" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Street Scenes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_4ea17300a012bec5f9830323120edd19" label="Mixed Materials" type="Box">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref284_hdh" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Aerial views</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_d995de82d6f6d3d0ce069eecec648abe" label="Mixed Materials" type="Box">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref285_47y" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Boats</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_569c24be2892078c618790e4787e7189" label="Mixed Materials" type="Box">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref286_i7g" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Buildings</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_bb0b866eb294c820b139afa518191159" label="Mixed Materials" type="Box">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref287_yk1" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Buildings</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_78830908eeeaaa65b1fcba5a5a687339" label="Mixed Materials" type="Box">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref288_mwc" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Buildings</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_562f857d20658dd811e2a514c75872c0" label="Mixed Materials" type="Box">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref289_9w6" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Churches</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_69c45dcfbb72390e8453cbbc3d14aa5a" label="Mixed Materials" type="Box">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref290_mw0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Farmhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_31e6fa36fcb97690eae6b591497c38d0" label="Mixed Materials" type="Box">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref291_nbu" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_cffa180effba7b31d388d8be43f58dea" label="Mixed Materials" type="Box">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref292_a30" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_45a18c91ee3adaa1e15b9bd1c4cf8538" label="Mixed Materials" type="Box">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref293_n17" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Landscapes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_94ce20a401443d073abe6af10b441b5f" label="Mixed Materials" type="Box">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref294_rr7" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Other</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_6d83a29dc74bbaa960329b2f27a419e8" label="Mixed Materials" type="Box">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref295_8o0" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: People</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_1fee61017d1ad48f6d213bdfa461b02f" label="Mixed Materials" type="Box">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref296_u8x" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Rowhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_4181e020b1fb013ad527de9adcccb80c" label="Mixed Materials" type="Box">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref297_72g" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Streets</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_a7ca7cc8f57c337e0d8c9cb3007c19d6" label="Mixed Materials" type="Box">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref298_67q" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy Negatives: Views</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_188c0fbda76c55e10d5705e6f2513f1c" label="Mixed Materials" type="Box">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref299_hda" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>2 Negative boxes with Armbruster's handwriting</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_ce0ba5eeb2d2abcb55111dc58d0ba638" label="Mixed Materials" type="Box">34</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref301_uev" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Subseries V, Glass Plate Negatives: 8 x 10"</unittitle>
+          </did>
+          <scopecontent id="aspace_7689a3905dae85fcb32dbfa46cdb3b80">
+            <head>Scope and Contents note</head>
+            <p>Subseries V contains mainly copy negatives. These consist of drawings of historic houses (some from newspapers or magazines.) and other views such as: Long Island Rail Road Tunnel; a map of the City of Williamsburgh; Old James Street Market, Brooklyn; View of Astoria, L.I. (printed by Currier and Ives); and Rutgers University. Original negatives show Ebbets field, the Manhattan skyline, Union Cemetary, and Armbruster's family tree. When no title was available, a bracketed descriptive title was assigned to each negative. Negatives are not numbered. Original negatives are grouped together and organized by subject. Copy negatives are also grouped together and organized by subject. Some broken negatives are in Box 35.</p>
+          </scopecontent>
+          <c id="aspace_ref302_s7k" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Aerial views</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_eed0feadf6ba98ed9e9306fc1547fa47" label="Mixed Materials" type="Box">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref303_xtm" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Buildings</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_55acbaeff08beaa76610c810aa5b0ba9" label="Mixed Materials" type="Box">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref304_xqe" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Churches</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_7b52aa198209bbf7162ebab76b716a81" label="Mixed Materials" type="Box">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref305_g0p" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_11a625c4b59bee45fa35e1acd1f50609" label="Mixed Materials" type="Box">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref306_n0u" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Landscapes</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_d5ae63eb1f9e0180b653fa030357b552" label="Mixed Materials" type="Box">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref307_zwl" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: Other</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_c9af1cde609380d0266fdb6baf50d7a2" label="Mixed Materials" type="Box">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref308_tnk" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Original negatives: People</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_a19ac5d9a4296a64451d32b51acc6a06" label="Mixed Materials" type="Box">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref309_f42" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives: Barns</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_aa77a523b5dd64e7d5cc4bcd929a9a90" label="Mixed Materials" type="Box">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref310_7cn" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives: Buildings</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_307ea0fa852edce13906f2d68be311f2" label="Mixed Materials" type="Box">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref311_ywq" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives: Farmhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_a72060b6a11d2533c66149c277e14c37" label="Mixed Materials" type="Box">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref312_q69" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives: Houses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_032150af4f1ebe17e636eb7bdfa22b46" label="Mixed Materials" type="Box">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref313_46l" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives: Other</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_0e025387fbf2b0dbbc9092ffd68fc36b" label="Mixed Materials" type="Box">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref314_v5t" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives: People</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_c6f6f2bb24049cefc8dbde6a0b1bd6a6" label="Mixed Materials" type="Box">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref315_k76" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives: Rowhouses</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_c122915a3bc6e249109ac4beb0a619ed" label="Mixed Materials" type="Box">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref316_nqz" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Copy negatives: Views</unittitle>
+              <unitdate>undated</unitdate>
+              <container id="aspace_f5f1c2d637ad86a98283bbfa1adc3071" label="Mixed Materials" type="Box">36</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
