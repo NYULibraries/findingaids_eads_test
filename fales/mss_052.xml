@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_052">mss_052</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Ralph E. Pickett Papers <num>MSS.052</num></titleproper>
+        <author>Rob Fellman, Phil Lauer, and Marvin Taylor</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Pickett01gm.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:49:21 -0500</date>.</creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Ralph E. Pickett Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Pickett, Ralph E.</persname>
+      </origination>
+      <unitid>MSS.052</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1954/1980" type="inclusive">1954-1980</unitdate>
+      <abstract id="aspace_d66e34570dfdc0f480745226ff89c30e">no content</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <acqinfo id="aspace_d7110c39301c10b9d3988b3240ee72c3">
+      <head>Provenance</head>
+      <p>The papers were donated to the Fales Library by Dean Ralph Pickett in 1982.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_3ffb28b0fade182eb35dd7a9aba40b93">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_08ed237de2b6eb3a0c2f4b6d5be783ac">
+      <head>Use Restrictions</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <bioghist id="aspace_144e79ba4585be9428adfb85cf460bd4">
+      <head>Biographical Note</head>
+      <p>Ralph Pickett was a professor at NYU at the School of Education and a generous donor to the Bobst Library. He had established in his name a special fund for the purchase of books the library would not normally have acquired, such as the Supplementum Hellenisticum and the full set of Migne's Patrologiae Latinae. He was also the author of numerous works of fiction, most of which remain unpublished, which, as Pickett describes in a letter to Frank Walker, then librarian at Fales, "...indicate the range of my interests and foibles - campus life, oddities in the law, mystery and detective stories, historical novels, and the bizzare, outre, arcane and screwball aspects of fellow humans. Some are pretty grim; one, "The Newest Nation", is bitterly satirical. A few are placid."</p>
+    </bioghist>
+    <scopecontent id="aspace_752929c430b94fca3cb499501ca695de">
+      <head>Scope and Content Note</head>
+      <p>The papers are primarily typewritten manuscripts of Pickett's unpublished fiction. There are also some handwritten notes and outlines which have been interfiled with the fiction to which it refers.</p>
+    </scopecontent>
+    <arrangement id="aspace_55acae3b1d4993fdf543ee19f6429400">
+      <head>Arrangement</head>
+      <p>The collection is comprised of 6 linear feet of material and is arranged into 2 series - Series I: Unpublished Manuscripts and II: Objects. The manuscripts are grouped by pseudonym and arranged alphabetically by title.</p>
+      <list numeration="arabic" type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Unpublished Manuscripts, Originals and Carbon Copies</item>
+        <item>Series II: Sherry Glasses and Boxes</item>
+      </list>
+    </arrangement>
+    <separatedmaterial id="aspace_d168df64af4cd445bca5e3b640ae0f6f">
+      <head>Separated Material</head>
+      <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
+    </separatedmaterial>
+    <prefercite id="aspace_b6f8173970ddadbbbaffb99be73e895c">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form:<lb/><lb/>
+Identification of item,  date (if known); The Ralph E. Pickett Papers; MSS 052; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <subject source="lcsh">Fiction |y 20th century.</subject>
+      <subject source="lcsh">Fiction |y 20th century.</subject>
+      <corpname source="naf">New York University. School of Education</corpname>
+      <corpname source="naf">New York University. School of Education</corpname>
+      <persname rules="dacs" source="local">Foote, Arnold</persname>
+      <persname rules="dacs" source="local">Foote, Arnold</persname>
+      <persname rules="dacs" source="local">Smith, Agatha</persname>
+      <persname rules="dacs" source="local">Smith, Agatha</persname>
+      <persname rules="dacs" source="local">Tremulis, Aftron</persname>
+      <persname rules="dacs" source="local">Tremulis, Aftron</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Unpublished Manuscripts, Originals and Carbon Copies</unittitle>
+        </did>
+        <scopecontent id="aspace_ab4eac21e3c5636e5f7d7d1c4f84dc86">
+          <head>Scope and Contents note</head>
+          <p>Series 1 contains 4 boxes containing original and carbon copy typewritten manuscripts of Pickett's unpublished fiction. Pickett wrote under his own name and various pseudonyms. The manuscripts are grouped by pseudonym and arranged alphabetically by title. Series 2 contains a sherry glass box fashioned by Ralph E. Pickett.</p>
+        </scopecontent>
+        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Foote, Arnold. <emph render="italic"> The Dorsays of New York.</emph> Chapters 1 through 6.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_92857298eccfecafae6ee3afa2c670ef">offsite</physloc>
+            <container id="aspace_6ba726a283b820844e85c51bf5efae9b" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_fda3af281b3a84cab8c0efb276440cf7" parent="aspace_6ba726a283b820844e85c51bf5efae9b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Foote, Arnold.<emph render="italic"> The Dorsays of New York.</emph> Chapters 7 through 11.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_75d320619f7b491e94d4c5b7084db122">offsite</physloc>
+            <container id="aspace_dfa8cb9884d3e6781a160ccc2f0843b9" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_939ce5ea99aa02cfc54b75b062c1db10" parent="aspace_dfa8cb9884d3e6781a160ccc2f0843b9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Foote, Arnold. <emph render="italic"> The Dorsays of New York.</emph> Chapters 12 through 18.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_38474a7aa5c589f0fb2b26544854155a">offsite</physloc>
+            <container id="aspace_4ef3f364d5050db779eff934e3e4b988" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_5b4f7e1c2423b7cb953374accb2e41c9" parent="aspace_4ef3f364d5050db779eff934e3e4b988" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Foote, Arnold. <emph render="italic"> The Dorsays of New York. </emph>Chapters 19 through 23.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_ae03b4a5304cdb3c158bedce1a2a6639">offsite</physloc>
+            <container id="aspace_c42e8a07c7517f0ce6648d8ea410c7ab" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_f2e0b3cfa654d25da44faa940c4c3385" parent="aspace_c42e8a07c7517f0ce6648d8ea410c7ab" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Foote, Arnold. <emph render="italic"> The Dorsays of New York.</emph> Chapters 24 through 27.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_17b14045844dbb3eebdd18ab99cea0cc">offsite</physloc>
+            <container id="aspace_29452a992014cccf8eaba18977d2482a" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_f6ff69df34d4d3c25be2cd3442053d1c" parent="aspace_29452a992014cccf8eaba18977d2482a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Foote, Arnold. <emph render="italic">The Dorsays of New York.</emph> Chapters 28 through 31.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_a1b5dc17f9b0543d6dc09f6399e6c747">offsite</physloc>
+            <container id="aspace_be87f8f4cb9407d10b4e8609a7bdaeeb" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_a06fa2d6de12ef56e513f36181c24687" parent="aspace_be87f8f4cb9407d10b4e8609a7bdaeeb" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Foote, Arnold. <emph render="italic"> The Dorsays of New York.</emph> Chapters 32 through 36.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_b448a4ec2d9465bd0e8b0de76ee0c2c0">offsite</physloc>
+            <container id="aspace_2da54751d400288e2fbaf081ee223159" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_916c466570b55078b95fb7df7ad18967" parent="aspace_2da54751d400288e2fbaf081ee223159" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Adirondack Storm.</emph></unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_0febb1b84116d4aa0830281d44f72c48">offsite</physloc>
+            <container id="aspace_c0611aedd8e708a9c452900bff92c6c3" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_ffcea602c94e94bdafff07da0cd3d3c0" parent="aspace_c0611aedd8e708a9c452900bff92c6c3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Anatomy of a Legacy.</emph> Chapters 1 through 3.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <physloc id="aspace_513959d70e3c0fa638d7ce5c4b9ce6f3">offsite</physloc>
+            <container id="aspace_968b9c333226d5172492e59b82ff3b83" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_d681c25a698e3eab17201b604b3c7b82" parent="aspace_968b9c333226d5172492e59b82ff3b83" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Anatomy of a Legacy.</emph> Chapters 4 through 10.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <physloc id="aspace_9dbb275409fd3106853b790110dff6f6">offsite</physloc>
+            <container id="aspace_34420019ad63e4758abcd59112bdd482" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_4418897864a3c9b36a0eb691d545b94d" parent="aspace_34420019ad63e4758abcd59112bdd482" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Anatomy of a Legacy.</emph> Chapters 1 through 5.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <physloc id="aspace_ee48deaf3a93896b98f050c5314317df">offsite</physloc>
+            <container id="aspace_a42d686ecfe33836fc9abdb641c58b33" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_c8ba145c74b4baf8dd6bc56a96df633c" parent="aspace_a42d686ecfe33836fc9abdb641c58b33" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Anatomy of a Legacy.</emph> Chapters 6 through 10.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <physloc id="aspace_a537ef60459833fed91e231f57743693">offsite</physloc>
+            <container id="aspace_c6b2459979ed0854a18c54ade6a3c58a" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_b42cae559c9ff3aa49691e50fbb4725e" parent="aspace_c6b2459979ed0854a18c54ade6a3c58a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Anatomy of a Legacy.</emph> Chapters 6 and 7.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <physloc id="aspace_abe416c7272657c9126335672b20e4c0">offsite</physloc>
+            <container id="aspace_72b09ee3e190d35ba419c5caed754266" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_2673891a8b64ff180ce0c5ecae8a5943" parent="aspace_72b09ee3e190d35ba419c5caed754266" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Anatomy of a Legacy.</emph> Chapters 8 through 10.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <physloc id="aspace_13b6d0e4ea9b26361d0292e8292abae1">offsite</physloc>
+            <container id="aspace_11f128e0139560632468485ffd81910b" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_9f0f2ca46729beb791726dbfffeda5a9" parent="aspace_11f128e0139560632468485ffd81910b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">And About Time! </emph> (two copies)</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <physloc id="aspace_e4045d8c9514c9549629791b6a2b76b4">offsite</physloc>
+            <container id="aspace_1b6adf621dcaa835c2d0297c625a6d7a" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_e9fddb48b6f1849dad10fb250b980cc6" parent="aspace_1b6adf621dcaa835c2d0297c625a6d7a" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">The Coincidental Murders</emph></unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1972</unitdate>
+            <physloc id="aspace_9c94fa347a0a6f15a967e05e1eccd6d6">offsite</physloc>
+            <container id="aspace_55d03f716d99b3d479481398dfb6c2be" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_dae32a70ad6753e1028628858dfdfe8b" parent="aspace_55d03f716d99b3d479481398dfb6c2be" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">The Coincidental Murders</emph></unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1972</unitdate>
+            <physloc id="aspace_c780d32e42055b2b0d275c4bf081be49">offsite</physloc>
+            <container id="aspace_43b4265123149b0317475929e0592d02" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_51cf26857cf0c1f4046a8c9497f5095b" parent="aspace_43b4265123149b0317475929e0592d02" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Episodes in the Life of Debby. </emph>Chapters 1 through 7.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1958 (rev. 1979)</unitdate>
+            <physloc id="aspace_232f70516e63e005aa6ce666989327c2">offsite</physloc>
+            <container id="aspace_a1f2ea9494ff02aabf6b66835735642d" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_da1069bd53928139ccd0ecd5ee75d04b" parent="aspace_a1f2ea9494ff02aabf6b66835735642d" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Episodes in the Life of Debby. </emph>Chapters 8 through 11..</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1958 (rev. 1979)</unitdate>
+            <physloc id="aspace_caa826a9244d269084c32ebdeb952fc9">offsite</physloc>
+            <container id="aspace_8a94fb5dfc79cb8afbb4ad703cd66ab8" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_ab2ec3ea5d8d34f87b4a29dc86d00119" parent="aspace_8a94fb5dfc79cb8afbb4ad703cd66ab8" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Episodes in the Life of Debby.</emph> Chapters 1 through 7.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1958 (rev. 1979)</unitdate>
+            <physloc id="aspace_03ddcd99829a44b52dccc22a15efc726">offsite</physloc>
+            <container id="aspace_0b67f18dc66be4dda94fa9ad80718468" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_afb278c300fec2bfc9a1f05a09dc67e3" parent="aspace_0b67f18dc66be4dda94fa9ad80718468" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Episodes in the Life of Debby. </emph>Chapters 8 through 11.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">1958 (rev. 1979)</unitdate>
+            <physloc id="aspace_93ba2ad46be35f27b7587eeb35e6edfe">offsite</physloc>
+            <container id="aspace_9577551e0cb2d201e0540533ad511c7b" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_1430544d220cbe6049dd69372a7ad4f1" parent="aspace_9577551e0cb2d201e0540533ad511c7b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Family Secret.</emph></unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_61de1ddc2c77134c2b20ddd05daeeb31">offsite</physloc>
+            <container id="aspace_d59996d81c963d9ce702d53075483c1a" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_1fa24ab5372435eac7fc1a12912603f3" parent="aspace_d59996d81c963d9ce702d53075483c1a" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Five Unsettling Tales.</emph> Stories 1 through 3.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_1602fb0ceb906f03a6c32e1e649a3ad4">offsite</physloc>
+            <container id="aspace_4ef45bfa996e5a096408ee192575c7a7" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_42a55417e973693a247b8093ebcec61c" parent="aspace_4ef45bfa996e5a096408ee192575c7a7" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Five Unsettling Tales.</emph> Stories 4 through 5.</unittitle>
+            <unitid>31142040610720</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_6f76e9960be0fc369267f3d5ec16feed">offsite</physloc>
+            <container id="aspace_5e304edd260202dda8842efaa97fa0c4" label="Mixed Materials [31142040610720]" type="Box">1</container>
+            <container id="aspace_4b8b72fe8ed94dcb81affd61e401c250" parent="aspace_5e304edd260202dda8842efaa97fa0c4" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Five Unsettling Tales.</emph> Stories 1.</unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_6cb475a60ff40039436ec86da9e0cf93">offsite</physloc>
+            <container id="aspace_d4a63c6d862eccf04fa1ce870eb37ce9" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_94cb36aea76a2b3f5c57acee99c18f1c" parent="aspace_d4a63c6d862eccf04fa1ce870eb37ce9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Five Unsettling Tales.</emph> Stories 2 through 5.</unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_b15d2ea59db60467c3f2278fa28de215">offsite</physloc>
+            <container id="aspace_8f5f3e4eb513c3b861c91ffe65a51187" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_2e166ea03abad2bb569d6e48268bbe20" parent="aspace_8f5f3e4eb513c3b861c91ffe65a51187" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Foley's Folly</emph> (two copies).</unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_a8cefde100346ef3a67afd136e3739d2">offsite</physloc>
+            <container id="aspace_cd9512e9d6a38ec2f173ecf9597f706c" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_0f3f289cf875dc2757507d93ec235c03" parent="aspace_cd9512e9d6a38ec2f173ecf9597f706c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">The Highboy</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_068d96f8907fd266af18269fe8c7c5aa">offsite</physloc>
+            <container id="aspace_6df63340324055796d099d3633240459" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_a578b9fd386a0ca08c9050155dc4ffca" parent="aspace_6df63340324055796d099d3633240459" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">The Imperial Tramp</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">1962 (rev. 1975)</unitdate>
+            <physloc id="aspace_406c5d4883c82180df66d9f75e9ebc8c">offsite</physloc>
+            <container id="aspace_755a4ac10ac33f6b83246f04274794d1" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_7729fe6903f23c60849f3fde5477ac39" parent="aspace_755a4ac10ac33f6b83246f04274794d1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Joe Norden</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">1972</unitdate>
+            <physloc id="aspace_3955c0f678e17fbe8bd6844dcb8c33c6">offsite</physloc>
+            <container id="aspace_2790772fca8c9afa5b44bbaaafd89df1" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_7ce45dc0b7637133a92a552b6138e0af" parent="aspace_2790772fca8c9afa5b44bbaaafd89df1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Joe Norden</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_de53a65f2becf36b5a8fef915ff24d0d">offsite</physloc>
+            <container id="aspace_e98d6c3b9c008c0a25bf562d0454bf12" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_ad1d68019f4cb99f93c71d1df9859c5c" parent="aspace_e98d6c3b9c008c0a25bf562d0454bf12" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Magna University</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_0e6fd69cb68669dbffbea7c00f2993bb">offsite</physloc>
+            <container id="aspace_ff410b93d6bbbde095e358443dac5a7d" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_38965acb44dfe832b8ba408ddcecc5d5" parent="aspace_ff410b93d6bbbde095e358443dac5a7d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Magna University</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_8a8b32e576933c4a2ba4701a653bb2ce">offsite</physloc>
+            <container id="aspace_f00fb03a446cb3a5b3faf36b53ab11dc" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_a457e05556a210252ad2de09833fc1b8" parent="aspace_f00fb03a446cb3a5b3faf36b53ab11dc" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Mr. Burnt Bones Beheaded</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">1970</unitdate>
+            <physloc id="aspace_b4e852dbbb5a4d62749db2db91d6099b">offsite</physloc>
+            <container id="aspace_aa7d26b449d53a7c39e029491bb73b12" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_50eaf0ed6e353913819e7dd904b9e699" parent="aspace_aa7d26b449d53a7c39e029491bb73b12" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Mr. Burnt Bones Beheaded</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">1970 (rev. 1972)</unitdate>
+            <physloc id="aspace_b6336028eeacff708248700d469e027a">offsite</physloc>
+            <container id="aspace_502249139d25d9e14007d745e1dbd921" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_2c76c5131262095f832893ce16aa7441" parent="aspace_502249139d25d9e14007d745e1dbd921" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">The Mystery at Wildwood.</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_e9d49715f822841dab68f718abd04dc0">offsite</physloc>
+            <container id="aspace_322272e4aee5f88bf444fece68c93920" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_37e231f6c69daa26f1b3506b78af67e5" parent="aspace_322272e4aee5f88bf444fece68c93920" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Nine Short Stories Plus One Featuring Lieutenant Lorch.</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_5fb84b6fb9db8025da2a959d8323b0b2">offsite</physloc>
+            <container id="aspace_137f1e93716fb75c48d0e6ef4061039b" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_6c7f5e7c392038076946b0cb13fad5e3" parent="aspace_137f1e93716fb75c48d0e6ef4061039b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">One Semester at Chester.</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_586d98bce7aafa1518be38e0beddfd02">offsite</physloc>
+            <container id="aspace_d887f8de92be30da85690abde672d9a2" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_19ec867ffabb7104a1e7408f373459f9" parent="aspace_d887f8de92be30da85690abde672d9a2" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Pamela Spelrode in Peril.</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">1969 (rev. 1975)</unitdate>
+            <physloc id="aspace_b8973081457016d95591ca55f81035b2">offsite</physloc>
+            <container id="aspace_b7a65d48fb66bd5fbbcbdca273e84f13" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_cdaff06b7deb0a5df454d1d056c105fe" parent="aspace_b7a65d48fb66bd5fbbcbdca273e84f13" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Pamela Spelrode Married.</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">1972 (rev. 1979)</unitdate>
+            <physloc id="aspace_cea3e4f001aef325a77c30d057097bb0">offsite</physloc>
+            <container id="aspace_85e4c68195c1bd047f72b30abc9ba40d" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_3ce12e49c25c88c5cfe46895d5408411" parent="aspace_85e4c68195c1bd047f72b30abc9ba40d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Pamela Spelrode Married.</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">1972 (rev. 1979)</unitdate>
+            <physloc id="aspace_bbc0ded75ece1f93e72a38078b81b9e5">offsite</physloc>
+            <container id="aspace_5ff63eae9985fc9e8a01f5ea8457162d" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_10ae6559229a9266d1ddef7464bf98ff" parent="aspace_5ff63eae9985fc9e8a01f5ea8457162d" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Parnassus For All.</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_dfc4a03bd4250f772233def63d2d4278">offsite</physloc>
+            <container id="aspace_58cbc5fa10e938eea49721cd088c1168" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_4b57097ea779e11ffb7278264dd88bcc" parent="aspace_58cbc5fa10e938eea49721cd088c1168" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Parnassus For All.</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_8b9051dd18856efba04214c516cad277">offsite</physloc>
+            <container id="aspace_5934ef6bb689807dcf770b2fb92242b3" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_b94435749042c5da7f80403645cea29f" parent="aspace_5934ef6bb689807dcf770b2fb92242b3" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., Professor, <emph render="italic">You Amaze Me!</emph></unittitle>
+            <unitid>31142040610738</unitid>
+            <unitdate datechar="creation">1972</unitdate>
+            <physloc id="aspace_3c42da3fb2ecf1131facd5e6bc1a5f28">offsite</physloc>
+            <container id="aspace_be3cd418f763e5b074f170af1c5e3046" label="Mixed Materials [31142040610738]" type="Box">2</container>
+            <container id="aspace_e0d31b590a1d1aedd3f2ca8444e90fd1" parent="aspace_be3cd418f763e5b074f170af1c5e3046" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Psychiatrist's Case Book.</emph> Pages 1 through 152.</unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1954 (rev. 1979)</unitdate>
+            <physloc id="aspace_9709e188224e527f06d77e551cac0da8">offsite</physloc>
+            <container id="aspace_520e63ad8a2006f74b8770917405cc70" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_0a14800affe018b511ab0b0c1056ce37" parent="aspace_520e63ad8a2006f74b8770917405cc70" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Psychiatrist's Case Book.</emph> Pages 153 through 291.</unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1954 (rev. 1979)</unitdate>
+            <physloc id="aspace_4fca238ed13cd576acda406e5158c289">offsite</physloc>
+            <container id="aspace_b25683d2242cd440f39bf684bb93183a" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_51621b687553b092dc4e3fde4743a188" parent="aspace_b25683d2242cd440f39bf684bb93183a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Psychiatrist's Case Book.</emph> Pages 1 through 152.</unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1954 (rev. 1979)</unitdate>
+            <physloc id="aspace_171e21fc2469f581fccb142d208a8385">offsite</physloc>
+            <container id="aspace_6ef2811f5a408e95344a9d84f6365054" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_83ce8f15c5d5bc84a8edb5bc60d71490" parent="aspace_6ef2811f5a408e95344a9d84f6365054" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Psychiatrist's Case Book.</emph> Pages 153 through 291.</unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1954 (rev. 1979)</unitdate>
+            <physloc id="aspace_de0591141893d211274a25fd06e257d5">offsite</physloc>
+            <container id="aspace_445af3b232981edfe8b7b82d93c83310" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_05edaf77b9c509d870be493c7f8c2cb1" parent="aspace_445af3b232981edfe8b7b82d93c83310" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Rape's Progress Book One: Flora</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1960 (rev. 1978)</unitdate>
+            <physloc id="aspace_62c0befe2c097f558ce649f220030bb7">offsite</physloc>
+            <container id="aspace_7284e523b668c261e361ff50c5228aa9" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_ded6a87244d5fd170a7f557b32db596a" parent="aspace_7284e523b668c261e361ff50c5228aa9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Rape's Progress Book One: Flora</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1960 (rev. 1978)</unitdate>
+            <physloc id="aspace_2c896605e19095cc0a3130d5e310a900">offsite</physloc>
+            <container id="aspace_4726aa32c033b85d7ae1608954d2c6cc" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_72b868216dff4019b84aa5f95227cdee" parent="aspace_4726aa32c033b85d7ae1608954d2c6cc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Rape's Progress Book Two: Mandy</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1960 (rev. 1978)</unitdate>
+            <physloc id="aspace_25cda4726db67f415ac907794aa9171f">offsite</physloc>
+            <container id="aspace_43c0b8dc401035e83bcf2a357b95c33c" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_44b3bd5a62e678081890826268adad1e" parent="aspace_43c0b8dc401035e83bcf2a357b95c33c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Rape's Progress Book Two: Mandy</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1960 (rev. 1978)</unitdate>
+            <physloc id="aspace_97b159037bfa22dc9a9c918e489dfe83">offsite</physloc>
+            <container id="aspace_146e20fc0a8f25c1fcdbbfddfc871053" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_51fe8fafa2d686f811901c763c0751f5" parent="aspace_146e20fc0a8f25c1fcdbbfddfc871053" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Rape's Progress Book Three: Stanley</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1960 (rev. 1978)</unitdate>
+            <physloc id="aspace_c81e60412d64f56b6fb7bca01b35680b">offsite</physloc>
+            <container id="aspace_a25d34bf06fbde7731c1b8ff8356564d" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_04a56b99b25dfceb9fe008bac4cee660" parent="aspace_a25d34bf06fbde7731c1b8ff8356564d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Rape's Progress Book Three: Stanley</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1960 (rev. 1978)</unitdate>
+            <physloc id="aspace_0eb5f9e5c76d32ddb0a064be79d3a790">offsite</physloc>
+            <container id="aspace_36059e3738f833350ff0990b4259f9a8" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_1730fce98983c15b3274e8ba570745c8" parent="aspace_36059e3738f833350ff0990b4259f9a8" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Ride That Hobby.</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_d152072727dd7b9e0fa17ac1a981b331">offsite</physloc>
+            <container id="aspace_a6962b528a150b99be54cfb7cd8ea9d1" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_4c9f5d54a8007f7e510d0c966a06bfa8" parent="aspace_a6962b528a150b99be54cfb7cd8ea9d1" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Second Semester at Chester.</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1982</unitdate>
+            <physloc id="aspace_aadc66bf273717990301dd628c9e8084">offsite</physloc>
+            <container id="aspace_d48052870a2df4c40dc41c7d6db1d83b" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_aabab848b053834806e2febe3f5e5c41" parent="aspace_d48052870a2df4c40dc41c7d6db1d83b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Second Semester at Chester.</emph> Pages 1 through 105.</unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1982</unitdate>
+            <physloc id="aspace_f13fbc5d95c25badd6de964948fecce5">offsite</physloc>
+            <container id="aspace_45bf5dfc0d475fdb766b840b24da9b45" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_c286e1dfa02589258c65fb9d1936cc5c" parent="aspace_45bf5dfc0d475fdb766b840b24da9b45" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Second Semester at Chester.</emph> Pages 106 through 217.</unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">1982</unitdate>
+            <physloc id="aspace_e71e700098a35bfd179cd7fb6098ab88">offsite</physloc>
+            <container id="aspace_37143f81beac42413f495879897c5db4" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_f8ba33cd0b56d1aa31eb729aa6d418bc" parent="aspace_37143f81beac42413f495879897c5db4" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">A Selection of Ten Odd Tales.</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_c5db2d85c1406143fc1875dde635754f">offsite</physloc>
+            <container id="aspace_cb74706638af594202f54ced4c384614" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_ddc21bc2c078fa81d556dc233d8f9660" parent="aspace_cb74706638af594202f54ced4c384614" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Shorts and Short Shorts.</emph> Part 1</unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_63478715ae69fbc119cf9f9b76acfc1c">offsite</physloc>
+            <container id="aspace_058065ec77babb87409a7ab25a266901" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_589c6c64216e609ba16027b62ace4268" parent="aspace_058065ec77babb87409a7ab25a266901" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Shorts and Short Shorts.</emph> Part 2</unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_a7bd56401f11bc154f53ecc13d85e2a0">offsite</physloc>
+            <container id="aspace_e11e26b413f2718e32195fd0ba89aa11" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_ea882787eafc0bbe3be8b8d6fc07359a" parent="aspace_e11e26b413f2718e32195fd0ba89aa11" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Tales of the Willowmere.</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_09a532db74a52b39724ea0eea3de5491">offsite</physloc>
+            <container id="aspace_636480939fefeb5677b57073067b13e9" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_6edea1167df434d6ba930c50bf946120" parent="aspace_636480939fefeb5677b57073067b13e9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Tales of the Willowmere.</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_99ebc06d37ab927440582be07db39752">offsite</physloc>
+            <container id="aspace_d3fb1831226e2c07e71483fa5ac7895a" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_59cb711365b2234f34e2a66354af55a0" parent="aspace_d3fb1831226e2c07e71483fa5ac7895a" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Tales of the Willowmere.</emph></unittitle>
+            <unitid>31142040610746</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_49b1287ff23ff04291503a808b238e45">offsite</physloc>
+            <container id="aspace_345a67cd4771ec75e9a3299bdde5372f" label="Mixed Materials [31142040610746]" type="Box">3</container>
+            <container id="aspace_bdd1f7c1b6a1760eac3c829d3c1544ea" parent="aspace_345a67cd4771ec75e9a3299bdde5372f" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Ten Grisly Tales Plus Three.</emph></unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_ab15bd8a218af9a5275d7f5f9b2f971f">offsite</physloc>
+            <container id="aspace_b6124e916b6e1d0f5862deafab2733f2" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_d021afa06f625b2bfad04899daef33cc" parent="aspace_b6124e916b6e1d0f5862deafab2733f2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Ten Grisly Tales Plus Three.</emph></unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_271af11fac0f48936d5de232dac96f7d">offsite</physloc>
+            <container id="aspace_bde40a5859665d61383e099dc01aae06" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_181018ff5711931b6c420fce2a46c18c" parent="aspace_bde40a5859665d61383e099dc01aae06" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Terry Malwan.</emph></unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_22e88bac622a9f8ab8266ab802a8dbfa">offsite</physloc>
+            <container id="aspace_1f00ea398e4750222252efa817e3da9d" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_e3392a3e600827739f2b239a6145a652" parent="aspace_1f00ea398e4750222252efa817e3da9d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">The Unworthy Heirs.</emph></unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_8413df65078e3962c1010051c7a124f4">offsite</physloc>
+            <container id="aspace_98e92f37ce7d735f5aa0d2d1b1a0e6d4" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_ed8d5300fc6843e91ad72d347c57b7c5" parent="aspace_98e92f37ce7d735f5aa0d2d1b1a0e6d4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Up Where the Winds Blow.</emph> Chapters 1 through 14.</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">1965</unitdate>
+            <physloc id="aspace_862575236a0c99d28db3dd93ab0a74ac">offsite</physloc>
+            <container id="aspace_3efa69070e08a68dd93016d235bbd4e3" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_9f4746257aa76b4638232df31ee0fe1c" parent="aspace_3efa69070e08a68dd93016d235bbd4e3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Up Where the Winds Blow.</emph> Chapters 15 through 27.</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">1965</unitdate>
+            <physloc id="aspace_76fe7e0cd5250b2ffd108bbd2a6d2a66">offsite</physloc>
+            <container id="aspace_1c751b9fc5a6b5f9f01ef6fd11b6d7fd" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_5db5ad59a3f158d4a45eea6010066a17" parent="aspace_1c751b9fc5a6b5f9f01ef6fd11b6d7fd" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Up Where the Winds Blow. </emph>Chapters 28 through 33.</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">1965</unitdate>
+            <physloc id="aspace_4de639ffe74d9c752b980f9e9d1b0dad">offsite</physloc>
+            <container id="aspace_7d2242c179d2c591642f949b03ae9600" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_b232224458d1d78d59a132b005dac013" parent="aspace_7d2242c179d2c591642f949b03ae9600" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pickett, Ralph E., <emph render="italic">Up Where the Winds Blow. </emph>Chapters 33 through 40.</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">1965</unitdate>
+            <physloc id="aspace_4a3cc72f53c9c50e8018c2ea78010430">offsite</physloc>
+            <container id="aspace_25480c96577f223f2442ce08393cf177" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_4ee5f63cea292bd45f10865850da24c3" parent="aspace_25480c96577f223f2442ce08393cf177" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Smith, Agatha. <emph render="italic">Jordan Mystery</emph></unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_e9bf12d5f7fa156479cfc266104ea146">offsite</physloc>
+            <container id="aspace_b417d4d7a2e068165da4a6b4eacdfc5e" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_2c0276aac43255406d00cc77a9392765" parent="aspace_b417d4d7a2e068165da4a6b4eacdfc5e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Smith, Agatha. <emph render="italic">Jordan Mystery.</emph> Copy lacks pages 1 through 12.</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_a9135c09c9dad19a534b9302748b1f7a">offsite</physloc>
+            <container id="aspace_ebe0e84daae1b489ddb4886632eeb69b" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_978f310e2be109d302d0d86d9bf0a4e0" parent="aspace_ebe0e84daae1b489ddb4886632eeb69b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Smith, Agatha. <emph render="italic">Pushover Heaven.</emph></unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_b32b2071e3f14015dfc0bf51cbac02c0">offsite</physloc>
+            <container id="aspace_2c84e5d5c8f1eb0e6786e702dc81d78a" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_db6a93751afb02a32a2b33b7d7a7ee07" parent="aspace_2c84e5d5c8f1eb0e6786e702dc81d78a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Smith, Agatha. <emph render="italic">Pushover Heaven.</emph></unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_705d2281e8cd551eaf88959da7c51ce9">offsite</physloc>
+            <container id="aspace_80a8afec059bd23f4d434e2dd2dd0ee0" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_11357f114372a5ea57af4ef035dff5c2" parent="aspace_80a8afec059bd23f4d434e2dd2dd0ee0" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Smith, Agatha. <emph render="italic">Pushover Heaven.</emph> Chapters 1 through 5.</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_02198505a3f4636e2ac2a3987bb0c423">offsite</physloc>
+            <container id="aspace_c6166d85bca79857fa748241bcec2b4c" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_f182b958755dd1895385dd0beb734706" parent="aspace_c6166d85bca79857fa748241bcec2b4c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Smith, Agatha. <emph render="italic">Pushover Heaven.</emph> Chapters 6 through 11.</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <physloc id="aspace_1ffbb126503384769ba2d129e3151f0d">offsite</physloc>
+            <container id="aspace_e65287c90e40503ecdb146944280dbe0" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_57a868aef009ace144254472ac5aaecb" parent="aspace_e65287c90e40503ecdb146944280dbe0" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tremulis, Aftron. <emph render="italic">Campus Idyll.</emph> 3 copies</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">1930</unitdate>
+            <physloc id="aspace_5c5a9c5eccdb567937d75b3f0987a911">offsite</physloc>
+            <container id="aspace_b3f375e3b6ec8e27c1f2eb565dcd9efa" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_48999559ef6188f5869307622003af03" parent="aspace_b3f375e3b6ec8e27c1f2eb565dcd9efa" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tremulis, Aftron. <emph render="italic">Murder on the Huntley Campus</emph></unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">1980</unitdate>
+            <physloc id="aspace_5b77f607fc9228e6c11a90e2a5134bf0">offsite</physloc>
+            <container id="aspace_c6ca80afabf31fa0c5c36eee5ee6d88a" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_a27522fdc3845733206244153c1492ed" parent="aspace_c6ca80afabf31fa0c5c36eee5ee6d88a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tremulis, Aftron. <emph render="italic">Scandal At Huntley</emph> 2 copies</unittitle>
+            <unitid>31142040610753</unitid>
+            <unitdate datechar="creation">1980</unitdate>
+            <physloc id="aspace_71ee3ac7ee822e0b62e9c0de298f06e5">offsite</physloc>
+            <container id="aspace_cd948f9cf6e5b7eeacd46b385878d306" label="Mixed Materials [31142040610753]" type="Box">4</container>
+            <container id="aspace_c5466b1210081d408f11b4eddebf5d4b" parent="aspace_cd948f9cf6e5b7eeacd46b385878d306" type="Folder">17</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref175" level="series">
+        <did>
+          <unittitle>Series II: Sherry Glasses and Boxes</unittitle>
+        </did>
+        <c id="aspace_ref176" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Wooden boxes if sherry glasses. Constructed by Ralph Pickett.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 16.5" id="aspace_bd370b83758e3dd392c485f5954500c4" label="Mixed Materials [31142063397148]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Cardboard box, with velvet wrappings, containing 3 additional sherry glasses.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 16.5" id="aspace_fe4b84a0d4e469dba01bdd6e1bea98b3" label="Mixed Materials [31142063397148]" type="Box">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
