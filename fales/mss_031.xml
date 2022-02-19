@@ -1,0 +1,2382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_031">mss_031</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William Zinsser Papers <lb/><date>ca. 1946-1998 </date><lb/> <num>MSS.031</num></titleproper>
+        <author>Katherine Harris, June-November 1998</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Zinsser Finding Aid.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:43:54 -0500</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>William Zinsser Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Zinsser, William, 1922-2015</persname>
+      </origination>
+      <unitid>MSS.031</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">12.25 Linear Feet</extent>
+        <extent altrender="carrier">in 11 record cartons, 1 half manuscript box and 1 oversize flat box.</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">1 Cassettes</extent>
+        <extent altrender="carrier">1 audiocassette</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">1 electronic discs (cd-rom)</extent>
+        <extent altrender="carrier">1 IBM display write disk</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">10 sound discs (cd)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1936/1998" type="inclusive">circa 1946-1998</unitdate>
+      <abstract id="aspace_9bda8116308557057625f252cfb80e7c">William Zinsser's papers include correspondence, manuscripts, scrapbooks, reviews and teaching materials relating to his career as a writer, editor, and educator.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <custodhist id="aspace_84781c6cdcf559a171bf56f39c073593">
+      <head>Provenance</head>
+      <p>The William Zinsser Papers were a gift of William Zinsser in June 1998 in conjunction with the publication of the 6th edition of <title render="italic">On Writing Well</title>. Included in William Zinsser's gift to Fales Library was a collection of the books that he authored and edited. The accession number associated with these materials is 1998.031.</p>
+    </custodhist>
+    <accessrestrict id="aspace_956b0597ac69a63ddab1550e77202e6a">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <bioghist id="aspace_4dfe9eedb4c8f6fc75b95584632c3c04">
+      <head>Biographical Note</head>
+      <p>
+        <chronlist>
+          <chronitem>
+            <date>1922-1943</date>
+            <event>Born in New York City, 1922. Princeton University, class of 1944.</event>
+          </chronitem>
+          <chronitem>
+            <date>1943-1945</date>
+            <event>Enlisted in the U.S. Army (North Africa and Italy).</event>
+          </chronitem>
+          <chronitem>
+            <date>1946-1959</date>
+            <eventgrp>
+              <event><title render="italic">New York Herald Tribune</title>:</event>
+              <event>Feature writer, 1947-1948</event>
+              <event>Drama editor (in charge of Sunday section of theater, movies, music, dance, art, etc.) 1949-1954</event>
+              <event>Chief movie critic, 1955-1958</event>
+              <event>Editorial writer, 1958-1959</event>
+            </eventgrp>
+          </chronitem>
+          <chronitem>
+            <date>1959-1972</date>
+            <eventgrp>
+              <event>Free-lance writer of magazine articles, books and other projects. </event>
+              <event>Columnist for <title render="italic">Look</title>, 1967</event>
+              <event>Columnist for <title render="italic">Life</title>, 1968-1972</event>
+            </eventgrp>
+          </chronitem>
+          <chronitem>
+            <date>1970-1979</date>
+            <eventgrp>
+              <event>Yale University.</event>
+              <event>Teacher of nonfiction writing, 1970-1979</event>
+              <event>Editor, <title render="italic">Yale Alumni Magazine</title>, 1970-1977</event>
+              <event>Master of Branford College, 1973-1979</event>
+            </eventgrp>
+          </chronitem>
+          <chronitem>
+            <date>1977</date>
+            <event>Columnist for the <title render="italic">New York Times</title>, Home Section, March-September.</event>
+          </chronitem>
+          <chronitem>
+            <date>1979-1987</date>
+            <eventgrp>
+              <event>Book-of-the-Month Club.</event>
+              <event>Executive Editor in charge of in-house publications. Also responsible for the club's educational and public service activities (public lectures, exhibits, etc.).</event>
+            </eventgrp>
+          </chronitem>
+          <chronitem>
+            <date>1976</date>
+            <event>Lecturer, teacher and consultant on writing to colleges, schools, school systems, newspapers, magazines, businesses, etc.</event>
+          </chronitem>
+          <chronitem>
+            <date>1987</date>
+            <event> Free-lance writer of magazines and books. Fifteen books published altogether.</event>
+          </chronitem>
+          <chronitem>
+            <date>1988-present </date>
+            <event> Teacher of writing at the New School.</event>
+          </chronitem>
+        </chronlist>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_c528856aaeecf8781d5b7bb836d02ed2">
+      <head>Scope and Content Note</head>
+      <p>William Zinsser's papers include correspondence, manuscripts, scrapbooks, reviews and teaching materials relating to his career as a writer, editor, and educator. Also included is an audio tape of <title render="italic">On Writing Well</title> read by William Zinsser (Nov. 21, 1990). Important correspondents in the General Letters (Series 1A) include: Kurt Vonnegut, Fred Hargadon, Michael Norman, Richard Wald, Pierre Leval. Also note Pat C. Hoy II's review of <title render="italic">Inventing the Truth</title> (Series 2D).</p>
+      <p>
+        <emph render="bold">SERIES DESCRIPTION</emph>
+      </p>
+      <p>
+        <emph render="bold">SERIES I: LETTERS</emph>
+      </p>
+      <p>This series contains letters to and from William Zinsser on a range of subjects. Some responses are attached to the original letters. William Zinsser's original chronological grouping was retained except for letters from frequent correspondents, which are grouped together.</p>
+      <p>
+        <list>
+          <item>Subseries A contains general letters (1980-1998) to and from William Zinsser arranged chronologically. These letters are about general subject matter. Letters to and from frequent correspondents are arranged alphabetically by the correspondent's last name.</item>
+          <item>Subseries B contains letters to and from William Zinsser about his articles. The folders are labeled by subject, but they are arranged chronologically following the development of his career.</item>
+          <item>Subseries C contains letters to and from William Zinsser about his book, <title render="italic">On Writing Well </title>(and its subsequent editions). This series is arranged chronologically according to the book's original publication and the subsequent five editions.</item>
+          <item>Subseries D contains letters to and from William Zinsser about his other books<title render="italic"> </title> and is arranged chronologically according to each book's publication.</item>
+          <item>Subseries E contains letters to and from William Zinsser about the Fales Library party at New York University held for his donation of his papers, as well as NY Times article regarding that event.</item>
+        </list>
+      </p>
+      <p>
+        <emph render="bold">SERIES II: WORKS BY WILLIAM ZINSSER</emph>
+      </p>
+      <p>This series contains works published by William Zinsser, as well as press reviews and comments regarding his works.</p>
+      <p>
+        <list>
+          <item>Subseries A contains manuscripts of books authored by Williams Zinsser and is arranged alphabetically by title. See especially the manuscripts of the fifth and sixth editions of <title render="italic">On Writing Well</title> for documentation of William Zinsser's editing techniques.</item>
+          <item>Subseries B contains articles authored by William Zinsser and various assorted writing projects (some unfinished and/or unpublished). This subseries includes the original text (written by Zinsser) from the Book-of-the-Month Club 60th Anniversary Exhibit, New York Public Library. This subseries is arranged by genre (articles, book reviews, travel profiles, television scripts, etc.) and then arranged chronologically.</item>
+          <item>Subseries C contains six scrapbooks of original articles written by William Zinsser for the <title render="italic">New York Herald Tribune</title> between 1946-1959. One scrapbook (1948-1949), due to its large size, is on top of Box 6.</item>
+          <item>Subseries D contains reviews and press comments about William Zinsser's published books. This subseries is restricted to commentary on books written by William Zinsser and books edited by William Zinsser. Within each genre, this subseries is arranged chronologically.</item>
+          <item>Subseries E contains lyrics written by Zinsser.</item>
+        </list>
+      </p>
+      <p>
+        <emph render="bold">SERIES III: BIOGRAPHICAL</emph>
+      </p>
+      <p>This series contains articles written about William Zinsser's life, accomplishments, and writings. This series contains only one folder.</p>
+      <p>
+        <emph render="bold">SERIES IV: TEACHING, LECTURES &amp; WORKSHOPS</emph>
+      </p>
+      <p>This series contains lecture notes, invitations to speak, workshop information, teaching notes, letters from former writing students and papers regarding the genesis of Zinsser's academic career. </p>
+      <p>
+        <list>
+          <item>Subseries A contains lecture notes, letters, and articles from his academic teaching at Yale University (1971-1978), his editorship at <title render="italic">Yale Alumni Magazine</title> (1970-1977), his Mastership at Branford College (1973-1979), and his teaching at The Fieldston School (1998). The letters from former writing students, which were solicited by Mark Singer in honor of <title render="italic">On Writing Well</title>'s 6th edition, are also included. This subseries is arranged chronologically.</item>
+          <item>Subseries B contains lecture notes, workshop requests, and articles from William Zinsser's talks and workshops given 1976-1998 throughout the United States on writing. This subseries is arranged chronologically.</item>
+        </list>
+      </p>
+    </scopecontent>
+    <arrangement id="aspace_40c196f1e5994f7753e9e7363f6c1113">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically by subject/author heading then chronologically within each subject/author heading.</p>
+      <p>The files are grouped into 4 series:</p>
+      <list numeration="arabic" type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Letters</item>
+        <item>Series II: Works By William Zinsser</item>
+        <item>Series III: Biographical</item>
+        <item>Series IV: Teaching, Lectures &amp; Workshops</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_f310dcf802308fb6fe12c5e681365c4d">
+      <head>Related Material at the Fales Library and Special Collections</head>
+      <p>Al Silverman Papers (MSS.136)</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_9f52420fbcc950cd5bf0dca1992205f7">
+      <head>Separated Material</head>
+      <p>The following collection of books authored and edited by William Zinsser were donated with his papers. These items were separated into the Fales American Collection and have been individually cataloged. Records for the items can be located in Bobcat.</p>
+      <p>American places : a writer's pilgrimage to 15 of this country's most visited and cherished sites / William Zinsser, 1st ed., New York : HarperCollins Publishers, c1992.</p>
+      <p>American places : a writer's pilgrimage to 15 of this country's most visited and cherished sites / William Zinsser, 1st Harper Perennial ed., New York : Harper Perennial, 1993, c1992.</p>
+      <p>Annual report of the National Refractory &amp; Brake Company [by William Zinsser. Drawings by James Stevenson, [New York, Harper &amp; Row, 1969]</p>
+      <p>Any old place with you / Zinsser, William Knowlton, New York, Simon and Schuster, 1957.</p>
+      <p>The city dwellers / Zinsser, William Knowlton, [1st ed.], New York, Harper &amp; Row [1962]</p>
+      <p>Easy to remember : the great American songwriters and their songs / William Zinsser, Jaffrey, N.H. : David R. Godine, 2001, c2000.</p>
+      <p>Extraordinary lives : the art and craft of American biography / Robert A. Caro ... [et al.] ; edited by William Zinsser, New York : American Heritage ; Boston : Distributed by Houghton Mifflin, 1986.</p>
+      <p>Extraordinary lives : the art and craft of American biography / Robert A. Caro ... [et al.] ; edited by William Zinsser, Boston : Houghton Mifflin, [1988]</p>
+      <p>A family of readers : an informal portrait of the Book-of-the-Month Club and its members on the occasion of its 60th anniversary / William Zinsser, New York : Book-of-the-Month Club, 1986.</p>
+      <p>Going on faith : writing as a spiritual quest / edited and with an introduction by William Zinsser ; [contributors], Diane Ackerman ... [et al.]., New York : Marlowe &amp; Co. : Distributed by Publishers Group West, [1999]</p>
+      <p>The haircurl papers and other searches for the lost individual / Zinsser, William Knowlton, 1st ed., New York, Harper &amp; Row, 1964.</p>
+      <p>Inventing the truth : the art and craft of memoir / Russell Baker ... [et al.] ; edited with a memoir and an introduction by William Zinsser, Boston : Houghton Mifflin, c1987.</p>
+      <p>Inventing the truth : the art and craft of memoir / Russell Baker ... [et al.] ; edited with a memoir and an introduction by William Zinsser, New York: Book-of-the-Month-Club 1987.</p>
+      <p>Inventing the truth : the art and craft of memoir / Russell Baker ... [et al.] ; edited with an introduction by William Zinsser, Rev. and expanded 2nd ed., Boston : Houghton Mifflin, c1995.</p>
+      <p>Inventing the truth : the art and craft of memoir / Russell Baker ... [et al.] ; edited with an introduction by William Zinsser, Rev. and expanded ed., 1st Mariner books ed., Boston : Houghton Mifflin, 1998.</p>
+      <p>Look, Ma, I am kool! and other casuals / compiled and edited by Burton Bernstein, Englewood Cliffs, N.J. : Prentice-Hall, c1977.</p>
+      <p>The lunacy boom [by] William Zinsser, [1st ed.], New York, Harper &amp; Row [1970]</p>
+      <p>Mitchell &amp; Ruff : an American profile in jazz / William Zinsser ; foreword by Albert Murray, 1st Paul Dry Books ed., Philadelphia : Paul Dry Books, 2000.</p>
+      <p>On writing well : an informal guide to writing nonfiction / William Zinsser, 1st ed., New York : Harper &amp; Row, c1976.</p>
+      <p>On writing well : an informal guide to writing nonfiction / William Zinsser, 2nd. ed., New York : Harper and Row, c1980.</p>
+      <p>On writing well : an informal guide to writing nonfiction / William Zinsser, 3rd ed., rev. and enlarged, New York : Harper &amp; Row, c1985.</p>
+      <p>On writing well : an informal guide to writing nonfiction / William Zinsser, 4th ed., rev., updated, and expanded, New York, N.Y. : Harper Perennial, c1990.</p>
+      <p>On writing well : the classic guide to writing nonfiction / William Zinsser, 6th ed., rev. and updated, New York : Harper Perennial, c1998.</p>
+      <p>On writing well [sound recording] / William Zinsser, Abridged, New York, NY : HarperCollins, c1998.</p>
+      <p>On writing well : the classic guide to writing nonfiction / William Zinsser, 25th anniversary ed., 6th ed. rev. and updated., 1st Harper Resource Quill ed., New York : Quill, 2001.</p>
+      <p>The paradise bit, a novel / [by] William K. Zinsser., [1st ed.], Boston : Little, Brown, [1967]</p>
+      <p>Paths of resistance : the art and craft of the political novel / Isabel Allende ... [et al.] ; edited by William Zinsser, Boston : Houghton Mifflin, c1989.</p>
+      <p>Pop goes America / Zinsser, William Knowlton, [1st ed.], New York, Harper &amp; Row [1966]</p>
+      <p>Search &amp; research; the collections and uses of the New York Public Library at Fifth Avenue and 42nd Street / Zinsser, William Knowlton, New York, New York Public Library, 1961.</p>
+      <p>Seen any good movies lately? / Zinsser, William Knowlton, [1st ed.], Garden City, N.Y., Doubleday, 1958.</p>
+      <p>Speaking of journalism : 12 writers and editors talk about their work / William Zinsser, and Jennifer Allen ... [et al.]., 1st ed., New York : HarperCollins, 1994.</p>
+      <p>Speaking of journalism : 12 writers and editors talk about their work / William Zinsser ; and Jennifer Allen ... [et al.]., 1st Harper Perennial ed., New York : Harper Perennial, 1995.</p>
+      <p>Spiritual quests : the art and craft of religious writing / Mary Gordon ... [et al.] ; edited by William Zinsser, Boston : Houghton Mifflin, 1988.</p>
+      <p>Spring training / William Zinsser, 1st ed., New York : Harper &amp; Row, c1989.</p>
+      <p>Spring training / William Zinsser ; introduction by Daniel Okrent, 1st Prentice Hall Press ed., New York : Prentice Hall Press, [1990]</p>
+      <p>They went : the art and craft of travel writing / Ian Frazier ... [et al.] ; edited by William Zinsser, Boston : Houghton Mifflin, c1991.</p>
+      <p>Weekend guests; from "we're so glad you could come" to "we're so sorry you have to go," and vice-versa / Zinsser, William Knowlton, [1st ed.], New York, Harper &amp; Row [1963]</p>
+      <p>Willie and Dwike : an American profile / by William Zinsser, 1st ed., New York : Harper &amp; Row, c1984.</p>
+      <p>Worlds of childhood : the art and craft of writing for children / Jean Fritz ... [et al.] ; edited by William Zinsser, Boston : Houghton Mifflin, c1990.</p>
+      <p>Writing to learn / William Zinsser, 1st ed., New York : Harper &amp; Row, c1988.</p>
+      <p>Writing with a word processor / William Zinsser, 1st ed., New York : Harper &amp; Row, c1983.</p>
+      <p>The Writer Who Stayed. Philadelphia: Paul Dry Books, 2012.</p>
+      <p>Writing Places: The Life Journey of a Writer and Teacher. New York: Harper Collins, 2009.</p>
+      <p>American Places: updated and expanded by the author. The Akadine Press, 2002.</p>
+      <p>Writing About Your Life: A Journey into the Past. New York: Marlowe &amp; Company, 2004.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_61d55532f8938eb2e1315c887fd87f95">
+      <head>Use Restrictions</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <prefercite id="aspace_37d0bac1214300ad2b489ac88d7c5aed">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
+following form:<lb/><lb/>
+Identification of item,  date (if known); William Zinsser Papers; MSS 31; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_1d4ad2a96fea20f7bcf5d3b9eb5216ce">
+      <head>Processing Information</head>
+      <p>In 2017 the following accretions were integrated into the collection. </p>
+      <p>Accretion 2005, containing letters, articles, biographical information, and documents on talks and workshops, was integrated into Series I, II, III, and IV, respectively. The accession number associated with these materials is 2005.031.</p>
+      <p>Accretion 2010, containing letters, articles, and manuscripts, was integrated into Series I and II. The accession number associated with these materials is 2010.031.</p>
+      <p>Accretion 2012 consists of letters and was integrated into Series I. The accession number associated with these materials is 2012.031.</p>
+      <p>Accretion 2013 includes letters, integrated into Series I, and printouts of the blog "Zinsser on Friday," published in 2012 as <title>The Writer Who Stayed</title>. These printouts have been integrated into Series II. The accession number associated with these materials is 2013.031.</p>
+    </processinfo>
+    <bibliography id="aspace_c9793f2c4751bc1125870b82a7c9b287">
+      <head>Bibliography</head>
+      <p>
+        <bibref>Zinsser, William. <title render="italic">American Places: A Writer's Pilgrimage to 15 of This Country's Most Visited and Cherished Sites</title>. HarperCollins: New York, 1992. </bibref>
+        <bibref>Zinsser, William. <title render="italic">American Places: A Writer's Pilgrimage to 15 of This Country's Most Visited</title><title render="italic">and Cherished Sites</title>. HarperPerennial: New York, 1993. </bibref>
+        <bibref>Zinsser, William. <title render="italic">Annual Reprot [sic] of the National Refractory &amp; Brake Company</title>. Illus. James Stevenson. Harper &amp; Row: New York, 1969.</bibref>
+        <bibref>Zinsser, William. <title render="italic">Any Old Place With You</title>. Illus. Robt Day. Simon and Schuster: New York, 1957</bibref>
+        <bibref>Zinsser, William. "A Connoisseur's Guide to H2O." "Jury Duty." "Peabody's Complaint." <title render="italic">Look, Ma, I am Kool! And Other Casuals</title>. Ed. Burton Bernstein. Prentice-Hall, Inc.: Englewood Cliffs, 1977. 221-235. </bibref>
+        <bibref>Zinsser, William. Ed. <title render="italic">Extraordinary Lives: The Art and Craft of American Biography</title>. Boston: Houghton Mifflin Company, 1986.</bibref>
+        <bibref>Zinsser, William. Ed. <title render="italic">Extraordinary Lives: The Art and Craft of American Biography</title>. Boston:Houghton Mifflin Company, (1988).</bibref>
+        <bibref>Zinsser, William. <title render="italic">A Family of Readers: An Informal Portrait of The Book-of-the-Month Club and</title><title render="italic">Its Members on the Occasion of its 60th Anniversary</title>. Book-of-the-Month Club: New York, 1986.</bibref>
+        <bibref>Zinsser, William. <title render="italic">The Haircurl Papers &amp; Other Searches for the Lost Individual</title>. Harper &amp; Row: New York, 1964.</bibref>
+        <bibref>Zinsser, William. Ed. <title render="italic">Inventing the Truth: The Art and Craft of Memoir</title>. Boston: Houghton Mifflin Company, 1987.</bibref>
+        <bibref>Zinsser, William. Ed. <title render="italic">Inventing the Truth: The Art and Craft of Memoir</title>. Rev. Boston: Houghton Mifflin Company, 1995.</bibref>
+        <bibref>Zinsser, William. ed. <title render="italic">Inventing the Truth: The Art and Craft of Memoir</title>. Rev. intro. Boston: Houghton Mifflin Company, 1998.</bibref>
+        <bibref>Zinsser, William. "[1930's]." <title render="italic">Five Boyhoods: Howard Lindsay, Harry Golden, Walt Kelly, </title><title render="italic">William K. Zinsser, and John Updike</title>. Ed. Martin Levin. Doubleday &amp; Company, Inc.: New York, 1962. 117-154. </bibref>
+        <bibref>Zinsser, William. <title render="italic">On Writing Well: An Informal Guide to Writing Nonfiction</title>. Harper &amp; Row: New York, 1976. </bibref>
+        <bibref>Zinsser, William. <title render="italic">On Writing Well: An Informal Guide to Writing Nonfiction</title>. 2nd ed. Harper &amp; Row: NewYork, 1980. </bibref>
+        <bibref>Zinsser, William. <title render="italic">On Writing Well: An Informal Guide to Writing Nonfiction</title>. 3rd ed., rev. and enlarged. Harper &amp; Row: New York, 1985. </bibref>
+        <bibref>Zinsser, William. <title render="italic">On Writing Well: An Informal Guide to Writing Nonfiction</title>. 3rd ed. [Chinese] Harper &amp; Row: New York, 1985. The Rock House Publishers: Hong Kong, 1985. </bibref>
+        <bibref>Zinsser, William. <title render="italic">On Writing Well: An Informal Guide to Writing Nonfiction</title>. 4th ed., rev., updated, and exp. HarperPerennial: New York, 1990. </bibref>
+        <bibref>Zinsser, William. <title render="italic">On Writing Well: An Informal Guide to Writing Nonfiction</title>. Audio recording of 4th ed. [HarperCollins Publishers: New York, 1991.] Harper Audio: New York, Nov. 21, 1990. </bibref>
+        <bibref>Zinsser, William. <title render="italic">On Writing Well: The Classic Guide to Writing Nonfiction</title>. 6th ed., rev. and updated. HarperPerennial: New York, 1998. </bibref>
+        <bibref>Zinsser, William. ed. <title render="italic">Paths of Resistance: The Art and Craft of the Political Novel</title>. Boston: Houghton Mifflin Company, 1989.</bibref>
+        <bibref>Zinsser, William. <title render="italic">Search &amp; Research: The Collections and Uses of the New York Public Library at </title><title render="italic">Fifth Avenue and 42nd Street</title>. Illus. Tom Funk. The New York Public Library: New York, 1961.</bibref>
+        <bibref>Zinsser, William. <title render="italic">Seen Any Good Movies Lately? Or, The Education of a Movie Critic</title>. Illus. Robert Day. Doubleday &amp; Company, Inc.: New York, 1958.</bibref>
+        <bibref>Zinsser, William. <title render="italic">Speaking of Journalism: 12 Writers and Editors Talk About Their Work</title>. HarperCollins: New York, 1994. </bibref>
+        <bibref>Zinsser, William. <title render="italic">Speaking of Journalism: 12 Writers and Editors Talk About Their Work</title>. HarperPerennial: New York, 1995. </bibref>
+        <bibref>Zinsser, William. Ed. <title render="italic">Spiritual Quests: The Art and Craft of Religious Writing</title>. Boston: Houghton MifflinCompany, 1988. </bibref>
+        <bibref>Zinsser, William. <title render="italic">Spring Training</title>. Harper &amp; Row: New York, 1989. Re-print. Prentice Hall Press, 1990.</bibref>
+        <bibref>Zinsser, William. Ed. <title render="italic">They Went: The Art and Craft of Travel Writing</title>. Boston: Houghton Mifflin Company, 1991.</bibref>
+        <bibref>Zinsser, William. ed. <title render="italic">Worlds of Childhood: The Art and Craft of Writing for Children</title>. Boston: Houghton Mifflin Company, 1990.</bibref>
+        <bibref>Zinsser, William. <title render="italic">Ordbehandlaren Och Jag</title>. [<title render="italic">Writing with a World [sic] Processor</title>. (Swedish)] 1983. Berghs Förlag Ab; Malmö, 1984.</bibref>
+      </p>
+    </bibliography>
+    <controlaccess>
+      <genreform source="aat">Scrapbooks.</genreform>
+      <subject source="lcsh">United States |v Biography.</subject>
+      <subject source="lcsh">Biography as a literary form.</subject>
+      <subject source="lcsh">Journalism</subject>
+      <subject source="lcsh">English language |x Rhetoric |x Study and teaching.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Autobiography |x Authorship.</subject>
+      <genreform source="aat">Audiocassettes.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <subject source="lcsh">English language |x Rhetoric.</subject>
+      <subject source="lcsh">Prose literature |x Technique.</subject>
+      <subject source="lcsh">Exposition (Rhetoric)</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <corpname source="naf">Yale University</corpname>
+      <persname source="naf">Wald, Richard</persname>
+      <persname source="naf">Vonnegut, Kurt</persname>
+      <persname rules="dacs" source="local">Norman, Michael</persname>
+      <corpname source="naf">New York Herald Tribune (Firm)</corpname>
+      <persname source="naf">Leval, Pierre N. (Pierre Nelson), 1936-</persname>
+      <persname source="local">Hargadon, Fred</persname>
+      <corpname source="local">Fieldstone School</corpname>
+      <corpname source="naf">Branford College (Yale University)</corpname>
+      <corpname source="naf">Book-of-the-Month Club</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series I: Letters</unittitle>
+        </did>
+        <c id="aspace_ref15" level="subseries">
+          <did>
+            <unittitle>Subseries A, General letters (1980-2011)</unittitle>
+          </did>
+          <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters: Miscellaneous personal letters</unittitle>
+              <unitdate datechar="creation" normal="1940/1990" type="inclusive">ca.1950-1980</unitdate>
+              <container id="aspace_ff9beeed3975065d27fc8359f1f1da38" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_59461edf019d48fd538781777c64dfd6" parent="aspace_ff9beeed3975065d27fc8359f1f1da38" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters</unittitle>
+              <unitdate datechar="creation" normal="1977/1987" type="inclusive">1977-1987</unitdate>
+              <container id="aspace_bdb3479f9c598642ff65757388eaa108" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_cea61300b8ca132b6aed93230725821b" parent="aspace_bdb3479f9c598642ff65757388eaa108" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters</unittitle>
+              <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+              <container id="aspace_5864e8d1e3ce323f479ccc4ea580bc5f" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_b7f834139e6f6ae6bbe9a48819da8b5f" parent="aspace_5864e8d1e3ce323f479ccc4ea580bc5f" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+              <container id="aspace_0a5959b3a6ed7df4b16a6e078b54b61b" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_88323c8609642a4e983147c4c0a2a39b" parent="aspace_0a5959b3a6ed7df4b16a6e078b54b61b" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+              <container id="aspace_01916e79ef5ac54eac05babee7a30975" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_8498cd44cc353d06b283663484ea4b88" parent="aspace_01916e79ef5ac54eac05babee7a30975" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+              <container id="aspace_d999221cadb883c2ac846f49e69d3738" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_513628cadee7e258f54008629ac60532" parent="aspace_d999221cadb883c2ac846f49e69d3738" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+              <container id="aspace_64ae07b0747d50b41a902966df6ccbac" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_06ea214749d1ea065f7f6d131342a55a" parent="aspace_64ae07b0747d50b41a902966df6ccbac" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+              <container id="aspace_1d9fb2a771f36f7cd4b3a86ecb4dcc81" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_be48e214fab4b009634f743e0a7f8058" parent="aspace_1d9fb2a771f36f7cd4b3a86ecb4dcc81" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+              <container id="aspace_c0183f49d39e93632498e0e878951d7a" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_3fc321daaa7179efe8233c6f9def38e8" parent="aspace_c0183f49d39e93632498e0e878951d7a" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters</unittitle>
+              <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+              <container id="aspace_d783ccff518c5b0692422ef0dbd1075a" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_81ecf71de09baaa49a0d3bcc3a7daa44" parent="aspace_d783ccff518c5b0692422ef0dbd1075a" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters</unittitle>
+              <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+              <container id="aspace_f95c136281908674bdadc05277543181" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_69e9089d8a5525c8e76707585e42e119" parent="aspace_f95c136281908674bdadc05277543181" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>General letters</unittitle>
+              <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+              <container id="aspace_db163bb992c32e530ed912e2f00f182d" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_a747f7b6c41688435b9e48c223518c01" parent="aspace_db163bb992c32e530ed912e2f00f182d" type="Folder">11a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Berryhill, Michael</unittitle>
+              <unitdate datechar="creation" normal="1986/1997" type="inclusive">1986-1997</unitdate>
+              <container id="aspace_5a3df1d90b0943a01c812826d0b1d026" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_7e286ef6ca4303f968840bce73532941" parent="aspace_5a3df1d90b0943a01c812826d0b1d026" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Crowther, Prudence</unittitle>
+              <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
+              <container id="aspace_2ea6a33e50d42afcb2e6bf645a9f0a4f" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_7787638a9a517fc453f2a5712337b62e" parent="aspace_2ea6a33e50d42afcb2e6bf645a9f0a4f" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Fenton, Patrick</unittitle>
+              <unitdate datechar="creation" normal="1988/1995" type="inclusive">1988-1995</unitdate>
+              <container id="aspace_4f9994816419be154d52c4224aa161b4" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_36f174ce9c61e1f4db8a4d9b2cae5063" parent="aspace_4f9994816419be154d52c4224aa161b4" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Franklin, Thomas</unittitle>
+              <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+              <container id="aspace_6e6a544d87ec639d636eb3e753c199ce" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_41dff1589c98ed3d2087d27b0c886cd9" parent="aspace_6e6a544d87ec639d636eb3e753c199ce" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Robertson-Lorant, Laurie</unittitle>
+              <unitdate datechar="creation" normal="1986/1992" type="inclusive">1986-1992</unitdate>
+              <container id="aspace_2ff611783684750a4818e83806a07864" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_f650e3b639bd5dac01d3cbcf3a9caf00" parent="aspace_2ff611783684750a4818e83806a07864" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>McKain, David</unittitle>
+              <unitdate datechar="creation" normal="1991/1994" type="inclusive">1991-1994</unitdate>
+              <container id="aspace_9d42446797afae3eabd4c601b3f670a2" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_45f6c2ca5683acb3615c7e1868ae80c3" parent="aspace_9d42446797afae3eabd4c601b3f670a2" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mills, Jim</unittitle>
+              <unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate>
+              <container id="aspace_edd6465009cd04a03d3210a75222802c" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_e874960f73aa6c36c72cd2965b2e3960" parent="aspace_edd6465009cd04a03d3210a75222802c" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Morelli, Mark</unittitle>
+              <unitdate datechar="creation" normal="1989/1998" type="inclusive">1989-1998</unitdate>
+              <container id="aspace_b84de88e155a42fd53cb0ea723734de4" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_d70bab9eec29e1891d2fcc40eeeca951" parent="aspace_b84de88e155a42fd53cb0ea723734de4" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Murray, Marian</unittitle>
+              <unitdate datechar="creation" normal="1992/1995" type="inclusive">1992-1995</unitdate>
+              <container id="aspace_d531c11404e6fc18a3a7c91116da405d" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_394c51e49b5e6b3ba7e1ed3c87329281" parent="aspace_d531c11404e6fc18a3a7c91116da405d" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Roberts, Dale</unittitle>
+              <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+              <container id="aspace_73f3437d1701d7d4366202fc305e3a2e" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_ec990555a7ea773258e65db8d8a69028" parent="aspace_73f3437d1701d7d4366202fc305e3a2e" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Rosenberg, John</unittitle>
+              <unitdate datechar="creation" normal="1984/1997" type="inclusive">1984-1997</unitdate>
+              <container id="aspace_3330ad4cfc20179f8fa2a58cb502142c" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_b96a97643c9908e2950b9bb9b6b91428" parent="aspace_3330ad4cfc20179f8fa2a58cb502142c" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Thomas, Elizabeth (Susie)</unittitle>
+              <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
+              <container id="aspace_01a88e2bbca9e56f66d354cec411e635" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_2933aee7d2e965c66c91fda26f3a9be8" parent="aspace_01a88e2bbca9e56f66d354cec411e635" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_afc849f56f3b0b2c8a57b1e3cde9e9ae" level="file">
+            <did>
+              <unittitle>General letters (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+              <container altrender="Record carton" id="aspace_ac423c25924efdf7ca397b39c0cc4f1f" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_784d24b8d430ca582bdb8cdf68f958f2" parent="aspace_ac423c25924efdf7ca397b39c0cc4f1f" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_452af73d78279d351fc9741d036b181a" level="file">
+            <did>
+              <unittitle>General letters (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+              <container altrender="Record carton" id="aspace_e4c9d341bc863457d827a22956c94c2d" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_768b99f70f13a7e0cfea7f63c77a5c82" parent="aspace_e4c9d341bc863457d827a22956c94c2d" type="Folder">4 </container>
+            </did>
+          </c>
+          <c id="aspace_88aedd1e791a59722c97216a88ea73f2" level="file">
+            <did>
+              <unittitle>General letters, 5 folders</unittitle>
+              <unitdate datechar="creation" normal="2001/2005" type="inclusive">2001-2005</unitdate>
+              <container altrender="Record carton" id="aspace_4861b97e08d7b9427fc6c8ac36877c92" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_da46171ce9b391a1274e129d8016dfb0" parent="aspace_4861b97e08d7b9427fc6c8ac36877c92" type="Folder">7-11</container>
+            </did>
+          </c>
+          <c id="aspace_82184810476a1ec38d6067a0efc39e22" level="file">
+            <did>
+              <unittitle>General letters, 10 folders</unittitle>
+              <unitdate datechar="creation" normal="2004/2008" type="inclusive">2004-2008</unitdate>
+              <container altrender="Record carton" id="aspace_3173e03b97c91a75c6d9cd2a814c015d" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_e4d041d60ef7467d8e34e3f473bbe6c8" parent="aspace_3173e03b97c91a75c6d9cd2a814c015d" type="Folder">14-23</container>
+            </did>
+          </c>
+          <c id="aspace_7acdb804bccfd26d523f31c46ea2dcda" level="file">
+            <did>
+              <unittitle>General letters, 8 folders</unittitle>
+              <unitdate datechar="creation" normal="1993/2011" type="inclusive">1993-2011</unitdate>
+              <container altrender="Record carton" id="aspace_7197be66232e978875b0bff44e4a985c" label="Mixed Materials [31142062885804]" type="Box">12</container>
+              <container id="aspace_7c4b3d073c31d19d7223e4e8bfa8be69" parent="aspace_7197be66232e978875b0bff44e4a985c" type="Folder">1, 3-9</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref40" level="subseries">
+          <did>
+            <unittitle>Subseries B, Regarding articles</unittitle>
+          </did>
+          <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: from Prominent People: S.J. Perelman, Harold Arlen, Chic Young, Spike Milligan, (1 of 2)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_92568d79c7390ab09f5817f2126f2be5" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_7182aad5d6752762a570d95823f79af1" parent="aspace_92568d79c7390ab09f5817f2126f2be5" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: from Prominent People: Goodman Ace, Richard Rodgers, Peter Sellers, Truman Capote, Allen Ginsberg, Richard Bissell, Joshua Logan, Edward Streeter, Woody Allen, Gore Vidal, Richard Brooks, Virgil Thomson, Robert Osborn, (2 of 2)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_ee633958f04037260da0754f81cee1cc" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_26a92f228df79f7d0b083187e5496ddc" parent="aspace_ee633958f04037260da0754f81cee1cc" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Early Education articles</unittitle>
+              <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+              <container id="aspace_28678771dc8a574726d54defec11f1d6" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_84d02750420e9eea808bfdfb1d95c02e" parent="aspace_28678771dc8a574726d54defec11f1d6" type="Folder">25a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Movie Reviews, at <title render="italic">The Herald Tribune</title> (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1955/1958" type="inclusive">1955-1958</unitdate>
+              <container id="aspace_3dd4fdd7fd54f44597f0e33d253447c9" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_1cba0523f2f171b27b941f13bb0d8786" parent="aspace_3dd4fdd7fd54f44597f0e33d253447c9" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Movie Reviews, at <title render="italic">The Herald Tribune</title> (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1955/1958" type="inclusive">1955-1958</unitdate>
+              <container id="aspace_f85122e27b19a64528626b7fed234f66" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_2df105b4d353d382f357b47bb24f93e3" parent="aspace_f85122e27b19a64528626b7fed234f66" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Movie Review, <title render="italic">A Farewell to Arms</title>, at <title render="italic">The Herald Tribune</title></unittitle>
+              <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+              <container id="aspace_a0d8e4ea5fa5b5b1bbd0f1d9389b1bf0" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_fcf1349b6e8860f4701539edc7be512c" parent="aspace_a0d8e4ea5fa5b5b1bbd0f1d9389b1bf0" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Movie Reviews, from Hollywood stars, writers, directors, producers, etc.</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_3728dc35ffc1b8f30ffe25f3da8acdc4" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_a3824089dc5276f6b22b9ad7798f20af" parent="aspace_3728dc35ffc1b8f30ffe25f3da8acdc4" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Retirement from Movie Reviews</unittitle>
+              <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+              <container id="aspace_434ae64840b819b1159485cf40d593ca" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_3aae3a05a298c5123707ede1ecc1c43d" parent="aspace_434ae64840b819b1159485cf40d593ca" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: General Op-Ed pieces, <title render="italic">The Herald Tribune</title></unittitle>
+              <unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate>
+              <container id="aspace_72d33c47535d1461f0d350e35e791ab8" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_14fdf6a4d7b9739450a86abbfac7e99d" parent="aspace_72d33c47535d1461f0d350e35e791ab8" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Individual articles in 1960's and 1970's</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_b5e8233f5fcc885099041811083c5d1e" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_695521b0145cf864f96cfbf2d5d58959" parent="aspace_b5e8233f5fcc885099041811083c5d1e" type="Folder">31a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Various columns in <title render="italic">Look</title></unittitle>
+              <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+              <container id="aspace_c8c2c5ee62ca1d1c9444c3eca165baa3" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_3f422c2d2626070d7fa8c061b3cd41a5" parent="aspace_c8c2c5ee62ca1d1c9444c3eca165baa3" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "The Right to Fail," <title render="italic">Look</title>, Oct. 17</unittitle>
+              <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+              <container id="aspace_ab3cab2cc7d6958a9359c65fdf04eae9" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_39847a451881984568ad974036ea11b6" parent="aspace_ab3cab2cc7d6958a9359c65fdf04eae9" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "College Pressures," <title render="italic">Country Journal Magazine</title></unittitle>
+              <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+              <container id="aspace_c0adb9cc24f65a7b1627ac63ed1ef52e" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_a4767b28dbf88d422c7b94d3b9081905" parent="aspace_c0adb9cc24f65a7b1627ac63ed1ef52e" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Various columns in <title render="italic">Life</title></unittitle>
+              <unitdate datechar="creation" normal="1968/1972" type="inclusive">1968-1972</unitdate>
+              <container id="aspace_f8d77a8212e41377fa06711003bfca57" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_c98cfefa5418425c090802d35d9d52e2" parent="aspace_f8d77a8212e41377fa06711003bfca57" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "The Pitfalls of Pop's Pompous Pop-Offs," <title render="italic">Life</title></unittitle>
+              <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+              <container id="aspace_268530987a7be8f1b383231edf72b7aa" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_1d3faf483f5f07a50a8209083dd0253b" parent="aspace_268530987a7be8f1b383231edf72b7aa" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "The Memoir Bore," <title render="italic">Life</title>, Aug. 23</unittitle>
+              <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+              <container id="aspace_24e0721a89651a78520b38c6d74777cc" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_6a0dc04d2a7bd86daf803afc15ec8f18" parent="aspace_24e0721a89651a78520b38c6d74777cc" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Various articles in <title render="italic">New York Times, Home</title> Section</unittitle>
+              <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+              <container id="aspace_793ea3e0bab253a80358681b1fc35a25" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_7774f9c5f9b05e8ccb31412957ebc91a" parent="aspace_793ea3e0bab253a80358681b1fc35a25" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "Why Johnny's Teachers Can't Write," <title render="italic">New York Times Magazine</title>, Nov. 12</unittitle>
+              <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+              <container id="aspace_4100918c3fde1233bf401d57abd978e5" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_c6c8ec61631028072761d121731f057f" parent="aspace_4100918c3fde1233bf401d57abd978e5" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "Pearl Harbor: The Way It Was at Princeton," <title render="italic">New York Times Magazine</title>, Dec. 1981</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_ba4da4d46ed369813e64fbfbd956128e" label="Mixed Materials [31142054927788]" type="Box">1</container>
+              <container id="aspace_46e607adc3ae79a3e2b5c28c7a1d7a9e" parent="aspace_ba4da4d46ed369813e64fbfbd956128e" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "9 Tin Men . . .," <title render="italic">New York Times</title>, April 6</unittitle>
+              <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_d2dd98abae9c2bea7c72e50f4b89de4b" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_b66802b32ce103f88f50dd16c8414b59" parent="aspace_d2dd98abae9c2bea7c72e50f4b89de4b" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "A Travel Nut's Library," <title render="italic">New York Times Book Review</title>, Aug. 26</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+              <container id="aspace_3fb69b02a840e89b153f3eafd3250519" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_40922a92b9419c07f5ee50410e477b81" parent="aspace_3fb69b02a840e89b153f3eafd3250519" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "Strangers on the Phone Share Only Yesterdays," <title render="italic">New York Times</title>, Feb. 21</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+              <container id="aspace_f23096cd769e2862072d29a5f5ccde25" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_2d9643b9533198d2397622c86df755aa" parent="aspace_f23096cd769e2862072d29a5f5ccde25" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "Shanghai Blues," <title render="italic">The New Yorker</title></unittitle>
+              <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+              <container id="aspace_dda4346ea85373cf0841fc73dfe9bea9" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_24f5e75f9e7c53adef72fba4a589eff6" parent="aspace_dda4346ea85373cf0841fc73dfe9bea9" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "Resonance," <title render="italic">The New Yorker</title>, April 23</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_4af82df26decdeef653c4f86b70e1e5f" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_fdc540bd4ffaa3508a2a6e8cc0cdbab0" parent="aspace_4af82df26decdeef653c4f86b70e1e5f" type="Folder">45</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">A Family of Readers</title>, Book-of-the-Month Club</unittitle>
+              <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_3bb6b38ed2753d6e15e42ff401bb7322" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_e284e957a3a5ef215a7fa68ec70cccf3" parent="aspace_3bb6b38ed2753d6e15e42ff401bb7322" type="Folder">46</container>
+            </did>
+          </c>
+          <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "News from Timbuktu," <title render="italic">Cond</title><title render="italic">é</title><title render="italic"> Nast Traveler</title>, Oct.1988</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container id="aspace_d3e796782f1d88f2420bc311c2e73135" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_98f7e12d599d057848cca18f3b295fa8" parent="aspace_d3e796782f1d88f2420bc311c2e73135" type="Folder">47</container>
+            </did>
+          </c>
+          <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "From Natchez to Mobile," <title render="italic">American Scholar</title></unittitle>
+              <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+              <container id="aspace_23fca7daec426be4850ee79c466f07fe" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_313422f53d9ce6ff5e31e137e0d551f6" parent="aspace_23fca7daec426be4850ee79c466f07fe" type="Folder">48</container>
+            </did>
+          </c>
+          <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "A Christmas Memoir," <title render="italic">Town and Country</title>, Dec. 1999</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_384da8745d2522dc300487c7c87f4435" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_dc8ad2fb85a9f24297cf71ab14c91200" parent="aspace_384da8745d2522dc300487c7c87f4435" type="Folder">48a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: "Tour de Force," <title render="italic">Town and Country</title>, Apr. 1999</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_3eb5545b83350d02b89815eaf2021d33" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_e034a89c640cb358c3672fc5c38c15db" parent="aspace_3eb5545b83350d02b89815eaf2021d33" type="Folder">48b.</container>
+            </did>
+          </c>
+          <c id="aspace_489682985e4bb884bb10adcf1b00bb5b" level="file">
+            <did>
+              <unittitle>Letters: "Field of Tin," The Atlantic, July/August 2001</unittitle>
+              <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+              <container altrender="Record carton" id="aspace_d77baaf0005d73ffbff1dfc449b1f2ad" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_a8b2001f4142f4bcfc39870d640eeb8f" parent="aspace_d77baaf0005d73ffbff1dfc449b1f2ad" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_63ca30d859ff46360361ede9231252e9" level="file">
+            <did>
+              <unittitle>Letters: " The Daily Miracle," American Scholar, Dec. 2007</unittitle>
+              <unitdate datechar="creation" normal="2008/2008">2008</unitdate>
+              <container altrender="Record carton" id="aspace_efc702a00ca36cc60eda927719ba65d0" label="Mixed Materials [31142062885804]" type="Box">12</container>
+              <container id="aspace_68cd991aaf270c3c9e83880437bcad64" parent="aspace_efc702a00ca36cc60eda927719ba65d0" type="Folder">2 </container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref70" level="subseries">
+          <did>
+            <unittitle>Subseries C, Regarding <title render="italic">On Writing Well</title></unittitle>
+          </did>
+          <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well,</title> (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+              <container id="aspace_f8b6ca298c9aa9b743cdec0cf1371bc9" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_869a1b22ae86f6b9c1eed5b09a487a87" parent="aspace_f8b6ca298c9aa9b743cdec0cf1371bc9" type="Folder">49</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well,</title> 1976 (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+              <container id="aspace_b1890db519de5bd136f0106de8cf1081" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_887a3f7634c0f3aa5987adcb002275f0" parent="aspace_b1890db519de5bd136f0106de8cf1081" type="Folder">50</container>
+            </did>
+          </c>
+          <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1977/1982" type="inclusive">1977-1982</unitdate>
+              <container id="aspace_086118e09ce127b7f4d6bc243550f024" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_cd1827e82eebdeeb8da6e88fc957cd04" parent="aspace_086118e09ce127b7f4d6bc243550f024" type="Folder">51</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1977/1982" type="inclusive">1977-1982</unitdate>
+              <container id="aspace_47c87c0532bf74587606be52c689bcd8" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_6dbff89a27918f0dde287d7742bfe709" parent="aspace_47c87c0532bf74587606be52c689bcd8" type="Folder">52</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1977/1982" type="inclusive">1977-1982</unitdate>
+              <container id="aspace_717fe9f92143ef8984e417ce7f15e576" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_4a62c59639ab933daa759fd6f4c903d3" parent="aspace_717fe9f92143ef8984e417ce7f15e576" type="Folder">53</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate>
+              <container id="aspace_695071da11381f4819c4f63d51fc1c45" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_5ca8fd8c6cb27b9faabde6e9832a01d3" parent="aspace_695071da11381f4819c4f63d51fc1c45" type="Folder">54</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate>
+              <container id="aspace_94c1093e243dc6e47d924bb91ad4bfdf" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_f2ac986db2a32b8e4014cec5a229da83" parent="aspace_94c1093e243dc6e47d924bb91ad4bfdf" type="Folder">55</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate>
+              <container id="aspace_0f61476a964855d597998172a15485ae" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_17d05414755a1a506126f0ecefc21f82" parent="aspace_0f61476a964855d597998172a15485ae" type="Folder">56</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+              <container id="aspace_92c55600e850d67225c16a8b65259d05" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_331890a09fb4d3c6ca6d61da3b887de1" parent="aspace_92c55600e850d67225c16a8b65259d05" type="Folder">57</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+              <container id="aspace_4bf1cee0a5ed9b4c8aa3d56ba9991774" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_6e7c89968819f99d6185955eb670906c" parent="aspace_4bf1cee0a5ed9b4c8aa3d56ba9991774" type="Folder">58</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+              <container id="aspace_e5cd2f03201b14ca7a9b2600bae94563" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_a102bc8b2dd5cd5a22427706533d91d9" parent="aspace_e5cd2f03201b14ca7a9b2600bae94563" type="Folder">59</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate>
+              <container id="aspace_500b6d49e0ea685d5851970bcd568b46" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_f8aeb7c9e7500d19018af2c5b67938c8" parent="aspace_500b6d49e0ea685d5851970bcd568b46" type="Folder">60</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate>
+              <container id="aspace_8fd0aade225706d1ab98e34e70f947a7" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_6a42ebff96b6eeb7362da0981ec0a848" parent="aspace_8fd0aade225706d1ab98e34e70f947a7" type="Folder">61</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title> (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate>
+              <container id="aspace_f08ad1806139b8ad703912776f3233dd" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_cc5019a8d4c796c4f62c56cf1008a747" parent="aspace_f08ad1806139b8ad703912776f3233dd" type="Folder">62</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">On Writing Well</title></unittitle>
+              <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+              <container id="aspace_3c46d415436f87433d4af1efd95feb72" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_9348fdd33955ee13d9382c61cf8b6d20" parent="aspace_3c46d415436f87433d4af1efd95feb72" type="Folder">62a</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref86" level="subseries">
+          <did>
+            <unittitle>Subseries D, Regarding his other books</unittitle>
+          </did>
+          <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Any Old Place With You</title> (Simon and Schuster, 1957)</unittitle>
+              <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+              <container id="aspace_866fd250a89b8e21365dd4a9e173a3f9" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_1fcbc7bd0da38ac1d8555d57c0c722d9" parent="aspace_866fd250a89b8e21365dd4a9e173a3f9" type="Folder">63</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Seen Any Good Movies Lately?</title> (Doubleday, 1958)</unittitle>
+              <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+              <container id="aspace_7508657e1e894e6df5436edcf3f8c53f" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_5adee5c9936da9af8533c678258305a5" parent="aspace_7508657e1e894e6df5436edcf3f8c53f" type="Folder">63a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">The City Dwellers</title> (Harper , 1962)</unittitle>
+              <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+              <container id="aspace_7790d106d38cf684f969ba781c8b1875" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_a226eb7dd9ec75f70da9e187e672bf0c" parent="aspace_7790d106d38cf684f969ba781c8b1875" type="Folder">64</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Five Boyhoods</title> (Doubleday , 1962)</unittitle>
+              <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+              <container id="aspace_1a5827c14d492583848f0e1f91cadea3" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_be409b0543c6c9b1a61ab39145600fd9" parent="aspace_1a5827c14d492583848f0e1f91cadea3" type="Folder">64a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Weekend Guests</title> (Harper , 1963)</unittitle>
+              <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+              <container id="aspace_6668585f057326e87d5e2632de395973" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_b81dba8c67ddfcbe8f2621100816e497" parent="aspace_6668585f057326e87d5e2632de395973" type="Folder">64b.</container>
+            </did>
+          </c>
+          <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">The Haircurl Papers</title> (Harper , 1964)</unittitle>
+              <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+              <container id="aspace_14681db2c29ad9fb8cacd0a9a8010360" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_dd69c9a4ae18e076c6386725999cfeee" parent="aspace_14681db2c29ad9fb8cacd0a9a8010360" type="Folder">65</container>
+            </did>
+          </c>
+          <c id="aspace_ref93" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Pop Goes America</title> (Harper , 1966)</unittitle>
+              <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+              <container id="aspace_7eb5e859dad0bf240d4cfab3b787b7cb" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_359ffc8ee9ee8a74bc222eca2915ba95" parent="aspace_7eb5e859dad0bf240d4cfab3b787b7cb" type="Folder">65a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">The Paradise Bit</title> (Little, Brown &amp; Co. , 1967)</unittitle>
+              <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+              <container id="aspace_a0e840c8b218a5d9b8522b2b493eb826" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_273b02bc3e04efb6b394c71b509c2dc8" parent="aspace_a0e840c8b218a5d9b8522b2b493eb826" type="Folder">65b.</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">The Lunacy Boom</title> (Harper , 1970)</unittitle>
+              <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+              <container id="aspace_f75422b9cfbc114609fb1444d03931f1" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_3b039bc9fd3bb04b61fb93224470f5c8" parent="aspace_f75422b9cfbc114609fb1444d03931f1" type="Folder">65c.</container>
+            </did>
+          </c>
+          <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Writing With a Word Processor</title> (Harper , 1983) (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_791bce66c4ec26a0a7c9a2699cbcf910" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_20233d4916e955a8f2292d4729baaf7f" parent="aspace_791bce66c4ec26a0a7c9a2699cbcf910" type="Folder">66</container>
+            </did>
+          </c>
+          <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Writing With a Word Processor</title> (Harper , 1983) (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_d896b2063be11389c1524f0e2e1d3df6" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_2627f4bab1c42e3e1d8bbe4d846a87d5" parent="aspace_d896b2063be11389c1524f0e2e1d3df6" type="Folder">67</container>
+            </did>
+          </c>
+          <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Writing With a Word Processor</title> (Harper , 1983) (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_04d97820df693f12a55e04dbd970dcdd" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_14ef0b1aae872ef23b8e6414d70104c8" parent="aspace_04d97820df693f12a55e04dbd970dcdd" type="Folder">68</container>
+            </did>
+          </c>
+          <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Willie &amp; Dwike</title> (Harper , 1984) (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_ed1a4b193470199995a457558c26fc69" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_cc9e22555fb178b6ffec2532cbcd01c2" parent="aspace_ed1a4b193470199995a457558c26fc69" type="Folder">69</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Willie &amp; Dwike</title> (Harper , 1984) (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_9ea106ed3dc9237e734d6435ba32620f" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_41ae2b375b88bef1fc5626d9b18b903e" parent="aspace_9ea106ed3dc9237e734d6435ba32620f" type="Folder">70</container>
+            </did>
+          </c>
+          <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Willie &amp; Dwike</title> (Harper , 1984) (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_466e446879de2f463411a3e9fcffe2d3" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_28381709a02567ae91863b4f8bfe685f" parent="aspace_466e446879de2f463411a3e9fcffe2d3" type="Folder">71</container>
+            </did>
+          </c>
+          <c id="aspace_ref102" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Writing to Learn</title> (Harper , 1988) (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container id="aspace_79103619a82ee5b335088207ba874526" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_f719e586bad46e4bf690ad25bc78640e" parent="aspace_79103619a82ee5b335088207ba874526" type="Folder">72</container>
+            </did>
+          </c>
+          <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Writing to Learn</title> (Harper , 1988) (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container id="aspace_38bd318cb0e4c8edf54b851003f9a945" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_801adfd84a824e0afcf6c9083c2fe007" parent="aspace_38bd318cb0e4c8edf54b851003f9a945" type="Folder">73</container>
+            </did>
+          </c>
+          <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Writing to Learn</title> (Harper , 1988) (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container id="aspace_82975bae4ac7f9f714e9d7b90a19b649" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_e07e5d685a538c84fd4cd0606d3902d3" parent="aspace_82975bae4ac7f9f714e9d7b90a19b649" type="Folder">74</container>
+            </did>
+          </c>
+          <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Spring Training</title> (Harper , 1989)</unittitle>
+              <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+              <container id="aspace_f95dcd9255f0926c1db39eabb7eea3fe" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_83c03b13b1aa02e4f12cb58d35c44f0f" parent="aspace_f95dcd9255f0926c1db39eabb7eea3fe" type="Folder">75</container>
+            </did>
+          </c>
+          <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">American Places</title> (HarperCollins , 1992)</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+              <container id="aspace_adf274c3e09f09c25605157ba5014e2f" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_a6725536240bbf10627272e33ca9b7a9" parent="aspace_adf274c3e09f09c25605157ba5014e2f" type="Folder">76</container>
+            </did>
+          </c>
+          <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: <title render="italic">Speaking of Journalism</title> (HarperCollins , 1994)</unittitle>
+              <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+              <container id="aspace_3e7500a5245b3a796ffa383774f7716c" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_7085a0f47efd3e0272fe279e15adc5e1" parent="aspace_3e7500a5245b3a796ffa383774f7716c" type="Folder">77</container>
+            </did>
+          </c>
+          <c id="aspace_03c276d44e19d39b2800497bbfede1bb" level="file">
+            <did>
+              <unittitle>Letters: Easy to Remember (Godine, 2001), early reactions and advice</unittitle>
+              <unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate>
+              <container altrender="Record carton" id="aspace_8f0adc4d8640f9d1283e1152d56c1f46" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_0752555f22d41b762a01c26069abbb4c" parent="aspace_8f0adc4d8640f9d1283e1152d56c1f46" type="Folder">1 </container>
+            </did>
+          </c>
+          <c id="aspace_fc2c24fcc4636925c10bf37edba74996" level="file">
+            <did>
+              <unittitle>Letters: Easy to Remember (Godine, 2001)</unittitle>
+              <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+              <container altrender="Record carton" id="aspace_1cb36a44717c949d692bbc7cd4d45217" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_def8cf2a533ab085a8826818052bb441" parent="aspace_1cb36a44717c949d692bbc7cd4d45217" type="Folder">2 </container>
+            </did>
+          </c>
+          <c id="aspace_73170bbfd63d0de0b3c095b7785723f7" level="file">
+            <did>
+              <unittitle>Letters: Conversations, piano/saxophone CD</unittitle>
+              <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+              <container altrender="Record carton" id="aspace_4e505ed956416cf948a7e836f4cf1bd1" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_e8753fb1788d16ff4ebb45f454aedaeb" parent="aspace_4e505ed956416cf948a7e836f4cf1bd1" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_c5c9158c392c74b97e2e670075c38bd9" level="file">
+            <did>
+              <unittitle>Letters: Writing About Your Life (Marlowe, 2004)</unittitle>
+              <unitdate datechar="creation" normal="2004/2006" type="inclusive">2004-2006</unitdate>
+              <container altrender="Record carton" id="aspace_a5e44fdea645d45c780d29c7fa20e009" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_88161192a4d5521fdd5d1f75fa28d03c" parent="aspace_a5e44fdea645d45c780d29c7fa20e009" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_3dca2ba945fdb572a8d87bd697fd8e91" level="file">
+            <did>
+              <unittitle>Letters: What's the Point, CD</unittitle>
+              <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+              <container altrender="Record carton" id="aspace_fccc2b5cb7643eb6338dbe4e30ac740d" label="Mixed Materials [31142062885812]" type="Box">11</container>
+              <container id="aspace_c91bba0f9ea0f07864182c48478765b6" parent="aspace_fccc2b5cb7643eb6338dbe4e30ac740d" type="Folder">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref108" level="subseries">
+          <did>
+            <unittitle>Subseries E, Regarding the Fales Library party at New York University</unittitle>
+          </did>
+          <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters: Regarding Fales Library event at NYU and NY Times article</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_38a195ef85a817d1a0fa6a3e3d84226b" label="Mixed Materials [31142054927796]" type="Box">2</container>
+              <container id="aspace_ddf2941a9ade3fb3d8eb312a493479ea" parent="aspace_38a195ef85a817d1a0fa6a3e3d84226b" type="Folder">78</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref110" level="series">
+        <did>
+          <unittitle>Series II: Works by William Zinsser</unittitle>
+        </did>
+        <c id="aspace_ref111" level="subseries">
+          <did>
+            <unittitle>Subseries A, Manuscripts</unittitle>
+          </did>
+          <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">American Places</title>, corrected manuscript, Chps. 1-7</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_34f414a304f943a8bed5f0ea774632c0" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_2f9bff59460c7acdd99260f54ea12f6a" parent="aspace_34f414a304f943a8bed5f0ea774632c0" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref113" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">American Places</title>, corrected manuscript, Chps. 8-16 and "Acknowledgments"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_979dd316cc6a7599f92cb20e64eead1e" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_9b7a76df1802113bcd1f4cca693c0ee6" parent="aspace_979dd316cc6a7599f92cb20e64eead1e" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref114" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Any Old Place With You</title>, corrected manuscript, Chps. 1-4</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_d582a56c658eb9840247e6b5b914ed58" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_410c278a7524f2f2cf90df0b3a95fe89" parent="aspace_d582a56c658eb9840247e6b5b914ed58" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Any Old Place With You</title>, corrected manuscript, Chps. 5-6</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_e5a834cde201ba4a8db9a4bc3747bb27" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_0d74b9e7d0972f0c9ea7ba2926f3b315" parent="aspace_e5a834cde201ba4a8db9a4bc3747bb27" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref116" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Any Old Place With You</title>, corrected manuscript, Chps. 7-9</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_50ec1b4b1bac43eb828e90b050b2103e" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_ec3fcba7adc972a3b34f1a40fa6d09e2" parent="aspace_50ec1b4b1bac43eb828e90b050b2103e" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref117" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The City Dwellers</title>, corrected manuscript</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_966a7a3ff7eba52ddcb5662b50b50dc1" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_04bb13a3161fac8f7f664229f13981a3" parent="aspace_966a7a3ff7eba52ddcb5662b50b50dc1" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Easy to Remember</title>, corrected manuscript</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_be9cdd626dd16c5f78661a2651faaa4c" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_ff04f1f1678565847de9ca8040da4495" parent="aspace_be9cdd626dd16c5f78661a2651faaa4c" type="Folder">6a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Easy to Remember</title>, author's correction on first proof</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_076f9246d1a8e8bf2460e77c6ceb6107" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_df8592ce28f9fba0db3f51f3ae4e47f8" parent="aspace_076f9246d1a8e8bf2460e77c6ceb6107" type="Folder">6b.</container>
+            </did>
+          </c>
+          <c id="aspace_ref120" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Easy to Remember</title>, uncorrected proofs</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_98bc2ab94bfd6fbdbedc2b462e8d7fde" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_627ffd04a2a28b93f54dfa380f322e07" parent="aspace_98bc2ab94bfd6fbdbedc2b462e8d7fde" type="Folder">6c.</container>
+            </did>
+          </c>
+          <c id="aspace_ref121" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Haircurl Papers</title>, corrected manuscript, Chps. 1-6</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_f828b70c28ae714a68e5ac366e469f60" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_c5521b68be0a74c617c9ccf193405755" parent="aspace_f828b70c28ae714a68e5ac366e469f60" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref122" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Haircurl Papers</title>, corrected manuscript, Chps. 7-14</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_6bd0f6ee9af5e017d94384afc844dba1" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_2439f5d67a42ea7e964731bbf45bd2bc" parent="aspace_6bd0f6ee9af5e017d94384afc844dba1" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref123" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Haircurl Papers</title>, corrected manuscript, Chps. 15-20</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_3599b569af5f059b6d15cadba25f4677" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_d832e2e113cad051436131534d5dd8d1" parent="aspace_3599b569af5f059b6d15cadba25f4677" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref124" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">How to Write a Memoir</title>, audio tape</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container id="aspace_f8d413bf132b6ddb7025e7242481db2c" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_972003ee4438f58ecd2278f3c19ee641" parent="aspace_f8d413bf132b6ddb7025e7242481db2c" type="Folder">9a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref125" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Lunacy Boom</title>, corrected manuscript (1 of 2)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_d359b001b57e2489210a32543b697ed0" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_6b6d62c62bac26359b97416bb9f34549" parent="aspace_d359b001b57e2489210a32543b697ed0" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref126" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Lunacy Boom</title>, corrected manuscript (2 of 2)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_d4eded097c42ffdd3cf59bba9df6abe3" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_b8d4db89265f522fb8fb8ebbbbd5c817" parent="aspace_d4eded097c42ffdd3cf59bba9df6abe3" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Mitchell and Ruff</title>, author's correction (first published as <title render="italic">Willie and Dwike</title>)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_89159035bdca022424f914f9bca22837" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_d2904561b4b55cda8bae99b16d71291b" parent="aspace_89159035bdca022424f914f9bca22837" type="Folder">11a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref128" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well </title>(1st ed.), corrected manuscript, Chps. 1-12</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_3bc47e85ce2a6ed4ef3ff578caccf128" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_682d5737a1bd3e14f3deaef060d20a06" parent="aspace_3bc47e85ce2a6ed4ef3ff578caccf128" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref129" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well </title>(1st ed.), corrected manuscript, Chps. 13-17 and "Sources"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_05bcfaaa3faab9130834b5a758b6ee67" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_8426bdc52aad7929c99c247633fc4dfd" parent="aspace_05bcfaaa3faab9130834b5a758b6ee67" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref130" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well</title> (2nd ed.), corrected manuscript, Chps. 1-11</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_e3bd2fce4531eb895e591d187617d306" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_22cf04819d237c6b9a7b3814d91840c5" parent="aspace_e3bd2fce4531eb895e591d187617d306" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref131" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well</title> (2nd ed.), corrected manuscript, Chps. 12-18 and "Bibliography"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_48bf0464acd6fbb93b104e07277d2634" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_6e64a510f87535f9ec5a73c772f65133" parent="aspace_48bf0464acd6fbb93b104e07277d2634" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref132" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well </title>(5th ed.), corrected manuscript, Chps. 1-13</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_8254cc3248f1e2cb2fca7786685a5761" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_3549fec546b6e3a2a7b4dba15d9f7003" parent="aspace_8254cc3248f1e2cb2fca7786685a5761" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref133" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well </title>(5th edition), corrected manuscript, Chps.14-22</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_bda7a98967c6c1ad3124be18acc13c9b" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_230ffbfd3a6002324ca20e7bf07b7db3" parent="aspace_bda7a98967c6c1ad3124be18acc13c9b" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref134" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well </title>(6th edition), revision of 5th ed. ms, Chps. 1-17</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_b9acf3e1b1cbedc038c13ee7c861efcd" label="Mixed Materials [31142042240641]" type="Box">3</container>
+              <container id="aspace_ed9ff9a639c84713158e6ba6087c77c1" parent="aspace_b9acf3e1b1cbedc038c13ee7c861efcd" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref135" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well </title>(6th ed.), revision of 5th ed. ms, Chps. 18-24 and "Sources"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_2bfd2085e2408d94947c0f6041bd116c" label="Mixed Materials [31142054927804]" type="Box">3A</container>
+              <container id="aspace_0ae632a800ecdd460fe67a5ad4da478e" parent="aspace_2bfd2085e2408d94947c0f6041bd116c" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref136" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well</title> (6th ed.), corrected manuscript, Chps. 1-14</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_d911e9da0eedc28201f9abdb407dc90f" label="Mixed Materials [31142054927804]" type="Box">3A</container>
+              <container id="aspace_6bcc8d9bb14364af17b65e4c57c7ae0e" parent="aspace_d911e9da0eedc28201f9abdb407dc90f" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref137" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well</title> (6th ed.), corrected manuscript, Chps. 15-24</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_aa2dcc30ee3bdb9a9a9e6325e90377de" label="Mixed Materials [31142054927804]" type="Box">3A</container>
+              <container id="aspace_6fbd7d8a620d7c30cb0d12bc3ecf7135" parent="aspace_aa2dcc30ee3bdb9a9a9e6325e90377de" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref138" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Paradise Bit</title>, corrected manuscript, Chps. 1-6</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_6181a6c6f8ff3fbdf5903349252d003c" label="Mixed Materials [31142054927804]" type="Box">3A</container>
+              <container id="aspace_774bcbcefc365464497a4c4ff007e0dc" parent="aspace_6181a6c6f8ff3fbdf5903349252d003c" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref139" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Paradise Bit</title>, corrected manuscript, Chps. 7-11</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_2a3e1d3a59e5cc7a53663e979b486371" label="Mixed Materials [31142054927804]" type="Box">3A</container>
+              <container id="aspace_e5d85f797bd2c0885b3d5372e1a92bef" parent="aspace_2a3e1d3a59e5cc7a53663e979b486371" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref140" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Paradise Bit</title>, corrected manuscript, Chps. 12-16</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_31f989cb91c8b5f7412468018539163e" label="Mixed Materials [31142054927804]" type="Box">3A</container>
+              <container id="aspace_901f26edf91ad9b0a8c0f14364681c47" parent="aspace_31f989cb91c8b5f7412468018539163e" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref141" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Paradise Bit</title>, corrected manuscript, Chps. 17-20</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_9ea129452af519537b6607e0c04e99b4" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_90ea25d7ca8c6dc1f0a6b8eb06247b19" parent="aspace_9ea129452af519537b6607e0c04e99b4" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref142" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Pop Goes America</title>, corrected manuscript, Chps. 1-6</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_781a13647a097b4810d145e552c2c2aa" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_5db07065fe9378a8406b45c099f8d8cd" parent="aspace_781a13647a097b4810d145e552c2c2aa" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref143" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Pop Goes America</title>, corrected manuscript, Chps. 7-11</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_d0360c0e89d07aa4770f01650f4fa27b" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_886aa867e316f088e22f0b0f159adf61" parent="aspace_d0360c0e89d07aa4770f01650f4fa27b" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref144" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Pop Goes America</title>, corrected manuscript, Chps. 12-17</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_f6525897dccb40eee8b73172d5d9c7bd" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_cf82b923151e8b7fff5153279135f4df" parent="aspace_f6525897dccb40eee8b73172d5d9c7bd" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref145" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Road to Timbuktu</title> (unpublished), corrected manuscript, Chps. 1-6</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_a16871cba9035530d3a02568af780748" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_f8e8b716cd432a4e718c8b4eff0b5881" parent="aspace_a16871cba9035530d3a02568af780748" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref146" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Road to Timbuktu</title> (unpublished), corrected manuscript, Chps. 7-13 and "Epilogue"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_2d48d25ffdb5e22e951771d101855eab" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_fe52e9a1f6e3f9e1346341a25513ccf9" parent="aspace_2d48d25ffdb5e22e951771d101855eab" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref147" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Seen Any Good Movies Lately?</title>, corrected manuscript</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_c4a9995150595a1d7244fe03e172e0d1" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_399271b971e9a2c34a56b1b1977b6ac2" parent="aspace_c4a9995150595a1d7244fe03e172e0d1" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref148" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Spring Training</title>, corrected manuscript, Chps. 1-8</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_35bcbfe305d6f38f13c350f133542c92" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_ed65ebf01a55f1042e82a0910820de9a" parent="aspace_35bcbfe305d6f38f13c350f133542c92" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref149" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Spring Training</title>, corrected manuscript, Chps. 9-19, "Epilogue" and "Sources"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_2687e23ff62ac4e2a494f6e693e9859c" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_0cd3a94d49a2532d0395ce4651d805c3" parent="aspace_2687e23ff62ac4e2a494f6e693e9859c" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref150" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Weekend Guests</title>, corrected manuscript</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_a9958e1db1c413c72aba65f92e3aa3bb" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_6a107c7cd3d5ee654150151c875ec78e" parent="aspace_a9958e1db1c413c72aba65f92e3aa3bb" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref151" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Willie &amp; Dwike</title>, corrected manuscript, Chps. 1-5</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_9c074b9230b535cd8ffffd96ac518b24" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_3dff5a19fe85ae006e27794cc3cb10fd" parent="aspace_9c074b9230b535cd8ffffd96ac518b24" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref152" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Willie &amp; Dwike</title>, corrected manuscript, Chps. 6-7</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_b764f8e57b6ddcd39c732d03c10d612b" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_3b525aa329db29d012c026794a9539b3" parent="aspace_b764f8e57b6ddcd39c732d03c10d612b" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref153" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Willie &amp; Dwike</title>, manuscript, 2 IBM DisplayWrite disks</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_76e6c6766d8a68f766ad14dad99d5745" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_892aaf61e5bb90e6bc7a2e9c1f7aadae" parent="aspace_76e6c6766d8a68f766ad14dad99d5745" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref154" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Writing With a Word Processor</title>, corrected manuscript</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_f155839295807896d10eb2d6ba426345" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_917746ddac83904c49b31cbf5ac8a011" parent="aspace_f155839295807896d10eb2d6ba426345" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_9703ff9301fd6c49cbb67d05b85dbab4" level="file">
+            <did>
+              <unittitle>Writing About Your Life, final manuscript</unittitle>
+              <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+              <container altrender="Record carton" id="aspace_2eadfc3436da82bc9e6b792f330de036" label="Mixed Materials [31142062885804]" type="Box">12</container>
+              <container id="aspace_f8c65173ccb334743ca59f118c6ca5a7" parent="aspace_2eadfc3436da82bc9e6b792f330de036" type="Folder">10 </container>
+            </did>
+          </c>
+          <c id="aspace_a550d4048768b8b20c2e81a22604d588" level="file">
+            <did>
+              <unittitle>Writing Places, final manuscript</unittitle>
+              <unitdate datechar="creation" normal="2008-10-01/2008-10-01">2008-10-01</unitdate>
+              <container altrender="Record carton" id="aspace_b1f53b3226a0eed70c20585562787797" label="Mixed Materials [31142062885804]" type="Box">12</container>
+              <container id="aspace_6a7680f9bc018944becb262b68e47132" parent="aspace_b1f53b3226a0eed70c20585562787797" type="Folder">11 </container>
+            </did>
+          </c>
+          <c id="aspace_b97a3760e461cef612fe2e476663f313" level="file">
+            <did>
+              <unittitle>Writing Places, 4 CD set</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">4 sound discs (cd)</extent>
+                <extent altrender="carrier">4 CDs, 5 hours</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="2009/2009">2009</unitdate>
+              <container altrender="Manuscript box - Letter - Half" id="aspace_9d9baf20964a1bfbd35ddda624480b52" label="Audio [31142062885796]" type="Box">13</container>
+            </did>
+          </c>
+          <c id="aspace_31a1c2a130eeb3c1cfe4cfbfbe91e3a5" level="file">
+            <did>
+              <unittitle>Zinsser on Friday, manuscript from blog, 3 folders</unittitle>
+              <unitdate datechar="creation" normal="2010/2011" type="inclusive">2010-2011</unitdate>
+              <container altrender="Record carton" id="aspace_4dc2e6c7c5b8baa93c1253aa9c4b4083" label="Mixed Materials [31142062885804]" type="Box">12</container>
+              <container id="aspace_1068c63f1be918f74ee4766a5c34345a" parent="aspace_4dc2e6c7c5b8baa93c1253aa9c4b4083" type="Folder">14-16</container>
+            </did>
+          </c>
+          <c id="aspace_6820c56ff821e08c6b63c4f43da90db1" level="file">
+            <did>
+              <unittitle>On Writing Well and How to Write a Memoir, 3 CD set</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">3 sound discs (cd)</extent>
+                <extent altrender="carrier">3 CDs, 2.5 hours</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+              <container altrender="Manuscript box - Letter - Half" id="aspace_5da57d8e062538eef3fb9b765ce262aa" label="Audio [31142062885796]" type="Box">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref155" level="subseries">
+          <did>
+            <unittitle>Subseries B, Various writing projects</unittitle>
+          </did>
+          <c id="aspace_ref156" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Book reviews and articles about books/writers</unittitle>
+              <unitdate datechar="creation" normal="1960/1996" type="inclusive">1960-1996</unitdate>
+              <container id="aspace_50a48f4043b0c3c63c3df8483d37a0b7" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_4dae6c716b79f58f4ad98a6ad2d377de" parent="aspace_50a48f4043b0c3c63c3df8483d37a0b7" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_ref157" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Travel articles - places (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1952/1997" type="inclusive">1952-1997</unitdate>
+              <container id="aspace_bc7801735de81f35b364ca2e7ef9fb0a" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_c3b677255e66949807e12906b64560ce" parent="aspace_bc7801735de81f35b364ca2e7ef9fb0a" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref158" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Travel articles - places (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1952/1997" type="inclusive">1952-1997</unitdate>
+              <container id="aspace_7bbfb6810240ca08e077a67510f4f629" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_5cac359419f05df86454407a97776dff" parent="aspace_7bbfb6810240ca08e077a67510f4f629" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref159" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Profiles - people (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1960/1995" type="inclusive">1960-1995</unitdate>
+              <container id="aspace_5db977b2434330f8277de5268c1f3948" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_f4e521250d4b5f8e68d6aa15044ea278" parent="aspace_5db977b2434330f8277de5268c1f3948" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref160" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Profiles - people (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1960/1995" type="inclusive">1960-1995</unitdate>
+              <container id="aspace_83092695e980520365882577d8d67434" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_8590f7c21c6aa209a9af7a9413e5795e" parent="aspace_83092695e980520365882577d8d67434" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref161" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Free-lance articles and assorted pieces (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1956/1988" type="inclusive">1956-1988</unitdate>
+              <container id="aspace_20a8ad8b04401e708c4d758259f18b18" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_f9cc1ae4025d5f4985a73dee25fe4f9b" parent="aspace_20a8ad8b04401e708c4d758259f18b18" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref162" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Free-lance articles and assorted pieces (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1956/1988" type="inclusive">1956-1988</unitdate>
+              <container id="aspace_2d61a82536a09bb5b58b1a4e132f7f78" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_727ec26e7d72008387b9b5b1aa3ae45d" parent="aspace_2d61a82536a09bb5b58b1a4e132f7f78" type="Folder">45</container>
+            </did>
+          </c>
+          <c id="aspace_ref163" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Free-lance articles and assorted pieces (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1956/1988" type="inclusive">1956-1988</unitdate>
+              <container id="aspace_eadfc4ce58d974c97f990e4421d554a7" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_23e9c8f75c7542ff49f27fac4f503925" parent="aspace_eadfc4ce58d974c97f990e4421d554a7" type="Folder">46</container>
+            </did>
+          </c>
+          <c id="aspace_ref164" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">New York Herald Tribune</title> articles (5) on Mau Mau War <title render="italic">New York Herald Tribune</title> articles on the South Seas</unittitle>
+              <unitdate datechar="creation" normal="1954/1956" type="inclusive">1954 , 1956</unitdate>
+              <container id="aspace_dec38362fa047029e92ec7ac4a64f5fd" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_c5cfcca62bd206c3de5e317dc650a968" parent="aspace_dec38362fa047029e92ec7ac4a64f5fd" type="Folder">47</container>
+            </did>
+          </c>
+          <c id="aspace_ref165" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Horizon</title> articles</unittitle>
+              <unitdate datechar="creation" normal="1958/1967" type="inclusive">1958-1967</unitdate>
+              <container id="aspace_d197a9bd8a33c44214cf79a8376ae112" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_733f3bcf86af82b3ca11bbeec917fd65" parent="aspace_d197a9bd8a33c44214cf79a8376ae112" type="Folder">48</container>
+            </did>
+          </c>
+          <c id="aspace_ref166" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Saturday Evening Post</title> articles</unittitle>
+              <unitdate datechar="creation" normal="1962/1967" type="inclusive">1962-1967</unitdate>
+              <container id="aspace_e70d3ed1ae980d7c0e6665a849a55232" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_cbb576ca025dff05d4a835383e10e426" parent="aspace_e70d3ed1ae980d7c0e6665a849a55232" type="Folder">49</container>
+            </did>
+          </c>
+          <c id="aspace_ref167" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Look</title> columns</unittitle>
+              <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+              <container id="aspace_8091100b606c535f8f5ccf16a7c7ae9d" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_dab2c3f582591e2fe5416216c7f3971e" parent="aspace_8091100b606c535f8f5ccf16a7c7ae9d" type="Folder">50</container>
+            </did>
+          </c>
+          <c id="aspace_ref168" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Life</title> columns (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1968/1972" type="inclusive">1968-1972</unitdate>
+              <container id="aspace_f7309194fa9d1c0cc4f4587e40e2c500" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_5ff9ac786015fe8374ff0d2c1293b537" parent="aspace_f7309194fa9d1c0cc4f4587e40e2c500" type="Folder">51</container>
+            </did>
+          </c>
+          <c id="aspace_ref169" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Life</title> columns (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1968/1972" type="inclusive">1968-1972</unitdate>
+              <container id="aspace_09eb2387cff868cea417e2a5fb203271" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_21f6e6b478e8d5428222bb2ddaeb89e1" parent="aspace_09eb2387cff868cea417e2a5fb203271" type="Folder">52</container>
+            </did>
+          </c>
+          <c id="aspace_ref170" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">New York Times, Home</title> Section columns</unittitle>
+              <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+              <container id="aspace_1f9474d410ef43b254af4e86a8229fa8" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_916065e5920f5f15691e37b51587cc1c" parent="aspace_1f9474d410ef43b254af4e86a8229fa8" type="Folder">53</container>
+            </did>
+          </c>
+          <c id="aspace_ref171" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>National Refractory &amp; Brake Co. articles and <title render="italic">Annual Reprot</title> (sic)</unittitle>
+              <unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate>
+              <container id="aspace_6d15c00889d66b0370874206e97eacc6" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_58160bdf5b2e9ab3405a03407eb49e58" parent="aspace_6d15c00889d66b0370874206e97eacc6" type="Folder">54</container>
+            </did>
+          </c>
+          <c id="aspace_ref172" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The Museum for Modern Art manuscript, unpublished article for <title render="italic">Life</title></unittitle>
+              <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+              <container id="aspace_6a1a456849addb7d730b85a68e83bda7" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_8165e7097383b30edfd8cdcbfbc726f6" parent="aspace_6a1a456849addb7d730b85a68e83bda7" type="Folder">55</container>
+            </did>
+          </c>
+          <c id="aspace_ref173" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">Herald Tribune Days</title> manuscript, unpublished memoir</unittitle>
+              <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+              <container id="aspace_1cc7478b2e6a5d276fe850931ce6275b" label="Mixed Materials [31142042240658]" type="Box">4</container>
+              <container id="aspace_092b2050162189b3d061cbd0f0296aa8" parent="aspace_1cc7478b2e6a5d276fe850931ce6275b" type="Folder">56</container>
+            </did>
+          </c>
+          <c id="aspace_ref174" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">The Car Nut</title> manuscript, unpublished children's book</unittitle>
+              <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+              <container id="aspace_7932418d6f90a9ac4793d9d2bfd86b8a" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_6c3ee5c11a883d90bd3d03abe5e60428" parent="aspace_7932418d6f90a9ac4793d9d2bfd86b8a" type="Folder">57</container>
+            </did>
+          </c>
+          <c id="aspace_ref175" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The Western as a Ritual Art Form of America, outline and notes for tv program</unittitle>
+              <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+              <container id="aspace_bb7480a744d1b373ff3899e24755dc0a" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_d2075fe80c8372a4bf0eaa340ab41fcf" parent="aspace_bb7480a744d1b373ff3899e24755dc0a" type="Folder">58</container>
+            </did>
+          </c>
+          <c id="aspace_ref176" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Sunday television scripts</unittitle>
+              <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+              <container id="aspace_db5faa637740a4b47f69f8a8ea45a8a9" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_c5b2652127c061b30ac9cff987e6efca" parent="aspace_db5faa637740a4b47f69f8a8ea45a8a9" type="Folder">59</container>
+            </did>
+          </c>
+          <c id="aspace_ref177" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Humor in Public Television: Is There Any Hope? report</unittitle>
+              <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+              <container id="aspace_c413ea1f75936da5a8ee4f673b6c1c03" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_43348dac244b3cb3c56cc6403283c776" parent="aspace_c413ea1f75936da5a8ee4f673b6c1c03" type="Folder">60</container>
+            </did>
+          </c>
+          <c id="aspace_ref178" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle><title render="italic">On Writing Well</title> audio script, Nov. 1990</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_a4d9c66138fc4807c71cc9a2516611ff" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_57d1428e1ef275b6b823635d3d8efa19" parent="aspace_a4d9c66138fc4807c71cc9a2516611ff" type="Folder">61</container>
+            </did>
+          </c>
+          <c id="aspace_ref179" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Introduction to Landmarks Exhibit, Municipal Arts Society, manuscript, June 1965</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_da2c2f1a1d49f97c54f020210e4562eb" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_36a07860a42187750108f59e6e7c7338" parent="aspace_da2c2f1a1d49f97c54f020210e4562eb" type="Folder">62</container>
+            </did>
+          </c>
+          <c id="aspace_ref180" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pamphlets and letters, Book-of-the-Month Club, NY Public Library</unittitle>
+              <unitdate datechar="creation" normal="1966/1997" type="inclusive">1966-1997</unitdate>
+              <container id="aspace_abbd68dea99030a02f0a94caf290aa5c" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_10ca1f1aa7ff213885a85bb0d068bc93" parent="aspace_abbd68dea99030a02f0a94caf290aa5c" type="Folder">63</container>
+            </did>
+          </c>
+          <c id="aspace_ref181" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>60th Anniversary Exhibit, Book-of-the-Month Club, NY Public Library (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_ea740bdd4036c219063fdda644462494" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_7d43ff547b38266c7cee1b2060e1dbe2" parent="aspace_ea740bdd4036c219063fdda644462494" type="Folder">64</container>
+            </did>
+          </c>
+          <c id="aspace_ref182" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>60th Anniversary Exhibit, Book-of-the-Month Club, NY Public Library (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_e52132e625f52101eb9df19e087f3c99" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_43f6c1c8bb64262ae0760c72d8d86ea2" parent="aspace_e52132e625f52101eb9df19e087f3c99" type="Folder">65</container>
+            </did>
+          </c>
+          <c id="aspace_ref183" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>60th Anniversary Exhibit, Book-of-the-Month Club, NY Public Library (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_aab7b2ce52ba8446016ac1df1491dd0a" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_6c6585c137be994280bfcee6db2c3dc4" parent="aspace_aab7b2ce52ba8446016ac1df1491dd0a" type="Folder">66</container>
+            </did>
+          </c>
+          <c id="aspace_ref184" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Tour de Force, <title render="italic">Town and Country</title>, Apr. 1999</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_3834e0bf8ea2697f0ea3d34c7b0ac30d" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_11e873beb9a0747e9ba6bdd5b6e069db" parent="aspace_3834e0bf8ea2697f0ea3d34c7b0ac30d" type="Folder">66a.</container>
+            </did>
+          </c>
+          <c id="aspace_ref185" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The Healing Moment,<title render="italic"> Princeton Alumni Weekly</title>, May 19</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container id="aspace_c403e3f7a34822f8ae7c17acca96b0f8" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_9de767342f6422270edeefd213e6cabe" parent="aspace_c403e3f7a34822f8ae7c17acca96b0f8" type="Folder">66b.</container>
+            </did>
+          </c>
+          <c id="aspace_ref186" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>A Christmas Memoir, <title render="italic">Town and Country</title>, Dec. 1999</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_f10e84f3587b1604dda5b695ef941152" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_6003b0df1e9b5396b3fb1e150c222537" parent="aspace_f10e84f3587b1604dda5b695ef941152" type="Folder">66c.</container>
+            </did>
+          </c>
+          <c id="aspace_ref187" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Field of Tin, <title render="italic">The Atlantic Monthly</title>, July/Aug. 2001</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_4318cab6d200ea201428307de70371cf" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_6418ee437bed6d03d471daf4e444a07c" parent="aspace_4318cab6d200ea201428307de70371cf" type="Folder">66d.</container>
+            </did>
+          </c>
+          <c id="aspace_ref188" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Conversations with Arnold Roth and Bill Zinsser, Audio CD</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_b858e53b246601573dbaaeac2e7b9565" label="Mixed Materials [31142042240666]" type="Box">5</container>
+              <container id="aspace_53c26ca823755aaca34bfc55c9174191" parent="aspace_b858e53b246601573dbaaeac2e7b9565" type="Folder">66e.</container>
+            </did>
+          </c>
+          <c id="aspace_4b61653f21f58a79792a4a20195db3ca" level="file">
+            <did>
+              <unittitle>Articles, 2 folders</unittitle>
+              <unitdate datechar="creation" normal="1999/2009" type="inclusive">1999-2009</unitdate>
+              <container altrender="Record carton" id="aspace_23877b61bdc4c4003f8f11493bd30036" label="Mixed Materials [31142062885804]" type="Box">12</container>
+              <container id="aspace_82c65a732d8ad37eb56c30f794cc695a" parent="aspace_23877b61bdc4c4003f8f11493bd30036" type="Folder">12-13</container>
+            </did>
+          </c>
+          <c id="aspace_b088705563851e857342dc404e5edcae" level="file">
+            <did>
+              <unittitle>Work as songwriter and musician</unittitle>
+              <unitdate datechar="creation" normal="1999/2003" type="inclusive">1999-2003</unitdate>
+              <container altrender="Record carton" id="aspace_483f5869e3f539771ead355c96147f5a" label="Mixed Materials [31142062885804]" type="Box">12</container>
+              <container id="aspace_1491ac207eb792236ddc4f940bc3a6cd" parent="aspace_483f5869e3f539771ead355c96147f5a" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_61f987397eba52b08152f3770bd10a48" level="file">
+            <did>
+              <unittitle>Conversations: Arnold Roth &amp; Bill Zinsser</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
+                <extent altrender="carrier">total time: 41.31</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+              <container altrender="Manuscript box - Letter - Half" id="aspace_43725fc6ef15684e33370c1e2ab361dd" label="Audio [31142062885796]" type="Box">13</container>
+            </did>
+          </c>
+          <c id="aspace_ebbd7a54c997c4e0874888a7cbdd6ecb" level="file">
+            <did>
+              <unittitle>What's the Point: A Musical Revue about a Summer Community, CD</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+              <container altrender="Manuscript box - Letter - Half" id="aspace_68b58cbaeb6730504f0df38236206556" label="Audio [31142062885796]" type="Box">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref189" level="subseries">
+          <did>
+            <unittitle>Subseries C, Scrapbooks</unittitle>
+          </did>
+          <c id="aspace_ref190" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Scrapbook: Education articles (mostly), <title render="italic">New York Herald Tribune</title></unittitle>
+              <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
+              <container id="aspace_8e7668afb2babf756427058d1d72a23f" label="Mixed Materials [31142042240674]" type="Box">6</container>
+              <container id="aspace_9f1d768949cea9dcfbd7a8328ebcfb6b" parent="aspace_8e7668afb2babf756427058d1d72a23f" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref192" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Scrapbook I: Movie reviews/columns, <title render="italic">New York Herald Tribune</title></unittitle>
+              <unitdate datechar="creation" normal="1954/1956" type="inclusive">1954-1956</unitdate>
+              <container id="aspace_9bfe55c3e22b2a8cda11c6975053c3ae" label="Mixed Materials [31142042240674]" type="Box">6</container>
+              <container id="aspace_380d08abc868118a9abe7f18c85c58d7" parent="aspace_9bfe55c3e22b2a8cda11c6975053c3ae" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref193" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Scrapbook II: Movie reviews, <title render="italic">New York Herald Tribune</title></unittitle>
+              <unitdate datechar="creation" normal="1956/1957" type="inclusive">1956-1957</unitdate>
+              <container id="aspace_55a414c4b06d25aca75e06dbd836d008" label="Mixed Materials [31142042240674]" type="Box">6</container>
+              <container id="aspace_0765b02973a2add79763b95fd66ff86d" parent="aspace_55a414c4b06d25aca75e06dbd836d008" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref194" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Scrapbook III: Movie reviews/editorials, <title render="italic">New York Herald Tribune</title></unittitle>
+              <unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate>
+              <container id="aspace_068c9a43d95c2219fbadcfa61bc215fa" label="Mixed Materials [31142042240674]" type="Box">6</container>
+              <container id="aspace_488b3549db560e95a8abbf79cd0ed5b4" parent="aspace_068c9a43d95c2219fbadcfa61bc215fa" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref195" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Scrapbook IV: Editorials/columns (article/subject list), <title render="italic">New York Herald Tribune</title></unittitle>
+              <unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate>
+              <container id="aspace_c7aa1664e0b8647d487dcaffc21fd96d" label="Mixed Materials [31142042240674]" type="Box">6</container>
+              <container id="aspace_7bbee33c3f2fa9008ffc35df56fa6486" parent="aspace_c7aa1664e0b8647d487dcaffc21fd96d" type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref196" level="subseries">
+          <did>
+            <unittitle>Subseries D, Reviews and press comments</unittitle>
+          </did>
+          <c id="aspace_ref197" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Inventing the Truth</title> (editor, 1st ed.)</unittitle>
+              <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_c9218aaa92d24319531213ecf31c440e" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_2e35526feccad9f214c81712953677ae" parent="aspace_c9218aaa92d24319531213ecf31c440e" type="Folder">67</container>
+            </did>
+          </c>
+          <c id="aspace_ref198" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Inventing the Truth</title> (editor, 2nd ed.)</unittitle>
+              <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+              <container id="aspace_6b724818e823f8b55e8f2796e0e7e783" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_1e64ad1746b790fa706538a0ccb6cf69" parent="aspace_6b724818e823f8b55e8f2796e0e7e783" type="Folder">68</container>
+            </did>
+          </c>
+          <c id="aspace_ref199" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Extraordinary Lives</title> (editor)</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container id="aspace_2aa6247e479a4189b6690873461cc363" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_5357953414e22d6c6d219eac072c8991" parent="aspace_2aa6247e479a4189b6690873461cc363" type="Folder">69</container>
+            </did>
+          </c>
+          <c id="aspace_ref200" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Spiritual Quests</title> (editor)</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container id="aspace_4a3ce2145e91c7df28c3e552222ef81a" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_cdc7b11449f9b31bb424a49ea3e2a992" parent="aspace_4a3ce2145e91c7df28c3e552222ef81a" type="Folder">70</container>
+            </did>
+          </c>
+          <c id="aspace_ref201" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Paths of Resistance</title> (editor)</unittitle>
+              <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+              <container id="aspace_38b12c3d1fefa56ed5b27ca8ddf67f7f" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_0fa69725fd8378690db8b2876c5ce271" parent="aspace_38b12c3d1fefa56ed5b27ca8ddf67f7f" type="Folder">71</container>
+            </did>
+          </c>
+          <c id="aspace_ref202" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Worlds of Childhood</title> (editor)</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+              <container id="aspace_a7fca13c41c18e70a7c7bcc4f74aa8d8" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_4f7bbfd5464f6265409c392b490748d9" parent="aspace_a7fca13c41c18e70a7c7bcc4f74aa8d8" type="Folder">72</container>
+            </did>
+          </c>
+          <c id="aspace_ref203" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">They Went</title> (editor)</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+              <container id="aspace_ac01f15a82b23b26888c68fbbdce5e77" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_67b90206fb58362648348a58e7fc30b1" parent="aspace_ac01f15a82b23b26888c68fbbdce5e77" type="Folder">73</container>
+            </did>
+          </c>
+          <c id="aspace_ref204" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Any Old Place With You</title></unittitle>
+              <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+              <container id="aspace_14df8a8097935629cf9f06c29f6c591d" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_2bfc167d5097a28f2a5135126f52a4fd" parent="aspace_14df8a8097935629cf9f06c29f6c591d" type="Folder">74</container>
+            </did>
+          </c>
+          <c id="aspace_ref205" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Seen Any Good Movies Lately?</title></unittitle>
+              <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+              <container id="aspace_edd147a8902a01ac080c00815f6cafcb" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_17c6140890abf950f932573a35b0f12f" parent="aspace_edd147a8902a01ac080c00815f6cafcb" type="Folder">75</container>
+            </did>
+          </c>
+          <c id="aspace_ref206" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">The City Dwellers</title></unittitle>
+              <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+              <container id="aspace_284be0f9e3f00b427c7c7a9394e6fa48" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_693bdbd12fa6bd84c5b070fd7ce03067" parent="aspace_284be0f9e3f00b427c7c7a9394e6fa48" type="Folder">76</container>
+            </did>
+          </c>
+          <c id="aspace_ref207" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Five Boyhoods</title></unittitle>
+              <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+              <container id="aspace_6d35120afa98f7980b7dd7b0c15adcd3" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_0914470c963f49014851889fc7fa7c34" parent="aspace_6d35120afa98f7980b7dd7b0c15adcd3" type="Folder">77</container>
+            </did>
+          </c>
+          <c id="aspace_ref208" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Weekend Guests</title></unittitle>
+              <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+              <container id="aspace_077934c6916c977662110785786c3934" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_71926fbdc739cc6d06ee5daf252fca2b" parent="aspace_077934c6916c977662110785786c3934" type="Folder">78</container>
+            </did>
+          </c>
+          <c id="aspace_ref209" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">The Haircurl Papers</title></unittitle>
+              <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+              <container id="aspace_413f43120cbdb64d5b9baeb6c6f3dc1c" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_95115965996e27e54f4c35d8e647b229" parent="aspace_413f43120cbdb64d5b9baeb6c6f3dc1c" type="Folder">79</container>
+            </did>
+          </c>
+          <c id="aspace_ref210" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Pop Goes America</title></unittitle>
+              <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+              <container id="aspace_668d8bc286a23701b489757212381a0b" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_b74e18a488e63de837493ee5cfb1f1a4" parent="aspace_668d8bc286a23701b489757212381a0b" type="Folder">80</container>
+            </did>
+          </c>
+          <c id="aspace_ref211" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">The Paradise Bit</title></unittitle>
+              <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+              <container id="aspace_f052ac73a9374c8c8d6de1fcf2c9fbbb" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_18b12db819e7472390726ee5e15e2010" parent="aspace_f052ac73a9374c8c8d6de1fcf2c9fbbb" type="Folder">81</container>
+            </did>
+          </c>
+          <c id="aspace_ref212" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Annual Reprot</title> (sic)</unittitle>
+              <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+              <container id="aspace_f5f6fa79c3cfad27e83d8926d86fc018" label="Mixed Materials [31142054927812]" type="Box">7</container>
+              <container id="aspace_0499514e3cca1efd4e62dc419158036c" parent="aspace_f5f6fa79c3cfad27e83d8926d86fc018" type="Folder">82</container>
+            </did>
+          </c>
+          <c id="aspace_ref213" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">The Lunacy Boom</title></unittitle>
+              <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+              <container id="aspace_57bf83a5ed21f714250e03d77eb9b544" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_d5c5ecf52071808089de9c90eaf909c3" parent="aspace_57bf83a5ed21f714250e03d77eb9b544" type="Folder">83</container>
+            </did>
+          </c>
+          <c id="aspace_ref214" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">On Writing Well</title> (1st and 2nd eds.)</unittitle>
+              <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976 , 1980</unitdate>
+              <container id="aspace_e5b62869b84723d20c29b03f3c31b8d2" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_fda9aba78abd51519cd7fe7c171c4fca" parent="aspace_e5b62869b84723d20c29b03f3c31b8d2" type="Folder">84</container>
+            </did>
+          </c>
+          <c id="aspace_ref215" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">On Writing Well</title> (3rd, 4th, 5th eds.)</unittitle>
+              <unitdate datechar="creation" normal="1985/1995" type="inclusive">1985 , 1990 , 1995</unitdate>
+              <container id="aspace_01c01bffec767df91936d6c0d8c4f716" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_4fc406a13cbf7fe6d26b15b426993d69" parent="aspace_01c01bffec767df91936d6c0d8c4f716" type="Folder">85</container>
+            </did>
+          </c>
+          <c id="aspace_ref216" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Writing With a Word Processor</title></unittitle>
+              <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_8f8daebd02bb8e77809e33acb75b235a" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_e1f7c9e4c41a9d5b5d183cb592b2fca6" parent="aspace_8f8daebd02bb8e77809e33acb75b235a" type="Folder">86</container>
+            </did>
+          </c>
+          <c id="aspace_ref217" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Willie &amp; Dwike</title></unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_7f13c897e439b4dfcb893deeed0b3e26" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_920eb3571490d6fc2b7d520f430c2e59" parent="aspace_7f13c897e439b4dfcb893deeed0b3e26" type="Folder">87</container>
+            </did>
+          </c>
+          <c id="aspace_ref218" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Writing to Learn</title></unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container id="aspace_23247f2ef877a2297690acdf1e4acb27" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_855cdbdf90eb0f338bc5f67e9efa99e4" parent="aspace_23247f2ef877a2297690acdf1e4acb27" type="Folder">88</container>
+            </did>
+          </c>
+          <c id="aspace_ref219" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Spring Training</title></unittitle>
+              <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+              <container id="aspace_0a0967cb84807e0111000e94862f4202" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_27195fbffa950d7869e8db7d377b3c15" parent="aspace_0a0967cb84807e0111000e94862f4202" type="Folder">89</container>
+            </did>
+          </c>
+          <c id="aspace_ref220" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">American Places</title></unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+              <container id="aspace_849d4cdb5cd5bbc08dd062866e444bc5" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_2db73b7f24ae613a0aae1bba8d30205e" parent="aspace_849d4cdb5cd5bbc08dd062866e444bc5" type="Folder">90</container>
+            </did>
+          </c>
+          <c id="aspace_ref221" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews and Press: <title render="italic">Speaking of Journalism</title></unittitle>
+              <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+              <container id="aspace_261aa73fbbb5b439dfd120150a510146" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_703cbedfd610a4a872bd7c4cdafa1c80" parent="aspace_261aa73fbbb5b439dfd120150a510146" type="Folder">91</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref222" level="subseries">
+          <did>
+            <unittitle>Subseries E, Lyrics</unittitle>
+          </did>
+          <c id="aspace_ref223" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Songs written by Zinsser</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_44e2546ac33785ecff60171dffd2224e" label="Mixed Materials [31142054927820]" type="Box">8</container>
+              <container id="aspace_6a8fd27271937388fdec7cc8469a70fe" parent="aspace_44e2546ac33785ecff60171dffd2224e" type="Folder">92</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref224" level="series">
+        <did>
+          <unittitle>Series III: Biographical</unittitle>
+        </did>
+        <c id="aspace_ref225" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Assorted awards, honors, biographical articles written about William Zinsser</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1f28d9c2110f45f6fe81c6c4c6fd3815" label="Mixed Materials [31142054927820]" type="Box">8</container>
+            <container id="aspace_d219817a9e6ea04cdab678e3b5b5a3f3" parent="aspace_1f28d9c2110f45f6fe81c6c4c6fd3815" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c21e1360ac33332688306b2c5ea9994e" level="file">
+          <did>
+            <unittitle>Biographical information</unittitle>
+            <unitdate datechar="creation" normal="2001/2004" type="inclusive">2001-2004</unitdate>
+            <container altrender="Record carton" id="aspace_f92affc98890af0ef6ad1ffd62906db8" label="Mixed Materials [31142062885804]" type="Box">12</container>
+            <container id="aspace_e292afa136ea1c6049045ab23915adf5" parent="aspace_f92affc98890af0ef6ad1ffd62906db8" type="Folder">18</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref226" level="series">
+        <did>
+          <unittitle>Series IV: Teaching, Lectures and Workshops</unittitle>
+        </did>
+        <c id="aspace_ref227" level="subseries">
+          <did>
+            <unittitle>Subseries A, Lecture notes, letters, and articles at Yale University, Branford College, the Fieldston School</unittitle>
+          </did>
+          <c id="aspace_ref228" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Correspondence re job search for college teaching position</unittitle>
+              <unitdate datechar="creation" normal="1967/1970" type="inclusive">1967-1970</unitdate>
+              <container id="aspace_5404000ab170cbb751d39d1815e58476" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_d71b6115a4184af0798352fc55f005ed" parent="aspace_5404000ab170cbb751d39d1815e58476" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref229" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters re Editorship at <title render="italic">Yale Alumni Magazine</title></unittitle>
+              <unitdate datechar="creation" normal="1970/1977" type="inclusive">1970-1977</unitdate>
+              <container id="aspace_cb12aa58f8c0e68c19607a21977e429d" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_3ce724d86bb62760ed6e3291df85d21f" parent="aspace_cb12aa58f8c0e68c19607a21977e429d" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref230" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters re Mastership at Branford College, Yale University</unittitle>
+              <unitdate datechar="creation" normal="1973/1979" type="inclusive">1973-1979</unitdate>
+              <container id="aspace_48ab41ea234ab860a21c84531b2684c7" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_9bae3617b9274033a3c92cb75526f084" parent="aspace_48ab41ea234ab860a21c84531b2684c7" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref231" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Non-Fiction course, Yale University (1 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1971/1975" type="inclusive">1971-1975</unitdate>
+              <container id="aspace_07f7a6a8164beb4811726ab5f5f976bf" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_993fcc6325f5defc13bf7573f846e7a0" parent="aspace_07f7a6a8164beb4811726ab5f5f976bf" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref232" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Non-Fiction course, Yale University (2 of 2)</unittitle>
+              <unitdate datechar="creation" normal="1971/1975" type="inclusive">1971-1975</unitdate>
+              <container id="aspace_25eee576e97a2b9d7ee2b3470ecfda91" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_63cf2d6924d5270801ba8ce6431f6438" parent="aspace_25eee576e97a2b9d7ee2b3470ecfda91" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref233" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Humor Writing course, Yale University, Spring 1977-1978</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_0c856cd5082ced635402d64d3e9c1cb2" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_1b13e13f11861677bcc537e3790480f9" parent="aspace_0c856cd5082ced635402d64d3e9c1cb2" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref234" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters from former writing students, Yale University</unittitle>
+              <unitdate datechar="creation" normal="1962/1997" type="inclusive">ca.1972-1987</unitdate>
+              <container id="aspace_3389571268b64ea3b877077c8ab866a4" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_4ab8bb3e2d6ed14e1ba36d008cc53578" parent="aspace_3389571268b64ea3b877077c8ab866a4" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref235" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Writing course, the Fieldston School</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container id="aspace_e7b5148dc514c00e7722198609789e3d" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_d587f566810a040fae1c2bc97166f4ac" parent="aspace_e7b5148dc514c00e7722198609789e3d" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref236" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Letters from form Writing Students, Yale University - solicited by Mark Singer for <title render="italic">On Writing Well</title> 6th edition</unittitle>
+              <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+              <container id="aspace_e52ce2d0e68478aef9dd72393ab56bc2" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_f8ee6989d46ef68fa631b545a2af68f3" parent="aspace_e52ce2d0e68478aef9dd72393ab56bc2" type="Folder">9</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref237" level="subseries">
+          <did>
+            <unittitle>Subseries B Lecture notes, workshop requests, and articles regarding talks and workshops on writing</unittitle>
+          </did>
+          <c id="aspace_ref238" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976-1980</unitdate>
+              <container id="aspace_935028c016b622a38e90c0579ebda667" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_218ac83f650c67bfa4147ed7f809dbd3" parent="aspace_935028c016b622a38e90c0579ebda667" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref239" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976-1980</unitdate>
+              <container id="aspace_014f808de976b09d810e6f1fc25b33eb" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_bc139c990f75195bfa53707df280f030" parent="aspace_014f808de976b09d810e6f1fc25b33eb" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref240" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976-1980</unitdate>
+              <container id="aspace_dce6ff79c8af82f2834a648d268c93ed" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_320fdb91e406c6c1975e6590afa74d7d" parent="aspace_dce6ff79c8af82f2834a648d268c93ed" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref241" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1981/1984" type="inclusive">1981-1984</unitdate>
+              <container id="aspace_f9389d722f278431c02a20c4c514f1be" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_b7972f8333f0ba62f218422b9753fc6d" parent="aspace_f9389d722f278431c02a20c4c514f1be" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref242" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1981/1984" type="inclusive">1981-1984</unitdate>
+              <container id="aspace_f68da3e26ce01f71ca55d7fad7a37df6" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_ef0cfc2e576cc0b968b228ebc3bd3640" parent="aspace_f68da3e26ce01f71ca55d7fad7a37df6" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref243" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1981/1984" type="inclusive">1981-1984</unitdate>
+              <container id="aspace_5894ef2db8663f859c3ab10659f89894" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_b55e27916db07ad0c17a7cd3cb5138b8" parent="aspace_5894ef2db8663f859c3ab10659f89894" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref244" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+              <container id="aspace_3dc962d006341523edbf4aa2d1511398" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_35b23089a9d85e759294f5393bc221bb" parent="aspace_3dc962d006341523edbf4aa2d1511398" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref245" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+              <container id="aspace_251df9f20c46adc21144c71b8b1ff4a7" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_217ef021888ddb0a5a8ae94f62cfdbc3" parent="aspace_251df9f20c46adc21144c71b8b1ff4a7" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref246" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+              <container id="aspace_576aa8604a77f300e237640e6a601f23" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_64e7c960e7f6b5c1ce01165a34c09ea0" parent="aspace_576aa8604a77f300e237640e6a601f23" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref247" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
+              <container id="aspace_23dc8a7a7fed59ef6863b3f7361093db" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_b555c81eefa0d986a27237d1bf7357f8" parent="aspace_23dc8a7a7fed59ef6863b3f7361093db" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref248" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
+              <container id="aspace_dedfb75a212fab0b8c4b4ebb4ea9b398" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_ec947e7259a724a22c7a73c373df79b8" parent="aspace_dedfb75a212fab0b8c4b4ebb4ea9b398" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref249" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
+              <container id="aspace_cbce7f4fc6cc7258bf043334b5f896c2" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_ba687e6721bcdf032e8fc463ecb48625" parent="aspace_cbce7f4fc6cc7258bf043334b5f896c2" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref250" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (1 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1991/1998" type="inclusive">1991-1998</unitdate>
+              <container id="aspace_67988d0b9cb493f08b16cbee497ce14c" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_52aa28cfafb3c77774165d431872121a" parent="aspace_67988d0b9cb493f08b16cbee497ce14c" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref251" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (2 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1991/1998" type="inclusive">1991-1998</unitdate>
+              <container id="aspace_d6ec19a7f560f78e7a2bb5f36ff7091e" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_40eb8e4ad6b16b4ecdee9b7901efd575" parent="aspace_d6ec19a7f560f78e7a2bb5f36ff7091e" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref252" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Talks &amp; Workshops (3 of 3)</unittitle>
+              <unitdate datechar="creation" normal="1991/1998" type="inclusive">1991-1998</unitdate>
+              <container id="aspace_ec404bb4ad44d2ca9c8402e760bf8935" label="Mixed Materials [31142042240682]" type="Box">9</container>
+              <container id="aspace_05a143bc5fa8962f2fd2677d69a2e3dd" parent="aspace_ec404bb4ad44d2ca9c8402e760bf8935" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_4e09afac75512b05c33a6175042b4079" level="file">
+            <did>
+              <unittitle>Talks &amp; Workshops</unittitle>
+              <unitdate datechar="creation" normal="1998/2004" type="inclusive">1998-2004</unitdate>
+              <container altrender="Record carton" id="aspace_5ec3290027c31b61e8792dcad53735bc" label="Mixed Materials [31142062885804]" type="Box">12</container>
+              <container id="aspace_6e2a1ce2b106817dc5edcdd498d04035" parent="aspace_5ec3290027c31b61e8792dcad53735bc" type="Folder">19</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref257" level="series">
+        <did>
+          <unittitle>Oversize Series II, subseries C</unittitle>
+        </did>
+        <c id="aspace_ref191" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Scrapbook: Feature articles, <title render="italic">New York Herald Tribune</title> (oversize)</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_c1dbeede5ffdeb4a08c1bcbaace9e0e8" label="Mixed Materials [31142054897007]" type="Box">10</container>
+            <container id="aspace_dcd7d0f0a42b58b5de47a9024eafc924" parent="aspace_c1dbeede5ffdeb4a08c1bcbaace9e0e8" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
