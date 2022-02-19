@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_509_low/">arms_1977_509_low</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Abbot Augustus Low certificate of life membership to the Long Island Historical Society <num>1977.509</num></titleproper>
+        <author>Nicholas Pavlik</author>
+        <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brooklyn Historical Society</publisher>
+        <p>
+          <date>July 15, 2011</date>
+        </p>
+        <address>
+          <addressline>128 Pierrepont Street</addressline>
+          <addressline>Brooklyn 11201</addressline>
+          <addressline>library@brooklynhistory.org</addressline>
+          <addressline>URL: <extptr xlink:href="http://www.brooklynhistory.org/" xlink:show="new" xlink:title="http://www.brooklynhistory.org/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>change to complete_collection_level</p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-08-25 13:41:45 +0000</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Brooklyn Historical Society</corpname>
+      </repository>
+      <unittitle>Abbot Augustus Low certificate of life membership to the Long Island Historical Society</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">Long Island Historical Society</corpname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Low, Abbot Augustus</persname>
+      </origination>
+      <unitid>1977.509</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+        <extent altrender="carrier">in one folder.</extent>
+      </physdesc>
+      <unitdate normal="1875/1875" type="inclusive">1875</unitdate>
+      <abstract id="aspace_b9764011ae49858736226c5af08d9f58">The collection consists of a life membership certificate issued to Abbot Augustus Low by the Long Island Historical Society on March 9, 1875. Abbot Augustus Low (1843-1912) was the son of prominent Brooklyn businessman Abiel Abbot Low (1811-1893) and the nephew of Brooklyn Mayor Seth Low (1850-1916).</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+      <container id="aspace_0f84fc6e26db69daab98669e200dcf30" label="Text" type="box">A0071</container>
+    </did>
+    <bioghist id="aspace_6cc85cdc5eb4eba6754e6138760840e6">
+      <head>Biographical Note</head>
+      <p>Abbot Augustus Low (1843-1912) was the son of prominent Brooklyn businessman Abiel Abbot Low (1811-1893) and the nephew of Brooklyn Mayor Seth Low (1850-1916).</p>
+    </bioghist>
+    <acqinfo id="aspace_a11d697e70076de89568261068a19700">
+      <head>Immediate Source of Acquisition</head>
+      <p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>
+    </acqinfo>
+    <prefercite id="aspace_531e31ae73f2dd3e2e7a65556d97973a">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date (if known); Abbot Augustus Low certificate of life membership to the Long Island Historical Society, 1977.509, Box and Folder number; Brooklyn Historical Society.</p>
+    </prefercite>
+    <scopecontent id="aspace_1d002887e554da38f85d99d1fe4eadf4">
+      <head>Scope and Contents</head>
+      <p>The collection consists of a life membership certificate issued to Abbot Augustus Low by the Long Island Historical Society on March 9, 1875.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_271beba0859819b9a3251360f74927ff">
+      <head>Conditions Governing Access</head>
+      <p>Open to users without restriction.</p>
+    </accessrestrict>
+    <controlaccess>
+      <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+      <subject source="lcsh">History |x Societies, etc.</subject>
+      <genreform source="aat">Certificates</genreform>
+      <persname rules="aacr" source="naf">Low, Abbot Augustus</persname>
+      <corpname rules="aacr" source="naf">Long Island Historical Society</corpname>
+    </controlaccess>
+    <dsc/>
+  </archdesc>
+</ead>
