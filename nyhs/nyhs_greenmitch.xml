@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NHi">nyhs_greenmitch</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Green and Mitchell Papers<lb/><date calendar="gregorian" normal="1805/1861" era="ce" type="inclusive">1805-1861 (Bulk </date><date calendar="gregorian" normal="1824/1855" era="ce" type="bulk">1824-1855)</date><lb/> <num>MS 263</num></titleproper>
+        <author>Processed by Larry Weimer</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derivedfrom greenmitch01mb.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New-York Historical Society</publisher>
+        <p>
+          <date>2000</date>
+        </p>
+        <address>
+          <addressline>170 Central Park West</addressline>
+          <addressline>New York, NY 10024</addressline>
+          <addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-04-12 13:34:40 -0400</date>.</creation>
+      <langusage>Description is in <language>English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New-York Historical Society</corpname>
+      </repository>
+      <unittitle>Green and Mitchell Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="rda" source="local">Green, Timothy Ruggles </persname>
+      </origination>
+      <unitid>MS 263</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.2 Linear feet</extent>
+        <extent altrender="carrier">(7 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1805/1861" type="inclusive">1805-1861 (Bulk 1824-1855)</unitdate>
+      <abstract id="aspace_f005beda4f49ee8af2bc43fe5bc4934b">The collection consists of the personal and business papers of two attorneys, Timothy Ruggles Green and John Wroughton Mitchell. The work of these attorneys typically encompassed financial matters, such as estate settlements and disputes over debts or other financial dealings. The collection is mostly client files and but also contains professional and personal correspondence.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <custodhist id="aspace_8d172af6b8b590a4cfc74de81e6fcbd9">
+      <head>Provenance</head>
+      <p>Donation by Mrs. A. G. Burnham, 1963.</p>
+    </custodhist>
+    <accessrestrict id="aspace_9a8601a8b416a85c8ab2920c688b2c22">
+      <head>Access Restrictions</head>
+      <p>Open to qualified researchers.</p>
+      <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.) See guidelines in Reading Room for details.</p>
+    </accessrestrict>
+    <userestrict id="aspace_1c5014fa6789cffde6fc7e29f9b381f5">
+      <head>Use Restrictions</head>
+      <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to <lb/><lb/>Library Director <lb/><address><addressline>The New-York Historical Society<lb/> </addressline><addressline>170 Central Park West<lb/> </addressline><addressline>New York, NY 10024<lb/><lb/> </addressline></address></p>
+    </userestrict>
+    <prefercite id="aspace_39fef15b24f7752be360407933c54b2c">
+      <head>Preferred Citation</head>
+      <p>This collection should be cited as the Green and Mitchell Papers.</p>
+    </prefercite>
+    <bioghist id="aspace_897df27bf83f72a5dbeedd1cdab933ff">
+      <head>Historical Note</head>
+      <p>The American ancestry of Timothy Ruggles Green reaches back to Thomas Green of Malden, Massachusetts, who came to America from Leicestershire, England, about 1636. His maternal grandfather, Timothy Ruggles, was a leading royalist in Massachusetts during the American Revolution. A cousin, Andrew Haswell Green, was influential in the planning and development of northern Manhattan and in the consolidation of Manhattan with its neighboring cities. Though his family remained centered in New England, principally Worcester, Massachusetts, Timothy R. became an attorney in New York City circa mid-1820s. He was a trustee of Brown University and was active in religious circles. He married Cornelia Elizabeth Arnold, a member of another leading New England family, circa mid-1830s. He had two children, the first being Arnold Green (1838 -- 1903), who went on to become a prominent attorney in Providence, Rhode Island. Timothy R. became ill in late 1839 and died on March 16, 1840, in South Carolina where he had gone in the hope of recovering. </p>
+      <p>John Wroughton Mitchell (1796 -- 1878) was born in Charleston, South Carolina. He began practicing law in that city in 1817. Mitchell married Caroline Green, the sister of Timothy R., in 1825. In 1835, Mitchell moved to New York City, where he continued his law practice, now in partnership with his brother-in-law. He was actively involved with the Episcopal church in Charleston and continued these activities in New York. The Mitchells had at least one child, Clarence, who also became an attorney in New York.</p>
+    </bioghist>
+    <scopecontent id="aspace_c40f69617af2ccf6e2a42c5233f834f5">
+      <head>Scope and Content Note</head>
+      <p>All materials, regardless of type, that could be associated with a specific client of Green or Mitchell are found in the Client Files series. Correspondence that is personal in nature or that could not be linked to a client relationship during processing will be found in the Correspondence series. Agreements among various Green family members and genealogical notes are found in the Green Family Papers series. Material other than correspondence, including legal, financial, and research documents, that could not be linked to the Green Family or to a client relationship are in the Other Documents series. The researcher should consult series descriptions for individual series arrangement details.</p>
+      <p>Although original order for much of the material appeared to have been lost prior to processing, this may not have been the case in all instances as some concentrations of materials associated with particular clients or cases, consistent with the attorneys' filing labels, were found in the unprocessed collection. Documents found within these client-specific concentrations were retained within a file for that client even though the linkage to the client could not be readily identified for all such documents. Researchers should be aware that some materials retained in the Client File for this reason were used for multiple purposes (e.g., reference notes written on the back of other document forms) and therefore possibly relate to multiple matters. </p>
+    </scopecontent>
+    <arrangement id="aspace_557b7ee6e69d2046fa6e0ca3c10213ef">
+      <head>Arrangement</head>
+      <p>The collection is arranged by type of material. The client files are in alphabetical order according to client name, and the correspondence is filed in alphabetical order by correspondent, then chronologically. </p>
+      <p>The papers are arranged into the following series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series 1: Client Files</item>
+        <item>Series 2: Correspondence</item>
+        <item>Series 3: Green Family Papers</item>
+        <item>Series 4: Other Documents</item>
+      </list>
+    </arrangement>
+    <controlaccess>
+      <genreform source="aat">Receipts (financial records).</genreform>
+      <genreform source="aat">Accounts.</genreform>
+      <subject source="lcsh">Practice of law -- New York (State)  -- New York. </subject>
+      <subject source="lcsh">Decedents' estates</subject>
+      <subject source="lcsh">Debtor and creditor -- New York (State)  -- New York. </subject>
+      <subject source="lcsh">Collecting of accounts -- New York (State)  -- New York. </subject>
+      <subject source="lcsh">Prize money -- United States.</subject>
+      <genreform source="aat">Subpoenas</genreform>
+      <genreform source="aat">Affidavits</genreform>
+      <genreform source="aat">Depositions.</genreform>
+      <genreform source="aat">Agreements</genreform>
+      <genreform source="aat">Mortgages.</genreform>
+      <genreform source="aat">Estate inventories.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Lawyers</subject>
+      <persname rules="rda" source="local">Brown, Alexander H., active 1840s</persname>
+      <persname rules="rda" source="local">Evertson, Eliza</persname>
+      <persname rules="rda" source="local">Farrington, John (New York City)</persname>
+      <persname source="naf">Geyer, John</persname>
+      <famname source="naf">Green family</famname>
+      <persname source="naf">Green, A. H. (Andrew Haswell), 1820-1903</persname>
+      <persname rules="rda" source="local">Green, Elizabeth</persname>
+      <persname rules="rda" source="local">Green, Mary</persname>
+      <persname rules="rda" source="local">Green, William Elijah, 1777-1865</persname>
+      <persname source="naf">Green, William Nelson, 1804-1870</persname>
+      <persname rules="rda" source="local">Koon, Esther</persname>
+      <persname rules="rda" source="local">Koon, Valentine</persname>
+      <persname rules="rda" source="local">Koster, Manning</persname>
+      <persname rules="rda" source="local">Larned, Lucinda, 1787-</persname>
+      <persname rules="rda" source="local">Megrath, Michael</persname>
+      <persname rules="rda" source="local">Mitchell, Clarence G.</persname>
+      <persname source="naf">Mitchell, John Wroughton, 1796-1878</persname>
+      <persname rules="rda" source="local">Oldring, Henry</persname>
+      <corpname rules="rda" source="local">Protestant Episcopal Missionary Society in Charleston, S.C. Composed of Young Men and Others</corpname>
+      <persname rules="rda" source="local">Storm, Samuel</persname>
+      <persname rules="rda" source="local">Stremmel, Henry</persname>
+      <corpname rules="rda" source="naf">United States. Army -- Pay, allowances, etc.</corpname>
+      <corpname rules="rda" source="naf">United States. Navy -- Pay, allowances, etc.</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13_b57" level="series">
+        <did>
+          <unittitle>Series 1: Client Files, 1812 -- 1855</unittitle>
+        </did>
+        <scopecontent id="aspace_e583a4056198a3fdc4d33e979fb1f41c">
+          <head>Scope and Contents note</head>
+          <p>The Client Files series consists of all documents associated with Green and/or Mitchell's professional activities on behalf of their clients. The material in this series dates from 1812 to 1855, with the bulk dating from 1824 to 1855. Both Green's and Mitchell's professional activities are well-represented in these Client Files, though somewhat more of this series appears to pertain to Mitchell's work. A few of the Client Files relate to Mitchell's practice during his years in Charleston. </p>
+          <p>Legal documents comprise the bulk of this series; examples of these include court filings, replications, subpoenas, depositions, interrogatories, affidavits, agreements, mortgages, insurance contracts, and assignments. Among these documents are originals, certified copies, unofficial copies, polished drafts, and rough drafts. Most of the client cases concern financial matters, such as disputes over debts or settlements of estates, therefore, financial records also comprise a sizable portion of this series. Examples of these financial records include estate inventories, debt and revenue account listings, drafts, receipts, and summaries of attorney costs.</p>
+          <p>While most of the Client Files have only a few documents in them, several files are quite extensive. By far the most extensive Client File is that of Samuel Storm who was a longtime client of Green and, after his death, Mitchell. Storm was involved in a number of lawsuits related to his business dealings, and his file reflects this. The Client Files of Alexander Brown and Manning Koster are also substantive with respect to legal matters arising from their business dealings. </p>
+          <p>The estate work performed by Green and/or Mitchell is represented in the Client Files of Henry Oldring, Michael Megrath, Eliza Evertson, and John Geyer, among others. Aside from estate work, other legal matters which Green and Mitchell undertook can be found in the Koon file (slander against the moral reputation of Esther Koon), the Stremmel file (privateering award), and the Farrington file (military service benefits). Mitchell's activities on behalf of the Episcopal Church, primarily in Charleston where he held a position as Treasurer, are represented in the Protestant Episcopal Missionary Society file. </p>
+          <p>Subsequent to Green's death, Mitchell acted as attorney for members of the Green family in at least two matters that are well represented in these Client Files. One involves the intra-family dispute between Mitchell and various Green family members with Andrew Haswell Green over Andrew's questionable financial dealings involving the family farm in Worcester. The second matter concerns the dispute of Timothy R. Green's estate with Green's longtime client, Samuel Storm.</p>
+          <p>Client Files bearing the names of John or Clarence Mitchell include legal matters Mitchell pursued for himself or his son. </p>
+          <p>The Client Files are arranged in alphabetical order by client name. No distinction is made in the arrangement between clients of Green and of Mitchell; many clients were supported by both attorneys, particularly those longtime clients like Storm and Megrath. Within each Client File, only a broad arrangement is in place: correspondence is found first, followed by legal documents of various types, then followed by financial and other documents. Within each of these broad categories, no arrangement has been established. The Green, Megrath, and Storm Client Files consist of multiple folders; the dates on the folders reflect the contents of the overall Client File, not the specific folder in hand. </p>
+        </scopecontent>
+        <c id="aspace_ref14_lqn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Acker, James</unittitle>
+            <unitdate normal="1837/1839" type="inclusive">1837-1839</unitdate>
+            <container id="aspace_fd6762e39a6766bedaeea77df1575c6e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6d136bb09edcad76fdd2e4c7e496dfca" parent="aspace_fd6762e39a6766bedaeea77df1575c6e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_18g" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Adams, H.</unittitle>
+            <unitdate normal="1842/1844" type="inclusive">1842-1844</unitdate>
+            <container id="aspace_c87c3fb804c5476dd314e3fc622907df" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ab245f40ea3b5b9d4311cae2589da156" parent="aspace_c87c3fb804c5476dd314e3fc622907df" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_hya" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Adler, Sigismund &amp; Behrman, Daniel</unittitle>
+            <unitdate normal="1839/1842" type="inclusive">1839-1842</unitdate>
+            <container id="aspace_23f12d43445c01f6468330088902785a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0720234f95ed0c2f3e1537efe5c617a0" parent="aspace_23f12d43445c01f6468330088902785a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_ck9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: American Tract Society</unittitle>
+            <unitdate normal="1833/1835" type="inclusive">1833-1835</unitdate>
+            <container id="aspace_ba081f03854cf50650f6163f6e0607d6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3a7f9d6048255c5b6f96560c826edfb9" parent="aspace_ba081f03854cf50650f6163f6e0607d6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_xsi" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Barnard, Elisha; Dening, Barzillai; Forrester, James</unittitle>
+            <unitdate normal="1839/1840" type="inclusive">1839-1840</unitdate>
+            <container id="aspace_ac9a138f9c4481ba77123fe85d089255" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_555f79089a3e1854e653557f11d2b2a2" parent="aspace_ac9a138f9c4481ba77123fe85d089255" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_drq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Boynton, Ray &amp; Hyde, Harry</unittitle>
+            <unitdate normal="1837/1840" type="inclusive">1837-1840</unitdate>
+            <container id="aspace_0f38df0ecd667f7eaefc977c015802b2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9dc0b4b0a1b04e7b1d09cc0d298d42e8" parent="aspace_0f38df0ecd667f7eaefc977c015802b2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_gcd" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Brown, Alexander H.</unittitle>
+            <unitdate normal="1842/1845" type="inclusive">1842-1845</unitdate>
+            <container id="aspace_b16ec16b05673f81de96883061a8ee28" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f0fd637b69900c0172d75df33e20523c" parent="aspace_b16ec16b05673f81de96883061a8ee28" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_lo0" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Cain, Claiborne Warren</unittitle>
+            <unitdate normal="1837/1841" type="inclusive">1837-1841</unitdate>
+            <container id="aspace_3dc5a00393d36de842cf91bf4c3cac8c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_248a535ef96c6da5e1cc774f3afedcaa" parent="aspace_3dc5a00393d36de842cf91bf4c3cac8c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_9vu" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Church of Holy Apostles</unittitle>
+            <unitdate normal="1846/1846" type="inclusive">1846</unitdate>
+            <container id="aspace_1462c5054d405a35c95fc229dc62c7b0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3227d54da365045e8587584034a69175" parent="aspace_1462c5054d405a35c95fc229dc62c7b0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_op1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Clark, Lewis W.</unittitle>
+            <unitdate normal="1839/1845" type="inclusive">1839-1845</unitdate>
+            <container id="aspace_a706f6c6d31a975ac6986c17f0ab5957" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ea104f36d6072b0749d8fbdddad794e1" parent="aspace_a706f6c6d31a975ac6986c17f0ab5957" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_jpo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Corey, Sidney A. (Matters involving)</unittitle>
+            <unitdate normal="1843/1848" type="inclusive">1843-1848</unitdate>
+            <container id="aspace_383b96522d89993c05cb40d5934e720f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6aab09aac2e341e215fab7e6f355c97c" parent="aspace_383b96522d89993c05cb40d5934e720f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_jmg" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Cotheal, Henry</unittitle>
+            <unitdate normal="1836/1837" type="inclusive">1836-1837</unitdate>
+            <container id="aspace_072ca047f21bacaefbc50f490f03e4fd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_75c2d543992293926605cbdba0bf1843" parent="aspace_072ca047f21bacaefbc50f490f03e4fd" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_nea" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Dancer, Claudia Angelina &amp; John</unittitle>
+            <unitdate normal="1850/1850" type="inclusive">1850</unitdate>
+            <container id="aspace_e31f31e571a65662f79b838d05dd9686" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ee577a580eba10b999bb18200973ce3f" parent="aspace_e31f31e571a65662f79b838d05dd9686" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_duc" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Dennis, James &amp; Wright, John</unittitle>
+            <unitdate normal="1853/1853" type="inclusive">1853</unitdate>
+            <container id="aspace_33c7282205e8896c0363ec8ca64df649" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_99264f7d66972af1d719b98a35e24476" parent="aspace_33c7282205e8896c0363ec8ca64df649" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_2s9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Depeyster, Eliza Matilda</unittitle>
+            <unitdate normal="1834/1840" type="inclusive">1834-1840</unitdate>
+            <container id="aspace_f93dcb4d49608109567655ad508d87c2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_04acbaa4632de2937772a745d15e0c66" parent="aspace_f93dcb4d49608109567655ad508d87c2" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_wrf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Dillingham, William H.</unittitle>
+            <unitdate normal="1834/1838" type="inclusive">1834-1838</unitdate>
+            <container id="aspace_2b8d79f9680c0a836f04a29e2533f2be" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eda4cf3174ad43460f237215b70486f0" parent="aspace_2b8d79f9680c0a836f04a29e2533f2be" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_7nd" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Duffie, Cornelius R.</unittitle>
+            <unitdate normal="1845/1860" type="inclusive">1845-1860</unitdate>
+            <container id="aspace_be8ecb55f1e7fc6b73a07fc089f008a3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_04c5a5df4fe47f03c477ba0c6ec049a5" parent="aspace_be8ecb55f1e7fc6b73a07fc089f008a3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_0c3" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Dunbar, Duncan</unittitle>
+            <unitdate normal="1834/1840" type="inclusive">1834-1840</unitdate>
+            <container id="aspace_fd40504b88b8745ba56882de69ed6993" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f950afc18f643d7a915c1ab475bf23a5" parent="aspace_fd40504b88b8745ba56882de69ed6993" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_x93" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Ellet, William A.</unittitle>
+            <unitdate normal="1835/1838" type="inclusive">1835-1838</unitdate>
+            <container id="aspace_0174ce14b6f41d86bfbe573acc7efc82" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_748fdd7999c1b6ce7c5f183fc26748c9" parent="aspace_0174ce14b6f41d86bfbe573acc7efc82" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_qa8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Evertson, Eliza</unittitle>
+            <unitdate normal="1824/1841" type="inclusive">1824-1841</unitdate>
+            <container id="aspace_57cadf5c4e5d5dac3cfe4515c97ce31e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c1ede055987b019015689a8805152099" parent="aspace_57cadf5c4e5d5dac3cfe4515c97ce31e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_278" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Fairchild, Ezra</unittitle>
+            <unitdate normal="1845/1845" type="inclusive">1845</unitdate>
+            <container id="aspace_bed053a3742dce6834dacc8dc8c3d58c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e85437c68b7437e8e2d6877918a96bff" parent="aspace_bed053a3742dce6834dacc8dc8c3d58c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_oqp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Farrington, John</unittitle>
+            <unitdate normal="1847/1850" type="inclusive">1847-1850</unitdate>
+            <container id="aspace_a2671076eefd5306c9902e0d059eeb40" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_919c1c6b9f8f43ae40690ad13886993a" parent="aspace_a2671076eefd5306c9902e0d059eeb40" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_52s" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Force, John P.</unittitle>
+            <unitdate normal="1834/1834" type="inclusive">1834</unitdate>
+            <container id="aspace_cb42818c2d96b3389557afede15727b3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_83a2c9fd987fc334310d65c4910b6672" parent="aspace_cb42818c2d96b3389557afede15727b3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_5th" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Francis, John V.</unittitle>
+            <unitdate normal="1832/1836" type="inclusive">1832-1836</unitdate>
+            <container id="aspace_6251e6a86d7244658b767043a501f936" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4211d8955f505d0fe1f730ff63f67d53" parent="aspace_6251e6a86d7244658b767043a501f936" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_mjp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Genet, C.A. &amp; Martha B.</unittitle>
+            <unitdate normal="1838/1841" type="inclusive">1838-1841</unitdate>
+            <container id="aspace_8b836b01fa7c8337340e9e12279c9e1a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2ee6bd04347856e0203fd10637b830c3" parent="aspace_8b836b01fa7c8337340e9e12279c9e1a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_0gw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Geyer, John S.</unittitle>
+            <unitdate normal="1812/1844" type="inclusive">1812-1844</unitdate>
+            <container id="aspace_2a05f9fcd3e1b4e00040f6d8ec116089" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_904783c96c054c9a5a3d9c4979832ccb" parent="aspace_2a05f9fcd3e1b4e00040f6d8ec116089" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_zwr" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Green, Elizabeth &amp; Mary &amp; Timothy R. (Folder 1 of 2)</unittitle>
+            <unitdate normal="1831/1848" type="inclusive">1831-1848</unitdate>
+            <container id="aspace_d7a995baaf92cd98d338a8b2073c2525" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7411692e84bae1163775fdbc2edb2723" parent="aspace_d7a995baaf92cd98d338a8b2073c2525" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_s9x" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Green, Elizabeth &amp; Mary &amp; Timothy R. (Folder 2 of 2)</unittitle>
+            <unitdate normal="1831/1848" type="inclusive">1831-1848</unitdate>
+            <container id="aspace_ccc9cfbd57d7dc6e98c9f00a5e6b22bc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_59da528eee3cdc6aebb0ff45160f6a98" parent="aspace_ccc9cfbd57d7dc6e98c9f00a5e6b22bc" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_8ru" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Green Family &amp; Mitchell, John W.</unittitle>
+            <unitdate normal="1844/1847" type="inclusive">1844-1847</unitdate>
+            <container id="aspace_bf416a17903ab50d324c78e977670e28" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3ec8bb96d02420aaee028fb6e33b0e33" parent="aspace_bf416a17903ab50d324c78e977670e28" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_ri6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Griffith, Robert</unittitle>
+            <unitdate normal="1836/1839" type="inclusive">1836-1839</unitdate>
+            <container id="aspace_18a5a181fe204d79e9dd706b9d23fa8d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b808d2657531d67cadb5cbf82c1e6dd2" parent="aspace_18a5a181fe204d79e9dd706b9d23fa8d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_rl8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Harris, David T. &amp; Montrosse, ---</unittitle>
+            <unitdate normal="1838/1839" type="inclusive">1838-1839</unitdate>
+            <container id="aspace_8d0222d0dc85c37c52c3e89c7893232c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_0693f71f2f112adf63f3d017894cb64e" parent="aspace_8d0222d0dc85c37c52c3e89c7893232c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_3zh" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Hatch, T. W.</unittitle>
+            <unitdate normal="1845/1847" type="inclusive">1845-1847</unitdate>
+            <container id="aspace_36a228fe2e96438e46afdb617be351fd" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e58f5a7a82e9276bb90a9a43357ad77d" parent="aspace_36a228fe2e96438e46afdb617be351fd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_qxy" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Haviland, D. G.</unittitle>
+            <unitdate normal="1835/1835" type="inclusive">[1835]</unitdate>
+            <container id="aspace_39e44c0691b42623cd581264329e45c5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_51e025f5df3685ffa19272291732dcf6" parent="aspace_39e44c0691b42623cd581264329e45c5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_bzz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Hoffman, Caspar</unittitle>
+            <unitdate normal="1845/1845" type="inclusive">1845</unitdate>
+            <container id="aspace_fadfc8437fef3f4e63c62c77b4cf59e5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_9384a814f5c7fea247cdc91d5fd882e2" parent="aspace_fadfc8437fef3f4e63c62c77b4cf59e5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_14h" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: House, Leonard D.</unittitle>
+            <unitdate normal="1837/1846" type="inclusive">1837-1846</unitdate>
+            <container id="aspace_d9dbfcd99c4abd81bf1748c12ea7acc8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_49b6c0500b0a67ee964265a6ee0d8efa" parent="aspace_d9dbfcd99c4abd81bf1748c12ea7acc8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_4rp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: How, David</unittitle>
+            <unitdate normal="1839/1846" type="inclusive">1839-1846</unitdate>
+            <container id="aspace_b5abf1ccef9525ec85aa951126a2c89f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_aa1ecff21f004eb0fff0d5be39295f7a" parent="aspace_b5abf1ccef9525ec85aa951126a2c89f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_viu" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Howard, Mary Ann (estate of)</unittitle>
+            <unitdate normal="1839/1841" type="inclusive">1839-1841</unitdate>
+            <container id="aspace_2e68700a76e1938d1e9bdbddad2e7084" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_be9122b44717b65948472669d15c1050" parent="aspace_2e68700a76e1938d1e9bdbddad2e7084" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_gn0" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Jenkins, James &amp; T.C.</unittitle>
+            <unitdate normal="1833/1833" type="inclusive">1833</unitdate>
+            <container id="aspace_3db95bbcdb263ae042c416e000b63ecd" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_c76c61f5a55b9c26e5b5a82103646e7f" parent="aspace_3db95bbcdb263ae042c416e000b63ecd" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_s40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Kinlock, George</unittitle>
+            <unitdate normal="1838/1839" type="inclusive">1838-1839</unitdate>
+            <container id="aspace_3deaeb4d2c9e649766ed457706b0fe73" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_16a2147f8ba8566d173b00eeba9025ef" parent="aspace_3deaeb4d2c9e649766ed457706b0fe73" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_g38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Knight, George C.</unittitle>
+            <unitdate normal="1839/1839" type="inclusive">1839</unitdate>
+            <container id="aspace_4e57049b06faabb18357f56fa24a98e8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8dbc84e0dd6de1f954b651a7b532d0a0" parent="aspace_4e57049b06faabb18357f56fa24a98e8" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_5xo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Koon, Esther &amp; Valentine</unittitle>
+            <unitdate normal="1852/1852" type="inclusive">1852</unitdate>
+            <container id="aspace_3d91a3e8b35b7ccdec000d22af6552ec" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_7709d782c3014e61a118c8e6fd01e3cf" parent="aspace_3d91a3e8b35b7ccdec000d22af6552ec" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_ywa" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Koster, Manning &amp; Von Hein, George</unittitle>
+            <unitdate normal="1835/1842" type="inclusive">1835-1842</unitdate>
+            <container id="aspace_e37dc12f6713576fc6d6ed24463702f7" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b06ecb6a5191eedcb6a0871d03bd5448" parent="aspace_e37dc12f6713576fc6d6ed24463702f7" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_3mf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Lamb, Anthony</unittitle>
+            <unitdate normal="1834/1835" type="inclusive">1834-1835</unitdate>
+            <container id="aspace_ef2423b5b00d63a46990d7c8f486836a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_000e7ce9ab3ff489d5e5b6c3f6a78893" parent="aspace_ef2423b5b00d63a46990d7c8f486836a" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_ypp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Mason, Jabez</unittitle>
+            <unitdate normal="1838/1840" type="inclusive">1838-1840</unitdate>
+            <container id="aspace_2da00367533e4430a4148203165423c4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ec5a39489d7c33a2c673861511363717" parent="aspace_2da00367533e4430a4148203165423c4" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_hpo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: McDermott, Henry</unittitle>
+            <unitdate normal="1850/1851" type="inclusive">1850-1851</unitdate>
+            <container id="aspace_040e346b0a3575cbe0dd1d0d7682e2f5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_87f302a057fa45638b7a2c5464396737" parent="aspace_040e346b0a3575cbe0dd1d0d7682e2f5" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_xzk" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Megrath, Michael (and estate of): Folder 1 of 2</unittitle>
+            <unitdate normal="1830/1844" type="inclusive">1830-1844</unitdate>
+            <container id="aspace_4b878774ed778183dec55b699735fe7d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_bd84d6391a96154f8cad46ece9b2553f" parent="aspace_4b878774ed778183dec55b699735fe7d" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_06l" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Megrath, Michael (and estate of): Folder 2 of 2</unittitle>
+            <unitdate normal="1830/1844" type="inclusive">1830-1844</unitdate>
+            <container id="aspace_ae5e41fa82b6c2fe41b920b2c6290811" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_830f663580cec661ae14da6b5735f60c" parent="aspace_ae5e41fa82b6c2fe41b920b2c6290811" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_43s" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Mitchell, Clarence G.</unittitle>
+            <unitdate normal="1843/1850" type="inclusive">1843-1850</unitdate>
+            <container id="aspace_16175f3398be4f42157b6e15fe6b64ef" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_84cd64fdd07976225ea4a51a4ea9f8a3" parent="aspace_16175f3398be4f42157b6e15fe6b64ef" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_jre" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Mitchell, John W.</unittitle>
+            <unitdate normal="1853/1855" type="inclusive">1853-1855</unitdate>
+            <container id="aspace_8647326d68ca890b3262c07dcb8594a5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_53e2bc94ffa77f3ffeff22d17a427fb2" parent="aspace_8647326d68ca890b3262c07dcb8594a5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_c9g" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Munds, James T. &amp; Sarah K.</unittitle>
+            <unitdate normal="1826/1835" type="inclusive">1826-1835</unitdate>
+            <container id="aspace_8d510b326067b6e5d5c5e3ae3c21e271" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_22978b9cd5ea76f6083e0b875169cdfc" parent="aspace_8d510b326067b6e5d5c5e3ae3c21e271" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_gt6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Murphy, William D.</unittitle>
+            <unitdate normal="1833/1834" type="inclusive">1833-1834</unitdate>
+            <container id="aspace_3b34811617c9965345a941153b34f147" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_34704ea7d6d4df3b3a717701437b1f5e" parent="aspace_3b34811617c9965345a941153b34f147" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_q9x" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Murphy, ---</unittitle>
+            <unitdate normal="1845/1845" type="inclusive">1845</unitdate>
+            <container id="aspace_c77be17bce1f3d519af6c8537abf94f9" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e75c314c7325e7bb0b5fea7b6ca39bdf" parent="aspace_c77be17bce1f3d519af6c8537abf94f9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_i5f" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Neal, William</unittitle>
+            <unitdate normal="1837/1847" type="inclusive">1837-1847</unitdate>
+            <container id="aspace_5463bc121ec9c8b7a4f60068d31b8251" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_3725b12eeb561b3eecc64e22e827605e" parent="aspace_5463bc121ec9c8b7a4f60068d31b8251" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_pzl" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Nesbitt, Mary</unittitle>
+            <unitdate normal="1842/1843" type="inclusive">1852-1853</unitdate>
+            <container id="aspace_fa5bdcee864764f4e7d3a04ea40226ac" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e4e1b36fa640dd71a434366092e8e734" parent="aspace_fa5bdcee864764f4e7d3a04ea40226ac" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_dui" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: O'Brien, Michael</unittitle>
+            <unitdate normal="1848/1848" type="inclusive">1848</unitdate>
+            <container id="aspace_b00161e64dfc881011b81c70e65d74a7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_dfff3ecd8daf1571ee9ac23ea5453cc7" parent="aspace_b00161e64dfc881011b81c70e65d74a7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_z80" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Oldring, Henry (estate of)</unittitle>
+            <unitdate normal="1836/1848" type="inclusive">1836-1848</unitdate>
+            <container id="aspace_a7d58c76e53a7a698f299cea69f3dc0d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_3957dab6e4b0b07ae59107c28f6be941" parent="aspace_a7d58c76e53a7a698f299cea69f3dc0d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_4qe" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Philips, Mariam</unittitle>
+            <unitdate normal="1846/1853" type="inclusive">1846-1853</unitdate>
+            <container id="aspace_439ec0d64de29faed5f29c63208fa37c" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4b175e8315da667c4c7cead52b57112c" parent="aspace_439ec0d64de29faed5f29c63208fa37c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_43v" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Plimpton, Edwin D.</unittitle>
+            <unitdate normal="1834/1834" type="inclusive">1834</unitdate>
+            <container id="aspace_ae8af224df32f342db346e3f25d6a132" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b80d4942db17f5c5f48effde90b60c12" parent="aspace_ae8af224df32f342db346e3f25d6a132" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_j70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Protestant Episcopal Missionary Society</unittitle>
+            <unitdate normal="1828/1838" type="inclusive">1828-1838</unitdate>
+            <container id="aspace_a24fba3ceeed029436b1b0e214175c76" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5fa2b723a4528720e53989621cc9a6e2" parent="aspace_a24fba3ceeed029436b1b0e214175c76" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_yk7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Putnam, David</unittitle>
+            <unitdate normal="1836/1839" type="inclusive">1836-1839</unitdate>
+            <container id="aspace_3b755857b98654d9e0471ff20fed16f5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8727cfe1980b9e44e25d3541a3c11d44" parent="aspace_3b755857b98654d9e0471ff20fed16f5" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_6pk" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Rogers, H. A.</unittitle>
+            <unitdate normal="1836/1839" type="inclusive">1836-1839</unitdate>
+            <container id="aspace_3747e855e9bf26cc867c7129fed49c36" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ff623ae6d224c91121495ecabdb1db0f" parent="aspace_3747e855e9bf26cc867c7129fed49c36" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_34y" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Roosevelt, Clinton &amp; Taylor, John N.</unittitle>
+            <unitdate normal="1841/1845" type="inclusive">1841-1845</unitdate>
+            <container id="aspace_5e45061084bf10c9369191ce66563675" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_944cbd6a828157a42f125e802d92fa24" parent="aspace_5e45061084bf10c9369191ce66563675" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_yjd" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Russell, Joseph</unittitle>
+            <unitdate normal="1836/1840" type="inclusive">1836-1840</unitdate>
+            <container id="aspace_22897f632ad8354599fed18343081533" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_fea79e9f2f052d41ec986f4bec235ed8" parent="aspace_22897f632ad8354599fed18343081533" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_ygs" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Salisbury, Charles F.</unittitle>
+            <unitdate normal="1826/1826" type="inclusive">1826</unitdate>
+            <container id="aspace_3045c338b8a1eead3ce335dd672d08da" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_0df215474f29d8013cde2ca60ffb60d1" parent="aspace_3045c338b8a1eead3ce335dd672d08da" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_191" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Stewart, William R.</unittitle>
+            <unitdate normal="1843/1843" type="inclusive">1843</unitdate>
+            <container id="aspace_4c859cd11915cd70514c2b6a546f7fe9" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_072b27cd6b4726bf29021cc9e7d24b84" parent="aspace_4c859cd11915cd70514c2b6a546f7fe9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_it9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Stokes, Henry &amp; Gilbert, Clinton</unittitle>
+            <unitdate normal="1832/1838" type="inclusive">1832-1838</unitdate>
+            <container id="aspace_dbe4f1f4f4de28afaf14a1ca50b275f7" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d2c7539bfc1788ab70c72f7c07a3fc9d" parent="aspace_dbe4f1f4f4de28afaf14a1ca50b275f7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_ahg" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Storm, Samuel: Folder 1 of 7</unittitle>
+            <unitdate normal="1831/1847" type="inclusive">1831-1847</unitdate>
+            <container id="aspace_f5b330a26353f54215337ee70ee3da4b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_a7b417aea31d420826ee9a7f31104ae7" parent="aspace_f5b330a26353f54215337ee70ee3da4b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_ynv" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Storm, Samuel: Folder 2 of 7</unittitle>
+            <unitdate normal="1831/1847" type="inclusive">1831-1847</unitdate>
+            <container id="aspace_2468a7d51787cd9692af107536a829e9" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_32a7e3675fd560d504c310110f6d8c4a" parent="aspace_2468a7d51787cd9692af107536a829e9" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref82_kzy" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Storm, Samuel: Folder 3 of 7</unittitle>
+            <unitdate normal="1831/1847" type="inclusive">1831-1847</unitdate>
+            <container id="aspace_e19780722208e1f562c5a051b9dbbbda" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_63d24b6f710afddbd412fa43288d8072" parent="aspace_e19780722208e1f562c5a051b9dbbbda" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_98k" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Storm, Samuel: Folder 4 of 7</unittitle>
+            <unitdate normal="1831/1847" type="inclusive">1831-1847</unitdate>
+            <container id="aspace_7ffb3cd21d137bb44b76246957563cc5" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1a8f0422f7e21f322212b19b5d20a381" parent="aspace_7ffb3cd21d137bb44b76246957563cc5" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref84_xrs" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Storm, Samuel: Folder 5 of 7</unittitle>
+            <unitdate normal="1831/1847" type="inclusive">1831-1847</unitdate>
+            <container id="aspace_7530c433b4c42bcbe1dd7ff479c0aaa2" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7a7ede04e2ede925ac988405cd866257" parent="aspace_7530c433b4c42bcbe1dd7ff479c0aaa2" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref85_dw1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Storm, Samuel: Folder 6 of 7</unittitle>
+            <unitdate normal="1831/1847" type="inclusive">1831-1847</unitdate>
+            <container id="aspace_167fe32eff8a3362c447f0ef0fa0507f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_69a73eb3cfdfe4d6d64d054e696f65dd" parent="aspace_167fe32eff8a3362c447f0ef0fa0507f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_rgv" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Storm, Samuel: Folder 7 of 7</unittitle>
+            <unitdate normal="1831/1847" type="inclusive">1831-1847</unitdate>
+            <container id="aspace_2fc52627f73a4337ca20063b8a30549b" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_c11d9e8760cf13176eaa565e3a1f0566" parent="aspace_2fc52627f73a4337ca20063b8a30549b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_nie" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Stremmell, Henry</unittitle>
+            <unitdate normal="1848/1853" type="inclusive">1848-1853</unitdate>
+            <container id="aspace_994d354d791dc0a3b07d776c3f77f511" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_c7ac6377a54c1e28612387b2f73aeebe" parent="aspace_994d354d791dc0a3b07d776c3f77f511" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref88_ehh" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Tallmadge, Julia M.</unittitle>
+            <unitdate normal="1841/1849" type="inclusive">1841-1849</unitdate>
+            <container id="aspace_1d395a9040b9b5afe900e9296dfcbe5f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_74593e0e6c07688cdd78153284d4a283" parent="aspace_1d395a9040b9b5afe900e9296dfcbe5f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref89_icq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Warner, Addison K.</unittitle>
+            <unitdate normal="1841/1841" type="inclusive">1841</unitdate>
+            <container id="aspace_80e9e16a47a499be2fad12e30784db0c" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_b20576f8f4dd4e74150c97d1d9799bcb" parent="aspace_80e9e16a47a499be2fad12e30784db0c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref90_3rp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Wayland, F.</unittitle>
+            <unitdate normal="1836/1838" type="inclusive">1836-1838</unitdate>
+            <container id="aspace_d7b4689e7d0eb4ab1b15cb57ee73ae03" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_06d7b7161a5f6d108ad2384d41da04cf" parent="aspace_d7b4689e7d0eb4ab1b15cb57ee73ae03" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_4z1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Wells, John W.</unittitle>
+            <unitdate normal="1841/1841" type="inclusive">1841</unitdate>
+            <container id="aspace_98e6d0aa6168d307193209a3bdfd3bad" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_51d7f3012d28533b5a2d9eca34550748" parent="aspace_98e6d0aa6168d307193209a3bdfd3bad" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref92_ia5" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Weston, Jane</unittitle>
+            <unitdate normal="1841/1843" type="inclusive">1841-1843</unitdate>
+            <container id="aspace_17e6e0e7f65ac2d211683ad18c64b123" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_e4f9afdcd14042fea150944fc51631fc" parent="aspace_17e6e0e7f65ac2d211683ad18c64b123" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_wsq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: White, Jared</unittitle>
+            <unitdate normal="1822/1828" type="inclusive">1822-1828</unitdate>
+            <container id="aspace_ccadc74fa1c42e51465d82a2eec2a768" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_77ba828e038de8e335d96bfd9471438d" parent="aspace_ccadc74fa1c42e51465d82a2eec2a768" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_gx6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Willard, John M.</unittitle>
+            <unitdate normal="1834/1834" type="inclusive">1834</unitdate>
+            <container id="aspace_0f86604fdcb01167b2cb93983853ae46" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_06530341c53ff92b0daa44cde49ae797" parent="aspace_0f86604fdcb01167b2cb93983853ae46" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_gqe" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Williamsburgh Bank</unittitle>
+            <unitdate normal="1852/1852" type="inclusive">1852</unitdate>
+            <container id="aspace_9f8e48bc6936ab4a3e226e007ad70a6a" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_d6f77ccd0b03eb87e05a77983afec8c4" parent="aspace_9f8e48bc6936ab4a3e226e007ad70a6a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_pjz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Client File: Wilson, Elizabeth</unittitle>
+            <unitdate normal="1840/1847" type="inclusive">1840-1847</unitdate>
+            <container id="aspace_5c79681709b9f24b0cbe0dd751182636" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a8839d563fbe918ae7ccfa557446c14d" parent="aspace_5c79681709b9f24b0cbe0dd751182636" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref98_hpy" level="series">
+        <did>
+          <unittitle>Series 2: Correspondence, 1808 -- 1848</unittitle>
+        </did>
+        <scopecontent id="aspace_056212e7361758c0d7a360ebdc1125ae">
+          <head>Scope and Contents note</head>
+          <p>This series consists of all correspondence which is personal in nature or that could not be linked to a client relationship during processing. The material in this series dates from 1808 to 1848, with the bulk dating from 1822 to 1839. The series includes some correspondence received and sent by Mitchell, but the bulk of the correspondence consists of letters received by Green. Most correspondents in this series are represented by fewer than five letters, but Green family correspondence is more numerous, especially that from Timothy R.'s uncle, William E. Green, and his cousin, William N. Green. The largest number of pieces of correspondence were received by Green from "cousin" Lucinda (Lucy) Larned who wrote to him regarding both personal and personal business matters. Correspondence "sent" by Green or Mitchell consists of draft notes or retained copies. Correspondence between individuals other than Timothy R. and John Mitchell is also in this series, as is correspondence involving unidentified parties.</p>
+          <p>Green's correspondence is foldered separately from that of Mitchell. Correspondence received by Green or Mitchell is foldered separately from that sent. The material is filed in alphabetical order by correspondent, then chronologically within correspondent. Some correspondence is signed only with a first name or initial, so that is used to determine alphabetic order. Correspondence from one writer who signed her letters variously as "M.," "Mary," or "M.E.D." is filed together under "D." Some correspondence includes notes from two writers on the same sheet of paper; filing order was determined based on the name of the first correspondent. Correspondence to Green or Mitchell from unidentifiable (e.g., unsigned or illegible) correspondents is filed after the last identifiable writer. Correspondence to Timothy R. from individuals with surnames of Green or Larned is foldered separately from other correspondents. </p>
+          <p>Correspondence involving Green family members (other than Timothy R.) is foldered separately. Correspondence involving individuals other than Mitchell, Green, or other Green family members is foldered separately. Correspondence involving unidentifiable correspondents is foldered separately. </p>
+        </scopecontent>
+        <c id="aspace_ref99_w1o" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: T.R. Green: Received: A - H</unittitle>
+            <unitdate normal="1823/1839" type="inclusive">1823-1839</unitdate>
+            <container id="aspace_f188c2bdb249033db3c025ed77144690" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ab221cbcbdeff35f8297ecc4bbd31d90" parent="aspace_f188c2bdb249033db3c025ed77144690" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_3rp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: T.R. Green: Received: J - R</unittitle>
+            <unitdate normal="1824/1839" type="inclusive">1824-1839</unitdate>
+            <container id="aspace_900aee1fa06318fc6fa6b9bd4c8abfd4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_2177b155210de82150b40f55743a7417" parent="aspace_900aee1fa06318fc6fa6b9bd4c8abfd4" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_j2z" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: T.R. Green: Received: S -- W, Unknown</unittitle>
+            <unitdate normal="1823/1841" type="inclusive">1823-1841</unitdate>
+            <container id="aspace_0473b1c8cd58cd135f02151d52b1afd4" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_35cea5ce3f65131f09c8f1677a56fa65" parent="aspace_0473b1c8cd58cd135f02151d52b1afd4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref102_p7u" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: T.R. Green: Received: Green</unittitle>
+            <unitdate normal="1822/1839" type="inclusive">1822-1839</unitdate>
+            <container id="aspace_3686456a4a6c018602cc19c8cb1b99ba" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_023025d03115419d26f87ea7da0cab91" parent="aspace_3686456a4a6c018602cc19c8cb1b99ba" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_dqo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: T.R. Green: Received: Larned</unittitle>
+            <unitdate normal="1829/1838" type="inclusive">1829-1838</unitdate>
+            <container id="aspace_227d2c596a353b2f0d7f805ce90fff5f" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_0dfe9364e9909232bf9916eabc67d3e5" parent="aspace_227d2c596a353b2f0d7f805ce90fff5f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref104_6yi" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: T.R. Green: Sent</unittitle>
+            <unitdate normal="1831/1835" type="inclusive">1831-1835</unitdate>
+            <container id="aspace_042d9a64b34842c9d6be5d5302667f87" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_b1024523f62b0f063af09c839e5c98a9" parent="aspace_042d9a64b34842c9d6be5d5302667f87" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref105_we5" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Mitchell: Received</unittitle>
+            <unitdate normal="1829/1848" type="inclusive">1829-1848</unitdate>
+            <container id="aspace_d87f0b5a19f4ccb7bcb8cf796699d93e" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_853bc487dfbd6f1788317a48af1227a0" parent="aspace_d87f0b5a19f4ccb7bcb8cf796699d93e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_ytb" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Mitchell: Sent</unittitle>
+            <unitdate normal="1826/1838" type="inclusive">1826-1838</unitdate>
+            <container id="aspace_8bcd3426ffa913263318758d498b6b94" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_e14f5c99e4094e679a25866e02cff97a" parent="aspace_8bcd3426ffa913263318758d498b6b94" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_1qs" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Other Correspondents: Green Family</unittitle>
+            <unitdate normal="1808/1833" type="inclusive">1808-1833</unitdate>
+            <container id="aspace_65310fb30c2f0dd29518fabeba5da173" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_6d33f3bbb1c3e68758e287f6068df341" parent="aspace_65310fb30c2f0dd29518fabeba5da173" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_5wz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Other Correspondents: Other</unittitle>
+            <unitdate normal="1820/1848" type="inclusive">[1820]-1848</unitdate>
+            <container id="aspace_c8af24cdf85a6682bbd9ee582c797e5d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_b04d8610d620fbfc6f50ea74dc74b125" parent="aspace_c8af24cdf85a6682bbd9ee582c797e5d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref109_j4z" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Unidentified Correspondents</unittitle>
+            <unitdate normal="1831/1839" type="inclusive">1831-1839</unitdate>
+            <container id="aspace_6f6b2d594766aa7cde2171c553c13284" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_8055eb02d2d2ba23991dac24621222da" parent="aspace_6f6b2d594766aa7cde2171c553c13284" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref111_nkv" level="series">
+        <did>
+          <unittitle>Series 3: Green Family Papers, 1805 -- 1837</unittitle>
+        </did>
+        <scopecontent id="aspace_4cbe87d701e545b625f2d7342b07b58f">
+          <head>Scope and Contents note</head>
+          <p>This series consists of agreements and receipts among Green Family members, as well as notes on Green Family genealogy. Documents related to the generation immediately preceding that of Timothy R. are particularly well-represented. Much of the material consists of original documents, but copies of agreements are also included. The original material in this series dates from 1805 to 1837; the dates of the copied agreements also fall within this range.</p>
+        </scopecontent>
+        <c id="aspace_ref112_npg" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Green Family Papers</unittitle>
+            <unitdate normal="1805/1837" type="inclusive">1805-1837</unitdate>
+            <container id="aspace_7d7a3b5b740bc9de1869ec53352cf2ba" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_5c877c5f48695864778d737a0ae9cc5b" parent="aspace_7d7a3b5b740bc9de1869ec53352cf2ba" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref114_6hr" level="series">
+        <did>
+          <unittitle>Series 4: Other Documents, 1827 -- 1861</unittitle>
+        </did>
+        <scopecontent id="aspace_33140eb8c4f4f983bbf0dea6dcf49295">
+          <head>Scope and Contents note</head>
+          <p>Materials, other than correspondence, that could not be linked to a specific client relationship are in the Other Documents series. The material in this series dates from 1827 to 1861, with much of it undated. The series includes legal papers and financial records associated in all likelihood with the work of Green or Mitchell, though that role is not readily identifiable. Public notices of property sales (some with annotations made presumably by Mitchell) are found in this series. Three booklets of corporate Articles of Association, genealogical notes, schematics of building lots, a list of papers left by Mitchell with William Rice in South Carolina, legal research notes, two business cards, a newspaper clipping, and fragmentary reference notes are arranged in this order in a Research Notes folder. Document wrappers are foldered separately.</p>
+        </scopecontent>
+        <c id="aspace_ref115_6mm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Documents: Legal Papers</unittitle>
+            <unitdate normal="1827/1852" type="inclusive">1827-1852</unitdate>
+            <container id="aspace_c246edc257ad5e1789148a7ac00fe380" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_aa889c9911bd1c1542b9ee959e1328cc" parent="aspace_c246edc257ad5e1789148a7ac00fe380" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref116_ycj" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Documents: Financial</unittitle>
+            <unitdate normal="1829/1848" type="inclusive">1829-1848</unitdate>
+            <container id="aspace_8badc0635925070813dabaaedf8bbec8" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_3f07d5fbc36e43fdc1ca5e915b4303e6" parent="aspace_8badc0635925070813dabaaedf8bbec8" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref117_u9w" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Documents: Research Notes</unittitle>
+            <unitdate normal="1834/1851" type="inclusive">1834-1851</unitdate>
+            <container id="aspace_499fd5555edd278e8be820ea859805b4" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_eb753537128a90884f9d9e80f9d1174d" parent="aspace_499fd5555edd278e8be820ea859805b4" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref118_hle" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Documents: Property Sale Notices</unittitle>
+            <unitdate normal="1841/1861" type="inclusive">1841-1861</unitdate>
+            <container id="aspace_3319d13080c613acb348f45a74685d28" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_1c53187a08bd3908658090c2eca52876" parent="aspace_3319d13080c613acb348f45a74685d28" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_cks" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Documents: Wrappers</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_c4900d042d926d5d3f7a9984e1dd36f2" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_eaff954f2bf9d5bbbca0a18864348ded" parent="aspace_c4900d042d926d5d3f7a9984e1dd36f2" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
