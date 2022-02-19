@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NHi">ms3123_dey_family</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Dey Family Papers <lb/>1750-1904<lb/> <num>MS 3123</num></titleproper>
+        <author>Elise Winks</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New-York Historical Society</publisher>
+        <p>
+          <date>June 2020</date>
+        </p>
+        <address>
+          <addressline>170 Central Park West</addressline>
+          <addressline>New York, NY 10024</addressline>
+          <addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-04-12 14:17:08 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New-York Historical Society</corpname>
+      </repository>
+      <unittitle>Dey family papers</unittitle>
+      <unitid>MS 3123</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14 Linear feet</extent>
+        <extent altrender="carrier">in 21 boxes and 1 volume</extent>
+      </physdesc>
+      <unitdate type="inclusive">circa 1750-1904</unitdate>
+      <abstract id="aspace_aa826e5010d59cf977fa869b5315d416">Record books of marriages, births, wills, correspondence, genealogies, newspaper clippings, and bible records for the Dye/Dey, Hart, Shelby, Scott, and other families.</abstract>
+      <langmaterial id="aspace_cb6e49b3270e6cf58f0280c4f211c335">The documents in the collection are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_1735c244e0e056799256ae2af76706f4">
+      <head>Access Restrictions</head>
+      <p>Open to qualified researchers.</p>
+    </accessrestrict>
+    <userestrict id="aspace_f497114ac25f48cccd2a9e136a06f3e9">
+      <head>Use Restrictions</head>
+      <p>Photocopying undertaken by staff only. Limited to 20 exposures of stable, unbound material per day.
+  
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p>
+      <p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>
+    </userestrict>
+    <prefercite id="aspace_86557b6bdaa65a9b5ceff3549e9624fc">
+      <head>Preferred Citation</head>
+      <p>The collection should be cited as: Dey family papers, MS 3123, New-York Historical Society.</p>
+    </prefercite>
+    <processinfo id="aspace_79416e33074753856f59a431d80e3faf">
+      <head>Processing Information</head>
+      <p>The collection is not processed. As part of a project conducted in 2019-20, archivist Elise Winks performed a high level survey of the collection and described it broadly in this preliminary finding aid.</p>
+    </processinfo>
+    <arrangement id="aspace_4ab8a7ff99923e0bcc0d147cdddad08f">
+      <head>Arrangement</head>
+      <p>TBD</p>
+    </arrangement>
+    <bioghist id="aspace_b8e48014bd7b4cf9861fb00a075a6ec2">
+      <head>Biographical / Historical</head>
+      <p>TBD</p>
+    </bioghist>
+    <acqinfo id="aspace_20f99a411ebb058f8883144cf5354b14">
+      <head>Immediate Source of Acquisition</head>
+      <p>TBD</p>
+    </acqinfo>
+    <relatedmaterial id="aspace_8c59d349bd4fe61ce8e4249e2c8c892f">
+      <head>Related Materials</head>
+      <p>TBD</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_b0e2f49bcb5214f587e89bf3eb585e03">
+      <head>Scope and Contents</head>
+      <p>TBD</p>
+    </scopecontent>
+    <controlaccess>
+      <genreform source="aat">Genealogies (histories)</genreform>
+      <genreform source="aat">Wills.</genreform>
+    </controlaccess>
+    <dsc/>
+  </archdesc>
+</ead>
