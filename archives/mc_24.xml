@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_24">mc_24</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the University College Senior Theses  <num>MC.24</num></titleproper>
+        <author>Steven A. Walker.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from an OCR Processed Document</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:32:26 -0500</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>June 2019</date>
+        <item>Updated by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>University College Senior Theses</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">New York University Archives</corpname>
+      </origination>
+      <unitid>MC.24</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in 4 manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1897/1934" type="inclusive">1897-1934</unitdate>
+      <abstract id="aspace_f6119f53e31136efc9cf87ad46f0c243">From 1894 through 1925, graduation requirements for students enrolled in the University College of Arts and Pure Science at New York University included presentation of a "satisfactory thesis" on a subject selected by students and related to their major field of study. This collection consists of 100 senior theses, 1897-1925, and one honors thesis in History, 1934.</abstract>
+      <physloc id="aspace_19ebe3adcba08b5037dfe90fed6e2c43">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_29b6107e0eba3a0c6275d9e1192b8490">Materials are in English.</langmaterial>
+    </did>
+    <arrangement id="aspace_22f502e2e70e46a12143f8b4831ef35d">
+      <head>Arrangement</head>
+      <p>Materials are arranged chronologically.</p>
+    </arrangement>
+    <scopecontent id="aspace_1c4accd76282ee5e21af98339cd81426">
+      <head>Scope and Content Note</head>
+      <p>The collection consists of 100 senior theses, 1897-1925, and one honors thesis in history, 1934. Materials highlight student reactions to the Spanish-American War, women's suffrage, race issues, World War I, and immigration policies. On the whole, the collection provides a sample of undergraduate student research and writing in the early decades of the twentieth century.</p>
+    </scopecontent>
+    <bioghist id="aspace_8418dd18a426b3d69be06c11bd428deb">
+      <head>Historical Note</head>
+      <p>From 1894 through 1925, graduation requirements for students enrolled in the University College of Arts and Pure Science at New York University included completion of a prescribed number of courses and presentation of a "satisfactory thesis" on a subject selected by students in December of their senior year and approved by faculty. Each thesis related to a student's major field of study. Upon successful completion of the thesis, the student received either a  B.A., B.S., or (from 1893-1902) Ph.B. degree. </p>
+      <p>By 1925, the thesis requirement had been removed, and some students could enroll in an honors program. Honors students announced their intentions at the end of sophomore, or beginning of junior year and were required to maintain an overall "B" average. In their senior year, each honors student completed a thesis in their main area of study.</p>
+    </bioghist>
+    <prefercite id="aspace_b9af5c450fe0e76a4cd29fde2d045462">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); University College Senior Theses; MC 24; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_18b36401cc0135f9f40341fae8cc6a3c">
+      <head>Conditions Governing Use</head>
+      <p>Materials related to personnel, grievances, job and fellowship searches and applications, and all files that fall under the federal Family Educational Rights and Privacy Act (FERPA) are permanently restricted.  Additional restrictions may apply to other materials in this collection.  For questions regarding specific restrictions, please contact the University Archives.</p>
+    </userestrict>
+    <accessrestrict id="aspace_0b6b7510dc839e01db5d7bb100ef0d39">
+      <head>Conditions Governing Access</head>
+      <p>Material pertaining to individual student records may be restricted in accordance with the Family Educational Rights and Privacy Act (FERPA). Please contact University Archives with specific questions regarding access to such records.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_d0940f7e65a8a68b180f635bb3470b8c">
+      <head>Immediate Source of Acquisition</head>
+      <p>On July 2, 1981, Professor Carl Prince presented eighteen of the theses to Professor Bayrd Still. In 1985, the remaining theses were given to archivist Tom Frusciano.</p>
+    </acqinfo>
+    <processinfo id="aspace_776734051817eda0763fb808d22a4614">
+      <head>Processing Information</head>
+      <p>Processing information before 2019 is unavailable.</p>
+    </processinfo>
+    <controlaccess>
+      <genreform source="aat">Theses.</genreform>
+      <geogname source="lcsh">New York (N.Y.) -- Intellectual life -- 20th century.</geogname>
+      <corpname source="naf">New York University -- Students -- 20th century</corpname>
+      <corpname rules="dacs" source="naf">Washington Square College</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Godfrey, A.W., "The Hanseatic League"</unittitle>
+          <unitdate datechar="creation" normal="1897/1897" type="inclusive">1897</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bda3ac3e3f8982ad918ba1786c46da4c" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_b0d6a96cee32f354f37098da71b874e8" parent="aspace_bda3ac3e3f8982ad918ba1786c46da4c" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Orr, David, "The Belgian Revolution of 1830: An Historical Study"</unittitle>
+          <unitdate datechar="creation">March 1897</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_88b4dcabc4803c88c54564b330ead239" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_f461ec8c810f8a19b1029e1001c4e6be" parent="aspace_88b4dcabc4803c88c54564b330ead239" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Skene, Fred, "The Efficiency of the Police Force During Riots"</unittitle>
+          <unitdate datechar="creation" normal="1897/1897" type="inclusive">1897</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dbd62fde94d39dffe5aea38376dba987" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_c16ccd953eb4e6a57e56f561d3a09ff0" parent="aspace_dbd62fde94d39dffe5aea38376dba987" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Gorton, James Treat, "Jean Baptiste de Lemark: His Life and Work"</unittitle>
+          <unitdate datechar="creation">March 1898</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8c23fae5d725c3a8a157bca9c3ab55f5" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_944f345b29ca5206d1262037739dba8a" parent="aspace_8c23fae5d725c3a8a157bca9c3ab55f5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Waldman, Morris D., "The National Guard of France"</unittitle>
+          <unitdate datechar="creation">April 1898</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f78b8fb94eb31a912be8c8a4ef6ab130" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_70ec696759ad035e393922336fc32c99" parent="aspace_f78b8fb94eb31a912be8c8a4ef6ab130" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Cooperstock, John, "The Effects of Irrigation on Civilization in the West"</unittitle>
+          <unitdate datechar="creation">March 1899</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f81da61ee4d999b29b0e8c416e8f88c0" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_76d80d34175613fa7cb23363c1270998" parent="aspace_f81da61ee4d999b29b0e8c416e8f88c0" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Hatch, Nelson B., "Toryism in the Episcopal Church During the American Revolution"</unittitle>
+          <unitdate datechar="creation">March 1899</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b870ff21f04ff13425f5f4f0af3cf0ce" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_ef42003cd87f421378b3ce4f7b404794" parent="aspace_b870ff21f04ff13425f5f4f0af3cf0ce" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Lichtenstein, Walter, "The 'Great Families' of New York"</unittitle>
+          <unitdate datechar="creation">March 1899</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4d26d92be5f3ba5530d817163d4f7c7f" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_0a9db34c17d3d053d4cd7be0a331f8cb" parent="aspace_4d26d92be5f3ba5530d817163d4f7c7f" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Mendel, Philip, "The Negro Question"</unittitle>
+          <unitdate datechar="creation" normal="1899/1899" type="inclusive">1899</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_365dc99318514d7e450e967f1791d4db" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_769d3ddc72132620849a94e52eab9186" parent="aspace_365dc99318514d7e450e967f1791d4db" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Otis, Isaac L., "The Development of the American State Constitutions Particularly of Massachusetts from the English Trading Company Charters"</unittitle>
+          <unitdate datechar="creation">April 1899</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0dd623b091b13e877856feb21220250b" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_4544c913152b747b58bda34ff979f95d" parent="aspace_0dd623b091b13e877856feb21220250b" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Raymond, Walter Buchanan, "The Political Future of the Philippines"</unittitle>
+          <unitdate datechar="creation" normal="1899/1899" type="inclusive">1899</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ea5acb6ef7d5ea0e32349cea86f37dca" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_d8bac4f6ab74ef904c88165306aa80a5" parent="aspace_ea5acb6ef7d5ea0e32349cea86f37dca" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Altman, Joseph, "History of the Origin of the North West Ordinance"</unittitle>
+          <unitdate datechar="creation">Apr 1900</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8641e5b6e0218dd17160f0ddcd098479" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_93d214e147edc9db32f82fb166cbd042" parent="aspace_8641e5b6e0218dd17160f0ddcd098479" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Elder, Jr., Robert Duncan, "Industrial Co-operation as Illustrated by the Familistere Society of Guise, France"</unittitle>
+          <unitdate datechar="creation" normal="1900/1900" type="inclusive">1900</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_522534e3a71b8249fea3ace3b48db88a" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_cd4b378e5a66ab1579d293e25acdf1c6" parent="aspace_522534e3a71b8249fea3ace3b48db88a" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Addy, Jr., Richard C, "The Labor Question in the Philippine Islands"</unittitle>
+          <unitdate datechar="creation">Apr 1901</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b132c483406099beb3440cd541734c58" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_a6d9b6d284f57b3b2842df2fe92e825b" parent="aspace_b132c483406099beb3440cd541734c58" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Hadley, Jr., Samuel Hopkins, "Religious Movements for Social Betterment"</unittitle>
+          <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6c1934cab85ad27a4135645b180ca555" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_2fd34bc77594c5adc13032fcf1580643" parent="aspace_6c1934cab85ad27a4135645b180ca555" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Rickaby, Hamilton C., "The Attitude of the States toward the Virginia and Kentucky Resolutions"</unittitle>
+          <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fc1f70ecac20695fa178cda853e1997e" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_eb0afd8c677034014ccf11bbf1d7ce98" parent="aspace_fc1f70ecac20695fa178cda853e1997e" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Stockell, Victor Holles, "The History of the Attitude of the United States towards the Establishment of a Permanent International Court of Arbitration"</unittitle>
+          <unitdate datechar="creation">Mar 1901</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dea130b8a695ae76e375d2342d247878" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_4a56646fff6e9e6d6c220758053193e8" parent="aspace_dea130b8a695ae76e375d2342d247878" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Wallin, William, "The Intent and Application of the second portion of Section One of the Fourteenth Amendment to the Constitution of the United States"</unittitle>
+          <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_65f25035a5fba9d184940441d525223e" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_a4b912e2ec14c513eb3767f8115cc567" parent="aspace_65f25035a5fba9d184940441d525223e" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Chapin, Newton, "Causes and Motives of the Burr Conspiracy"</unittitle>
+          <unitdate datechar="creation" normal="1902/1902" type="inclusive">1902</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_111ca15a1ac7d7eb916b82edbc15656a" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_6e26623c8a2677e3e0159e119f620d8f" parent="aspace_111ca15a1ac7d7eb916b82edbc15656a" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Kohn, Jacob, "The Beginnings of a Philosophy of History in Vico"</unittitle>
+          <unitdate datechar="creation" normal="1902/1902" type="inclusive">1902</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6482c7f6638945f42d6b80c3afa092fe" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_babbc052575bd40da5295532e0235933" parent="aspace_6482c7f6638945f42d6b80c3afa092fe" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Dawson, Richard B., "The New York Clearing House"</unittitle>
+          <unitdate datechar="creation" normal="1909/1909" type="inclusive">1909</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3196379bc33d249117ffa67df5263b68" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_31182c64ec452ada61e8ec11ff824519" parent="aspace_3196379bc33d249117ffa67df5263b68" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Friedman, Nathan M., "The Attitude of the United States Government Towards International Arbitration during the decade - 1899-1909"</unittitle>
+          <unitdate datechar="creation">Apr 1909</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ef8b03797a7e70b1f5d8517aba467f4d" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_81e699e9b2e8e46c6c2c5e36447df848" parent="aspace_ef8b03797a7e70b1f5d8517aba467f4d" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Rowland, Ralph Wright, "Woman Suffrage: An Outline of Legislative Enactments in the United States"</unittitle>
+          <unitdate datechar="creation" normal="1909/1909" type="inclusive">1909</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c7d25556e095f385b508cc6e5b353085" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_3c797bf56aa5f70b24aea348e4db2a1f" parent="aspace_c7d25556e095f385b508cc6e5b353085" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Bruster, Ralph R., "The History of the Working Out of the Association of 1774"</unittitle>
+          <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c87ca07b418a5167686772fbd8697d40" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_f7858cfb43ce1a2cdbae15e6f0992060" parent="aspace_c87ca07b418a5167686772fbd8697d40" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Elliffe, Jr., Richard E., "A Brief History of Partisan Warfare In Westchester County During the 'American Revolution"</unittitle>
+          <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f77d8a7e231e0a4869e0bec41f61d82a" label="Mixed Materials [31142063067014]" type="Box">1</container>
+          <container id="aspace_26fa61f3893ca3a168a438b1df9a5fb5" parent="aspace_f77d8a7e231e0a4869e0bec41f61d82a" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Fleischer, Morris Bernard, "The Political Aspects of the Trial and Prosecution of Aaron Burr"</unittitle>
+          <unitdate datechar="creation">Apr 1912</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2081434a29209a35afc3e2628ac83762" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_26c6b046e32e48d740a9b4b05ecdff63" parent="aspace_2081434a29209a35afc3e2628ac83762" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Rosenbaum, Louis, "The Law and Practice of the Enlistment of Negro Soldiers in the Northern Army during the Civil War"</unittitle>
+          <unitdate datechar="creation">Apr 1912</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_35f3f22965dfc89a476cb1ff5b464e44" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_f62649831a45aa8b38469c48ae1d8c0d" parent="aspace_35f3f22965dfc89a476cb1ff5b464e44" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Underwood, Horace H., "America's Part in Maintaining the Integrity of China"</unittitle>
+          <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_badf32f0694ed87e87e3f40b6498f2c1" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_6ebd501febf262b3596930d5a89ee8b3" parent="aspace_badf32f0694ed87e87e3f40b6498f2c1" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Berney, Abraham Arthur, "Private Financial Aid Rendered to the Federal Government in the Civil War"</unittitle>
+          <unitdate datechar="creation">Apr 1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f18c3dae4519c86377ce5e0f62b29101" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_141a1a0e0d2b46a760dd169f555b0246" parent="aspace_f18c3dae4519c86377ce5e0f62b29101" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Conklin, F. Colwell, "The Diplomatic Relations of the United States and France During the Civil War"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_787ed8cd54ad3aa27a5443ae0c493152" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_8a1308040b46120562001d8d10666549" parent="aspace_787ed8cd54ad3aa27a5443ae0c493152" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Edelman, Isador, "The Ethics of Nietzsche"</unittitle>
+          <unitdate datechar="creation">Apr 1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bf68a6801b0787f830399cab83844cf5" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_2357fb2711fb80529f20d15586b057a9" parent="aspace_bf68a6801b0787f830399cab83844cf5" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Guernsey, Irwin Scofield, "The Personal Participation by Polk in Diplomatic Relations with Mexico during his Administration"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0d7681f7d9a0a370194ab50af01ad1fa" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_34cc881a28b6f07101170fac92239273" parent="aspace_0d7681f7d9a0a370194ab50af01ad1fa" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Hamilton, Jr., William Henry, "The History and Present Status of the Sherman Anti-Trust Law"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2fe19426c8c183f9422cb6a0ac1a0be2" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_74f636911d9350ea3c435715e5df9f0d" parent="aspace_2fe19426c8c183f9422cb6a0ac1a0be2" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Kaplan, Abraham D., "The Influence of Anson Burlingame, American, As Ambassador To and From the Chinese Empire"</unittitle>
+          <unitdate datechar="creation">May 1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8071fd0d4c0d58216abe65d24d0ffdf3" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_6d5f80471034e8f29c798377089b74a9" parent="aspace_8071fd0d4c0d58216abe65d24d0ffdf3" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Lindenbeerg, Alexander, "Lucian and His Imitators"</unittitle>
+          <unitdate datechar="creation">Apr 1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a3567fddae6c362b015b8e319aee8884" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_79c4d7c65183dd8f0baa88945618ae5f" parent="aspace_a3567fddae6c362b015b8e319aee8884" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>McAndrew, Hurlbert, "The Effect of the Blockade on the Cotton Industry of the South during the Civil War"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3c500949c44057da1aae963075d8fc52" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_53ff855f9fd47ecb12f59ebfcb7bef56" parent="aspace_3c500949c44057da1aae963075d8fc52" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>McClure, Carl, "French Government Aid to the Revolutionists before the Recognition of Independence"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8f82c2b3d30bd2e889fb4d1e2e6144a4" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_6e665731fa48dbe64e791294033c87b8" parent="aspace_8f82c2b3d30bd2e889fb4d1e2e6144a4" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Nixon, Albert B., "The Effect of Domicile in Determining Enemy Character in Time of War"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_30c20e2df5f4b93cab838fc0c8554e19" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_d71d3bea36c19437bc09a214e4a48cb2" parent="aspace_30c20e2df5f4b93cab838fc0c8554e19" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Pfeffer, Max D., "The Disappearance of Serfdom in England"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cb4c39c0886f125f9fbe35baa1e98e08" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_e51c2a98f370f1decd9487603f981de8" parent="aspace_cb4c39c0886f125f9fbe35baa1e98e08" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Ripperger, C. Wesley, "The History of the Attitude of the United States Towards the Exemption from Capture of all Private Property at Sea in Time of War"</unittitle>
+          <unitdate datechar="creation">Apr 1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5e7ef44f952c72cc35fa8ec52a00c21d" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_a6c1d505df0a76ef2bdab054ee6f6025" parent="aspace_5e7ef44f952c72cc35fa8ec52a00c21d" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Rosenstein, Filbert, "The Jew as an American Immigrant"</unittitle>
+          <unitdate datechar="creation">Apr 1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_658324d936ff2c264b758b0acd58b159" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_0f644949e2a0c197b10226f465efce66" parent="aspace_658324d936ff2c264b758b0acd58b159" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Roth, M., "Official Interference with the Fugitive Slave -Law between the years 1850-1860"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_464f3d6794397033e07f7f15afc26bcb" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_6794153d0051b0c44b11bec8add09445" parent="aspace_464f3d6794397033e07f7f15afc26bcb" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Seed, Henry George, "A Comparison-of English and American Newspapers of the Present Day with Respect to Space Allotment and Mechanical Make Up"</unittitle>
+          <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ad13fc3579a41abe0f76007e9d0007aa" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_d884bd3579b98a1336b689c309813ecf" parent="aspace_ad13fc3579a41abe0f76007e9d0007aa" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Taylor, George E., "A History of the Struggle to Retain Kentucky in the Union in 1861"</unittitle>
+          <unitdate datechar="creation">Apr 1913</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_69aaa30e93ba493834ae12966144fa10" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_4f789cd4b173915893f6d613616fba32" parent="aspace_69aaa30e93ba493834ae12966144fa10" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Bosniak, Jacob, "History of the Jews in France in the End of the 13th Century"</unittitle>
+          <unitdate datechar="creation">Apr 1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_18a2dc11ea74eda468a3ba488976d531" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_bc4891c6a58587b28c88e56047ced0b7" parent="aspace_18a2dc11ea74eda468a3ba488976d531" type="Folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Demarest, Stanley T., "Dutch Colonization in New York as Portrayed by Washington Irving"</unittitle>
+          <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4f82160177d93f8ca15ed353c203897a" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_f504c9e6d606ae256e7dbe54ee7a57f5" parent="aspace_4f82160177d93f8ca15ed353c203897a" type="Folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Gold, A.D., "A Study In The Attitude of Rabelais toward Pope as shown in the Fourth Book of 'Pantagruel'"</unittitle>
+          <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0eca4e82013ad1338b4597bbca3d93b9" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_30572f7da62ab5310edc3398aa63bb15" parent="aspace_0eca4e82013ad1338b4597bbca3d93b9" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Gordon, H.Z., "The Reorganization of Germany by Napoleon"</unittitle>
+          <unitdate datechar="creation">Apr 1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4053e6a348ba1caa53a10ad477f5848d" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_0e249e38923a788f40f1f6fc0b12aa9f" parent="aspace_4053e6a348ba1caa53a10ad477f5848d" type="Folder">48</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Hammond, Oscar W., "Rise of England as a Sea Power in the Seventeenth Century"</unittitle>
+          <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f5c683d04c225d5b8a1a2f46d3ac65ce" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_12951a8cf5cf73ff648d0acbd5e06ded" parent="aspace_f5c683d04c225d5b8a1a2f46d3ac65ce" type="Folder">49</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Lavenburg, Israel, "England's Attitude toward the Right of Search"</unittitle>
+          <unitdate datechar="creation">Apr 1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0c479758124a863fa314e973a7ed50f2" label="Mixed Materials [31142063067022]" type="Box">2</container>
+          <container id="aspace_99cf5f8862c189ffda795fa3ef4224e3" parent="aspace_0c479758124a863fa314e973a7ed50f2" type="Folder">50</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Levy, I. Alfred, "Battle of Marathon"</unittitle>
+          <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_99612e32c4ebcb807a4bde2de4826a84" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_bfb17118dbabd655eb2ab44b041fc569" parent="aspace_99612e32c4ebcb807a4bde2de4826a84" type="Folder">51</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Margulies, Joseph H., "The History of the Vulgate Translation of the Bible"</unittitle>
+          <unitdate datechar="creation">Apr 1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_84cd367e201130704ddf832f9a132a0b" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_56599530c2ede1476d847713d1cccc90" parent="aspace_84cd367e201130704ddf832f9a132a0b" type="Folder">52</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Marks, James Garland, "The History of President Lincoln's Order Suspending the Writ of Habeas Corpus During the Civil War"</unittitle>
+          <unitdate datechar="creation">Apr 1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_78c9b55d21ede8fc4dd2bc3a8ce9d9f3" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_05c60ef7880cdf70ca08d82b9d794218" parent="aspace_78c9b55d21ede8fc4dd2bc3a8ce9d9f3" type="Folder">53</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Volk, Frank R., "Comparison of the Two Tragedies by Corneille, Horace and Pertharite"</unittitle>
+          <unitdate datechar="creation">Apr 1914</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4f63599c93118d5ead9e9d6f24e88c6a" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_8287ae88555d575c76c2043e465185db" parent="aspace_4f63599c93118d5ead9e9d6f24e88c6a" type="Folder">54</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Doye, Robit W., "The Diplomatic Relations Involved In the Marriage of Catherine of Aragon with Prince Arthur and with Henry VIII"</unittitle>
+          <unitdate datechar="creation">Apr 1915</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bf8fbc3df660745ddb74cee2acb031c2" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_d82898c76c44759c67d306880a794fc4" parent="aspace_bf8fbc3df660745ddb74cee2acb031c2" type="Folder">55</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Kohl, Frank E. and Edward A. Sears, "An Investigation of the Possibilities of the Photographic Plane Perspective Method of Topographic Surveying with Special Reference to Small Land Area"</unittitle>
+          <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4949beed05080885a048853ce33ae09b" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_699d4cd731672e7ba58ae292fee54616" parent="aspace_4949beed05080885a048853ce33ae09b" type="Folder">55.1</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Marra, Ubaldo J., "The French Element in the American Colonies Prior to the Revolution"</unittitle>
+          <unitdate datechar="creation">Apr 1915</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d8e57c64fc26d7fd13a378dbf594a53e" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_f505701d67251f3236f3dd6e235482ae" parent="aspace_d8e57c64fc26d7fd13a378dbf594a53e" type="Folder">56</container>
+        </did>
+      </c>
+      <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Rogoff, Samuel, "Albert Gallatin and the Negotiation of the Treaty of Ghent"</unittitle>
+          <unitdate datechar="creation">Apr 1915</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6ba4383c69bfb416c0b92dcc923e2d54" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_41cf4147a56de01060b52111e80051d9" parent="aspace_6ba4383c69bfb416c0b92dcc923e2d54" type="Folder">57</container>
+        </did>
+      </c>
+      <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Smith, O.N., "Problems in the Glaciation of New York State"</unittitle>
+          <unitdate datechar="creation">Apr 1915</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bd1b746c78bbc7a8004d41ed20cd1180" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_1fa7946e9adffe02a5bf9b34d54a8555" parent="aspace_bd1b746c78bbc7a8004d41ed20cd1180" type="Folder">58</container>
+        </did>
+      </c>
+      <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, William H., "The Great War and some of its Effects on America and the other Neutrals"</unittitle>
+          <unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f378be196182f565ddb4c1279680cdf8" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_9f596452381ddd15da2129a0f3d4ea87" parent="aspace_f378be196182f565ddb4c1279680cdf8" type="Folder">59</container>
+        </did>
+      </c>
+      <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Jame, Joseph, "The Development of the Jury System-in England During the Middle Ages"</unittitle>
+          <unitdate datechar="creation">Apr 1916</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_774cfb9976fa75935d37367d5a824c45" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_a6210dc4bade85be40a49136a8f14f7b" parent="aspace_774cfb9976fa75935d37367d5a824c45" type="Folder">60</container>
+        </did>
+      </c>
+      <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Schulte Jr., Theodore E., "The History of the United States' Attitude Toward the Transfer to Neutral Flag of Belligerent Merchant Vessels"</unittitle>
+          <unitdate datechar="creation">Apr 1916</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ace7c27a34c9ad02e33ff8a37f537a65" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_bdd6f589f6d9c503b20a462312229d0e" parent="aspace_ace7c27a34c9ad02e33ff8a37f537a65" type="Folder">61</container>
+        </did>
+      </c>
+      <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Coane, Clarence B., "Our War Exports"</unittitle>
+          <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_46932c52309f759018f09810cfd6b839" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_9ee57e4b7063b8685e2e78f03e98d900" parent="aspace_46932c52309f759018f09810cfd6b839" type="Folder">62</container>
+        </did>
+      </c>
+      <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Edelman, George I., "Cracow, Posen or Warsaw: Which Policy for Poland?"</unittitle>
+          <unitdate datechar="creation">Apr 1917</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a4db1467e3053b3911a7d42b0430cb95" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_5e9c0e0e2cd3c035b3a9ea724d314e5e" parent="aspace_a4db1467e3053b3911a7d42b0430cb95" type="Folder">63</container>
+        </did>
+      </c>
+      <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Cremer, Charles Morton, "The Baltic Provinces of Russia in Retrospect and Prospect"</unittitle>
+          <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_44bedce6cf48481b1dee349f76739681" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_cf954a5cc27b860e8f68647a8f3e33cf" parent="aspace_44bedce6cf48481b1dee349f76739681" type="Folder">64</container>
+        </did>
+      </c>
+      <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Cunliffe, Grant Wilfred, "Political and Intellectual Tendancies of Modern France"</unittitle>
+          <unitdate datechar="creation">May 1919</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_31bb4e1bc870e6e3c367b8da9bb4afaf" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_69ea59f6f1c3a2da6e01bfc0f1a7b30b" parent="aspace_31bb4e1bc870e6e3c367b8da9bb4afaf" type="Folder">65</container>
+        </did>
+      </c>
+      <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Finley, Harold Brooks, "Effect of the Mineral Resources of Europe Upon the Balance of Power"</unittitle>
+          <unitdate datechar="creation">May 1919</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_977b4d3c2bf1f67071b811303666c43a" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_5e5ebd5927bb90ff9ef9ca22bd01e25d" parent="aspace_977b4d3c2bf1f67071b811303666c43a" type="Folder">66</container>
+        </did>
+      </c>
+      <c id="aspace_ref86" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Foss, Fremont C., "Relations Between Germany and Russia 1904 To 1910"</unittitle>
+          <unitdate datechar="creation">May 1919</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_625898e1f6f68566d97a9f2487d10700" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_206902ae51376fc867c8ad3fb67d5a8a" parent="aspace_625898e1f6f68566d97a9f2487d10700" type="Folder">67</container>
+        </did>
+      </c>
+      <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Traina, Salvatore, "Morocco and the Peace of Europe (1900 - 1910)</unittitle>
+          <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f1064a51af198a382b37f759c7cf4998" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_922158df24cde73b0c32a82c46bdc5ed" parent="aspace_f1064a51af198a382b37f759c7cf4998" type="Folder">68</container>
+        </did>
+      </c>
+      <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Greeman, Edward, "Citizen Genet's Appeal to the American People"</unittitle>
+          <unitdate datechar="creation">Apr 1920</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5ad2826486232384b3d3e8b805709c01" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_d1a765813af646099f64e5b5d325a5e0" parent="aspace_5ad2826486232384b3d3e8b805709c01" type="Folder">69</container>
+        </did>
+      </c>
+      <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Jame, David, "The Political Agitation of the Non- Franchised Against the Corn Laws in England"</unittitle>
+          <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4e501f134a0702c1e140883facc6533f" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_9c31bb3d8caf52211d8a74a3e76b28a3" parent="aspace_4e501f134a0702c1e140883facc6533f" type="Folder">70</container>
+        </did>
+      </c>
+      <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Stuart, Robert Brown, "The Development of the Government of Canada from 1860 - 1914"</unittitle>
+          <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2c2201f1bb9038978b3f7ad1d5793b40" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_076117f61fa5fe8bd20d9b3d1d011492" parent="aspace_2c2201f1bb9038978b3f7ad1d5793b40" type="Folder">71</container>
+        </did>
+      </c>
+      <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Van Aken, Roy, "The Attitude of South America Towards the Monroe Doctrine"</unittitle>
+          <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4d219b113113c131f923f5e3c1cfb3c3" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_79252c7e775bdc3ddf6fa346694eafbe" parent="aspace_4d219b113113c131f923f5e3c1cfb3c3" type="Folder">72</container>
+        </did>
+      </c>
+      <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Van Arnain, Philip E., "Conscription in the Confederate States"</unittitle>
+          <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f7491bbe1f4f420efc4de21c5c44b07b" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_3420f150bbb05863af3a5593c12a33b9" parent="aspace_f7491bbe1f4f420efc4de21c5c44b07b" type="Folder">73</container>
+        </did>
+      </c>
+      <c id="aspace_ref93" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Falk, Solomon, "Opposition to the Early American Stage Prior to 1800"</unittitle>
+          <unitdate datechar="creation">Apr 1921</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dcf9dc44ccc54844ccc47583563f8a62" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_98fb6632dbd5dc8e2ad098bcbb2beb8e" parent="aspace_dcf9dc44ccc54844ccc47583563f8a62" type="Folder">74</container>
+        </did>
+      </c>
+      <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Hauser, Frederick Howard, "Attempts at the Re- Organization of Macedonia (1910 - 1920)"</unittitle>
+          <unitdate datechar="creation">May 1921</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dea370b281659e41651fb027677dbd07" label="Mixed Materials [31142063067030]" type="Box">3</container>
+          <container id="aspace_fc5ebedca809e45b037095ef1795df8b" parent="aspace_dea370b281659e41651fb027677dbd07" type="Folder">75</container>
+        </did>
+      </c>
+      <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Joseph, Ben M., "The 1922 Coal Strike and the Miner's Case"</unittitle>
+          <unitdate datechar="creation">Apr 1922</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3d590bed73d58d219292ac673e111567" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_fb084830582e4c73e8a39ea57b1d683a" parent="aspace_3d590bed73d58d219292ac673e111567" type="Folder">76</container>
+        </did>
+      </c>
+      <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Millen, Thomas MacDougall, "The Government Operation of Railroads in the United States During the - Period of the Great War"</unittitle>
+          <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4ec7422be05929762219e270b9eb6bc1" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_7523446e8a1c75b7352867e998223893" parent="aspace_4ec7422be05929762219e270b9eb6bc1" type="Folder">77</container>
+        </did>
+      </c>
+      <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Anderson, George Valentine, "The Social Principles of Joseph Chamberlain"</unittitle>
+          <unitdate datechar="creation">Apr 1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6e23dabe3fa44d67668e495ffaca0bb4" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_897f836cae89b5a54669151185ee2b61" parent="aspace_6e23dabe3fa44d67668e495ffaca0bb4" type="Folder">78</container>
+        </did>
+      </c>
+      <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Cochran, Thomas C., "A Brief History of Field Tactics as Developed by Marlborough, Fredrich, Napoleon and Von Moltke"</unittitle>
+          <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_67696a1be9fb36859549a1f50ed16106" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_7906ee1a4bd486a4eac9b10cdf375fcf" parent="aspace_67696a1be9fb36859549a1f50ed16106" type="Folder">79</container>
+        </did>
+      </c>
+      <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Edsall, Preston W., "Hospitality to Prizes in Neutral Ports"</unittitle>
+          <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7ab551e2e445e7114ba39c9faf4ca265" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_f4c8f72c1a8fe34089b33f6eaaf946bb" parent="aspace_7ab551e2e445e7114ba39c9faf4ca265" type="Folder">80</container>
+        </did>
+      </c>
+      <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Hill, Huntington, "The Pichegru Conspiracy of 1803-04"</unittitle>
+          <unitdate datechar="creation">Apr 1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6b75ea5408925c4aa109c26f4589687f" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_0501352dcca6ef61d7b0da970299150e" parent="aspace_6b75ea5408925c4aa109c26f4589687f" type="Folder">81</container>
+        </did>
+      </c>
+      <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Gray Jr., Hamilton,"The Present Immigration Policy"</unittitle>
+          <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_83ea840482304194e77dbb783e09ce90" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_bc2b8e1d5925de7fe32143fe653bd5a4" parent="aspace_83ea840482304194e77dbb783e09ce90" type="Folder">82</container>
+        </did>
+      </c>
+      <c id="aspace_ref102" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Johnsen, T. Norman, "The Moroccan Question"</unittitle>
+          <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0fbe6a3ee4ebe99c13713d7b4e8e306e" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_7ee0b8b01748affa3085c1a70af1f3b4" parent="aspace_0fbe6a3ee4ebe99c13713d7b4e8e306e" type="Folder">83</container>
+        </did>
+      </c>
+      <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Lyon, John T., "James Russell Lowell and the Anti- Slavery Movement"</unittitle>
+          <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_44f0996765e76b70c0db7462dcac6042" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_69e4e6fb927b6def82c905f6267e532f" parent="aspace_44f0996765e76b70c0db7462dcac6042" type="Folder">84</container>
+        </did>
+      </c>
+      <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Bartley, John Cowgill, "Cuba's Relation to Our Foreign Policy Prior to the American Civil War"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e89ea8bd5d6887f061f01264b722cb31" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_0bbb54feb491952df9e84fc172f7f086" parent="aspace_e89ea8bd5d6887f061f01264b722cb31" type="Folder">85</container>
+        </did>
+      </c>
+      <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Berkson, William R., "The Federal Courts Before the United States Supreme Court"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_95f9264f0a55d292295bf8a1f1bd2053" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_28e57a32126f41264f8083ec9975e760" parent="aspace_95f9264f0a55d292295bf8a1f1bd2053" type="Folder">86</container>
+        </did>
+      </c>
+      <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Beylegaard, Reidar G., "The Granger Movement and State Regulations"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2a9320612f8dc6bd9d1863579fe1456c" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_ed988f16fb8e811d98ad98b61078ff89" parent="aspace_2a9320612f8dc6bd9d1863579fe1456c" type="Folder">87</container>
+        </did>
+      </c>
+      <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Eichler, Herbert, "The Dispersion of the Loyalists of the American Revolution"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_802607ee79f379b4a3f049d8a3c5a114" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_403588d188d6e914efac4a2e76b22450" parent="aspace_802607ee79f379b4a3f049d8a3c5a114" type="Folder">88</container>
+        </did>
+      </c>
+      <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Good, Alexander, "Disraeli's Vacillations in Parliamentary Reform"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_223f41ac99adafe3b19cfbc90913f418" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_4e3cbbcaff67075e976b26f61f53be75" parent="aspace_223f41ac99adafe3b19cfbc90913f418" type="Folder">89</container>
+        </did>
+      </c>
+      <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Jablanka, Frank A., "The Development of the Office of the Attorney General of the United States after the Adoption of the Constitution"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cd54eaa65e23eafd7c7c41713e94bca5" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_36f24f878cd8bc69750749e4c5dbf1f6" parent="aspace_cd54eaa65e23eafd7c7c41713e94bca5" type="Folder">90</container>
+        </did>
+      </c>
+      <c id="aspace_ref110" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Maggio, Vincent S., "The Girondins and the Conduct of the War, March 1792 - March 1793"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b3a9ec1a855628415ab24bc619572077" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_f6a0c9d6e9689661b106d7aaed89791a" parent="aspace_b3a9ec1a855628415ab24bc619572077" type="Folder">91</container>
+        </did>
+      </c>
+      <c id="aspace_ref111" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Mallon, Arthur, "The Organization and Administration of the War Department During the Revolutionary War"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c329af9c04cb3d32488b791ba92c2ac4" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_666d9991234cbc0b99a49208bd9039d8" parent="aspace_c329af9c04cb3d32488b791ba92c2ac4" type="Folder">92</container>
+        </did>
+      </c>
+      <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>McGovern, Clarence Francis, "The Mexican Policy of President Woodrow Wilson"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_65e6bb9907cc70a8356605c58013d44e" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_4135c3c22e7fe697defebf285b31f044" parent="aspace_65e6bb9907cc70a8356605c58013d44e" type="Folder">93</container>
+        </did>
+      </c>
+      <c id="aspace_ref113" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Mendelson, Irving Howard, "Lincoln and Chase: A Study of Political Management" '</unittitle>
+          <unitdate datechar="creation">Jan 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5239d465535d0bd741d9af6febd14d40" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_9a5405c6641e4b9cead5daf684d11391" parent="aspace_5239d465535d0bd741d9af6febd14d40" type="Folder">94</container>
+        </did>
+      </c>
+      <c id="aspace_ref114" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Quigley, John Joseph, "The Influence of the Atlantic Seaboard Upon American History In Its Formative Period"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5f4ec4918e35978a2ba4f5d81cfdf133" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_6b4055032497e3ba353be9857297a600" parent="aspace_5f4ec4918e35978a2ba4f5d81cfdf133" type="Folder">95</container>
+        </did>
+      </c>
+      <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Rosenberg, Sidney Robert, "A History of Landlord and Tenant"</unittitle>
+          <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5b08ed6bf2a971e57b44642986d24a1c" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_957ce6bc6ff5c6cac815fc8d7e57689c" parent="aspace_5b08ed6bf2a971e57b44642986d24a1c" type="Folder">96</container>
+        </did>
+      </c>
+      <c id="aspace_ref116" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Schofield, Ellwood M., "The Great Awakening of 1740: An Epoch in American Church History"</unittitle>
+          <unitdate datechar="creation">Jun 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_68ae00d9829ee784a809aafcda731078" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_a21194453734acebddea51439f218a6c" parent="aspace_68ae00d9829ee784a809aafcda731078" type="Folder">97</container>
+        </did>
+      </c>
+      <c id="aspace_ref117" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Smoleroff, Julius W., "The Opinions of Lord Randolph Churchill"</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b91b97b9d616fff61e97970ed4df1c8f" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_c346e7f6b421d308292c0234ba767d63" parent="aspace_b91b97b9d616fff61e97970ed4df1c8f" type="Folder">98</container>
+        </did>
+      </c>
+      <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Yaroshevitch, R., "The Russian Decembrist Rebellion," honors thesis in history, University College, 1934</unittitle>
+          <unitdate datechar="creation">May 1925</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0e8655c073207fd6e4c67254d5f75df3" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_d66892c05d8bf759fed4587f5d401103" parent="aspace_0e8655c073207fd6e4c67254d5f75df3" type="Folder">99</container>
+        </did>
+      </c>
+      <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Tilone, Robert, "The Non-Slaveholding Whites of the Antebellum South"</unittitle>
+          <unitdate datechar="creation" normal="1897/1934" type="inclusive">April 1934</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cfc27a3a71e2c77c745ad6110b4c5578" label="Mixed Materials [31142063067048]" type="Box">4</container>
+          <container id="aspace_dfae4090175ef0459ee754ac18308084" parent="aspace_cfc27a3a71e2c77c745ad6110b4c5578" type="Folder">100</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
