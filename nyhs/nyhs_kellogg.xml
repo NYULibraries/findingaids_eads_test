@@ -1,0 +1,2836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NHi">nyhs_kellogg</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to Papers of the Kellogg Family<lb/><date calendar="gregorian" normal="1749/1945" era="ce" type="inclusive">1749-1945</date><lb/> <num>MS 341</num></titleproper>
+        <author>Processed by Tom Dunnings</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from kellogg02mb.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New-York Historical Society</publisher>
+        <address>
+          <addressline>170 Central Park West</addressline>
+          <addressline>New York, NY 10024</addressline>
+          <addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-04-12 13:35:09 -0400</date>.</creation>
+      <langusage>Description is in <language>English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New-York Historical Society</corpname>
+      </repository>
+      <unittitle>Kellogg Family Papers</unittitle>
+      <origination label="Creator">
+        <famname source="naf">Kellogg family</famname>
+      </origination>
+      <unitid>MS 341</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">16 Linear feet</extent>
+        <extent altrender="carrier">(31 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1749/1945" type="inclusive">1749-1945</unitdate>
+      <abstract id="aspace_5428aa2b31518974da95bab30acb2479">Correspondence, bills and receipts, genealogical material, photographs, clippings, notebooks, diaries, deeds, wills, inventories, and miscellaneous items, 1749-1945, of various members of the Kellogg and related Baker, Comstock, Snow, and White families of Brooklyn, Port Kent, and Onondaga County, New York; particularly Charles White Kellogg (1815-1896); Demmis Dewey Comstock Kellogg (1821-1900); and their children Peter Comstock Kellogg (1841-1905) of Montclair, New Jersey; Gertrude Kellogg (1843-1903), a prominent New York actress; and Fanny Kellogg (1848-1948).</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <custodhist id="aspace_bbc9df7156ecb7c333544da48187189b">
+      <head>Provenance</head>
+      <p>Donation of Mrs. F. Leighton Meserve, <date calendar="gregorian" era="ce">1985.</date></p>
+    </custodhist>
+    <accessrestrict id="aspace_6c2276c62046109379d078c0e07d7cf1">
+      <head>Access Restrictions</head>
+      <p>Open to qualified researchers.</p>
+      <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.) See guidelines in Reading Room for details.</p>
+    </accessrestrict>
+    <userestrict id="aspace_b5085d0ab13084c15b94a99f9f31bcdc">
+      <head>Use Restrictions</head>
+      <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to <lb/><lb/>Library Director <lb/><address><addressline>The New-York Historical Society<lb/> </addressline><addressline>170 Central Park West<lb/> </addressline><addressline>New York, NY 10024<lb/><lb/> </addressline></address></p>
+    </userestrict>
+    <prefercite id="aspace_e0191176c48ca51a6067b1bbd5815844">
+      <head>Preferred Citation</head>
+      <p>This collection should be cited as the Kellogg Family Papers, the New-York Historical Society.</p>
+    </prefercite>
+    <bioghist id="aspace_0c7a70c79b5d0b7bea98c14b67509ff3">
+      <head>Biographical Note</head>
+      <p>The Kellogg Family was active in Brooklyn, Port Kent, and Onondaga County, New York; Montclair, New Jersey; and elsewhere.</p>
+    </bioghist>
+    <scopecontent id="aspace_e7d5820ff2e6e79197ab4ab831ece850">
+      <head>Scope and Content Note</head>
+      <p>Correspondence, papers, genealogies, bills and receipts, newspaper clippings, financial records, photographs, diaries, deeds, wills, inventories, and printed material, 1749-1945 of various members of the Kellogg and related Baker, Comstock, Snow and White Families of Brooklyn, Port Kent, and Onondaga County, New York and Montclair, New Jersey; particularly Charles Kellogg White (1815-1896); Demnis Dewey Comstock Kellogg (1821-1900); and their children Peter Comstock Kellogg (1841-1945) of Montclair, New Jersey; Gertrude Kellogg (1843-1903), a prominent New York actress; and Fanny Kellogg (1843-1943). The collection largely consists of correspondence between these family members and letters from other members received by Fanny Kellogg. The correspondence primarily concerns family matters, daily life in Brooklyn, and visits to Port Kent, New York.</p>
+      <p>Other subjects include the career and travels of Gertrude Kellogg, most specifically her performances in Canada, 1874-1875, and in England, 1880-1883, and her work with the Booth-Barrett Company in the mid-western United States; the Kellogg property at Port Kent; Peter C. Kellogg and Company, a thorough-bred horse and livestock firm; the real estate activities of Isaac V. Baker in Washington County, New York and his association with the Bethlehem Iron Company; and the Kellogg's interest in spiritualism. Also included in the collection are letters from various spiritualists and clairvoyants, 1857-1910, often accompanied by patented recipes for medicines; records kept by Fanny Kellogg of her Red Cross Sewing School classes in Plattsburg, New York, 1919-1925, and at Port Kent, 1898 and 1922; diaries kept by Charles White Kellogg while living in New York City, 1851-1852 (2 vols.), which concern his affairs as a produce commission merchant and his interest in spiritualism; a diary kept by Julia Burwell Snow (1842-1892), in Buffalo, New York, 1859 (1 vol.); plays and reading material of Gertrude Kellogg; and photographs of most members of the Kellogg family.</p>
+    </scopecontent>
+    <arrangement id="aspace_7542f5fb49713508d0f74d7905adb747">
+      <head>Arrangement</head>
+      <p>The papers are organized by family member and by type of material.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Actresses.</subject>
+      <subject source="lcsh">Acting.</subject>
+      <genreform source="aat">Diaries.</genreform>
+      <genreform source="aat">Wills.</genreform>
+      <genreform source="aat">Inventories</genreform>
+      <genreform source="aat">Genealogies (histories)</genreform>
+      <geogname source="lcsh">Onondaga County (N.Y.).</geogname>
+      <genreform source="aat">Deeds.</genreform>
+      <geogname source="lcsh">Brooklyn (N.Y.)</geogname>
+      <geogname source="lcsh">Port Kent (N.Y.)</geogname>
+      <subject source="lcsh">Spiritualism</subject>
+      <subject source="lcsh">Livestock</subject>
+      <corpname rules="rda" source="naf">American Red Cross</corpname>
+      <famname rules="rda" source="local">Baker (Family)</famname>
+      <persname rules="rda" source="local">Baker, Isaac V., 1813-1894</persname>
+      <corpname rules="rda" source="naf">Bethlehem Iron Company</corpname>
+      <persname rules="rda" source="naf">Booth, Edwin, 1833-1893</persname>
+      <persname rules="rda" source="local">Kellogg, Charles White, 1815-1896</persname>
+      <persname rules="rda" source="local">Kellogg, Demmis Dewey Comstock, 1821-1900</persname>
+      <persname rules="rda" source="local">Kellogg, Fanny, 1848-1948</persname>
+      <persname source="naf">Kellogg, Gertrude, 1843-1903</persname>
+      <persname rules="rda" source="local">Kellogg, Julia Burwell Snow, 1842-1892</persname>
+      <persname source="naf">Kellog, Peter Comstock, 1841-1905</persname>
+      <corpname rules="rda" source="local">Peter C. Kellogg and Company</corpname>
+      <famname source="naf">Snow family</famname>
+      <persname rules="rda" source="local">St. John, Silas</persname>
+      <famname source="naf">White family</famname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11_dho" level="series">
+        <did>
+          <unittitle>Box 1: Charles White Kellogg- Correspondence and Papers</unittitle>
+        </did>
+        <c id="aspace_ref12_par" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg to Laura Baker</unittitle>
+            <unitdate normal="1875/1875" type="inclusive">1875</unitdate>
+            <container id="aspace_823b32a4e7d3ea518ebda054d6ccf1d5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d2b91a14c47dd97ea437b89eb5071fca" parent="aspace_823b32a4e7d3ea518ebda054d6ccf1d5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13_d8q" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg to Harvey S. Bowen</unittitle>
+            <unitdate normal="1895/1895" type="inclusive">1895</unitdate>
+            <container id="aspace_bd2f85cca276a09f09c716d4786a1c27" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d31ffddb22f04882783bbde1b959da7e" parent="aspace_bd2f85cca276a09f09c716d4786a1c27" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_ny2" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg to Alvan Kellogg</unittitle>
+            <unitdate normal="1835/1848" type="inclusive">1835-1848</unitdate>
+            <container id="aspace_e2b6ace09ac79f9a1ff52826a72e4013" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_71665d1939d7ae00d025417d3391e5c5" parent="aspace_e2b6ace09ac79f9a1ff52826a72e4013" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_8oq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1851/1896" type="inclusive">1851-1896</unitdate>
+            <container id="aspace_f9eb57350eda5956da308345bcc73f43" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e6d8620272d37de5d8c7e1bf7c3b5d74" parent="aspace_f9eb57350eda5956da308345bcc73f43" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_8st" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1863/1886" type="inclusive">undated, 1863-1886</unitdate>
+            <container id="aspace_70ac456b4cda5fb6c9507cf7dd30d095" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e58453457a6db192c7a5cdb390f8ab94" parent="aspace_70ac456b4cda5fb6c9507cf7dd30d095" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_w1c" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1872/1888" type="inclusive">1872-1888</unitdate>
+            <container id="aspace_e8d3894514eb143ea0c348ee00d02968" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_24aa9e03a93f58bded714b1577a9c1b8" parent="aspace_e8d3894514eb143ea0c348ee00d02968" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_6wq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg to Peter Comstock Kellogg</unittitle>
+            <unitdate normal="1878/1884" type="inclusive">1878, 1884</unitdate>
+            <container id="aspace_091ace6abc8aa1b8bbc8babc3f92ab55" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_58de0eb2112fc088845dbd8036b121b3" parent="aspace_091ace6abc8aa1b8bbc8babc3f92ab55" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_7gu" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Miscellaneous Letters Received</unittitle>
+            <unitdate normal="1834/1896" type="inclusive">undated, 1834-1896</unitdate>
+            <container id="aspace_1e9a9950f57c5d96ffa8dab68465286e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1803d016f031e85e3f454d1c18dc0579" parent="aspace_1e9a9950f57c5d96ffa8dab68465286e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_u14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Record of Spiritual Communication.</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_32d2a341e743b4d02b5ccf8df0ce70c3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0167fc7e318f3acc4603fd98055dfea3" parent="aspace_32d2a341e743b4d02b5ccf8df0ce70c3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_l8g" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Lawsuit, Kellogg vs Buckley</unittitle>
+            <unitdate normal="1862/1863" type="inclusive">1862-1863</unitdate>
+            <container id="aspace_346ab24ff43ee82261804dd3a0ccc355" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2a385f77b4810bf8baf8651823a98553" parent="aspace_346ab24ff43ee82261804dd3a0ccc355" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_7pn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Financial Accounts</unittitle>
+            <unitdate normal="1833/1849" type="inclusive">1833-1849</unitdate>
+            <container id="aspace_f9a7b0041bdf3d4a99326d6b02e77281" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ce7ffd4b6c69811069ff93bef554eb45" parent="aspace_f9a7b0041bdf3d4a99326d6b02e77281" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_axy" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Financial Accounts</unittitle>
+            <unitdate normal="1868/1893" type="inclusive">1868-1893</unitdate>
+            <container id="aspace_d5cdcb9f99a20603b61de4d278e8ad7d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b7797b20d544cc497d1bbd23992adec9" parent="aspace_d5cdcb9f99a20603b61de4d278e8ad7d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_4fa" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Rees Run Petroleum and Mining Co.</unittitle>
+            <unitdate normal="1864/1865" type="inclusive">1864-1865</unitdate>
+            <container id="aspace_6de35c3beae9d49744108d4f207162e3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cb693ff344bba7c9cade49c73e2c0081" parent="aspace_6de35c3beae9d49744108d4f207162e3" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_ia1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Miscellaneous Business Papers</unittitle>
+            <unitdate normal="1835/1874" type="inclusive">1835-1874</unitdate>
+            <container id="aspace_827bc506e2092afc36913ad969a9df8b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_60b817e4cff6abb8884c6624f383a5ab" parent="aspace_827bc506e2092afc36913ad969a9df8b" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref26_vaf" level="series">
+        <did>
+          <unittitle>Box 2: Charles White Kellogg- Correspondence, Papers, and Diaries</unittitle>
+        </did>
+        <c id="aspace_ref27_zrq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Estate Papers</unittitle>
+            <unitdate normal="1896/1900" type="inclusive">1896-1900</unitdate>
+            <container id="aspace_3913421924a34f2ad52c961dfef036e5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_afef38c2e77ee93bc5625dd160e818d5" parent="aspace_3913421924a34f2ad52c961dfef036e5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_3cn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Charles White Kellogg: Letters of Sympathy, Notice of Death</unittitle>
+            <unitdate>1896 July</unitdate>
+            <container id="aspace_f9e0b80c1aab1f93f1ce1ecdb7bbdf2a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9732383b4e1122f4f7532ef73597bdd5" parent="aspace_f9e0b80c1aab1f93f1ce1ecdb7bbdf2a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_2m3" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Charles White Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1896 July</unitdate>
+            <container id="aspace_1b5e52061f42467c616400f3a8313697" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_63b5d05538c514f658d0b22e6ba86de4" parent="aspace_1b5e52061f42467c616400f3a8313697" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_384" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Charles White Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1896 July</unitdate>
+            <container id="aspace_d9d6888d65ff4c3f59a88abb0d447ea6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_93c453306e210695d2ba2b5bd9e2155f" parent="aspace_d9d6888d65ff4c3f59a88abb0d447ea6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_d5d" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Charles White Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1896 July</unitdate>
+            <container id="aspace_6d2216cbe33b2f90ac8e305c64be6150" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e4229a44fd90f12648c004571950a636" parent="aspace_6d2216cbe33b2f90ac8e305c64be6150" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_cph" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Charles White Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1896 Aug.</unitdate>
+            <container id="aspace_f95fd8d6b46faa7d064d38c3b79572a0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6e185da9b75d060d71390b2a8d7f719d" parent="aspace_f95fd8d6b46faa7d064d38c3b79572a0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_sfv" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Charles White Kellogg: Letters of Sympathy.</unittitle>
+            <unitdate>1896 Sept.</unitdate>
+            <container id="aspace_9352ca8d9193333217de670317531e2e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b22c37a9800deba046c9b76f6baedfa0" parent="aspace_9352ca8d9193333217de670317531e2e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_obe" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Diary</unittitle>
+            <unitdate normal="1851/1851" type="inclusive">1851</unitdate>
+            <container id="aspace_f1a4186d58a2878ee0afcebfe55eefcc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_03c87d80cd29eddda4e5598ad1653caa" parent="aspace_f1a4186d58a2878ee0afcebfe55eefcc" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_fbo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles White Kellogg: Diary</unittitle>
+            <unitdate normal="1852/1852" type="inclusive">1852</unitdate>
+            <container id="aspace_59b55205bc8110a8e2f929638c76fec7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_312deed822853d1017c50da358d228d8" parent="aspace_59b55205bc8110a8e2f929638c76fec7" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref36_uh4" level="series">
+        <did>
+          <unittitle>Box 3: Demmis D. C. Kellogg- Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref37_ft0" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1869/1871" type="inclusive">undated, 1869-1871</unitdate>
+            <container id="aspace_375e0c1005f55daafaa2afdf5060c299" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b0353a37b345e61f4569b56ed5968c9a" parent="aspace_375e0c1005f55daafaa2afdf5060c299" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_jj1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1874/1878" type="inclusive">1874-1878</unitdate>
+            <container id="aspace_59684f3bdb1f5e328bfbede9d4521a64" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d300f367a9295a330c7be11b39a23ed0" parent="aspace_59684f3bdb1f5e328bfbede9d4521a64" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_wie" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1886/1891" type="inclusive">1886, 1891</unitdate>
+            <container id="aspace_b82b23f91213276ccfbef3f29d1c5e49" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_09cdf7a25d1159c5231968253f07415c" parent="aspace_b82b23f91213276ccfbef3f29d1c5e49" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_rxz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1883/1887" type="inclusive">1883-1887</unitdate>
+            <container id="aspace_059c76fc821364ac9c87e6a829bc7d17" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_53d1d264da7d771d7381087deae2eda2" parent="aspace_059c76fc821364ac9c87e6a829bc7d17" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_zqy" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1888/1899" type="inclusive">undated, 1888-1899</unitdate>
+            <container id="aspace_fbdec1721d8a35e8a07c76f71ba1c9d7" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ab8a72bb4709f480436a77c714e0a32a" parent="aspace_fbdec1721d8a35e8a07c76f71ba1c9d7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_ffq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg to Peter Comstock Kellogg</unittitle>
+            <unitdate normal="1892/1897" type="inclusive">1892, 1897</unitdate>
+            <container id="aspace_c194ae840786a3e2c0861de592647ca8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_7d32193706023421caf3ac77c659d055" parent="aspace_c194ae840786a3e2c0861de592647ca8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_68o" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg: Miscellaneous Letters Received</unittitle>
+            <unitdate normal="1835/1899" type="inclusive">1835, 1869-1899</unitdate>
+            <container id="aspace_6fe6198d860deb080d715b315f35b5e1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d7ca6246f1965f8104882a0451d1f976" parent="aspace_6fe6198d860deb080d715b315f35b5e1" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref44_0uh" level="series">
+        <did>
+          <unittitle>Box 4: Demmis D. C. Kellogg- Correspondence and Papers</unittitle>
+        </did>
+        <c id="aspace_ref45_zqk" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg: Burland Property at Port Kent</unittitle>
+            <unitdate normal="1896/1897" type="inclusive">1896-1897</unitdate>
+            <container id="aspace_9adde3a1c61a44c932909f2a2c036bec" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0820e497e348e3e8e116bf48ebf22efb" parent="aspace_9adde3a1c61a44c932909f2a2c036bec" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_mc5" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg: Christmas Lists</unittitle>
+            <unitdate normal="1889/1899" type="inclusive">1889-1899</unitdate>
+            <container id="aspace_139eccb44de0e95b8d1da5bd399c3482" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_db01dcfae5e98f5c4fb654c6f5560148" parent="aspace_139eccb44de0e95b8d1da5bd399c3482" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_4f8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Demmis Dewey Comstock Kellogg: Will and Estate Papers</unittitle>
+            <unitdate normal="1896/1902" type="inclusive">1896-1902</unitdate>
+            <container id="aspace_b022f9bbe9f6cb4c5d09d63cc0b86ea7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_476b4cf2ae601be2b2e4c977168319dd" parent="aspace_b022f9bbe9f6cb4c5d09d63cc0b86ea7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_zhi" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Demmis Dewey Comstock Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1900 Jan.</unitdate>
+            <container id="aspace_31f43098eccb7657701ca8292b46dfac" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_fdced1a1525481cdd02a8fb720a48258" parent="aspace_31f43098eccb7657701ca8292b46dfac" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_3cb" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Demmis Dewey Comstock Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1900 Jan.</unitdate>
+            <container id="aspace_1e7720fda6669229da835f577e4232e9" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ec82d3b5e519c04004391bb9f2f46d2a" parent="aspace_1e7720fda6669229da835f577e4232e9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_xs0" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Demmis Dewey Comstock Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1900 Jan.</unitdate>
+            <container id="aspace_5b9306b6877f7202cf5efb6fdbb797dc" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a0de9f77c58b624fe7801bde56ce1650" parent="aspace_5b9306b6877f7202cf5efb6fdbb797dc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_li6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Demmis Dewey Comstock Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1900 Feb.</unitdate>
+            <container id="aspace_7db0ccf4d0bebe56023716d5ac60600e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_eb1f105c3892a9a64e0818be5ce0b6f3" parent="aspace_7db0ccf4d0bebe56023716d5ac60600e" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref52_izp" level="series">
+        <did>
+          <unittitle>Box 5: Fanny Kellogg- Correspondence, Letters to Demmis Kellogg</unittitle>
+        </did>
+        <c id="aspace_ref53_99d" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1870/1879" type="inclusive">1870-1879</unitdate>
+            <container id="aspace_604ee5bbeb6ad2a31f1dbf23e615fb69" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_23983bb12cc5dfd94ed556a4437941ad" parent="aspace_604ee5bbeb6ad2a31f1dbf23e615fb69" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_oyo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1880/1883" type="inclusive">1880-1883</unitdate>
+            <container id="aspace_cab4d16571677f14e822adbe96da1318" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_50d5542ab45df7422c04a23ba23653d1" parent="aspace_cab4d16571677f14e822adbe96da1318" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_ue7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1884/1884" type="inclusive">1884</unitdate>
+            <container id="aspace_a958e6e08df62f1a96ad72e9c952c05b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e94941256964fbb7ffac8eca4b6bce9b" parent="aspace_a958e6e08df62f1a96ad72e9c952c05b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_98b" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1870/1879" type="inclusive">1886</unitdate>
+            <container id="aspace_357b20f50d91e56e6943a6dce6aea108" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1e316d0160ae083b2aaeadcede609783" parent="aspace_357b20f50d91e56e6943a6dce6aea108" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_3no" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1887/1887" type="inclusive">1887</unitdate>
+            <container id="aspace_5a8725a9da285a7c0da14af182c018ac" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_855be5e3d07b4ab571f768942e24f287" parent="aspace_5a8725a9da285a7c0da14af182c018ac" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_tyk" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1890/1892" type="inclusive">1890-1892</unitdate>
+            <container id="aspace_7c2be25413f88457f9c2a8a8ff665f00" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_a3cc4856e17137bd0777b82949db573c" parent="aspace_7c2be25413f88457f9c2a8a8ff665f00" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_8si" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1893/1893" type="inclusive">1893</unitdate>
+            <container id="aspace_3efd6e23e16c2b73314167512ce03755" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_a1153f68431770be2e2915ddb79e263c" parent="aspace_3efd6e23e16c2b73314167512ce03755" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_iaf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1893/1893" type="inclusive">1893</unitdate>
+            <container id="aspace_ee3a8dcd5643fdf871bcbbcc95038ddf" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_04a11a1263e78bb5d75e61b51f4b827b" parent="aspace_ee3a8dcd5643fdf871bcbbcc95038ddf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_vqj" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1893/1893" type="inclusive">1893</unitdate>
+            <container id="aspace_31cf24e02f8d04507f89cf9f43495391" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d583accd6e9c253f1879d3977ba75cbc" parent="aspace_31cf24e02f8d04507f89cf9f43495391" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref62_tp7" level="series">
+        <did>
+          <unittitle>Box 6: Fanny Kellogg- Correspondence, Letters to Gertrude Kellogg</unittitle>
+        </did>
+        <c id="aspace_ref63_wj8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1867/1878" type="inclusive">1867-1878</unitdate>
+            <container id="aspace_8efdab7e29156ee0d00d079d52c3ba93" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a031d8561fa03b95819f178d6d28c2ab" parent="aspace_8efdab7e29156ee0d00d079d52c3ba93" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_941" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1879/1880" type="inclusive">1879-1880</unitdate>
+            <container id="aspace_763ee01d1072055feb28d9dcc7a50032" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_320e54a53e4aeef80a7bb07e21427fb5" parent="aspace_763ee01d1072055feb28d9dcc7a50032" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_kac" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1881/1881" type="inclusive">1881</unitdate>
+            <container id="aspace_d1ea199d0819657a88d7b0d0c8fde0c9" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_190b8774893fd3b60aea3dfa29300923" parent="aspace_d1ea199d0819657a88d7b0d0c8fde0c9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_e7z" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1882/1882" type="inclusive">1882</unitdate>
+            <container id="aspace_71dcaddb28b8d17fec0472e41929f645" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1eb0e7da7165ed0ba7d1ccbc9d1111ca" parent="aspace_71dcaddb28b8d17fec0472e41929f645" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_g60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1883/1883" type="inclusive">1883</unitdate>
+            <container id="aspace_b1fc5711850cf8cb9e5cf2950bf02e38" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a1f422ffe3340bcf5e8b0a115e66544e" parent="aspace_b1fc5711850cf8cb9e5cf2950bf02e38" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_8o5" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1884/1884" type="inclusive">1884</unitdate>
+            <container id="aspace_6e23b67ffa1d50d0505716b1c10ffe12" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_e30358bb1aba4a26db3bef4c09365e9c" parent="aspace_6e23b67ffa1d50d0505716b1c10ffe12" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_xhz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1885/1885" type="inclusive">1885</unitdate>
+            <container id="aspace_d9d569ea68d4133a63a467740065faad" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_2fd7b58e22323eed90921dceebe77e57" parent="aspace_d9d569ea68d4133a63a467740065faad" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref70_0d4" level="series">
+        <did>
+          <unittitle>Box 7: Fanny Kellogg- Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref71_ks4" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1886/1887" type="inclusive">1886-1887</unitdate>
+            <container id="aspace_ca62daacac135d9592f7fdc263d29092" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_9aba113ea836cbad4863b2c09d060d5e" parent="aspace_ca62daacac135d9592f7fdc263d29092" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_g2k" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1888/1888" type="inclusive">1888</unitdate>
+            <container id="aspace_4c3381eb7183816f904fec4607dce8d4" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_f4e172c47e3279899681494e479a6c65" parent="aspace_4c3381eb7183816f904fec4607dce8d4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_hpe" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1892/1896" type="inclusive">1892-1896</unitdate>
+            <container id="aspace_9be7b610beab56c1a49cb6a8eaedda9c" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_78c708c0de0f82a129eba49c8d875e4d" parent="aspace_9be7b610beab56c1a49cb6a8eaedda9c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_inf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Charles White Kellogg</unittitle>
+            <unitdate normal="1875/1892" type="inclusive">1875-1892</unitdate>
+            <container id="aspace_5bb0ba154bb797488fb43c39412cb403" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_fb47b937b882d1e966927aa86d02f02c" parent="aspace_5bb0ba154bb797488fb43c39412cb403" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_lfz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg to Laura Demis Clark Baker</unittitle>
+            <unitdate normal="1905/1905" type="inclusive">undated, 1905</unitdate>
+            <container id="aspace_a8207df89722baa1b6d9c3b65e60a4ee" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_6a238f129f472da753c44f234041b777" parent="aspace_a8207df89722baa1b6d9c3b65e60a4ee" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_9fq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Leonora Boughton to Fanny Kellogg</unittitle>
+            <unitdate normal="1869/1876" type="inclusive">1869-1876</unitdate>
+            <container id="aspace_244506aa5c04f0f0296b028885628315" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_fedf5d33a5d45dfc717bbaf1d4e2dfb7" parent="aspace_244506aa5c04f0f0296b028885628315" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_2ns" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Thornton W. Burgess to Fanny Kellogg</unittitle>
+            <unitdate normal="1938/1944" type="inclusive">1938-1944</unitdate>
+            <container id="aspace_cd7de8ddf47165752458eaf4bd1b3d00" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_b8197ff32bd15360a292e3a4bdc66583" parent="aspace_cd7de8ddf47165752458eaf4bd1b3d00" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_mjv" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>F. A. Lane to Fanny Kellogg</unittitle>
+            <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_ec04a4661bd350c6cabccfe46397f32c" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_559ce77477040ff9ca5c4c67c208d1a5" parent="aspace_ec04a4661bd350c6cabccfe46397f32c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_1zw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Minnie Marshall to Fanny Kellogg</unittitle>
+            <unitdate normal="1869/1886" type="inclusive">1869-1886</unitdate>
+            <container id="aspace_1fddd8e4c9d35590e7e0f803f31aca0a" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_828fddd92fbd0a0228aeb29d97d6ff16" parent="aspace_1fddd8e4c9d35590e7e0f803f31aca0a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_5so" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>William H. Marshall to Fanny Kellogg</unittitle>
+            <unitdate normal="1875/1876" type="inclusive">1875-1876</unitdate>
+            <container id="aspace_64e3dfb384ec39906dffb3aba4b2a7f5" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_01c5cca23a058c25c36b34b4302412e6" parent="aspace_64e3dfb384ec39906dffb3aba4b2a7f5" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_qql" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gabrielle W. Murdock to Fanny Kellogg</unittitle>
+            <unitdate normal="1917/1922" type="inclusive">1917-1922</unitdate>
+            <container id="aspace_b86598d35a2ae3f4a07a98a30eda0db3" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_94556c6b62e3010553a060670a2cdcbc" parent="aspace_b86598d35a2ae3f4a07a98a30eda0db3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref82_sj7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Silas St. John to Fanny Kellogg</unittitle>
+            <unitdate normal="1912/1916" type="inclusive">1912-1916</unitdate>
+            <container id="aspace_cee9e063ec32124cfa0bcd322292fbb1" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_13aa6dd7f00b6261abcf69b14b482dcb" parent="aspace_cee9e063ec32124cfa0bcd322292fbb1" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_87s" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mark Sullivan - Fanny Kellogg</unittitle>
+            <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_958bfa859322767607144a4a391fd315" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_4084ee03fc513326d16cc483e1e064f6" parent="aspace_958bfa859322767607144a4a391fd315" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref84_g09" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mary Clarke Thompson to Fanny Kellogg</unittitle>
+            <unitdate normal="1870/1876" type="inclusive">undated, 1870-1876</unitdate>
+            <container id="aspace_308e00af9c578fd920705be9e2ac63b0" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_72df70e8bfa73343f6370b28aedafceb" parent="aspace_308e00af9c578fd920705be9e2ac63b0" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref85_szp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Albon V. Tourgee to Fanny Kellogg</unittitle>
+            <unitdate normal="1893/1899" type="inclusive">1893-1899</unitdate>
+            <container id="aspace_3efd1d4ffef277128364521e8188bba2" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_8d029ad961a787e88c5cb37d2514450d" parent="aspace_3efd1d4ffef277128364521e8188bba2" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_lsz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>A. G. Wells to Fanny Kellogg</unittitle>
+            <unitdate normal="1902/1917" type="inclusive">1902-1917</unitdate>
+            <container id="aspace_ba1efbe87195c875a3df74cf95d32a95" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_4fa87750c3c80e2dff80b34db5cacbee" parent="aspace_ba1efbe87195c875a3df74cf95d32a95" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_fo9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Wendell L. Willkie - Fanny Kellogg</unittitle>
+            <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container id="aspace_c804ed999a9f4da0677fbef96caeae78" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_0d8d06a763178f1cc96f49485e02218e" parent="aspace_c804ed999a9f4da0677fbef96caeae78" type="Folder">17</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref88_lk4" level="series">
+        <did>
+          <unittitle>Box 8: Fanny Kellogg- Correspondence and Papers</unittitle>
+        </did>
+        <c id="aspace_ref89_cy1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: Miscellaneous Letters Received</unittitle>
+            <unitdate normal="1869/1899" type="inclusive">1869-1899</unitdate>
+            <container id="aspace_f3ceddcdc6d91b1e7a25eec0c8583139" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_26faab581d736796b70a1bd4bd872937" parent="aspace_f3ceddcdc6d91b1e7a25eec0c8583139" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref90_049" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: Miscellaneous Letters Received</unittitle>
+            <unitdate normal="1900/1919" type="inclusive">1900-1919</unitdate>
+            <container id="aspace_4d21c8ff5a183501779954d02cf1fd76" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_a2b1c65c38424a080a43caa2827ccd17" parent="aspace_4d21c8ff5a183501779954d02cf1fd76" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_pyz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: Miscellaneous Letters Received</unittitle>
+            <unitdate normal="1920/1945" type="inclusive">undated, 1920-1945</unitdate>
+            <container id="aspace_3e5c98ba7fdda75f761b665e5a5224c4" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_9912220a6b45fbc2485734c0161ecad2" parent="aspace_3e5c98ba7fdda75f761b665e5a5224c4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref92_5ik" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: "Our Block", "Brooklyn Eagle" Article</unittitle>
+            <unitdate normal="1913/1932" type="inclusive">1913, 1915, 1932</unitdate>
+            <container id="aspace_b8d185057f70c1beb61f7fc40a697a40" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_c86b42c256207d6aee088905031cf976" parent="aspace_b8d185057f70c1beb61f7fc40a697a40" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_zic" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: Red Cross Sewing Classes, Port Kent, N.Y. and Plattsburg, N.Y.</unittitle>
+            <unitdate normal="1898/1925" type="inclusive">1898, 1919-1925</unitdate>
+            <container id="aspace_c85e1aaebb2158761be831855e15880a" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_b8cd4dcbdbfd1378f3eb11a4fb839807" parent="aspace_c85e1aaebb2158761be831855e15880a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_yw8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: Miscellaneous Papers</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_744a6826c568afff94488e6c176ee198" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_0a52b0b7537612ae04c0ce55b98089b5" parent="aspace_744a6826c568afff94488e6c176ee198" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_js8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: Recipe Book</unittitle>
+            <unitdate normal="1889/1889" type="inclusive">1889</unitdate>
+            <container id="aspace_648aff248570b39f4ab3dc98d816d954" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_315c2726991dac3209d6d9573d451758" parent="aspace_648aff248570b39f4ab3dc98d816d954" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_so4" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: Address Book</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_df86145937963a08a7bf2035e27fcbfb" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_121f477d87871f5998952a02b0d473d6" parent="aspace_df86145937963a08a7bf2035e27fcbfb" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref97_inl" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fanny Kellogg: "Record" - Book of Poetry</unittitle>
+            <unitdate normal="1899/1899" type="inclusive">[1889]</unitdate>
+            <container id="aspace_e480331c79f043b05758ebb4ea101321" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_1ea395fce12bfdb3442294705384b0fd" parent="aspace_e480331c79f043b05758ebb4ea101321" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref98_3wq" level="series">
+        <did>
+          <unittitle>Box 9: Gertrude Kellogg- Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref99_8or" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg to Charles White Kellogg</unittitle>
+            <unitdate normal="1871/1882" type="inclusive">1871-1882</unitdate>
+            <container id="aspace_65052a892486a6bc96095311372cba24" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_fd5cab3456f776fb4bcb68ae79da3367" parent="aspace_65052a892486a6bc96095311372cba24" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_04z" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1872/1876" type="inclusive">1872-1876</unitdate>
+            <container id="aspace_9e1ad4fcb6c752ff06137031b571205e" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_39c5a83237493eaa85d44cba742cd854" parent="aspace_9e1ad4fcb6c752ff06137031b571205e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_l87" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1881/1892" type="inclusive">1881-1892</unitdate>
+            <container id="aspace_e44240ebf69cba53abf6eaf664d72202" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_8448f830842a37878adbddb96beed83b" parent="aspace_e44240ebf69cba53abf6eaf664d72202" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref102_fjr" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1880/1895" type="inclusive">1880-1895</unitdate>
+            <container id="aspace_6981d3a2298c2c8512046990789ce8c2" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_f2c52b355f4bf16f17f7b6c7d268de07" parent="aspace_6981d3a2298c2c8512046990789ce8c2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_q35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg to Laura Daily Comstock Baker</unittitle>
+            <unitdate normal="1875/1875" type="inclusive">1875</unitdate>
+            <container id="aspace_957f38037144f73e0b9e62e482f385b8" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_ad499149ee72b6f33eac0c1e91743613" parent="aspace_957f38037144f73e0b9e62e482f385b8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref104_2tw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg to Peter Comstock Kellogg</unittitle>
+            <unitdate normal="1872/1875" type="inclusive">1872, 1875</unitdate>
+            <container id="aspace_a822cbcdcfaa22dc85bf150325bc353b" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_6e46d2bcb82f3e2ef1894d37b4bad4c2" parent="aspace_a822cbcdcfaa22dc85bf150325bc353b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref105_792" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1869/1877" type="inclusive">1869-1877</unitdate>
+            <container id="aspace_e39a20ace49b740a65f30643e248284e" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_bbe10c0c56ff63f1c4c0c34027f856d9" parent="aspace_e39a20ace49b740a65f30643e248284e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_ki6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Donoughue and Mary Walsh to Gertrude Kellogg</unittitle>
+            <unitdate normal="1896/1896" type="inclusive">1896</unitdate>
+            <container id="aspace_5b7dbde7c17bb09a8cc2a4ecd1e9a191" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_7c0c0b68352572b6dc5c66a3c3003a62" parent="aspace_5b7dbde7c17bb09a8cc2a4ecd1e9a191" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_m05" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Miscellaneous Letters Received</unittitle>
+            <unitdate normal="1869/1886" type="inclusive">1869-1886</unitdate>
+            <container id="aspace_51dfa42b73d25770fbc8c0104fbe9130" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_ed755e68ff2e6b00552e1f3293d10366" parent="aspace_51dfa42b73d25770fbc8c0104fbe9130" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_dhj" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Miscellaneous Letters Received</unittitle>
+            <unitdate normal="1887/1903" type="inclusive">undated, 1887-1903</unitdate>
+            <container id="aspace_19e57eec3f86d9e5e9ae53ddeb239205" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_eaf27cedc1d24a0916458edbd4ed8a0d" parent="aspace_19e57eec3f86d9e5e9ae53ddeb239205" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref109_ueg" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Will and Estate Papers</unittitle>
+            <unitdate normal="1899/1905" type="inclusive">1899-1905</unitdate>
+            <container id="aspace_778a139490c44fc98a9bf6a6907cea0b" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_9bff7f995094985eb182a85702d39a45" parent="aspace_778a139490c44fc98a9bf6a6907cea0b" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref110_igl" level="series">
+        <did>
+          <unittitle>Box 10: Gertrude Kellogg- Readings and Scripts</unittitle>
+        </did>
+        <c id="aspace_ref111_sku" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Readings</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_c99b98f15b957788f05c858d064d28bd" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_32e91ba5a17e10d1bfe4bb37c41b9923" parent="aspace_c99b98f15b957788f05c858d064d28bd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref112_32r" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Script of "Elizabeth"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_3cb561fd6b9271e8da66b56cb68c7b83" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_7957ec6a349023b39835b3df72aa974e" parent="aspace_3cb561fd6b9271e8da66b56cb68c7b83" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref113_apt" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Script of "Elizabeth"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_2fc3db88ae646e3d3f6cfffdfe954538" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_64d91ec248b7cfe33d3d8a10cfc8ec8a" parent="aspace_2fc3db88ae646e3d3f6cfffdfe954538" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref114_m16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Script of "Gyda"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_215e121218fddb68dec5c97c6deabc61" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_0dd41ab75347dc8a2e7a9a703a0c090c" parent="aspace_215e121218fddb68dec5c97c6deabc61" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref115_o6j" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Script of "Gyda"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_c42287db841021375e80f2c194471fa8" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_68ebec07d4cd93a19a7ba1118f6fb343" parent="aspace_c42287db841021375e80f2c194471fa8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref116_f14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Script of "La Verduga"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_151ddbb30a74dd313ce322993a9c1648" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_11e99436144896b4edfc639c4a564ca2" parent="aspace_151ddbb30a74dd313ce322993a9c1648" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref117_72v" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Script of "La Verduga"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_d282988d2f36c111df6d77172aeb6ee6" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_ac02b78f9b42d7c06faefd033813a494" parent="aspace_d282988d2f36c111df6d77172aeb6ee6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref118_gdp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Script of "La Verduga"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_ea22a32e6e6a622887f16e31991c37b6" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_a256d81a099fdafb93df354c0a977e4a" parent="aspace_ea22a32e6e6a622887f16e31991c37b6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_pcc" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: "Marcellina in Monaldi"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_26b19658ccdc2f278ec93d1ea9c42e07" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_2c9229317de087a5a4d2a46d2d88c2ac" parent="aspace_26b19658ccdc2f278ec93d1ea9c42e07" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref120_4cx" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Scenery Sketches</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_76763bade73268e8a41662412897350d" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_ace91d46210a0607b0af34f681e4b29d" parent="aspace_76763bade73268e8a41662412897350d" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref121_glo" level="series">
+        <did>
+          <unittitle>Box 11: Gertrude Kellogg- Notices, Programs, and Reviews</unittitle>
+        </did>
+        <c id="aspace_ref122_bs9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Correspondence</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_cde428eabc9c7957659697d40aab9a5f" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_3c022b58c782346f58dacab47a44126d" parent="aspace_cde428eabc9c7957659697d40aab9a5f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref123_i5g" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Notices and Reviews</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_afab7fe632d3132031dbd8e5bc0a12f4" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_5cb00e736825e3944cd1d823b8eef0d7" parent="aspace_afab7fe632d3132031dbd8e5bc0a12f4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref124_s8j" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Notices and Reviews</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_0cfe2ca3dac81d57b654f303863bc4de" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_a236fe8b8eaf344f1beaf23bff6aeaa1" parent="aspace_0cfe2ca3dac81d57b654f303863bc4de" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref125_6nu" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Notices and Reviews</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_5e4ef358dd97c5b0f85a8a7546420624" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_69f3c6cf843ace6de36f9f214d3a6e50" parent="aspace_5e4ef358dd97c5b0f85a8a7546420624" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref126_g82" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Notices and Reviews</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_bd15311b5b9a97770af6b06583dfd957" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_aec60903eb22ced4424400de387ab799" parent="aspace_bd15311b5b9a97770af6b06583dfd957" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref127_dkr" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Programs</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_d49f3f21e02efe1a10a4fde2cb35fa53" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_23ed670c09ae1f90d4ce0f9c55730b5d" parent="aspace_d49f3f21e02efe1a10a4fde2cb35fa53" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref128_k3q" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Scenery Sketches</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_b7aed1787feb74c2ce5916446d29b06a" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_06a508efca42eba2072032793577a90c" parent="aspace_b7aed1787feb74c2ce5916446d29b06a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref129_2rc" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Actors Fund of America to Gertrude Kellogg: Certificate of Membership</unittitle>
+            <unitdate normal="1889/1889" type="inclusive">1889</unitdate>
+            <container id="aspace_9fe3ff8ba10c8354fa17a675926e19ea" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_42ee8d506f330ce253f546f94c640728" parent="aspace_9fe3ff8ba10c8354fa17a675926e19ea" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref130_rt1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Commonplace Book, "Books read by G. K."</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_96e6ad5533b10e16f13655773603fe7e" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_91cb2bfd8b13d4125b21dd978906f612" parent="aspace_96e6ad5533b10e16f13655773603fe7e" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref131_gq9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: Commonplace Book</unittitle>
+            <unitdate normal="1894/1894" type="inclusive">1894</unitdate>
+            <container id="aspace_dafe46d5daa0d0150d9cc99991f50d51" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_4f9f94e6d78a9249272d5c7e7debddf4" parent="aspace_dafe46d5daa0d0150d9cc99991f50d51" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref132_05p" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg: "The Daily Journal for 1859, G. Kellogg"</unittitle>
+            <unitdate normal="1859/1859" type="inclusive">1859</unitdate>
+            <container id="aspace_71e78ade4eee5ce0c68ad954c82383e5" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_53659096e5b114b600e96d378bc983db" parent="aspace_71e78ade4eee5ce0c68ad954c82383e5" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref133_jjn" level="series">
+        <did>
+          <unittitle>Box 12: Peter Comstock Kellogg- Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref134_uhm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Charles White Kellogg</unittitle>
+            <unitdate normal="1864/1896" type="inclusive">1864-1896</unitdate>
+            <container id="aspace_c076abcc81eaceee12cd42fb1b51f66c" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_305eb272e8ee6aec1d4886995026c1be" parent="aspace_c076abcc81eaceee12cd42fb1b51f66c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref135_m01" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1860/1892" type="inclusive">1860-1892</unitdate>
+            <container id="aspace_7a8a806365f01d63ab74fa38e7afc3a0" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_9471d0fcda2e60855ce2e4a868a13f7e" parent="aspace_7a8a806365f01d63ab74fa38e7afc3a0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref136_lpl" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1896/1896" type="inclusive">1896</unitdate>
+            <container id="aspace_0bf42b29f6140a620040847622369c35" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_f03731028e6523614bf132d7b6097eaf" parent="aspace_0bf42b29f6140a620040847622369c35" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref137_gye" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1897/1897" type="inclusive">1897</unitdate>
+            <container id="aspace_9ce69701c031ff5733630ecc5e98243f" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_cde7c9055a3f01170bd7ffba58f96491" parent="aspace_9ce69701c031ff5733630ecc5e98243f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref138_oev" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1898/1898" type="inclusive">1898</unitdate>
+            <container id="aspace_5998099b7cf33a24270841d668dfe8b2" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_54555ae21d79cd27febe35ee84a116d2" parent="aspace_5998099b7cf33a24270841d668dfe8b2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref139_60s" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1869/1886" type="inclusive">1899</unitdate>
+            <container id="aspace_68fc7ec83dc7eb7b6da25214318de031" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_06450cfada126084168fa590873258b2" parent="aspace_68fc7ec83dc7eb7b6da25214318de031" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref140_vzn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1869/1905" type="inclusive">1869-1905</unitdate>
+            <container id="aspace_8dc51d262bd0a2d4bf6788d1c9bc691a" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_76353f1f914322adcbbf9662a899e52d" parent="aspace_8dc51d262bd0a2d4bf6788d1c9bc691a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref141_b0b" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1867/1901" type="inclusive">1867-1901</unitdate>
+            <container id="aspace_b6af3dbd26b493f411dd4775415c46aa" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_839b553ea653e937aa0f774d62ff0059" parent="aspace_b6af3dbd26b493f411dd4775415c46aa" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref142_xxu" level="series">
+        <did>
+          <unittitle>Box 13: Peter Comstock Kellogg- Correspondence and Papers</unittitle>
+        </did>
+        <c id="aspace_ref143_1d6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Fanny and Gertrude Kellogg</unittitle>
+            <unitdate normal="1870/1901" type="inclusive">1870-1901</unitdate>
+            <container id="aspace_af4ff83060cf67c13cdc06271994a52a" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_b3f91b50a34c6872999653593b6e6fa0" parent="aspace_af4ff83060cf67c13cdc06271994a52a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref144_hcf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg to Isaac V. Baker (1872), Laura Baker (1869), and Mary E. Comstock (1886)</unittitle>
+            <unitdate normal="1869/1886" type="inclusive">1869, 1872, 1886, 1869-1886</unitdate>
+            <container id="aspace_f4596c5ee95006b92330fa148c8877da" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_9950570e64ee8e34fd6b5a3550c2b35f" parent="aspace_f4596c5ee95006b92330fa148c8877da" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref145_ugs" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>George Sheer Jr. - Peter Comstock Kellogg</unittitle>
+            <unitdate normal="1875/1877" type="inclusive">1875-1877</unitdate>
+            <container id="aspace_0ef4ec682a7fdc59fffe91615e5cf242" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_4458bb1a90949fc09d35fcf539df2352" parent="aspace_0ef4ec682a7fdc59fffe91615e5cf242" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref146_0l7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg: Miscellaneous Business Material</unittitle>
+            <unitdate normal="1879/1895" type="inclusive">[1879-1895]</unitdate>
+            <container id="aspace_a24bdc41e420d0f6bdf4671d34d96547" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_38dc1adb58b2d054dc03e476538d8962" parent="aspace_a24bdc41e420d0f6bdf4671d34d96547" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref147_2v4" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg: Miscellaneous Business Material</unittitle>
+            <unitdate normal="1870/1901" type="inclusive">[1879-1905]</unitdate>
+            <container id="aspace_353a5488e1945255a1a8227de8026c6d" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_4af9b2bdac4ffbc9c8ca7e42c2babf53" parent="aspace_353a5488e1945255a1a8227de8026c6d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref148_z29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Peter Comstock Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1905 July</unitdate>
+            <container id="aspace_b5f901fbe687eb99c5f75f4d9d55800b" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_e457f1c602fb8696f2ead2e7bbff7c43" parent="aspace_b5f901fbe687eb99c5f75f4d9d55800b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref149_f4g" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Peter Comstock Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1905 July</unitdate>
+            <container id="aspace_45b2bc5fd7ce00965bdaf24c352e48e6" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_7e4a90a9e999a2ce71657a2c4f9dcdd5" parent="aspace_45b2bc5fd7ce00965bdaf24c352e48e6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref150_r8k" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Peter Comstock Kellogg: Letters of Sympathy</unittitle>
+            <unitdate>1905 Aug. -1905 Sept.</unitdate>
+            <container id="aspace_0b53e7784411c9d02d2cc6123d29277f" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_431bb8c9574c456eab7625b9c5d36e88" parent="aspace_0b53e7784411c9d02d2cc6123d29277f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref151_40n" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Comstock Kellogg: New-York Free Academy</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_b92ceae274121dac7efdb7e0f479d4dd" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_fcb67a47954a7c444929b34f02c572d5" parent="aspace_b92ceae274121dac7efdb7e0f479d4dd" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref152_yjq" level="series">
+        <did>
+          <unittitle>Box 14: Julia Snow Kellogg- Correspondence, Papers and Diary; Charles Snow Kellogg- Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref153_rfs" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Snow Kellogg to Charles White Kellogg</unittitle>
+            <unitdate normal="1872/1888" type="inclusive">undated, 1872-1888</unitdate>
+            <container id="aspace_6779fd5bdce883d2dc119aee32644657" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_b756752f188b2cc5889a78d4ffc4e19a" parent="aspace_6779fd5bdce883d2dc119aee32644657" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref154_zyi" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Snow Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1868/1876" type="inclusive">1868-1876</unitdate>
+            <container id="aspace_e2ae4538d4cb480d34f4dcf32dedb765" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_bf6371c7371db62dac5ee254cdf488d5" parent="aspace_e2ae4538d4cb480d34f4dcf32dedb765" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref155_f5h" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Snow Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1880/1892" type="inclusive">undated, 1880-1892</unitdate>
+            <container id="aspace_7f8572726475f5e9d2d9f657c010fdb9" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_45e1a38aca2c526ccaabb084637cb1c2" parent="aspace_7f8572726475f5e9d2d9f657c010fdb9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref156_v9w" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Snow Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1869/1876" type="inclusive">1869-1876</unitdate>
+            <container id="aspace_542528e83b4ec53930d554e79794aa5d" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_1a904a35b7967b1fbd4b972b0e16c546" parent="aspace_542528e83b4ec53930d554e79794aa5d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref157_nh1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Snow Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1868/1876" type="inclusive">1868-1892</unitdate>
+            <container id="aspace_5178dfddf28b8d894c4e26e6f7fc6df8" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_8f64caeddafdd43a7530002078905363" parent="aspace_5178dfddf28b8d894c4e26e6f7fc6df8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref158_cld" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Snow Kellogg to Laura Daily Comstock Baker</unittitle>
+            <unitdate normal="1875/1875" type="inclusive">1875</unitdate>
+            <container id="aspace_61e286da20f44b3dfa2b7488a7f64c3c" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_60333da8e76b738df7111ae945c90d32" parent="aspace_61e286da20f44b3dfa2b7488a7f64c3c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref159_7if" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Death of Julia Snow Kellogg: Letters of Sympathy</unittitle>
+            <unitdate normal="1892/1892" type="inclusive">1892</unitdate>
+            <container id="aspace_faff74c0cb9698daaab7d89293e54eea" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_14fd03a7b757bea86d0f301017b4dcb3" parent="aspace_faff74c0cb9698daaab7d89293e54eea" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref160_ecr" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Snow Kellogg: Diary, Notebook</unittitle>
+            <unitdate normal="1859/1859" type="inclusive">1859</unitdate>
+            <container id="aspace_3cfb82fd8c26c76b6e78e46fe5dba6ec" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_82ef09220c34c01854593911d3762b25" parent="aspace_3cfb82fd8c26c76b6e78e46fe5dba6ec" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref161_p4a" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles Snow Kellogg to Demmis Dewey Comstock Kellogg</unittitle>
+            <unitdate normal="1880/1892" type="inclusive">1880-1892</unitdate>
+            <container id="aspace_dbc50fd3ade1eee7f40e952687435762" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_b6840993cd20f51696754024a52655e1" parent="aspace_dbc50fd3ade1eee7f40e952687435762" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref162_38a" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles Snow Kellogg:"Scrap Book" of Children's Postcards Cut-outs</unittitle>
+            <unitdate normal="1859/1859" type="inclusive">undated</unitdate>
+            <container id="aspace_5a4b15a539aa9620323d8831c826c054" label="Mixed Materials" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref163_alj" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Julia Snow Kellogg: Scrap Book of Newspaper Clippings / Commonplace Book</unittitle>
+            <unitdate normal="1859/1859" type="inclusive">undated</unitdate>
+            <container id="aspace_ac06eff905d3f8319ccabe6074cbf428" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_8aeb871ac4c3e39f176ee3310833feaa" parent="aspace_ac06eff905d3f8319ccabe6074cbf428" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref164_ss4" level="series">
+        <did>
+          <unittitle>Box 15: Charles Snow Kellogg- Correspondence and Papers; Evaline A. C. White- Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref165_zii" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles Snow Kellogg to Demmis Dewey Comstock Kellogg,</unittitle>
+            <unitdate normal="1898/1899" type="inclusive">undated, 1898-1899</unitdate>
+            <container id="aspace_30338acd09a2dd70a8d1b45c67344be9" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_5ed62ee2ec8faf21527d95a1e4b0b50e" parent="aspace_30338acd09a2dd70a8d1b45c67344be9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref166_vkl" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles Snow Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1875/1932" type="inclusive">1875-1932</unitdate>
+            <container id="aspace_a3c5f4f993e3781e571cd804b9406503" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_79633d2ea0a75d3c5a2f42462414c861" parent="aspace_a3c5f4f993e3781e571cd804b9406503" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref167_e7r" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles Snow Kellogg to Gertrude Kellogg</unittitle>
+            <unitdate normal="1880/1896" type="inclusive">1880, 1896</unitdate>
+            <container id="aspace_ecd936553bb5d5ed430e6118ea4ffa30" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_cb89179fe9a31268b1359ec22855df27" parent="aspace_ecd936553bb5d5ed430e6118ea4ffa30" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref168_kmx" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles Snow Kellogg: Will and Estate Papers</unittitle>
+            <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate>
+            <container id="aspace_8823d7e58b4f67da7a08c8c4d46ed97d" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_7df63a04e7840b59c83bfd77fd5c1947" parent="aspace_8823d7e58b4f67da7a08c8c4d46ed97d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref169_hs9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Charles Snow Kellogg: Marriage Announcement</unittitle>
+            <unitdate normal="1899/1899" type="inclusive">1899</unitdate>
+            <container id="aspace_8384c64d7a9677c8f13a0c4834cc6d18" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_49e6cb9b6d9639819aaa72e4c74c0ce7" parent="aspace_8384c64d7a9677c8f13a0c4834cc6d18" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref170_nha" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Evaline Augusta Comstock White</unittitle>
+            <unitdate normal="1870/1881" type="inclusive">1870-1881</unitdate>
+            <container id="aspace_fb3a1f02eb32914446fad044e14c9efa" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_ae2386c852a1328683ead4f2fdfc63ee" parent="aspace_fb3a1f02eb32914446fad044e14c9efa" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref171_wv7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Evaline Augusta Comstock White</unittitle>
+            <unitdate normal="1882/1882" type="inclusive">1882</unitdate>
+            <container id="aspace_40f23517f02c21ed557f3c7c61de1c5b" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_d00376d3b6e13c8ab50da5fd4a1b44c5" parent="aspace_40f23517f02c21ed557f3c7c61de1c5b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref172_iif" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Evaline Augusta Comstock White</unittitle>
+            <unitdate normal="1882/1882" type="inclusive">1882</unitdate>
+            <container id="aspace_a0c03ec5b21bd2febdb88f9b3a4c6346" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_7fc1ac2a9b0d9961452f3526de2e39fb" parent="aspace_a0c03ec5b21bd2febdb88f9b3a4c6346" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref173_8xu" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Evaline Augusta Comstock White</unittitle>
+            <unitdate normal="1883/1887" type="inclusive">1883-1887</unitdate>
+            <container id="aspace_af96c04b4a115166e457a10a6dce2e8d" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_78a8c43c5c7fa103c22f4af37fff3ef4" parent="aspace_af96c04b4a115166e457a10a6dce2e8d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref174_lq3" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Evaline Augusta Comstock White</unittitle>
+            <unitdate normal="1892/1897" type="inclusive">1892-1897</unitdate>
+            <container id="aspace_b93b75ee1805e9108c363e4c2f5dc56f" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_684220d86a7cae948a3bbb0976d8be5a" parent="aspace_b93b75ee1805e9108c363e4c2f5dc56f" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref175_cvg" level="series">
+        <did>
+          <unittitle>Box 16: Comstock Family- Correspondence; Somers Family- Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref176_mzf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Comstock, Katharine B.</unittitle>
+            <unitdate normal="1869/1886" type="inclusive">1869-1886</unitdate>
+            <container id="aspace_16f69b5ffa367050b43332efd63cd9da" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_921423f351c8c7e04c4f279f6e23a118" parent="aspace_16f69b5ffa367050b43332efd63cd9da" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref177_qsm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Comstock, Katharine B.</unittitle>
+            <unitdate normal="1887/1889" type="inclusive">1887-1899</unitdate>
+            <container id="aspace_dc9278f71cab3ca92854b8d3b665ab3d" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_b06f882afaa9e23423904583afb3c817" parent="aspace_dc9278f71cab3ca92854b8d3b665ab3d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref178_1xk" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Comstock, Lucy Campbell Jackson</unittitle>
+            <unitdate normal="1805/1864" type="inclusive">1805-1806, 1864, undated</unitdate>
+            <container id="aspace_744f2f522b4e874c8bf9f43b8f070ea4" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_5b66b1d5ba66c7af116c17f0194e2644" parent="aspace_744f2f522b4e874c8bf9f43b8f070ea4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref179_w2e" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Comstock, Mary E.</unittitle>
+            <unitdate normal="1871/1924" type="inclusive">1871-1924, undated</unitdate>
+            <container id="aspace_e247fdcc570e5643401b85cffaa9ba84" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_4707c9b23c5dc8559dad9d4b4983163a" parent="aspace_e247fdcc570e5643401b85cffaa9ba84" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref180_kno" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Comstock, Peter</unittitle>
+            <unitdate normal="1833/1874" type="inclusive">1833-1874</unitdate>
+            <container id="aspace_1fcf629d0c1d8c37bd62ec7775672b56" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_4aacfa70b2908e68a66fc6dfebc4b77a" parent="aspace_1fcf629d0c1d8c37bd62ec7775672b56" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref181_a7y" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Comstock, Peter, Jr.</unittitle>
+            <unitdate normal="1870/1910" type="inclusive">1870-1875, 1910</unitdate>
+            <container id="aspace_81a01de8a29b715c2a04113498c5153f" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_d3509f937a4e607a43aee31369d9dad0" parent="aspace_81a01de8a29b715c2a04113498c5153f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref182_kez" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Somers, Anne J.D.</unittitle>
+            <unitdate normal="1869/1886" type="inclusive">1895-1920, undated</unitdate>
+            <container id="aspace_9b30d738c7e2f24e08edc2dc64b4a471" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_853d1044b6c2a74ee0f2d200e484fac7" parent="aspace_9b30d738c7e2f24e08edc2dc64b4a471" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref183_bo4" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Somers, Janie</unittitle>
+            <unitdate normal="1915/1918" type="inclusive">1915-1918</unitdate>
+            <container id="aspace_84a3726934ee497833cee6bd4e4f5bd7" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_875f0f72c2ba11d1016261a848eed3ea" parent="aspace_84a3726934ee497833cee6bd4e4f5bd7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref184_i9r" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Somers, Janet</unittitle>
+            <unitdate normal="1887/1899" type="inclusive">1887-1899</unitdate>
+            <container id="aspace_7e576c57c12237b2c7be7431d7bc5857" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_80ce850845f7ae48b6f79a2533fd70f8" parent="aspace_7e576c57c12237b2c7be7431d7bc5857" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref185_e1x" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Somers, Margaret (Maggie) Bell</unittitle>
+            <unitdate normal="1920/1922" type="inclusive">1920-1922</unitdate>
+            <container id="aspace_f0da7f96482d720e8fd7497c46ca45d0" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_68c165eac9d388f9013c86968090f25d" parent="aspace_f0da7f96482d720e8fd7497c46ca45d0" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref186_sa6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Somers, Robert</unittitle>
+            <unitdate normal="1874/1887" type="inclusive">1874-1887</unitdate>
+            <container id="aspace_1cea6e312c148bb93b5ab7d1a403a3ee" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_105e4654f3eaa5ded414731c6c663ca0" parent="aspace_1cea6e312c148bb93b5ab7d1a403a3ee" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref187_4fv" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Somers Family</unittitle>
+            <unitdate normal="1869/1886" type="inclusive">1880-1896, undated</unitdate>
+            <container id="aspace_4f6e742d9235727cbb6bbe41bcd7c530" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_eb43370ab1964a8f85046785ea82dc8b" parent="aspace_4f6e742d9235727cbb6bbe41bcd7c530" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref188_vly" level="series">
+        <did>
+          <unittitle>Box 17: Ida M. F. Kellogg- Correspondence; Meserve Family- Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref189_sop" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kellogg, Ida May Freeman to Fanny Kellogg</unittitle>
+            <unitdate normal="1899/1937" type="inclusive">1899-1937</unitdate>
+            <container id="aspace_5e587fe5b6d474c9bf12a33c591c8898" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_4fb5af3bedb6ad6298502116de1b7269" parent="aspace_5e587fe5b6d474c9bf12a33c591c8898" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref190_6fl" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kellogg, Ida May Freeman: Letters Received from Freeman Family and Conde Family</unittitle>
+            <unitdate normal="1892/1921" type="inclusive">1892, 1921</unitdate>
+            <container id="aspace_376b060b586a3f837bc0358c45f47e66" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_beb2033f07c8d4474a9a29bb08128f4b" parent="aspace_376b060b586a3f837bc0358c45f47e66" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref191_h6m" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kellogg, Ida May Freeman: Miscellaneous Letters and Papers</unittitle>
+            <unitdate normal="1897/1935" type="inclusive">1897-1935, undated</unitdate>
+            <container id="aspace_f6eee59e377c52ec95526e32755f565d" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_6e02c27a6ea57c43854ed0c0f444fb1c" parent="aspace_f6eee59e377c52ec95526e32755f565d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref192_qrn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Meserve, Kathleen Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1912/1919" type="inclusive">1912-1919</unitdate>
+            <container id="aspace_41d5e78e47faa4fdb465a7473a9c37ca" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_877513c7e289c80ae3efca189c880c7b" parent="aspace_41d5e78e47faa4fdb465a7473a9c37ca" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref193_a1u" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Meserve, Kathleen Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1920/1923" type="inclusive">1920-1923</unitdate>
+            <container id="aspace_572cd656c516b7120380400cce73e0a5" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_09428ee6c492fe1b59b7e56fb4c5c27b" parent="aspace_572cd656c516b7120380400cce73e0a5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref194_77q" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Meserve, Kathleen Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1925/1928" type="inclusive">1925-1928</unitdate>
+            <container id="aspace_ae4faf54657b1fc0e8d122e425905f10" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_e1eea451ed0145ee4581adcef9316613" parent="aspace_ae4faf54657b1fc0e8d122e425905f10" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref195_wzl" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Meserve, Kathleen Kellogg to Fanny Kellogg</unittitle>
+            <unitdate normal="1930/1944" type="inclusive">1930-1944</unitdate>
+            <container id="aspace_18608063ad2584b36bebd36b686296f2" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_4872ed4ece6077d75485b3b3c7bc2f88" parent="aspace_18608063ad2584b36bebd36b686296f2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref196_qlj" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Meserve, Kathleen Kellogg to Ida M. Freeman Kellogg</unittitle>
+            <unitdate normal="1920/1935" type="inclusive">1920-1935, undated</unitdate>
+            <container id="aspace_b1ce445ab1ee5d78998113ca80cb2984" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_d512bc49747a6b571395b68582c98a4a" parent="aspace_b1ce445ab1ee5d78998113ca80cb2984" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref197_o1y" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Meserve, Kathleen Kellogg: Miscellaneous Letters Received</unittitle>
+            <unitdate normal="1915/1926" type="inclusive">1915-1926</unitdate>
+            <container id="aspace_ebf09d65b7559f4fa410dffcfe1a2134" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_180fbbc03c98c64262cc94cacfc9ec2e" parent="aspace_ebf09d65b7559f4fa410dffcfe1a2134" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref198_d81" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Meserve, Kathleen Kellogg: Miscellaneous Papers</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_68dc44a2dfb9a4746a603364f9e92d6e" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_2d6c51e8087939bf3089edb8b74667f3" parent="aspace_68dc44a2dfb9a4746a603364f9e92d6e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref199_0f1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Meserve Family</unittitle>
+            <unitdate normal="1935/1947" type="inclusive">1935-1947</unitdate>
+            <container id="aspace_ad97a5204eee346daedbc45fe20e731a" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_8d4382927b00864f6fc81c8adb86fd0b" parent="aspace_ad97a5204eee346daedbc45fe20e731a" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref200_toa" level="series">
+        <did>
+          <unittitle>Box 18: Related Family Members A-F, Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref201_94s" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Abbott, Julia Baker</unittitle>
+            <unitdate normal="1886/1892" type="inclusive">1886, 1892</unitdate>
+            <container id="aspace_54c9a6a699f14a188cc3915fd2f6c519" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_0c5fc30d8831cfb280b6117564ab1e84" parent="aspace_54c9a6a699f14a188cc3915fd2f6c519" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref202_cof" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Abbott, Sabrina</unittitle>
+            <unitdate normal="1816/1816" type="inclusive">1816</unitdate>
+            <container id="aspace_f02c60d65b75051bd132fbab9ba553dd" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_62ded6be00a27a11d1cbff1b31b4978a" parent="aspace_f02c60d65b75051bd132fbab9ba553dd" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref203_sdb" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Charles Kellogg</unittitle>
+            <unitdate normal="1869/1900" type="inclusive">1869-1900</unitdate>
+            <container id="aspace_4b8c66707cbccb1efe50c154d7326d06" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_39f47db07eff526905822534a446edae" parent="aspace_4b8c66707cbccb1efe50c154d7326d06" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref204_d6q" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, George Comstock</unittitle>
+            <unitdate normal="1935/1947" type="inclusive">undated</unitdate>
+            <container id="aspace_594e11a0f4238a302388b72f65b96b39" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_a6256c2f40f920917d2a87840b2de91e" parent="aspace_594e11a0f4238a302388b72f65b96b39" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref205_v4b" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Helen</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_693cca494828bf2613f0a36805256857" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_afdd822ae40048919644a5de11d93055" parent="aspace_693cca494828bf2613f0a36805256857" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref206_5h2" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Isaac V.: Newspaper Clippings</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_a7408dc411a7c4e440f38c67ed5ea0d0" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_d592b4c6422fa31c89585f3552500504" parent="aspace_a7408dc411a7c4e440f38c67ed5ea0d0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref207_w9z" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Isaac V.: Bethlehem Iron Company</unittitle>
+            <unitdate normal="1858/1876" type="inclusive">1858-1876</unitdate>
+            <container id="aspace_ea65ac37d5db6191fd87e7841fa83243" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_e93e206a52405eef2aedfd78e41a57e5" parent="aspace_ea65ac37d5db6191fd87e7841fa83243" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref208_sdd" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Isaac V.: Johnson Ore Beds</unittitle>
+            <unitdate normal="1853/1890" type="inclusive">1853-1890</unitdate>
+            <container id="aspace_21b13fbb84a4416c09f2b2c7122ba9e8" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_eea8d0ef3ebfb564d9a5842054617f2c" parent="aspace_21b13fbb84a4416c09f2b2c7122ba9e8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref209_3g6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Kathleen L.</unittitle>
+            <unitdate normal="1869/1876" type="inclusive">1869-1876</unitdate>
+            <container id="aspace_c9df09a05adc4c4b75232c3cf5e6888f" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_175fd6da6bb9dfe1db68f1dc1fefcfda" parent="aspace_c9df09a05adc4c4b75232c3cf5e6888f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref210_qri" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Laura Daily Comstock</unittitle>
+            <unitdate normal="1870/1877" type="inclusive">1870-1877</unitdate>
+            <container id="aspace_b5893582b521e648b523a8e391fa7e62" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_b30f689e5f2017fb7bfe68b192230859" parent="aspace_b5893582b521e648b523a8e391fa7e62" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref211_0mq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Laura Demis Clark</unittitle>
+            <unitdate normal="1874/1922" type="inclusive">1874-1922</unitdate>
+            <container id="aspace_7035f8fbad8ec2c559ea1947f084a281" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_27befba683ffd84da706f23608301e2b" parent="aspace_7035f8fbad8ec2c559ea1947f084a281" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref212_fvn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Laurance Clark</unittitle>
+            <unitdate normal="1938/1941" type="inclusive">1938-1941</unitdate>
+            <container id="aspace_29bfdb33340f1947403a7285acdf0443" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_ed8a68363c7f69a684997281b9be1144" parent="aspace_29bfdb33340f1947403a7285acdf0443" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref213_dxv" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Mary</unittitle>
+            <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate>
+            <container id="aspace_abd6608ff9f87ec80a7cc7bf0c5b9b93" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_42b5fc5be8ea5dd87dd90085d4ae77c6" parent="aspace_abd6608ff9f87ec80a7cc7bf0c5b9b93" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref214_x2n" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Minnie E. Davis</unittitle>
+            <unitdate normal="1886/1886" type="inclusive">1886</unitdate>
+            <container id="aspace_b4bc0d3a55109b0e829bbe4b60b4c83a" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_5f11f51611640aaf25e21db447004a93" parent="aspace_b4bc0d3a55109b0e829bbe4b60b4c83a" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref215_j31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baker, Sarah A.</unittitle>
+            <unitdate normal="1876/1876" type="inclusive">1876</unitdate>
+            <container id="aspace_32d4bf38a20b77bb97bca4dfe8ac893d" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_71c130f9fc5ea0a59ce52c32b1a701bd" parent="aspace_32d4bf38a20b77bb97bca4dfe8ac893d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref216_te8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Belden, Hattie E.</unittitle>
+            <unitdate normal="1897/1902" type="inclusive">1897-1902</unitdate>
+            <container id="aspace_b32af37bffce42727617ed3fd7c6ac95" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_48f4f3f67ddb13b9743ea7663f3b2b98" parent="aspace_b32af37bffce42727617ed3fd7c6ac95" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref217_wu5" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Brewster, Catharine</unittitle>
+            <unitdate normal="1835/1840" type="inclusive">1835-1840, undated</unitdate>
+            <container id="aspace_a9c87c1d51917534018f403927d1d4ff" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_1d3535db9961457dbd1ba953bd5b98ed" parent="aspace_a9c87c1d51917534018f403927d1d4ff" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref218_1f6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Campbell, Joshua</unittitle>
+            <unitdate normal="1797/1797" type="inclusive">1797</unitdate>
+            <container id="aspace_7c190c6cab5266fa6b9947aca79f6dcc" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_6648acaaf011aaa416318928d25b0ec9" parent="aspace_7c190c6cab5266fa6b9947aca79f6dcc" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref219_ypi" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Carter, Lucy</unittitle>
+            <unitdate normal="1878/1882" type="inclusive">1878-1882</unitdate>
+            <container id="aspace_f02a8d9bfda09703eb7f98264cb0cdb5" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_4ddb640052e5118242fddd4404aa70f7" parent="aspace_f02a8d9bfda09703eb7f98264cb0cdb5" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref220_icm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Culver, Lucy Comstock Baker</unittitle>
+            <unitdate normal="1869/1893" type="inclusive">1869-1893</unitdate>
+            <container id="aspace_0fdb5bafac259f0d55de00f1d76798e2" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_5a5cbfc66ee04dea7bd405dfa9cf7ae2" parent="aspace_0fdb5bafac259f0d55de00f1d76798e2" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref221_vzj" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Culver, George B.</unittitle>
+            <unitdate normal="1879/1879" type="inclusive">1879</unitdate>
+            <container id="aspace_de950d42ef832c5988dd30b8be0cffcb" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_972ba965338067eebd28ee280210700b" parent="aspace_de950d42ef832c5988dd30b8be0cffcb" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref222_ur7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dewey Family</unittitle>
+            <unitdate normal="1839/1894" type="inclusive">1839, 1894</unitdate>
+            <container id="aspace_67651681a2cb2852cce01e4fbcb8293e" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_cd1a018e54c95356aebd28224f80c706" parent="aspace_67651681a2cb2852cce01e4fbcb8293e" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref223_v55" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dunlop, Laura Comstock White</unittitle>
+            <unitdate normal="1869/1938" type="inclusive">1869-1938</unitdate>
+            <container id="aspace_e3a6a460f3fb8b57a5f001e0978cd29e" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_7a37e9aadd002ee43675d7b7f5164b9a" parent="aspace_e3a6a460f3fb8b57a5f001e0978cd29e" type="Folder">23</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref224_o1p" level="series">
+        <did>
+          <unittitle>Box 19: Related Family Members G-W; Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref225_lju" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gore Family</unittitle>
+            <unitdate normal="1882/1882" type="inclusive">1882</unitdate>
+            <container id="aspace_f2edf3c3d3f500b43873ea116004a722" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_e871ac0aa951da9230ab0f14ffdb37d7" parent="aspace_f2edf3c3d3f500b43873ea116004a722" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref226_q85" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Harrigan, Harold W.</unittitle>
+            <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+            <container id="aspace_2a03d7380c695e5cf3752712372ffced" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_9373b0a83196da59980273639c43be77" parent="aspace_2a03d7380c695e5cf3752712372ffced" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref227_d15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Harrigan, Marietta (Minnie) Lucy White</unittitle>
+            <unitdate normal="1871/1897" type="inclusive">1871-1897</unitdate>
+            <container id="aspace_d8a7c0ab42e7fe6471587528112786e9" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_7763341c693e9163d4c889a87757c3d2" parent="aspace_d8a7c0ab42e7fe6471587528112786e9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref228_g43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Harrigan Family</unittitle>
+            <unitdate normal="1882/1917" type="inclusive">1882, 1917</unitdate>
+            <container id="aspace_421d7c5b666e639b1140d350998f9d5a" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_32428e77cfcc6421212b01e882c2cb69" parent="aspace_421d7c5b666e639b1140d350998f9d5a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref229_gk7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Healy, George</unittitle>
+            <unitdate normal="1835/1836" type="inclusive">1835-1836</unitdate>
+            <container id="aspace_c498705d8d4f056fac0bc36a8f12ae27" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_00d5beece198f3d7e320a9458b0a867a" parent="aspace_c498705d8d4f056fac0bc36a8f12ae27" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref230_jvl" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Heiser, Leonard K.</unittitle>
+            <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+            <container id="aspace_d2e00404e9215ea42d9c2fe0ded8595f" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_bfa9e1fb1d8e67a12a40479382aa61d9" parent="aspace_d2e00404e9215ea42d9c2fe0ded8595f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref231_xkt" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jackson Family</unittitle>
+            <unitdate normal="1791/1810" type="inclusive">1791-1810</unitdate>
+            <container id="aspace_67e3c94f25188ae1f42d6a8f29e62d6a" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_a4bae34d542ebb6049c616706803736c" parent="aspace_67e3c94f25188ae1f42d6a8f29e62d6a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref232_2ra" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kellogg, Alvan</unittitle>
+            <unitdate normal="1838/1838" type="inclusive">1838</unitdate>
+            <container id="aspace_40da33ac45d151d6104aaf236d782cff" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_c800e6256733526b2bc8e21ab8615738" parent="aspace_40da33ac45d151d6104aaf236d782cff" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref233_9wn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kellogg, Day Otis</unittitle>
+            <unitdate normal="1832/1842" type="inclusive">1832-1842</unitdate>
+            <container id="aspace_0df2abab13f49b58268716f0e361d769" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_e3261b54c923713058cd1040bc55fe2d" parent="aspace_0df2abab13f49b58268716f0e361d769" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref234_w71" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kellogg, Frederick Snow</unittitle>
+            <unitdate normal="1890/1899" type="inclusive">1890-1899</unitdate>
+            <container id="aspace_39415db1596b628aebdca94a1a575ba3" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_7eb2943f3240ef913ddcc362cee072ce" parent="aspace_39415db1596b628aebdca94a1a575ba3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref235_urm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kellogg, Israel Phelps</unittitle>
+            <unitdate normal="1877/1882" type="inclusive">1877-1882</unitdate>
+            <container id="aspace_de2f34315aa37deeb67863f8bfb4bb8d" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_467cb21fd1c15616147ee1c81728d57e" parent="aspace_de2f34315aa37deeb67863f8bfb4bb8d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref236_1yl" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>John P. Kellogg and Company</unittitle>
+            <unitdate normal="1859/1866" type="inclusive">1859-1866</unitdate>
+            <container id="aspace_f9af6e915b92744cf3ff8dc7831d3939" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_16168674ff54d7de330b4ab8c19c688e" parent="aspace_f9af6e915b92744cf3ff8dc7831d3939" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref237_ebw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Perine Family</unittitle>
+            <unitdate normal="1836/1882" type="inclusive">1836-1882</unitdate>
+            <container id="aspace_e69b1d1f0e2879408620aa3b73f1add0" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_ba2b426ae2313a294451a7a93ff8ed18" parent="aspace_e69b1d1f0e2879408620aa3b73f1add0" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref238_0x1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Snow, Rueben Griswold</unittitle>
+            <unitdate normal="1869/1869" type="inclusive">1869</unitdate>
+            <container id="aspace_bf33522aff648f294f233fb3f7cf3850" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_5879fc9146e969b17ee6c1ae29e3803e" parent="aspace_bf33522aff648f294f233fb3f7cf3850" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref239_h0h" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Snow, George and Marie</unittitle>
+            <unitdate normal="1896/1923" type="inclusive">1896-1923</unitdate>
+            <container id="aspace_980630589c9791ddb75727d67152e866" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_e28610c7f76070f38e5c677b5404bdcb" parent="aspace_980630589c9791ddb75727d67152e866" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref240_dsw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>White Family</unittitle>
+            <unitdate normal="1749/1863" type="inclusive">1749-1863</unitdate>
+            <container id="aspace_0b9e5fa29b2d8bc259614d99b5fa1e5d" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_7dcf757946e062618eaf68c1a31acf45" parent="aspace_0b9e5fa29b2d8bc259614d99b5fa1e5d" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref241_4o5" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Phelps, Annie B.</unittitle>
+            <unitdate normal="1874/1875" type="inclusive">1874-1875</unitdate>
+            <container id="aspace_78435c752be0ee4bb3efdd63054b976e" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_890e1cf8281c6e64dd6cd532740ccb39" parent="aspace_78435c752be0ee4bb3efdd63054b976e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref242_6xw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Richards Family and Snyder Family</unittitle>
+            <unitdate normal="1880/1880" type="inclusive">1880</unitdate>
+            <container id="aspace_a9dd8beae78c6cb0aae513e941ce9485" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_deffe678fdbddf61fdddb3fc71982866" parent="aspace_a9dd8beae78c6cb0aae513e941ce9485" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref243_pxb" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Spear, Laura (Ollie) D. Comstock and Nathan</unittitle>
+            <unitdate normal="1877/1906" type="inclusive">1877-1906</unitdate>
+            <container id="aspace_a5860719129b2989b285b7ea2e39842a" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_eeabfb8c200e03611e7567e0acd1d2f4" parent="aspace_a5860719129b2989b285b7ea2e39842a" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref244_fbn" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Wood, Fleda Perine</unittitle>
+            <unitdate normal="1875/1876" type="inclusive">1875-1876</unitdate>
+            <container id="aspace_2f982be1b6ae992fe9eca65ee01e7a76" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_3f7554a5cd713a39fdbe976f4c990e8a" parent="aspace_2f982be1b6ae992fe9eca65ee01e7a76" type="Folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref245_wsd" level="series">
+        <did>
+          <unittitle>Box 20: Medical Clairvoyents and Spiritualists, A-Z, Correspondence; Misc. Correspondents, A-F, Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref246_1ge" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Adams, Evangeline S.</unittitle>
+            <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
+            <container id="aspace_3d2fc495f7a64ff83d779b474a748686" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_6e5a28523d548e1d8ec831003c1bfdee" parent="aspace_3d2fc495f7a64ff83d779b474a748686" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref247_8is" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Campbell, Lily</unittitle>
+            <unitdate normal="1889/1889" type="inclusive">1889</unitdate>
+            <container id="aspace_3d80e8cf7814f8a5225dbbca3c761f34" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_20be61efcaa234dca9005a1c0501514e" parent="aspace_3d80e8cf7814f8a5225dbbca3c761f34" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref248_7mx" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Danskin, Sarah A.</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_e2edfcd108ca16c858e487db92ea830a" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_a234c693f080a4b0ef7c4fd6b5a65dbf" parent="aspace_e2edfcd108ca16c858e487db92ea830a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref249_mm9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mettler, J. R. and Samantha</unittitle>
+            <unitdate normal="1857/1896" type="inclusive">1857-1896</unitdate>
+            <container id="aspace_5feff8aea5b1100e53c8ac08f97cb938" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_e27f119f13b030de4a5828dafc3ca610" parent="aspace_5feff8aea5b1100e53c8ac08f97cb938" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref250_3r6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mosley, J. H.</unittitle>
+            <unitdate normal="1880/1880" type="inclusive">1880</unitdate>
+            <container id="aspace_36b0820e345b1e321d0b7d3fbdcd0f94" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_a22125f3cd25378054323b031da26854" parent="aspace_36b0820e345b1e321d0b7d3fbdcd0f94" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref251_78c" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newton, J. R.</unittitle>
+            <unitdate normal="1869/1883" type="inclusive">1869-1883</unitdate>
+            <container id="aspace_82d2510c5a758ca9b9113689f978585f" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_44172e03fa68106f63c29a1308c57318" parent="aspace_82d2510c5a758ca9b9113689f978585f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref252_vh3" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Perkins, Isaac C.</unittitle>
+            <unitdate normal="1883/1886" type="inclusive">1883-1886</unitdate>
+            <container id="aspace_6391641060166716e7cc4216146fd751" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_7c290b50ab8bbeb5ae6ea5e60d9081da" parent="aspace_6391641060166716e7cc4216146fd751" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref253_u4l" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Salisbury, J. H.</unittitle>
+            <unitdate normal="1872/1885" type="inclusive">1872-1885</unitdate>
+            <container id="aspace_d7625475ef2bcc909df7788fd96582cf" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_4d84a578ff4c9b112dbd893507ee2cc4" parent="aspace_d7625475ef2bcc909df7788fd96582cf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref254_19i" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sizer, Nelson</unittitle>
+            <unitdate normal="1865/1896" type="inclusive">1865-1866, 1896</unitdate>
+            <container id="aspace_8010b63a2b0b9f58044a2078d988504a" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_7095b080d07623b8fd149a646f7756e2" parent="aspace_8010b63a2b0b9f58044a2078d988504a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref255_sf0" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Stephens, Mary J.</unittitle>
+            <unitdate normal="1906/1911" type="inclusive">1906-1911</unitdate>
+            <container id="aspace_3c3419f9913244ed32812e6b36babeb0" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_cedcdfc7224e65b6b541ba360562569c" parent="aspace_3c3419f9913244ed32812e6b36babeb0" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref256_4wf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Stephenson, Matthew</unittitle>
+            <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+            <container id="aspace_d3c26fc3cc18562b5aa030120a827000" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_b6da5219e45d20ae6435bdb056ff81e0" parent="aspace_d3c26fc3cc18562b5aa030120a827000" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref257_7wf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Thrall, Flavia A.</unittitle>
+            <unitdate normal="1889/1890" type="inclusive">1889-1890</unitdate>
+            <container id="aspace_4a3d52ab60299c925d603216ce631e5e" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_eb8fdc49455b47d53df1a4124cad6d8f" parent="aspace_4a3d52ab60299c925d603216ce631e5e" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref258_8tm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Walling, M. L.</unittitle>
+            <unitdate normal="1907/1907" type="inclusive">1907</unitdate>
+            <container id="aspace_9af13d273c2134e57d69ba5195708cc4" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_a75713c0dfe970972f6c4f8578228637" parent="aspace_9af13d273c2134e57d69ba5195708cc4" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref259_lsm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>White, F. Gordon</unittitle>
+            <unitdate normal="1904/1904" type="inclusive">1904</unitdate>
+            <container id="aspace_4559894480eb2da032c5d225cce7b5b1" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_ff10aa76e8f19c7158b1c08683bd63a4" parent="aspace_4559894480eb2da032c5d225cce7b5b1" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref260_5gk" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Medical Clairvoyants and Spiritualists: Miscellaneous</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_e2de2e9e5923274578c1ca3559fc6960" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_433b9983d7c25294510d3b6b83fc2c07" parent="aspace_e2de2e9e5923274578c1ca3559fc6960" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref261_1ir" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Belloc, Hilaire and Elodie</unittitle>
+            <unitdate normal="1896/1914" type="inclusive">1896-1914</unitdate>
+            <container id="aspace_52c0e8e3db4b3529187ad708607c6fd4" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_e82ee29629af3aa8fd3df658dae7432f" parent="aspace_52c0e8e3db4b3529187ad708607c6fd4" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref262_7s1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dague Family</unittitle>
+            <unitdate normal="1890/1946" type="inclusive">1890-1946</unitdate>
+            <container id="aspace_c40997b4c1ed2f6908c8b74173f9e582" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_7a9b7e597c8ba36b58f6c97fe0b3fec4" parent="aspace_c40997b4c1ed2f6908c8b74173f9e582" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref263_cbd" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fairbanks, Mary M.</unittitle>
+            <unitdate normal="1866/1867" type="inclusive">1866-1867</unitdate>
+            <container id="aspace_1373f302bb313517d50ab810104c4256" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_a76d4af845c2415634f658e38c357203" parent="aspace_1373f302bb313517d50ab810104c4256" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref264_g7c" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Folan, John</unittitle>
+            <unitdate normal="1900/1917" type="inclusive">1900-1917</unitdate>
+            <container id="aspace_268ba4d1a68fa3d632ef70475c6c26d5" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_29f774787940caa65bfe53cf8ff3ff27" parent="aspace_268ba4d1a68fa3d632ef70475c6c26d5" type="Folder">19</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref265_rnd" level="series">
+        <did>
+          <unittitle>Box 21: Misc. Correspondents, G-V: Correspondence; Britton, Campbell, White, Comstock, Jackson Families: Genealogical Material</unittitle>
+        </did>
+        <c id="aspace_ref266_ymx" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Hogarth, Georgina</unittitle>
+            <unitdate normal="1886/1905" type="inclusive">1886-1905</unitdate>
+            <container id="aspace_e1452eed9d333b14f1d0b3de35076fdc" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_e67dd3f9c6e5d7c8c967d75b41c1fef7" parent="aspace_e1452eed9d333b14f1d0b3de35076fdc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref267_6vo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Neuman, Louise M.</unittitle>
+            <unitdate normal="1869/1876" type="inclusive">1869-1876</unitdate>
+            <container id="aspace_3a6c70fab79a411e9bf11277e560dffa" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_ee35a72c0cacab7907cba47164596984" parent="aspace_3a6c70fab79a411e9bf11277e560dffa" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref268_g74" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ransome, George D. C.</unittitle>
+            <unitdate normal="1862/1882" type="inclusive">1862-1882</unitdate>
+            <container id="aspace_aa913a642894fdf0fb5d7c55a04902d4" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_d37cd0f5e25846cdf26520d13e8d348e" parent="aspace_aa913a642894fdf0fb5d7c55a04902d4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref269_m4n" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Stephens, Lillian</unittitle>
+            <unitdate normal="1874/1886" type="inclusive">1874-1886, undated</unitdate>
+            <container id="aspace_45a5f6795a0e13e54f7e78f3a0282013" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_a264b5e3c910b4eccc407c5188bca69e" parent="aspace_45a5f6795a0e13e54f7e78f3a0282013" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref270_8vf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Turk, J. C.</unittitle>
+            <unitdate normal="1887/1931" type="inclusive">1887, 1930-1931</unitdate>
+            <container id="aspace_72470fed1855e16a9f11804e1ce096d3" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_2e9c25a264bfdde68642766dea5cb0cd" parent="aspace_72470fed1855e16a9f11804e1ce096d3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref271_1ro" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Upham Family</unittitle>
+            <unitdate normal="1866/1876" type="inclusive">1876, 1915</unitdate>
+            <container id="aspace_340206a79ee08b5f8d71738f72608947" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_22a6ce34102635950a9bc299768a117c" parent="aspace_340206a79ee08b5f8d71738f72608947" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref272_qz4" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Yates, Frank</unittitle>
+            <unitdate normal="1862/1913" type="inclusive">1862-1913</unitdate>
+            <container id="aspace_3c31f1c37bd0513d49fd4a5cfd7746a4" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_544aafef9a0f371970c841fee4f9f060" parent="aspace_3c31f1c37bd0513d49fd4a5cfd7746a4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref273_icr" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Britton, Campbell, White Families</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_55a7519015c8f068c02023d2b49940cd" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_664ef10ddc6e9ff1a218f17ee26270c4" parent="aspace_55a7519015c8f068c02023d2b49940cd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref274_bpw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Britton, Campbell, White Families</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_de5563ad076fdcf0335b70814231616b" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_48c9a0cb5ece073287fb2bd0657925a1" parent="aspace_de5563ad076fdcf0335b70814231616b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref275_jqt" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Comstock, Jackson Families</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_6c89479bb88936b77adaed4050b3448a" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_fe33975ca6248c6c8461538a4b7be702" parent="aspace_6c89479bb88936b77adaed4050b3448a" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref276_sea" level="series">
+        <did>
+          <unittitle>Box 22: Comstock, Jackson, Freeman, Kellogg, Snow and Other Families: Genealogical Material</unittitle>
+        </did>
+        <c id="aspace_ref277_zw2" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Comstock, Jackson Families</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_e206d9aa8c80ca8e5f5f81410f506371" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_a0654ab4e9cd5ec65c1d0ead34962920" parent="aspace_e206d9aa8c80ca8e5f5f81410f506371" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref278_bp6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Kellogg, Freeman Families</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_ea6ba7f02f72eb68402c1b2da65603ee" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_f181cd482f67842d9f750187059496c2" parent="aspace_ea6ba7f02f72eb68402c1b2da65603ee" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref279_15z" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Snow Family</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_844adba8b8332b1ca2d1e3968fdf82ff" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_2e13dc3dff9abdc60518db4f2d1c3a4b" parent="aspace_844adba8b8332b1ca2d1e3968fdf82ff" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref280_cae" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Kellogg, Freeman Families</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_7d2bf5f6c73b21db0bc493976765fe56" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_4378908d821c0ec6e2b985e2e76eecb9" parent="aspace_7d2bf5f6c73b21db0bc493976765fe56" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref281_bhw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Babcock Family</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_70a5ca2dec4796235cb609d097da2921" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_199e4a9ac544cceb9a471d2c7b29d14f" parent="aspace_70a5ca2dec4796235cb609d097da2921" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref282_d4l" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Brewster Family</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_a3d127bd1043fa1b77fabf5456517a02" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_04675c746af9608be5a1b5193038a900" parent="aspace_a3d127bd1043fa1b77fabf5456517a02" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref283_lhz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Burwell Family</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_0583deea161e650629f9a7b387abeeac" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_3c5f1bc322a51b9e0a2aebcdee5841a5" parent="aspace_0583deea161e650629f9a7b387abeeac" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref284_rxa" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Griswold Family</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_39928038845ba00824fe1a3c5f20aecb" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_a30e6e9e800d618f1db117066716dd59" parent="aspace_39928038845ba00824fe1a3c5f20aecb" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref285_7xx" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Miscellaneous</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_f794b2bb865b55db4299dabf1f206410" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_62290af3ab9582297216dc5a9b1a273b" parent="aspace_f794b2bb865b55db4299dabf1f206410" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref286_98f" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Phelps Family</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_098695b090bdf8ab97ba63aa358e74af" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_5d355e1c7b50fcfb05253ba9225b1dea" parent="aspace_098695b090bdf8ab97ba63aa358e74af" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref287_4vz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Stebbins Family</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_10b36fa37b8aaa3a78dbdb0100dea3a7" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_b929f9ec561d980101075b073f08f21e" parent="aspace_10b36fa37b8aaa3a78dbdb0100dea3a7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref288_5ih" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Genealogical Material: Turner Family</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_9749252e0cb4c042cfa9d49a64b0c42a" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_96c224ef47fcec9ffe41f8856fc2423b" parent="aspace_9749252e0cb4c042cfa9d49a64b0c42a" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref289_szo" level="series">
+        <did>
+          <unittitle>Box 23: Kellogg Family- Legal and Business Papers</unittitle>
+        </did>
+        <c id="aspace_ref290_bbz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Stock Transactions</unittitle>
+            <unitdate normal="1897/1936" type="inclusive">1897-1936</unitdate>
+            <container id="aspace_aea1bc0be1489ec78351652922db9882" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_d96dbc0e75fd7780255d8b96002a9d43" parent="aspace_aea1bc0be1489ec78351652922db9882" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref291_gm1" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Property</unittitle>
+            <unitdate normal="1826/1940" type="inclusive">1826-1940</unitdate>
+            <container id="aspace_256144ad6401c6fde7b1d47ec5f43487" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_fca95026d672d03f5165a0ac5918e615" parent="aspace_256144ad6401c6fde7b1d47ec5f43487" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref292_he5" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Inventories</unittitle>
+            <unitdate normal="1840/1906" type="inclusive">1840-1906</unitdate>
+            <container id="aspace_f657678cfb07ffc6e7a5455268944d23" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_5560ac4bc870b21cfb3ebdcd341a9d79" parent="aspace_f657678cfb07ffc6e7a5455268944d23" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref293_1gb" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miscellaneous Papers</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_085e65bd5dbc7818e09521f5dd774586" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_8c1fb1b2f5fb15269cc817c13a1e4d8b" parent="aspace_085e65bd5dbc7818e09521f5dd774586" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref294_kom" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bills and Receipts</unittitle>
+            <unitdate normal="1836/1866" type="inclusive">1836-1866</unitdate>
+            <container id="aspace_9fce47a3ffc205afcfb5c003f257776f" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_f64dd2e13582cfa5fe5d7205aa00d24e" parent="aspace_9fce47a3ffc205afcfb5c003f257776f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref295_6cf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bills and Receipts: Remodeling the Port Kent House</unittitle>
+            <unitdate normal="1892/1893" type="inclusive">1892-1893</unitdate>
+            <container id="aspace_858881b8f039ac2695fb265eea5d12b6" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_8be928da9ce8e7927f202c9d2ad4ba54" parent="aspace_858881b8f039ac2695fb265eea5d12b6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref296_y5b" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bills and Receipts</unittitle>
+            <unitdate normal="1897/1898" type="inclusive">1897-1898</unitdate>
+            <container id="aspace_1496b59364f6bd60a34145a77875d06f" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_84f9eeba4ee9106873f79cc04854a407" parent="aspace_1496b59364f6bd60a34145a77875d06f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref297_6q7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bills and Receipts</unittitle>
+            <unitdate normal="1907/1918" type="inclusive">1907-1918</unitdate>
+            <container id="aspace_7fa91b2991cd2a0f43327afc6ed41d0c" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_49c66977b1015f7aed7829dee6db7b96" parent="aspace_7fa91b2991cd2a0f43327afc6ed41d0c" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref298_btf" level="series">
+        <did>
+          <unittitle>Box 24: Kellogg Family- Bills and Receipts</unittitle>
+        </did>
+        <c id="aspace_ref299_8u3" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bills and Receipts</unittitle>
+            <unitdate normal="1870/1920" type="inclusive">[1870-1920]</unitdate>
+            <container id="aspace_8e3d582ae29c08cd76ec68cf7f2f85a1" label="Mixed Materials" type="Box">24</container>
+            <container id="aspace_865a8acc216c460b6db4d12c782aef7d" parent="aspace_8e3d582ae29c08cd76ec68cf7f2f85a1" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref300_t96" level="series">
+        <did>
+          <unittitle>Box 25: Kellogg Family- Bills and Receipts, and Grocer Account Books</unittitle>
+        </did>
+        <c id="aspace_ref301_os6" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bills and Receipts, and Grocer Account Books</unittitle>
+            <unitdate normal="1875/1905" type="inclusive">[1875-1905]</unitdate>
+            <container id="aspace_6b3e2c2858b5d326fb37b2369aebcba0" label="Mixed Materials" type="Box">24</container>
+            <container id="aspace_2971218ce9bb0c4af0d83b2b661261e3" parent="aspace_6b3e2c2858b5d326fb37b2369aebcba0" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref302_o51" level="series">
+        <did>
+          <unittitle>Box 26: Kellogg Family- Books and Printed Matter</unittitle>
+        </did>
+        <c id="aspace_ref303_eji" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Maps (Loose)</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_88abd58fc99f38169275c148b3ca5244" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_03df78381cb483c53455bb07765275b9" parent="aspace_88abd58fc99f38169275c148b3ca5244" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref304_zbd" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>A Certificate of "The Order of the Founders and Patriots of America"</unittitle>
+            <unitdate normal="1896/1896" type="inclusive">1896</unitdate>
+            <container id="aspace_e47e1e51836bc97d854371ee72926df9" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_393ceb0952e1d050d684ef8ee09d6b91" parent="aspace_e47e1e51836bc97d854371ee72926df9" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref305_01n" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Invitation to the Opening Ceremonies of "the New York and Brooklyn Bridge"</unittitle>
+            <unitdate>1883 May 24</unitdate>
+            <container id="aspace_a02bd7778e950fff8b82c0641e96e2da" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_ca182679372d689b61404efacaef32a5" parent="aspace_a02bd7778e950fff8b82c0641e96e2da" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref306_58g" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Address of Welcome to the Charter Associates of the Order of the Founders and Patriots of America"</unittitle>
+            <unitdate>1896 Apr.17</unitdate>
+            <container id="aspace_f1170a6996356b7923f265423008fd57" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_78ac0419b4ee54ba45939cd56d50411b" parent="aspace_f1170a6996356b7923f265423008fd57" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref307_f5x" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"A Natural History of the New-York Corn Exchange"</unittitle>
+            <unitdate normal="1875/1875" type="inclusive">1875</unitdate>
+            <container id="aspace_3bb26a1a3725efd5eed4f691039c6245" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_ef87209b7c62995f4d04e825b0a81cbf" parent="aspace_3bb26a1a3725efd5eed4f691039c6245" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref308_bqc" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"The Chinese Theatre"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_247a1cfb80e6db0ad4cd63d844b96ab4" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_7f55d3c319bf6396a2906bb4ca3ac49e" parent="aspace_247a1cfb80e6db0ad4cd63d844b96ab4" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref309_qfp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"The Piano-forte Primer" (Julia Snow Kellogg's)</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_fbf9c2fbb6a3ca52b49c2c191dc4f0e9" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_a4e5c6fe3d58dbffb90c0fd50232ded4" parent="aspace_fbf9c2fbb6a3ca52b49c2c191dc4f0e9" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref310_hwi" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Souvenir of Becket by Alfred, Lord Tennyson"</unittitle>
+            <unitdate>1893 Feb.6</unitdate>
+            <container id="aspace_15b60e8cee55e2569de5b59893273d31" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_4c46d2d21e73d51bad95905a47ae227d" parent="aspace_15b60e8cee55e2569de5b59893273d31" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref311_zyz" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Souvenir of Shakespeare's King Henry the Eighth"</unittitle>
+            <unitdate>1892 Jan.5</unitdate>
+            <container id="aspace_9fb7380a4bf703a74f9c2cec9e4a8f8f" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_8d63e0ddec849640bc124697e4d92365" parent="aspace_9fb7380a4bf703a74f9c2cec9e4a8f8f" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref312_gso" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Souvenir of King Lear"</unittitle>
+            <unitdate>1892 Nov.10</unitdate>
+            <container id="aspace_bd46f13e980a6221ad3647cc4d85ed07" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_fa01bfbe01d1041d8d686e68bec628e4" parent="aspace_bd46f13e980a6221ad3647cc4d85ed07" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref313_ok0" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"New York &amp; Brooklyn Bridge and Brooklyn City"</unittitle>
+            <unitdate normal="1883/1883" type="inclusive">1883</unitdate>
+            <container id="aspace_ba30ae7cf63903d9fa6e7fb9169c8cc1" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_6369416054978bf9946bdfd41900e794" parent="aspace_ba30ae7cf63903d9fa6e7fb9169c8cc1" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref314_wbp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Notebook: "Nutcracker and Sugardolly by F. Kellogg"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_2b85a42d91398e899f6d7f32f2412c02" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_4a0ba836cd4eb2b575503a8dab9a93f8" parent="aspace_2b85a42d91398e899f6d7f32f2412c02" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref315_baf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Autobiography of Joseph Jefferson" (serialized in "The Century Magazine")</unittitle>
+            <unitdate>1889 Nov.- 1890 Oct.</unitdate>
+            <container id="aspace_7b7439f0405e2c2f3e140afbd6ede500" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_a31b2e3ba987c6a2c54039e609131b66" parent="aspace_7b7439f0405e2c2f3e140afbd6ede500" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref316_4r2" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"A True Copy of the Constitution of the United States"</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">[1948]</unitdate>
+            <container id="aspace_e1bed20bcd0e93f04a9765de5338f80c" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_2aca82dc5c16528b10d4c1b6423d9578" parent="aspace_e1bed20bcd0e93f04a9765de5338f80c" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref317_3fm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Bacon Versus Shakespeare; A Plea for the Defendant" by Thos. D. King (Presented to Gertrude Kellogg Nov.1877)</unittitle>
+            <unitdate normal="1875/1875" type="inclusive">1875</unitdate>
+            <container id="aspace_e82c9b9f276244c669777af002815a11" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_b44ca3ff1d33f58088d7a13bc03d9e54" parent="aspace_e82c9b9f276244c669777af002815a11" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref318_7w0" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Grandmother Comstock's Singing Book"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_457504e3f01205927366147055a57aa8" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_b2682120144f83baca8d942a7396df8e" parent="aspace_457504e3f01205927366147055a57aa8" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref319_15p" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Historical Map of the War of the Rebellion April 1861 to April 1865"</unittitle>
+            <unitdate>1861 Apr.-1865 Apr.</unitdate>
+            <container id="aspace_e1f832126f6135cd8986eadb421d48ba" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_b8f94eae955a4fd03bb4590d8440ac99" parent="aspace_e1f832126f6135cd8986eadb421d48ba" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref320_81x" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Book of Clippings" from Laura Comstock Dec. 25, 1921</unittitle>
+            <unitdate>1921 Dec.25</unitdate>
+            <container id="aspace_c93c5e419e39334ba404322339c8c2b1" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_3ff361dec559a740a581c29f66205f55" parent="aspace_c93c5e419e39334ba404322339c8c2b1" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref321_6oq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Guests" (Guest Book)</unittitle>
+            <unitdate normal="1899/1946" type="inclusive">1899-1946</unitdate>
+            <container id="aspace_51281503f418a62cfd5b57279a490529" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_593bf4661825d22363125b65363a8b11" parent="aspace_51281503f418a62cfd5b57279a490529" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref322_onq" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Frank Leslie's Popular Monthly", Vol.24</unittitle>
+            <unitdate>1887 Aug.</unitdate>
+            <container id="aspace_4c839fddaa5f34f98f6b32e9021242ff" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_cf7c9611817660eec903e627116dcd25" parent="aspace_4c839fddaa5f34f98f6b32e9021242ff" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref323_el0" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Autobiography of George Burwell Snow, D. D. S."</unittitle>
+            <unitdate>1923 May</unitdate>
+            <container id="aspace_c2f07ab942b24067f1adf0d756827521" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_4fd6b3bb4c3217499b1bbb1c8fe2bb72" parent="aspace_c2f07ab942b24067f1adf0d756827521" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref324_d1q" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Album" (Newspaper Clippings)</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_70ad5090808e4f99cbb3b9012ecbe39f" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_e022ffc74de995b036f7b1d68cfafb40" parent="aspace_70ad5090808e4f99cbb3b9012ecbe39f" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref325_2ek" level="series">
+        <did>
+          <unittitle>Box 27: Kellogg Family- Books</unittitle>
+        </did>
+        <c id="aspace_ref326_ltb" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"The Holiday" by Joseph Allen D. D., Kellogg Library</unittitle>
+            <unitdate normal="1847/1847" type="inclusive">[1847]</unitdate>
+            <container id="aspace_839f6033bbd1a176e5cd6972fb4a1420" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_365cc27b7c4c9dd46aebbae8681fc395" parent="aspace_839f6033bbd1a176e5cd6972fb4a1420" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref327_ju8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"The Lu Lu Alphabet" (Fanny Kellogg Jan. 26, 1853)</unittitle>
+            <unitdate normal="1852/1852" type="inclusive">1852</unitdate>
+            <container id="aspace_a552c492b95a24ef940c71970dc40c50" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_98298c4cafabdb91c60fd593119e0958" parent="aspace_a552c492b95a24ef940c71970dc40c50" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref328_64h" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Cousin Lucy At Study" by Jacob Abbott, Kellogg Library</unittitle>
+            <unitdate normal="1849/1849" type="inclusive">1849</unitdate>
+            <container id="aspace_affa432f8067b6a9b65472e77321f3a0" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_982ce3297cb35458b72ec0a3c2887277" parent="aspace_affa432f8067b6a9b65472e77321f3a0" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref329_vr8" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Any Thing for Sport" by Mrs. L C. Tuthill, Kellogg Library</unittitle>
+            <unitdate normal="1847/1847" type="inclusive">1847</unitdate>
+            <container id="aspace_d549fcbe468511672ce90c9d6d35ebbb" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_f833f04d8b30d2bac4178c807664d160" parent="aspace_d549fcbe468511672ce90c9d6d35ebbb" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref330_b03" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Lucy's Conversations" by Jacob Abbott, Kellogg Library</unittitle>
+            <unitdate normal="1866/1866" type="inclusive">1866</unitdate>
+            <container id="aspace_92661ec275d3145f656dd0501fdd0e30" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_c1435b84e2f7f381264780959e8d04ac" parent="aspace_92661ec275d3145f656dd0501fdd0e30" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref331_xtm" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Lucy Among the Mountains" by Jacob Abbott, Kellogg Library</unittitle>
+            <unitdate normal="1854/1854" type="inclusive">1854</unitdate>
+            <container id="aspace_f6c944dcf09201cda5f17e656cb8c7b7" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_c0198b8efb9ee2bc298126d3daf2e5ef" parent="aspace_f6c944dcf09201cda5f17e656cb8c7b7" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref332_1bf" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Lucy At Play" by Jacob Abbott, Kellogg Library</unittitle>
+            <unitdate normal="1849/1849" type="inclusive">1849</unitdate>
+            <container id="aspace_0e6d2f7c01f0f6af1bc74ae16510e0c6" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_27c3d04896f50b16526e988f1ecbb765" parent="aspace_0e6d2f7c01f0f6af1bc74ae16510e0c6" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref333_6bo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Troublesome Tom" by Mrs. Sherwood, Kellogg Library</unittitle>
+            <unitdate normal="1847/1847" type="inclusive">1847</unitdate>
+            <container id="aspace_0ec0121334d86d825dd06436069df1de" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_f84c7f5299ec9c516ba8bed261d2d80b" parent="aspace_0ec0121334d86d825dd06436069df1de" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref334_cvi" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Little Lessons for Little Learners" by Mrs. Barwell</unittitle>
+            <unitdate normal="1854/1854" type="inclusive">1854</unitdate>
+            <container id="aspace_0a549f0855c6c5468eca76bc27f0d022" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_a427616ae244972d2927c7f1ce85903f" parent="aspace_0a549f0855c6c5468eca76bc27f0d022" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref335_pjt" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Frank and Fanny" by Clara Moreton</unittitle>
+            <unitdate normal="1859/1859" type="inclusive">[1859]</unitdate>
+            <container id="aspace_619e4ccf088add6a5e59b09d0f35aea6" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_4d607694f7934b5b021b5657e98dc129" parent="aspace_619e4ccf088add6a5e59b09d0f35aea6" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref336_zu7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"The Play-Day Book: New Stories for Little Folks, by Fanny Fern"</unittitle>
+            <unitdate normal="1857/1857" type="inclusive">1857</unitdate>
+            <container id="aspace_34c03f27973e0780214633709fff3c25" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_a37997f0218ef351feefcd74fc4ce656" parent="aspace_34c03f27973e0780214633709fff3c25" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref337_a26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Pictorial First Book for Little Boys and Girls" (Fanny Kellogg Nov. 17, 1855)</unittitle>
+            <unitdate normal="1855/1855" type="inclusive">[1855]</unitdate>
+            <container id="aspace_4154ad5dafee10b3f881d02bff0a6ec6" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_6e6a861fdf1a96d7d75e34a76ac45b7e" parent="aspace_4154ad5dafee10b3f881d02bff0a6ec6" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref338_xu9" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Eleazer Williams, A Lecture" ( Read before the Chicago Historical Society Dec. 4, 1902)</unittitle>
+            <unitdate>1902 Dec. 4</unitdate>
+            <container id="aspace_268e2ef518e67a00948c86a2c1738b59" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_4b1d44dc4e73a46c5d2571b1cfeb0f3c" parent="aspace_268e2ef518e67a00948c86a2c1738b59" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref339_n62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Leo Ross's Readings, No. 7, Mr. J. M. Bellew's Readings"</unittitle>
+            <unitdate normal="1879/1879" type="inclusive">1879</unitdate>
+            <container id="aspace_e4fd13d6e656c0afc6572811bb3a532b" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_db78983e691873e631c89bcaa1d83aa2" parent="aspace_e4fd13d6e656c0afc6572811bb3a532b" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref340_y0p" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Edwin Booth's Prompt-Book of The Merchant of Venice, and Katharine and Petruchicio" (William Winter, ed.)</unittitle>
+            <unitdate normal="1881/1881" type="inclusive">1881</unitdate>
+            <container id="aspace_b265e005bdff2808b0f0505972a38786" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_5f8d5a167d0864987d9056460f29424b" parent="aspace_b265e005bdff2808b0f0505972a38786" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref341_4r7" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Out of an Horrible Pit, by T. J. Barnardo, F.R.C.S.E."</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_564acc93a5fbffcb6c445c68b81f089a" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_6c2edc218354847615d75956561b716e" parent="aspace_564acc93a5fbffcb6c445c68b81f089a" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref342_qa3" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"One Hundred Choice Selections for Readings and Recitations, No. 20"</unittitle>
+            <unitdate normal="1881/1881" type="inclusive">1881</unitdate>
+            <container id="aspace_7c7410e1a62f7853b77c8716e1cf47ec" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_24c37b93f7012ae3a990b8f8897ab45c" parent="aspace_7c7410e1a62f7853b77c8716e1cf47ec" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref343_tcg" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Edwin Booth's Prompt-Book of Hamlet" (William Winter, ed.)</unittitle>
+            <unitdate normal="1878/1878" type="inclusive">[1878]</unitdate>
+            <container id="aspace_3db8b908aed5f6aefa658c02c17892da" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_0d158d002ec9223ae89d6d457b1a4b50" parent="aspace_3db8b908aed5f6aefa658c02c17892da" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref344_6ep" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Lacy's Acting Edition, Child of the Regiment"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_dd4a0e8755c984fe1157a31c6dd9943b" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_8143fe31d3718f4883bfb0e5aa8a29ca" parent="aspace_dd4a0e8755c984fe1157a31c6dd9943b" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref345_sha" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Sensation Novels, Condensed."</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_59cb090a0830222a2908bb34dbbe5291" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_2b17465c4d90cfa0e57052a9b810e335" parent="aspace_59cb090a0830222a2908bb34dbbe5291" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref346_7xs" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Camille"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_4bc2b12efa701846fa0a974c6215dd54" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_fffc4e64911ac8c2003596bd1e95a2c1" parent="aspace_4bc2b12efa701846fa0a974c6215dd54" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref347_tgr" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"The Follies of a Night, by J. R. Planche"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_931532ec8d7e48d34e5df06f6860f9e5" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_01251dfe5182fa1b088f7f186d179d4c" parent="aspace_931532ec8d7e48d34e5df06f6860f9e5" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref348_xwg" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"A Pretty Piece of Business, by Thomas Morton"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_a726e699e5e0b744b5d83d62182d4d07" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_1de9fd00fdf3cfac1f68dee28488ef5b" parent="aspace_a726e699e5e0b744b5d83d62182d4d07" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref349_yls" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"The Two Bonnycastles, by John Maddison Morton"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_2ddb835e9e916e5cd7e4bab55207e757" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_ae5942bc6af726d85b89bd57ef113a0d" parent="aspace_2ddb835e9e916e5cd7e4bab55207e757" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref350_caj" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Pure Gold, by Westland Marston, Esq."</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_d46c1b791d33843747c54891f2437516" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_91138aae22a94132370108cb94fd68e1" parent="aspace_d46c1b791d33843747c54891f2437516" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref351_9rs" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"Pygmalion and Galatea, by W. S. Gilbert"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_42e765f02dfee41a3f4c5469e721280e" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_a57d4f0bbbbfd2f566178834174d0f40" parent="aspace_42e765f02dfee41a3f4c5469e721280e" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref352_xvc" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"The Amateur Drama, Down by the Sea"</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_0d399bd80a03d5b9ad4b1f76369dc6a6" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_35104fef9318b3968e49215d9d21dc09" parent="aspace_0d399bd80a03d5b9ad4b1f76369dc6a6" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref353_w8t" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>"A Family Strike," by T. S. Denison</unittitle>
+            <unitdate normal="1877/1877" type="inclusive">1877</unitdate>
+            <container id="aspace_a130b7c3111e7b6bacd53fd5eec986fd" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_1e0450e9ff6f04fa292f90e45f6c9669" parent="aspace_a130b7c3111e7b6bacd53fd5eec986fd" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref354_drs" level="series">
+        <did>
+          <unittitle>Boxes 28-31: Kellogg Family Photographs</unittitle>
+        </did>
+        <c id="aspace_ref355_cnv" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_e8ecf981766470d580dd6da2211e5fbe" label="Mixed Materials" type="Box">28</container>
+            <container id="aspace_8a35250a0c1a6f22afb3c1bc5e8f67e0" parent="aspace_e8ecf981766470d580dd6da2211e5fbe" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref356_o6o" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_670302a412216a1772057fe30e96548a" label="Mixed Materials" type="Box">29</container>
+            <container id="aspace_8f4ed35bfc9e23776916d0435e22810e" parent="aspace_670302a412216a1772057fe30e96548a" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref357_tst" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_cce3f9816276b05e7690daa8cd702198" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_51807d16e85b5e65bd5a478a83e3de50" parent="aspace_cce3f9816276b05e7690daa8cd702198" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref358_wqw" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_960806a3a6d649c047514a1588f72a11" label="Mixed Materials" type="Box">31</container>
+            <container id="aspace_d16a107c33485de37992b99e26f5e38a" parent="aspace_960806a3a6d649c047514a1588f72a11" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref359_yds" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Small Box of Photographs</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_7f3f1e0f900b857a13d63047d31f2722" label="Mixed Materials" type="Box">Unnumbered</container>
+            <container id="aspace_6e5a05fe42a6af9650596dd003094f88" parent="aspace_7f3f1e0f900b857a13d63047d31f2722" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref360_qjp" level="series">
+        <did>
+          <unittitle>Oversize Folder</unittitle>
+        </did>
+        <c id="aspace_ref361_p5i" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gertrude Kellogg, Sheet music</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_556c5e8f4f3d43ebd8594d56813dd840" label="Mixed Materials" type="Box">Unknown container 483 for instance of Gertrude Kellogg, Sheet music</container>
+            <container id="aspace_b690ab4d5f028df655dadba1d7d8b063" parent="aspace_556c5e8f4f3d43ebd8594d56813dd840" type="Folder">unknown container</container>
+          </did>
+        </c>
+        <c id="aspace_ref362_xeo" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kellogg Family, Photographs</unittitle>
+            <unitdate>undated</unitdate>
+            <container id="aspace_0c545ffb866e92cac9a6e71ae66f329f" label="Mixed Materials" type="Box">Unknown container 484 for instance of Kellogg Family, Photographs</container>
+            <container id="aspace_fde4d00923011ea453f0af15ac5ad548" parent="aspace_0c545ffb866e92cac9a6e71ae66f329f" type="Folder">unknown container</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
