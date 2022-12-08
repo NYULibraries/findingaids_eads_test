@@ -1,300 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_248">mc_248</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the William F. Anselm Collection of New York University Memorabilia <num>MC.248</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:32:45 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>December 2018</date>
-        <item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item>
-      </change>
-      <change>
-        <date>June 2019</date>
-        <item>Updated by Jennifer E. Neal to incorporate materials being sent to offsite storage in 2019</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>William F. Anselm Collection of New York University Memorabilia</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Anselm, William F.</persname>
-      </origination>
-      <unitid>MC.248</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-        <extent altrender="carrier">in one half manuscript box and one card box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1932/1938" type="inclusive">1932-1938</unitdate>
-      <unitdate datechar="creation" normal="1935/1938" type="bulk">1935-1938</unitdate>
-      <abstract id="aspace_a126d52b4f805aaa46c70923b9abdf7c">The William F. Anselm Collection of New York University Memorabilia contains ephemera and publications dating from William F. Anselm's tenure as a student at New York University (Engineering '36). As a student, Anselm was active in Greek life as a member of the Delta Phi fraternity and the Inter-Fraternity Council. He was also a member of Scabbard and Blade, a military honor society, and the ROTC Rifle and Pistol Club.</abstract>
-      <physloc id="aspace_0f7a3cec609b8cd1c5158e18632d7934">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_914213e04ceb14969813e93e2220b1d3">Materials primarily in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_d017560b32174175e3fccfeca386bd28">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_d6d78ded115c48c8737abdc4c4dc132f">
-      <head>Immediate Source of Acquisition</head>
-      <p>Transferred from the Office of Alumni Relations in circa 2014. The accession number associated with this collection is 14.032.</p>
-    </acqinfo>
-    <arrangement id="aspace_6a60c5e09672f2f45622af9f5ff78518">
-      <head>Arrangement</head>
-      <p>Materials are arranged chronologically in two series:</p>
-      <p>Series I:  Printed Materials</p>
-      <p>Series II:  Objects</p>
-    </arrangement>
-    <bioghist id="aspace_98fc8bca5a97f588aa5f8d129cca9fe5">
-      <head>Biographical Note</head>
-      <p>William F. Anselm was born in Staten Island in 1914.  He studied Electrical Engineering at New York University, graduating with a Bachelor of Science degree in 1936.  As a student, Anselm was active in Greek life as a member of the Delta Phi fraternity and the Inter-Fraternity Council.  He was also a member of Scabbard and Blade, a military honor society, and the ROTC Rifle and Pistol Club.  After graduating from NYU, he worked for General Electric.</p>
-      <p>
-Sources:</p>
-      <p>1. New York University. <emph render="italic">The Violet</emph>. New York:  Graduating Class of 1936, 1936. New York University Archives, Elmer Holmes Bobst Library.</p>
-      <p>2. New York University College of Engineering.  <emph render="italic">Directory of Alumni</emph>. University Heights, New York:  New York University, June 1950.</p>
-    </bioghist>
-    <prefercite id="aspace_aa2a9ce85deb56fbb0fe662515a2ed23">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; William F. Anselm Collection of New York University Memorabilia; MC 248; box number; folder number; New York University Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_6c73118b6c8a36ec49a9a70e007986cd">
-      <head>Processing Information</head>
-      <p>Processing decisions made prior to December 2018 were not recorded. In 2019 materials in box 2 were rehoused by Preservation and sent to offsite storage.</p>
-    </processinfo>
-    <relatedmaterial id="aspace_87757e84d9d9e6d1d37468a5766d28d1">
-      <head>Related Materials</head>
-      <p>Guide to the Albert W. Ferris Papers (MC 183)</p>
-      <p>Guide to the Ira S. Kaye Scrapbook (MC 80)</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_37fc1403e602a1cbe1a44a00eea2be56">
-      <head>Scope and Contents</head>
-      <p>The collection contains ephemera and publications dating from William F. Anselm's tenure as a student at New York University (Engineering '36).   Most of the materials were created by NYU between 1932 and 1938.  These materials include invitations and programs for events hosted by the university or groups associated with it, including the military honor society Scabbard and Blade, the ROTC program, and the Engineering Societies.  Other materials include assorted issues of the<emph render="italic"> New York University Medley</emph>, a student magazine, NYU football ticket stubs and programs, and a purple quill pen labeled "NYU."  A few items in the collection were not created by NYU, most of which are programs from New York City theatrical productions that Anselm presumably attended.</p>
-    </scopecontent>
-    <userestrict id="aspace_9b7a6343d8af5350575a311f9ae2e553">
-      <head>Conditions Governing Use</head>
-      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Theater -- New York (N.Y.)</subject>
-      <corpname source="naf">New York University. School of Engineering and Science</corpname>
-      <corpname source="naf">New York University -- Students</corpname>
-      <corpname rules="dacs" source="local">New York University. Reserve Officer Training Corps -- History</corpname>
-      <corpname source="naf">Delta Phi</corpname>
-      <corpname source="naf">Scabbard and Blade Fraternity</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref1" level="series">
-        <did>
-          <unittitle>Series I:  Printed Material</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-            <extent altrender="carrier">in one half manuscript box</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1932/1938" type="inclusive">1932-1938</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <scopecontent id="aspace_febcbdec2c924b2802cb98d6d357c96f">
-          <head>Scope and Contents</head>
-          <p>Series I includes invitations and programs for events hosted by the university or groups associated with it, including the military honor society Scabbard and Blade, the ROTC program, and the Engineering Societies.  Other materials include assorted issues of the<emph render="italic"> New York University Medley</emph>, a student magazine, NYU football ticket stubs and programs</p>
-        </scopecontent>
-        <c id="aspace_ref2" level="file">
-          <did>
-            <unittitle><emph render="italic">New York University Medley</emph>, various issues</unittitle>
-            <unitdate datechar="creation" normal="1932/1932">1932</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_58af5fb0fc97e845c69222a687ec1f46" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_ca811fde0459193e36f373b7cb1af993" parent="aspace_58af5fb0fc97e845c69222a687ec1f46" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref3" level="file">
-          <did>
-            <unittitle>Program for Autumn Crocus (play)</unittitle>
-            <unitdate datechar="creation" normal="1933/1933">1933</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_031f72e5a2c05602953639c5d98e405d" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_65c28f4976ddfff5720dbd339a870f88" parent="aspace_031f72e5a2c05602953639c5d98e405d" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref4" level="file">
-          <did>
-            <unittitle>NYU Engineering Societies Techni-Frolic invitation</unittitle>
-            <unitdate datechar="creation" normal="1935/1935">1935</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_109c9a3cceb02528998ec55317791e2a" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_cbd7cced8c5204ea05b814b5901d6e59" parent="aspace_109c9a3cceb02528998ec55317791e2a" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref5" level="file">
-          <did>
-            <unittitle>ROTC Formal Dinner Dance programs</unittitle>
-            <unitdate datechar="creation" normal="1935-07-13/1935-07-13">1935-07-13</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_bb88061d2f0fa8afe672717dea975858" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_be63e2277fdd309e4ea1f8c22f0b8a1e" parent="aspace_bb88061d2f0fa8afe672717dea975858" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref6" level="file">
-          <did>
-            <unittitle>Scabbard and Blade annual military ball</unittitle>
-            <unitdate datechar="creation" normal="1935/1938" type="inclusive">1935, 1937-1938</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_e3538f7d8a43f291e0a5755fdab168fa" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_2867ae78bd2eea9005049c7e6f3abe86" parent="aspace_e3538f7d8a43f291e0a5755fdab168fa" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>ROTC Annual Field Day invitation and program</unittitle>
-            <unitdate datechar="creation" normal="1936/1936">1936</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_1ebedd813b39c7c026146d081be312b6" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_0568ac2969598fd049bd89f9c6c5a899" parent="aspace_1ebedd813b39c7c026146d081be312b6" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Baccalaureate Service programs</unittitle>
-            <unitdate datechar="creation" normal="1936/1936">1936</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_d0e59750cdd001ce8ea41bbd1328fce2" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_c4e8505f9e01f932dbe414fabf3c8164" parent="aspace_d0e59750cdd001ce8ea41bbd1328fce2" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Commencement program and invitation</unittitle>
-            <unitdate datechar="creation" normal="1936/1936">1936</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_2678ca9e44c020a49e69d5dce290dd5b" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_aba46cadd8f0fff806a05ec0b5a6bb5b" parent="aspace_2678ca9e44c020a49e69d5dce290dd5b" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref10" level="file">
-          <did>
-            <unittitle>Inter-Fraternity Council Informal Dance</unittitle>
-            <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936, 1938</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_df314a98d8c4d0e435dad6244dc76cc4" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_569ec249901d26125e4acda9a67b8b4f" parent="aspace_df314a98d8c4d0e435dad6244dc76cc4" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref11" level="file">
-          <did>
-            <unittitle>Playbill for <emph render="italic">Yes, My Darling Daughter</emph></unittitle>
-            <unitdate datechar="creation" normal="1937/1937">1937</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_580a3fed53e47408dd79d72b5c87bed3" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_8387148f0b32b48fba383b5e6fb4c4d9" parent="aspace_580a3fed53e47408dd79d72b5c87bed3" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>NYU Football ticket stubs and schedule</unittitle>
-            <unitdate datechar="creation" normal="1937/1937">1937, undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_2adb6298ffe7b15c9d4d7f6a20df7d63" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_bd0adb977b3d3405a1db93cad92b6d71" parent="aspace_2adb6298ffe7b15c9d4d7f6a20df7d63" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Delta Phi Summer Formal invitations</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_c3a152422bc2ac4fe5affcc2d6ef7d22" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_06d9bf8eb2a7839a514f5b4e3a43a54b" parent="aspace_c3a152422bc2ac4fe5affcc2d6ef7d22" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Program for <emph render="italic">Naughty-Naught </emph>(play)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_2c034fc26fbc37b1538f61dfe7392bb5" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_0340f646a8e6980ec19b725c9d1ce870" parent="aspace_2c034fc26fbc37b1538f61dfe7392bb5" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Waldorf-Astoria cocktail napkin</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_36cad9ec7a72f6e1e676ceb9d85dc173" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_aa4fab36a7db78346446f25d8453f8ff" parent="aspace_36cad9ec7a72f6e1e676ceb9d85dc173" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>East 148th St. Restaurant Corp. business card</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_9d880a42a0068918dfd696e6e7d37245" label="Mixed Materials [31142062745685]" type="Box">1</container>
-            <container id="aspace_04be592f37b9a8f49fb7b88ae0009ae4" parent="aspace_9d880a42a0068918dfd696e6e7d37245" type="Folder">15</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref27" level="series">
-        <did>
-          <unittitle>Series II:  Objects</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-            <extent altrender="carrier">in one card box</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936, undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <scopecontent id="aspace_3ce3ceeee142abd31442f12f66f4bec2">
-          <head>Scope and Contents</head>
-          <p>Series II includes a badge with ribbons for representation of the Floor Committee for the 1936 Military ball; a name badge with ribbon for the 1936 Engineering Demonstration Day; a commemorative football button; and a purple quill pen labeled "NYU."</p>
-        </scopecontent>
-        <c id="aspace_ref20" level="item">
-          <did>
-            <unittitle>Floor Committee, Military Ball name badge and ribbon</unittitle>
-            <unitdate datechar="creation" normal="1935-04-26/1935-04-26">1935-04-26</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_82062d4d5449866e2a238c1c096c1d46" label="Mixed Materials [31142062745693]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="item">
-          <did>
-            <unittitle>Engineering Demonstration Day name badge and ribbon</unittitle>
-            <unitdate datechar="creation" normal="1936-03-07/1936-03-07">1936 March 7</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_14bcce64e63d9b0b85df4d336ec2a33a" label="Mixed Materials [31142062745693]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="item">
-          <did>
-            <unittitle>"N.Y.U. Beat Fordham" button</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_3596379ae8229bdb1eb722ad98dc0f45" label="Mixed Materials [31142062745693]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="item">
-          <did>
-            <unittitle>NYU quill pen</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_7c8738c526435586ac487334d2f0706f" label="Mixed Materials [31142062745693]" type="Box">2</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_248">mc_248</eadid><filedesc><titlestmt><titleproper>Guide to the William F. Anselm Collection of New York University Memorabilia <num>MC.248</num></titleproper></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:40:26 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2018</date><item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item></change><change><date>June 2019</date><item>Updated by Jennifer E. Neal to incorporate materials being sent to offsite storage in 2019</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>William F. Anselm Collection of New York University Memorabilia</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Anselm, William F.</persname>
+    </origination>
+    <unitid>MC.248</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box and one card box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1932/1938" type="inclusive">1932-1938</unitdate>
+    <unitdate datechar="creation" normal="1935/1938" type="bulk">1935-1938</unitdate>
+    <abstract id="aspace_a126d52b4f805aaa46c70923b9abdf7c">The William F. Anselm Collection of New York University Memorabilia contains ephemera and publications dating from William F. Anselm's tenure as a student at New York University (Engineering '36). As a student, Anselm was active in Greek life as a member of the Delta Phi fraternity and the Inter-Fraternity Council. He was also a member of Scabbard and Blade, a military honor society, and the ROTC Rifle and Pistol Club.</abstract>
+    <physloc id="aspace_0f7a3cec609b8cd1c5158e18632d7934">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_914213e04ceb14969813e93e2220b1d3">Materials primarily in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_d017560b32174175e3fccfeca386bd28">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_d6d78ded115c48c8737abdc4c4dc132f">
+    <head>Immediate Source of Acquisition</head>
+<p>Transferred from the Office of Alumni Relations in circa 2014. The accession number associated with this collection is 14.032.</p>  </acqinfo>
+  <arrangement id="aspace_6a60c5e09672f2f45622af9f5ff78518">
+    <head>Arrangement</head>
+<p>Materials are arranged chronologically in two series:</p><p>Series I:  Printed Materials</p><p>Series II:  Objects</p>  </arrangement>
+  <bioghist id="aspace_98fc8bca5a97f588aa5f8d129cca9fe5">
+    <head>Biographical Note</head>
+<p>William F. Anselm was born in Staten Island in 1914.  He studied Electrical Engineering at New York University, graduating with a Bachelor of Science degree in 1936.  As a student, Anselm was active in Greek life as a member of the Delta Phi fraternity and the Inter-Fraternity Council.  He was also a member of Scabbard and Blade, a military honor society, and the ROTC Rifle and Pistol Club.  After graduating from NYU, he worked for General Electric.</p><p>
+Sources:</p><p>1. New York University. <emph render="italic">The Violet</emph>. New York:  Graduating Class of 1936, 1936. New York University Archives, Elmer Holmes Bobst Library.</p><p>2. New York University College of Engineering.  <emph render="italic">Directory of Alumni</emph>. University Heights, New York:  New York University, June 1950.</p>  </bioghist>
+  <prefercite id="aspace_aa2a9ce85deb56fbb0fe662515a2ed23">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; William F. Anselm Collection of New York University Memorabilia; MC 248; box number; folder number; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_6c73118b6c8a36ec49a9a70e007986cd">
+    <head>Processing Information</head>
+<p>Processing decisions made prior to December 2018 were not recorded. In 2019 materials in box 2 were rehoused by Preservation and sent to offsite storage.</p>  </processinfo>
+  <relatedmaterial id="aspace_87757e84d9d9e6d1d37468a5766d28d1">
+    <head>Related Materials</head>
+<p>Guide to the Albert W. Ferris Papers (MC 183)</p><p>Guide to the Ira S. Kaye Scrapbook (MC 80)</p>  </relatedmaterial>
+  <scopecontent id="aspace_37fc1403e602a1cbe1a44a00eea2be56">
+    <head>Scope and Contents</head>
+<p>The collection contains ephemera and publications dating from William F. Anselm's tenure as a student at New York University (Engineering '36).   Most of the materials were created by NYU between 1932 and 1938.  These materials include invitations and programs for events hosted by the university or groups associated with it, including the military honor society Scabbard and Blade, the ROTC program, and the Engineering Societies.  Other materials include assorted issues of the<emph render="italic"> New York University Medley</emph>, a student magazine, NYU football ticket stubs and programs, and a purple quill pen labeled "NYU."  A few items in the collection were not created by NYU, most of which are programs from New York City theatrical productions that Anselm presumably attended.</p>  </scopecontent>
+  <userestrict id="aspace_9b7a6343d8af5350575a311f9ae2e553">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Theater -- New York (N.Y.)</subject>
+    <corpname authfilenumber="(lccn)n79034394" source="naf">New York University. School of Engineering and Science</corpname>
+    <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Students</corpname>
+    <corpname rules="dacs" source="local">New York University. Reserve Officer Training Corps -- History</corpname>
+    <corpname authfilenumber="(lccn)nr97008013" source="naf">Delta Phi</corpname>
+    <corpname authfilenumber="(lccn)no2005101293" source="naf">Scabbard and Blade Fraternity</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I:  Printed Material</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent><extent altrender="carrier">in one half manuscript box</extent></physdesc><unitdate datechar="creation" normal="1932/1938" type="inclusive">1932-1938</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_febcbdec2c924b2802cb98d6d357c96f"><head>Scope and Contents</head><p>Series I includes invitations and programs for events hosted by the university or groups associated with it, including the military honor society Scabbard and Blade, the ROTC program, and the Engineering Societies.  Other materials include assorted issues of the<emph render="italic"> New York University Medley</emph>, a student magazine, NYU football ticket stubs and programs</p></scopecontent><c id="aspace_ref2" level="file"><did><unittitle><emph render="italic">New York University Medley</emph>, various issues</unittitle><unitdate datechar="creation" normal="1932/1932">1932</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_33a1b53950e35c55cbfd7868bd0ab3f8" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_201db0da3e611cf2a33cddd578f6c73c" parent="aspace_33a1b53950e35c55cbfd7868bd0ab3f8" type="Folder">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Program for Autumn Crocus (play)</unittitle><unitdate datechar="creation" normal="1933/1933">1933</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_7ad1bf9d7d903410887428ef4795e7c0" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_0dba63ab5d5d3dfd27c9b6997842b762" parent="aspace_7ad1bf9d7d903410887428ef4795e7c0" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>NYU Engineering Societies Techni-Frolic invitation</unittitle><unitdate datechar="creation" normal="1935/1935">1935</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_00e390c1b4b0dde98a217f39acab9918" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_55d3f7cb9b15d7907adda0eaa16d390f" parent="aspace_00e390c1b4b0dde98a217f39acab9918" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>ROTC Formal Dinner Dance programs</unittitle><unitdate datechar="creation" normal="1935-07-13/1935-07-13">1935-07-13</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_ba18f11f859d7da0373801cfbba80ed7" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_f85e573a87502a0b43c50f005ff21d2b" parent="aspace_ba18f11f859d7da0373801cfbba80ed7" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Scabbard and Blade annual military ball</unittitle><unitdate datechar="creation" normal="1935/1938" type="inclusive">1935, 1937-1938</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_f713dfaa822d2c6d23d41cc2f24e7a9e" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_682225f6af9366921ca83e0c411b426e" parent="aspace_f713dfaa822d2c6d23d41cc2f24e7a9e" type="Folder">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>ROTC Annual Field Day invitation and program</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_50b951c4668301e1c287ea62b467ee9c" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_6530f8239066c771b3c877f1936a6786" parent="aspace_50b951c4668301e1c287ea62b467ee9c" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Baccalaureate Service programs</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_6b38fdf61a3f564298b52915aca6e673" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_d1b1572f93065f2baca5ced2e80d914e" parent="aspace_6b38fdf61a3f564298b52915aca6e673" type="Folder">7</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Commencement program and invitation</unittitle><unitdate datechar="creation" normal="1936/1936">1936</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_29a75ad9715cfc2e037afced036b0d9a" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_5d059bc8357e00ab8196e11436627e9b" parent="aspace_29a75ad9715cfc2e037afced036b0d9a" type="Folder">8</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Inter-Fraternity Council Informal Dance</unittitle><unitdate datechar="creation" normal="1936/1938" type="inclusive">1936, 1938</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_1ff8a90bc92a01eca2c9789d3e602970" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_3ef2361d9a2f1d776f9f6f130b9e8665" parent="aspace_1ff8a90bc92a01eca2c9789d3e602970" type="Folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Playbill for <emph render="italic">Yes, My Darling Daughter</emph></unittitle><unitdate datechar="creation" normal="1937/1937">1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_4e0e4558cfd3869e9ecbf44228b4f9de" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_1b02987134951ddec0c254a958b0cc25" parent="aspace_4e0e4558cfd3869e9ecbf44228b4f9de" type="Folder">10</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>NYU Football ticket stubs and schedule</unittitle><unitdate datechar="creation" normal="1937/1937">1937, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_486d0e404b6436d7aa050c546894475e" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_f6299ec23e469c36f2f471fc6de82dfa" parent="aspace_486d0e404b6436d7aa050c546894475e" type="Folder">11</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Delta Phi Summer Formal invitations</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_5538f2e3a1c6513fd257e437e4d8a48c" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_5396b6f0e272747a2165e951ca94a3ae" parent="aspace_5538f2e3a1c6513fd257e437e4d8a48c" type="Folder">12</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Program for <emph render="italic">Naughty-Naught </emph>(play)</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_ac157efd7747984075203040070c6e5f" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_a685e7adb8591ba751516763e7ea9920" parent="aspace_ac157efd7747984075203040070c6e5f" type="Folder">13</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Waldorf-Astoria cocktail napkin</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_2bd474719abcb4541d75796612911355" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_18857aa654aa5170430f1ced51df5822" parent="aspace_2bd474719abcb4541d75796612911355" type="Folder">14</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>East 148th St. Restaurant Corp. business card</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_64a2d0551ed3446be3201b319b07f2a9" label="Mixed Materials [31142062745685]" type="Box">1</container><container id="aspace_e014fdb045ed17a11376cc0d610b0aef" parent="aspace_64a2d0551ed3446be3201b319b07f2a9" type="Folder">15</container></did></c></c><c id="aspace_ref27" level="series"><did><unittitle>Series II:  Objects</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent><extent altrender="carrier">in one card box</extent></physdesc><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_3ce3ceeee142abd31442f12f66f4bec2"><head>Scope and Contents</head><p>Series II includes a badge with ribbons for representation of the Floor Committee for the 1936 Military ball; a name badge with ribbon for the 1936 Engineering Demonstration Day; a commemorative football button; and a purple quill pen labeled "NYU."</p></scopecontent><c id="aspace_ref20" level="item"><did><unittitle>Floor Committee, Military Ball name badge and ribbon</unittitle><unitdate datechar="creation" normal="1935-04-26/1935-04-26">1935-04-26</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_44f5eafb7a27a1879968988b543cb30a" label="Mixed Materials [31142062745693]" type="Box">2</container></did></c><c id="aspace_ref19" level="item"><did><unittitle>Engineering Demonstration Day name badge and ribbon</unittitle><unitdate datechar="creation" normal="1936-03-07/1936-03-07">1936 March 7</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_dd5c201b84adaff7088f61c91563a7e6" label="Mixed Materials [31142062745693]" type="Box">2</container></did></c><c id="aspace_ref18" level="item"><did><unittitle>"N.Y.U. Beat Fordham" button</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_a347c13e2c2facbab45b834314a543c6" label="Mixed Materials [31142062745693]" type="Box">2</container></did></c><c id="aspace_ref17" level="item"><did><unittitle>NYU quill pen</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Card Box - 6.5w x 12.5d x 5h" id="aspace_98b31a4914040e22bbea131e696c91df" label="Mixed Materials [31142062745693]" type="Box">2</container></did></c></c></dsc>
+</archdesc>
 </ead>

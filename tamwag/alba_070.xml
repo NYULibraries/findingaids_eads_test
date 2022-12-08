@@ -1,359 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_070">alba_070</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the David McKelvy White Papers <num>ALBA.070</num></titleproper>
-        <author>Wendy Scheir, September 2004</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from David McKelvy White ALBA 70.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:33:41 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>David McKelvy White Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">White, David McKelvy, 1901-1945</persname>
-      </origination>
-      <unitid>ALBA.070</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1937/1945" type="inclusive">1937-1945</unitdate>
-      <unitdate datechar="creation" normal="1937/1939" type="bulk">1937-1939</unitdate>
-      <abstract id="aspace_453aa89e6cc3df744444b81aa789c2a1">David McKelvy White (1901-1945) was the son of a prominent Ohio politician. After graduating from Princeton University, White taught English literature and composition at Brooklyn College and City College in New York City. In March 1937, White went to Spain to fight in the Spanish Civil War, serving as a company clerk and machine gunner. He returned to the U.S. in the fall of 1937 and headed the activities of the Friends of the Abraham Lincoln Brigade (F.A.L.B.), a group formed to aid American volunteers still in Spain. A committed political activist, White wrote and lectured widely about the Spanish Civil War. He died in 1945 at the age of 44.</abstract>
-      <langmaterial id="aspace_d70e4cd6ae1214ad458ef78ed84fde9b">Materials are in English.</langmaterial>
-    </did>
-    <custodhist id="aspace_8d3a949bd460e8dba3b324257dcdcd36">
-      <head>Provenance</head>
-      <p>The David McKelvy White Papers came to New York University in January 2001 as part of the original acquisition of ALBA collections. The collection was formerly housed at Brandeis University under the name the Abraham Lincoln Battalion Records. The original provenance of the collection is not known, but it is presumed that the donor intended it to remain a cohesive collection.</p>
-    </custodhist>
-    <accessrestrict id="aspace_56c2af15eb69b38f0765d7b4b524e542">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </accessrestrict>
-    <bioghist id="aspace_36e3a7a9110cd522618dc4a66460f2bf">
-      <head>Historical/Biographical Note</head>
-      <p>David McKelvy White was born in 1901 into a prominent Ohio political family. His father, George White, was an oil entrepreneur who later became governor of Ohio and chairman of the National Democratic Party. David White graduated from Princeton University in 1925 and taught English literature and composition at City College and Brooklyn College in New York City. Reports of the civil war in Spain and sympathy for the anti-fascist cause impelled White into action. He sailed to France in March of 1937 and crossed the Pyrenees into Spain on foot to join in the fight against the fascists.</p>
-      <p>While serving as company clerk, machine gunner, and stretcher-bearer in the Fourth Machine Gun Company of the George Washington Battalion under lieutenant Walter Garland, White encountered several of his former students, including Hy Roseman, Harry Hakam and Leonard Lamb, who became White's machine gun instructor. In July, 1937 White fought in the Battle of Brunete. Before leaving Spain, he wrote a journal about his experiences.</p>
-      <p>White returned to the U.S. in the fall of 1937 and took over as executive secretary (and later national chairman) of the Friends of the Abraham Lincoln Brigades (F.A.L.B.). F.A.L.B. worked to hasten the release of Americans from Spanish prisons; to assure medical care for wounded volunteers; to deal with the problem of foreign-born Americans being detained at Ellis Island; to expedite shipments of cigarettes, chocolate and other provisions to volunteers still fighting; and to raise funds on behalf of the Spanish Republican cause. In 1939 White became a long distance foster parent to a Spanish Civil War orphan, who sent him letters and drawings. White also wrote and lectured widely about the situation in Spain. His writings include the pamphlets <title render="italic">From These Honored Dead</title>, co-authored by James Hawthorne, and <title render="italic">Franco Spain…America's Enemy</title>. F.A.L.B. officially disbanded in December 1939; the Veterans of the Abraham Lincoln Brigade assumed responsibility for all outstanding F.A.L.B. activities.</p>
-      <p>In 1940 the Rapp-Coudert Legislative Committee interrogated White as part of their investigation into communistic activities in the New York State school system. White declined immunity and refused to testify. He went on to direct the Detroit Labor School from 1942-1944.</p>
-      <p>White died in 1945 from a heart attack at the age of 44.</p>
-    </bioghist>
-    <scopecontent id="aspace_0c852e50c0b049c8747e697700f6da0b">
-      <head>Scope and Content Note</head>
-      <p>The David McKelvy White Papers are in part comprised of documents created in 1937 when White was a volunteer in Spain. Included is White's "Sketch for a Journal" describing his experiences from his arrival in Spain through his participation in the Battle of Brunete and Orders of the Day for the George Washington Battalion, the Fourth Machine Gun Company, and the Abraham Lincoln Battalion, including the July 1937 Order to Merge the Abraham Lincoln and George Washington Battalions.</p>
-      <p>White's personal correspondence dates from 1938 and onward, after he had returned to the U.S. Included are letters from the mother of Philip Detro, a volunteer who died in Spain; letters from volunteers still in Spain, including Harry Hakam and Carl Geiser, who had been White's political commissar in the Fourth Machine Company; and letters from White's long distance Spanish foster son. Other papers include a small number of White's published and unpublished writings, including "We Who Pledge!" and "Spain and July 4th," about the politics of the Spanish Civil War, as well as flyers and programs promoting White's lectures.</p>
-      <p>F.A.L.B. documents include letters to Phil Bard, White's predecessor, from volunteers in Spain (with a photograph of a group of Lincoln and Garibaldi Battalion members after battle); Bard's communication with volunteers' families; and a typescript report of a contentious meeting with the Confederated Spanish Societies.</p>
-      <p>Other materials in the collection include letters from American volunteers in Spain to Ben Lederman, editor of the "Beehive Review," forwarded by volunteer Joe Stone, including a letter from Ed Lending regarding Robert Steck, a volunteer imprisoned in Spain; and a poem by volunteer Leo Grachow.</p>
-    </scopecontent>
-    <arrangement id="aspace_4976813f7ab70eea39f043a53a670fcd">
-      <head>Arrangement</head>
-      <p>The files are arranged in alphabetical order.</p>
-      <p>The files are grouped into 1 series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>Series I.</item>
-      </list>
-    </arrangement>
-    <relatedmaterial id="aspace_18006612ea60f1cda6f8d89da8244724">
-      <head>Related Material</head>
-      <p>ALBA collections at the Tamiment Library.</p>
-      <p>Sandor Voros Spanish Civil War Collection, Adelphi University.</p>
-      <p>David McKelvy White Papers, 1916-1945, MSS52, Ohio Historical Society.</p>
-      <p>David McKelvy White Collection, 1937-1938, New York Public Library.</p>
-    </relatedmaterial>
-    <userestrict id="aspace_33323b71b49487c64cf5ff42ea1231d7">
-      <head>Use Restrictions</head>
-      <p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 120 years after their creation. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </userestrict>
-    <prefercite id="aspace_aa418205871138cae5d0ccbb4b8ee4fe">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
-      <genreform source="aat">Diaries</genreform>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Veterans -- United States -- Correspondence.</geogname>
-      <genreform source="aat">Drafts (documents)</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Articles.</genreform>
-      <geogname source="lcsh">Brunete (Spain)</geogname>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
-      <genreform source="aat">Personal papers.</genreform>
-      <subject source="lcsh">Brunete, Battle of, Brunete, Spain, 1937.</subject>
-      <geogname source="lcsh">Barcelona (Spain)</geogname>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- International brigades.</geogname>
-      <corpname source="naf">Friends of the Abraham Lincoln Brigade</corpname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_070">alba_070</eadid><filedesc><titlestmt><titleproper>Guide to the David McKelvy White Papers <num>ALBA.070</num></titleproper><author>Wendy Scheir, September 2004</author></titlestmt><editionstmt><p>This version was derived from David McKelvy White ALBA 70.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:01:13 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>David McKelvy White Papers</unittitle>
+    <origination label="Creator">
       <persname source="naf">White, David McKelvy, 1901-1945</persname>
-      <corpname source="local">George Washington Battalion</corpname>
-      <persname source="naf">Lederman, Ben</persname>
-      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
-      <persname source="local">Hakam, Harry, 1913-1996</persname>
-      <persname rules="dacs" source="local">Grachow, Leo</persname>
-      <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV</corpname>
-      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-      <persname rules="dacs" source="local">Garland, Walter B.</persname>
-      <persname rules="dacs" source="local">Bard, Phil</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref14" level="series">
-        <did>
-          <unittitle>Series I</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>"American Volunteers in Spain" (transcript)</unittitle>
-            <unitdate datechar="creation">Jul 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_0d89bb429743930abbe09b62a73797c7" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_16f07c17ecaf6467bb32e1000665ddb6" parent="aspace_0d89bb429743930abbe09b62a73797c7" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>"Beehive Review": Letters to editor Ben Lederman from Spanish Civil War volunteers</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated , Aug 1937-Aug 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_47c1887d97481ea128ee434f0b9c4d95" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_0ba342efbff693a0c5741a8f872647cf" parent="aspace_47c1887d97481ea128ee434f0b9c4d95" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Correspondence: from Harry Hakam</unittitle>
-            <unitdate datechar="creation">Apr 1937-Aug 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_53e48f881064ef3a7ddc3ff97db81e8d" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_63f42df987726ea790c56526827ec6a5" parent="aspace_53e48f881064ef3a7ddc3ff97db81e8d" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Correspondence: from Spanish Civil War volunteers</unittitle>
-            <unitdate datechar="creation">Feb 1938-Nov 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_07a0699874b5cf700bff8203dcfaa9a3" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_c512db491b37111b3c2d5031b06545f1" parent="aspace_07a0699874b5cf700bff8203dcfaa9a3" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Correspondence: General</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">1937-1945</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_6cd7b6b17a00c8157b781ac0f9bdb741" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_09e46e08bc513673236ff302b61d2149" parent="aspace_6cd7b6b17a00c8157b781ac0f9bdb741" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Documents: Carte de Prêt</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4446c913a761e84d4cba4b5375f98a0a" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_057300b2fffa1791bed5b5371cc6aca1" parent="aspace_4446c913a761e84d4cba4b5375f98a0a" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Foster parent of Spanish Civil War orphan, Francisco Sordo</unittitle>
-            <unitdate datechar="creation">Sep 1938-Mar 1940</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_3a98b868365681f44e5732e90a20c355" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_a76cf3d36f9d458156dfdea70ace79ad" parent="aspace_3a98b868365681f44e5732e90a20c355" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Fourth Machine Gun Company, George Washington Battalion: Company roster</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_be60e18e74fb82715bea80c609fb2e51" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_9655586cf4758196969b310eefcf31c2" parent="aspace_be60e18e74fb82715bea80c609fb2e51" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Fourth Machine Gun Company, George Washington Battalion: Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated , Jul 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_05adc619b077b0f5fde26df476a6900b" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_74a1e6c9b837c490a37516c8fcfb281c" parent="aspace_05adc619b077b0f5fde26df476a6900b" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Friends of the Abraham Lincoln Brigade: Correspondence from Spanish Civil War volunteers</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated , Oct 1937-Jun 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c447f13d8e783b9910c820a7d524ba5f" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_07f801e77a39bd6a484c29e2825468ba" parent="aspace_c447f13d8e783b9910c820a7d524ba5f" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Friends of the Abraham Lincoln Brigade: General</unittitle>
-            <unitdate datechar="creation">Oct 1937-Jun 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_2838eee9937c0f01c8b3cf0e5d5b9202" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_3cffeb4f35bcb93f8f675c64ac5b7ed3" parent="aspace_2838eee9937c0f01c8b3cf0e5d5b9202" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Friends of the Abraham Lincoln Brigade: Report of meeting with the Confederated Spanish Societies</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_6baa679aafea06df19f514c944013a49" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_3a9c0e3ce345dfbfd622e72e10650a55" parent="aspace_6baa679aafea06df19f514c944013a49" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Grachow, Leo: Poem, "We Came to Spain"</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_14389c2a91a70a8b792431c0d24db9d3" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_4336417dc39a267ae891c793b40ad217" parent="aspace_14389c2a91a70a8b792431c0d24db9d3" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Laissez-passer issued by Commissariat Special</unittitle>
-            <unitdate datechar="creation">Aug 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_84bf3d263e7164b01428077c4b71614d" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_0956023af7f3ed2b6fbeaadaac35d5d2" parent="aspace_84bf3d263e7164b01428077c4b71614d" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Lincoln-Washington Battalion: Notes</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">Undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_96d1238d22006d50dc64e51171a2378d" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_d6cb2ccb49e4f7e48b6994b50c89efeb" parent="aspace_96d1238d22006d50dc64e51171a2378d" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Lincoln-Washington Battallion: Order to Merge</unittitle>
-            <unitdate datechar="creation">Jul 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_d28b02825cf4bb3764177f35dba2a631" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_d952f96c9ed178be7e273db7f8372c47" parent="aspace_d28b02825cf4bb3764177f35dba2a631" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Lincoln-Washington Battallion: Orders of the Day</unittitle>
-            <unitdate datechar="creation">Aug 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5feec6a6b9fc30787323ac6276780734" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_bb9aa39d8df35ce0940687069ea306d2" parent="aspace_5feec6a6b9fc30787323ac6276780734" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Membership booklets: VALB and Soccoro Rojo Internacional</unittitle>
-            <unitdate datechar="creation">May 1937 , Jan 1939</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_a271bfc4a21b80257c775951f93cf124" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_2426a2525fd38cb179c4f0e8d50463ea" parent="aspace_a271bfc4a21b80257c775951f93cf124" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Memorial service for Spanish Civil War volunteers (program)</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">Undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_ba036eb7965d75a43b07965f7c6a7527" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_f94fc9c9dd77418c73c9195dcdc4a444" parent="aspace_ba036eb7965d75a43b07965f7c6a7527" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Rauschwald, Mark: to "Comrade Begun"</unittitle>
-            <unitdate datechar="creation">Apr 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_2608d7dcc5487408c37332b56c96101f" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_763b8f8268cd5f0638679dfeadbbf581" parent="aspace_2608d7dcc5487408c37332b56c96101f" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Speaking Engagements</unittitle>
-            <unitdate datechar="creation">Mar 1938-Jun 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_138686191fda2d8dc1e77addac45eab7" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_23c95c8f8d4055f41004058f72303b37" parent="aspace_138686191fda2d8dc1e77addac45eab7" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Washington Battalion: Orders of the Day</unittitle>
-            <unitdate datechar="creation">Jul 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5d60c1a8f1efbd8615ad3d526c6385f1" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_f44be6cc1e30b7a8bd20f81733c03dcf" parent="aspace_5d60c1a8f1efbd8615ad3d526c6385f1" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>White, David McKelvy: Biographical</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_38ef871231f01277483cbd328622b162" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_aa82e6b82fe888e385fea08aa7410ab0" parent="aspace_38ef871231f01277483cbd328622b162" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>White, David McKelvy: Memorial service and condolence letters</unittitle>
-            <unitdate datechar="creation">Aug 1945</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_f24e3257038a78dcf2fc852537044874" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_b19b7a29b8b35a8b276a8af357768ac5" parent="aspace_f24e3257038a78dcf2fc852537044874" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>White, David McKelvy: Spanish Civil War Diary</unittitle>
-            <unitdate datechar="creation">Apr 1937-Sep 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_6c81fb28e2be6117706837d73ffad4b8" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_6edaf84ad32167a6f2ada0d265659ed4" parent="aspace_6c81fb28e2be6117706837d73ffad4b8" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Writings: Notes</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5b0f2c2a9b41f3d9192b9c232ebe270f" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_b77871b1b5a99a7ff8cb45c8564ab160" parent="aspace_5b0f2c2a9b41f3d9192b9c232ebe270f" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Writings: Published</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated , Jul 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_a8c4803471fa959b38ff160dd3de71c6" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_88b276c162516be479579e8c04bb18d7" parent="aspace_a8c4803471fa959b38ff160dd3de71c6" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>Writings: Typescripts</unittitle>
-            <unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_f65b0f51dadb1c91d26d2442358c51e6" label="Mixed Materials [31142062755759]" type="Box">1</container>
-            <container id="aspace_5f8eaf9355a741d5daaf24e878cf28c9" parent="aspace_f65b0f51dadb1c91d26d2442358c51e6" type="Folder">28</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>ALBA.070</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1945" type="inclusive">1937-1945</unitdate>
+    <unitdate datechar="creation" normal="1937/1939" type="bulk">1937-1939</unitdate>
+    <abstract id="aspace_453aa89e6cc3df744444b81aa789c2a1" label="Abstract">David McKelvy White (1901-1945) was the son of a prominent Ohio politician. After graduating from Princeton University, White taught English literature and composition at Brooklyn College and City College in New York City. In March 1937, White went to Spain to fight in the Spanish Civil War, serving as a company clerk and machine gunner. He returned to the U.S. in the fall of 1937 and headed the activities of the Friends of the Abraham Lincoln Brigade (F.A.L.B.), a group formed to aid American volunteers still in Spain. A committed political activist, White wrote and lectured widely about the Spanish Civil War. He died in 1945 at the age of 44.</abstract>
+    <langmaterial id="aspace_d70e4cd6ae1214ad458ef78ed84fde9b">Materials are in English.</langmaterial>
+  </did>
+  <custodhist id="aspace_8d3a949bd460e8dba3b324257dcdcd36">
+    <head>Provenance</head>
+<p>The David McKelvy White Papers came to New York University in January 2001 as part of the original acquisition of ALBA collections. The collection was formerly housed at Brandeis University under the name the Abraham Lincoln Battalion Records. The original provenance of the collection is not known, but it is presumed that the donor intended it to remain a cohesive collection.</p>  </custodhist>
+  <accessrestrict id="aspace_56c2af15eb69b38f0765d7b4b524e542">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <bioghist id="aspace_36e3a7a9110cd522618dc4a66460f2bf">
+    <head>Historical/Biographical Note</head>
+<p>David McKelvy White was born in 1901 into a prominent Ohio political family. His father, George White, was an oil entrepreneur who later became governor of Ohio and chairman of the National Democratic Party. David White graduated from Princeton University in 1925 and taught English literature and composition at City College and Brooklyn College in New York City. Reports of the civil war in Spain and sympathy for the anti-fascist cause impelled White into action. He sailed to France in March of 1937 and crossed the Pyrenees into Spain on foot to join in the fight against the fascists.</p><p>While serving as company clerk, machine gunner, and stretcher-bearer in the Fourth Machine Gun Company of the George Washington Battalion under lieutenant Walter Garland, White encountered several of his former students, including Hy Roseman, Harry Hakam and Leonard Lamb, who became White's machine gun instructor. In July, 1937 White fought in the Battle of Brunete. Before leaving Spain, he wrote a journal about his experiences.</p><p>White returned to the U.S. in the fall of 1937 and took over as executive secretary (and later national chairman) of the Friends of the Abraham Lincoln Brigades (F.A.L.B.). F.A.L.B. worked to hasten the release of Americans from Spanish prisons; to assure medical care for wounded volunteers; to deal with the problem of foreign-born Americans being detained at Ellis Island; to expedite shipments of cigarettes, chocolate and other provisions to volunteers still fighting; and to raise funds on behalf of the Spanish Republican cause. In 1939 White became a long distance foster parent to a Spanish Civil War orphan, who sent him letters and drawings. White also wrote and lectured widely about the situation in Spain. His writings include the pamphlets <title render="italic">From These Honored Dead</title>, co-authored by James Hawthorne, and <title render="italic">Franco Spain…America's Enemy</title>. F.A.L.B. officially disbanded in December 1939; the Veterans of the Abraham Lincoln Brigade assumed responsibility for all outstanding F.A.L.B. activities.</p><p>In 1940 the Rapp-Coudert Legislative Committee interrogated White as part of their investigation into communistic activities in the New York State school system. White declined immunity and refused to testify. He went on to direct the Detroit Labor School from 1942-1944.</p><p>White died in 1945 from a heart attack at the age of 44.</p>  </bioghist>
+  <scopecontent id="aspace_0c852e50c0b049c8747e697700f6da0b">
+    <head>Scope and Content Note</head>
+<p>The David McKelvy White Papers are in part comprised of documents created in 1937 when White was a volunteer in Spain. Included is White's "Sketch for a Journal" describing his experiences from his arrival in Spain through his participation in the Battle of Brunete and Orders of the Day for the George Washington Battalion, the Fourth Machine Gun Company, and the Abraham Lincoln Battalion, including the July 1937 Order to Merge the Abraham Lincoln and George Washington Battalions.</p><p>White's personal correspondence dates from 1938 and onward, after he had returned to the U.S. Included are letters from the mother of Philip Detro, a volunteer who died in Spain; letters from volunteers still in Spain, including Harry Hakam and Carl Geiser, who had been White's political commissar in the Fourth Machine Company; and letters from White's long distance Spanish foster son. Other papers include a small number of White's published and unpublished writings, including "We Who Pledge!" and "Spain and July 4th," about the politics of the Spanish Civil War, as well as flyers and programs promoting White's lectures.</p><p>F.A.L.B. documents include letters to Phil Bard, White's predecessor, from volunteers in Spain (with a photograph of a group of Lincoln and Garibaldi Battalion members after battle); Bard's communication with volunteers' families; and a typescript report of a contentious meeting with the Confederated Spanish Societies.</p><p>Other materials in the collection include letters from American volunteers in Spain to Ben Lederman, editor of the "Beehive Review," forwarded by volunteer Joe Stone, including a letter from Ed Lending regarding Robert Steck, a volunteer imprisoned in Spain; and a poem by volunteer Leo Grachow.</p>  </scopecontent>
+  <arrangement id="aspace_4976813f7ab70eea39f043a53a670fcd">
+    <head>Arrangement</head>
+<p>The files are arranged in alphabetical order.</p><p>The files are grouped into 1 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I.</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_18006612ea60f1cda6f8d89da8244724">
+    <head>Related Material</head>
+<p>ALBA collections at the Tamiment Library.</p><p>Sandor Voros Spanish Civil War Collection, Adelphi University.</p><p>David McKelvy White Papers, 1916-1945, MSS52, Ohio Historical Society.</p><p>David McKelvy White Collection, 1937-1938, New York Public Library.</p>  </relatedmaterial>
+  <userestrict id="aspace_33323b71b49487c64cf5ff42ea1231d7">
+    <head>Use Restrictions</head>
+<p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 120 years after their creation. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <prefercite id="aspace_aa418205871138cae5d0ccbb4b8ee4fe">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
+    <genreform source="aat">Diaries</genreform>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Veterans -- United States -- Correspondence.</geogname>
+    <genreform source="aat">Drafts (documents)</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Articles.</genreform>
+    <geogname source="lcsh">Brunete (Spain)</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
+    <genreform source="aat">Personal papers.</genreform>
+    <subject source="lcsh">Brunete, Battle of, Brunete, Spain, 1937.</subject>
+    <geogname source="lcsh">Barcelona (Spain)</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- International brigades.</geogname>
+    <corpname authfilenumber="(lccn)nr99000072" source="naf">Friends of the Abraham Lincoln Brigade</corpname>
+    <persname source="naf">White, David McKelvy, 1901-1945</persname>
+    <corpname source="local">George Washington Battalion</corpname>
+    <persname source="naf">Lederman, Ben</persname>
+    <corpname authfilenumber="(lccn)n88119969" source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+    <persname source="local">Hakam, Harry, 1913-1996</persname>
+    <persname rules="dacs" source="local">Grachow, Leo</persname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV</corpname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+    <persname rules="dacs" source="local">Garland, Walter B.</persname>
+    <persname rules="dacs" source="local">Bard, Phil</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series I</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>"American Volunteers in Spain" (transcript)</unittitle><unitdate datechar="creation">Jul 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2f56155214a5860109b47a9541ab3241" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_ca9f3400e515d0487db3411913386733" parent="aspace_2f56155214a5860109b47a9541ab3241" type="Folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>"Beehive Review": Letters to editor Ben Lederman from Spanish Civil War volunteers</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated , Aug 1937-Aug 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f6918989fda4957b5e23b7e39e7530ea" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_93ec3584702ccbeb41844cc4784bf5c0" parent="aspace_f6918989fda4957b5e23b7e39e7530ea" type="Folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence: from Harry Hakam</unittitle><unitdate datechar="creation">Apr 1937-Aug 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a0c350d1e7f33393f1e8263e8d9636a2" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_98185396a867b0f3da64f370ccf3d7c0" parent="aspace_a0c350d1e7f33393f1e8263e8d9636a2" type="Folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence: from Spanish Civil War volunteers</unittitle><unitdate datechar="creation">Feb 1938-Nov 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b7a03489d9e8b71f33504db835e13651" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_81135658e34aca808f99b4f0236757a4" parent="aspace_b7a03489d9e8b71f33504db835e13651" type="Folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence: General</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">1937-1945</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_33548e42054be61ee8a1b373ca178622" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_b44187e5f76b629cbe0d9410300a3de6" parent="aspace_33548e42054be61ee8a1b373ca178622" type="Folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Documents: Carte de Prêt</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_eb34318da73f15db6452e1ee5b236aed" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_91ced00a04a511cb6f7b527b304f3654" parent="aspace_eb34318da73f15db6452e1ee5b236aed" type="Folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Foster parent of Spanish Civil War orphan, Francisco Sordo</unittitle><unitdate datechar="creation">Sep 1938-Mar 1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_43c765520bea94bf95f9145818802385" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_e9e5d3bd115da85bd59ccd2625401c18" parent="aspace_43c765520bea94bf95f9145818802385" type="Folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Fourth Machine Gun Company, George Washington Battalion: Company roster</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_19df414cdac2edf91f76ad55fd772482" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_6d5832e7d8d04c6ab9a0cca26877eb32" parent="aspace_19df414cdac2edf91f76ad55fd772482" type="Folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Fourth Machine Gun Company, George Washington Battalion: Correspondence</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated , Jul 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_700baf74b347b83c5cf0a48d69ff4016" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_9ca89dad9cca5f1c060c957d42c4bb1a" parent="aspace_700baf74b347b83c5cf0a48d69ff4016" type="Folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Friends of the Abraham Lincoln Brigade: Correspondence from Spanish Civil War volunteers</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated , Oct 1937-Jun 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0121e32c3b52e1755201709cba70970e" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_c5ca3fde719a21d198db1b7a534bd21f" parent="aspace_0121e32c3b52e1755201709cba70970e" type="Folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Friends of the Abraham Lincoln Brigade: General</unittitle><unitdate datechar="creation">Oct 1937-Jun 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_eae918fca6b38ad856584ee6bf10d3b0" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_3051fe8b9d56a9f65c04c9e7292e3a4f" parent="aspace_eae918fca6b38ad856584ee6bf10d3b0" type="Folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Friends of the Abraham Lincoln Brigade: Report of meeting with the Confederated Spanish Societies</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_223c6b9d150559ab46b174066f9f6e24" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_ebc4a3cbb0d3ec77c58c2fdf8c35b23b" parent="aspace_223c6b9d150559ab46b174066f9f6e24" type="Folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Grachow, Leo: Poem, "We Came to Spain"</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_66f330d8caa77cc5f02737d88a7ec7e3" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_f79e9a7b5ed7f4e67d41592c0ab860e2" parent="aspace_66f330d8caa77cc5f02737d88a7ec7e3" type="Folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Laissez-passer issued by Commissariat Special</unittitle><unitdate datechar="creation">Aug 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_88233fbb2415cca9a421777ddc394e05" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_e81a968b047ee3c4adc43e0274ddaf1e" parent="aspace_88233fbb2415cca9a421777ddc394e05" type="Folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Lincoln-Washington Battalion: Notes</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_cca91f404dad0a26675dc0b5b844cd57" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_26afe00688bc5316e1b0ad6d122d4bb2" parent="aspace_cca91f404dad0a26675dc0b5b844cd57" type="Folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Lincoln-Washington Battallion: Order to Merge</unittitle><unitdate datechar="creation">Jul 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1fa8cd2a1ff502e0acaf16a832efeb04" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_a6e8bf30aa59bfdc551a239bfb25c226" parent="aspace_1fa8cd2a1ff502e0acaf16a832efeb04" type="Folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Lincoln-Washington Battallion: Orders of the Day</unittitle><unitdate datechar="creation">Aug 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dc28a548ea884884bf9f8a773fdb94aa" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_54b8801e81472937989571940ec2a4f4" parent="aspace_dc28a548ea884884bf9f8a773fdb94aa" type="Folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Membership booklets: VALB and Soccoro Rojo Internacional</unittitle><unitdate datechar="creation">May 1937 , Jan 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_05fdba16bf1bea09eb1cc136453f9899" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_e29d206036b27d0822054f889a3c30c1" parent="aspace_05fdba16bf1bea09eb1cc136453f9899" type="Folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Memorial service for Spanish Civil War volunteers (program)</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7e320a16b59b2216bf688e0f0d4fb164" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_cf985effb7230072943ee7541d283f12" parent="aspace_7e320a16b59b2216bf688e0f0d4fb164" type="Folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Rauschwald, Mark: to "Comrade Begun"</unittitle><unitdate datechar="creation">Apr 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b8d4725cdce4813d0dfb5b2419d0a49a" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_5039bc2ddefcb324f4829cfbfe9733ef" parent="aspace_b8d4725cdce4813d0dfb5b2419d0a49a" type="Folder">20</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Speaking Engagements</unittitle><unitdate datechar="creation">Mar 1938-Jun 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a2f778f329a1940701f257e2eb39e82a" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_1595c184786d27bd073f558ee8ca44d2" parent="aspace_a2f778f329a1940701f257e2eb39e82a" type="Folder">21</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Washington Battalion: Orders of the Day</unittitle><unitdate datechar="creation">Jul 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4021a80b743496e5e71bc68383e41233" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_e40f59921aa905e01da63d1b19f4de6c" parent="aspace_4021a80b743496e5e71bc68383e41233" type="Folder">22</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>White, David McKelvy: Biographical</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4dc3b098daecf902fbed17142519f8d1" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_966f5dfba9d5daeaf426f9ff0e5a826e" parent="aspace_4dc3b098daecf902fbed17142519f8d1" type="Folder">23</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>White, David McKelvy: Memorial service and condolence letters</unittitle><unitdate datechar="creation">Aug 1945</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_17834e4d77f3df05a0caf250481d7991" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_918ebf9dec9f464c96c1fda7fff569a8" parent="aspace_17834e4d77f3df05a0caf250481d7991" type="Folder">24</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>White, David McKelvy: Spanish Civil War Diary</unittitle><unitdate datechar="creation">Apr 1937-Sep 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_83a949591b7e82a57e42e9d260f2a260" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_9461230646a31837bc21ac03368816f4" parent="aspace_83a949591b7e82a57e42e9d260f2a260" type="Folder">25</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Writings: Notes</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a42a9070e31e87f93288b0f53a92263d" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_a2a2e921d4da4f2f9ff0a853c941124f" parent="aspace_a42a9070e31e87f93288b0f53a92263d" type="Folder">26</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Writings: Published</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated , Jul 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3e3ff510e7f734be7d8c8c1d7ac195de" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_8558153bfde814e5e30a2275036e07fd" parent="aspace_3e3ff510e7f734be7d8c8c1d7ac195de" type="Folder">27</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Writings: Typescripts</unittitle><unitdate datechar="creation" normal="1937/1945" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f32cc1bb72cb8f84e40788c25ec8e6f7" label="Mixed Materials [31142062755759]" type="Box">1</container><container id="aspace_bbaadf8412301aeb9854007e446da4de" parent="aspace_f32cc1bb72cb8f84e40788c25ec8e6f7" type="Folder">28</container></did></c></c></dsc>
+</archdesc>
 </ead>

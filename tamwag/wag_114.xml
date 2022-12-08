@@ -1,472 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_boxlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_114">wag_114</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Civil Service Merit Council Records <num>WAG.114</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:48:11 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Civil Service Merit Council Records</unittitle>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">Civil Service Merit Council</corpname>
-      </origination>
-      <origination label="source">
-        <persname rules="dacs" source="local">Gorsky, Sheila</persname>
-      </origination>
-      <origination label="source">
-        <corpname role="dnr" rules="dacs" source="local">Civil Service Merit Council</corpname>
-      </origination>
-      <unitid>WAG.114</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
-        <extent altrender="carrier">(12 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1970/2006" type="inclusive">1970s-2000s</unitdate>
-      <physloc id="aspace_e3d583f96ccb739d8815ecc8c4cad102">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <scopecontent id="aspace_796379bc3086a41b9e67aa9fc26b0e01">
-      <head>Scope and Contents</head>
-      <p>The records consist of organizational reports and correspondence, notices and flyers, publicity materials and background files on such topics as legislation, the merit system, payroll issues, school construction, job titles and whistle-blowers.</p>
-    </scopecontent>
-    <bioghist id="aspace_e8cc5fb1dbc6d8035df1cf4bcfeabc5c">
-      <head>Historical/Biographical Note</head>
-      <p>The Civil Service Merit Council was founded in 1971 by Alfred Engel (d. 2007), an engineer who had worked in many New York City agencies and was active as a chapter chairman in the Civil Service Technical Guild, Local 375 (AFSCME, DC 37), and attorney Julian Jackson. Engel became the council's first president. The purpose of the Merit Council was to advocate for strict adherence to civil service examination results, and against patronage, favoritism, outsourcing and other abuses in civil service employment. It is a non-partisan coalition of individuals and organizations.</p>
-    </bioghist>
-    <userestrict id="aspace_f600871013ef320d3578a960ee3856ef">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Civil Serivce Merit Council was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <accessrestrict id="aspace_8e74ae66eced0bb93a496785ceae91fd">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_dc121b73b6cca2d538562d533bfceb89">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by the Civil Service Merit Council, 1995. The accession number associated with this gift is 2000.005.</p>
-    </acqinfo>
-    <custodhist id="aspace_37757d09d95c2b5a7ed4cd819cb5fbc6">
-      <head>Custodial History</head>
-      <p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>
-    </custodhist>
-    <controlaccess>
-      <subject source="lcsh">Municipal officials and employees -- New York (N.Y.)</subject>
-      <geogname source="lcsh">New York (N.Y.) -- Politics and government.</geogname>
-      <subject source="lcsh">Government employee unions |z New York (State) |z New York.</subject>
-      <subject source="lcsh">Civil service -- New York (N.Y.)</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_boxlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_114">wag_114</eadid><filedesc><titlestmt><titleproper>Guide to the Civil Service Merit Council Records <num>WAG.114</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:05:10 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Civil Service Merit Council Records</unittitle>
+    <origination label="Creator">
       <corpname rules="dacs" source="local">Civil Service Merit Council</corpname>
-      <persname role="fmo" rules="dacs" source="local">Gorsky, Sheila</persname>
-      <persname source="local">Engel, Alfred, d. 2007</persname>
+    </origination>
+    <origination label="source">
+      <persname rules="dacs" source="local">Gorsky, Sheila</persname>
+    </origination>
+    <origination label="source">
       <corpname role="dnr" rules="dacs" source="local">Civil Service Merit Council</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref3" level="file">
-        <did>
-          <unittitle>Membership; Bank Papers; Correspondence; Meeting Notices; Favoritism; Hearings</unittitle>
-          <unitdate datechar="creation" normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-          <container id="aspace_e5abf44abab4abdc8d7aeb51ace10a45" label="Mixed Materials [31142046761139]" type="Box">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref4" level="file">
-        <did>
-          <unittitle>Dinners; Events; Meetings; Correspondence; Reports; Lobbying</unittitle>
-          <unitdate datechar="creation" normal="1975/1999" type="inclusive">Late 1970s-1990s</unitdate>
-          <container id="aspace_4830e6b73e36d87669d9f935e56acc32" label="Mixed Materials [31142046761147]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref5" level="file">
-        <did>
-          <unittitle>Newspaper Clippings; Articles; Charter; Personnel Policy; Watchdog</unittitle>
-          <unitdate datechar="creation" normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
-          <container id="aspace_32e998fcbbcb27c8fb7878a5a144eb1f" label="Mixed Materials [31142046761154]" type="Box">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref6" level="file">
-        <did>
-          <unittitle>Membership; Civil Service Technical Guild; Dues Letters; Watchdog 1994-1996</unittitle>
-          <unitdate datechar="creation" normal="1994/1996" type="inclusive">1980s-mid 1990s</unitdate>
-          <container id="aspace_6a760ea131fdb7b6689dcb9a0de23d91" label="Mixed Materials [31142046761162]" type="Box">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref7" level="file">
-        <did>
-          <unittitle>Watchdog; Board of Examiners; 1978 Capital Cash Flow; 1972 City Council Report-Assault on the Merit System; Civil Service Legislation; Corruption; Various Court Cases</unittitle>
-          <unitdate datechar="creation" normal="1970/1999" type="inclusive">1970s- 1990s</unitdate>
-          <container id="aspace_9f0abcda6d4aa5e24075ee6aa9d56ab3" label="Mixed Materials [31142046761170]" type="Box">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref8" level="file">
-        <did>
-          <unittitle>Watchdog 1978, 1984, 1986, 1987; Publicity; News Releases; Newspaper Articles; Letters to the Editor; Awards; Dues 1994, 1995, 1996, 1997</unittitle>
-          <unitdate datechar="creation" normal="1970/1999" type="inclusive">1970s-1990s</unitdate>
-          <container id="aspace_ce45aa1a5d1d0b6b7aee58660836f33b" label="Mixed Materials [31142046761188]" type="Box">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref9" level="file">
-        <did>
-          <unittitle>Organizational Chart; Flyers; Newspaper Clippings, Articles; Pictures; Statement of Edward Koch before the NYS Commission on Government Integrity 4/5/89; NYC Affirmative Employment Plan 1991</unittitle>
-          <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s-1990s</unitdate>
-          <container id="aspace_723d9de64774533dc10ef05456977683" label="Mixed Materials [31142046761196]" type="Box">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>Subject Files I-O Including: Legislation; Managerial; Mayor20s Office; Merit System</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_693dae20a5cc12b4cb611f3f656025c1" label="Mixed Materials [31142046761204]" type="Box">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle>Subject Files P-S Including: Payroll Probe; Personnel Files; Provisionals; State Retirement; School Construction</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_5e08ddf4347abbc0c4746e1614c8a874" label="Mixed Materials [31142046761212]" type="Box">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Subject Files S-W Including: The Superintendent Hearing; Teachers; Titles; Whistle Blowers</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_eb89e179562c82e7167d59947f8c5f04" label="Mixed Materials [31142046761220]" type="Box">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>CSMC Dinner 05, 06</unittitle>
-          <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
-          <container id="aspace_efdb30436ea0b6ead41ee91eb682a7da" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Union Invitations to CSMC 2006 Dinner (2 Folders)</unittitle>
-          <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
-          <container id="aspace_d711ab391b482b05d273c22eecc242a4" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>Civil Service Merit Council Misc. Papers</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_8bc6fb731844263074616aab37a46111" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Legal Actions (2 Folders)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_1699245ab6e7729de14fe26eaa6f13a7" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>CSMC Case Files- Fitzgerald v. Rosenzwig</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_2fd5a83cdce42da5635e7044183d5e8a" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>CSMC Letters</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_17f7390441ddf230a522679a8e5f6bd4" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>Merit Council Mailings 2002</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container id="aspace_edaf0d1c364ee6937930921533414fbf" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>CSMC Membership Material 2002</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container id="aspace_ec2b28d27a5d50401835ea3f9d305214" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>News Articles, ect.</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_5fc7f42085b5d146f0de403005539b50" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Civil Service Merit Council-25th Anniversary Dinner</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_67a5711225b02d3949cb25ed05ff7453" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>Additional Information on 25th Anniversary</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_be29b0c3cfae8df80d39802e48102ff9" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>Board Meeting Minutes Jan. 2000, 2001, 1999</unittitle>
-          <unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate>
-          <container id="aspace_398ad905dbc2ec342ffe3910f7e5126d" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref25" level="file">
-        <did>
-          <unittitle>General Meeting Membership Minutes-Various Years(Binder)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_d597895320d4cdb5f1273051474e2538" label="Mixed Materials [31142050274789]" type="Box">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle>CSMC Elections 1999</unittitle>
-          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
-          <container id="aspace_f7913231a7e39547ad825cd42ecc6d2a" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle>CSMC Elections 1998</unittitle>
-          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
-          <container id="aspace_59c0546fb41430e904d341d9b9743b5e" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle>CSMC Official Seal 1988</unittitle>
-          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
-          <container id="aspace_def76b1eaa527794e338ad4e1decab71" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle>Merit Council Board Meeting 2000</unittitle>
-          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
-          <container id="aspace_faf28c45f95fbfa7fdba5f3843f98206" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref30" level="file">
-        <did>
-          <unittitle>CSMC Elections 2000</unittitle>
-          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
-          <container id="aspace_16542c7d21415a63433c510a4d0a275c" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref31" level="file">
-        <did>
-          <unittitle>Correspondence 1998</unittitle>
-          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
-          <container id="aspace_e2f8eb6e7dc2b4006821c188648cb7b1" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref32" level="file">
-        <did>
-          <unittitle>Correspondence 1999</unittitle>
-          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
-          <container id="aspace_bf9aae07bfdabdd90cd475a3b1e997ff" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>Correspondence 2000-2001</unittitle>
-          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
-          <container id="aspace_4317308ee51ea5fda69ad2878cc35c8f" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref34" level="file">
-        <did>
-          <unittitle>Management Council Board Meeting 2001</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container id="aspace_5acbf4226baa627b1976a753b319aa90" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>Mathew Farrell-Candidate for City Council-26th District</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_44a1dbd70c6de3124232c4c59f8e0e3b" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref36" level="file">
-        <did>
-          <unittitle>Bank Statement 2001</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container id="aspace_fbfa1af11ae0aa800232a29e063c425e" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref37" level="file">
-        <did>
-          <unittitle>Resumes Honorees 2004</unittitle>
-          <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
-          <container id="aspace_fab016c919ffad7bf4bd7dc6cf5d94d0" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref38" level="file">
-        <did>
-          <unittitle>CSMC Meetings and Minutes 2004</unittitle>
-          <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
-          <container id="aspace_39e35d93863ab9cef595dd0690c692e6" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref39" level="file">
-        <did>
-          <unittitle>CSMC Correspondence 2003</unittitle>
-          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
-          <container id="aspace_3fbee688454935d141daf6323dd14d48" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref40" level="file">
-        <did>
-          <unittitle>CSMC Dinner Nov. 2003</unittitle>
-          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
-          <container id="aspace_ab1de488633d30598c32f9defd4b9c3e" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref41" level="file">
-        <did>
-          <unittitle>CSMC Meetings 2005</unittitle>
-          <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
-          <container id="aspace_73c1be7d4236dec71da81d9c9167f0fd" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref42" level="file">
-        <did>
-          <unittitle>Resumes CSMC 2005-2006</unittitle>
-          <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
-          <container id="aspace_58bedc9d30b544540bb96aa7eeb9bdfe" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref43" level="file">
-        <did>
-          <unittitle>CSMC Meeting Notices 2003</unittitle>
-          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
-          <container id="aspace_2d1b0328cea76f4f0959d46efc9d2b8d" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref44" level="file">
-        <did>
-          <unittitle>CSMC Membership 2003</unittitle>
-          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
-          <container id="aspace_86eefadaf2317e8e12f6f25f7ab80a91" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref45" level="file">
-        <did>
-          <unittitle>CSMC Minutes 2000-2003</unittitle>
-          <unitdate datechar="creation" normal="2000/2003" type="inclusive">2000-2003</unitdate>
-          <container id="aspace_e3c1abadd006a3ae4738670e27441ec7" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref46" level="file">
-        <did>
-          <unittitle>CSMC Misc. Material 1999-2000</unittitle>
-          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
-          <container id="aspace_bd6217a51bb25a9b88b3941c73efc1fd" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref47" level="file">
-        <did>
-          <unittitle>CSMC Membership 2004-2005</unittitle>
-          <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
-          <container id="aspace_a6974a7e58c196aec2f5853383386afd" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref48" level="file">
-        <did>
-          <unittitle>CSMC Letters for Unions and Draft Editorial Piece in The Chief 2003</unittitle>
-          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
-          <container id="aspace_2d9a12c88d028bcd98c4d4caa4f9741e" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref49" level="file">
-        <did>
-          <unittitle>CSMC Dinner Oct 17, 2002</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">Oct 17, 2002</unitdate>
-          <container id="aspace_adcdc23931cda83f2e4588e14b938c49" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref50" level="file">
-        <did>
-          <unittitle>Elections 2002</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container id="aspace_c88f4f8c665dca9f79b9c7ef7f9fb0fe" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref51" level="file">
-        <did>
-          <unittitle>CSMC Dinner 2004</unittitle>
-          <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
-          <container id="aspace_b572b25e6801115515eb1b518fecbe3d" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref52" level="file">
-        <did>
-          <unittitle>CSMC Election 2005</unittitle>
-          <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
-          <container id="aspace_8c4a949c82f831d213c2c4bf0fba5531" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref53" level="file">
-        <did>
-          <unittitle>CSMC Election 2003, 2004</unittitle>
-          <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
-          <container id="aspace_02a53ccc19f4a7874960121e04f671c7" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref54" level="file">
-        <did>
-          <unittitle>CSMC Legal Case 2003</unittitle>
-          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
-          <container id="aspace_3a71f50baabe49cdf27e25faa728fcbb" label="Mixed Materials [31142050274771]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref56" level="otherlevel" otherlevel="website">
-        <did>
-          <unittitle>Archived Website</unittitle>
-          <unitdate datechar="creation" normal="2009/2009" type="inclusive">Feb 6, 2009-Mar 6, 2009</unitdate>
-          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://www.meritcouncil.com/" xlink:role="external-link" xlink:show="new" xlink:title="Civil Service Merit Council" xlink:type="simple">
-            <daodesc>
-              <p>Civil Service Merit Council</p>
-            </daodesc>
-          </dao>
-        </did>
-        <scopecontent id="aspace_0c3d2e76a3f9d434af20ac33da501914">
-          <head>Scope and Content Note</head>
-          <p>The Civil Service Merit Council, founded in 1971, is a non-partisan coalition of individuals and organizations whose primary purpose was to increase the level of efficiency and integrity of government. The Merit Council's primary objective is to ensure that all appointments to the New York civil service shall be made through competitive examinations to properly classified positions from among persons duly qualified without regard to race, religion, age, sex, or political opinion or affiliation. The Council is dedicated to preserving and advancing the rights and tenure of all persons in the Merit System.</p>
-        </scopecontent>
-        <phystech id="aspace_f03acb57f0aed090c270f79ae175beaa">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
-        </phystech>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>WAG.114</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
+      <extent altrender="carrier">(12 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1970/2006" type="inclusive">1970s-2000s</unitdate>
+    <physloc id="aspace_e3d583f96ccb739d8815ecc8c4cad102">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_796379bc3086a41b9e67aa9fc26b0e01">
+    <head>Scope and Contents</head>
+<p>The records consist of organizational reports and correspondence, notices and flyers, publicity materials and background files on such topics as legislation, the merit system, payroll issues, school construction, job titles and whistle-blowers.</p>  </scopecontent>
+  <bioghist id="aspace_e8cc5fb1dbc6d8035df1cf4bcfeabc5c">
+    <head>Historical/Biographical Note</head>
+<p>The Civil Service Merit Council was founded in 1971 by Alfred Engel (d. 2007), an engineer who had worked in many New York City agencies and was active as a chapter chairman in the Civil Service Technical Guild, Local 375 (AFSCME, DC 37), and attorney Julian Jackson. Engel became the council's first president. The purpose of the Merit Council was to advocate for strict adherence to civil service examination results, and against patronage, favoritism, outsourcing and other abuses in civil service employment. It is a non-partisan coalition of individuals and organizations.</p>  </bioghist>
+  <userestrict id="aspace_f600871013ef320d3578a960ee3856ef">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Civil Serivce Merit Council was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <accessrestrict id="aspace_8e74ae66eced0bb93a496785ceae91fd">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_dc121b73b6cca2d538562d533bfceb89">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by the Civil Service Merit Council, 1995. The accession number associated with this gift is 2000.005.</p>  </acqinfo>
+  <custodhist id="aspace_37757d09d95c2b5a7ed4cd819cb5fbc6">
+    <head>Custodial History</head>
+<p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>  </custodhist>
+  <controlaccess>
+    <subject source="lcsh">Municipal officials and employees -- New York (N.Y.)</subject>
+    <geogname source="lcsh">New York (N.Y.) -- Politics and government.</geogname>
+    <subject source="lcsh">Government employee unions |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Civil service -- New York (N.Y.)</subject>
+    <corpname rules="dacs" source="local">Civil Service Merit Council</corpname>
+    <persname role="fmo" rules="dacs" source="local">Gorsky, Sheila</persname>
+    <persname source="local">Engel, Alfred, d. 2007</persname>
+    <corpname role="dnr" rules="dacs" source="local">Civil Service Merit Council</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref3" level="file"><did><unittitle>Membership; Bank Papers; Correspondence; Meeting Notices; Favoritism; Hearings</unittitle><unitdate datechar="creation" normal="1970/1989" type="inclusive">1970s-1980s</unitdate><container id="aspace_fb4f023b9e432cd7cb463e76a6e058a2" label="Mixed Materials [31142046761139]" type="Box">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Dinners; Events; Meetings; Correspondence; Reports; Lobbying</unittitle><unitdate datechar="creation" normal="1975/1999" type="inclusive">Late 1970s-1990s</unitdate><container id="aspace_a396ec4c5226c2402f61a426c5c4c10a" label="Mixed Materials [31142046761147]" type="Box">2</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Newspaper Clippings; Articles; Charter; Personnel Policy; Watchdog</unittitle><unitdate datechar="creation" normal="1970/1989" type="inclusive">1970s-1980s</unitdate><container id="aspace_913fa8410f340b71d2347977d41df60c" label="Mixed Materials [31142046761154]" type="Box">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Membership; Civil Service Technical Guild; Dues Letters; Watchdog 1994-1996</unittitle><unitdate datechar="creation" normal="1994/1996" type="inclusive">1980s-mid 1990s</unitdate><container id="aspace_de0b0021dc4b3893ed0e57d73d157b43" label="Mixed Materials [31142046761162]" type="Box">4</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Watchdog; Board of Examiners; 1978 Capital Cash Flow; 1972 City Council Report-Assault on the Merit System; Civil Service Legislation; Corruption; Various Court Cases</unittitle><unitdate datechar="creation" normal="1970/1999" type="inclusive">1970s- 1990s</unitdate><container id="aspace_1d9bfb0a7b3cec7d361e13b9ad435682" label="Mixed Materials [31142046761170]" type="Box">5</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Watchdog 1978, 1984, 1986, 1987; Publicity; News Releases; Newspaper Articles; Letters to the Editor; Awards; Dues 1994, 1995, 1996, 1997</unittitle><unitdate datechar="creation" normal="1970/1999" type="inclusive">1970s-1990s</unitdate><container id="aspace_4d6635d4ca686dab69610fb36fcaa3dd" label="Mixed Materials [31142046761188]" type="Box">6</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Organizational Chart; Flyers; Newspaper Clippings, Articles; Pictures; Statement of Edward Koch before the NYS Commission on Government Integrity 4/5/89; NYC Affirmative Employment Plan 1991</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s-1990s</unitdate><container id="aspace_2cef0ccb32f1a63add8a9dbaf1e1c49f" label="Mixed Materials [31142046761196]" type="Box">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Subject Files I-O Including: Legislation; Managerial; Mayor20s Office; Merit System</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_34d9cd984c93a1b7172baf90ad7f911c" label="Mixed Materials [31142046761204]" type="Box">8</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Subject Files P-S Including: Payroll Probe; Personnel Files; Provisionals; State Retirement; School Construction</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_8e8a6e0bf1efb1fe9daa8db864606db5" label="Mixed Materials [31142046761212]" type="Box">9</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Subject Files S-W Including: The Superintendent Hearing; Teachers; Titles; Whistle Blowers</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_b09f48dea658df1ebde6984e2fd9dd5f" label="Mixed Materials [31142046761220]" type="Box">10</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>CSMC Dinner 05, 06</unittitle><unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate><container id="aspace_5c01f5eead6673b8945d66ecc8baaa71" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Union Invitations to CSMC 2006 Dinner (2 Folders)</unittitle><unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate><container id="aspace_721f73700d617b6b98b40f14db3e2c38" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Civil Service Merit Council Misc. Papers</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_b68dac70fac705938f099e76db35c80b" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Legal Actions (2 Folders)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_d10f16bee2a3a9b2e323c54d15361b18" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>CSMC Case Files- Fitzgerald v. Rosenzwig</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_4b713149d7711430d9b5be83c4a3b74e" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>CSMC Letters</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_14681de8c96005862b70355cba89364d" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Merit Council Mailings 2002</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_552a8340416f414d0b36bd7110c7b47e" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>CSMC Membership Material 2002</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_6afdf56e8ed26197bd25058d3ad5c0c1" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>News Articles, ect.</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_590da340cf23daa48ffe3b67f29c6b92" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Civil Service Merit Council-25th Anniversary Dinner</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_2274a00bc7654618dec8a8ebf1c9f400" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Additional Information on 25th Anniversary</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_4c37a608cf6fb3cdfedf269ee812dad1" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Board Meeting Minutes Jan. 2000, 2001, 1999</unittitle><unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate><container id="aspace_7e79daa5cc2c12bad127fa1d2fa2865a" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>General Meeting Membership Minutes-Various Years(Binder)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_e431f7b2edd3e943b200132710564ac8" label="Mixed Materials [31142050274789]" type="Box">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>CSMC Elections 1999</unittitle><unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate><container id="aspace_1470cde44b978360706028b17a5b5215" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>CSMC Elections 1998</unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><container id="aspace_256b59554e4f9226907fbacc9a44539f" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>CSMC Official Seal 1988</unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><container id="aspace_185f7613621c420344ce0a5420ecbdde" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Merit Council Board Meeting 2000</unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate><container id="aspace_dcd98f44989f912452994c8c60788f88" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>CSMC Elections 2000</unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate><container id="aspace_19eed07219a44d6e3be2a64e2a4da7fb" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Correspondence 1998</unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><container id="aspace_ea891f6db23f1f27a39d23bcfb67ef27" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Correspondence 1999</unittitle><unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate><container id="aspace_99e4e3e4a719f60d8199f1fe6c557506" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Correspondence 2000-2001</unittitle><unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate><container id="aspace_59684107dfec525cb5aec8b5ac00abcb" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Management Council Board Meeting 2001</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container id="aspace_91915fadfeda3fe7f0284527b5494deb" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Mathew Farrell-Candidate for City Council-26th District</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_efffd067043d72fd415e396c779a3311" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Bank Statement 2001</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container id="aspace_d3d8375028070417c4a1503432353d52" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Resumes Honorees 2004</unittitle><unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate><container id="aspace_d920aa7dd1bfc277c6e3ff441bddacc5" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>CSMC Meetings and Minutes 2004</unittitle><unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate><container id="aspace_9815ff5d850cd4e0947dd625f1e774b7" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>CSMC Correspondence 2003</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_038b21950876da847a185e2211787d97" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>CSMC Dinner Nov. 2003</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_2d72471ecd9e9dbe11e7cfcf9c645ae6" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>CSMC Meetings 2005</unittitle><unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate><container id="aspace_36fc78b21a6e7c8bc38237dd60873613" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Resumes CSMC 2005-2006</unittitle><unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate><container id="aspace_ad139ea7d1ee98aa749cfba03020dd9e" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>CSMC Meeting Notices 2003</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_1480abc50a9307da549f14bce0e54a81" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>CSMC Membership 2003</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_67669f50bf98cc2333c26df4ff486eca" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>CSMC Minutes 2000-2003</unittitle><unitdate datechar="creation" normal="2000/2003" type="inclusive">2000-2003</unitdate><container id="aspace_19a28b6831368d447cfd1769a23cd4ea" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>CSMC Misc. Material 1999-2000</unittitle><unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate><container id="aspace_b119a256aea1d3d75d968e085bb3b6a0" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>CSMC Membership 2004-2005</unittitle><unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate><container id="aspace_a1c35d3634ed95ef1e21446e3ef4d6a2" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>CSMC Letters for Unions and Draft Editorial Piece in The Chief 2003</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_8e3fb635cb2b5763b2f740071b2af57f" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>CSMC Dinner Oct 17, 2002</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">Oct 17, 2002</unitdate><container id="aspace_18d7abd6e17e45b59c187f810439813c" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Elections 2002</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_9383f3477f0e35d0c666eabed91b67f3" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>CSMC Dinner 2004</unittitle><unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate><container id="aspace_6cf4a459bdddfe3b237bdce65fd75699" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>CSMC Election 2005</unittitle><unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate><container id="aspace_5ed1aa0ba00844de8c8278f41bae7ba7" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>CSMC Election 2003, 2004</unittitle><unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate><container id="aspace_f8466a374c5ddb54ea003b7757513e88" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>CSMC Legal Case 2003</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_cfb5f7d0a2872f2ab0b861b0cf6039d1" label="Mixed Materials [31142050274771]" type="Box">12</container></did></c><c id="aspace_ref56" level="otherlevel" otherlevel="website"><did><unittitle>Archived Website</unittitle><unitdate datechar="creation" normal="2009/2009" type="inclusive">Feb 6, 2009-Mar 6, 2009</unitdate><dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://www.meritcouncil.com/" xlink:role="external-link" xlink:show="new" xlink:title="Civil Service Merit Council" xlink:type="simple"><daodesc><p>Civil Service Merit Council</p></daodesc></dao></did><scopecontent id="aspace_0c3d2e76a3f9d434af20ac33da501914"><head>Scope and Content Note</head><p>The Civil Service Merit Council, founded in 1971, is a non-partisan coalition of individuals and organizations whose primary purpose was to increase the level of efficiency and integrity of government. The Merit Council's primary objective is to ensure that all appointments to the New York civil service shall be made through competitive examinations to properly classified positions from among persons duly qualified without regard to race, religion, age, sex, or political opinion or affiliation. The Council is dedicated to preserving and advancing the rights and tenure of all persons in the Merit System.</p></scopecontent><phystech id="aspace_f03acb57f0aed090c270f79ae175beaa"><head>Physical Characteristics and Technical Requirements</head><p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p></phystech></c></dsc>
+</archdesc>
 </ead>

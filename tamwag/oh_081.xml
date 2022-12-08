@@ -1,752 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_081/">oh_081</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Spargel Production Rosie the Riveter Media Collection <num>OH.081</num></titleproper>
-        <author>Nic Caldwell</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>January 28, 2020</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:23:09 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>January 2020</date>
-        <item>Finding aid was updated by Anna McCormick to add audiovisual and born digital extents</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Spargel Production Rosie the Riveter Media Collection</unittitle>
-      <origination label="Creator">
-        <corpname role="cre" source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname role="cre" rules="dacs" source="local">Spargel Productions</corpname>
-      </origination>
-      <unitid>OH.081</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.8 Linear Feet</extent>
-        <extent altrender="carrier">in two manuscript boxes and one record carton</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">70 videodiscs (dvd)</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">70.55 Gigabytes</extent>
-        <extent altrender="carrier">in 102 computer files</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="2010/2010">2010</unitdate>
-      <abstract id="aspace_76f6d5854d7634b5d70a1db255fe6f97">This collection consists of interviews of women who entered the industrial workforce (automobiles, shipbuilding, aircraft manufacturing, electrical equipment manufacturing, and transportation) during the years of World War II (1939-1945). Interviews we were created on digital video for use in the Spargel Productions new media project "The Girl With The Rivet Gun." Topics covered include gender relations and discrimination at work, union experience, industrial work, family roles, transitioning from rural to urban environments, race relations, and post-war employment experiences. Interviews were taken in English and transcripts are available for all interviews.</abstract>
-      <langmaterial id="aspace_5ed0685ca10d8dddb17f878e75441a38">Materials primarily in English.</langmaterial>
-    </did>
-    <acqinfo id="aspace_c49506613a475ed4f6988b7e36bba5fd">
-      <head>Immediate Source of Acquisition</head>
-      <p>The Rosie the Riveter film project was conducted in conjunction with Spargel Productions, LLC and the Tamiment Library and Robert F. Wagner Labor Archives beginning in 2010. The accession number associated with this collection is 2010.014.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_8f235a74b4792f465188d3ff9b2bba1a">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_722fcbb0d54e2a728a955c4203bc909a">
-      <head>Conditions Governing Use</head>
-      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Any rights (including copyright and related rights to publicity and privacy) held by Tamiment Library and Robert F. Wagner Labor Archives are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact tamiment.wagner@nyu.edu.</p>
-    </userestrict>
-    <phystech id="aspace_e7d8d877407fc2776d9542701314e7b9">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room.</p>
-    </phystech>
-    <arrangement id="aspace_2c9095419011687fa7f46d827a089b0a">
-      <head>Arrangement</head>
-      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <prefercite id="aspace_eb0dfe37946d9e036c043233341f6dea">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Spargel Production Rosie the Riveter Media Collection; OH 081; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_646a83280ee4ffabd7849f53a8c9c442">
-      <head>Processing Information</head>
-      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 have not yet been recorded. </p>
-      <p>In 2019 the DVDs were forensically imaged, analyzed, and arranged using Research Workspace.  New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.  </p>
-    </processinfo>
-    <scopecontent id="aspace_8b5221769de2df939df5ce9295087b57">
-      <head>Scope and Contents</head>
-      <p>This collection consists of thirty-three interviews with women who entered the industrial workforce (automobiles, shipbuilding, aircraft manufacturing, electrical equipment manufacturing, and transportation) during the years of World War II (1939-1945). Topics covered include gender relations and discrimination at work, union experience, industrial work, family roles, transitioning from rural to urban environments, education, race relations, and post-war employment experiences.</p>
-    </scopecontent>
-    <bioghist id="aspace_a3935cf090f0f289cdc88ea75b938932">
-      <head>Biographical / Historical</head>
-      <p>These interviews were recorded as a part of a collaborative media project by Spargel Productions and New York University's Tamiment Library. These oral histories were created on digital video and portions of them are used in the Spargel Production new media project "The Girl With The Rivet Gun." They are being preserved at the Tamiment Library.</p>
-    </bioghist>
-    <phystech id="aspace_1fea69910a0f42c7390c74bddfb465c7">
-      <head>Born-Digital Access Policies and Procedures</head>
-      <p>An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>
-    </phystech>
-    <controlaccess>
-      <subject source="lcsh">Working class women -- History.</subject>
-      <subject source="lcsh">World War, 1939-1945.</subject>
-      <subject source="lcsh">Factories |x Employees. </subject>
-      <subject source="lcsh">Gender discrimination.</subject>
-      <subject source="lcsh">Gender identity -- United States</subject>
-      <subject source="lcsh">Race relations -- United States.</subject>
-      <subject source="lcsh">Equality |x Economic aspects |z United States.</subject>
-      <subject source="lcsh">Consumerism.</subject>
-      <subject source="lcsh">Trade unions |z United States.</subject>
-      <subject source="lcsh">Sexual Orientation |z United States</subject>
-      <subject source="lcsh">Automobile industry workers |z United States.</subject>
-      <subject source="lcsh">World War, 1939-1945 -- United States -- Personal narratives.</subject>
-      <subject source="lcsh">African American women |x Economic conditions.</subject>
-      <subject source="lcsh">Sex discrimination against women.</subject>
-      <subject source="lcsh">Women -- Employment -- United States.</subject>
-      <subject source="lcsh">Women in the labor movement -- United States</subject>
-      <subject source="lcsh">Women labor union members -- United States.</subject>
-      <genreform source="aat">Oral histories (literary works)</genreform>
-      <geogname source="lcsh">Rural conditions.</geogname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref1" level="file">
-        <did>
-          <unittitle>Jerre Kalbas</unittitle>
-          <unitdate datechar="creation" normal="2010-02-17/2010-02-17">2010-02-17</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_068e212e7ae26b8144a7b2230c7d6d79" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_aae4fe51335730e7053231d0056e8861" parent="aspace_068e212e7ae26b8144a7b2230c7d6d79" type="disk">OH-81-001</container>
-          <container altrender="Record carton" id="aspace_19b580d7fd3e45d6568ec3d609988b81" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_effd2e39ab6589ef30b0dcea0dae7a30" parent="aspace_19b580d7fd3e45d6568ec3d609988b81" type="Folder">1</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_9d055a2972f8541ab1180b5cc3119d9a" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_3462e393fd13f8e95615fc06a00d535f" parent="aspace_9d055a2972f8541ab1180b5cc3119d9a" type="DVD">OH-81-001</container>
-          <container id="aspace_849e5ead0a2ae932badf7bc5e4470b02" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_c6a85dae1bb99e310c277028484cd868" parent="aspace_849e5ead0a2ae932badf7bc5e4470b02" type="E-records">TW_OH_81_ER_1</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Jerre Kalbas Interview" xlink:type="simple">
-            <daodesc>
-              <p>Jerre Kalbas Interview: 2010-02-17-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref2" level="file">
-        <did>
-          <unittitle>Esther Horne</unittitle>
-          <unitdate datechar="creation" normal="2010-02-19/2010-02-19">2010-02-19</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_866bf9e5811523fbe2601c7fdcb269cc" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_94a026e4febd17bd3c3397b2fae2c448" parent="aspace_866bf9e5811523fbe2601c7fdcb269cc" type="disk">OH-81-002</container>
-          <container altrender="Record carton" id="aspace_0372b1502f4a38e4e9c7096f0059eb8b" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_dbb00d73579b76e085492d07e8d1e8ef" parent="aspace_0372b1502f4a38e4e9c7096f0059eb8b" type="Folder">2</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_639dff8f9b8825cbb5f54c8ef8522fed" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_1ed989e3e27c330d2b5bd924fcca996e" parent="aspace_639dff8f9b8825cbb5f54c8ef8522fed" type="DVD">OH-81-002</container>
-          <container id="aspace_87f2dfb131c3eca3ffb658f3508f03be" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_d4dd9ef02bec4b4cd1c4ecbb1d66c1d5" parent="aspace_87f2dfb131c3eca3ffb658f3508f03be" type="E-records">TW_OH_81_ER_2</container>
-        </did>
-      </c>
-      <c id="aspace_ref3" level="file">
-        <did>
-          <unittitle>Violet Johnson</unittitle>
-          <unitdate datechar="creation" normal="2010-04-14/2010-04-14">2010-04-14</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7476541bb97afab0c65cf6d0f4423054" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_05b0c06ae71d1f93dc7d9a394c7fdd13" parent="aspace_7476541bb97afab0c65cf6d0f4423054" type="disk">OH-81-003</container>
-          <container altrender="Record carton" id="aspace_39d5cb7a39eba3d72447db93f9c1faa0" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_2101c84125cf4b96a727b1fbb63dbdf2" parent="aspace_39d5cb7a39eba3d72447db93f9c1faa0" type="Folder">3</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f61801003bf336d30012d2d176bd6c20" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_6d814a166c52648a8536a4c02e15e121" parent="aspace_f61801003bf336d30012d2d176bd6c20" type="DVD">OH-81-003</container>
-          <container id="aspace_0ea12abec053833d71a67d454a1e6963" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_7a8338229921c7dd9f3cb75bb641106f" parent="aspace_0ea12abec053833d71a67d454a1e6963" type="E-records">TW_OH_81_ER_3</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Violet Johnson Interview" xlink:type="simple">
-            <daodesc>
-              <p>Violet Johnson Interview: 2010-04-14-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref4" level="file">
-        <did>
-          <unittitle>Idilia Johnston</unittitle>
-          <unitdate datechar="creation" normal="2010-04-14/2010-04-14">2010-04-14</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_94312fefda40af76a0e669e1fa45b491" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_1c9fecfdc58de120876b5ead680ee64d" parent="aspace_94312fefda40af76a0e669e1fa45b491" type="disk">OH-81-004</container>
-          <container altrender="Record carton" id="aspace_cc25d32361802e561716be9cc57719d6" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_77a9d05edbbe903f1dda09a89c9ff568" parent="aspace_cc25d32361802e561716be9cc57719d6" type="Folder">4</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_b16209f04e5c67522646210ed23b30d5" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_e0b6855c381e05b5fb63a0d6e3083082" parent="aspace_b16209f04e5c67522646210ed23b30d5" type="DVD">OH-81-004</container>
-          <container id="aspace_d319caaea1825ae95b02926b9429998a" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_d5f324f43496ef1e6f8c02311a8619e4" parent="aspace_d319caaea1825ae95b02926b9429998a" type="E-records">TW_OH_81_ER_4</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Idilia Johnston Interview" xlink:type="simple">
-            <daodesc>
-              <p>Idilia Johnston Interview: 2010-04-14-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>The Baltimore Rosies</unittitle>
-          <unitdate datechar="creation" normal="2010-04-16/2010-04-16">2010-04-16</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cf55ccb53fa800c171f4dcaffced5d68" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_8bde622a86d17558e919a93c5b748985" parent="aspace_cf55ccb53fa800c171f4dcaffced5d68" type="disk">OH-81-005A / OH-05-005B</container>
-          <container altrender="Record carton" id="aspace_081b5d2c921503a48e3200f5847da758" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_720d9f024de8da982303f8b5b81af427" parent="aspace_081b5d2c921503a48e3200f5847da758" type="Folder">5</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_659dd196e1f64ff6b6c819f5c544b6a9" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_b4b481880d1fa24ca05fb82ffba42115" parent="aspace_659dd196e1f64ff6b6c819f5c544b6a9" type="DVD">OH-81-005A / OH-05-005B</container>
-          <container id="aspace_88debc5ecb54739ab1769052aeeffc88" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_f6a5a6ac847f786106a508c8a7a4052d" parent="aspace_88debc5ecb54739ab1769052aeeffc88" type="E-records">TW_OH_81_ER_5</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The Baltimore Rosies Interview" xlink:type="simple">
-            <daodesc>
-              <p>The Baltimore Rosies Interview: 2010-04-16-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref9" level="file">
-        <did>
-          <unittitle>Susan Taylor King</unittitle>
-          <unitdate datechar="creation" normal="2010-04-16/2010-04-16">2010-04-16</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8c44d37b9b02dd23d5bc510c23b6540d" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_8755d06306089bce170ae7f7825313a8" parent="aspace_8c44d37b9b02dd23d5bc510c23b6540d" type="disk">OH-81-006</container>
-          <container altrender="Record carton" id="aspace_5055221bc5f8192d01b1b8a414372c9c" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_9d18a7f36ebe4a207d6eef383320962e" parent="aspace_5055221bc5f8192d01b1b8a414372c9c" type="Folder">6</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7d6c8168a6857367975c7aa396c52a1e" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_855a218c81cf2104bdbd611b5c842f3f" parent="aspace_7d6c8168a6857367975c7aa396c52a1e" type="DVD">OH-81-006</container>
-          <container id="aspace_87ebc5b160aaa056a575ffb73dffca82" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_91945165e51d6c2cef9d4b2430a2b01d" parent="aspace_87ebc5b160aaa056a575ffb73dffca82" type="E-records">TW_OH_81_ER_6</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Susan Taylor King Interview" xlink:type="simple">
-            <daodesc>
-              <p>Susan Taylor King Interview: 2010-04-16-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Bonnie Gifford</unittitle>
-          <unitdate datechar="creation" normal="2010-05-06/2010-05-06">2010-05-06</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_fc0027d3fee4dd88719afdb957610cda" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_95b27c3dce780332049d907e210f4125" parent="aspace_fc0027d3fee4dd88719afdb957610cda" type="disk">OH-81-007</container>
-          <container altrender="Record carton" id="aspace_95ad1b5bf96e36e332456a8cecd0d43d" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_b6f6509c15453e1e5ea6035cf073c17a" parent="aspace_95ad1b5bf96e36e332456a8cecd0d43d" type="Folder">7</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_aeaeda298c81d50fc06fee4ac7a37298" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_5e9a4d32b0ca8f32ce238d93869aa95e" parent="aspace_aeaeda298c81d50fc06fee4ac7a37298" type="DVD">OH-81-007</container>
-          <container id="aspace_e108f5f521326d6de9df4bbd4064e7b3" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_f03e6162c24081a3d2acdc531d3bd9a1" parent="aspace_e108f5f521326d6de9df4bbd4064e7b3" type="E-records">TW_OH_81_ER_7</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Bonnie Gifford Interview" xlink:type="simple">
-            <daodesc>
-              <p>Bonnie Gifford Interview: 2010-05-06-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle>The Robey Girls</unittitle>
-          <unitdate datechar="creation" normal="2010-05-07/2010-05-07">2010-05-07</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_76ac9ad4985c390175835a72415287d8" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_6a2415be1318df779978c933293ac3ba" parent="aspace_76ac9ad4985c390175835a72415287d8" type="disk">OH-81-008</container>
-          <container altrender="Record carton" id="aspace_94097fa8cf53d0f5f938226f20e70183" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_e7d84363fa1de05aa97de3c9115ee733" parent="aspace_94097fa8cf53d0f5f938226f20e70183" type="Folder">8</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_adcfcd29e32cf9f7c10439529385f52b" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_1c2d2838d60430d7271100ef70f6a60c" parent="aspace_adcfcd29e32cf9f7c10439529385f52b" type="DVD">OH-81-008</container>
-          <container id="aspace_f9913bb76d49859d0a0d7656576d2056" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_88798fbfb547aec59e391d6a5c3e38c7" parent="aspace_f9913bb76d49859d0a0d7656576d2056" type="E-records">TW_OH_81_ER_8</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The Robey Girls Interview" xlink:type="simple">
-            <daodesc>
-              <p>The Robey Girls Interview: 2010-05-07-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Lucetia Jane Tucker</unittitle>
-          <unitdate datechar="creation" normal="2010-06-28/2010-06-28">2010-06-28</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_12fa3a37b1a9c390e03acebc3981a1c7" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_205f0026272527f0bd3b422aadb9bfb7" parent="aspace_12fa3a37b1a9c390e03acebc3981a1c7" type="disk">OH-81-009</container>
-          <container altrender="Record carton" id="aspace_083cc0744bea88b4c4a8e0f8ca8c5cfe" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_28d2a05ed32595611c4c04660d0b2d5d" parent="aspace_083cc0744bea88b4c4a8e0f8ca8c5cfe" type="Folder">9</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_38fe1625e4cfecb5c0264b74c590a508" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_89575e7126c89e918981bf1092a911fc" parent="aspace_38fe1625e4cfecb5c0264b74c590a508" type="DVD">OH-81-009</container>
-          <container id="aspace_179cce8a60537f10dac2a03eae0c96c0" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_cba2ac0367c196b7bdb753cf5b4830a5" parent="aspace_179cce8a60537f10dac2a03eae0c96c0" type="E-records">TW_OH_81_ER_9</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Lucetia Jane Tucker Interview" xlink:type="simple">
-            <daodesc>
-              <p>Lucetia Jane Tucker Interview: 2010-06-28-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Signe Nakashima</unittitle>
-          <unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_0fbe4efa72c202b76642669511234634" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_377804470141924b9f537c7a444a0038" parent="aspace_0fbe4efa72c202b76642669511234634" type="disk">OH-81-010</container>
-          <container altrender="Record carton" id="aspace_ac0f564d86422d749c44ebf2e3b70b5e" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_8b81a820b099da9395e406d8c5df5680" parent="aspace_ac0f564d86422d749c44ebf2e3b70b5e" type="Folder">10</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_9a00c551913b27aae01b6699984072dc" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_c03c965ccce7ec737c5f074d46b6a003" parent="aspace_9a00c551913b27aae01b6699984072dc" type="DVD">OH-81-010</container>
-          <container id="aspace_76f975173097a380dfdd5b2fd32ddd9e" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_86db4aafcbc35fa8034ef2ff85601e6c" parent="aspace_76f975173097a380dfdd5b2fd32ddd9e" type="E-records">TW_OH_81_ER_10</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Signe Nakashima Interview" xlink:type="simple">
-            <daodesc>
-              <p>Signe Nakashima Interview: 2010-06-27-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>Mary Anne Diamond</unittitle>
-          <unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_16033940c95fcd2fb60f59bdda9cf1fe" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_30eb48da2ada0ea2188414d2e20e1a18" parent="aspace_16033940c95fcd2fb60f59bdda9cf1fe" type="disk">OH-81-011</container>
-          <container altrender="Record carton" id="aspace_58e3513eeb4b954bfd042aa9ddd2a990" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_a24056821542e0bdd2eb32e9abdfddfc" parent="aspace_58e3513eeb4b954bfd042aa9ddd2a990" type="Folder">11</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_9456c9c2226406a652076a6c57ad140b" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_1da08e681f31a35473a935e042622394" parent="aspace_9456c9c2226406a652076a6c57ad140b" type="DVD">OH-81-011</container>
-          <container id="aspace_fb13be8532851a025ef2a7129898df79" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_3c67f1bac9b2949be9557bb45ded3ee8" parent="aspace_fb13be8532851a025ef2a7129898df79" type="E-records">TW_OH_81_ER_11</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mary Anna Diamond Interview" xlink:type="simple">
-            <daodesc>
-              <p>Mary Anna Diamond Interview: 2010-06-27-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Mildred Sargent</unittitle>
-          <unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_777de4e6ec52268d06cc6174d93869f3" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_8fdfa11222e75ce10c4410c07dfc7e76" parent="aspace_777de4e6ec52268d06cc6174d93869f3" type="disk">OH-81-012</container>
-          <container altrender="Record carton" id="aspace_4582817691d6107c36a2278c0ea5e7f9" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_d73af7f5cbb4c99cb27e51d863aead99" parent="aspace_4582817691d6107c36a2278c0ea5e7f9" type="Folder">12</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7b941b0acb2057e076967f4324534a07" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_9b1107086ed7abf68249bf12f636e24b" parent="aspace_7b941b0acb2057e076967f4324534a07" type="DVD">OH-81-012</container>
-          <container id="aspace_6e1ec41ff752c472efc503d4df3730ae" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_33687880fdfb27cf3178498964494428" parent="aspace_6e1ec41ff752c472efc503d4df3730ae" type="E-records">TW_OH_81_ER_12</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mildred Sargent Interview" xlink:type="simple">
-            <daodesc>
-              <p>Mildred Sargent Interview: 2010-06-27-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>Evelyn Davidson</unittitle>
-          <unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_91ae2b1b5e1eac3f56e590d0e6f7767e" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_807d7e6b45b4d137d44a36fbc5cf9fa6" parent="aspace_91ae2b1b5e1eac3f56e590d0e6f7767e" type="disk">OH-81-013</container>
-          <container altrender="Record carton" id="aspace_71f6923feb1e27f367b1b656a42ad784" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_34701959f3f6997348be90d363b9b85d" parent="aspace_71f6923feb1e27f367b1b656a42ad784" type="Folder">13</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4008e79d9507c530648527ae5fc99af2" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_02fafc2514b60b1790b5949d1bd70911" parent="aspace_4008e79d9507c530648527ae5fc99af2" type="DVD">OH-81-013</container>
-          <container id="aspace_9475a30b985d02467a4efc45ab0a2cb1" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_8486f01449de6b01ef27ecf0bf53a285" parent="aspace_9475a30b985d02467a4efc45ab0a2cb1" type="E-records">TW_OH_81_ER_13</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Evelyn Davidson Interview" xlink:type="simple">
-            <daodesc>
-              <p>Evelyn Davidson Interview: 2010-06-27-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle>The Carters</unittitle>
-          <unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_44a73775e2141b12b0996172c70b2cca" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_c8da74d58a2bb3e771752e0c0d3d7cc0" parent="aspace_44a73775e2141b12b0996172c70b2cca" type="disk">OH-81-015</container>
-          <container altrender="Record carton" id="aspace_502e82b41967c0e1b4eeb37f79278074" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_22a7209b6f2e4c1dc196c5d8620d96e3" parent="aspace_502e82b41967c0e1b4eeb37f79278074" type="Folder">15</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_b3c6592e3f447a6a80baf882643fad95" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_373258b68bd60962bd847fd53ccdd659" parent="aspace_b3c6592e3f447a6a80baf882643fad95" type="DVD">OH-81-015</container>
-          <container id="aspace_031fabab4afe3066e3c2142b408624d3" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_49f0bd006edd8d1be8167ec3dc012bb5" parent="aspace_031fabab4afe3066e3c2142b408624d3" type="E-records">TW_OH_81_ER_15</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The Carters Interview" xlink:type="simple">
-            <daodesc>
-              <p>The Carters Interview: 2010-06-27-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle>Mazie Mullins</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_a2b3a75fa95d7c1ed801eb9bb6f696e0" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_edafbd904582bf14d36b7057e6159c58" parent="aspace_a2b3a75fa95d7c1ed801eb9bb6f696e0" type="disk">OH-81-016</container>
-          <container altrender="Record carton" id="aspace_338c9018dc10b880cb64a7de4435f423" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_8e259461504ab0c8a749ee8d550d68e7" parent="aspace_338c9018dc10b880cb64a7de4435f423" type="Folder">16</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_28cbf053125e12144f2e34c5fb8ddf29" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_0360c2478197d75a2bfb1d3b63cac601" parent="aspace_28cbf053125e12144f2e34c5fb8ddf29" type="DVD">OH-81-016</container>
-          <container id="aspace_3a39694611aeae664e5a2a30caa0b62c" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_802fe6f12ef549e07192d8bc19c9d9e8" parent="aspace_3a39694611aeae664e5a2a30caa0b62c" type="E-records">TW_OH_81_ER_16</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mazie Mullins Interview" xlink:type="simple">
-            <daodesc>
-              <p>Mazie Mullins Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle>Dorice Hamilton</unittitle>
-          <unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f8f66b555cdcd3bbd04f63b18a248da5" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_5eb0c6a18e222a0dced5d8b86a8135dc" parent="aspace_f8f66b555cdcd3bbd04f63b18a248da5" type="disk">OH-81-014</container>
-          <container altrender="Record carton" id="aspace_cc57d3b7494e94b20efac8f3a3e6fa44" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_09a67a839a7fe85420ed66b3b50b8c9e" parent="aspace_cc57d3b7494e94b20efac8f3a3e6fa44" type="Folder">14</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4d5dcd446979c73b249cd895f979bf76" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_dae603fe8a7bcfda31087373fe29d029" parent="aspace_4d5dcd446979c73b249cd895f979bf76" type="DVD">OH-81-014</container>
-          <container id="aspace_99cde8e9c8f16128ed169ab50d665021" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_05e8c318dd58a74a104e55fa43c485de" parent="aspace_99cde8e9c8f16128ed169ab50d665021" type="E-records">TW_OH_81_ER_14</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Dorice Hamilton Interview" xlink:type="simple">
-            <daodesc>
-              <p>Dorice Hamilton Interview: 2010-06-27-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref30" level="file">
-        <did>
-          <unittitle>Idamae Mason</unittitle>
-          <unitdate datechar="creation" normal="2010-06-28/2010-06-28">2010-06-28</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f370daefdc00eba909d4da899c3341fe" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_041735d9ff2311da7b46e0c7bc72008c" parent="aspace_f370daefdc00eba909d4da899c3341fe" type="disk">OH-81-017</container>
-          <container altrender="Record carton" id="aspace_11d93539a3ef1100ede2c472c6035b9c" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_9e87b1d23d01fc9fd3e4497094ecb081" parent="aspace_11d93539a3ef1100ede2c472c6035b9c" type="Folder">17</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_dc342771dda79a65c8e618ff45294e98" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_c252c89488e9ede8755968dffc5877e0" parent="aspace_dc342771dda79a65c8e618ff45294e98" type="DVD">OH-81-017</container>
-          <container id="aspace_823730b25a063705eb09ab63cc562546" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_e8739b65e39137e2223ac35323194849" parent="aspace_823730b25a063705eb09ab63cc562546" type="E-records">TW_OH_81_ER_17</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Idamae Mason Interview" xlink:type="simple">
-            <daodesc>
-              <p>Idamae Mason Interview: 2010-06-28-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref31" level="file">
-        <did>
-          <unittitle>The Powells</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_695385ed0941df10d66dd31300242d1c" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_cf2bfb5cc5a90ce8ecc4dd8ede4e1330" parent="aspace_695385ed0941df10d66dd31300242d1c" type="disk">OH-81-018</container>
-          <container altrender="Record carton" id="aspace_a650090b508bdfa8caa5ca496a7643a3" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_21b24081df676582d554ada911d40ac5" parent="aspace_a650090b508bdfa8caa5ca496a7643a3" type="Folder">18</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_a6e66d64988c6e2f08999815fe90ec89" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_2d0438f141d2249a0665af0277fd815f" parent="aspace_a6e66d64988c6e2f08999815fe90ec89" type="DVD">OH-81-018</container>
-          <container id="aspace_66708b84e88b5cef7f2dc62b71f099f7" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_aec84e1294849caf92f65bcd3f68e8c3" parent="aspace_66708b84e88b5cef7f2dc62b71f099f7" type="E-records">TW_OH_81_ER_18</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The Powells Interview" xlink:type="simple">
-            <daodesc>
-              <p>The Powells Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>Edith Lyons</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4855c50b468e27fc0a6be497a792a4da" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_1030b34511dd5a756a86cca785998cdd" parent="aspace_4855c50b468e27fc0a6be497a792a4da" type="disk">OH-81-022</container>
-          <container altrender="Record carton" id="aspace_34782009109404833510f886a80d3d28" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_06ef9047eca6e3a43fa54439221e34cf" parent="aspace_34782009109404833510f886a80d3d28" type="Folder">22</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_2b80401c93e8a2eacaf2e13229c19149" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_cb2ef4e95855903ac1b8cdfe9633763f" parent="aspace_2b80401c93e8a2eacaf2e13229c19149" type="DVD">OH-81-022</container>
-          <container id="aspace_61197c651a84de98eca7473aa91b1d84" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_eed3c558c890db5ca540ec1bfb7696d4" parent="aspace_61197c651a84de98eca7473aa91b1d84" type="E-records">TW_OH_81_ER_22</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Edith Lyons Interview" xlink:type="simple">
-            <daodesc>
-              <p>Edith Lyons Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref32" level="file">
-        <did>
-          <unittitle>The Mathauser Twins</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5ddb186950f553c8f4ce8251d4e8a4a2" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_654f706f4962c6e4d524edee41311232" parent="aspace_5ddb186950f553c8f4ce8251d4e8a4a2" type="disk">OH-81-019</container>
-          <container altrender="Record carton" id="aspace_259b25d477fd7a24f1c71fd07d2b5df8" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_7aec4e692916ca6c0c599d1858e17472" parent="aspace_259b25d477fd7a24f1c71fd07d2b5df8" type="Folder">20</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_df25899d985f61aea5abd24230c48ebc" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_a4ee1bb2e10724ae15691062f24c66b4" parent="aspace_df25899d985f61aea5abd24230c48ebc" type="DVD">OH-81-019</container>
-          <container id="aspace_c9c394c72ed9e7959a0ff2bbe35f9936" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_ebf1b83399e1e9c5d4b62dbc3dcd8592" parent="aspace_c9c394c72ed9e7959a0ff2bbe35f9936" type="E-records">TW_OH_81_ER_19</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mathauser Twins Interview" xlink:type="simple">
-            <daodesc>
-              <p>Mathauser Twins Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>Arkie Huffman</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_808de47b10798ef43afceac852b9130b" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_5b1c55126587ab046e62a56838f0dd9c" parent="aspace_808de47b10798ef43afceac852b9130b" type="disk">OH-81-020</container>
-          <container altrender="Record carton" id="aspace_eb1af1c5d2467ed0bec9a4f0d28bcd5b" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_e4694141086a9eb2be6c97775e6d1fb4" parent="aspace_eb1af1c5d2467ed0bec9a4f0d28bcd5b" type="Folder">19</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_babab13e50ff904f4b8e1a8134faf41c" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_2ad27d638fcd351f70b162bbd7c2eda4" parent="aspace_babab13e50ff904f4b8e1a8134faf41c" type="DVD">OH-81-020</container>
-          <container id="aspace_c1593022d9bb20c8bc4ed5c125dc4a63" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_e6f745d25b85ef28e964530c38eb650c" parent="aspace_c1593022d9bb20c8bc4ed5c125dc4a63" type="E-records">TW_OH_81_ER_20</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Arkie Huffman Interview" xlink:type="simple">
-            <daodesc>
-              <p>Arkie Huffman Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref34" level="file">
-        <did>
-          <unittitle>Shirley Clark</unittitle>
-          <unitdate datechar="creation" normal="2010-06-28/2010-06-28">2010-06-28</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_9a00fb649dc365b06eddf9e0a8109f23" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_850ab07bcfa07dac2281989bd15b0626" parent="aspace_9a00fb649dc365b06eddf9e0a8109f23" type="disk">OH-81-021</container>
-          <container altrender="Record carton" id="aspace_9e1a96eca5d12391de4e58d711644e4d" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_fff743c109e145245817e08f9be0e783" parent="aspace_9e1a96eca5d12391de4e58d711644e4d" type="Folder">21</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_1b359d120d9f8eb0a04af0bf13377054" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_3e882e443d179f0e4ad03c1d4068421a" parent="aspace_1b359d120d9f8eb0a04af0bf13377054" type="DVD">OH-81-021</container>
-          <container id="aspace_8a85c67128b6a212c27bf3627e7f54a3" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_d6be5ee4fa4ca16d2751e9157150f347" parent="aspace_8a85c67128b6a212c27bf3627e7f54a3" type="E-records">TW_OH_81_ER_21</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Shirley Clark Interview" xlink:type="simple">
-            <daodesc>
-              <p>Shirley Clark Interview: 2010-06-28-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref36" level="file">
-        <did>
-          <unittitle>Francis Ellis</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5034d01eed9da22ef167e7ecdd695c61" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_612599ca3e7cdb0055a94421f1d36bdc" parent="aspace_5034d01eed9da22ef167e7ecdd695c61" type="disk">OH-81-023</container>
-          <container altrender="Record carton" id="aspace_dc9f5bf53fddcf53bcf884d1c2be8356" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_fbdc0c4d0f14e58b6c934ae0377375e4" parent="aspace_dc9f5bf53fddcf53bcf884d1c2be8356" type="Folder">23</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_0f6b2fac4260f48703b86d5b1e8726dc" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_cf2f16adbc644cdb29fe14979a755e25" parent="aspace_0f6b2fac4260f48703b86d5b1e8726dc" type="DVD">OH-81-023</container>
-          <container id="aspace_cfe764ee230a3dbd2527f6eeb1d49dda" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_7d1f7f0fad68b629dee394971f6067c8" parent="aspace_cfe764ee230a3dbd2527f6eeb1d49dda" type="E-records">TW_OH_81_ER_23</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Francis Ellis Interview" xlink:type="simple">
-            <daodesc>
-              <p>Francis Ellis Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref37" level="file">
-        <did>
-          <unittitle>Arlene Crary</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5028bbcde6787f9a9cf18c6b684d5c65" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_2ad6ad10c3a074299ea77db281ecad97" parent="aspace_5028bbcde6787f9a9cf18c6b684d5c65" type="disk">OH-81-024</container>
-          <container altrender="Record carton" id="aspace_86576f1a12bfba23e83bbeae79bf2487" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_b4128a2e349348c86f7f16bef435d765" parent="aspace_86576f1a12bfba23e83bbeae79bf2487" type="Folder">24</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_aa5ac4acf6c0656b38110c75ebbcce4a" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_1ff2a7e9309cdafc71a2e6f9768532d4" parent="aspace_aa5ac4acf6c0656b38110c75ebbcce4a" type="DVD">OH-81-024</container>
-          <container id="aspace_beade48b87ef037560f5273f1039ee93" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_970cdb1ee641cd3cb200f8fa973d741f" parent="aspace_beade48b87ef037560f5273f1039ee93" type="E-records">TW_OH_81_ER_24</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Arlene Crary Interview" xlink:type="simple">
-            <daodesc>
-              <p>Arlene Crary Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref38" level="file">
-        <did>
-          <unittitle>Catherine Gaultier</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d0eb79796bb82a82641c723e871362da" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_f89fb62e28058c24561fe571b2b96ec9" parent="aspace_d0eb79796bb82a82641c723e871362da" type="disk">OH-81-025</container>
-          <container altrender="Record carton" id="aspace_c3afb26a47b54c2df574657b50364abf" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_ebb87ed5ea83f7ca2cf827b170ccc36d" parent="aspace_c3afb26a47b54c2df574657b50364abf" type="Folder">25</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8d4ad03828850d99e293e9b068807b3c" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_8a154af8cab2f5119b0aca0f49207892" parent="aspace_8d4ad03828850d99e293e9b068807b3c" type="DVD">OH-81-025</container>
-          <container id="aspace_c9e2034977f6c9f5509389d633255b22" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_a3b12103dc1df43a2fecc2dfe0435855" parent="aspace_c9e2034977f6c9f5509389d633255b22" type="E-records">TW_OH_81_ER_25</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Catherine Gaultier Interview" xlink:type="simple">
-            <daodesc>
-              <p>Catherine Gaultier Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref39" level="file">
-        <did>
-          <unittitle>Eileen Tench</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_91fa312d27bf28db6ba9d1fdd9e23c45" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_3f6ffb0c7dc64c68ef857b5b8937cf3d" parent="aspace_91fa312d27bf28db6ba9d1fdd9e23c45" type="disk">OH-81-026</container>
-          <container altrender="Record carton" id="aspace_26d1e9a5fdf3fcb4852d5693cad1fa4c" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_69cbe6c1eba9f77a9c39eff983a67a96" parent="aspace_26d1e9a5fdf3fcb4852d5693cad1fa4c" type="Folder">26</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f1236d7a1a3e2cf818dbf353f0d747e6" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_a7b6ac36261525d4897d53422a4572e6" parent="aspace_f1236d7a1a3e2cf818dbf353f0d747e6" type="DVD">OH-81-026</container>
-          <container id="aspace_ac5c4add63d66f77344b7be2da3a168a" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_0561211ddf2e3e83b9ecaa9022a8abd0" parent="aspace_ac5c4add63d66f77344b7be2da3a168a" type="E-records">TW_OH_81_ER_26</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Eileen Tench Interview" xlink:type="simple">
-            <daodesc>
-              <p>Eileen Tench Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref40" level="file">
-        <did>
-          <unittitle>Mabel Myrick</unittitle>
-          <unitdate datechar="creation" normal="2010-06-25/2010-06-25">2010-06-25</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_01431db1118be3cfbcf4e916aed8145b" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_9d95f336aae007492442741d6f8eb9bb" parent="aspace_01431db1118be3cfbcf4e916aed8145b" type="disk">OH-81-027</container>
-          <container altrender="Record carton" id="aspace_c77d573956a3d4fd129c5ea284edee70" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_2b4db8f3220c17e613bd09065dd1f9f0" parent="aspace_c77d573956a3d4fd129c5ea284edee70" type="Folder">27</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8d456e7720326906aa34e9a70ac36cfa" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_a357870ab3c233f7547faff6144e00e5" parent="aspace_8d456e7720326906aa34e9a70ac36cfa" type="DVD">OH-81-027</container>
-          <container id="aspace_25a04af22fa13f919042b7a6a8995c2d" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_dd0ce0f5bcbe4c9fdf9a5671f28d5e3f" parent="aspace_25a04af22fa13f919042b7a6a8995c2d" type="E-records">TW_OH_81_ER_27</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mabel Myrick Interview" xlink:type="simple">
-            <daodesc>
-              <p>Mabel Myrick Interview: 2010-06-25-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref41" level="file">
-        <did>
-          <unittitle>Nell Young</unittitle>
-          <unitdate datechar="creation" normal="2010-06-25/2010-06-25">2010-06-25</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_b36387f436ec1815ce7c3f39f51c72a7" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_9b6610819895646b3ed8c46c226955fe" parent="aspace_b36387f436ec1815ce7c3f39f51c72a7" type="disk">OH-81-028</container>
-          <container altrender="Record carton" id="aspace_8b6ce69ade4b04893e0669534228de1c" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_bbc806896218442da319fe928c3e00ca" parent="aspace_8b6ce69ade4b04893e0669534228de1c" type="Folder">28</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c3acd165f030e4c53bdecc7136058559" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_6ffd10a131e155f9143ef67d40014f69" parent="aspace_c3acd165f030e4c53bdecc7136058559" type="DVD">OH-81-028</container>
-          <container id="aspace_e32b91a8f95ad2ff8d784db913045a64" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_80c74a4a4159fe737b62bb1c1bc6556c" parent="aspace_e32b91a8f95ad2ff8d784db913045a64" type="E-records">TW_OH_81_ER_28</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Nell Young Interview" xlink:type="simple">
-            <daodesc>
-              <p>Nell Young Interview: 2010-06-25-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref42" level="file">
-        <did>
-          <unittitle>Winona Gillespie</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f1b3d1bc2d9790a9523d738f6ab1151f" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_d53f44d80f676f74e039660e6746b7f7" parent="aspace_f1b3d1bc2d9790a9523d738f6ab1151f" type="disk">OH-81-029</container>
-          <container altrender="Record carton" id="aspace_dbc01b383ad1537231cf6fc62461a43e" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_037994f646964c73ab6d1d8a48f8027e" parent="aspace_dbc01b383ad1537231cf6fc62461a43e" type="Folder">29</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_612d6d795076a3d0922f2975510d1d8d" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_a2a01e5d6a67e5354ed2c2ac553971be" parent="aspace_612d6d795076a3d0922f2975510d1d8d" type="DVD">OH-81-029</container>
-          <container id="aspace_249aea1f7afe918a8bd0b03b4fa56a88" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_85f8dfe9c7a5ee278f557aa78649f18f" parent="aspace_249aea1f7afe918a8bd0b03b4fa56a88" type="E-records">TW_OH_81_ER_29</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Winona Gillespie Interview" xlink:type="simple">
-            <daodesc>
-              <p>Winona Gillespie Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref43" level="file">
-        <did>
-          <unittitle>Thelma Edgar</unittitle>
-          <unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_fc65343cbc0581b48b46188aa93790c2" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_7e70a56a8e254a35a2be3899ac11da8b" parent="aspace_fc65343cbc0581b48b46188aa93790c2" type="disk">OH-81-030</container>
-          <container altrender="Record carton" id="aspace_e6c13b1bb3681c5103a157d709ca48eb" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_099c3f0c3269101e429625225c1c266b" parent="aspace_e6c13b1bb3681c5103a157d709ca48eb" type="Folder">30</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c3b397b56d5f046da541546a01ae0a44" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_debb4832eb397287d0c42e4fcfe58479" parent="aspace_c3b397b56d5f046da541546a01ae0a44" type="DVD">OH-81-030</container>
-          <container id="aspace_920e94d84d51757ac44f9c93aaffa24a" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_5bfb98db9d7c58bdfa2e13e70939767e" parent="aspace_920e94d84d51757ac44f9c93aaffa24a" type="E-records">TW_OH_81_ER_30</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Thelma Edgar Interview" xlink:type="simple">
-            <daodesc>
-              <p>Thelma Edgar Interview: 2010-06-26-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref63" level="file">
-        <did>
-          <unittitle>Marion Yagoda</unittitle>
-          <unitdate datechar="creation" normal="2010-07-12/2010-07-12">2010-07-12</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cb40e9c443f2d8d3837be22f5298bac6" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_0658d0975cb54868a53471dd3aabfab6" parent="aspace_cb40e9c443f2d8d3837be22f5298bac6" type="disk">OH-81-031</container>
-          <container altrender="Record carton" id="aspace_2d5739532563b4778efc785588894664" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_a964a10a9c8d98e4375dd519027a8e12" parent="aspace_2d5739532563b4778efc785588894664" type="Folder">31</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_52b061e9d39cf28d70e403c66c9bb5fb" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_a49b4ad28c5382033412ade188975923" parent="aspace_52b061e9d39cf28d70e403c66c9bb5fb" type="DVD">OH-81-031</container>
-          <container id="aspace_e74c4f41bb4d02ddc7d2f0f9dce2289b" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_ccf583296d19658933931050d087ff4d" parent="aspace_e74c4f41bb4d02ddc7d2f0f9dce2289b" type="E-records">TW_OH_81_ER_31</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Marion Yagoda Interview" xlink:type="simple">
-            <daodesc>
-              <p>Marion Yagoda Interview: 2010-07-12-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref65" level="file">
-        <did>
-          <unittitle>Angeline Fleming</unittitle>
-          <unitdate datechar="creation" normal="2010-07-12/2010-07-12">2010-07-12</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_22d44f6555e9079f16d3f7cf98f430b6" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_bab89607daef1832e9c8c0c91f4f4aa7" parent="aspace_22d44f6555e9079f16d3f7cf98f430b6" type="disk">OH-81-032</container>
-          <container altrender="Record carton" id="aspace_33b4bce56e110b7109775c084227f33d" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_81d02dfb9964697657b9ccfabea773f9" parent="aspace_33b4bce56e110b7109775c084227f33d" type="Folder">32</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_2bdf0243d97cc8f9327614b1105e3e90" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_a21a24f3bd142af1c569b90b85a0a917" parent="aspace_2bdf0243d97cc8f9327614b1105e3e90" type="DVD">OH-81-032</container>
-          <container id="aspace_6902b5f9cec2b23618cab7b485871eaa" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_14d9933abdeb6a891793a3976834481a" parent="aspace_6902b5f9cec2b23618cab7b485871eaa" type="E-records">TW_OH_81_ER_32</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Angeline Fleming Interview" xlink:type="simple">
-            <daodesc>
-              <p>Angeline Fleming Interview: 2010-07-12-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_ref67" level="file">
-        <did>
-          <unittitle>Eva Chenevert</unittitle>
-          <unitdate datechar="creation" normal="2010-07-13/2010-07-13">2010-07-13</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_e92ce8826b7da7b8257e35b43a8a989c" label="moving images [31142062759017]" type="Box">1</container>
-          <container id="aspace_0c7c044cfc019a2ff0acdf39a7852754" parent="aspace_e92ce8826b7da7b8257e35b43a8a989c" type="disk">OH-81-033</container>
-          <container altrender="Record carton" id="aspace_cb9ca98c1f168f03c0a83122000ed7fe" label="Mixed Materials [31142062671741]" type="Box">3</container>
-          <container id="aspace_83ed96840e06945bd961b80a0d6de07c" parent="aspace_cb9ca98c1f168f03c0a83122000ed7fe" type="Folder">33</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8a0f2219bab97a27b02ad28b722c1096" label="master dvd [31142062672632]" type="Box">2</container>
-          <container id="aspace_86620020394773d60cfc8fb1de55616e" parent="aspace_8a0f2219bab97a27b02ad28b722c1096" type="DVD">OH-81-033</container>
-          <container id="aspace_f448f790424a91ecff199b19dbce1efe" label="electronic records" type="Box">Electronic Records</container>
-          <container id="aspace_9e9aa607cd439e0a19eba8e6fc9fb3eb" parent="aspace_f448f790424a91ecff199b19dbce1efe" type="E-records">TW_OH_81_ER_33</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/oh_081.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Eva Chenevert Interview " xlink:type="simple">
-            <daodesc>
-              <p>Eva Chenevert Interview : 2010-07-13-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/oh_081">oh_081</eadid><filedesc><titlestmt><titleproper>Guide to the Spargel Production Rosie the Riveter Media Collection <num>OH.081</num></titleproper><author>Nic Caldwell</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>January 28, 2020</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:48:07 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2020</date><item>Finding aid was updated by Anna McCormick to add audiovisual and born digital extents</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Spargel Production Rosie the Riveter Media Collection</unittitle>
+    <origination label="Creator">
+      <corpname role="cre" source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no2016064976" role="cre" rules="dacs" source="naf">Spargel Productions (Firm)</corpname>
+    </origination>
+    <unitid>OH.081</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.8 Linear Feet</extent>
+      <extent altrender="carrier">in two manuscript boxes and one record carton</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">70 videodiscs (dvd)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">70.55 Gigabytes</extent>
+      <extent altrender="carrier">in 102 computer files</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2010/2010">2010</unitdate>
+    <abstract id="aspace_76f6d5854d7634b5d70a1db255fe6f97">This collection consists of interviews of women who entered the industrial workforce (automobiles, shipbuilding, aircraft manufacturing, electrical equipment manufacturing, and transportation) during the years of World War II (1939-1945). Interviews we were created on digital video for use in the Spargel Productions new media project "The Girl With The Rivet Gun." Topics covered include gender relations and discrimination at work, union experience, industrial work, family roles, transitioning from rural to urban environments, race relations, and post-war employment experiences. Interviews were taken in English and transcripts are available for all interviews.</abstract>
+    <langmaterial id="aspace_5ed0685ca10d8dddb17f878e75441a38">Materials primarily in English.</langmaterial>
+  </did>
+  <acqinfo id="aspace_c49506613a475ed4f6988b7e36bba5fd">
+    <head>Immediate Source of Acquisition</head>
+<p>The Rosie the Riveter film project was conducted in conjunction with Spargel Productions, LLC and the Tamiment Library and Robert F. Wagner Labor Archives beginning in 2010. The accession number associated with this collection is 2010.014.</p>  </acqinfo>
+  <accessrestrict id="aspace_8f235a74b4792f465188d3ff9b2bba1a">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_722fcbb0d54e2a728a955c4203bc909a">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Any rights (including copyright and related rights to publicity and privacy) held by Tamiment Library and Robert F. Wagner Labor Archives are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <phystech id="aspace_e7d8d877407fc2776d9542701314e7b9">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room.</p>  </phystech>
+  <arrangement id="aspace_2c9095419011687fa7f46d827a089b0a">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <prefercite id="aspace_eb0dfe37946d9e036c043233341f6dea">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Spargel Production Rosie the Riveter Media Collection; OH 081; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_646a83280ee4ffabd7849f53a8c9c442">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 have not yet been recorded. </p><p>In 2019 the DVDs were forensically imaged, analyzed, and arranged using Research Workspace.  New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.  </p>  </processinfo>
+  <scopecontent id="aspace_8b5221769de2df939df5ce9295087b57">
+    <head>Scope and Contents</head>
+<p>This collection consists of thirty-three interviews with women who entered the industrial workforce (automobiles, shipbuilding, aircraft manufacturing, electrical equipment manufacturing, and transportation) during the years of World War II (1939-1945). Topics covered include gender relations and discrimination at work, union experience, industrial work, family roles, transitioning from rural to urban environments, education, race relations, and post-war employment experiences.</p>  </scopecontent>
+  <bioghist id="aspace_a3935cf090f0f289cdc88ea75b938932">
+    <head>Biographical / Historical</head>
+<p>These interviews were recorded as a part of a collaborative media project by Spargel Productions and New York University's Tamiment Library. These oral histories were created on digital video and portions of them are used in the Spargel Production new media project "The Girl With The Rivet Gun." They are being preserved at the Tamiment Library.</p>  </bioghist>
+  <phystech id="aspace_1fea69910a0f42c7390c74bddfb465c7">
+    <head>Born-Digital Access Policies and Procedures</head>
+<p>An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>  </phystech>
+  <controlaccess>
+    <subject source="lcsh">Working class women -- History.</subject>
+    <subject source="lcsh">World War, 1939-1945.</subject>
+    <subject source="lcsh">Factories |x Employees. </subject>
+    <subject source="lcsh">Gender discrimination.</subject>
+    <subject source="lcsh">Gender identity -- United States</subject>
+    <subject source="lcsh">Race relations -- United States.</subject>
+    <subject source="lcsh">Equality |x Economic aspects |z United States.</subject>
+    <subject source="lcsh">Consumerism.</subject>
+    <subject source="lcsh">Trade unions |z United States.</subject>
+    <subject source="lcsh">Sexual Orientation |z United States</subject>
+    <subject source="lcsh">Automobile industry workers |z United States.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- United States -- Personal narratives.</subject>
+    <subject source="lcsh">African American women |x Economic conditions.</subject>
+    <subject source="lcsh">Sex discrimination against women.</subject>
+    <subject source="lcsh">Women -- Employment -- United States.</subject>
+    <subject source="lcsh">Women in the labor movement -- United States</subject>
+    <subject source="lcsh">Women labor union members -- United States.</subject>
+    <genreform source="aat">Oral histories (literary works)</genreform>
+    <geogname source="lcsh">Rural conditions.</geogname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="file"><did><unittitle>Jerre Kalbas</unittitle><unitdate datechar="creation" normal="2010-02-17/2010-02-17">2010-02-17</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_ae8f1b606e60f756aa472e5a27c0c802" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_f55211a899dd0bc993c010aea8dfc94b" parent="aspace_ae8f1b606e60f756aa472e5a27c0c802" type="disk">OH-81-001</container><container altrender="Record carton" id="aspace_e383e5d33d87fffb046a558f73e4a92c" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_b7467644cef0d69eced0c99ec1a1f3ae" parent="aspace_e383e5d33d87fffb046a558f73e4a92c" type="Folder">1</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_6740d9f56248043264b88b8a00a5787c" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_1db17c8ca87fc74cc0b1f203c3928f22" parent="aspace_6740d9f56248043264b88b8a00a5787c" type="DVD">OH-81-001</container><container id="aspace_c8d366e4212a8aa0e9bb32a76febee72" label="electronic records" type="Box">Electronic Records</container><container id="aspace_93c8c79b1f578eb80462a7b14999268e" parent="aspace_c8d366e4212a8aa0e9bb32a76febee72" type="E-records">TW_OH_81_ER_1</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Jerre Kalbas Interview" xlink:type="simple"><daodesc><p>Jerre Kalbas Interview: 2010-02-17-</p></daodesc></dao></did></c><c id="aspace_ref2" level="file"><did><unittitle>Esther Horne</unittitle><unitdate datechar="creation" normal="2010-02-19/2010-02-19">2010-02-19</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d6936abc942cad0aef7387ba6ef3cab7" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_504aa86920e410581cdadabb74d59f09" parent="aspace_d6936abc942cad0aef7387ba6ef3cab7" type="disk">OH-81-002</container><container altrender="Record carton" id="aspace_5d16c7adc8290c37dd21bd1d378cfef7" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_4063827530f6be02174b18d20f80654a" parent="aspace_5d16c7adc8290c37dd21bd1d378cfef7" type="Folder">2</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8f419167940bc5e95958e638cd50f83c" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_67e8f711f70f9e8077323054ec9293a2" parent="aspace_8f419167940bc5e95958e638cd50f83c" type="DVD">OH-81-002</container><container id="aspace_6136f4fbc4fd149de06ca014876dc16a" label="electronic records" type="Box">Electronic Records</container><container id="aspace_f9bbc4c273cfe508fe432c1ad58cceae" parent="aspace_6136f4fbc4fd149de06ca014876dc16a" type="E-records">TW_OH_81_ER_2</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Violet Johnson</unittitle><unitdate datechar="creation" normal="2010-04-14/2010-04-14">2010-04-14</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f9540b2536e27a3554102f9c20eff87b" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_33ba3049b5f04845a69a33958f4bcd08" parent="aspace_f9540b2536e27a3554102f9c20eff87b" type="disk">OH-81-003</container><container altrender="Record carton" id="aspace_0501266e8fa560aa3bdaf8a07dd04bcf" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_ba3ab62690605ab03f77aed35a90a513" parent="aspace_0501266e8fa560aa3bdaf8a07dd04bcf" type="Folder">3</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4720fd95326bfd728ef6f50f8aaa8c1a" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_57c02c79a99bc474096a1b171fadd8c7" parent="aspace_4720fd95326bfd728ef6f50f8aaa8c1a" type="DVD">OH-81-003</container><container id="aspace_75bf673223b4c37a2fc77df495a88ae7" label="electronic records" type="Box">Electronic Records</container><container id="aspace_31711836aecbceb89ee9b8b296ba1b03" parent="aspace_75bf673223b4c37a2fc77df495a88ae7" type="E-records">TW_OH_81_ER_3</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Violet Johnson Interview" xlink:type="simple"><daodesc><p>Violet Johnson Interview: 2010-04-14-</p></daodesc></dao></did></c><c id="aspace_ref4" level="file"><did><unittitle>Idilia Johnston</unittitle><unitdate datechar="creation" normal="2010-04-14/2010-04-14">2010-04-14</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_0154f1cb1fa0394a716aea06aa2737e2" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_1871176b6921ddd078c5cfba5f5635a1" parent="aspace_0154f1cb1fa0394a716aea06aa2737e2" type="disk">OH-81-004</container><container altrender="Record carton" id="aspace_68529e533cfa3cb4a15d0da7cdab5f17" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_45a8dfd66fbbb7009fe9edc8463b82d4" parent="aspace_68529e533cfa3cb4a15d0da7cdab5f17" type="Folder">4</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7baf7aabb37cb02044b66066a6b7fe40" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_9685048d04b929e97de6ba76ed50ace9" parent="aspace_7baf7aabb37cb02044b66066a6b7fe40" type="DVD">OH-81-004</container><container id="aspace_a6aa18791d6edfd951edfd36717dcd88" label="electronic records" type="Box">Electronic Records</container><container id="aspace_b367891bd5f2a42e26dcb1dbfb4f1162" parent="aspace_a6aa18791d6edfd951edfd36717dcd88" type="E-records">TW_OH_81_ER_4</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Idilia Johnston Interview" xlink:type="simple"><daodesc><p>Idilia Johnston Interview: 2010-04-14-</p></daodesc></dao></did></c><c id="aspace_ref10" level="file"><did><unittitle>The Baltimore Rosies</unittitle><unitdate datechar="creation" normal="2010-04-16/2010-04-16">2010-04-16</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5afece588bfddb85438a26b7e7a8dac1" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_adf2764f99a331f02e42819420aca4ec" parent="aspace_5afece588bfddb85438a26b7e7a8dac1" type="disk">OH-81-005A / OH-05-005B</container><container altrender="Record carton" id="aspace_957bae1a0e933752d62f5ebfeae39ebd" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_4fcf1c34f353064ec10a159a8b476aab" parent="aspace_957bae1a0e933752d62f5ebfeae39ebd" type="Folder">5</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cf6e351963a89bc2e07af2329db1a5cf" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_aed22759d8295ce8af610ed03c57317f" parent="aspace_cf6e351963a89bc2e07af2329db1a5cf" type="DVD">OH-81-005A / OH-05-005B</container><container id="aspace_984a46630c5b9cf701c46becaaad8d68" label="electronic records" type="Box">Electronic Records</container><container id="aspace_00b99111cb33c01b231a3f2b35269a3f" parent="aspace_984a46630c5b9cf701c46becaaad8d68" type="E-records">TW_OH_81_ER_5</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The Baltimore Rosies Interview" xlink:type="simple"><daodesc><p>The Baltimore Rosies Interview: 2010-04-16-</p></daodesc></dao></did></c><c id="aspace_ref9" level="file"><did><unittitle>Susan Taylor King</unittitle><unitdate datechar="creation" normal="2010-04-16/2010-04-16">2010-04-16</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_56d01a6c5d09ae282ea40e4a008c3d80" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_55ad723d9bcbd493f939e99e4e952378" parent="aspace_56d01a6c5d09ae282ea40e4a008c3d80" type="disk">OH-81-006</container><container altrender="Record carton" id="aspace_97efaf06f0e3d1854bddbe6d2246795b" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_b704888a39d05fc4504e9bdf2a13b358" parent="aspace_97efaf06f0e3d1854bddbe6d2246795b" type="Folder">6</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d40c4e8be97066a23d853d5ec97b6e18" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_066fd61c98554bbd2130a0785e307b2e" parent="aspace_d40c4e8be97066a23d853d5ec97b6e18" type="DVD">OH-81-006</container><container id="aspace_afc17c7d15d56b74376495ca7e472821" label="electronic records" type="Box">Electronic Records</container><container id="aspace_b18bd89ad2c8a1043a600d56fa373de2" parent="aspace_afc17c7d15d56b74376495ca7e472821" type="E-records">TW_OH_81_ER_6</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Susan Taylor King Interview" xlink:type="simple"><daodesc><p>Susan Taylor King Interview: 2010-04-16-</p></daodesc></dao></did></c><c id="aspace_ref12" level="file"><did><unittitle>Bonnie Gifford</unittitle><unitdate datechar="creation" normal="2010-05-06/2010-05-06">2010-05-06</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_33d4417e6eec637676a214cbd9b0fc9c" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_1a46be137b5d35c282a063ad4d579059" parent="aspace_33d4417e6eec637676a214cbd9b0fc9c" type="disk">OH-81-007</container><container altrender="Record carton" id="aspace_475ecd7c4e1a1607beca4ab772f49929" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_23839d757b9e45ef263f32c619f7a020" parent="aspace_475ecd7c4e1a1607beca4ab772f49929" type="Folder">7</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f69e8d2734ffa5709e6611b42592e6ee" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_f9a20246292390fd4358dcd0501ec09a" parent="aspace_f69e8d2734ffa5709e6611b42592e6ee" type="DVD">OH-81-007</container><container id="aspace_260c3e763b4a197e27700d61c93b5814" label="electronic records" type="Box">Electronic Records</container><container id="aspace_4d82463e572f2257d78145f2207f14e7" parent="aspace_260c3e763b4a197e27700d61c93b5814" type="E-records">TW_OH_81_ER_7</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Bonnie Gifford Interview" xlink:type="simple"><daodesc><p>Bonnie Gifford Interview: 2010-05-06-</p></daodesc></dao></did></c><c id="aspace_ref26" level="file"><did><unittitle>The Robey Girls</unittitle><unitdate datechar="creation" normal="2010-05-07/2010-05-07">2010-05-07</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_72a0bb67fd7875d9e84618cf271d626c" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_b45ff587aafce3d288abd53f96d61638" parent="aspace_72a0bb67fd7875d9e84618cf271d626c" type="disk">OH-81-008</container><container altrender="Record carton" id="aspace_830c9532aae62a7e2e26198c9ee78822" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_44dcc182dfb9e34a7a20f5a3b3ee58fc" parent="aspace_830c9532aae62a7e2e26198c9ee78822" type="Folder">8</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_27b86d5a1542be53b23827988fc9db49" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_b2cf3f6cd4a6e069589d8081e9f9eac1" parent="aspace_27b86d5a1542be53b23827988fc9db49" type="DVD">OH-81-008</container><container id="aspace_fbb4b3fe1d5c7c28fbc1b55ecbe22a9c" label="electronic records" type="Box">Electronic Records</container><container id="aspace_2ccbdb9142f99717ae80005d1cfa458f" parent="aspace_fbb4b3fe1d5c7c28fbc1b55ecbe22a9c" type="E-records">TW_OH_81_ER_8</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The Robey Girls Interview" xlink:type="simple"><daodesc><p>The Robey Girls Interview: 2010-05-07-</p></daodesc></dao></did></c><c id="aspace_ref14" level="file"><did><unittitle>Lucetia Jane Tucker</unittitle><unitdate datechar="creation" normal="2010-06-28/2010-06-28">2010-06-28</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_22562d9b5de734c9ce0dfe16a6305835" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_0b71ab7330fc7af76ca174608a4b5e26" parent="aspace_22562d9b5de734c9ce0dfe16a6305835" type="disk">OH-81-009</container><container altrender="Record carton" id="aspace_5dd41d1ff0c3036ba6cde13c384f88c6" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_6a10d10fb59e1d8bdf38697ef8f37a4c" parent="aspace_5dd41d1ff0c3036ba6cde13c384f88c6" type="Folder">9</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_182689385ce12864f40c6b234bbfdd2e" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_6a0b9b14e455928c4f3daf8c1b08b9b8" parent="aspace_182689385ce12864f40c6b234bbfdd2e" type="DVD">OH-81-009</container><container id="aspace_c91dac8b0df459c4f808bd0f9dffd04c" label="electronic records" type="Box">Electronic Records</container><container id="aspace_2827daabb1f5c24aa4e7a5d76935b7ab" parent="aspace_c91dac8b0df459c4f808bd0f9dffd04c" type="E-records">TW_OH_81_ER_9</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Lucetia Jane Tucker Interview" xlink:type="simple"><daodesc><p>Lucetia Jane Tucker Interview: 2010-06-28-</p></daodesc></dao></did></c><c id="aspace_ref17" level="file"><did><unittitle>Signe Nakashima</unittitle><unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7ec91f1332e7880594b6c4ff4b6515ae" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_8c8104276e13fa40a8882f04f92ddb30" parent="aspace_7ec91f1332e7880594b6c4ff4b6515ae" type="disk">OH-81-010</container><container altrender="Record carton" id="aspace_f4a48dcb095305efce63cdfd67ef74c5" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_ab12f091a98bb0a924a26b4fc1bdc800" parent="aspace_f4a48dcb095305efce63cdfd67ef74c5" type="Folder">10</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3ec3d6f249d02112d1f16adf87fb6415" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_638f96bbb7b315f53bfd1ff5d5abb718" parent="aspace_3ec3d6f249d02112d1f16adf87fb6415" type="DVD">OH-81-010</container><container id="aspace_d08409207b4d482fb3ac595dd8208758" label="electronic records" type="Box">Electronic Records</container><container id="aspace_3e0cf37a51e5c069476f20c91ef854a5" parent="aspace_d08409207b4d482fb3ac595dd8208758" type="E-records">TW_OH_81_ER_10</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Signe Nakashima Interview" xlink:type="simple"><daodesc><p>Signe Nakashima Interview: 2010-06-27-</p></daodesc></dao></did></c><c id="aspace_ref20" level="file"><did><unittitle>Mary Anne Diamond</unittitle><unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c593f871c9418961e26d959f803bc078" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_1482c423e161b48c2835872c9d297b59" parent="aspace_c593f871c9418961e26d959f803bc078" type="disk">OH-81-011</container><container altrender="Record carton" id="aspace_97e89248388d5f599bc6702292910383" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_10dd09061ece42658c469b1c1f7de0e0" parent="aspace_97e89248388d5f599bc6702292910383" type="Folder">11</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8bd635e95b70b04e79f00d5859c53d14" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_1343d5a3d21dc991268c82f45d5ab758" parent="aspace_8bd635e95b70b04e79f00d5859c53d14" type="DVD">OH-81-011</container><container id="aspace_9be49af4c278434453bb298868c033af" label="electronic records" type="Box">Electronic Records</container><container id="aspace_789a263d8fdf7e977e62a65807a34f3a" parent="aspace_9be49af4c278434453bb298868c033af" type="E-records">TW_OH_81_ER_11</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mary Anna Diamond Interview" xlink:type="simple"><daodesc><p>Mary Anna Diamond Interview: 2010-06-27-</p></daodesc></dao></did></c><c id="aspace_ref21" level="file"><did><unittitle>Mildred Sargent</unittitle><unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_44f6f6eec5c951dac69e96ea778de91f" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_62e714473b16a25d9b76ec1882e36ca6" parent="aspace_44f6f6eec5c951dac69e96ea778de91f" type="disk">OH-81-012</container><container altrender="Record carton" id="aspace_b2eae49d430e100e18c7370c8a1670bd" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_3a35151431c83a90e5241e85de838497" parent="aspace_b2eae49d430e100e18c7370c8a1670bd" type="Folder">12</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7388894ed438fa698ef1eab613212d48" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_fba051f705915d576ef8988047c51fc9" parent="aspace_7388894ed438fa698ef1eab613212d48" type="DVD">OH-81-012</container><container id="aspace_9dd92633f5728bce9b4691232fcea93d" label="electronic records" type="Box">Electronic Records</container><container id="aspace_800192cbbbc307af38b47e2225e1d487" parent="aspace_9dd92633f5728bce9b4691232fcea93d" type="E-records">TW_OH_81_ER_12</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mildred Sargent Interview" xlink:type="simple"><daodesc><p>Mildred Sargent Interview: 2010-06-27-</p></daodesc></dao></did></c><c id="aspace_ref23" level="file"><did><unittitle>Evelyn Davidson</unittitle><unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4919b5102ad05effb52944e0a16fc735" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_04430d6c175caf05601a71c7712dfcc2" parent="aspace_4919b5102ad05effb52944e0a16fc735" type="disk">OH-81-013</container><container altrender="Record carton" id="aspace_3b824c87234d1bc7d971d62c5a636870" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_4cdde34d5c07c850f5cbd193f3161a44" parent="aspace_3b824c87234d1bc7d971d62c5a636870" type="Folder">13</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_57085cddcfb9c35984a2084b0e96c499" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_3c81cd996d48dcffd11eb971acb240fd" parent="aspace_57085cddcfb9c35984a2084b0e96c499" type="DVD">OH-81-013</container><container id="aspace_c801e544fb629cfe9a3e0ca765e80866" label="electronic records" type="Box">Electronic Records</container><container id="aspace_96d4f4d6c1ede208b322ed8a919625e7" parent="aspace_c801e544fb629cfe9a3e0ca765e80866" type="E-records">TW_OH_81_ER_13</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Evelyn Davidson Interview" xlink:type="simple"><daodesc><p>Evelyn Davidson Interview: 2010-06-27-</p></daodesc></dao></did></c><c id="aspace_ref28" level="file"><did><unittitle>The Carters</unittitle><unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_331739110a88b60abc7226317c9a24c5" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_2d55da563e522b47d1d907ea53096a7b" parent="aspace_331739110a88b60abc7226317c9a24c5" type="disk">OH-81-015</container><container altrender="Record carton" id="aspace_9c9437b4dc0445931379f82d8a621d92" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_b1555bf7af7a275db543a0046d79c0ed" parent="aspace_9c9437b4dc0445931379f82d8a621d92" type="Folder">15</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7c45755bf74932eedeb3b448931a8441" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_8ef0a4f04bf723a6fba421e40d7c2e95" parent="aspace_7c45755bf74932eedeb3b448931a8441" type="DVD">OH-81-015</container><container id="aspace_a593adcb231d447abbe730c1ed3ae418" label="electronic records" type="Box">Electronic Records</container><container id="aspace_593175883cacb66b56b26d65a9b889f8" parent="aspace_a593adcb231d447abbe730c1ed3ae418" type="E-records">TW_OH_81_ER_15</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The Carters Interview" xlink:type="simple"><daodesc><p>The Carters Interview: 2010-06-27-</p></daodesc></dao></did></c><c id="aspace_ref29" level="file"><did><unittitle>Mazie Mullins</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3013f348b3b8168a499d0661d29be4bb" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_4725af67336c935b0eef2d97b60c4725" parent="aspace_3013f348b3b8168a499d0661d29be4bb" type="disk">OH-81-016</container><container altrender="Record carton" id="aspace_98dc119a3091021054288a67ffccf28e" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_71ad51a02cb9059d630e3f1f7632a7f5" parent="aspace_98dc119a3091021054288a67ffccf28e" type="Folder">16</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d31ff13c9475161368095b7896fabcf3" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_8858071f59b15ba39eb6e1a47b82de91" parent="aspace_d31ff13c9475161368095b7896fabcf3" type="DVD">OH-81-016</container><container id="aspace_9860fe5b90442c52b3d8229a1dd60452" label="electronic records" type="Box">Electronic Records</container><container id="aspace_cda4e4db8525e9d3db73e880e3fcd874" parent="aspace_9860fe5b90442c52b3d8229a1dd60452" type="E-records">TW_OH_81_ER_16</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mazie Mullins Interview" xlink:type="simple"><daodesc><p>Mazie Mullins Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref27" level="file"><did><unittitle>Dorice Hamilton</unittitle><unitdate datechar="creation" normal="2010-06-27/2010-06-27">2010-06-27</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_2b98b7fed14e01cc62a137c96367774f" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_d8cfe01f595b544ec0ac379b2fd9592e" parent="aspace_2b98b7fed14e01cc62a137c96367774f" type="disk">OH-81-014</container><container altrender="Record carton" id="aspace_0758d59b79e7c5fd17c54f836679c7ee" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_d0a19f2842da0ee8f33a948dd0fe7fa5" parent="aspace_0758d59b79e7c5fd17c54f836679c7ee" type="Folder">14</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8edb1c9dd262b3853b41f33c248b462f" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_3455de11657e5243a0ecae51b49426d2" parent="aspace_8edb1c9dd262b3853b41f33c248b462f" type="DVD">OH-81-014</container><container id="aspace_2ff940a97925a5e396e0c64fd9eb8364" label="electronic records" type="Box">Electronic Records</container><container id="aspace_97dfa56aabad7f0e72130604b60db00f" parent="aspace_2ff940a97925a5e396e0c64fd9eb8364" type="E-records">TW_OH_81_ER_14</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Dorice Hamilton Interview" xlink:type="simple"><daodesc><p>Dorice Hamilton Interview: 2010-06-27-</p></daodesc></dao></did></c><c id="aspace_ref30" level="file"><did><unittitle>Idamae Mason</unittitle><unitdate datechar="creation" normal="2010-06-28/2010-06-28">2010-06-28</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_12967964c966181665a39a75b2ea8ad6" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_0292b058a291c23bb209a6ccba59c38b" parent="aspace_12967964c966181665a39a75b2ea8ad6" type="disk">OH-81-017</container><container altrender="Record carton" id="aspace_b529572ffef0a235235185513e5f997c" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_6695c10c0ec77bd72e45b7b6821c1fbb" parent="aspace_b529572ffef0a235235185513e5f997c" type="Folder">17</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7953605c7a6e9f3c204648e2f49bfb89" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_aa100309d21ec3eeca1b393d1e86015a" parent="aspace_7953605c7a6e9f3c204648e2f49bfb89" type="DVD">OH-81-017</container><container id="aspace_663e51119af8151070a578312d79027c" label="electronic records" type="Box">Electronic Records</container><container id="aspace_b9ffddb157edc3634f8fc4ef88a5c965" parent="aspace_663e51119af8151070a578312d79027c" type="E-records">TW_OH_81_ER_17</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Idamae Mason Interview" xlink:type="simple"><daodesc><p>Idamae Mason Interview: 2010-06-28-</p></daodesc></dao></did></c><c id="aspace_ref31" level="file"><did><unittitle>The Powells</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_a60533a97a394340d18e7781b8e7c44a" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_9a54e25303f5c7643bc7e2813c5038cc" parent="aspace_a60533a97a394340d18e7781b8e7c44a" type="disk">OH-81-018</container><container altrender="Record carton" id="aspace_d36189a15feef63d1ca033a20470ea75" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_6112999973f1f45ad2423c9a8c90cf75" parent="aspace_d36189a15feef63d1ca033a20470ea75" type="Folder">18</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5cfa3213845f0dab2358a48773c5286a" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_5e17915b7bebae552842dd1ddc8d93d6" parent="aspace_5cfa3213845f0dab2358a48773c5286a" type="DVD">OH-81-018</container><container id="aspace_748e68e40e73497d41b3d67d13775f3e" label="electronic records" type="Box">Electronic Records</container><container id="aspace_66cb50fd4c1b5ccfafaf4bf23df37156" parent="aspace_748e68e40e73497d41b3d67d13775f3e" type="E-records">TW_OH_81_ER_18</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The Powells Interview" xlink:type="simple"><daodesc><p>The Powells Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref35" level="file"><did><unittitle>Edith Lyons</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_757dff12bded38ece78c6b7a613e8364" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_607e5608295f73fc5cef85f4c2c8be31" parent="aspace_757dff12bded38ece78c6b7a613e8364" type="disk">OH-81-022</container><container altrender="Record carton" id="aspace_aed97ac114890329add68850b183ca52" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_c65aca90266eeb5ecc699e12197eb318" parent="aspace_aed97ac114890329add68850b183ca52" type="Folder">22</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_113c883d6722320ed356ec6e0f25e766" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_28141dc1877a6e8cfb0d743e8c902eb3" parent="aspace_113c883d6722320ed356ec6e0f25e766" type="DVD">OH-81-022</container><container id="aspace_199800dfa1dfdfe823aa9c72bc08ff77" label="electronic records" type="Box">Electronic Records</container><container id="aspace_aff050ad71a604cb9747b644c16f4f68" parent="aspace_199800dfa1dfdfe823aa9c72bc08ff77" type="E-records">TW_OH_81_ER_22</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Edith Lyons Interview" xlink:type="simple"><daodesc><p>Edith Lyons Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref32" level="file"><did><unittitle>The Mathauser Twins</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3576b4eb1fe5aaaf7af9d6a33f0606a1" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_07444e3e427d41cf99e60164a842cf6b" parent="aspace_3576b4eb1fe5aaaf7af9d6a33f0606a1" type="disk">OH-81-019</container><container altrender="Record carton" id="aspace_36ed0278c1d9863e4534793717340556" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_298e22c6aded3a12e137d823a719fcc7" parent="aspace_36ed0278c1d9863e4534793717340556" type="Folder">20</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_6f1b15696193a2bf79cda4a286e96f85" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_671ba84bffe8393337f65bf50ffe8863" parent="aspace_6f1b15696193a2bf79cda4a286e96f85" type="DVD">OH-81-019</container><container id="aspace_af2a6e9134ff15bd23995d4b8a9eb5de" label="electronic records" type="Box">Electronic Records</container><container id="aspace_7de884a289c1072a087f26cd956a1894" parent="aspace_af2a6e9134ff15bd23995d4b8a9eb5de" type="E-records">TW_OH_81_ER_19</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mathauser Twins Interview" xlink:type="simple"><daodesc><p>Mathauser Twins Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref33" level="file"><did><unittitle>Arkie Huffman</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4eb421abd657db2254b6867f2adc6121" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_d708b2fda1f38d880b2f7317313908e6" parent="aspace_4eb421abd657db2254b6867f2adc6121" type="disk">OH-81-020</container><container altrender="Record carton" id="aspace_8d968bc1844e1cae986afc4d21c68db6" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_d3d48c345958eecf65dec023b1e7d14a" parent="aspace_8d968bc1844e1cae986afc4d21c68db6" type="Folder">19</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_88d9e4098c3f12977387ae06af6a9261" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_97cc6623c3bd59e924ea2435c06bee30" parent="aspace_88d9e4098c3f12977387ae06af6a9261" type="DVD">OH-81-020</container><container id="aspace_1dfd14140d6346c04869d23a82254ff8" label="electronic records" type="Box">Electronic Records</container><container id="aspace_2735817d073793d4410eb7413dc90a59" parent="aspace_1dfd14140d6346c04869d23a82254ff8" type="E-records">TW_OH_81_ER_20</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Arkie Huffman Interview" xlink:type="simple"><daodesc><p>Arkie Huffman Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref34" level="file"><did><unittitle>Shirley Clark</unittitle><unitdate datechar="creation" normal="2010-06-28/2010-06-28">2010-06-28</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_bce4e38003b3e37d9e2c00c47f3b33bf" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_bf3d165a82bc7b0c1c2150562922555a" parent="aspace_bce4e38003b3e37d9e2c00c47f3b33bf" type="disk">OH-81-021</container><container altrender="Record carton" id="aspace_eb7a0f81e81aaf8e51656dd64383687f" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_6b0b2ac8ff7dee150a5c137475896932" parent="aspace_eb7a0f81e81aaf8e51656dd64383687f" type="Folder">21</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_a1d48aa9a94c0481509a27616dfb4068" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_a1d53c6d4b85915648627ef62dfa69b2" parent="aspace_a1d48aa9a94c0481509a27616dfb4068" type="DVD">OH-81-021</container><container id="aspace_f6e989e54d112fbe14bb4faf63759a38" label="electronic records" type="Box">Electronic Records</container><container id="aspace_ef844bb134a7e46cf97c17f04d2d4d34" parent="aspace_f6e989e54d112fbe14bb4faf63759a38" type="E-records">TW_OH_81_ER_21</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Shirley Clark Interview" xlink:type="simple"><daodesc><p>Shirley Clark Interview: 2010-06-28-</p></daodesc></dao></did></c><c id="aspace_ref36" level="file"><did><unittitle>Francis Ellis</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_33dd0449d8a210ef7adc12a588f85566" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_fd0c385c56ed658f747d646472daf6e2" parent="aspace_33dd0449d8a210ef7adc12a588f85566" type="disk">OH-81-023</container><container altrender="Record carton" id="aspace_658202072d5955a44279e002fa3eaa98" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_552cfda88df6c4991a6de98220a92ea4" parent="aspace_658202072d5955a44279e002fa3eaa98" type="Folder">23</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_043351e9b7fd411262a11e1bd637962f" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_bc6b7722d4db3915fd263ad9155f2077" parent="aspace_043351e9b7fd411262a11e1bd637962f" type="DVD">OH-81-023</container><container id="aspace_0c5b6279ec53c70702999d527d2e9eb2" label="electronic records" type="Box">Electronic Records</container><container id="aspace_2570ba0093d9f3987f47cbfdfacc6f6d" parent="aspace_0c5b6279ec53c70702999d527d2e9eb2" type="E-records">TW_OH_81_ER_23</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Francis Ellis Interview" xlink:type="simple"><daodesc><p>Francis Ellis Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref37" level="file"><did><unittitle>Arlene Crary</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7b4f085a310bfbf6239ab60094e48981" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_a9d8c9238e6b70e710c0e4cd48bb5882" parent="aspace_7b4f085a310bfbf6239ab60094e48981" type="disk">OH-81-024</container><container altrender="Record carton" id="aspace_2038f3e7486deeaeb77e15396f1b1b66" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_a91f85c04c7b3aaf8f8cd339f14e4f96" parent="aspace_2038f3e7486deeaeb77e15396f1b1b66" type="Folder">24</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_eb6a9cf2eb03853362794fdf5156c912" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_a07d3029e35e99ccf7fd49b4232c878d" parent="aspace_eb6a9cf2eb03853362794fdf5156c912" type="DVD">OH-81-024</container><container id="aspace_0f5facc3e20505e22cc28e1ba0cc241f" label="electronic records" type="Box">Electronic Records</container><container id="aspace_1a2e2fab5344497abc21b3ebcc6e4190" parent="aspace_0f5facc3e20505e22cc28e1ba0cc241f" type="E-records">TW_OH_81_ER_24</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Arlene Crary Interview" xlink:type="simple"><daodesc><p>Arlene Crary Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref38" level="file"><did><unittitle>Catherine Gaultier</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_11cadf08bedf8e610b3094ab6ccf9282" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_2996b1ddb098c1610c93186d67f930f2" parent="aspace_11cadf08bedf8e610b3094ab6ccf9282" type="disk">OH-81-025</container><container altrender="Record carton" id="aspace_3f2da9fd7bc6fb6c2b5629e7d2e803cb" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_0279884b7d39336b31cac3168894328a" parent="aspace_3f2da9fd7bc6fb6c2b5629e7d2e803cb" type="Folder">25</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4e70cb2bb8e0a0ceb56b25ac0baa1206" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_6259f5392a201a0bae3a23af4b0d0967" parent="aspace_4e70cb2bb8e0a0ceb56b25ac0baa1206" type="DVD">OH-81-025</container><container id="aspace_22af1ddb429b679729322d53dabb9500" label="electronic records" type="Box">Electronic Records</container><container id="aspace_93f946d55de4ea9b92c2a086004a95dd" parent="aspace_22af1ddb429b679729322d53dabb9500" type="E-records">TW_OH_81_ER_25</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Catherine Gaultier Interview" xlink:type="simple"><daodesc><p>Catherine Gaultier Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref39" level="file"><did><unittitle>Eileen Tench</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c3cd081db62abade47544541c44563de" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_7f38a8733b308e3b09551027c23308be" parent="aspace_c3cd081db62abade47544541c44563de" type="disk">OH-81-026</container><container altrender="Record carton" id="aspace_ebf364c591fb3394264bc3ac755aefc1" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_d6e0dad765d2c55094aa74a5dd5de7e5" parent="aspace_ebf364c591fb3394264bc3ac755aefc1" type="Folder">26</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_6d495095a63fff37df72c786f7be6fa5" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_952ff031e12541293bf605a7e3545a31" parent="aspace_6d495095a63fff37df72c786f7be6fa5" type="DVD">OH-81-026</container><container id="aspace_25c9836aa2687a5e8d7b0182e4040e81" label="electronic records" type="Box">Electronic Records</container><container id="aspace_d701c9b566835a1cb0acf35fc0af0997" parent="aspace_25c9836aa2687a5e8d7b0182e4040e81" type="E-records">TW_OH_81_ER_26</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Eileen Tench Interview" xlink:type="simple"><daodesc><p>Eileen Tench Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref40" level="file"><did><unittitle>Mabel Myrick</unittitle><unitdate datechar="creation" normal="2010-06-25/2010-06-25">2010-06-25</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_00ac6f8aceaf8baffb6f10bce7163d06" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_7d9dec43cf7d8556ed8a158bf1bdc2d9" parent="aspace_00ac6f8aceaf8baffb6f10bce7163d06" type="disk">OH-81-027</container><container altrender="Record carton" id="aspace_37caf7f6e8971150c4768f3ff0701722" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_74d7a9831c7a8024e271a161c531041a" parent="aspace_37caf7f6e8971150c4768f3ff0701722" type="Folder">27</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3f694365a73f6a544ba07789150591d1" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_a91ebca1bb279b92ad4ba075c51845e6" parent="aspace_3f694365a73f6a544ba07789150591d1" type="DVD">OH-81-027</container><container id="aspace_d0d60e927ba2b9a95e66922abaa5d78b" label="electronic records" type="Box">Electronic Records</container><container id="aspace_23af051b371d78fe93cc22f87a5601e4" parent="aspace_d0d60e927ba2b9a95e66922abaa5d78b" type="E-records">TW_OH_81_ER_27</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Mabel Myrick Interview" xlink:type="simple"><daodesc><p>Mabel Myrick Interview: 2010-06-25-</p></daodesc></dao></did></c><c id="aspace_ref41" level="file"><did><unittitle>Nell Young</unittitle><unitdate datechar="creation" normal="2010-06-25/2010-06-25">2010-06-25</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_f8e0824cb6ee810017aa75cc2d3cdcc1" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_a92496141580d27026005b3414597b22" parent="aspace_f8e0824cb6ee810017aa75cc2d3cdcc1" type="disk">OH-81-028</container><container altrender="Record carton" id="aspace_917696f4e58b72c03ea9a4da9a39d933" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_1507300ccec28bab350deebbfb58fe4e" parent="aspace_917696f4e58b72c03ea9a4da9a39d933" type="Folder">28</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_1a153189ae9fa4a86a7d4f62baab8f9f" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_eafd32ad7f089329d63de113d1d0c182" parent="aspace_1a153189ae9fa4a86a7d4f62baab8f9f" type="DVD">OH-81-028</container><container id="aspace_c129fad4e8aaf89cb81796b4ca6478a8" label="electronic records" type="Box">Electronic Records</container><container id="aspace_d7497ee5c0030f79a58025c12a64b486" parent="aspace_c129fad4e8aaf89cb81796b4ca6478a8" type="E-records">TW_OH_81_ER_28</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Nell Young Interview" xlink:type="simple"><daodesc><p>Nell Young Interview: 2010-06-25-</p></daodesc></dao></did></c><c id="aspace_ref42" level="file"><did><unittitle>Winona Gillespie</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_28fd1616ea0c7a1e5e2eee5a87167c75" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_6bd9eaacae9f6c16a67e424469126fea" parent="aspace_28fd1616ea0c7a1e5e2eee5a87167c75" type="disk">OH-81-029</container><container altrender="Record carton" id="aspace_7beaba8c27567cee0832107a7c98acfc" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_047a4ae6bf316ed81545ece51212accf" parent="aspace_7beaba8c27567cee0832107a7c98acfc" type="Folder">29</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_576850b3814200db8d66a7b10cd63e79" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_497b82f607d4aa2f7a8586a350abf360" parent="aspace_576850b3814200db8d66a7b10cd63e79" type="DVD">OH-81-029</container><container id="aspace_e801b331c04a9bb54041699b7cfcd4ba" label="electronic records" type="Box">Electronic Records</container><container id="aspace_c438f8d876cc9598834135da46449d3b" parent="aspace_e801b331c04a9bb54041699b7cfcd4ba" type="E-records">TW_OH_81_ER_29</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Winona Gillespie Interview" xlink:type="simple"><daodesc><p>Winona Gillespie Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref43" level="file"><did><unittitle>Thelma Edgar</unittitle><unitdate datechar="creation" normal="2010-06-26/2010-06-26">2010-06-26</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_2043d8993e3663abb515dd8fcbb42a26" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_f1078dc954252369a6804979bf01e222" parent="aspace_2043d8993e3663abb515dd8fcbb42a26" type="disk">OH-81-030</container><container altrender="Record carton" id="aspace_8ad8156bf914076f9ca0a19db2cc85f6" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_485325ce6987764b5b2d702c3b2e3a83" parent="aspace_8ad8156bf914076f9ca0a19db2cc85f6" type="Folder">30</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4ed2a922fead31c754d4a70cd28441cd" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_de1289d2ee9e3658c2aff64b4189d263" parent="aspace_4ed2a922fead31c754d4a70cd28441cd" type="DVD">OH-81-030</container><container id="aspace_efa80385b13ab22f7a8e50dd71383133" label="electronic records" type="Box">Electronic Records</container><container id="aspace_d413371f27c79e381fa5a127a5a84db5" parent="aspace_efa80385b13ab22f7a8e50dd71383133" type="E-records">TW_OH_81_ER_30</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Thelma Edgar Interview" xlink:type="simple"><daodesc><p>Thelma Edgar Interview: 2010-06-26-</p></daodesc></dao></did></c><c id="aspace_ref63" level="file"><did><unittitle>Marion Yagoda</unittitle><unitdate datechar="creation" normal="2010-07-12/2010-07-12">2010-07-12</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cbb908dadfa5fd0d61962571a377a1bc" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_83747c857e94b9a4d2d32114abdb8bdd" parent="aspace_cbb908dadfa5fd0d61962571a377a1bc" type="disk">OH-81-031</container><container altrender="Record carton" id="aspace_e429d892a49b8ae70537f9e3281466cb" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_21095c5fc76060a5dbf7fe756e3d9c3c" parent="aspace_e429d892a49b8ae70537f9e3281466cb" type="Folder">31</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_8951c65f36a938e02a1bf37a10deaf87" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_5dac60ec9d6cd614c36dfc925732ffe5" parent="aspace_8951c65f36a938e02a1bf37a10deaf87" type="DVD">OH-81-031</container><container id="aspace_34df852b3c117fd2ee2576be6bbe5c46" label="electronic records" type="Box">Electronic Records</container><container id="aspace_86178147f119b9a97dca2ec175cf9a23" parent="aspace_34df852b3c117fd2ee2576be6bbe5c46" type="E-records">TW_OH_81_ER_31</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Marion Yagoda Interview" xlink:type="simple"><daodesc><p>Marion Yagoda Interview: 2010-07-12-</p></daodesc></dao></did></c><c id="aspace_ref65" level="file"><did><unittitle>Angeline Fleming</unittitle><unitdate datechar="creation" normal="2010-07-12/2010-07-12">2010-07-12</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_ae1f270abd3bd82804801276109493a3" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_73299737c306b7f247d36bb2f8e5d893" parent="aspace_ae1f270abd3bd82804801276109493a3" type="disk">OH-81-032</container><container altrender="Record carton" id="aspace_231fd20ba964d0aca09cf6ebdf8d9440" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_f2689cdb11783f648a5003ed62569180" parent="aspace_231fd20ba964d0aca09cf6ebdf8d9440" type="Folder">32</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_798974df1421a163af4bf4b9c7ec6ed7" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_74f1c35007b5a671a1974b950457f64c" parent="aspace_798974df1421a163af4bf4b9c7ec6ed7" type="DVD">OH-81-032</container><container id="aspace_85faf752cc61522d83ea587e270710c4" label="electronic records" type="Box">Electronic Records</container><container id="aspace_76e16c335168cdbae9743119a4741a08" parent="aspace_85faf752cc61522d83ea587e270710c4" type="E-records">TW_OH_81_ER_32</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Angeline Fleming Interview" xlink:type="simple"><daodesc><p>Angeline Fleming Interview: 2010-07-12-</p></daodesc></dao></did></c><c id="aspace_ref67" level="file"><did><unittitle>Eva Chenevert</unittitle><unitdate datechar="creation" normal="2010-07-13/2010-07-13">2010-07-13</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_294137492ac09a61b5be0f53d293b2d9" label="Moving Images [31142062759017]" type="Box">1</container><container id="aspace_dcd36f39dfafdd801d97c4705ff32dec" parent="aspace_294137492ac09a61b5be0f53d293b2d9" type="disk">OH-81-033</container><container altrender="Record carton" id="aspace_44e4ff342532cef0a680721f1a5d6192" label="Mixed Materials [31142062671741]" type="Box">3</container><container id="aspace_72cbeb8e2c202a20db995532ed776463" parent="aspace_44e4ff342532cef0a680721f1a5d6192" type="Folder">33</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_241edfb0dc10f8d21451031d0dd785ce" label="Moving Images [31142062672632]" type="Box">2</container><container id="aspace_5dfc5e0be81357d46aaa7b86f635ceca" parent="aspace_241edfb0dc10f8d21451031d0dd785ce" type="DVD">OH-81-033</container><container id="aspace_8e2c741f05042ac7af6f54a1b772a26c" label="electronic records" type="Box">Electronic Records</container><container id="aspace_c2053278ffb5ab91f0d0bde71358152f" parent="aspace_8e2c741f05042ac7af6f54a1b772a26c" type="E-records">TW_OH_81_ER_33</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Eva Chenevert Interview " xlink:type="simple"><daodesc><p>Eva Chenevert Interview : 2010-07-13-</p></daodesc></dao></did></c></dsc>
+</archdesc>
 </ead>

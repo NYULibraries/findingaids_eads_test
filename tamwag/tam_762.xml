@@ -1,146 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_762">tam_762</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Aaron Leonard Collection of FOIA Files <num>TAM.762</num></titleproper>
-        <author>Rachel Searcy</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>February 2019</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:34:07 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Aaron Leonard Collection of FOIA Files</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Leonard, Aaron J.</persname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" source="naf">Leonard, Aaron J.</persname>
-      </origination>
-      <unitid>TAM.762</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">761 Megabytes</extent>
-        <extent altrender="carrier">in 64 documents</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="2018/2018">2018</unitdate>
-      <abstract id="aspace_7fca5e3f03abd9e7dac5075d88801ced">Aaron Leonard is a writer and historian whose primary focus is the history of radicalism and state suppression of radicalism. Leonard is the author of <emph render="italic">Heavy Radicals: The FBI's Secret War on America's Maoists</emph> (2014) and <emph render="italic">A Threat of the First Magnitude: FBI Counterintelligence and Infiltration from the Communist Party to the Revolutionary, 1962-1974</emph> (2017). The Aaron Leonard Collection of FOIA Files consists of pdfs of declassified Federal Bureau of Investigation documents requested by Leonard through the Freedom of Information Act (FOIA). Materials include pdfs of FBI reports and memoranda on composer Aaron Copland, actor Howard Da Silva, and Harvey Matusow documenting the subjects' employment, residences, daily activities, travel, and political affiliations, especially any documented or perceived connection to the Communist Party of the United States of America (CPUSA). The files document the federal surveillance of figures in the performing arts during the 1940s and 1950s for evidence of subversive or treasonous actions.</abstract>
-      <langmaterial id="aspace_5623031e9d4245eefecd1aa0cb732875">Materials are in English.</langmaterial>
-    </did>
-    <scopecontent id="aspace_1f296d68c4c71c6828b0ae51aadcd531">
-      <head>Scope and Contents</head>
-      <p>The Aaron Leonard Collection of FOIA Files consists of pdfs of declassified Federal Bureau of Investigation documents requested by Leonard through the Freedom of Information Act (FOIA). Materials include pdfs of FBI reports and memoranda on composer Aaron Copland, actor Howard Da Silva, and Harvey Matusow documenting the subjects' employment, residences, daily activities, travel, and political affiliations, especially any documented or perceived connection to the Communist Party of the United States of America (CPUSA). The files document the federal surveillance of figures in the performing arts during the 1940s and 1950s for evidence of subversive or treasonous actions.</p>
-    </scopecontent>
-    <arrangement id="aspace_80371a886a0db882e46996df15b66e02">
-      <head>Arrangement</head>
-      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <accessrestrict id="aspace_e0aa93f1bc3e0213172a683b1d3b73b4">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_bc2c30a7916886f053130737220e7973">
-      <head>Conditions Governing Use</head>
-      <p>Materials in this collection are in the public domain. Permission to publish or reproduce is not required.</p>
-    </userestrict>
-    <acqinfo id="aspace_f57153b4a3c368b1c37ac560643107e7">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Aaron Leonard in September 2018; the accession number associated with this gift is 2018.123.</p>
-    </acqinfo>
-    <phystech id="aspace_593a52f23adcb1a774264b857a5b1adc">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Advance notice is required for the use of computer records.  Original physical digital media is restricted. An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>
-    </phystech>
-    <prefercite id="aspace_76dd9dac684a5e7cd7eec1c52a6e404d">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Aaron Leonard Collection of FOIA Files; TAM 762; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_365a756c408df201b138da1b53f18b32">
-      <head>Processing Information</head>
-      <p>At the time of accessioning, materials were described on the collection-level. Groupings of individual pdf documents are original to the donor's directory structure. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.</p>
-    </processinfo>
-    <bioghist id="aspace_1002adb03e02bebf72f7bd57daae24fd">
-      <head>Biographical Note</head>
-      <p>Aaron Leonard is a writer and historian whose primary focus is the history of radicalism and state suppression of radicalism. Leonard is the author of <emph render="italic">Heavy Radicals: The FBI's Secret War on America's Maoists</emph> (2014) and <emph render="italic">A Threat of the First Magnitude: FBI Counterintelligence and Infiltration from the Communist Party to the Revolutionary, 1962-1974</emph> (2017). He is also a regular contributor to the History News Network, Truthout, and <emph render="italic">Jacobin</emph>.</p>
-    </bioghist>
-    <controlaccess>
-      <genreform source="aat">Federal government records.</genreform>
-      <subject source="lcsh">Anti-communist movements -- United States -- 20th century</subject>
-      <subject source="lcsh">Communism -- United States -- 20th century</subject>
-      <subject source="lcsh">Communism and culture -- United States.</subject>
-      <subject source="lcsh">Communism and music -- United States.</subject>
-      <subject source="lcsh">Communism and motion pictures -- United States.</subject>
-      <subject source="lcsh">Domestic intelligence |z United States.</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_762">tam_762</eadid><filedesc><titlestmt><titleproper>Guide to the Aaron Leonard Collection of FOIA Files <num>TAM.762</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>February 2019</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:49:14 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2021</date><item>Record updated by Rachel Searcy to reflect 2021 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Aaron Leonard Collection of FOIA Files</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Leonard, Aaron J.</persname>
+    </origination>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n78095617" rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" source="naf">Leonard, Aaron J.</persname>
-      <persname source="naf">Copland, Aaron, 1900-1990</persname>
-      <persname source="naf">Da Silva, Howard, 1909-1986</persname>
-      <persname source="naf">Matusow, Harvey, 1926-2002</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_dd910d066ccdc8e5c1da9d118735db40" level="file">
-        <did>
-          <unittitle>Aaron Copland</unittitle>
-          <unitdate datechar="creation" normal="2018/2018">2018</unitdate>
-          <container id="aspace_5397a03ba6139c43ab7f09149732a34a" label="electronic records" type="Box">Electronic reocrds</container>
-          <container id="aspace_face22bff5aa6d975fefedadb880ba8c" parent="aspace_5397a03ba6139c43ab7f09149732a34a" type="E-records">TW_TAM_762_ER_1</container>
-          <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Aaron Copland" xlink:type="simple">
-            <daodesc>
-              <p>Aaron Copland: 2018-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_cabd9ab70e355592095042cd81abd179" level="file">
-        <did>
-          <unittitle>Howard Da Silva</unittitle>
-          <unitdate datechar="creation" normal="2018/2018">2018</unitdate>
-          <container id="aspace_19ca6d54d80343b3eeed6f2213dfe496" label="electronic records" type="Box">Electronic reocrds</container>
-          <container id="aspace_b293d221e3dee7193202913267bc533a" parent="aspace_19ca6d54d80343b3eeed6f2213dfe496" type="E-records">TW_TAM_762_ER_2</container>
-          <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Howard Da Silva" xlink:type="simple">
-            <daodesc>
-              <p>Howard Da Silva: 2018-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_a1f99ab4ebf2cb31abee1e56a11e9b02" level="file">
-        <did>
-          <unittitle>Harvey Matusow</unittitle>
-          <unitdate datechar="creation" normal="2018/2018">2018</unitdate>
-          <container id="aspace_a6a70a61aaf49667a70926f459b3a898" label="Mixed Materials" type="Box">Electronic reocrds</container>
-          <container id="aspace_84f5681e59c3242964143267c84d4f65" parent="aspace_a6a70a61aaf49667a70926f459b3a898" type="E-records">TW_TAM_762_ER_3</container>
-          <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Harvey Matusow" xlink:type="simple">
-            <daodesc>
-              <p>Harvey Matusow: 2018-</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.762</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.68 Gigabytes</extent>
+      <extent altrender="carrier">in 104 pdfs</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2018/2020" type="inclusive">2018-2020</unitdate>
+    <abstract id="aspace_7fca5e3f03abd9e7dac5075d88801ced">Aaron Leonard is a writer and historian whose primary focus is the history of radicalism and state suppression of radicalism. Leonard is the author of <emph render="italic">Heavy Radicals: The FBI's Secret War on America's Maoists</emph> (2014), <emph render="italic">A Threat of the First Magnitude: FBI Counterintelligence and Infiltration from the Communist Party to the Revolutionary, 1962-1974</emph> (2017), and <emph render="italic">The Folk Singers and the Bureau: The FBI, the Folk Artists and the Suppression of the Communist Party, 1939-1956</emph> (2020). The Aaron Leonard Collection of FOIA Files consists of pdfs of declassified Federal Bureau of Investigation documents requested by Leonard through the Freedom of Information Act (FOIA), many of which were obtained as part of his research for <emph render="italic">The Folk Singers and the Bureau</emph>. Materials include pdfs of FBI reports and memoranda on multiple actors, musicians, writers, and composers documenting the subjects' employment, residences, daily activities, travel, and political affiliations, especially any documented or perceived connection to the Communist Party of the United States of America (CPUSA). Subjects of these files include Aaron Copland, Howard Da Silva, Ronnie Gilbert, Woody Guthrie, Lee Hays, Fred Hellerman, Cisco Houston, Burl Ives, Aunt Molly Jackson, Millard Lampell, Harold Leventhal, Bess Lomax Hawes, Alan Lomax, Harvey Matusow, Abel Meeropol, Pete Seeger, Irwin Silber, and Josh White. The files document the federal surveillance of figures in the performing arts during the 1940s and 1950s for evidence of subversive or treasonous actions.</abstract>
+    <langmaterial id="aspace_5623031e9d4245eefecd1aa0cb732875">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_1f296d68c4c71c6828b0ae51aadcd531">
+    <head>Scope and Contents</head>
+<p>The Aaron Leonard Collection of FOIA Files consists of pdfs of declassified Federal Bureau of Investigation documents requested by Leonard through the Freedom of Information Act (FOIA), many of which were obtained as part of his research for <emph render="italic">The Folk Singers and the Bureau: The FBI, the Folk Artists and the Suppression of the Communist Party, 1939-1956</emph>. Materials include pdfs of FBI reports and memoranda on multiple actors, musicians, writers, and composers documenting the subjects' employment, residences, daily activities, travel, and political affiliations, especially any documented or perceived connection to the Communist Party of the United States of America (CPUSA). Subjects of these files include Aaron Copland, Howard Da Silva, Ronnie Gilbert, Woody Guthrie, Lee Hays, Fred Hellerman, Cisco Houston, Burl Ives, Aunt Molly Jackson, Millard Lampell, Harold Leventhal, Bess Lomax Hawes, Alan Lomax, Harvey Matusow, Abel Meeropol, Pete Seeger, Irwin Silber, and Josh White. The files document the federal surveillance of figures in the performing arts during the 1940s and 1950s for evidence of subversive or treasonous actions.</p>  </scopecontent>
+  <arrangement id="aspace_80371a886a0db882e46996df15b66e02">
+    <head>Arrangement</head>
+<p>Files are arranged alphabetically by subject's last name.</p>  </arrangement>
+  <accessrestrict id="aspace_e0aa93f1bc3e0213172a683b1d3b73b4">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_bc2c30a7916886f053130737220e7973">
+    <head>Conditions Governing Use</head>
+<p>Materials in this collection are in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
+  <acqinfo id="aspace_f57153b4a3c368b1c37ac560643107e7">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Aaron Leonard in September 2018, with an accretion of files in November 2021; the accession numbers associated with these gift are 2018.123 and 2021.076.</p>  </acqinfo>
+  <phystech id="aspace_593a52f23adcb1a774264b857a5b1adc">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Advance notice is required for the use of computer records.  Original physical digital media is restricted. An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>  </phystech>
+  <prefercite id="aspace_76dd9dac684a5e7cd7eec1c52a6e404d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Aaron Leonard Collection of FOIA Files; TAM 762; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_365a756c408df201b138da1b53f18b32">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were described on the collection-level. Groupings of individual pdf documents are original to the donor's directory structure. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.</p>  </processinfo>
+  <bioghist id="aspace_1002adb03e02bebf72f7bd57daae24fd">
+    <head>Biographical Note</head>
+<p>Aaron Leonard is a writer and historian whose primary focus is the history of radicalism and state suppression of radicalism. Leonard is the author of <emph render="italic">Heavy Radicals: The FBI's Secret War on America's Maoists</emph> (2014), <emph render="italic">A Threat of the First Magnitude: FBI Counterintelligence and Infiltration from the Communist Party to the Revolutionary, 1962-1974</emph> (2017), and <emph render="italic">The Folk Singers and the Bureau: The FBI, the Folk Artists and the Suppression of the Communist Party, 1939-1956</emph> (2020). He is also a regular contributor to the History News Network, Truthout, and <emph render="italic">Jacobin</emph>.</p>  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Federal government records.</genreform>
+    <subject source="lcsh">Anti-communist movements -- United States -- 20th century</subject>
+    <subject source="lcsh">Communism -- United States -- 20th century</subject>
+    <subject source="lcsh">Communism and culture -- United States.</subject>
+    <subject source="lcsh">Communism and music -- United States.</subject>
+    <subject source="lcsh">Communism and motion pictures -- United States.</subject>
+    <subject source="lcsh">Domestic intelligence |z United States.</subject>
+    <subject source="lcsh">Folk music.</subject>
+    <subject source="lcsh">Folk singers |z United States.</subject>
+    <persname role="dnr" source="naf">Leonard, Aaron J.</persname>
+    <persname source="naf">Copland, Aaron, 1900-1990</persname>
+    <persname source="naf">Da Silva, Howard, 1909-1986</persname>
+    <persname source="naf">Matusow, Harvey, 1926-2002</persname>
+    <persname authfilenumber="(lccn)n85376995" source="naf">Gilbert, Ronnie</persname>
+    <persname authfilenumber="(lccn)n85376991" source="naf">Hays, Lee, 1914-1981</persname>
+    <persname authfilenumber="(lccn)n85376987" source="naf">Hellerman, Fred, 1927-2016</persname>
+    <persname authfilenumber="(lccn)n87105755" source="naf">Houston, Cisco</persname>
+    <persname authfilenumber="(lccn)n85135241" source="naf">Ives, Burl, 1909-1995</persname>
+    <persname authfilenumber="(lccn)n83163163" source="naf">Jackson, Aunt Molly</persname>
+    <persname authfilenumber="(lccn)n50079112" source="naf">Lampell, Millard, 1919-1997</persname>
+    <persname authfilenumber="(lccn)n85376992" source="naf">Leventhal, Harold</persname>
+    <persname authfilenumber="(lccn)n86053239" source="naf">Hawes, Bess Lomax, 1921-2009</persname>
+    <persname source="naf">Lomax, Alan, 1915-2002</persname>
+    <persname source="naf">Meeropol, Abel, 1903-1986</persname>
+    <persname authfilenumber="(lccn)n86001816" source="naf">Silber, Irwin, 1925-2010</persname>
+    <persname authfilenumber="(lccn)n82090944" source="naf">White, Josh</persname>
+    <corpname authfilenumber="(lccn)n79036120" source="naf">Communist Party of the United States of America</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_dd910d066ccdc8e5c1da9d118735db40" level="file"><did><unittitle>Aaron Copland</unittitle><unitid>cuid34959</unitid><unitdate datechar="creation" normal="2018/2018">2018</unitdate><container id="aspace_ecb411130680ad3b0aad175b4adbe962" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_31f4b1656c644647241a01a047a837e5" parent="aspace_ecb411130680ad3b0aad175b4adbe962" type="E-records">TW_TAM_762_ER_1</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Aaron Copland" xlink:type="simple"><daodesc><p>Aaron Copland: 2018-</p></daodesc></dao></did></c><c id="aspace_cabd9ab70e355592095042cd81abd179" level="file"><did><unittitle>Howard Da Silva</unittitle><unitid>cuid34960</unitid><unitdate datechar="creation" normal="2018/2018">2018</unitdate><container id="aspace_28ead70e4be819e642162086f65736db" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_cb200a12aa4a98c1ab247e950d912f4e" parent="aspace_28ead70e4be819e642162086f65736db" type="E-records">TW_TAM_762_ER_2</container><dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Howard Da Silva" xlink:type="simple"><daodesc><p>Howard Da Silva: 2018-</p></daodesc></dao></did></c><c id="aspace_6ec7aa8f3d3ecc93c76fc6a89c5a5881" level="file"><did><unittitle>Ronnie Gilbert</unittitle><unitid>cuid34987</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_4c11e7706dd722b0428ad08784fa7ff4" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_d2762c874451f94ad5d2d2cfd2c2015b" parent="aspace_4c11e7706dd722b0428ad08784fa7ff4" type="E-records">TW_TAM_762_ER_4</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Ronnie Gilbert" xlink:type="simple"><daodesc><p>Ronnie Gilbert</p></daodesc></dao></did></c><c id="aspace_5963fb829298dfd88a390e9b39592997" level="file"><did><unittitle>Woody Guthrie</unittitle><unitid>cuid34988</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_093259ecdb756880f355b1809120d400" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_0b21e590b3b9cb4fc8238dc048ed2a4e" parent="aspace_093259ecdb756880f355b1809120d400" type="E-records">TW_TAM_762_ER_5</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Woody Guthrie" xlink:type="simple"><daodesc><p>Woody Guthrie</p></daodesc></dao></did></c><c id="aspace_6aeeb0436036124904cecb1e01af5757" level="file"><did><unittitle>Lee Hays</unittitle><unitid>cuid34989</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_62161ca6ede8348134932de53b0d62fa" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_1814bbbfc9a01820cdaa00269da8033f" parent="aspace_62161ca6ede8348134932de53b0d62fa" type="E-records">TW_TAM_762_ER_6</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Lee Hays" xlink:type="simple"><daodesc><p>Lee Hays</p></daodesc></dao></did></c><c id="aspace_88f6549916c7dded9037a8b8bb4e44eb" level="file"><did><unittitle>Fred Hellerman</unittitle><unitid>cuid34990</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_611fddc16603ca1cd5ac64a67e0b3626" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_2f0b5cdabffe2843a7aeb43eaf2b7314" parent="aspace_611fddc16603ca1cd5ac64a67e0b3626" type="E-records">TW_TAM_762_ER_7</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Lee Hays" xlink:type="simple"><daodesc><p>Lee Hays</p></daodesc></dao></did></c><c id="aspace_a04eeeb0513331bb53b6a3e18f82a455" level="file"><did><unittitle>Cisco Houston</unittitle><unitid>cuid34991</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_46882cc0b0c169ff1f9d970400150671" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_3374a7bdefc6cf764f0e63038e63465b" parent="aspace_46882cc0b0c169ff1f9d970400150671" type="E-records">TW_TAM_762_ER_8</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Cisco Houston" xlink:type="simple"><daodesc><p>Cisco Houston</p></daodesc></dao></did></c><c id="aspace_08eca90070627406ca426786ff35e00d" level="file"><did><unittitle>Burl Ives</unittitle><unitid>cuid34992</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_072b302da94349dd8963e8d5aaba9dc5" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_d4c828be8d05cbf28501ea6108ab90cc" parent="aspace_072b302da94349dd8963e8d5aaba9dc5" type="E-records">TW_TAM_762_ER_9</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Burl Ives" xlink:type="simple"><daodesc><p>Burl Ives</p></daodesc></dao></did></c><c id="aspace_05fcc25abff3ca448a113d6ea841033c" level="file"><did><unittitle>Aunt Molly Jackson</unittitle><unitid>cuid34993</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_dec85e227cfa8985a6826ec3cfd70f1f" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_6264310516bf85b8e971da916a93c4f7" parent="aspace_dec85e227cfa8985a6826ec3cfd70f1f" type="E-records">TW_TAM_762_ER_10</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Aunt Molly Jackson" xlink:type="simple"><daodesc><p>Aunt Molly Jackson</p></daodesc></dao></did></c><c id="aspace_f0d0e8d3ec00e12cca3b9a2d0853f783" level="file"><did><unittitle>Millard Lampell</unittitle><unitid>cuid34994</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_60662eec412709af7f470d3f848b77c7" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_186f0983240cbb0b3343fe5d05c9e667" parent="aspace_60662eec412709af7f470d3f848b77c7" type="E-records">TW_TAM_762_ER_11</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Millard Lampell" xlink:type="simple"><daodesc><p>Millard Lampell</p></daodesc></dao></did></c><c id="aspace_e43b886927e0d9b1443a02cb4322e04c" level="file"><did><unittitle>Harold Leventhal</unittitle><unitid>cuid34995</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_18899276dab06c897e6e08585e834f3d" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_e7f1d032a493ef208855c1ab1690a2fe" parent="aspace_18899276dab06c897e6e08585e834f3d" type="E-records">TW_TAM_762_ER_12</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Millard Lampell" xlink:type="simple"><daodesc><p>Millard Lampell</p></daodesc></dao></did></c><c id="aspace_ae8bf03c62a8f7027ebf552b849f3525" level="file"><did><unittitle>Alan Lomax</unittitle><unitid>cuid34996</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_348df230d44be836f5491b59b60d2cde" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_f3831e378b5d15b04f1a2d753f83ac99" parent="aspace_348df230d44be836f5491b59b60d2cde" type="E-records">TW_TAM_762_ER_13</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Alan Lomax" xlink:type="simple"><daodesc><p>Alan Lomax</p></daodesc></dao></did></c><c id="aspace_eccb8f0f719ee0fa94f63209cd13fa26" level="file"><did><unittitle>Bess Lomax Hawes</unittitle><unitid>cuid34997</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_9db77848993102d44d869a77ee6b538f" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_2cb87a88b786a4580ce1c429e0e0a219" parent="aspace_9db77848993102d44d869a77ee6b538f" type="E-records">TW_TAM_762_ER_14</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Bess Lomax Hawes" xlink:type="simple"><daodesc><p>Bess Lomax Hawes</p></daodesc></dao></did></c><c id="aspace_a1f99ab4ebf2cb31abee1e56a11e9b02" level="file"><did><unittitle>Harvey Matusow</unittitle><unitid>cuid34961</unitid><unitdate datechar="creation" normal="2018/2018">2018</unitdate><container id="aspace_3344b75f7a287b800067a604ae928592" label="Mixed Materials" type="Box">Electronic reocrds</container><container id="aspace_60ec2eb4b202e922398a86aba007d7b3" parent="aspace_3344b75f7a287b800067a604ae928592" type="E-records">TW_TAM_762_ER_3</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Harvey Matusow" xlink:type="simple"><daodesc><p>Harvey Matusow: 2018-</p></daodesc></dao></did></c><c id="aspace_d816894955d2d425d470e8eb06018001" level="file"><did><unittitle>Abel Meeropol</unittitle><unitid>cuid34998</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_bf8099e95aa22c41b4c410d32648c3a0" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_65a18f93366b311724de2ef25f38596e" parent="aspace_bf8099e95aa22c41b4c410d32648c3a0" type="E-records">TW_TAM_762_ER_15</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Abel Meeropol" xlink:type="simple"><daodesc><p>Abel Meeropol</p></daodesc></dao></did></c><c id="aspace_728477ae9d8496a57435ad2dd6e0228e" level="file"><did><unittitle>Pete Seeger</unittitle><unitid>cuid34999</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_868501dac9ebaaded2e59ce32d4e56a7" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_5a7201d4b71bb6033584ff00dd164d10" parent="aspace_868501dac9ebaaded2e59ce32d4e56a7" type="E-records">TW_TAM_762_ER_16</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Pete Seeger" xlink:type="simple"><daodesc><p>Pete Seeger</p></daodesc></dao></did></c><c id="aspace_fb80272585f8ddcceb98515c90f46f94" level="file"><did><unittitle>Irwin Silber</unittitle><unitid>cuid35000</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_e636a9cc505fd33bc908f0ff855fc780" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_ddefea2f2025447e3428f8566728ec00" parent="aspace_e636a9cc505fd33bc908f0ff855fc780" type="E-records">TW_TAM_762_ER_17</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Irwin Silber" xlink:type="simple"><daodesc><p>Irwin Silber</p></daodesc></dao></did></c><c id="aspace_c13b690a59dfad4736490b7e6f51d2e2" level="file"><did><unittitle>Josh White</unittitle><unitid>cuid35001</unitid><unitdate datechar="creation" normal="2020/2020">2020</unitdate><container id="aspace_e922dd04a6b5815962d1a3711ee1947b" label="electronic records" type="Box">Electronic reocrds</container><container id="aspace_2b9f224d1625f9929224461486633bac" parent="aspace_e922dd04a6b5815962d1a3711ee1947b" type="E-records">TW_TAM_762_ER_18</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_762.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Josh White" xlink:type="simple"><daodesc><p>Josh White</p></daodesc></dao></did></c></dsc>
+</archdesc>
 </ead>

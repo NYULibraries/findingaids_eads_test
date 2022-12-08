@@ -1,265 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_120">alba_120</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Papers of Paul Wendorf <num>ALBA.120</num></titleproper>
-        <author>Jessica Weglein and Elizabeth Compa</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from Wendorf 120.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:35:42 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Paul Wendorf Papers</unittitle>
-      <origination label="Creator">
-        <persname source="local">Wendorf, Paul</persname>
-      </origination>
-      <unitid>ALBA.120</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1937-02/1938-09" type="inclusive">February 1937-September 1938</unitdate>
-      <abstract id="aspace_5ee43b81226f866a39f426bc4b1cd3f2">Paul Wendorf (1912?-1938) fought with the Abraham Lincoln Brigade in the Spanish Civil War and died during an aerial attack in the Sierra Pandols, one month prior to the withdrawal of the International Brigades. This collection consists chiefly of letters written by Wendorf to his wife during his 19 months in Spain. Also included are newspaper clippings and ephemera.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <custodhist id="aspace_0d465505f8158d9f3c75c93b9ab555b0">
-      <head>Provenance</head>
-      <p>The Paul Wendorf Papers was donated to Abraham Lincoln Brigade Archives in October 1980 by Charles Nusser. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
-    </custodhist>
-    <accessrestrict id="aspace_6efc87e72e3a07d2f58ca45bb1ee5474">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </accessrestrict>
-    <bioghist id="aspace_1031c52268b3b0fe0becdda899ada7f7">
-      <head>Historical/Biographical Note</head>
-      <p>Paul Wendorf graduated with a B.A. from Columbia University, where he majored in history and economics, in 1932. In 1933, while working as an organizer for the American League against War and Fascism, he joined the Communist Party. Over the course of the next three years, he worked as an activist and labor organizer in New York City, first for a white-collar municipal workers' union, and subsequently as a coordinator of welfare and relief for the unemployed. He married Leona Grossman and soon after enlisted in the Abraham Lincoln Brigade to fight on behalf of the Republican forces in Spain. He sailed on the S.S. Paris on February 6, 1937 and served in Spain from February 1937 until August 1938.</p>
-      <p>He fought in the battle at the Jarama front from March to June 1937, and in the Brunete offensive from July until August 1937. He was appointed in September 1937 to the Historical Commission in Albacete and, under the supervision of Sandor Voros, participated in writing the history of the 15th International Brigade and the American battalions. He also contributed articles to the Brigade's newspaper the <title render="italic">Volunteer for Liberty</title>. In January of 1938 he was charged, along with Carl Geiser, with organizing a school for political commissars. A bout of rheumatism and subsequent hospitalization prevented him from carrying out this assignment, and by March, he was returned to active service. He took part in the Ebro offensive, the Brigade's final conflict, and crossed the Ebro with the Lincoln Brigade late in July. On August 18, 1938, Wendorf was killed during an aerial attack in the Sierra Pandols, only one month prior to the withdrawal of the International Brigades. In 1939 Charles Nusser, a fellow Lincoln Brigade veteran and Wendorf's friend, married Leona Grossman Wendorf.</p>
-    </bioghist>
-    <scopecontent id="aspace_db5e2214c6b470683ab2320f8f606a0e">
-      <head>Scope and Content Note</head>
-      <p><emph render="bold">Series I</emph>, Correspondence, contains Wendorf's outgoing correspondence during his 19 months in Spain from February 1937 to September 1938. His letters are addressed chiefly to his wife Leona (referred to by the endearment "Mug") and chronicle his time in Spain beginning with his voyage to France, through to his final days of battle in the hills of the Sierra Pandols. Wendorf is a keen observer of life in the trenches as well as the towns and streets of Spain. His letters offer information on his military career and the activities of the Abraham Lincoln Brigade; the progress of the Fascist forces; the political climate in Spain; his hospitalization and convalescence; and his critical views on the press, both mainstream and radical. Most notable are his full descriptions of the Lincoln Brigade's crossing of the Ebro, which appear in his final two letters (8/2/1938 and 8/8/1938). This series also includes two letters written to union associate Sherry Schulman, and to his friend Charles Nusser, who returned to the United States in February 1938.</p>
-      <p><emph render="bold">Series II</emph>, Subject Files, includes several unaddressed postcards including one with a political slogan, and a Republican Christmas greeting from the Red Cross. Also here are mementos including a peseta note and a dried flower; news clippings, including one from the <title render="italic">Manchester Guardian</title>that appears to contain the text of a letter written by Wendorf; and a copy of the <title render="italic">Volunteer for Liberty</title>with an article that Wendorf wrote shortly before his death.</p>
-    </scopecontent>
-    <arrangement id="aspace_e559c73f0c735b507bd2a21b4ea79aac">
-      <head>Arrangement</head>
-      <p>Series one is arranged chronologically. Series two is arranged alphabetically.</p>
-      <p>The files are grouped into 2 series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I. Correspondence</item>
-        <item>II. Subject Files</item>
-      </list>
-    </arrangement>
-    <userestrict id="aspace_69184329f8a5495a22ad3fb47f91a7c7">
-      <head>Use Restrictions</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </userestrict>
-    <prefercite id="aspace_6bf14786ae9e3eef52ca380808cf0eb3">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
-      <geogname source="lcsh">Spain -- Civil War, 1936-1939 -- Periodicals.</geogname>
-      <subject source="lcsh">Ebro River, Battle of the, Spain, 1938.</subject>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
-      <genreform source="aat">Personal papers.</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Articles.</genreform>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-      <geogname source="lcsh">Belchite (Spain) -- History -- Siege, 1937.</geogname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_120">alba_120</eadid><filedesc><titlestmt><titleproper>Guide to the Papers of Paul Wendorf <num>ALBA.120</num></titleproper><author>Jessica Weglein and Elizabeth Compa</author></titlestmt><editionstmt><p>This version was derived from Wendorf 120.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:03:41 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Paul Wendorf Papers</unittitle>
+    <origination label="Creator">
       <persname source="local">Wendorf, Paul</persname>
-      <persname source="ingest">Voros, Sandor.</persname>
-      <persname source="naf">Geiser, Carl</persname>
-      <persname rules="dacs" source="local">Nusser, Charles</persname>
-      <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV</corpname>
-      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I: Correspondence</unittitle>
-        </did>
-        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Feb 1937-Mar 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7573e0c50278fce20a5cc855f12e9534" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_67d89aebc8db82a9c2bec1a846c670f4" parent="aspace_7573e0c50278fce20a5cc855f12e9534" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Apr 1937-May 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4e7e9820b5190f34da35cfc892e170b0" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_bdc95c3afceaef07552dbc98295ab758" parent="aspace_4e7e9820b5190f34da35cfc892e170b0" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Jun 1937-Jul 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6e23578f6e09e03b0605a95e43973142" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_f9f45f63eab28d877fed0fc7f3b5a59b" parent="aspace_6e23578f6e09e03b0605a95e43973142" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Aug 1937-Sep 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_94e279f36ba41563d7142e063a56e096" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_2098012a48acbad8aa3ac1eb10d1e4da" parent="aspace_94e279f36ba41563d7142e063a56e096" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Oct 1937-Nov 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_15b7a22004a3d745c5b9999aa8c7e32a" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_f3d35cae5d77694bc218eefe22d74c5d" parent="aspace_15b7a22004a3d745c5b9999aa8c7e32a" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Dec 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_957f88bbc6dbd89217e2173e90a98a3e" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_bd26e8a608fde578beba5536910f3c0b" parent="aspace_957f88bbc6dbd89217e2173e90a98a3e" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Jan 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_465b85afca8611409cb4fbe9a3b71364" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_a37568231313e796464199b0f6d3e911" parent="aspace_465b85afca8611409cb4fbe9a3b71364" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Feb 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_597f8798c4b1fc73efdb414316051b9b" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_d19df134486dfad5194b3b6e75f27cff" parent="aspace_597f8798c4b1fc73efdb414316051b9b" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Mar 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_884b23c63b3bb84284dbea279f20e594" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_e06c4984a473f9f37dc53ed226fbbe74" parent="aspace_884b23c63b3bb84284dbea279f20e594" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Apr 1938-May 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_723e3b00d9473eaf369f2beadf295abc" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_8f9b0ea955c87520b96e0151f6a6e957" parent="aspace_723e3b00d9473eaf369f2beadf295abc" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Jun 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7aa79f2a0e927e47d288c8699f79e336" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_9fd97b4324546f2d1467bd69228d07fd" parent="aspace_7aa79f2a0e927e47d288c8699f79e336" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Jul 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0c2b1fb1c81ca9c9d8fba6b915b34e83" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_71f639c6cd9d2cb59b1b6fc9264e9f31" parent="aspace_0c2b1fb1c81ca9c9d8fba6b915b34e83" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Outgoing</unittitle>
-            <unitdate datechar="creation">Aug 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e275d4660821561fb88f0c6b2a488628" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_f0429ec79d7aa09f8eeede7e258fa45c" parent="aspace_e275d4660821561fb88f0c6b2a488628" type="Folder">13</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref27" level="series">
-        <did>
-          <unittitle>Series II: Subject Files</unittitle>
-        </did>
-        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Cards</unittitle>
-            <unitdate datechar="creation">Dec 1937 , undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b475c8c70b9d85fcfbd1beff5e694527" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_51f737f34e7d942b747e7f73561e07ac" parent="aspace_b475c8c70b9d85fcfbd1beff5e694527" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Ibarruri, Dolores: Portrait by Paul Wendorf</unittitle>
-            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
-            <container altrender="Flat OS 21" id="aspace_ebac2330c58b6f21b065529a0efcd3fd" label="Mixed Materials [31142062760007]" type="Box">Tamiment Shared MSXOS002</container>
-            <container id="aspace_a3b8e5347e14bfc892ad36ab04929bae" parent="aspace_ebac2330c58b6f21b065529a0efcd3fd" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Mementos: dried flower, peseta, weight card</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4f50910e78219611174794e0ca7deb96" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_5a6a83162fafc82572b521d2571d3bd6" parent="aspace_4f50910e78219611174794e0ca7deb96" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>News Clippings</unittitle>
-            <unitdate datechar="creation">Aug 1938-Dec 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fa3c6f6a08b37a7636530d6b04a40df3" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_412aa558e77dc58f9ae1502f2937b6a5" parent="aspace_fa3c6f6a08b37a7636530d6b04a40df3" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>
-              <title render="italic">Volunteer for Liberty</title>
-            </unittitle>
-            <unitdate datechar="creation">Aug 26, 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_86878c542843b1908aa760534050826f" label="Mixed Materials [31142062756377]" type="Box">1</container>
-            <container id="aspace_87475e2e905b9b40da37359caf91cc62" parent="aspace_86878c542843b1908aa760534050826f" type="Folder">17</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>ALBA.120</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937-02/1938-09" type="inclusive">February 1937-September 1938</unitdate>
+    <abstract id="aspace_5ee43b81226f866a39f426bc4b1cd3f2" label="Abstract">Paul Wendorf (1912?-1938) fought with the Abraham Lincoln Brigade in the Spanish Civil War and died during an aerial attack in the Sierra Pandols, one month prior to the withdrawal of the International Brigades. This collection consists chiefly of letters written by Wendorf to his wife during his 19 months in Spain. Also included are newspaper clippings and ephemera.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <custodhist id="aspace_0d465505f8158d9f3c75c93b9ab555b0">
+    <head>Provenance</head>
+<p>The Paul Wendorf Papers was donated to Abraham Lincoln Brigade Archives in October 1980 by Charles Nusser. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <accessrestrict id="aspace_6efc87e72e3a07d2f58ca45bb1ee5474">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <bioghist id="aspace_1031c52268b3b0fe0becdda899ada7f7">
+    <head>Historical/Biographical Note</head>
+<p>Paul Wendorf graduated with a B.A. from Columbia University, where he majored in history and economics, in 1932. In 1933, while working as an organizer for the American League against War and Fascism, he joined the Communist Party. Over the course of the next three years, he worked as an activist and labor organizer in New York City, first for a white-collar municipal workers' union, and subsequently as a coordinator of welfare and relief for the unemployed. He married Leona Grossman and soon after enlisted in the Abraham Lincoln Brigade to fight on behalf of the Republican forces in Spain. He sailed on the S.S. Paris on February 6, 1937 and served in Spain from February 1937 until August 1938.</p><p>He fought in the battle at the Jarama front from March to June 1937, and in the Brunete offensive from July until August 1937. He was appointed in September 1937 to the Historical Commission in Albacete and, under the supervision of Sandor Voros, participated in writing the history of the 15th International Brigade and the American battalions. He also contributed articles to the Brigade's newspaper the <title render="italic">Volunteer for Liberty</title>. In January of 1938 he was charged, along with Carl Geiser, with organizing a school for political commissars. A bout of rheumatism and subsequent hospitalization prevented him from carrying out this assignment, and by March, he was returned to active service. He took part in the Ebro offensive, the Brigade's final conflict, and crossed the Ebro with the Lincoln Brigade late in July. On August 18, 1938, Wendorf was killed during an aerial attack in the Sierra Pandols, only one month prior to the withdrawal of the International Brigades. In 1939 Charles Nusser, a fellow Lincoln Brigade veteran and Wendorf's friend, married Leona Grossman Wendorf.</p>  </bioghist>
+  <scopecontent id="aspace_db5e2214c6b470683ab2320f8f606a0e">
+    <head>Scope and Content Note</head>
+<p><emph render="bold">Series I</emph>, Correspondence, contains Wendorf's outgoing correspondence during his 19 months in Spain from February 1937 to September 1938. His letters are addressed chiefly to his wife Leona (referred to by the endearment "Mug") and chronicle his time in Spain beginning with his voyage to France, through to his final days of battle in the hills of the Sierra Pandols. Wendorf is a keen observer of life in the trenches as well as the towns and streets of Spain. His letters offer information on his military career and the activities of the Abraham Lincoln Brigade; the progress of the Fascist forces; the political climate in Spain; his hospitalization and convalescence; and his critical views on the press, both mainstream and radical. Most notable are his full descriptions of the Lincoln Brigade's crossing of the Ebro, which appear in his final two letters (8/2/1938 and 8/8/1938). This series also includes two letters written to union associate Sherry Schulman, and to his friend Charles Nusser, who returned to the United States in February 1938.</p><p><emph render="bold">Series II</emph>, Subject Files, includes several unaddressed postcards including one with a political slogan, and a Republican Christmas greeting from the Red Cross. Also here are mementos including a peseta note and a dried flower; news clippings, including one from the <title render="italic">Manchester Guardian</title>that appears to contain the text of a letter written by Wendorf; and a copy of the <title render="italic">Volunteer for Liberty</title>with an article that Wendorf wrote shortly before his death.</p>  </scopecontent>
+  <arrangement id="aspace_e559c73f0c735b507bd2a21b4ea79aac">
+    <head>Arrangement</head>
+<p>Series one is arranged chronologically. Series two is arranged alphabetically.</p><p>The files are grouped into 2 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I. Correspondence</item>
+      <item>II. Subject Files</item>
+    </list>
+  </arrangement>
+  <userestrict id="aspace_69184329f8a5495a22ad3fb47f91a7c7">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <prefercite id="aspace_6bf14786ae9e3eef52ca380808cf0eb3">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
+    <geogname source="lcsh">Spain -- Civil War, 1936-1939 -- Periodicals.</geogname>
+    <subject source="lcsh">Ebro River, Battle of the, Spain, 1938.</subject>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
+    <genreform source="aat">Personal papers.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Articles.</genreform>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+    <geogname source="lcsh">Belchite (Spain) -- History -- Siege, 1937.</geogname>
+    <persname source="local">Wendorf, Paul</persname>
+    <persname source="ingest">Voros, Sandor.</persname>
+    <persname source="naf">Geiser, Carl</persname>
+    <persname rules="dacs" source="local">Nusser, Charles</persname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV</corpname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Correspondence</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Feb 1937-Mar 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_9ba505d9e533f253c69dc5500f5eb46e" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_be1885e54d7c0be2dbe34512766c7775" parent="aspace_9ba505d9e533f253c69dc5500f5eb46e" type="Folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Apr 1937-May 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_17d2b8033ab5b5662803c1b6d3462452" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_38f0a2eb333865b49b712dc5736ff196" parent="aspace_17d2b8033ab5b5662803c1b6d3462452" type="Folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Jun 1937-Jul 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_92700366f615b0d8cfb78e341eb1618e" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_45b830f91c49b57645fa04cf2c4fff0f" parent="aspace_92700366f615b0d8cfb78e341eb1618e" type="Folder">3</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Aug 1937-Sep 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_b4707ed7add63ae22fa204da7b1af60c" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_637044d1d8bdce95c1ec2a1f44fd4b06" parent="aspace_b4707ed7add63ae22fa204da7b1af60c" type="Folder">4</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Oct 1937-Nov 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_425e8198544712ba7995e83091932acc" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_48d670c77085771d681a09a1512251a4" parent="aspace_425e8198544712ba7995e83091932acc" type="Folder">5</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Dec 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_34c31ccc5a34b18bcb1ac116249d3a4a" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_6bb3c79c199f0ca16be48e0af3e726cc" parent="aspace_34c31ccc5a34b18bcb1ac116249d3a4a" type="Folder">6</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Jan 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_eb627a42bb551e871ec7612a4a340a0f" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_a6dee09b1472a88b9165deebd284e602" parent="aspace_eb627a42bb551e871ec7612a4a340a0f" type="Folder">7</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Feb 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_8f9a2d91b1ae04fa27990e80bd4f8c22" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_ac17c7e913737ec2d38fa0e92b015c64" parent="aspace_8f9a2d91b1ae04fa27990e80bd4f8c22" type="Folder">8</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Mar 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_3612d4e62ec5ece443e24d65cf3c0f1a" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_eec4d75fbd9d7481914c48ccc37f5b66" parent="aspace_3612d4e62ec5ece443e24d65cf3c0f1a" type="Folder">9</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Apr 1938-May 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_374a0b6c343adecde9d9e85c0d7a0892" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_3fa59220474f11141be5c9a46e8cd4d5" parent="aspace_374a0b6c343adecde9d9e85c0d7a0892" type="Folder">10</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Jun 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ce093b9e7f1bf718039679e8e7f315c" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_19af9063432cdaba9b9985ceac0324fa" parent="aspace_2ce093b9e7f1bf718039679e8e7f315c" type="Folder">11</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Jul 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_0bf607e27bb300793e6ddfbb794a709d" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_1b5da671668003a1ee2527a433a892b4" parent="aspace_0bf607e27bb300793e6ddfbb794a709d" type="Folder">12</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outgoing</unittitle><unitdate datechar="creation">Aug 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_123b5dc385a82d849e3c31f8963f1e60" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_d8b4d430b4674fe9cb04347a7ed9b2ac" parent="aspace_123b5dc385a82d849e3c31f8963f1e60" type="Folder">13</container></did></c></c><c id="aspace_ref27" level="series"><did><unittitle>Series II: Subject Files</unittitle></did><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Cards</unittitle><unitdate datechar="creation">Dec 1937 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd885214b9433e689fde46562f816c61" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_8dd92d3e7cc82f750fb28fedd7bf824c" parent="aspace_fd885214b9433e689fde46562f816c61" type="Folder">14</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Ibarruri, Dolores: Portrait by Paul Wendorf</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Flat OS 21" id="aspace_349d58a0fc66c27e454235115fe93a87" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container><container id="aspace_5c4db5f8c8cae3af3893b7eeeb0a013f" parent="aspace_349d58a0fc66c27e454235115fe93a87" type="Folder">1</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Mementos: dried flower, peseta, weight card</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_fbc29e4a4c0de76e17c205b5559b08c0" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_3530d6f3139478c4030482aa9fa4ee37" parent="aspace_fbc29e4a4c0de76e17c205b5559b08c0" type="Folder">15</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>News Clippings</unittitle><unitdate datechar="creation">Aug 1938-Dec 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_3a96fdf2a0990c8012cbdfc2e16ad1bd" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_58b9065ca5242e7141a8c1dd9c22446e" parent="aspace_3a96fdf2a0990c8012cbdfc2e16ad1bd" type="Folder">16</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle><title render="italic">Volunteer for Liberty</title></unittitle><unitdate datechar="creation">Aug 26, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e83cfeef3b7f708eceaecdb68e88531" label="Mixed Materials [31142062756377]" type="Box">1</container><container id="aspace_ef91e0e5db51871fec022b929a9ca088" parent="aspace_3e83cfeef3b7f708eceaecdb68e88531" type="Folder">17</container></did></c></c></dsc>
+</archdesc>
 </ead>

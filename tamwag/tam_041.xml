@@ -1,560 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_041">tam_041</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Charles Solomon Papers <num>TAM.041</num></titleproper>
-        <author>Tamiment staff, 2009; Updated in 2014 to include materials found in the repository, 2014</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from Solomon template.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>9/30/2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:57:58 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Charles Solomon Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Solomon, Charles</persname>
-      </origination>
-      <unitid>TAM.041</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
-        <extent altrender="carrier">(5 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1916/1965" type="inclusive">1916-1965</unitdate>
-      <abstract id="aspace_0ebd912a6c85c049ac55bae93cc7cd2c">Charles Solomon was a socialist, a New York State Assemblyman, and a New York City magistrate. Contains correspondence, legal papers relating to matters brought before Solomon as magistrate, manuscripts, clippings and scrapbooks.</abstract>
-      <physloc id="aspace_4172e938b407e1e756ee1226b889d8ed">Materials are located at the Tamiment Library.</physloc>
-      <langmaterial id="aspace_74729f6630d104df0bca1286b3e04a05">Materials are in English</langmaterial>
-    </did>
-    <accessrestrict id="aspace_06d44c993dfba440d5b9528db9db7a89">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <bioghist id="aspace_2360082ba785a04c652764b0b6efa40c">
-      <head>Historical/Biographical Note</head>
-      <p>Charles Solomon was a socialist, a New York State Assemblyman (1919-1921) and a New York City magistrate (1936-1945, 1950-1959). He was one of five assemblymen expelled by the New York State Legislature in 1920 for being a Socialist. He was re-elected that same year. He later ran unsuccessfully as a Socialist candidate for governor, senator, and New York City mayor before joining the Liberal Party.</p>
-    </bioghist>
-    <scopecontent id="aspace_d47d7483291bdb8887b8c4fe3ba2924e">
-      <head>Scope and Content Note</head>
-      <p>The papers include correspondence (including individual letters from Morris Hillquit and Harry Laidler), legal papers relating to matters brought before Solomon as magistrate, manuscripts of writings, radio scripts, addresses, published articles, printed debates including one with Scott Nearing, clippings (including some in Yiddish), and scrapbooks.</p>
-    </scopecontent>
-    <arrangement id="aspace_0b5fb6a0f981c954b9b7bf965be2882e">
-      <head>Arrangement</head>
-      <p>Organized into three series: I, Papers (arranged alphabetically: II, Scrapbooks (arranged alpabetically, then chronologically); Series III, Fragile Originals (arranged by box number).</p>
-    </arrangement>
-    <acqinfo id="aspace_544c10ee77cf9115679f286721405b6a">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated (probably by Charles Solomon's daughters Mildred Clinton and Isabel Moros) in 1965. The accession number associated with this gift is 1965.004. Additional materials related to Solomon were found in Tamiment's collections in 2014. The accession number associated with these materials is 2014.048.</p>
-    </acqinfo>
-    <separatedmaterial id="aspace_2d51324e6335c0da9d7aa0fdbccdf8e7">
-      <head>Separated Material</head>
-      <p>Photographs were separated to the Charles Solomon Photographs (PHOTOS 008)</p>
-    </separatedmaterial>
-    <userestrict id="aspace_222e6c04e98d7d540f1981d3008cd119">
-      <head>Conditions Governing Use</head>
-      <p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1916-1965, are expected to enter the public domain in 2034.</p>
-    </userestrict>
-    <prefercite id="aspace_28653979309a47096b4b6e4ad87be1b0">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Charles Solomon Papers; TAM 041; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <controlaccess>
-      <genreform source="aat">Obituaries.</genreform>
-      <subject source="lcsh">Socialism -- United States.</subject>
-      <subject source="lcsh">Legal assistance to prisoners -- United States.</subject>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <genreform source="aat">Radio scripts.</genreform>
-      <genreform source="aat">Speeches.</genreform>
-      <genreform source="aat">Scrapbooks.</genreform>
-      <subject source="lcsh">Jewish socialists -- United States.</subject>
-      <subject source="lcsh">Socialists -- New York (State) -- New York.</subject>
-      <geogname source="lcsh">New York (N.Y.) -- Politics and government -- 20th century.</geogname>
-      <persname source="naf">Hillquit, Morris, 1869-1933</persname>
-      <persname source="naf">Nearing, Scott, 1883-1983.</persname>
-      <persname source="naf">Laidler, Harry W. (Harry Wellington), 1884-1970</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_041">tam_041</eadid><filedesc><titlestmt><titleproper>Guide to the Charles Solomon Papers <num>TAM.041</num></titleproper><author>Tamiment staff, 2009; Updated in 2014 to include materials found in the repository, 2014</author></titlestmt><editionstmt><p>This version was derived from Solomon template.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>9/30/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:09:19 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Charles Solomon Papers</unittitle>
+    <origination label="Creator">
       <persname source="naf">Solomon, Charles</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I: Papers</unittitle>
-        </did>
-        <c id="aspace_ref73" level="file">
-          <did>
-            <unittitle>Adultery</unittitle>
-            <unitdate datechar="creation">1951-1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_14bbfb36ee9edb3b475265ed11760e1c" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_bbadb649f855973b904f44a711ddf887" parent="aspace_14bbfb36ee9edb3b475265ed11760e1c" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref74" level="file">
-          <did>
-            <unittitle>Cassidy, Robert</unittitle>
-            <unitdate datechar="creation">1942-1947</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8855f8df60ef8dea91c1a6020741ee93" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_0f7a6a8d87637c46f19df35ab75146f9" parent="aspace_8855f8df60ef8dea91c1a6020741ee93" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref75" level="file">
-          <did>
-            <unittitle>Biographical: Clippings, Memorabilia, Obituaries</unittitle>
-            <unitdate datechar="creation">1936-1964</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e856c99e90b2e213697f425f27992970" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_e1727948f7c66ae9dd0a8f7eebf0f7c9" parent="aspace_e856c99e90b2e213697f425f27992970" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref133" level="file">
-          <did>
-            <unittitle>Cases</unittitle>
-            <container altrender="Manuscript box - Legal" id="aspace_322338fe52ada0bc8d481207e6b20f42" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_4237b8911481a18bdefb613db1b3428f" parent="aspace_322338fe52ada0bc8d481207e6b20f42" type="Folder">3A</container>
-          </did>
-        </c>
-        <c id="aspace_ref132" level="file">
-          <did>
-            <unittitle>Certificates (Oversize)</unittitle>
-            <unitdate datechar="creation" normal="1904/1947" type="inclusive">1904-1947</unitdate>
-            <container altrender="Flat OS Box 17" id="aspace_c9f3bc0f75a743b40290a72ac93fb91b" label="Mixed Materials [31142062759926]" type="Box">Tamiment Shared MSOS005</container>
-            <container id="aspace_9c74765e8beca8b37f880033278ff774" parent="aspace_c9f3bc0f75a743b40290a72ac93fb91b" type="Folder">1</container>
-            <container altrender="Flat OS Box 17" id="aspace_018ca98435fc9977b707ac296cb7d846" label="Mixed Materials [31142062881985]" type="Box">Shared Tamiment 006</container>
-            <container id="aspace_7da6484e9edb5d2d60e26268d20a7239" parent="aspace_018ca98435fc9977b707ac296cb7d846" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref76" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1920</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e16ed617c7c20e28410755b16004ba0e" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_3f1567bb186f98a88e6e5ed91fefbe32" parent="aspace_e16ed617c7c20e28410755b16004ba0e" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref77" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1924</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f8e9a9eaccb949a20d178024dc034b87" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_9a8248b3d3f09e62a6cc3706b76a6cce" parent="aspace_f8e9a9eaccb949a20d178024dc034b87" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref78" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1927</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ce31faf044a174e826781ac301179311" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_9f19d730c519bc8e02a15a1e245cd3c1" parent="aspace_ce31faf044a174e826781ac301179311" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref79" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1928</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_01d9f1bb63b0f9cb135dc8c2e8dde1b4" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_363a11f969d42b0adf407e9b9dbf7c13" parent="aspace_01d9f1bb63b0f9cb135dc8c2e8dde1b4" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref80" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1929</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_61061ff7561b1ba1edbe5ceb1af0479e" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_1fa6101d7b5f5b8dcfe7f6af6dd5c695" parent="aspace_61061ff7561b1ba1edbe5ceb1af0479e" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref81" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1940</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_942dd364b64dc670a123eed0e0047590" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_0ef1d41fae7fd7d3ff9d0f351a9e57da" parent="aspace_942dd364b64dc670a123eed0e0047590" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref82" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1944</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_71dd28206e1d308db69c15a411e8fa74" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_8a78effa52b2afcb3a57fb74e0650509" parent="aspace_71dd28206e1d308db69c15a411e8fa74" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref83" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1945</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9796834bde81cbfc4cdff424e1f38410" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_51cf83b3969b3e813f9c817a4b37ecbf" parent="aspace_9796834bde81cbfc4cdff424e1f38410" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref84" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1947</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2d9b6102086a6026fdb35e3ad6e8f2fb" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_ea03b2e015582a8ed65938ceface7a73" parent="aspace_2d9b6102086a6026fdb35e3ad6e8f2fb" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref85" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1948</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6aac3ff014390e74a5ae38ffe951bf87" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_74a68f8685e10f3de28a796c76cea75b" parent="aspace_6aac3ff014390e74a5ae38ffe951bf87" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref86" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1950</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_48b3f8fd80cf60719c6f99ae46e69226" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_bb65a3c478efb7a94362a02c4f62372d" parent="aspace_48b3f8fd80cf60719c6f99ae46e69226" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref87" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1951</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fa6ef6adffe92bdeec218d55ccf37211" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_a312607ff4cb2af9ab639843dd9a9ae7" parent="aspace_fa6ef6adffe92bdeec218d55ccf37211" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref88" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1952</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f1612d920365ce9d1ae386b88eff40ae" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_f8c31095ac1df92c0c429ba82a121c39" parent="aspace_f1612d920365ce9d1ae386b88eff40ae" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref89" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1953</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_73982902cfd91f5f97efa95949ce9ee3" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_0efcefbca1bc2123f986c956990768e8" parent="aspace_73982902cfd91f5f97efa95949ce9ee3" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref90" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1954</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e216ecaf0f3082edf6ab59cbbd0f914c" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_495b873b1f7b643ada6e4410f3e56c5d" parent="aspace_e216ecaf0f3082edf6ab59cbbd0f914c" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref91" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1955</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2f6a5fffb7afe4d3d86e81f71ff4df53" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_a11a0bf9a7b357616399888e26a2265c" parent="aspace_2f6a5fffb7afe4d3d86e81f71ff4df53" type="drawer">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref92" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1956</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_76ee504f67d0edef5f470fb6ffb7559a" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_2c6cd8c73fa088ca6f7df1acd90d7554" parent="aspace_76ee504f67d0edef5f470fb6ffb7559a" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref93" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ed959361f046766747ab17ee52848eb9" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_d9ae272aeec83d597e50b5163a787528" parent="aspace_ed959361f046766747ab17ee52848eb9" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref94" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1958</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f18dcf557f03cc48d84d9131be5b5d4e" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_c6800889c2a8bd785607bca686de836c" parent="aspace_f18dcf557f03cc48d84d9131be5b5d4e" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref95" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">1959-1968</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6052cb3f795c30655c4d39e8493a3bd4" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_50bb69104fc922af15ca6e0ebe651ca0" parent="aspace_6052cb3f795c30655c4d39e8493a3bd4" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref96" level="file">
-          <did>
-            <unittitle>Clippings, Yiddish</unittitle>
-            <unitdate datechar="creation">nd</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8d9d6d89b84c0018a7cd4ec7832b8cdb" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_9de57a2a8464d118349ab60c15a7d4ca" parent="aspace_8d9d6d89b84c0018a7cd4ec7832b8cdb" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref97" level="file">
-          <did>
-            <unittitle>"Confidence" Operations</unittitle>
-            <unitdate datechar="creation">1951-1962</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e92e2fc09800a47ae30e7479637cceb4" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_40730910f7a72ef577b4fed7d60763bc" parent="aspace_e92e2fc09800a47ae30e7479637cceb4" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref98" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation">1916-1944</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4a104362a3f74c3b19e52e9294fa9992" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_0ac6d9973cb276b5e60ee7e3b3e9226a" parent="aspace_4a104362a3f74c3b19e52e9294fa9992" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref99" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation">1946-1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_59c4eebccf2977108a580022ce8e4ad7" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_a9315e96cd346f4eff78ca0d91d9400d" parent="aspace_59c4eebccf2977108a580022ce8e4ad7" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref115" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation">1958-1962</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9221153dc8f07e513c6ddb064b2aec95" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_6bfef4ec2c836cf3bf41ede7a8cb1c55" parent="aspace_9221153dc8f07e513c6ddb064b2aec95" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref116" level="file">
-          <did>
-            <unittitle>Debates, Radio Broadcasts, Speeches: Part 1</unittitle>
-            <unitdate datechar="creation">1916-1960, nd</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3858ce0228cc9ed98eee48df93318496" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_71b1d8d5e54a67e0053b22efbf4b6f75" parent="aspace_3858ce0228cc9ed98eee48df93318496" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref117" level="file">
-          <did>
-            <unittitle>Debates, Radio Broadcasts, Speeches: Part 2</unittitle>
-            <unitdate datechar="creation">1916-1960, nd</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0dffd8f760038afaf5c5845cfea32e57" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_6a9ac08a176f67a73767d0a702ab6dca" parent="aspace_0dffd8f760038afaf5c5845cfea32e57" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref118" level="file">
-          <did>
-            <unittitle>Delinquency</unittitle>
-            <unitdate datechar="creation">1957-1958</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_17f94d9187f315a439b41c711422201b" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_76d1b8e2dfac722ae7fbbfef2a16225d" parent="aspace_17f94d9187f315a439b41c711422201b" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref119" level="file">
-          <did>
-            <unittitle>General</unittitle>
-            <unitdate datechar="creation">1920-1960</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0b0dd1462b191dcd50974305d4b996a0" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_c2389e397f01b1bcfe400a684ed9952e" parent="aspace_0b0dd1462b191dcd50974305d4b996a0" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref120" level="file">
-          <did>
-            <unittitle>Heat Complaints</unittitle>
-            <unitdate datechar="creation">1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_33790fe53ca82a2abb5b4ae0ab8340dc" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_9af15f67dc69d98a8125d1600f7fc79c" parent="aspace_33790fe53ca82a2abb5b4ae0ab8340dc" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref134" level="file">
-          <did>
-            <unittitle>Independent Citizens' Committee for the Election of Herbert Lehman as United States Senator</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">Nov 1949</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4be3dffd19b99655473c84ea755267e6" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_8514293ba4afa5d90475300e9a092052" parent="aspace_4be3dffd19b99655473c84ea755267e6" type="Folder">6A</container>
-          </did>
-        </c>
-        <c id="aspace_ref121" level="file">
-          <did>
-            <unittitle>Labor Day, AFL-CIO: Part 1</unittitle>
-            <unitdate datechar="creation">1952-1956</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c68907bf6cb97ccba003168fd64b71be" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_f92820f97c0a05b22257b139d26ed4f1" parent="aspace_c68907bf6cb97ccba003168fd64b71be" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref122" level="file">
-          <did>
-            <unittitle>Labor Day, AFL-CIO: Part 2</unittitle>
-            <unitdate datechar="creation">1952-1956</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9a8d8829a7e4eb336f6456229e892041" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_6d5edd93968b41c31758990a59bcd4fe" parent="aspace_9a8d8829a7e4eb336f6456229e892041" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref123" level="file">
-          <did>
-            <unittitle>Manuscripts</unittitle>
-            <unitdate datechar="creation">nd</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0ba76b168c14db00e0f5596a215c8cec" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_1b3e5c837a86fe2291da0ff5074505e7" parent="aspace_0ba76b168c14db00e0f5596a215c8cec" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref124" level="file">
-          <did>
-            <unittitle>Morals</unittitle>
-            <unitdate datechar="creation">1954-1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_db9318b0cb3c8558e908825f5772a65d" label="Mixed Materials [31142062773984]" type="Box">2</container>
-            <container id="aspace_720db5c786e2665f3d9924dd3c4f04c3" parent="aspace_db9318b0cb3c8558e908825f5772a65d" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref125" level="file">
-          <did>
-            <unittitle>Pornography, Publishing Rights, etc.</unittitle>
-            <unitdate datechar="creation">1956-1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_01296dde474dc562d0f737fa15f9a08e" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_b9f304b35961c065613d1e4f12896a81" parent="aspace_01296dde474dc562d0f737fa15f9a08e" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref126" level="file">
-          <did>
-            <unittitle>Sabbath Law</unittitle>
-            <unitdate datechar="creation">1956-1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_48c57c073c9cca17c900e2c2cea7983a" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_9c6003bcb8ac388fc25f2e751030ebd4" parent="aspace_48c57c073c9cca17c900e2c2cea7983a" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref127" level="file">
-          <did>
-            <unittitle>Schwartz, Joe</unittitle>
-            <unitdate datechar="creation">1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_aa8908d8b73b5fb146381204f91e12b9" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_3d2b18d3d10e4e2982947e51d075af28" parent="aspace_aa8908d8b73b5fb146381204f91e12b9" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref128" level="file">
-          <did>
-            <unittitle>Tinston, Albert</unittitle>
-            <unitdate datechar="creation">1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f85ebe84a459bb3e975e6e68998c8b4d" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_70cfd65d097b87b6675856828f0a5d19" parent="aspace_f85ebe84a459bb3e975e6e68998c8b4d" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref129" level="file">
-          <did>
-            <unittitle>Vending Machines</unittitle>
-            <unitdate datechar="creation">1941</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_81f7d0828bbda03f6ae14a0187bbf4ce" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_75eba6452dd7fccd73941a65470f37dd" parent="aspace_81f7d0828bbda03f6ae14a0187bbf4ce" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref130" level="file">
-          <did>
-            <unittitle>Writings, Published</unittitle>
-            <unitdate datechar="creation">1924-1950</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_58dc66937a052846c0e3a65d4c99bf32" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_7843a7c366a69949f12a79ed840bd166" parent="aspace_58dc66937a052846c0e3a65d4c99bf32" type="Folder">6</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref22" level="series">
-        <did>
-          <unittitle>Series II: Scrapbooks</unittitle>
-        </did>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Scrapbook 1</unittitle>
-            <unitdate datechar="creation">1931-1931</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a1ef814941ebc62f0ec3523932a8b555" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_df763736750efb5a9732f7254d866bee" parent="aspace_a1ef814941ebc62f0ec3523932a8b555" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>Scrapbook 2</unittitle>
-            <unitdate datechar="creation">1932</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6660aad90a6679d44f69db74ae0d059e" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_f9b6e60d375108058397f1ee6066fb87" parent="aspace_6660aad90a6679d44f69db74ae0d059e" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref68" level="file">
-          <did>
-            <unittitle>Scrapbook 3</unittitle>
-            <unitdate datechar="creation">1943-1944</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c4a7d0889ae2c1bb94f691a76bdd8950" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_e0fc8cae27133ede202c2249dba9d60e" parent="aspace_c4a7d0889ae2c1bb94f691a76bdd8950" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref69" level="file">
-          <did>
-            <unittitle>Scrapbook 4</unittitle>
-            <unitdate datechar="creation">1950-1951</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8d8762a1050f0b648cd5a65edd58bd4c" label="Mixed Materials [31142062773992]" type="Box">3</container>
-            <container id="aspace_373107eb865bca163d405b47094fe7e6" parent="aspace_8d8762a1050f0b648cd5a65edd58bd4c" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref70" level="file">
-          <did>
-            <unittitle>Scrapbook, Fragile: Part 1</unittitle>
-            <unitdate datechar="creation">1935-1938</unitdate>
-            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_1dd2ef381184dc74f94ebd5635659a6a" label="Mixed Materials [31142062734549]" type="Box">4</container>
-            <container id="aspace_d022a3456a1133cca956ff6398b4afc1" parent="aspace_1dd2ef381184dc74f94ebd5635659a6a" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref71" level="file">
-          <did>
-            <unittitle>Scrapbook, Fragile: Part 2</unittitle>
-            <unitdate datechar="creation">1939-1941</unitdate>
-            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_b8c78a2e0dcd9734fdf0642343c6ec3a" label="Mixed Materials [31142062734549]" type="Box">4</container>
-            <container id="aspace_9f8bfc004692257219d9fc66ec9da59b" parent="aspace_b8c78a2e0dcd9734fdf0642343c6ec3a" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref72" level="file">
-          <did>
-            <unittitle>Scrapbook, Fragile: Part 3</unittitle>
-            <unitdate datechar="creation">1940-1954</unitdate>
-            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_2728ceb90fa9fcf31902d8731f490b30" label="Mixed Materials [31142062734549]" type="Box">4</container>
-            <container id="aspace_2102dcd48125dbc34eece8abed4792fb" parent="aspace_2728ceb90fa9fcf31902d8731f490b30" type="Folder">3</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref101" level="series">
-        <did>
-          <unittitle>Series III: Fragile Originals</unittitle>
-        </did>
-        <c id="aspace_ref105" level="file">
-          <did>
-            <unittitle>Fragile Originals from Box 1</unittitle>
-            <unitdate datechar="creation">1916, 1920</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ddac18cea80f4e4faba9de8623b6caac" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_0340653034b953d46a0cd872c00583e6" parent="aspace_ddac18cea80f4e4faba9de8623b6caac" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref106" level="file">
-          <did>
-            <unittitle>Fragile Originals from Box 2</unittitle>
-            <unitdate datechar="creation">1938, 1958, undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_39db4b0be3322b3ccabf6dc949b88bd0" label="Mixed Materials [31142062773976]" type="Box">1</container>
-            <container id="aspace_03f7e5d920f0c4836c9d91f963dd16c7" parent="aspace_39db4b0be3322b3ccabf6dc949b88bd0" type="Folder">2</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.041</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+      <extent altrender="carrier">(5 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1916/1965" type="inclusive">1916-1965</unitdate>
+    <abstract id="aspace_0ebd912a6c85c049ac55bae93cc7cd2c" label="Abstract">Charles Solomon was a socialist, a New York State Assemblyman, and a New York City magistrate. Contains correspondence, legal papers relating to matters brought before Solomon as magistrate, manuscripts, clippings and scrapbooks.</abstract>
+    <physloc id="aspace_4172e938b407e1e756ee1226b889d8ed">Materials are located at the Tamiment Library.</physloc>
+    <langmaterial id="aspace_74729f6630d104df0bca1286b3e04a05">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_06d44c993dfba440d5b9528db9db7a89">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_2360082ba785a04c652764b0b6efa40c">
+    <head>Historical/Biographical Note</head>
+<p>Charles Solomon was a socialist, a New York State Assemblyman (1919-1921) and a New York City magistrate (1936-1945, 1950-1959). He was one of five assemblymen expelled by the New York State Legislature in 1920 for being a Socialist. He was re-elected that same year. He later ran unsuccessfully as a Socialist candidate for governor, senator, and New York City mayor before joining the Liberal Party.</p>  </bioghist>
+  <scopecontent id="aspace_d47d7483291bdb8887b8c4fe3ba2924e">
+    <head>Scope and Content Note</head>
+<p>The papers include correspondence (including individual letters from Morris Hillquit and Harry Laidler), legal papers relating to matters brought before Solomon as magistrate, manuscripts of writings, radio scripts, addresses, published articles, printed debates including one with Scott Nearing, clippings (including some in Yiddish), and scrapbooks.</p>  </scopecontent>
+  <arrangement id="aspace_0b5fb6a0f981c954b9b7bf965be2882e">
+    <head>Arrangement</head>
+<p>Organized into three series: I, Papers (arranged alphabetically: II, Scrapbooks (arranged alpabetically, then chronologically); Series III, Fragile Originals (arranged by box number).</p>  </arrangement>
+  <acqinfo id="aspace_544c10ee77cf9115679f286721405b6a">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated (probably by Charles Solomon's daughters Mildred Clinton and Isabel Moros) in 1965. The accession number associated with this gift is 1965.004. Additional materials related to Solomon were found in Tamiment's collections in 2014. The accession number associated with these materials is 2014.048.</p>  </acqinfo>
+  <separatedmaterial id="aspace_2d51324e6335c0da9d7aa0fdbccdf8e7">
+    <head>Separated Material</head>
+<p>Photographs were separated to the Charles Solomon Photographs (PHOTOS 008)</p>  </separatedmaterial>
+  <userestrict id="aspace_222e6c04e98d7d540f1981d3008cd119">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1916-1965, are expected to enter the public domain in 2034.</p>  </userestrict>
+  <prefercite id="aspace_28653979309a47096b4b6e4ad87be1b0">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Charles Solomon Papers; TAM 041; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="aat">Obituaries.</genreform>
+    <subject source="lcsh">Socialism -- United States.</subject>
+    <subject source="lcsh">Legal assistance to prisoners -- United States.</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Radio scripts.</genreform>
+    <genreform source="aat">Speeches.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <subject source="lcsh">Jewish socialists -- United States.</subject>
+    <subject source="lcsh">Socialists -- New York (State) -- New York.</subject>
+    <geogname source="lcsh">New York (N.Y.) -- Politics and government -- 20th century.</geogname>
+    <persname source="naf">Hillquit, Morris, 1869-1933</persname>
+    <persname source="naf">Nearing, Scott, 1883-1983.</persname>
+    <persname source="naf">Laidler, Harry W. (Harry Wellington), 1884-1970</persname>
+    <persname source="naf">Solomon, Charles</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Papers</unittitle></did><c id="aspace_ref73" level="file"><did><unittitle>Adultery</unittitle><unitdate datechar="creation">1951-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_9d417289c7ad82587813c44d4933df77" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_e3398f647ce4901ac0378a9cbb4217eb" parent="aspace_9d417289c7ad82587813c44d4933df77" type="Folder">1</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Cassidy, Robert</unittitle><unitdate datechar="creation">1942-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_2982a00dffe71e3776b2ace972b752a1" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_6ec5c22ca57d760f3b7061048a9b2a7f" parent="aspace_2982a00dffe71e3776b2ace972b752a1" type="Folder">2</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Biographical: Clippings, Memorabilia, Obituaries</unittitle><unitdate datechar="creation">1936-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_fee66ef31c34ae28cdab7e0d87b3ae7e" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_f410b700da6bea92e5d8a6e99fc2a92f" parent="aspace_fee66ef31c34ae28cdab7e0d87b3ae7e" type="Folder">3</container></did></c><c id="aspace_ref133" level="file"><did><unittitle>Cases</unittitle><container altrender="Manuscript box - Legal" id="aspace_e9a96d6eadd39df7235bc546584f3203" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_407fa1dca43c05f3447167d0e834fd37" parent="aspace_e9a96d6eadd39df7235bc546584f3203" type="Folder">3A</container></did></c><c id="aspace_ref132" level="file"><did><unittitle>Certificates (Oversize)</unittitle><unitdate datechar="creation" normal="1904/1947" type="inclusive">1904-1947</unitdate><container altrender="Flat OS Box 17" id="aspace_3128bcbfacc93be942f6f40241108b3c" label="Mixed Materials [31142062759926]" type="Box">Shared Tamiment MSOS005</container><container id="aspace_d51c06813e9ea83421cbffe2ed62676c" parent="aspace_3128bcbfacc93be942f6f40241108b3c" type="Folder">1</container><container altrender="Flat OS Box 17" id="aspace_05785a52c61ca233e8ef641f1e929f09" label="Mixed Materials [31142062881985]" type="Box">Shared Tamiment 006</container><container id="aspace_ddcb3e745482a9925228ae71cc075843" parent="aspace_05785a52c61ca233e8ef641f1e929f09" type="Folder">3</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_39d8d5f368477fd10b7f1d3d34ff42fc" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_4e5882b11e0e13cf9990a804e6b8a0bc" parent="aspace_39d8d5f368477fd10b7f1d3d34ff42fc" type="Folder">4</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1924</unitdate><container altrender="Manuscript box - Legal" id="aspace_784df4452dd9a195ef95654631f96b38" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_6b9886b2511035bd4d82e7aa91548ba5" parent="aspace_784df4452dd9a195ef95654631f96b38" type="Folder">5</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1927</unitdate><container altrender="Manuscript box - Legal" id="aspace_6324bcb234e1622ca9cfc5d9477428bc" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_bded665f2b0d090b2868476d6f536c7f" parent="aspace_6324bcb234e1622ca9cfc5d9477428bc" type="Folder">6</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1928</unitdate><container altrender="Manuscript box - Legal" id="aspace_579c8a2bc5b3f88c025ccf9b5d846423" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_0225309aaa597f45b1d0056196348321" parent="aspace_579c8a2bc5b3f88c025ccf9b5d846423" type="Folder">7</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1929</unitdate><container altrender="Manuscript box - Legal" id="aspace_7a8de8a7cd5cb61a53b66e4f00c24d99" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_eb3e02ad50109f0c608994d12b8f8cc6" parent="aspace_7a8de8a7cd5cb61a53b66e4f00c24d99" type="Folder">8</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_51275bc37c040ac9565f992c22a90b9b" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_f71481c65f6f5cd8c310a1c973f193f9" parent="aspace_51275bc37c040ac9565f992c22a90b9b" type="Folder">9</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e19fa483a29406264633f0e67d6cac8" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_86f484f96feb7c7ad7813dbffa58c2bf" parent="aspace_2e19fa483a29406264633f0e67d6cac8" type="Folder">10</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_6c2fd81262abb10b67bd74778e5187d5" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_246613250ef0d70cdde19fc0d3f9b5e3" parent="aspace_6c2fd81262abb10b67bd74778e5187d5" type="Folder">11</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_1340c156328dc622f68d7077199178c7" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_1e6923e21f76fcee107b0bb2a7d0ddab" parent="aspace_1340c156328dc622f68d7077199178c7" type="Folder">12</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_abcef1c5ce21f9138b0f069755ef920e" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_53809056e8766b7da1649f05ac94e5a9" parent="aspace_abcef1c5ce21f9138b0f069755ef920e" type="Folder">13</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd59d5c07658cd69e912fbab959741fe" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_9220be0ed662be077993a21af3b593cd" parent="aspace_fd59d5c07658cd69e912fbab959741fe" type="Folder">14</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_ace5928bac6eea9555d656e41eb6de15" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_c121bf631723c45ec6fcdb4ac8cf68e7" parent="aspace_ace5928bac6eea9555d656e41eb6de15" type="Folder">15</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_4c14047964c3c61b896a7f3aec7d60f9" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_69795012170bf1e631b646e7d61aabdc" parent="aspace_4c14047964c3c61b896a7f3aec7d60f9" type="Folder">16</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_bd33232b21b934b109c0e7ed7c5d95aa" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_085ba0c94f80257b916b22ab61f029f3" parent="aspace_bd33232b21b934b109c0e7ed7c5d95aa" type="Folder">17</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_63dc4ddf6f06b2cb47eecce940ad9721" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_960f6ea5a2afcdd0910f5cd9e9111351" parent="aspace_63dc4ddf6f06b2cb47eecce940ad9721" type="Folder">18</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_707906f38b4ab04850e99cf141a46a8d" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_eee131b4dee1401f45ad78a80fd15cc9" parent="aspace_707906f38b4ab04850e99cf141a46a8d" type="drawer">19</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_1810fa23b082832e433bc0e172c6939e" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_c5d04cf71b3a40e4517276d2b065cc70" parent="aspace_1810fa23b082832e433bc0e172c6939e" type="Folder">20</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_3fc8c1ea4a75cbad1593d57181b47633" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_3b5874bf06357238e5cd9b67b511b45d" parent="aspace_3fc8c1ea4a75cbad1593d57181b47633" type="Folder">21</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_ab74002de1711758eb9588f51d34eec5" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_65e270fa04024c6dae27cdb3d11204fe" parent="aspace_ab74002de1711758eb9588f51d34eec5" type="Folder">22</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">1959-1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_0db700ab589e436ab1a50792e65fdeca" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_980756f9a60e6380d3a9b97fa32f17e8" parent="aspace_0db700ab589e436ab1a50792e65fdeca" type="Folder">23</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Clippings, Yiddish</unittitle><unitdate datechar="creation">nd</unitdate><container altrender="Manuscript box - Legal" id="aspace_5d1260df85dde9d1242cbba0f651efee" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_fa9d2a031b3bf54cbff39ddad994aa5d" parent="aspace_5d1260df85dde9d1242cbba0f651efee" type="Folder">24</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>"Confidence" Operations</unittitle><unitdate datechar="creation">1951-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_31b022405abb49e6ba2e9de3c784eea3" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_b9a3c743c4231ba89cd0c2bb500859a3" parent="aspace_31b022405abb49e6ba2e9de3c784eea3" type="Folder">25</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">1916-1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_183b6a029f874828099662ab9177745c" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_b9cc9f06032bcea3bd9389ae8298c7da" parent="aspace_183b6a029f874828099662ab9177745c" type="Folder">26</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">1946-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_d85157b04929e46292b0afb74e6da8a0" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_71c07f65a772420875a8252d1f2b8bbd" parent="aspace_d85157b04929e46292b0afb74e6da8a0" type="Folder">27</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">1958-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_4477ba59366067af215b3adf511f75bb" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_8e721ca1777b7a34e1df4023200c3081" parent="aspace_4477ba59366067af215b3adf511f75bb" type="Folder">1</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Debates, Radio Broadcasts, Speeches: Part 1</unittitle><unitdate datechar="creation">1916-1960, nd</unitdate><container altrender="Manuscript box - Legal" id="aspace_d56fa4db971d14fbf2ff132cd704b0c2" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_74129fcd56448d38354a1e25c9f96b5b" parent="aspace_d56fa4db971d14fbf2ff132cd704b0c2" type="Folder">2</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Debates, Radio Broadcasts, Speeches: Part 2</unittitle><unitdate datechar="creation">1916-1960, nd</unitdate><container altrender="Manuscript box - Legal" id="aspace_e6ef1dabd38f4756c4e766c701b86002" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_dfee0e4e2d3ec343ddde0c51c5a0b1b6" parent="aspace_e6ef1dabd38f4756c4e766c701b86002" type="Folder">3</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>Delinquency</unittitle><unitdate datechar="creation">1957-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_b4c3e752cf227f8c2f71cce9fd2e1959" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_8109b03eac887dad48b43cd0d4a86e28" parent="aspace_b4c3e752cf227f8c2f71cce9fd2e1959" type="Folder">4</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>General</unittitle><unitdate datechar="creation">1920-1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_0246a11abb8bcdc41772d36289719436" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_0bd5336037ec4ee615467f5169142bff" parent="aspace_0246a11abb8bcdc41772d36289719436" type="Folder">5</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Heat Complaints</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a826215042785b8838aa36e3d19a086" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_d08a7cbcf44ea9c195b7af4741a792cf" parent="aspace_5a826215042785b8838aa36e3d19a086" type="Folder">6</container></did></c><c id="aspace_ref134" level="file"><did><unittitle>Independent Citizens' Committee for the Election of Herbert Lehman as United States Senator</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">Nov 1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_eb71e60747399d6326b66ed8ac2fb8de" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_07384c030b8fd716048f492f301f304f" parent="aspace_eb71e60747399d6326b66ed8ac2fb8de" type="Folder">6A</container></did></c><c id="aspace_ref121" level="file"><did><unittitle>Labor Day, AFL-CIO: Part 1</unittitle><unitdate datechar="creation">1952-1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_2743fa4124dfce30e01d06ba3eb9d0aa" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_399e48dd77e32fc76acb3ee2caa684f5" parent="aspace_2743fa4124dfce30e01d06ba3eb9d0aa" type="Folder">7</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>Labor Day, AFL-CIO: Part 2</unittitle><unitdate datechar="creation">1952-1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_27e80a40fce64517b17df7c0bed9bfb7" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_63b26a144e4a960dd56186664df9d94c" parent="aspace_27e80a40fce64517b17df7c0bed9bfb7" type="Folder">8</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Manuscripts</unittitle><unitdate datechar="creation">nd</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e3f6271e5cf1f8a0e74428d58b5889d" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_174ee24a505f3856497ecc6e25e35907" parent="aspace_6e3f6271e5cf1f8a0e74428d58b5889d" type="Folder">9</container></did></c><c id="aspace_ref124" level="file"><did><unittitle>Morals</unittitle><unitdate datechar="creation">1954-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_4f7ea4d7e487c510268bedeff7da4b91" label="Mixed Materials [31142062773984]" type="Box">2</container><container id="aspace_563cd4c849e2f69f2fe397a8ad02da2c" parent="aspace_4f7ea4d7e487c510268bedeff7da4b91" type="Folder">10</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>Pornography, Publishing Rights, etc.</unittitle><unitdate datechar="creation">1956-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_18b29d179959646bd9dd7e7b074e5c0f" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_7f6ccb6c1ecaf48835161cd66419b1db" parent="aspace_18b29d179959646bd9dd7e7b074e5c0f" type="Folder">1</container></did></c><c id="aspace_ref126" level="file"><did><unittitle>Sabbath Law</unittitle><unitdate datechar="creation">1956-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_e9518051a65726825ddfa208310ecd75" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_9fd1bce6b628352202462fc0afab56ba" parent="aspace_e9518051a65726825ddfa208310ecd75" type="Folder">2</container></did></c><c id="aspace_ref127" level="file"><did><unittitle>Schwartz, Joe</unittitle><unitdate datechar="creation">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_ebfabbf8c9bda8d850fb2b99ae19966e" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_090384ab9f2fb6ba89ec062e7d000c8d" parent="aspace_ebfabbf8c9bda8d850fb2b99ae19966e" type="Folder">3</container></did></c><c id="aspace_ref128" level="file"><did><unittitle>Tinston, Albert</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_9772ff26083e2a339fcc395aeafbe6cb" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_5e15c5e2ccaee90c385bb62035db8202" parent="aspace_9772ff26083e2a339fcc395aeafbe6cb" type="Folder">4</container></did></c><c id="aspace_ref129" level="file"><did><unittitle>Vending Machines</unittitle><unitdate datechar="creation">1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_526c2d067e61bc7e5dc6cd0cce4874cb" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_3b84e3e25bfca7de749ad259ea0a77ba" parent="aspace_526c2d067e61bc7e5dc6cd0cce4874cb" type="Folder">5</container></did></c><c id="aspace_ref130" level="file"><did><unittitle>Writings, Published</unittitle><unitdate datechar="creation">1924-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_16cf437fbdfbeef92dd76116d2d49431" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_90cdcea57cb1f486d9677b3c954436dd" parent="aspace_16cf437fbdfbeef92dd76116d2d49431" type="Folder">6</container></did></c></c><c id="aspace_ref22" level="series"><did><unittitle>Series II: Scrapbooks</unittitle></did><c id="aspace_ref31" level="file"><did><unittitle>Scrapbook 1</unittitle><unitdate datechar="creation">1931-1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_db98955e9221034e9fa4570042c8e352" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_bd2c8bffe6a0fa5c475f690de818fa26" parent="aspace_db98955e9221034e9fa4570042c8e352" type="Folder">7</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Scrapbook 2</unittitle><unitdate datechar="creation">1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_15d8d9c94795da6b367fa0643a503792" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_556155b3582eb29fcae60ad7b83ad0c1" parent="aspace_15d8d9c94795da6b367fa0643a503792" type="Folder">8</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Scrapbook 3</unittitle><unitdate datechar="creation">1943-1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0b11dca53fa171669ca49de48bb4fb0" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_9c1814dfc473df54094ad7d7d8d6dbe0" parent="aspace_d0b11dca53fa171669ca49de48bb4fb0" type="Folder">9</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Scrapbook 4</unittitle><unitdate datechar="creation">1950-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_f3513fed7b3e1f9f0db3a2afe8c1a121" label="Mixed Materials [31142062773992]" type="Box">3</container><container id="aspace_cd2e5c67b17942e130c96e516b79a126" parent="aspace_f3513fed7b3e1f9f0db3a2afe8c1a121" type="Folder">10</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Scrapbook, Fragile: Part 1</unittitle><unitdate datechar="creation">1935-1938</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_fd5d8e71dbc10f914d27ba50e71c0a55" label="Mixed Materials [31142062734549]" type="Box">4</container><container id="aspace_0cc1d334172fec175cb1d46048eebdbb" parent="aspace_fd5d8e71dbc10f914d27ba50e71c0a55" type="Folder">1</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Scrapbook, Fragile: Part 2</unittitle><unitdate datechar="creation">1939-1941</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cb7b34933e10bbfcf63f3237f6a979e9" label="Mixed Materials [31142062734549]" type="Box">4</container><container id="aspace_e62cb36094a865d296eb3a8e8325461c" parent="aspace_cb7b34933e10bbfcf63f3237f6a979e9" type="Folder">2</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Scrapbook, Fragile: Part 3</unittitle><unitdate datechar="creation">1940-1954</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_887150c1c39a8c174a61564316c3e357" label="Mixed Materials [31142062734549]" type="Box">4</container><container id="aspace_491b8a384fa70002b944d5312a3190cb" parent="aspace_887150c1c39a8c174a61564316c3e357" type="Folder">3</container></did></c></c><c id="aspace_ref101" level="series"><did><unittitle>Series III: Fragile Originals</unittitle></did><c id="aspace_ref105" level="file"><did><unittitle>Fragile Originals from Box 1</unittitle><unitdate datechar="creation">1916, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_41df8fd58e285dd6b9fba0fd9221f2b4" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_18bf56eda565d79fcf9985376400faed" parent="aspace_41df8fd58e285dd6b9fba0fd9221f2b4" type="Folder">1</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Fragile Originals from Box 2</unittitle><unitdate datechar="creation">1938, 1958, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d6b1dcedde7ce6b8f0ff2da7dfc5fdca" label="Mixed Materials [31142062773976]" type="Box">1</container><container id="aspace_feaea12add02f17410672004dc04f2c1" parent="aspace_d6b1dcedde7ce6b8f0ff2da7dfc5fdca" type="Folder">2</container></did></c></c></dsc>
+</archdesc>
 </ead>

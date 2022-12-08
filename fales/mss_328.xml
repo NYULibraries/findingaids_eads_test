@@ -1,223 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_328</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Alice Himelstein AREA Collection<lb/>ca. 1983-1987<lb/> <num>MSS.328</num></titleproper>
-        <author>Colin Torre, 2012.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:43:01 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Alice Himelstein AREA Collection</unittitle>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="naf">Nylon, Judy</persname>
-      </origination>
-      <origination label="Creator">
-        <persname role="col" rules="dacs" source="local">Himelstein, Alice</persname>
-      </origination>
-      <unitid>MSS.328</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1977/1992" type="inclusive">circa 1983-1987</unitdate>
-      <abstract id="aspace_feb33cc1cf1353c93e67d6db72f1659a">The Alice Himelstein AREA Collection contains invitations and material related to New York's AREA nightclub, and includes material dating from 1983 to 1987.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <prefercite id="aspace_2638b0e6947d70d80e40e06ab35e5b95">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form:<lb/><lb/>
-Identification of item,  date (if known); Alice Himelstein AREA Collection; MSS 328; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
-    </prefercite>
-    <scopecontent id="aspace_ba98d74b25121e81829cf7748304f9d7">
-      <head>Scope and Content</head>
-      <p>The Alice Himelstein AREA Collection contains material related to New York's AREA nightclub, extant from 1983 to 1987. Included in the collection are original invitations, press materials, flyers, and objects, mailed to and collected by Alice Himelstein.</p>
-    </scopecontent>
-    <userestrict id="aspace_4b9acfdeed777adbdd0a43286bdd6f92">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596</p>
-    </userestrict>
-    <bioghist id="aspace_0cf08c5193d5b53f3ec222e68f3836c3">
-      <head>Historical note</head>
-      <p>The AREA nightclub operated at 157 Hudson Street in New York from 1983 to 1987. The club, owned and operated by Eric and Christopher Goode, Shawn Hausman, and Darius Azari, was noted for its discriminating door policy and frequently changing designs (themes included "Sci Fi," "Night," "Suburbia," and "Gnarly"). The installations for the club's designs regularly included contributions from up-and-coming and established artists like Keith Haring, Jeff Koons, David Hockney, and Jean-Michel Basquiat. The club closed in 1987 with the farewell theme of "Childhood."</p>
-    </bioghist>
-    <arrangement id="aspace_efcafc655286d3bccffd2ef4cadc6796">
-      <head>Arrangement</head>
-      <p>The Alice Himelstein AREA Collection consists of two boxes containing nine folders and eight unique objects.</p>
-    </arrangement>
-    <acqinfo id="aspace_66d2a4ad3a2b299aa66b662842584b19">
-      <head>Provenance</head>
-      <p>The Alice Himelstein AREA Collection was acquired from Judy Nylon by The Fales Library in 2011.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_a1f584a672abbf72322cc3b7f7bff091">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Artists -- New York (State) -- New York.</subject>
-      <genreform source="aat">Printed ephemera.</genreform>
-      <subject source="lcsh">Mail Art.</subject>
-      <subject source="lcsh">Nightclubs.</subject>
-      <genreform source="aat">Invitations.</genreform>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_328">mss_328</eadid><filedesc><titlestmt><titleproper>Guide to the Alice Himelstein AREA Collection <num>MSS.328</num></titleproper><author>Colin Torre</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2012</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:55:08 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Alice Himelstein AREA Collection</unittitle>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="naf">Nylon, Judy</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref1" level="series">
-        <did>
-          <unittitle>Series I: Invitations</unittitle>
-        </did>
-        <c id="aspace_ref4" level="file">
-          <did>
-            <unittitle>Art Area Flyer</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_ccb6e01d7fc6fe8fdb3f3b33b3227f25" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_9c61a86b97f9e774abf3f7da24aba873" parent="aspace_ccb6e01d7fc6fe8fdb3f3b33b3227f25" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="item">
-          <did>
-            <unittitle>Egg Invitation</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_8d7391d5110109a5559e0975ba83fdc9" label="Mixed Materials [31142063601630]" type="Box">2</container>
-            <container id="aspace_cf58ff3edeec3462329ed88ef91dcea2" parent="aspace_8d7391d5110109a5559e0975ba83fdc9" type="object">ID: 328.2.0001</container>
-          </did>
-        </c>
-        <c id="aspace_ref3" level="file">
-          <did>
-            <unittitle>Halloween Invitation</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_04dd1bfdbf0d84378e1e1e0fa71015b5" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_5383976a65d19895f0b047823f4ba38f" parent="aspace_04dd1bfdbf0d84378e1e1e0fa71015b5" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="item">
-          <did>
-            <unittitle>Jewelry Box Invitation</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_e01b9946cdcbc8262e157b27a8a2bd71" label="Mixed Materials [31142063601630]" type="Box">2</container>
-            <container id="aspace_520fe3c39c16b2237e257a41ab402813" parent="aspace_e01b9946cdcbc8262e157b27a8a2bd71" type="object">ID: 328.2.0008</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="item">
-          <did>
-            <unittitle>New Year's Eve Invitation</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_d4010a1ec52b2b0c6f65cedb2e625ba0" label="Mixed Materials [31142063601630]" type="Box">2</container>
-            <container id="aspace_b492fdb482c51934c760de7166969f45" parent="aspace_d4010a1ec52b2b0c6f65cedb2e625ba0" type="object">ID: 328.2.0003</container>
-          </did>
-        </c>
-        <c id="aspace_ref5" level="file">
-          <did>
-            <unittitle>New York Magazine Area Issue</unittitle>
-            <unitdate datechar="creation">1985</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_acc550c265e1a1788a39be880ab09f82" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_2a1f612ac174593883900ee26c2d6af5" parent="aspace_acc550c265e1a1788a39be880ab09f82" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref6" level="file">
-          <did>
-            <unittitle>New York Telephone</unittitle>
-            <unitdate datechar="creation">1986</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_087b3e3ecdea4bf34de94b1307ea296f" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_cece15ea2304f9c0341ce5ad4ba5956a" parent="aspace_087b3e3ecdea4bf34de94b1307ea296f" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="item">
-          <did>
-            <unittitle>Mousetrap Invitation</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_e241f748028cdce0f3c4c2bb47c12f78" label="Mixed Materials [31142063601630]" type="Box">2</container>
-            <container id="aspace_1b5842834a2e5e4f020629866c0b5b1d" parent="aspace_e241f748028cdce0f3c4c2bb47c12f78" type="object">ID: 328.2.0005</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>Obelisk Invitation</unittitle>
-            <unitdate datechar="creation">1982</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_8f8b0eb0865fb7d62c7287c72dc93f61" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_0b8de0eff6cf5aa0bdcc0f289eb6c2b5" parent="aspace_8f8b0eb0865fb7d62c7287c72dc93f61" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Once Upon a Time</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_046b115455ab7f553cfe25cc9d6a288b" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_a465957e447c2554628afddb1160630e" parent="aspace_046b115455ab7f553cfe25cc9d6a288b" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="item">
-          <did>
-            <unittitle>"Opening" Box</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_582ba5ac5c4b1ab4aa54f8b0b4a0c370" label="Mixed Materials [31142063601630]" type="Box">2</container>
-            <container id="aspace_5772e75beacaebe652ecadb40d3b25b5" parent="aspace_582ba5ac5c4b1ab4aa54f8b0b4a0c370" type="object">ID: 328.2.0007</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Pedal to the Metal Bumper Sticker</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_fc2a2032e20514ef63f0820e1831b628" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_3f4a78af101940d4b424300e8a364fb4" parent="aspace_fc2a2032e20514ef63f0820e1831b628" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref10" level="file">
-          <did>
-            <unittitle>Prizefight Invitation</unittitle>
-            <unitdate datechar="creation">1986</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_ec0f210813f3469a7aa70bed84c08aa7" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_ac6848e9c24e2b9444ff57d81458c5fa" parent="aspace_ec0f210813f3469a7aa70bed84c08aa7" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="item">
-          <did>
-            <unittitle>Sandal Invitation</unittitle>
-            <unitdate datechar="creation">1984</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_574214e72ea8dceb81c3ddb2194d792b" label="Mixed Materials [31142063601630]" type="Box">2</container>
-            <container id="aspace_86a094293b92eedd9119040d7c6401ff" parent="aspace_574214e72ea8dceb81c3ddb2194d792b" type="object">ID: 328.2.0006</container>
-          </did>
-        </c>
-        <c id="aspace_ref11" level="file">
-          <did>
-            <unittitle>Soul Fridays</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_6c793a20ca63c6ce1ab29b138f78add1" label="Mixed Materials [31142063601648]" type="Box">1</container>
-            <container id="aspace_d421c1b498f411a7c4160d4bf3535733" parent="aspace_6c793a20ca63c6ce1ab29b138f78add1" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="item">
-          <did>
-            <unittitle>Studio 54 Invitation</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_cd28be947548877acb9d7a30fd5f6c48" label="Mixed Materials [31142063601630]" type="Box">2</container>
-            <container id="aspace_dfd2328f0c1255c06f1f3e318fa107fd" parent="aspace_cd28be947548877acb9d7a30fd5f6c48" type="object">ID: 328.2.0004</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="item">
-          <did>
-            <unittitle>Sunglasses Invitation</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Custom OS 3.5 x 14 x 19" id="aspace_e888f43d12d4bc4ce926b280b995b9a3" label="Mixed Materials [31142063601630]" type="Box">2</container>
-            <container id="aspace_c533b077d97dc9162fa53158dfcaae5f" parent="aspace_e888f43d12d4bc4ce926b280b995b9a3" type="object">ID: 328.2.0002</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <origination label="Creator">
+      <persname role="col" rules="dacs" source="local">Himelstein, Alice</persname>
+    </origination>
+    <unitid>MSS.328</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1977/1992" type="inclusive">circa 1983-1987</unitdate>
+    <abstract id="aspace_feb33cc1cf1353c93e67d6db72f1659a" label="Abstract">The Alice Himelstein AREA Collection contains invitations and material related to New York's AREA nightclub, and includes material dating from 1983 to 1987.</abstract>
+    <langmaterial id="aspace_4c05e0d6000d8012a67d7e6473860f60">Materials are in English.</langmaterial>
+  </did>
+  <prefercite id="aspace_2638b0e6947d70d80e40e06ab35e5b95">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form:<lb/><lb/>
+Identification of item,  date (if known); Alice Himelstein AREA Collection; MSS 328; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <scopecontent id="aspace_ba98d74b25121e81829cf7748304f9d7">
+    <head>Scope and Content</head>
+<p>The Alice Himelstein AREA Collection contains material related to New York's AREA nightclub, extant from 1983 to 1987. Included in the collection are original invitations, press materials, flyers, and objects, mailed to and collected by Alice Himelstein.</p>  </scopecontent>
+  <userestrict id="aspace_4b9acfdeed777adbdd0a43286bdd6f92">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596</p>  </userestrict>
+  <bioghist id="aspace_0cf08c5193d5b53f3ec222e68f3836c3">
+    <head>Historical note</head>
+<p>The AREA nightclub operated at 157 Hudson Street in New York from 1983 to 1987. The club, owned and operated by Eric and Christopher Goode, Shawn Hausman, and Darius Azari, was noted for its discriminating door policy and frequently changing designs (themes included "Sci Fi," "Night," "Suburbia," and "Gnarly"). The installations for the club's designs regularly included contributions from up-and-coming and established artists like Keith Haring, Jeff Koons, David Hockney, and Jean-Michel Basquiat. The club closed in 1987 with the farewell theme of "Childhood."</p>  </bioghist>
+  <arrangement id="aspace_efcafc655286d3bccffd2ef4cadc6796">
+    <head>Arrangement</head>
+<p>The Alice Himelstein AREA Collection consists of two boxes containing nine folders and eight unique objects.</p>  </arrangement>
+  <acqinfo id="aspace_66d2a4ad3a2b299aa66b662842584b19">
+    <head>Provenance</head>
+<p>The Alice Himelstein AREA Collection was acquired from Judy Nylon by The Fales Library in 2011.</p>  </acqinfo>
+  <accessrestrict id="aspace_a1f584a672abbf72322cc3b7f7bff091">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Artists -- New York (State) -- New York.</subject>
+    <genreform source="aat">Printed ephemera.</genreform>
+    <subject source="lcsh">Mail Art.</subject>
+    <subject source="lcsh">Nightclubs.</subject>
+    <genreform source="aat">Invitations.</genreform>
+    <persname role="dnr" rules="dacs" source="naf">Nylon, Judy</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Invitations</unittitle></did><c id="aspace_ref4" level="file"><did><unittitle>Art Area Flyer</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_386ec5df766d4e16f8818ae958ad6136" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_dbd1f05b3b6108434afce0b0a9fbb5d3" parent="aspace_386ec5df766d4e16f8818ae958ad6136" type="Folder">1</container></did></c><c id="aspace_ref12" level="item"><did><unittitle>Egg Invitation</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_329aef344de8a0f24a7166487e27d427" label="Mixed Materials [31142063601630]" type="Box">2</container><container id="aspace_139d12633579500b0b425cd8916443cc" parent="aspace_329aef344de8a0f24a7166487e27d427" type="object">ID: 328.2.0001</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Halloween Invitation</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_f33fc9f690dd0b8b82370172378d4abd" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_fb4aaa55721c83a20519f9227e551e9f" parent="aspace_f33fc9f690dd0b8b82370172378d4abd" type="Folder">2</container></did></c><c id="aspace_ref19" level="item"><did><unittitle>Jewelry Box Invitation</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_643facd8cc1417bdd432cb3626836b30" label="Mixed Materials [31142063601630]" type="Box">2</container><container id="aspace_b54b65d33c09deb1f643d0cbfa574743" parent="aspace_643facd8cc1417bdd432cb3626836b30" type="object">ID: 328.2.0008</container></did></c><c id="aspace_ref14" level="item"><did><unittitle>New Year's Eve Invitation</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_8ea840d8cae1c9e69b0247533ef8b3d2" label="Mixed Materials [31142063601630]" type="Box">2</container><container id="aspace_1c2c744c3eda2b5a67d8a377bd55cfc2" parent="aspace_8ea840d8cae1c9e69b0247533ef8b3d2" type="object">ID: 328.2.0003</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>New York Magazine Area Issue</unittitle><unitdate datechar="creation">1985</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_e69f8f66ae96a9cac9332d86522d856f" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_84846e8d8c17bca506712badc6c43498" parent="aspace_e69f8f66ae96a9cac9332d86522d856f" type="Folder">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>New York Telephone</unittitle><unitdate datechar="creation">1986</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_8d919599772a93cc5a34c26fc97de429" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_9e93b14dc43e823a6977aaf3d7afabb6" parent="aspace_8d919599772a93cc5a34c26fc97de429" type="Folder">4</container></did></c><c id="aspace_ref16" level="item"><did><unittitle>Mousetrap Invitation</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_6efe8408d260f34cd76edc3f57b71907" label="Mixed Materials [31142063601630]" type="Box">2</container><container id="aspace_d91dc153c2bc9396663cdd2296aa4d5d" parent="aspace_6efe8408d260f34cd76edc3f57b71907" type="object">ID: 328.2.0005</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Obelisk Invitation</unittitle><unitdate datechar="creation">1982</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_7cfe3d47307e60eeba728fec60e7b87f" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_20088823a5b76478ea1b4a5c5b61a96b" parent="aspace_7cfe3d47307e60eeba728fec60e7b87f" type="Folder">5</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Once Upon a Time</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_fc6327440c6c58e3c605065d293cc8e0" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_b7ab9ae41c14a5067019149a1ce8808c" parent="aspace_fc6327440c6c58e3c605065d293cc8e0" type="Folder">6</container></did></c><c id="aspace_ref18" level="item"><did><unittitle>"Opening" Box</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_af531c7870881f2567651615e3d4e48e" label="Mixed Materials [31142063601630]" type="Box">2</container><container id="aspace_f5adf2cfd0516e7bd18b5892bdc77705" parent="aspace_af531c7870881f2567651615e3d4e48e" type="object">ID: 328.2.0007</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Pedal to the Metal Bumper Sticker</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_12898428320f8fc28d782c3653a86a62" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_8ccf5221adc31f6ba48883ff870db3ed" parent="aspace_12898428320f8fc28d782c3653a86a62" type="Folder">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Prizefight Invitation</unittitle><unitdate datechar="creation">1986</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_555e56b39c06328d647073e974bfe1db" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_974f80bedde1569d2b2f272d427e6521" parent="aspace_555e56b39c06328d647073e974bfe1db" type="Folder">8</container></did></c><c id="aspace_ref17" level="item"><did><unittitle>Sandal Invitation</unittitle><unitdate datechar="creation">1984</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_caa2b7415c347ef78b96e572f9f27e59" label="Mixed Materials [31142063601630]" type="Box">2</container><container id="aspace_af7bf500f4ad5cdfe7fa9d879c632930" parent="aspace_caa2b7415c347ef78b96e572f9f27e59" type="object">ID: 328.2.0006</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Soul Fridays</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_7bb44d689132137239e8c23a7a5a860d" label="Mixed Materials [31142063601648]" type="Box">1</container><container id="aspace_50862868f879b7dd4810254bf5f1c45a" parent="aspace_7bb44d689132137239e8c23a7a5a860d" type="Folder">9</container></did></c><c id="aspace_ref15" level="item"><did><unittitle>Studio 54 Invitation</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_fe119ce23ecab13dda80c8f4f83747de" label="Mixed Materials [31142063601630]" type="Box">2</container><container id="aspace_943e95a42e968b7f55b856d9faabcead" parent="aspace_fe119ce23ecab13dda80c8f4f83747de" type="object">ID: 328.2.0004</container></did></c><c id="aspace_ref13" level="item"><did><unittitle>Sunglasses Invitation</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Custom OS 3.5 x 14 x 19" id="aspace_68388f8a7482accef5012f16bf147664" label="Mixed Materials [31142063601630]" type="Box">2</container><container id="aspace_9bde6882e9e556ddf5cdf16a40eb7bf9" parent="aspace_68388f8a7482accef5012f16bf147664" type="object">ID: 328.2.0002</container></did></c></c></dsc>
+</archdesc>
 </ead>

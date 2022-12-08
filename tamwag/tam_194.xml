@@ -1,170 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_194/">tam_194</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Herb Lerner World War II Letters to Ruth Lerner <num>TAM.194</num></titleproper>
-        <author>Tamiment staff, 2010. Edited to correct subject headings and notes, 2010. </author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2/14/2010</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:34:19 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Herb Lerner World War II Letters to Ruth Lerner</unittitle>
-      <origination label="Creator">
-        <persname source="local">Lerner, Herb, 1915-1972</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Harris-Lerner, Rosalie</persname>
-      </origination>
-      <unitid>TAM.194</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1942/1945" type="inclusive">Aug 28, 1942-Sep 10, 1945</unitdate>
-      <abstract id="aspace_dc6f66a0f4f791a6d5889e0a75429e40">Herb Lerner (1915-1972) was a Jewish Communist born in Lithuania, a soldier during World War II, and later the New Jersey director of the International Union of Mine, Mill, and Smelter Workers. The collection consists of hundreds of almost daily World War II letters (Aug 28, 1942-Sep 10, 1945) from Herb Lerner to his wife Ruth Lerner, also a Communist and an activist in the fur workers union (Joint Board, Fur, Leather &amp; Machine Workers Union).</abstract>
-      <langmaterial id="aspace_4613ea295c3268a14e7af4adcffaae2b">Materials are in English</langmaterial>
-    </did>
-    <accessrestrict id="aspace_ff74411fdc9790a11325175b7a0795a7">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_90cec8d0b3cc43922a23aba185def39b">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Roaslie Harris-Lerner in 1997. The accession number associated with this gift is 2006.015.</p>
-    </acqinfo>
-    <bioghist id="aspace_a0da39d870184f7b3fa149681a71cc23">
-      <head>Historical/Biographical Note</head>
-      <p>Herb Lerner (1915-1972) was a Jewish Communist born in Lithuania, a soldier stationed during World War II in North Africa and Italy, and later the New Jersey director of the International Union of Mine, Mill, and Smelter Workers.</p>
-    </bioghist>
-    <prefercite id="aspace_0835e556731964f99a62e3da52b6f11b">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Herb Lerner World War II Letters to Ruth Lerner; TAM 194; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <scopecontent id="aspace_e1f07789f42d86e8a1f9d5e80448b308">
-      <head>Scope and Contents</head>
-      <p>The collection consists of hundreds of almost daily World War II letters (Aug 28, 1942-Sep 10, 1945) from Herb Lerner to his wife Ruth Lerner, also a Communist and an activist in the fur workers union (Joint Board, Fur, Leather &amp; Machine Workers Union). The letters contain domestic and international political commentary reflective of Lerner's Communist politics, and personal remarks, notably expressions of love and concern for his wife.</p>
-    </scopecontent>
-    <userestrict id="aspace_ba79f82379795487d910687663e8c06a">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Herb Lerner was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">World politics |y 1933-1945.</subject>
-      <subject source="lcsh">Soldiers -- United States -- Correspondence.</subject>
-      <geogname source="lcsh">United States |x Politics and government |y 1933-1945</geogname>
-      <subject source="lcsh">Communists |z New Jersey |z Newark.</subject>
-      <subject source="lcsh">Jewish communists -- United States.</subject>
-      <subject source="lcsh">Women communists -- United States.</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_194">tam_194</eadid><filedesc><titlestmt><titleproper>Guide to the Herb Lerner World War II Letters to Ruth Lerner <num>TAM.194</num></titleproper><author>Tamiment staff, 2010. Edited to correct subject headings and notes, 2010. </author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2/14/2010</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:07:15 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Herb Lerner World War II Letters to Ruth Lerner</unittitle>
+    <origination label="Creator">
       <persname source="local">Lerner, Herb, 1915-1972</persname>
-      <persname source="local">Lerner, Ruth, 1917-1968</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Harris-Lerner, Rosalie</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref3" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from U.S.)</unittitle>
-          <unitdate datechar="creation">Aug 28, 1942-Feb 20, 1943</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_edb6433ca1a865e6dc07c9657e98afc2" label="Mixed Materials [31142062883486]" type="Box">1</container>
-          <container id="aspace_4b265ae0f25a31b7450691605ab7c3b4" parent="aspace_edb6433ca1a865e6dc07c9657e98afc2" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref4" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from North Africa)</unittitle>
-          <unitdate datechar="creation">Feb 23, 1943-Jul 9, 1943</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8c405fb055322ad9f94b06b2813f3de7" label="Mixed Materials [31142062883486]" type="Box">1</container>
-          <container id="aspace_8027133ae77a562edfb04d5a156cd7f6" parent="aspace_8c405fb055322ad9f94b06b2813f3de7" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref5" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from Italy: Sicily)</unittitle>
-          <unitdate datechar="creation">Jul 1, 1943-Oct 19, 143</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_449013920b2d44cd970c57fd3900f8b9" label="Mixed Materials [31142062883486]" type="Box">1</container>
-          <container id="aspace_c5a6107b39aec3e02a33212c15eedf05" parent="aspace_449013920b2d44cd970c57fd3900f8b9" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref6" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from Italy)</unittitle>
-          <unitdate datechar="creation">Oct 30, 1943-Dec 27, 1943</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f47ee5778e03fe140c25b6013b5c5b56" label="Mixed Materials [31142062883486]" type="Box">1</container>
-          <container id="aspace_4206705ea8ee079820406e68057fe935" parent="aspace_f47ee5778e03fe140c25b6013b5c5b56" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref7" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from Italy)</unittitle>
-          <unitdate datechar="creation">Jan 1, 1944-Feb 29, 1944</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_6afc9722bd769404a864437d22781010" label="Mixed Materials [31142062883486]" type="Box">1</container>
-          <container id="aspace_2cd6b210970b437cc614f52a5db37d0c" parent="aspace_6afc9722bd769404a864437d22781010" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref8" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from Italy: Anzio Beachhead)</unittitle>
-          <unitdate datechar="creation">Mar 1, 1944-May31, 1944</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_e16775b7df22ff8812eace8a1422a429" label="Mixed Materials [31142062883486]" type="Box">1</container>
-          <container id="aspace_0e085d89c3a3c2ef57228f8d5d04c68f" parent="aspace_e16775b7df22ff8812eace8a1422a429" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref9" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from Italy)</unittitle>
-          <unitdate datechar="creation">Jun 2, 1944-Aug 30, 1944</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1f314e7d976235e9dd5e73b223e6e939" label="Mixed Materials [31142062883486]" type="Box">1</container>
-          <container id="aspace_9b1fad64df4de0ec18656a23d2c01b76" parent="aspace_1f314e7d976235e9dd5e73b223e6e939" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from Italy)</unittitle>
-          <unitdate datechar="creation">Sep 1, 1944-Dec 31, 1944</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_800d81caeb1e7246196fe34de1c5f146" label="Mixed Materials [31142062883486]" type="Box">1</container>
-          <container id="aspace_7b7f191110272082ffe2cd2d15dbbd53" parent="aspace_800d81caeb1e7246196fe34de1c5f146" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref11" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from Italy)</unittitle>
-          <unitdate datechar="creation">Jan 3, 1943-May 31, 1945</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_4e0db994808a0608a3809a72b5986a75" label="Mixed Materials [31142062883494]" type="Box">2</container>
-          <container id="aspace_a31b0f34a4c622b4d963e8616e7c48fe" parent="aspace_4e0db994808a0608a3809a72b5986a75" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="otherlevel" otherlevel="Folder">
-        <did>
-          <unittitle>Letters (from Italy)</unittitle>
-          <unitdate datechar="creation">Jun 1, 1945-Sep 10, 1945</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_112bd95379cf5d75c781b5bbf009a535" label="Mixed Materials [31142062883494]" type="Box">2</container>
-          <container id="aspace_1bd4714fd405b8f5336feb668e61f210" parent="aspace_112bd95379cf5d75c781b5bbf009a535" type="Folder">2</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.194</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1942/1945" type="inclusive">Aug 28, 1942-Sep 10, 1945</unitdate>
+    <abstract id="aspace_dc6f66a0f4f791a6d5889e0a75429e40">Herb Lerner (1915-1972) was a Jewish Communist born in Lithuania, a soldier during World War II, and later the New Jersey director of the International Union of Mine, Mill, and Smelter Workers. The collection consists of hundreds of almost daily World War II letters (Aug 28, 1942-Sep 10, 1945) from Herb Lerner to his wife Ruth Lerner, also a Communist and an activist in the fur workers union (Joint Board, Fur, Leather &amp; Machine Workers Union).</abstract>
+    <langmaterial id="aspace_4613ea295c3268a14e7af4adcffaae2b">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_ff74411fdc9790a11325175b7a0795a7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_90cec8d0b3cc43922a23aba185def39b">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Roaslie Harris-Lerner in 1997. The accession number associated with this gift is 2006.015.</p>  </acqinfo>
+  <bioghist id="aspace_a0da39d870184f7b3fa149681a71cc23">
+    <head>Historical/Biographical Note</head>
+<p>Herb Lerner (1915-1972) was a Jewish Communist born in Lithuania, a soldier stationed during World War II in North Africa and Italy, and later the New Jersey director of the International Union of Mine, Mill, and Smelter Workers.</p>  </bioghist>
+  <prefercite id="aspace_0835e556731964f99a62e3da52b6f11b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Herb Lerner World War II Letters to Ruth Lerner; TAM 194; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_e1f07789f42d86e8a1f9d5e80448b308">
+    <head>Scope and Contents</head>
+<p>The collection consists of hundreds of almost daily World War II letters (Aug 28, 1942-Sep 10, 1945) from Herb Lerner to his wife Ruth Lerner, also a Communist and an activist in the fur workers union (Joint Board, Fur, Leather &amp; Machine Workers Union). The letters contain domestic and international political commentary reflective of Lerner's Communist politics, and personal remarks, notably expressions of love and concern for his wife.</p>  </scopecontent>
+  <userestrict id="aspace_ba79f82379795487d910687663e8c06a">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Herb Lerner was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">World politics |y 1933-1945.</subject>
+    <subject source="lcsh">Soldiers -- United States -- Correspondence.</subject>
+    <geogname source="lcsh">United States |x Politics and government |y 1933-1945</geogname>
+    <subject source="lcsh">Communists |z New Jersey |z Newark.</subject>
+    <subject source="lcsh">Jewish communists -- United States.</subject>
+    <subject source="lcsh">Women communists -- United States.</subject>
+    <persname source="local">Lerner, Herb, 1915-1972</persname>
+    <persname source="local">Lerner, Ruth, 1917-1968</persname>
+    <persname role="dnr" rules="dacs" source="local">Harris-Lerner, Rosalie</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref3" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from U.S.)</unittitle><unitdate datechar="creation">Aug 28, 1942-Feb 20, 1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_82c1983c345b1addde03fb9e9ff83dfa" label="Mixed Materials [31142062883486]" type="Box">1</container><container id="aspace_ca9016cf4853ba0d613370819acf13ef" parent="aspace_82c1983c345b1addde03fb9e9ff83dfa" type="Folder">1</container></did></c><c id="aspace_ref4" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from North Africa)</unittitle><unitdate datechar="creation">Feb 23, 1943-Jul 9, 1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_2b343e35e154b674c5db97dc44f52c98" label="Mixed Materials [31142062883486]" type="Box">1</container><container id="aspace_644f6ae8cf564337d460fe5be415ce09" parent="aspace_2b343e35e154b674c5db97dc44f52c98" type="Folder">2</container></did></c><c id="aspace_ref5" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from Italy: Sicily)</unittitle><unitdate datechar="creation">Jul 1, 1943-Oct 19, 143</unitdate><container altrender="Manuscript box - Legal" id="aspace_429a5e8508ebfae5c8804ce97a0aee90" label="Mixed Materials [31142062883486]" type="Box">1</container><container id="aspace_2fbdf8aca76b81fded9f2b1bed39b71a" parent="aspace_429a5e8508ebfae5c8804ce97a0aee90" type="Folder">3</container></did></c><c id="aspace_ref6" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from Italy)</unittitle><unitdate datechar="creation">Oct 30, 1943-Dec 27, 1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_ff920e35cdb102eaf7fb55496fee5def" label="Mixed Materials [31142062883486]" type="Box">1</container><container id="aspace_c7707743e7c1d527c161c8aa021d1ba4" parent="aspace_ff920e35cdb102eaf7fb55496fee5def" type="Folder">4</container></did></c><c id="aspace_ref7" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from Italy)</unittitle><unitdate datechar="creation">Jan 1, 1944-Feb 29, 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_9d5c6237811f870dc681e41ffb36bcc8" label="Mixed Materials [31142062883486]" type="Box">1</container><container id="aspace_a0e53fd3d7b4c0a77855b8d391774948" parent="aspace_9d5c6237811f870dc681e41ffb36bcc8" type="Folder">5</container></did></c><c id="aspace_ref8" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from Italy: Anzio Beachhead)</unittitle><unitdate datechar="creation">Mar 1, 1944-May31, 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_570f9cce7d828d318716f0fdf3c3e193" label="Mixed Materials [31142062883486]" type="Box">1</container><container id="aspace_c83c13f2af0b0330762076d170e3ac99" parent="aspace_570f9cce7d828d318716f0fdf3c3e193" type="Folder">6</container></did></c><c id="aspace_ref9" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from Italy)</unittitle><unitdate datechar="creation">Jun 2, 1944-Aug 30, 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_d24126a4eb26839dea28303c183c23c6" label="Mixed Materials [31142062883486]" type="Box">1</container><container id="aspace_7118b13e4f613e29e4545d694b6acbc2" parent="aspace_d24126a4eb26839dea28303c183c23c6" type="Folder">7</container></did></c><c id="aspace_ref10" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from Italy)</unittitle><unitdate datechar="creation">Sep 1, 1944-Dec 31, 1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_b17ed926075a2df96d06db0d4836fef9" label="Mixed Materials [31142062883486]" type="Box">1</container><container id="aspace_11e1f37e4b1b019592a43e3a722192ec" parent="aspace_b17ed926075a2df96d06db0d4836fef9" type="Folder">8</container></did></c><c id="aspace_ref11" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from Italy)</unittitle><unitdate datechar="creation">Jan 3, 1943-May 31, 1945</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ee433cd2df76e7e1c50c15916e9bd57d" label="Mixed Materials [31142062883494]" type="Box">2</container><container id="aspace_1f7999f19e36c79704ba0267ebd22924" parent="aspace_ee433cd2df76e7e1c50c15916e9bd57d" type="Folder">1</container></did></c><c id="aspace_ref12" level="otherlevel" otherlevel="Folder"><did><unittitle>Letters (from Italy)</unittitle><unitdate datechar="creation">Jun 1, 1945-Sep 10, 1945</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_33dfaee64c1d1804190c0b228aa1ecee" label="Mixed Materials [31142062883494]" type="Box">2</container><container id="aspace_6ed8eb73657b931a08d20e1e57372e76" parent="aspace_33dfaee64c1d1804190c0b228aa1ecee" type="Folder">2</container></did></c></dsc>
+</archdesc>
 </ead>

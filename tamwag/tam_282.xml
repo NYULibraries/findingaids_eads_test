@@ -1,319 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_282">tam_282</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Fairness and Accuracy in Reporting (FAIR) Records <num>TAM.282</num></titleproper>
-        <author>Tamiment Staff</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from FAIR Guide.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:44:59 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Fairness and Accuracy in Reporting (FAIR) Records</unittitle>
-      <origination label="Creator">
-        <corpname role="dnr" source="naf">Fairness &amp; Accuracy in Reporting (Organization)</corpname>
-      </origination>
-      <unitid>TAM.282</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1983/1993" type="inclusive">1983-1993</unitdate>
-      <abstract id="aspace_c60fb4cca036a9278306b568b340c89d">Fairness and Accuracy in Reporting (FAIR) is a progressive media watch organization founded in 1986 by journalist Jeff Cohen. FAIR publishes <title render="italic">Extra!</title>, a magazine of media criticism, and produces <title render="italic">Counterspin</title>, a radio news program. It is active against censorship, and advocates for diversity, and the break up of the dominant media conglomerates. The collection includes correspondence (mostly of Jeff Cohen), internal documents, and back issues of publications.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_282">tam_282</eadid><filedesc><titlestmt><titleproper>Guide to the Fairness and Accuracy in Reporting (FAIR) Records <num>TAM.282</num></titleproper><author>Tamiment Staff</author></titlestmt><editionstmt><p>This version was derived from FAIR Guide.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:43:09 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Fairness and Accuracy in Reporting (FAIR) Records</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no89007170" role="dnr" source="naf">Fairness &amp; Accuracy in Reporting (Organization)</corpname>
+    </origination>
+    <unitid>TAM.282</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1983/1993" type="inclusive">1983-1993</unitdate>
+    <abstract id="aspace_c60fb4cca036a9278306b568b340c89d" label="Abstract">Fairness and Accuracy in Reporting (FAIR) is a progressive media watch organization founded in 1986 by journalist Jeff Cohen. FAIR publishes <title render="italic">Extra!</title>, a magazine of media criticism, and produces <title render="italic">Counterspin</title>, a radio news program. It is active against censorship, and advocates for diversity, and the break up of the dominant media conglomerates. The collection includes correspondence (mostly of Jeff Cohen), internal documents, and back issues of publications.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-      <container altrender="Manuscript box - Legal" id="aspace_ee4ad6950efec6f2c83b7ac8c36cc779" label="Mixed Materials [31142062765493]" type="Box">1</container>
-    </did>
-    <accessrestrict id="aspace_6dfd14542e1408ccf279d40137ec1c19">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_a3d38e7d979ae500f582dd16759538d7">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Fairness and Accuracy in Reporting (FAIR) in 1994. The accession number associated with this collection is 1994.005.</p>
-    </acqinfo>
-    <arrangement id="aspace_f71edd61256f269d59bde10b4eef0322">
-      <head>Arrangement</head>
-      <p>Folders are arranged alphabetically.</p>
-    </arrangement>
-    <bioghist id="aspace_62df27c94eddb5aff10e753f2f4cb8eb">
-      <head>Historical/Biographical Note</head>
-      <p>Fairness and Accuracy in Reporting (FAIR), a progressive media watch organization that works with journalists and activists, was founded in 1986 by journalist Jeff Cohen. FAIR publishes <title render="italic">Extra!</title>, a magazine of media criticism, and produces <title render="italic">Counterspin</title>, a radio news program. FAIR conducts media research, produces reports (notably through its Womens' Desk and Racism Watch Desk units), opposes censorship, and advocates for greater diversity and representation of minority viewpoints. FAIR believes that structural reform is ultimately needed to break up the dominant media conglomerates, to establish independent public broadcasting, and to promote strong non-profit sources of information.</p>
-    </bioghist>
-    <custodhist id="aspace_1f96ec6e1fc16179c68abfe662b429f0">
-      <head>Custodial History</head>
-      <p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>
-    </custodhist>
-    <prefercite id="aspace_b6b642553243aa3bd69f2864d43aa1d7">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Fairness and Accuracy in Reporting (FAIR) Records; TAM 282; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <processinfo id="aspace_89373d1e54ef120a60b6b8c57ca9db8b">
-      <head>Processing Information</head>
-      <p>In 2014, the archived website was added as a series.</p>
-    </processinfo>
-    <scopecontent id="aspace_7613935955c27dd5b656afbb8e87e9b6">
-      <head>Scope and Content Note</head>
-      <p>This collection contains correspondence (mostly that of Jeff Cohen), internal documents, reports and studies, editorial material pertaining to <emph render="italic">Extra!</emph>, back issues (1992) of <title render="italic">Counterspin: A Memo on Campaign Coverage from FAIR</title>, published and unpublished writings by Jeff Cohen and others, a file on FAIR's Los Angeles chapter, and another on related organizations.</p>
-    </scopecontent>
-    <phystech id="aspace_48460234e15b840b47b132d0809ad94f">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Due to technical or privacy issues, archived websites may not be exact copies of the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
-    </phystech>
-    <userestrict id="aspace_5e02586980935173f156746c1f5de796">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Fairness and Accuracy in Reporting (FAIR) was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <genreform source="aat">Reports.</genreform>
-      <genreform source="aat">Writings (document genre)</genreform>
-      <subject source="lcsh">Mass media criticism |z United States.</subject>
-      <genreform source="aat">Correspondence.</genreform>
-      <corpname source="naf">Fairness &amp; Accuracy in Reporting (Organization)</corpname>
-      <persname source="naf">Cohen, Jeff, 1951-</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref11" level="series">
-        <did>
-          <unittitle>Records</unittitle>
-        </did>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>Cohen, Jeff: Writings</unittitle>
-            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f55f68d29ed3cdd1e4207a73633e8fdb" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_7c359d31f9c3584cc334da4c5d5da565" parent="aspace_f55f68d29ed3cdd1e4207a73633e8fdb" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1983/1993" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_84c04d934cc908c66767d67ebcb1000b" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_1da014468c4082dcbd1c55c6d22eeaa7" parent="aspace_84c04d934cc908c66767d67ebcb1000b" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f6c9f9cfb028fd73a9830c3fb32bb8d1" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_cc2dae91e5e9812347af5b3376d2b6e4" parent="aspace_f6c9f9cfb028fd73a9830c3fb32bb8d1" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_29aad813810b6bff8512ee3a584a2d74" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_74ced98a13efafc1326bde3cc7c4b99d" parent="aspace_29aad813810b6bff8512ee3a584a2d74" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9641baae2221d4626d728751b6a5bd85" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_a1e030606eb967693ab2e9c30d3298a9" parent="aspace_9641baae2221d4626d728751b6a5bd85" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_68ab212889b1e3997b3c4eb3768ca469" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_c4c5a03ba111d6d23d44108ec281a858" parent="aspace_68ab212889b1e3997b3c4eb3768ca469" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b458c77f1b312280868cfe0bd6e449a9" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_9bd048a15e9909fd36bc5c5647a7be19" parent="aspace_b458c77f1b312280868cfe0bd6e449a9" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5dc44f961461581ae43ca39b953c26cf" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_e3ba2f5ad5b494fd0c52dd8dd951282b" parent="aspace_5dc44f961461581ae43ca39b953c26cf" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Correspondence: ABC</unittitle>
-            <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_22dab0e53e3e114fc39d3167e1a2edcf" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_f9bec877bade272ec701759126de161a" parent="aspace_22dab0e53e3e114fc39d3167e1a2edcf" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Correspondence: PBS</unittitle>
-            <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7a12229351c47435b3d9e9bc04a48675" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_bb5ede171a59db2c71076e879086cbf8" parent="aspace_7a12229351c47435b3d9e9bc04a48675" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>
-              <title render="italic">Counterspin: A Memo on Campaign Coverage from FAIR</title>
-            </unittitle>
-            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5ab044c910134a9daf694652d51bb0f8" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_7ffd996488281015f82e7263e840b5a6" parent="aspace_5ab044c910134a9daf694652d51bb0f8" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Documents, Ephemera, Clippings</unittitle>
-            <unitdate datechar="creation" normal="1983/1993" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a921c52d69aa6a6da7ae0cd682fd2264" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_e6211cee5f9485da081c99b63d16c55e" parent="aspace_a921c52d69aa6a6da7ae0cd682fd2264" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Documents, Ephemera, Clippings</unittitle>
-            <unitdate datechar="creation" normal="1986/1993" type="inclusive">1986-1993</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_57f9a4fe86cbd5a012aab2a6f1d32e6c" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_887da96854af1cba5e1883e92ad6cd3d" parent="aspace_57f9a4fe86cbd5a012aab2a6f1d32e6c" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Extra! (Editorial Material)</unittitle>
-            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5bb5538040958996c9e539f2ca06708a" label="Mixed Materials [31142062765493]" type="Box">1</container>
-            <container id="aspace_ebb0a6ccc3ecf415313ab9d1337ea0e6" parent="aspace_5bb5538040958996c9e539f2ca06708a" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle><title render="italic">Faces of War</title>(Documentary on Central America) <title render="italic"/></unittitle>
-            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_dce798c9189384c0daa8fb0a40e9390a" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_3781e0f6c7ce78f62e5f263118c6bfc8" parent="aspace_dce798c9189384c0daa8fb0a40e9390a" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>FAIR: Los Angeles Chapter</unittitle>
-            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b62de5aa24d9a13e564b6e6bf50b0119" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_30a92abd4a5bfb7b847012c8941fc524" parent="aspace_b62de5aa24d9a13e564b6e6bf50b0119" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Founding of FAIR / Initial Activities</unittitle>
-            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_916147a0fc8da7b0116f0d6b2fd75cb1" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_592d334f9ff3fad405d40f13f3bec567" parent="aspace_916147a0fc8da7b0116f0d6b2fd75cb1" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Related Organizations</unittitle>
-            <unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b908b90e924f9c5057064383e80340a1" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_3ef547ce9633e8f232022e3e6b109d5b" parent="aspace_b908b90e924f9c5057064383e80340a1" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Report: Are You on the <title render="italic">Nightline</title> Guest List?</unittitle>
-            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_bb4112e5a2c1f324da8b852a6e19a31b" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_d50bc1f8dbff2b3e4966fa3562858acc" parent="aspace_bb4112e5a2c1f324da8b852a6e19a31b" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Report: Lost in the Margins: Labor &amp; the Media</unittitle>
-            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5683ad101bfad0afc87f55ac7118ab45" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_2e50bf3640dc9e5907634187340f9bb2" parent="aspace_5683ad101bfad0afc87f55ac7118ab45" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Report (to FAIR): Network Television &amp; Newspaper Coverage of the Environment Since Earth Day 1990</unittitle>
-            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_f070a6bc899122cffa2686db4e96da19" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_e65e9c9eaa025f5f81f8dcf90189765e" parent="aspace_f070a6bc899122cffa2686db4e96da19" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Report: Public Television "Prime Time": Public Affairs Programming, Political Diversity, &amp; the Conservative Critique of Public Television, by David Croteau, et al</unittitle>
-            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_bfd0ae7e2370802b7fbc46823e7d40da" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_8a5145468483e8cadbed55c7e60fca61" parent="aspace_bfd0ae7e2370802b7fbc46823e7d40da" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>"Safire, William" - by Robert Ranflet</unittitle>
-            <unitdate datechar="creation" normal="1983/1993" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_13504e420005beecba8f7b4a5812b765" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_bdaaeba3be56b2a3f70224bf5e72908c" parent="aspace_13504e420005beecba8f7b4a5812b765" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Women &amp; Media Activism Kit</unittitle>
-            <unitdate datechar="creation" normal="1983/1993" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_880b6f845eb5a5e36039b33485f413d1" label="Mixed Materials [31142062765501]" type="Box">2</container>
-            <container id="aspace_69dd9a78a97b844d8e0d2fc8e5819114" parent="aspace_880b6f845eb5a5e36039b33485f413d1" type="Folder">10</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref39" level="series">
-        <did>
-          <unittitle>Archived Website</unittitle>
-          <unitdate datechar="creation">Oct 2, 2007-ongoing</unitdate>
-          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6334/*/http://fair.org/" xlink:role="external-link" xlink:show="new" xlink:title="Fairness &amp; Accuracy in Reporting" xlink:type="simple">
-            <daodesc>
-              <p>Fairness &amp; Accuracy in Reporting</p>
-            </daodesc>
-          </dao>
-        </did>
-        <scopecontent id="aspace_298e34e64fd7fe569dee6e522b84442d">
-          <head>Scope and Content Note</head>
-          <p>FAIR (Fairness &amp; Accuracy in Reporting), a national media watch group, has been offering criticism of media bias and censorship since 1986. FAIR advocates greater diversity in the press, structural reform in the media, and works to expose neglected news stories. FAIR publishes Extra!, a magazine of media criticism, and produces the weekly radio program CounterSpin. In addition, they have a listserv through which they distribute regular action alerts to their international network of activists.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+    <container altrender="Manuscript box - Legal" id="aspace_49cee8a7ca71f1373bd6992aa73e619b" label="Mixed Materials [31142062765493]" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_6dfd14542e1408ccf279d40137ec1c19">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a3d38e7d979ae500f582dd16759538d7">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Fairness and Accuracy in Reporting (FAIR) in 1994. The accession number associated with this collection is 1994.005.</p>  </acqinfo>
+  <arrangement id="aspace_f71edd61256f269d59bde10b4eef0322">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically.</p>  </arrangement>
+  <bioghist id="aspace_62df27c94eddb5aff10e753f2f4cb8eb">
+    <head>Historical/Biographical Note</head>
+<p>Fairness and Accuracy in Reporting (FAIR), a progressive media watch organization that works with journalists and activists, was founded in 1986 by journalist Jeff Cohen. FAIR publishes <title render="italic">Extra!</title>, a magazine of media criticism, and produces <title render="italic">Counterspin</title>, a radio news program. FAIR conducts media research, produces reports (notably through its Womens' Desk and Racism Watch Desk units), opposes censorship, and advocates for greater diversity and representation of minority viewpoints. FAIR believes that structural reform is ultimately needed to break up the dominant media conglomerates, to establish independent public broadcasting, and to promote strong non-profit sources of information.</p>  </bioghist>
+  <custodhist id="aspace_1f96ec6e1fc16179c68abfe662b429f0">
+    <head>Custodial History</head>
+<p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>  </custodhist>
+  <prefercite id="aspace_b6b642553243aa3bd69f2864d43aa1d7">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Fairness and Accuracy in Reporting (FAIR) Records; TAM 282; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <processinfo id="aspace_89373d1e54ef120a60b6b8c57ca9db8b">
+    <head>Processing Information</head>
+<p>In 2014, the archived website was added as a series.</p>  </processinfo>
+  <scopecontent id="aspace_7613935955c27dd5b656afbb8e87e9b6">
+    <head>Scope and Content Note</head>
+<p>This collection contains correspondence (mostly that of Jeff Cohen), internal documents, reports and studies, editorial material pertaining to <emph render="italic">Extra!</emph>, back issues (1992) of <title render="italic">Counterspin: A Memo on Campaign Coverage from FAIR</title>, published and unpublished writings by Jeff Cohen and others, a file on FAIR's Los Angeles chapter, and another on related organizations.</p>  </scopecontent>
+  <phystech id="aspace_48460234e15b840b47b132d0809ad94f">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Due to technical or privacy issues, archived websites may not be exact copies of the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>  </phystech>
+  <userestrict id="aspace_5e02586980935173f156746c1f5de796">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Fairness and Accuracy in Reporting (FAIR) was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Reports.</genreform>
+    <genreform source="aat">Writings (document genre)</genreform>
+    <subject source="lcsh">Mass media criticism |z United States.</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <corpname authfilenumber="(lccn)no89007170" source="naf">Fairness &amp; Accuracy in Reporting (Organization)</corpname>
+    <persname source="naf">Cohen, Jeff, 1951-</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Records</unittitle></did><c id="aspace_ref12" level="file"><did><unittitle>Cohen, Jeff: Writings</unittitle><unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_facb98007383c1b28aa4590bc1ead1b3" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_64e85d047624e3de490bd975fbff8485" parent="aspace_facb98007383c1b28aa4590bc1ead1b3" type="Folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1983/1993" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c7b9f64fbe81907065e47216c72d480e" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_0e8b937943eb25bbcd9509c40bec57e6" parent="aspace_c7b9f64fbe81907065e47216c72d480e" type="Folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ab7fb94d48e61f8b82d95273d1a0f28" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_c3746ced6ea21b7a0076d0908a49a6b0" parent="aspace_0ab7fb94d48e61f8b82d95273d1a0f28" type="Folder">3</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ca4bb3432ec26ecf8ee2a1d84602297" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_e6d2c42557fa7e2f786824ad7c96f552" parent="aspace_2ca4bb3432ec26ecf8ee2a1d84602297" type="Folder">4</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_85e287b9574fe6dd463b210c9d5db35d" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_a0d029e3f28a284a61400c75d8244b60" parent="aspace_85e287b9574fe6dd463b210c9d5db35d" type="Folder">5</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate><container altrender="Manuscript box - Legal" id="aspace_2dcf3e84a2bde0a41f92ff8529900141" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_80c406aa6387ad48893c42d9c86f748b" parent="aspace_2dcf3e84a2bde0a41f92ff8529900141" type="Folder">6</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_8f1214ec9dc6c06c05f5b9b73a46bd0a" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_17e6e603882d96613ce69e940fd8f5f9" parent="aspace_8f1214ec9dc6c06c05f5b9b73a46bd0a" type="Folder">7</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_d8d38a64ccf7e756d61801f89657f739" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_55bad911f3a4f152f08c3e6944f611ca" parent="aspace_d8d38a64ccf7e756d61801f89657f739" type="Folder">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence: ABC</unittitle><unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate><container altrender="Manuscript box - Legal" id="aspace_50054f183a6459e9ead1a6aec19ef2aa" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_f0c9456d20f26f97fc6baa8582e61d8c" parent="aspace_50054f183a6459e9ead1a6aec19ef2aa" type="Folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence: PBS</unittitle><unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate><container altrender="Manuscript box - Legal" id="aspace_284c4a2b487f96de850777bf04a21dd7" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_42df9223bd1de58c54e9c808bc510d77" parent="aspace_284c4a2b487f96de850777bf04a21dd7" type="Folder">10</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><title render="italic">Counterspin: A Memo on Campaign Coverage from FAIR</title></unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_61ea84602f4b33da51ef4dfd5f65088c" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_141018fdee9b16fbea5bb7e5542dcad4" parent="aspace_61ea84602f4b33da51ef4dfd5f65088c" type="Folder">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Documents, Ephemera, Clippings</unittitle><unitdate datechar="creation" normal="1983/1993" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_334a85891e9c9d67d62b2b18a9eeb0b4" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_c95951c3a5b89578344dd5b9f59ab844" parent="aspace_334a85891e9c9d67d62b2b18a9eeb0b4" type="Folder">12</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Documents, Ephemera, Clippings</unittitle><unitdate datechar="creation" normal="1986/1993" type="inclusive">1986-1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_d5f0c11344eab6ee556c520201533efe" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_92c372cdc0e7cc33f3dc45d74e374703" parent="aspace_d5f0c11344eab6ee556c520201533efe" type="Folder">13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Extra! (Editorial Material)</unittitle><unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_ded6a723abab17e4ac3a53edbf12b34d" label="Mixed Materials [31142062765493]" type="Box">1</container><container id="aspace_6a92b1d988e965727207c968f1fe4635" parent="aspace_ded6a723abab17e4ac3a53edbf12b34d" type="Folder">14</container></did></c><c id="aspace_ref26" level="file"><did><unittitle><title render="italic">Faces of War</title>(Documentary on Central America) <title render="italic"></title></unittitle><unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e1c00d5e519aa2e8aea5a075267f00a0" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_3224fdd29ee5b8711e1648b4515983fe" parent="aspace_e1c00d5e519aa2e8aea5a075267f00a0" type="Folder">1</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>FAIR: Los Angeles Chapter</unittitle><unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e85cfe5f287ebd3230303e2506f78cc6" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_8897ed31674352ba726d89cc9889bb57" parent="aspace_e85cfe5f287ebd3230303e2506f78cc6" type="Folder">2</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Founding of FAIR / Initial Activities</unittitle><unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e54ec4f258652dbc686c7e07b6f0c1bd" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_bbcdbf53a418bda321bd98daf9c56333" parent="aspace_e54ec4f258652dbc686c7e07b6f0c1bd" type="Folder">3</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Related Organizations</unittitle><unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d54b561cd28d7560c93a6bd5f2d1bd89" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_4747f6d71de800f41c31c41363d1b7e5" parent="aspace_d54b561cd28d7560c93a6bd5f2d1bd89" type="Folder">4</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Report: Are You on the <title render="italic">Nightline</title> Guest List?</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e1b39d703f72017cc672b0c495bc1715" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_7679b8c18f2fabbdc826f06dbffd1648" parent="aspace_e1b39d703f72017cc672b0c495bc1715" type="Folder">5</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Report: Lost in the Margins: Labor &amp; the Media</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9935ee541286f4906262459354b1396e" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_286c7f361aa53a9f62baef1a4efe20a3" parent="aspace_9935ee541286f4906262459354b1396e" type="Folder">6</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Report (to FAIR): Network Television &amp; Newspaper Coverage of the Environment Since Earth Day 1990</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_57b1cf5cf5aaf22cf198a313718a89fb" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_81eb4bb5443cedfccfd66f18f424bbe4" parent="aspace_57b1cf5cf5aaf22cf198a313718a89fb" type="Folder">7</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Report: Public Television "Prime Time": Public Affairs Programming, Political Diversity, &amp; the Conservative Critique of Public Television, by David Croteau, et al</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dd64dfe9667c586e14568902ff9556df" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_c4ad0962c6f88e3f5ee6b8c1bcc8de0f" parent="aspace_dd64dfe9667c586e14568902ff9556df" type="Folder">8</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>"Safire, William" - by Robert Ranflet</unittitle><unitdate datechar="creation" normal="1983/1993" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8312134efc69a973bd05fdcf144fcfa5" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_cf49d2e9efdabef8d97700e26e19ba0e" parent="aspace_8312134efc69a973bd05fdcf144fcfa5" type="Folder">9</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Women &amp; Media Activism Kit</unittitle><unitdate datechar="creation" normal="1983/1993" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7005b8702111f84f811a8b63146e19d3" label="Mixed Materials [31142062765501]" type="Box">2</container><container id="aspace_7d9d21703148ebcc6a0241c1376982fe" parent="aspace_7005b8702111f84f811a8b63146e19d3" type="Folder">10</container></did></c></c><c id="aspace_ref39" level="series"><did><unittitle>Archived Website</unittitle><unitdate datechar="creation">Oct 2, 2007-ongoing</unitdate><dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6334/*/http://fair.org/" xlink:role="external-link" xlink:show="new" xlink:title="Fairness &amp; Accuracy in Reporting" xlink:type="simple"><daodesc><p>Fairness &amp; Accuracy in Reporting</p></daodesc></dao></did><scopecontent id="aspace_298e34e64fd7fe569dee6e522b84442d"><head>Scope and Content Note</head><p>FAIR (Fairness &amp; Accuracy in Reporting), a national media watch group, has been offering criticism of media bias and censorship since 1986. FAIR advocates greater diversity in the press, structural reform in the media, and works to expose neglected news stories. FAIR publishes Extra!, a magazine of media criticism, and produces the weekly radio program CounterSpin. In addition, they have a listserv through which they distribute regular action alerts to their international network of activists.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>

@@ -1,284 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_374">mss_374</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Fales Zine Collection <num>MSS.374</num></titleproper>
-        <author>Megan O'Shea</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>December 2020</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:47:17 -0500</date>.</creation>
-      <langusage>Description is in English.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Fales Zine Collection</unittitle>
-      <origination label="Creator">
-        <corpname source="naf">Fales Library</corpname>
-      </origination>
-      <unitid>MSS.374</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-        <extent altrender="carrier">in 1 manuscript box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1990/2013" type="inclusive">1990-2013</unitdate>
-      <abstract id="aspace_bcd309c90c5e378d988615e55f1ffeb5">The Fales Zine Collection includes zines donated to the Fales Library &amp; Special Collections and zines created through various projects.  The collection was created by the Fales Library &amp; Special Collections to house the zines in its collections that did not belong to any collection already.</abstract>
-      <langmaterial id="aspace_3d2ae52243f24e34e01167d911b5dc23">Materials are in English.</langmaterial>
-    </did>
-    <arrangement id="aspace_14fc7690f2b4ad2a4bc0262b21f62b40">
-      <head>Arrangement</head>
-      <p>This collection is arranged in four series by topic, Series I: Zines by NYU Students, Series II: People of Color Zine Project, Series III: Zines by PACE University Students, and Series IV: Various Zine Donations.</p>
-    </arrangement>
-    <bioghist id="aspace_ddce293e57777c5f4b57dfc0a1884fa0">
-      <head>Historical note</head>
-      <p>The collection was created by the Fales Library &amp; Special Collections to house the zines in its collections that did not belong to any collection already.</p>
-    </bioghist>
-    <accessrestrict id="aspace_5607d2dc4abb16f97e14ccbffb407fcc">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_f211099923c2e7b0b53f707b2f581a57">
-      <head>Conditions Governing Use</head>
-      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Fales Library &amp; Special Collections is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-    </userestrict>
-    <acqinfo id="aspace_061bbff5fb799e437b3c809629a3f94a">
-      <head>Immediate Source of Acquisition</head>
-      <p>No information was recorded about the acquisition of the materials in this collection.</p>
-    </acqinfo>
-    <prefercite id="aspace_e15d2d4bf4d916f4ee5ff9763da0bfb8">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Fales Zine Collection; MSS.374; box number; folder number; Fales Library &amp; Special Collections, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_68f2b471f549fd93986979cdcf48cf41">
-      <head>Processing Information</head>
-      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2020 are unknown. In 2020 the collection level description was updated for compliance with DACS and ACM Required Elements for Archival Description.</p>
-    </processinfo>
-    <scopecontent id="aspace_3b3c98d3370c235bb5a3c393977999c6">
-      <head>Scope and Contents</head>
-      <p>The Fales Zine Collection includes zines donated to the Fales Library &amp; Special Collections and zines created through various projects.  The collection includes zines created in response to courses taught at Fales by New York University and Pace University students, zines created through the People of Color Zine Project, and zines donated to Fales through other means.</p>
-    </scopecontent>
-    <controlaccess>
-      <genreform source="lcsh">Zines</genreform>
-      <subject source="lcsh">Zine libraries.</subject>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref1" level="series">
-        <did>
-          <unittitle>Series I: Zines by NYU Students</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-            <extent altrender="carrier">in 1 folder</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1990/2013" type="inclusive">Undated</unitdate>
-        </did>
-        <c id="aspace_ref4" level="subseries">
-          <did>
-            <unittitle>Subseries A: Zines by Jonathan Berger's Students</unittitle>
-          </did>
-          <c id="aspace_ref12" level="file">
-            <did>
-              <unittitle>Jonathan Berger's Class</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Manuscript box - Letter" id="aspace_7f02c380387a71a6af491bbeb63f60c2" label="Mixed Materials [31142063601663]" type="Box">1</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="aspace_ref7" level="series">
-        <did>
-          <unittitle>Series II: People of Color Zine Project</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">.02 Linear Feet</extent>
-            <extent altrender="carrier">in 7 folders</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="2004/2012" type="inclusive">2004-2012</unitdate>
-        </did>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Anarchist Panther</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_a8b9b7ae5d97be999648cf10b0afec3a" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Our Culture, Our Resistance, Vol. 1 and 2</unittitle>
-            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_71f865a4efebba4d0684f3011760cf4e" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Workin' On It!: Anarchist People of Color &amp; US Election '08</unittitle>
-            <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_99ba4927b22d76e759015fc8909a4346" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Workin' On It!: Occupy the Hood...</unittitle>
-            <unitdate datechar="creation" normal="2011/2011" type="inclusive">[2011]</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_9b97fe2e658c942701804b32e80c1dd2" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Workin' On It!: People of Color Experience Occupy Wall Street, #1, 2</unittitle>
-            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_5da069b25a19d0157326144cc30908fd" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Workin' On It: Ways to Tokenize/Alienate a Non-White Person</unittitle>
-            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_094a97d9ae17d1207701199e8111aa43" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Workin' On It!: We Activate! We Agitate! Womyn of Color Occupy Wall Street &amp; Beyond! 2</unittitle>
-            <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_4af739002dbc43ad5fcec5a16abc6594" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref2" level="series">
-        <did>
-          <unittitle>Series III: Zines by PACE University Students</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
-            <extent altrender="carrier">in 5 folders</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="2012/2012">2012</unitdate>
-        </did>
-        <c id="aspace_ref5" level="subseries">
-          <did>
-            <unittitle>Subseries A: Zines by Stephanie Hsu's Students</unittitle>
-          </did>
-          <c id="aspace_ref8" level="file">
-            <did>
-              <unittitle>I Am Not Sorry</unittitle>
-              <unitdate datechar="creation" normal="2012/2012" type="inclusive">[2012]</unitdate>
-              <container altrender="Manuscript box - Letter" id="aspace_0df82c1253322315f34cc83d070c2752" label="Mixed Materials [31142063601663]" type="Box">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref9" level="file">
-            <did>
-              <unittitle>I Just Want Back Into Your Mind</unittitle>
-              <unitdate datechar="creation" normal="2012/2012" type="inclusive">[2012]</unitdate>
-              <container altrender="Manuscript box - Letter" id="aspace_5714f6f8cc17f2cb654caba799370a1c" label="Mixed Materials [31142063601663]" type="Box">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref26" level="file">
-            <did>
-              <unittitle>Menstruate: Librarians and Archivists Keep the Information Flowing</unittitle>
-              <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
-              <container altrender="Manuscript box - Letter" id="aspace_a16ec9ebe66c5d80f73a584e2aef34b0" label="Mixed Materials [31142063601663]" type="Box">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref10" level="file">
-            <did>
-              <unittitle>Queird</unittitle>
-              <unitdate datechar="creation" normal="2012/2012" type="inclusive">[2012]</unitdate>
-              <container altrender="Manuscript box - Letter" id="aspace_80437ee4b2cb6283ea969b5203425ae8" label="Mixed Materials [31142063601663]" type="Box">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref11" level="file">
-            <did>
-              <unittitle>The True Diary of a Part Time Pussy Lover</unittitle>
-              <unitdate datechar="creation" normal="2012/2012" type="inclusive">[2012]</unitdate>
-              <container altrender="Manuscript box - Letter" id="aspace_793351aa2a797850ff50d2de037515e8" label="Mixed Materials [31142063601663]" type="Box">1</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="aspace_ref3" level="series">
-        <did>
-          <unittitle>Series IV: Various Zine Donations</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
-            <extent altrender="carrier">in 9 folders</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="2010/2013" type="inclusive">2010-2013</unitdate>
-        </did>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Barnard Zine Library Zine</unittitle>
-            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_b06a42472ab39c8506b10dadcc6ca36c" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>A Brief History of the 23rd Precinct</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_c7d1bc3aedb0a7d0604a7dd324271ca2" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Mayday 1971 or, How to Lose Street Battles and Alienate People</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_d3ea060aa6c4c7814ed8cf70e3681b5c" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>The Pressure To Be Happy</unittitle>
-            <unitdate datechar="creation" normal="2013/2013" type="inclusive">June, 2013</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_d8119a203e95afda314f6ec45a7447f0" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Riot Control</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_2ae7f4f01907e39e0cfda461172353d2" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Tiny Magical Adventures, Volume 1</unittitle>
-            <unitdate datechar="creation" normal="2010/2010" type="inclusive">December, 2010</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_bf45c1a17d0538c5ffea38f8a43771de" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Static Zine, Toronto's Arts and Culture Magazine, Issue # 7</unittitle>
-            <unitdate datechar="creation" normal="2013/2013" type="inclusive">June, 2013</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_28269dd97172b813f2a2895a62715ac9" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Superstorm Sandy and New York City's Dark Recovery or, Things to be Seized During the Coming Insurrection</unittitle>
-            <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_a6c0b575a43bf847647d48306bd2fa51" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Zine-O-File</unittitle>
-            <unitdate datechar="creation" normal="2013/2013" type="inclusive">Summer 2013</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_7f177b1c3d61f81fbd0129e2b0c4891b" label="Mixed Materials [31142063601663]" type="Box">1</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_374">mss_374</eadid><filedesc><titlestmt><titleproper>Guide to the Fales Zine Collection <num>MSS.374</num></titleproper><author>Megan O'Shea</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>December 2020</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:58:27 -0500</date>.</creation><langusage>Description is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Fales Zine Collection</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n50071701" source="naf">Fales Library</corpname>
+    </origination>
+    <unitid>MSS.374</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1990/2013" type="inclusive">1990-2013</unitdate>
+    <abstract id="aspace_bcd309c90c5e378d988615e55f1ffeb5">The Fales Zine Collection includes zines donated to the Fales Library &amp; Special Collections and zines created through various projects.  The collection was created by the Fales Library &amp; Special Collections to house the zines in its collections that did not belong to any collection already.</abstract>
+    <langmaterial id="aspace_3d2ae52243f24e34e01167d911b5dc23">Materials are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_14fc7690f2b4ad2a4bc0262b21f62b40">
+    <head>Arrangement</head>
+<p>This collection is arranged in four series by topic, Series I: Zines by NYU Students, Series II: People of Color Zine Project, Series III: Zines by PACE University Students, and Series IV: Various Zine Donations.</p>  </arrangement>
+  <bioghist id="aspace_ddce293e57777c5f4b57dfc0a1884fa0">
+    <head>Historical note</head>
+<p>The collection was created by the Fales Library &amp; Special Collections to house the zines in its collections that did not belong to any collection already.</p>  </bioghist>
+  <accessrestrict id="aspace_5607d2dc4abb16f97e14ccbffb407fcc">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_f211099923c2e7b0b53f707b2f581a57">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Fales Library &amp; Special Collections is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <acqinfo id="aspace_061bbff5fb799e437b3c809629a3f94a">
+    <head>Immediate Source of Acquisition</head>
+<p>No information was recorded about the acquisition of the materials in this collection.</p>  </acqinfo>
+  <prefercite id="aspace_e15d2d4bf4d916f4ee5ff9763da0bfb8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Fales Zine Collection; MSS.374; box number; folder number; Fales Library &amp; Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_68f2b471f549fd93986979cdcf48cf41">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2020 are unknown. In 2020 the collection level description was updated for compliance with DACS and ACM Required Elements for Archival Description.</p>  </processinfo>
+  <scopecontent id="aspace_3b3c98d3370c235bb5a3c393977999c6">
+    <head>Scope and Contents</head>
+<p>The Fales Zine Collection includes zines donated to the Fales Library &amp; Special Collections and zines created through various projects.  The collection includes zines created in response to courses taught at Fales by New York University and Pace University students, zines created through the People of Color Zine Project, and zines donated to Fales through other means.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="lcsh">Zines</genreform>
+    <subject source="lcsh">Zine libraries.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Zines by NYU Students</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent><extent altrender="carrier">in 1 folder</extent></physdesc><unitdate datechar="creation" normal="1990/2013" type="inclusive">Undated</unitdate></did><c id="aspace_ref4" level="subseries"><did><unittitle>Subseries A: Zines by Jonathan Berger's Students</unittitle></did><c id="aspace_ref12" level="file"><did><unittitle>Jonathan Berger's Class</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_e1bd246f6178b004075c555a63769caf" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c></c></c><c id="aspace_ref7" level="series"><did><unittitle>Series II: People of Color Zine Project</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">.02 Linear Feet</extent><extent altrender="carrier">in 7 folders</extent></physdesc><unitdate datechar="creation" normal="2004/2012" type="inclusive">2004-2012</unitdate></did><c id="aspace_ref18" level="file"><did><unittitle>Anarchist Panther</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_756468015e725d2e3e887f70cf2f5acb" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Our Culture, Our Resistance, Vol. 1 and 2</unittitle><unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate><container altrender="Manuscript box - Letter" id="aspace_88a0a60d160471af81c16cd38b37d57e" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Workin' On It!: Anarchist People of Color &amp; US Election '08</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate><container altrender="Manuscript box - Letter" id="aspace_6bbb647f6510bd792c4bd5bc629887d5" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Workin' On It!: Occupy the Hood...</unittitle><unitdate datechar="creation" normal="2011/2011" type="inclusive">[2011]</unitdate><container altrender="Manuscript box - Letter" id="aspace_c15211d0dc2442170d36e5672983ff66" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Workin' On It!: People of Color Experience Occupy Wall Street, #1, 2</unittitle><unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_731413e3aa0960b6b260c663b94510e2" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Workin' On It: Ways to Tokenize/Alienate a Non-White Person</unittitle><unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate><container altrender="Manuscript box - Letter" id="aspace_2660e48ee255c6a8f6aaa34a96d41326" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Workin' On It!: We Activate! We Agitate! Womyn of Color Occupy Wall Street &amp; Beyond! 2</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate><container altrender="Manuscript box - Letter" id="aspace_0a7b44bdc1aaf32814763087672db11a" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c></c><c id="aspace_ref2" level="series"><did><unittitle>Series III: Zines by PACE University Students</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent><extent altrender="carrier">in 5 folders</extent></physdesc><unitdate datechar="creation" normal="2012/2012">2012</unitdate></did><c id="aspace_ref5" level="subseries"><did><unittitle>Subseries A: Zines by Stephanie Hsu's Students</unittitle></did><c id="aspace_ref8" level="file"><did><unittitle>I Am Not Sorry</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">[2012]</unitdate><container altrender="Manuscript box - Letter" id="aspace_09e5ee7d0cbb92cba9a00e975aab07b3" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>I Just Want Back Into Your Mind</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">[2012]</unitdate><container altrender="Manuscript box - Letter" id="aspace_7da6f031310bbb79d025ff43c68f65f4" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Menstruate: Librarians and Archivists Keep the Information Flowing</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate><container altrender="Manuscript box - Letter" id="aspace_dd814bda45917a1172ce52ba00621cb8" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Queird</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">[2012]</unitdate><container altrender="Manuscript box - Letter" id="aspace_4bbf3608bf681e0111652c8d3e8adcf3" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>The True Diary of a Part Time Pussy Lover</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">[2012]</unitdate><container altrender="Manuscript box - Letter" id="aspace_4083f91ef7cdcf07cce5301ba2808805" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c></c></c><c id="aspace_ref3" level="series"><did><unittitle>Series IV: Various Zine Donations</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent><extent altrender="carrier">in 9 folders</extent></physdesc><unitdate datechar="creation" normal="2010/2013" type="inclusive">2010-2013</unitdate></did><c id="aspace_ref13" level="file"><did><unittitle>Barnard Zine Library Zine</unittitle><unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_eed8515992f482d8d706216f6b231f4b" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>A Brief History of the 23rd Precinct</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_e140845aac361ed0453bf4a9506e4839" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Mayday 1971 or, How to Lose Street Battles and Alienate People</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_f82dbc61e374a84b2577baaf186ba52f" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>The Pressure To Be Happy</unittitle><unitdate datechar="creation" normal="2013/2013" type="inclusive">June, 2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_ac75d4b1604fa44ee5fdcb8716fe8dd4" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Riot Control</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_0ceac13522b1ec3a73941f88210a84b7" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Tiny Magical Adventures, Volume 1</unittitle><unitdate datechar="creation" normal="2010/2010" type="inclusive">December, 2010</unitdate><container altrender="Manuscript box - Letter" id="aspace_fc1303b68aec4d0230d0e4a9d972d89d" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Static Zine, Toronto's Arts and Culture Magazine, Issue # 7</unittitle><unitdate datechar="creation" normal="2013/2013" type="inclusive">June, 2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_e216ead4db814d39130e2530254d72e5" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Superstorm Sandy and New York City's Dark Recovery or, Things to be Seized During the Coming Insurrection</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate><container altrender="Manuscript box - Letter" id="aspace_cd8675a12ac9d9f8ba1797416487a2a1" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Zine-O-File</unittitle><unitdate datechar="creation" normal="2013/2013" type="inclusive">Summer 2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_bd17b5376a209b34bbe5cd76f4642b20" label="Mixed Materials [31142063601663]" type="Box">1</container></did></c></c></dsc>
+</archdesc>
 </ead>

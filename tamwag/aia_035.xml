@@ -1,500 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>aia_035</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Aisling Irish Community Center Oral History Collection <num>AIA.035</num></titleproper>
-        <author>Rebecca Altermatt</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:24:19 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Aisling Irish Community Center Oral History Collection</unittitle>
-      <origination label="Creator">
-        <corpname source="local">Aisling Irish Community Center</corpname>
-      </origination>
-      <unitid>AIA.035</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
-      <abstract id="aspace_28f7abf34ed715ec4d88ba388fce1c1a">This collection of oral histories and the resulting publication,  "When Mem'ry Brings Us Back Again" describe life for newly arrived immigrants in New York City in the 1950s and 1960s. The impetus for the project was a creative writing class run at the Aisling irish Community Center.</abstract>
-      <langmaterial id="aspace_447dda65ae69591f3b5915c8954fd10d">Materials are in English</langmaterial>
-    </did>
-    <prefercite id="aspace_135d58eaade967bf4b4a6df252ac13a5">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Archives of Irish America, Tamiment Library <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <userestrict id="aspace_1054d424c894d000d5cc92b0bd7621dd">
-      <head>Use Restrictions</head>
-      <p>Permission to publish materials must be obtained in writing from the: <lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_035">aia_035</eadid><filedesc><titlestmt><titleproper>Guide to the Aisling Irish Community Center Oral History Collection <num>AIA.035</num></titleproper><author>Rebecca Altermatt</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:46:36 -0500</date>.</creation><langusage>Description is in English</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Aisling Irish Community Center Oral History Collection</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Aisling Irish Community Center</corpname>
+    </origination>
+    <unitid>AIA.035</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+    <abstract id="aspace_28f7abf34ed715ec4d88ba388fce1c1a">This collection of oral histories and the resulting publication,  "When Mem'ry Brings Us Back Again" describe life for newly arrived immigrants in New York City in the 1950s and 1960s. The impetus for the project was a creative writing class run at the Aisling irish Community Center.</abstract>
+    <langmaterial id="aspace_447dda65ae69591f3b5915c8954fd10d">Materials are in English</langmaterial>
+  </did>
+  <prefercite id="aspace_135d58eaade967bf4b4a6df252ac13a5">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Archives of Irish America, Tamiment Library <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <userestrict id="aspace_1054d424c894d000d5cc92b0bd7621dd">
+    <head>Use Restrictions</head>
+<p>Permission to publish materials must be obtained in writing from the: <lb/>
 Archives of Irish America, Tamiment Library <lb/>
 Elmer Holmes Bobst Library <lb/>
 70 Washington Square South <lb/>
 New York, NY 10012 <lb/>
 Phone: (212) 998-2630 <lb/>
 Fax: (212) 995-4225 <lb/>
-E-mail: tamiment.wagner@nyu.edu <lb/></p>
-    </userestrict>
-    <accessrestrict id="aspace_3fcd1f98a3d6e159b4b68ba6c589f1cc">
-      <head>Access Restrictions</head>
-      <p>Open for research without restrictions.</p>
-    </accessrestrict>
-    <arrangement id="aspace_e035ffccad3d5539e7d8db6df741f580">
-      <head>Arrangement</head>
-      <p>Collection is arranged into one alphabetical series</p>
-    </arrangement>
-    <bioghist id="aspace_bd82950e595f5b4abcdb4ca644023e69">
-      <head>Historical/Biographical Note</head>
-      <p>The Aisling Irish Community Center is located in Yonkers, New York.  Established in 1996, the Center serves to assist Irish immigrants moving to the United States, much like the Emerald Isle Immigration Center in Woodside, Queens. The Aisling Center also provides services for the elderly Irish and Irish-American community in Yonkers and Woodlawn. This project of recording memories evolved from a program at the Center for Seniors called "Young at Heart."  Staff member Frances Browner initiated a creative writing class which focused on different themes and memories of the participants.  From the exercise the idea of recording the stories and creating the narrative was formed.  The result is the book <emph render="italic">While Mem'ry Brings us Back Again</emph>.</p>
-      <p>The participants tell of coming to America, the different ships they took, their impressions of New York - the weather, the tall buildings, navigating the subway, electricity and indoor plumbing - their first jobs, their friendships and social activities, and their homesickness.  For many, leaving to come to America was also the first time they had ever been out of their hometown.  Some came voluntarily; others were chosen or sent by a family member.</p>
-    </bioghist>
-    <relatedmaterial id="aspace_2101f41127a3c58a4dd42db894fde0c2">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>Ireland House Oral History Colletion AIA 030</item>
-        <item>Jane Conlon Muller Oral History Collection AIA 012</item>
-        <item>Miriam Nyhan Oral History Collection AIA 036</item>
-      </list>
-    </relatedmaterial>
-    <scopecontent id="aspace_c42997d0d540050d03515d0af99a2454">
-      <head>Scope and Contents</head>
-      <p>The collection consists of interviews conducted with Irish immigrants by Frances Browner in 2006 for the book "When Mem'ry Brings Us Back Again."  A copy of the book is included with the collection.  Interviews are recorded on compact disk, also included in the collection.  Oftentimes, the recordings were made in public places such as restaurants or bars, and the clarity has been compromised because of the background noise.  The interviews were transcribed into narratives which comprise the book.</p>
-      <p>Interviewees describe their trips to America, usually by ship; sometimes by airplane.  First jobs, for the women oftentimes at Shrafts, a restaurant chain in Manhattan, the telephone company, with mass transit, for B. Dalton, a department store, as a professional musician and employed by wealthy families as domestic workers are discussed as are reminisces of social activities and outings.  </p>
-      <p>When available, duration of interviews is recorded and is included in the container list.</p>
-    </scopecontent>
-    <custodhist id="aspace_474a4165660a8bc66b9ffb0bf49fa8a2">
-      <head>Provenance</head>
-      <p>Transcripts and copies of original audio recordings along with a copy of the resulting publication "When Mem'ry Brings Us Back Again" were donated to the Archives of Irish America in 2006.</p>
-    </custodhist>
-    <processinfo id="aspace_b3122d982424d67c2f108555171b19a2">
-      <head>Processing Information</head>
-      <p>In 2014, the archived websites were added as a series.</p>
-    </processinfo>
-    <custodhist id="aspace_aef31f5459d4c7ff64fa6412e694bcbc">
-      <head>Custodial History</head>
-      <p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>
-    </custodhist>
-    <controlaccess>
-      <genreform source="aat">Oral histories (literary works)</genreform>
-      <genreform source="aat">CD-ROMs.</genreform>
-      <subject source="lcsh">Immigrants -- United States.</subject>
-      <subject source="lcsh">Oral history.</subject>
-      <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
-      <subject source="lcsh">Irish Americans -- Social life and customs.</subject>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref8" level="series">
-        <did>
-          <unittitle>Printed Materials and Research</unittitle>
-          <unitdate datechar="creation">2006</unitdate>
-        </did>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>
-              <emph render="italic">While Mem'ry Brings us Back Again: A Collection of Memoirs</emph>
-            </unittitle>
-            <unitdate datechar="creation">2006</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_35c4323c02ace00b056a9efd3fb1982d" label="Mixed Materials [31142062771095]" type="Box">1</container>
-            <container id="aspace_4f80e3f75106d460b72eec6ec0205af4" parent="aspace_35c4323c02ace00b056a9efd3fb1982d" type="CD">data_value_missing_f02aa5db1c3af91b517f9261b832a12f</container>
-          </did>
-        </c>
-        <c id="aspace_ref10" level="file">
-          <did>
-            <unittitle>Miscellaneous Extracts compiled for "While Mem'ry Brings us Back Again" or Fran Brownwer's Creative Writing Class</unittitle>
-            <unitdate datechar="creation">2006</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_1846d8faae3c2ae8fad74716a18b35a5" label="Mixed Materials [31142062771095]" type="Box">1</container>
-            <container id="aspace_a77cb1b2d9b83f2618d9ca3ee1c41a8a" parent="aspace_1846d8faae3c2ae8fad74716a18b35a5" type="CD">data_value_missing_196ee64c8e66c305d0deb81e73676c28</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Miscellaneous Extracts compiled for <emph render="italic">While Mem'ry Brings us Back Again</emph> or Fran Brownwer's Creative Writing Class on CD</unittitle>
-            <unitdate datechar="creation">2006</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_8159f49056fc7fc99dd06c4b417f890a" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_ba64cbc825585132dd5583356b52ce13" parent="aspace_8159f49056fc7fc99dd06c4b417f890a" type="CD">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Aisling Project Photos by Nuala Purcell CD-1. Contains images of interviewees in book and some events</unittitle>
-            <unitdate datechar="creation">2006</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_c1fad317f0412fd4225f5854377ec330" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_ff861cbc295e036c521e483a4b0e80d0" parent="aspace_c1fad317f0412fd4225f5854377ec330" type="CD">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Aisling Project Photos by Nuala Purcell CD-2  (2 copies)
-Contains images of Rose McGurk, Oliver O'Donnell and Jimmy Clarke</unittitle>
-            <unitdate datechar="creation">2006</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_df59eb0300fce230a1b7f76ef8901eb9" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_ce97736194d86da57f34125972e867f1" parent="aspace_df59eb0300fce230a1b7f76ef8901eb9" type="CD">03, 03.1</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Aisling Project Photos: Carme Purcell</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_814e15bc4e46be52a31598095f7197ee" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_f6034f838cbb512c4c9a6781e25993d2" parent="aspace_814e15bc4e46be52a31598095f7197ee" type="CD">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Aisling Project Photos: Gaelic Park Crowd Shots</unittitle>
-            <unitdate datechar="creation">Oct 1, 2006</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_1a00a1bd9df2bfc70a8016a98d87ca6e" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_b586950fd8d77886f934f756824d60f1" parent="aspace_1a00a1bd9df2bfc70a8016a98d87ca6e" type="CD">5</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle>Interviews</unittitle>
-          <unitdate datechar="creation">2006</unitdate>
-        </did>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Burke, Bill: President: Country Bank, New York (file in unknown MSV format)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_1b462e659573e6bae400c6ecca870b48" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_d0ec99ea22a939408368f121d3ce4e41" parent="aspace_1b462e659573e6bae400c6ecca870b48" type="CD">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Butler, Chris: County Offaly - New York I</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_6ac1005c3f79f2c4e411a754c928ce11" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_a80ab3bfa9870013fde5336b7c9e2bbd" parent="aspace_6ac1005c3f79f2c4e411a754c928ce11" type="CD">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Butler, Chris: County Offaly - New York II</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_a0caab379f55d749031555ab77e300e4" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_ad7cc75fbe1a415af1d4b87f7ed5cd7e" parent="aspace_a0caab379f55d749031555ab77e300e4" type="CD">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Chambers, Jimmy and Anne I</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_c757ea851244f29403f644005a0b82f8" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_78c23ce7e8be7b73ce5000e787e9f7bb" parent="aspace_c757ea851244f29403f644005a0b82f8" type="CD">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Chambers, Jimmy and Anne II</unittitle>
-            <container altrender="Card Box - 6.5" id="aspace_d6a9948d886eec38fe5b7b14ef26d619" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_713cbf9a3a6bb72f4a8a6996a7ca4575" parent="aspace_d6a9948d886eec38fe5b7b14ef26d619" type="CD">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Clarke, Jimmy (b. 1906) Arrived New York 1927, County Galway; duration 23:55</unittitle>
-            <unitdate datechar="creation">Feb 2006</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_187d5a8d3a86125b912b287ec2098c12" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_3b5cc222ae9d31ddf8259c6eebf9e5d2" parent="aspace_187d5a8d3a86125b912b287ec2098c12" type="CD">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Connaughton, Terry; duration 36:44</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_1ae8dd8011c4624660f5b89f1b44d25c" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_337da330941f1cff1ec24cd1c2aed3c6" parent="aspace_1ae8dd8011c4624660f5b89f1b44d25c" type="CD">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="file">
-          <did>
-            <unittitle>Cregan, Jerry and Marian I</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_71b5020eff65bdc6c2e9de0cfa274d46" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_1914650a9f4449781da5bb958509e93a" parent="aspace_71b5020eff65bdc6c2e9de0cfa274d46" type="CD">40</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="file">
-          <did>
-            <unittitle>Cregan, Jerry and Marian II</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_8102252839022cdda20d749e9f6d2523" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_017441ad2a1e34942344b3a5d6b43ec2" parent="aspace_8102252839022cdda20d749e9f6d2523" type="CD">41</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Cremin, Mike, County Kerry - New York; duration 51:43</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_2894b631f8c0042704b34fcb6232e7e1" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_6e78ac298d88b89584b4c7cfc9359f5b" parent="aspace_2894b631f8c0042704b34fcb6232e7e1" type="Cassette">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Crowe, Therese, Tipperary - New York; duration 46:01</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ae2be170c8c0aa380eb45e6fbd4deabe" label="Computer Disks" type="CD">2</container>
-            <container id="aspace_899e9ee1415b287dca0e207d85016ffa" parent="aspace_ae2be170c8c0aa380eb45e6fbd4deabe" type="CD">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Cunningham, Joe;  duration 1:13:38</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_3fa10b2f8bb1caedfa284c2ff78e007a" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_1191f2e9950685c96a06df4e045c2c13" parent="aspace_3fa10b2f8bb1caedfa284c2ff78e007a" type="CD">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Cunningham, Rose; duration 12:12, WAV file </unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_b2fe95f5e60e4b16ebca06d6f33fe029" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_f01e3cd92956b637e7f2e194c4d3e1fb" parent="aspace_b2fe95f5e60e4b16ebca06d6f33fe029" type="Cassette">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Cunningham, Rose; duration 12:12, MPEG4 file </unittitle>
-            <container altrender="Card Box - 6.5" id="aspace_9cd516d42c83100519f1e29ecab1cfab" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_85893209d36028033f60e5125c0a9fb9" parent="aspace_9cd516d42c83100519f1e29ecab1cfab" type="CD">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Delaney, Agnes I</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_3efb01f5077c0925498be2bb89704d72" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_7f3a9b6047962a7c1e8743cdc3200c92" parent="aspace_3efb01f5077c0925498be2bb89704d72" type="CD">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Delaney, Agnes II</unittitle>
-            <container altrender="Card Box - 6.5" id="aspace_ab2a221263140ceecebad1f95950a288" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_713f17dd574d0bce29c6b1aa921cb6f9" parent="aspace_ab2a221263140ceecebad1f95950a288" type="CD">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Doyle, Julia: County Kilkenny (1951) New York; duration 50:01</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_57fa29ec2131516c1a894fd142c31ed2" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_eac34c620aba0e29b670d96c296acb2a" parent="aspace_57fa29ec2131516c1a894fd142c31ed2" type="CD">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Fleming, Sean I </unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_2120e55c88b393a5488d0e88bb2af8bc" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_33857c414332a44adeb4af077614634a" parent="aspace_2120e55c88b393a5488d0e88bb2af8bc" type="CD">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Fleming, Sean II</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_1eb34ef94c22cb1ae5a9944552c1ae8d" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_4204c82c19ba0d93978e7ec196df27d7" parent="aspace_1eb34ef94c22cb1ae5a9944552c1ae8d" type="CD">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Fleming, Sean III</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_4e7e3e61f5c19092dfeb1fe9c048dcec" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_894432b74dbb9785b86348836de213b7" parent="aspace_4e7e3e61f5c19092dfeb1fe9c048dcec" type="CD">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Glendon, Bridget: Donegal - New York</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_e3d44916a57889ef6d62cb10bf33e52d" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_c1dc94014bfb8a17e3f70e5970161834" parent="aspace_e3d44916a57889ef6d62cb10bf33e52d" type="CD">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>McCarrick, Thomas: County Sligo - New York; duration 6:13</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_48b20994d8526c48ecf6f268ecd5cf9e" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_343e3ee074fe25185db350217f37408f" parent="aspace_48b20994d8526c48ecf6f268ecd5cf9e" type="CD">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>McGurk, Rose: Derry, Arrived 1928 to New York I</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_bf919f389c651b98694cadf5b1aa3b10" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_f958f419bdf968ec87089fa9ace1ff8d" parent="aspace_bf919f389c651b98694cadf5b1aa3b10" type="CD">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>McGurk, Rose: Derry, Arrived 1928 to New York II</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_fa5c3851485103f26ae219e0b2d5162c" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_25667ebe6feb20a7410a0113bd33ccfc" parent="aspace_fa5c3851485103f26ae219e0b2d5162c" type="CD">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>McNamara, Theresa: Leitrim - New York; duration 53:16</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_774f54315ca2fbf49d60bcbe783301ae" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_4da2ec763f61f1759937aac5fb8d0672" parent="aspace_774f54315ca2fbf49d60bcbe783301ae" type="CD">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref54" level="file">
-          <did>
-            <unittitle>Mulcahey, Denis I</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_68ded324d798795ba2dec0b74e37b16a" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_ca569d90a688181df41a9ed3bea06438" parent="aspace_68ded324d798795ba2dec0b74e37b16a" type="CD">42</container>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="file">
-          <did>
-            <unittitle>Mulcahey, Denis II</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_4393e1e8cd2f3b7711471b76c298c3a9" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_5d9d62b91ce4dc0b893c9a5bfab9b025" parent="aspace_4393e1e8cd2f3b7711471b76c298c3a9" type="CD">43</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Murray, Patrick and Phil I; duration 58:65 (MP3 file converted to WAV on server)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_c705b5921960c5068ec6f4c3550a4b58" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_d7d14468522ca369019d8417f87e071d" parent="aspace_c705b5921960c5068ec6f4c3550a4b58" type="CD">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>Murray, Patrick and Phil I; duration 53:30 (MP3 file converted to WAV on server)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_73dd3077a3a7a1793f9e8837d03a06df" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_6ec1fa5d935895e0f415ef3939305bb8" parent="aspace_73dd3077a3a7a1793f9e8837d03a06df" type="Cassette">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>O'Donnell, Oliver; duration 44:16</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_2b5d295916b57990bae688757b3b456a" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_171af84a85a8d32a877255b20494adcc" parent="aspace_2b5d295916b57990bae688757b3b456a" type="CD">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>O'Halloran, Michael and Martin O'Malley; duration 1:05:15</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_7781103fe1873144cd46e0cfa3e9ed3f" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_769759e4ccfd43c1f95e79e7990e1f7a" parent="aspace_7781103fe1873144cd46e0cfa3e9ed3f" type="CD">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Purcell, Carmen: Belfast - New York; duration 29:12</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_78f1b919e743f0e9b6a216a64df82563" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_9af49cac16fe89f973eced43a1772ed6" parent="aspace_78f1b919e743f0e9b6a216a64df82563" type="CD">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY: Discuss the Dance 
-Halls (CD #1)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_986b8191ceb39f95f3c9436cfdc1b42f" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_777ecb842f3d381715310c1196f12be9" parent="aspace_986b8191ceb39f95f3c9436cfdc1b42f" type="CD">34</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY (CD #2)</unittitle>
-            <unitdate datechar="creation">Nov 2005</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_fd191207da3a28cbc398cbe51af294d4" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_f23e0156f2ecc8276b966f4722cd5855" parent="aspace_fd191207da3a28cbc398cbe51af294d4" type="CD">35</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY: Discuss Coming to 
-America (CD #3)</unittitle>
-            <unitdate datechar="creation">Nov 2005</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_56d1f0b9cf1633f7a55c8ac74d254dc9" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_a1bf4af043dd67855640374538fcd9c3" parent="aspace_56d1f0b9cf1633f7a55c8ac74d254dc9" type="CD">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="file">
-          <did>
-            <unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY: Discuss Shopping at
-Fordham Road (CD #4)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_014c6986077c471c670f3389ed461324" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_f641d4bfea5a44b1b58ac098de882162" parent="aspace_014c6986077c471c670f3389ed461324" type="CD">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="file">
-          <did>
-            <unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY (CD #5)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box - 6.5" id="aspace_95bc67fff05b51d422d0888b67a18dee" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_2e3bf4ef2426a5a7688e15165983399e" parent="aspace_95bc67fff05b51d422d0888b67a18dee" type="CD">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="file">
-          <did>
-            <unittitle>Young at Heart: Jpegs and Word documents, no audio </unittitle>
-            <container altrender="Card Box - 6.5" id="aspace_18aebf3347f5f5701d7fcb4268c6b37e" label="Computer Disks [31142054616936]" type="Box">2</container>
-            <container id="aspace_92f6a2dcdbf9343979d3444da96f0082" parent="aspace_18aebf3347f5f5701d7fcb4268c6b37e" type="CD">39</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref59" level="series">
-        <did>
-          <unittitle>Archived Website</unittitle>
-          <unitdate datechar="creation">Mar 28, 2014-ongoing</unitdate>
-          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6339/*/http://www.aislingcenter.org/index.html" xlink:role="external-link" xlink:show="new" xlink:title="Aisling Irish Community Center" xlink:type="simple">
-            <daodesc>
-              <p>Aisling Irish Community Center: Mar 27, 2014-ongoing</p>
-            </daodesc>
-          </dao>
-        </did>
-        <scopecontent id="aspace_6f73b693dc8382d8c454ce0481280063">
-          <head>Scope and Content Note</head>
-          <p>The Aisling Irish Community Center is located in Yonkers, New York. Established in 1996, the Center serves to assist Irish immigrants moving to the United States. The Aisling Center also provides services for the elderly Irish and Irish-American community in Yonkers and Woodlawn. The website contains event and classes schedules, a photo gallery, and news listings.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+E-mail: tamiment.wagner@nyu.edu <lb/></p>  </userestrict>
+  <accessrestrict id="aspace_3fcd1f98a3d6e159b4b68ba6c589f1cc">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <arrangement id="aspace_e035ffccad3d5539e7d8db6df741f580">
+    <head>Arrangement</head>
+<p>Collection is arranged into one alphabetical series</p>  </arrangement>
+  <bioghist id="aspace_bd82950e595f5b4abcdb4ca644023e69">
+    <head>Historical/Biographical Note</head>
+<p>The Aisling Irish Community Center is located in Yonkers, New York.  Established in 1996, the Center serves to assist Irish immigrants moving to the United States, much like the Emerald Isle Immigration Center in Woodside, Queens. The Aisling Center also provides services for the elderly Irish and Irish-American community in Yonkers and Woodlawn. This project of recording memories evolved from a program at the Center for Seniors called "Young at Heart."  Staff member Frances Browner initiated a creative writing class which focused on different themes and memories of the participants.  From the exercise the idea of recording the stories and creating the narrative was formed.  The result is the book <emph render="italic">While Mem'ry Brings us Back Again</emph>.</p><p>The participants tell of coming to America, the different ships they took, their impressions of New York - the weather, the tall buildings, navigating the subway, electricity and indoor plumbing - their first jobs, their friendships and social activities, and their homesickness.  For many, leaving to come to America was also the first time they had ever been out of their hometown.  Some came voluntarily; others were chosen or sent by a family member.</p>  </bioghist>
+  <relatedmaterial id="aspace_2101f41127a3c58a4dd42db894fde0c2">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Ireland House Oral History Colletion AIA 030</item>
+      <item>Jane Conlon Muller Oral History Collection AIA 012</item>
+      <item>Miriam Nyhan Oral History Collection AIA 036</item>
+    </list>
+  </relatedmaterial>
+  <scopecontent id="aspace_c42997d0d540050d03515d0af99a2454">
+    <head>Scope and Contents</head>
+<p>The collection consists of interviews conducted with Irish immigrants by Frances Browner in 2006 for the book "When Mem'ry Brings Us Back Again."  A copy of the book is included with the collection.  Interviews are recorded on compact disk, also included in the collection.  Oftentimes, the recordings were made in public places such as restaurants or bars, and the clarity has been compromised because of the background noise.  The interviews were transcribed into narratives which comprise the book.</p><p>Interviewees describe their trips to America, usually by ship; sometimes by airplane.  First jobs, for the women oftentimes at Shrafts, a restaurant chain in Manhattan, the telephone company, with mass transit, for B. Dalton, a department store, as a professional musician and employed by wealthy families as domestic workers are discussed as are reminisces of social activities and outings.  </p><p>When available, duration of interviews is recorded and is included in the container list.</p>  </scopecontent>
+  <custodhist id="aspace_474a4165660a8bc66b9ffb0bf49fa8a2">
+    <head>Provenance</head>
+<p>Transcripts and copies of original audio recordings along with a copy of the resulting publication "When Mem'ry Brings Us Back Again" were donated to the Archives of Irish America in 2006.</p>  </custodhist>
+  <processinfo id="aspace_b3122d982424d67c2f108555171b19a2">
+    <head>Processing Information</head>
+<p>In 2014, the archived websites were added as a series.</p>  </processinfo>
+  <custodhist id="aspace_aef31f5459d4c7ff64fa6412e694bcbc">
+    <head>Custodial History</head>
+<p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>  </custodhist>
+  <controlaccess>
+    <genreform source="aat">Oral histories (literary works)</genreform>
+    <genreform source="aat">CD-ROMs.</genreform>
+    <subject source="lcsh">Immigrants -- United States.</subject>
+    <subject source="lcsh">Oral history.</subject>
+    <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
+    <subject source="lcsh">Irish Americans -- Social life and customs.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref8" level="series"><did><unittitle>Printed Materials and Research</unittitle><unitdate datechar="creation">2006</unitdate></did><c id="aspace_ref9" level="file"><did><unittitle><emph render="italic">While Mem'ry Brings us Back Again: A Collection of Memoirs</emph></unittitle><unitdate datechar="creation">2006</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_28dcc6641239b14f5fbdf4c6d8f79f7c" label="Mixed Materials [31142062771095]" type="Box">1</container><container id="aspace_f40c60f915fa0b56717fbde850979c31" parent="aspace_28dcc6641239b14f5fbdf4c6d8f79f7c" type="CD">data_value_missing_f02aa5db1c3af91b517f9261b832a12f</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Miscellaneous Extracts compiled for "While Mem'ry Brings us Back Again" or Fran Brownwer's Creative Writing Class</unittitle><unitdate datechar="creation">2006</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_8b3bd9c6cf5e7741f9bc5db0edf19e67" label="Mixed Materials [31142062771095]" type="Box">1</container><container id="aspace_3ea78d53aeff78f95cae14b3db209e74" parent="aspace_8b3bd9c6cf5e7741f9bc5db0edf19e67" type="CD">data_value_missing_196ee64c8e66c305d0deb81e73676c28</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Miscellaneous Extracts compiled for <emph render="italic">While Mem'ry Brings us Back Again</emph> or Fran Brownwer's Creative Writing Class on CD</unittitle><unitdate datechar="creation">2006</unitdate><container altrender="Card Box - 6.5" id="aspace_273b3bcc59af25c87685f6df400e8981" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_79ada139675f9182aed05cf9c26447c1" parent="aspace_273b3bcc59af25c87685f6df400e8981" type="CD">1</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Aisling Project Photos by Nuala Purcell CD-1. Contains images of interviewees in book and some events</unittitle><unitdate datechar="creation">2006</unitdate><container altrender="Card Box - 6.5" id="aspace_862c5649a2f659211dac1b9e454322d5" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_a7f5d63f303e709e5b222a7382bf7d87" parent="aspace_862c5649a2f659211dac1b9e454322d5" type="CD">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Aisling Project Photos by Nuala Purcell CD-2  (2 copies)
+Contains images of Rose McGurk, Oliver O'Donnell and Jimmy Clarke</unittitle><unitdate datechar="creation">2006</unitdate><container altrender="Card Box - 6.5" id="aspace_25bfd158b0161dca64b14f934e9ba992" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_d59bef4aa60679c2df8afee2f5d2d4ec" parent="aspace_25bfd158b0161dca64b14f934e9ba992" type="CD">03, 03.1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Aisling Project Photos: Carme Purcell</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_742768379acf1b6c4b7b8a01d4aec511" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_47864d043868a7cbd1fa5b4ea94e868d" parent="aspace_742768379acf1b6c4b7b8a01d4aec511" type="CD">4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Aisling Project Photos: Gaelic Park Crowd Shots</unittitle><unitdate datechar="creation">Oct 1, 2006</unitdate><container altrender="Card Box - 6.5" id="aspace_3299390afae6098d4346f3a90017a4b5" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_b86cd0cf6b738d9cc6198a76364d180f" parent="aspace_3299390afae6098d4346f3a90017a4b5" type="CD">5</container></did></c></c><c id="aspace_ref11" level="file"><did><unittitle>Interviews</unittitle><unitdate datechar="creation">2006</unitdate></did><c id="aspace_ref18" level="file"><did><unittitle>Burke, Bill: President: Country Bank, New York (file in unknown MSV format)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_d23440045e79d33f03c91e9ce4370488" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_d3fcc319a8559eb7b5c6d60ddfd88b1d" parent="aspace_d23440045e79d33f03c91e9ce4370488" type="CD">6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Butler, Chris: County Offaly - New York I</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_62c605192647ff166dfc9de7ee105f33" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_e1e6ebe9ae148179a9da5c99d361cc46" parent="aspace_62c605192647ff166dfc9de7ee105f33" type="CD">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Butler, Chris: County Offaly - New York II</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_69451c73f833d1289e8b7f0cdd833253" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_363bad40fd2ffb52c4037bfba3a4b08b" parent="aspace_69451c73f833d1289e8b7f0cdd833253" type="CD">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Chambers, Jimmy and Anne I</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_393af0a97f4a7ec7ccfe2e4178e6af17" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_a9ed9210557a218845a6db109245f8fc" parent="aspace_393af0a97f4a7ec7ccfe2e4178e6af17" type="CD">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Chambers, Jimmy and Anne II</unittitle><container altrender="Card Box - 6.5" id="aspace_0048d59d3b0e105677f912d567bdf153" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_1ea64489026667bc7ad4e288688289d4" parent="aspace_0048d59d3b0e105677f912d567bdf153" type="CD">10</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Clarke, Jimmy (b. 1906) Arrived New York 1927, County Galway; duration 23:55</unittitle><unitdate datechar="creation">Feb 2006</unitdate><container altrender="Card Box - 6.5" id="aspace_8ae7d8e77855df6113b33c023be986f6" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_d8a1ce91fe816750951285e655e90b80" parent="aspace_8ae7d8e77855df6113b33c023be986f6" type="CD">11</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Connaughton, Terry; duration 36:44</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_3b57958411e64c2b4a27fd69f583b37a" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_2a61aa91fe40271614062a5ef6f619e4" parent="aspace_3b57958411e64c2b4a27fd69f583b37a" type="CD">12</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Cregan, Jerry and Marian I</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_204777436d1f91b9a65b91418d533f67" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_c3d2ca8a2867cc7c1040166dca1dbc88" parent="aspace_204777436d1f91b9a65b91418d533f67" type="CD">40</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Cregan, Jerry and Marian II</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_6250ee2112590e1357fe30c496c4630a" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_5fb5a889f93e7946df577b4034366211" parent="aspace_6250ee2112590e1357fe30c496c4630a" type="CD">41</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Cremin, Mike, County Kerry - New York; duration 51:43</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_8e4dd6e086aad5244088796527fdd09a" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_d1bc474bdeeb2678a160bff86da9df39" parent="aspace_8e4dd6e086aad5244088796527fdd09a" type="Cassette">13</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Crowe, Therese, Tipperary - New York; duration 46:01</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_71422bec1fe900eea7db91bd27387fb5" label="Computer Disks" type="CD">2</container><container id="aspace_4f456a2ac672ad817cfdb47aa63df21f" parent="aspace_71422bec1fe900eea7db91bd27387fb5" type="CD">14</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Cunningham, Joe;  duration 1:13:38</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_2a9d9f3a5ead80a09bfe4a4d02e5bf2f" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_f7ad34026a5ee8983853ddbd3fb32012" parent="aspace_2a9d9f3a5ead80a09bfe4a4d02e5bf2f" type="CD">15</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Cunningham, Rose; duration 12:12, WAV file </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_40547cef60a380bc5b846354579e2e24" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_34efda5e4b96f3824e8ef5148463dcce" parent="aspace_40547cef60a380bc5b846354579e2e24" type="Cassette">16</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Cunningham, Rose; duration 12:12, MPEG4 file </unittitle><container altrender="Card Box - 6.5" id="aspace_e376cad7c786ba0769f4119d174259ce" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_43e284e48446e5dde826ebd36b199930" parent="aspace_e376cad7c786ba0769f4119d174259ce" type="CD">17</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Delaney, Agnes I</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_c6536e3d6aaee7d2d8e165e1409e8e16" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_4795a7749ea1e827af398c0a719d76d6" parent="aspace_c6536e3d6aaee7d2d8e165e1409e8e16" type="CD">18</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Delaney, Agnes II</unittitle><container altrender="Card Box - 6.5" id="aspace_5f8db94f323664ace108c12845b39e24" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_1ad09a0324546426c7ade0a396e7d477" parent="aspace_5f8db94f323664ace108c12845b39e24" type="CD">19</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Doyle, Julia: County Kilkenny (1951) New York; duration 50:01</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_f79340881fa5dac038b36c14106769d2" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_24cf25d3cbec20d8931cd19c265d60bb" parent="aspace_f79340881fa5dac038b36c14106769d2" type="CD">20</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Fleming, Sean I </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_8bda7cf3e845e6d6f9bbd6305508fb8e" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_5f640f9d21709a5d6f0eec913ffd5ddd" parent="aspace_8bda7cf3e845e6d6f9bbd6305508fb8e" type="CD">21</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Fleming, Sean II</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_a2a74c136c6d166620d8dfd3ce19b7ae" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_167a3aa6f3e8287675156d015ce87e75" parent="aspace_a2a74c136c6d166620d8dfd3ce19b7ae" type="CD">22</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Fleming, Sean III</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_158ba12878ce44456896ee1c8dcd87ae" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_3c07636c64721495473d6c5c70a055f3" parent="aspace_158ba12878ce44456896ee1c8dcd87ae" type="CD">23</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Glendon, Bridget: Donegal - New York</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_14c4853782f733a83f1d0be18f4bf0e9" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_df782c3e5c06b7309d0ba5679595caa7" parent="aspace_14c4853782f733a83f1d0be18f4bf0e9" type="CD">24</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>McCarrick, Thomas: County Sligo - New York; duration 6:13</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_3c9a8bbfcbe7cf45d84f9e76e12b6528" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_93df997d03472a696f2c5b615d497d76" parent="aspace_3c9a8bbfcbe7cf45d84f9e76e12b6528" type="CD">25</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>McGurk, Rose: Derry, Arrived 1928 to New York I</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_6f0b0986b60b87a00813b8710903354a" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_2092356b4c63538669e02fb13f7ded26" parent="aspace_6f0b0986b60b87a00813b8710903354a" type="CD">26</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>McGurk, Rose: Derry, Arrived 1928 to New York II</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_e9e8d03e5ad727b6b18b33cd18597eb7" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_a139f2db9975cab5be8b03f2e1adfada" parent="aspace_e9e8d03e5ad727b6b18b33cd18597eb7" type="CD">27</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>McNamara, Theresa: Leitrim - New York; duration 53:16</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_2aac1584c11092946da62cf56218fb4e" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_38010f4b98263d1d5c20fc56f9666aaa" parent="aspace_2aac1584c11092946da62cf56218fb4e" type="CD">28</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Mulcahey, Denis I</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_d550f7873b69be99bffa7f222ad87d6a" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_58bb9e51f819ccf3e35591e74486a3b7" parent="aspace_d550f7873b69be99bffa7f222ad87d6a" type="CD">42</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Mulcahey, Denis II</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_ffcf6759e7cd4fb1887418f51acc2eb2" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_fc6269089f4f85333ca81acb3864c04b" parent="aspace_ffcf6759e7cd4fb1887418f51acc2eb2" type="CD">43</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Murray, Patrick and Phil I; duration 58:65 (MP3 file converted to WAV on server)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_c7061720da46040f31e36f33df645187" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_51ce89df09b2c272897271a3550f3f93" parent="aspace_c7061720da46040f31e36f33df645187" type="CD">29</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Murray, Patrick and Phil I; duration 53:30 (MP3 file converted to WAV on server)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_f76e1d51f2577970e5f5f228f6fdfa7f" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_e1e5d322137f82a2a99a368e6bee2296" parent="aspace_f76e1d51f2577970e5f5f228f6fdfa7f" type="Cassette">30</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>O'Donnell, Oliver; duration 44:16</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_052c54b7e4861cd58e44ffa8fdf17813" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_cfe807d7b420fc49f47a726e9e4395ef" parent="aspace_052c54b7e4861cd58e44ffa8fdf17813" type="CD">31</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>O'Halloran, Michael and Martin O'Malley; duration 1:05:15</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_ce8cad5260c16f029e2923cb491a9368" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_bcb4a352686c44903ceeb7a7e94c5d96" parent="aspace_ce8cad5260c16f029e2923cb491a9368" type="CD">32</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Purcell, Carmen: Belfast - New York; duration 29:12</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_ffa7be3f2f38b2950b35320c0e4cb59c" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_9b22756397626bc4255be9cbfada18ed" parent="aspace_ffa7be3f2f38b2950b35320c0e4cb59c" type="CD">33</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY: Discuss the Dance 
+Halls (CD #1)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_d5b8ef333b7251542bafdea5b4f62199" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_b80c22f3e30111d94474ca87e7e49725" parent="aspace_d5b8ef333b7251542bafdea5b4f62199" type="CD">34</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY (CD #2)</unittitle><unitdate datechar="creation">Nov 2005</unitdate><container altrender="Card Box - 6.5" id="aspace_d91bdba85733fdbbd9a425020e1db1ce" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_593c2cd5ca161eb344fcdc1d350fdaee" parent="aspace_d91bdba85733fdbbd9a425020e1db1ce" type="CD">35</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY: Discuss Coming to 
+America (CD #3)</unittitle><unitdate datechar="creation">Nov 2005</unitdate><container altrender="Card Box - 6.5" id="aspace_1878970c12ffd508313cc78577bbdff9" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_23e06bb72f819d7353782caeaf1739fb" parent="aspace_1878970c12ffd508313cc78577bbdff9" type="CD">36</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY: Discuss Shopping at
+Fordham Road (CD #4)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_f87146989ebade3853d708610467e067" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_483c741841f6cb43a9f666d489798ffc" parent="aspace_f87146989ebade3853d708610467e067" type="CD">37</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Young at Heart Senior Group at Aisling Irish Community Center, Yonkers, NY (CD #5)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box - 6.5" id="aspace_b59b75c36d0dd162e64db7b7ff9b0ba2" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_5a14568327ba0a6022371e9f4efad70f" parent="aspace_b59b75c36d0dd162e64db7b7ff9b0ba2" type="CD">38</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Young at Heart: Jpegs and Word documents, no audio </unittitle><container altrender="Card Box - 6.5" id="aspace_0cc8cd818f5cbe87b8234efb3aa3b502" label="Computer Disks [31142054616936]" type="Box">2</container><container id="aspace_4603d725a3fb67627a29c479dafd9b8a" parent="aspace_0cc8cd818f5cbe87b8234efb3aa3b502" type="CD">39</container></did></c></c><c id="aspace_ref59" level="series"><did><unittitle>Archived Website</unittitle><unitdate datechar="creation">Mar 28, 2014-ongoing</unitdate><dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6339/*/http://www.aislingcenter.org/index.html" xlink:role="external-link" xlink:show="new" xlink:title="Aisling Irish Community Center" xlink:type="simple"><daodesc><p>Aisling Irish Community Center: Mar 27, 2014-ongoing</p></daodesc></dao></did><scopecontent id="aspace_6f73b693dc8382d8c454ce0481280063"><head>Scope and Content Note</head><p>The Aisling Irish Community Center is located in Yonkers, New York. Established in 1996, the Center serves to assist Irish immigrants moving to the United States. The Aisling Center also provides services for the elderly Irish and Irish-American community in Yonkers and Woodlawn. The website contains event and classes schedules, a photo gallery, and news listings.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>

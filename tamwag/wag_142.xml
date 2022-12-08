@@ -1,487 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_142/">wag_142</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Charles and Annette O'Flaherty Papers <num>WAG.142</num></titleproper>
-        <author>Susan Tofte</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from oflaherty.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:53:30 -0500</date>.</creation>
-      <langusage>Finding aid is written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Charles and Annette O'Flaherty Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">O'Flaherty, Charles</persname>
-      </origination>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">O'Flaherty, Annette</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">O'Flaherty, Annette</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">O'Flaherty, Brendan</persname>
-      </origination>
-      <unitid>WAG.142</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-        <extent altrender="carrier">in 1 record carton.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1937/1999" type="inclusive">1937-1999</unitdate>
-      <unitdate datechar="creation" normal="1952/1970" type="bulk">1952-1970</unitdate>
-      <abstract id="aspace_9612d69337295f8187211aceba5b8f45">Annette O'Flaherty was a trade-union activist and president of the CIO Women's League of New Jersey from the mid-1950s through the early 1960s. Her papers in this collection include constitutions, convention records, newsletters, and correspondence with leading labor and political figures in New Jersey, as well as general material documenting the history of women's role in the labor movement. Charles O'Flaherty was the eldest of three brothers who fought in Spain during the Spanish Civil War as volunteers in the Abraham Lincoln Brigade. Following his youngest brother Edward's death in 1978, Charles acquired some of Edward's writings on his experience in Spain. These writings, and Charles's International Brigades identity card, are included in this collection. Twenty-four photographs are also included which document Annette O'Flaherty's work with the CIO Women's League of New Jersey, Abraham Lincoln Brigade veterans and the O'Flaherty family.</abstract>
-      <langmaterial id="aspace_d077d150b24bca608222e949522a6e35">Materials are in English</langmaterial>
-    </did>
-    <acqinfo id="aspace_5fd7d29c43d784c467ad0000b42ccdef">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Annette O'Flaherty in 1997. Additional items were donated by Annette and Charles' son Brendan O'Flaherty in 2000. The accession numbers associated with these gifts are 1997.004 and 1997.016.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_e444f464e42c0977c144592bbf6d9972">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <bioghist id="aspace_91c0c1174ed27cf794ce780b01d18caf">
-      <head>Historical/Biographical Note</head>
-      <p>Annette Doyle O'Flaherty was born in New York City. She graduated from Columbia High School in 1936 and from Mount Holyoke College with a B.A. with honors in Economics in 1940. In July of 1940, she went to work on the editorial staff of Springfield Newspapers until the papers stopped publication because of a strike in September 1946. While working for Springfield Newspapers, Annette served as executive secretary of the Springfield Newspaper Guild, Local 28 until October 1947. At that time she became the National Coordinator for the United Nations Appeal for Children and American Overseas Aid until the organization dissolved in June 1948. Annette returned to Springfield where she became secretary and campaign manager for a joint AFL-CIO political committee organized for the 1948 political election year. The committee was successful in defeating three anti-labor referenda and helped to elect a Congressman.</p>
-      <p>Annette also served as secretary of the Western Massachusetts CIO Council for four years and was assistant director of the Union Counseling Program. She became the state president of the CIO Women's League of New Jersey in the 1950s after settling in Newark, New Jersey with her husband Charles.</p>
-      <p>Charles (Charlie) O'Flaherty was born in South Boston and graduated from Norwood, MA High School in 1924. He was the oldest of three brothers, all of whom eventually volunteered for service in the Spanish Civil War (using the original version of their family name, Flaherty). He attended Colby College on scholarship but quit after two years to help support his family. He became interested in the labor movement and socialism while in college and was influenced by the hunger marchers he saw on Boston Common. His first job was working as a purchasing manager for Barnes and Noble. In the early 1930's, Charles worked for the Cambridge Rubber Company in Cambridge Massachusetts.</p>
-      <p>In 1936, Charles went to Spain and was a leader of the Irish Section of the International Brigades. He was wounded on the Jarama Front, where he served with the Abraham Lincoln Brigade infantry. Charles was sent home in 1937 as a result of severe injuries to his arm. He went on a nation-wide tour with his brother Frank, who was also wounded in Spain, to raise funds for the Friends of the Abraham Lincoln Brigade.</p>
-      <p>The youngest Flaherty brother, Edward, was an infantry commander at Jarama. He was an auto mechanic who served in World War II with an Army transportation unit in Germany. Following his return from the war, he settled in Paterson, New Jersey. Edward (Eddie) died on July 13, 1978.</p>
-      <p>In 1940 Charles accepted a job organizing for the United Electric Workers (UE). He was an early member of the Marine Workers Industrial Union and was a delegate to the National Maritime Union (NMU) convention in 1945. Charles left for sea again at the beginning of World War II and spent the war on the Murmansk Run as a member of the NMU.</p>
-      <p>Charles O'Flaherty married Annette Doyle in November 1948 and settled in Newark, N.J.; they had two sons, Sean and Brendan. Charles worked for the Worthington Pump Co. and served as president of Local 55 of the International Brotherhood of Firemen, Oilers, and Maintenance Mechanics, AFL-CIO. The O'Flahertys remained active in the anti-war, anti-nuclear, feminist and other progressive political movements. Charles O'Flaherty died on June 28, 1984, and Annette in 2000.</p>
-    </bioghist>
-    <scopecontent id="aspace_9f5cec96f381b00291d891a869a9798b">
-      <head>Scope and Content Note</head>
-      <p>This collection includes materials pertaining to both the Flaherty brothers' involvement in the Spanish Civil War and Annette O'Flaherty's presidency of the CIO Women's League of New Jersey. Included in the Spanish Civil War materials are Edward O'Flaherty's writings and correspondence, Charles O'Flaherty's notes and letters, and Veterans of the Abraham Lincoln Brigade mailings. Highlights include Edward Flaherty's identification card from Spain and his writing about his experience in the Spanish Civil War. Materials pertaining the CIO Women's League of New Jersey include correspondence, constitutions, convention records, newsletters, and publications from the national CIO. Highlights include correspondence with leading labor and political figures in New Jersey. The collection also includes twenty-four photographs documenting the O'Flaherty family, Spanish Civil War veterans and CIO Women's League events.</p>
-    </scopecontent>
-    <arrangement id="aspace_5bea6fa5b41243bf847ac002008d55e8">
-      <head>Arrangement</head>
-      <p>This collection is arranged into three series: </p>
-      <p>Series I: Spanish Civil War Materials, 1937-1984</p>
-      <p>Series II: Trade-Union Activities, 1940-1968</p>
-      <p>Series III: Photographs, 1959-1999</p>
-      <p>All series are arranged alphabetically.</p>
-      <p>Folders are arranged alphabetically by topic within each series.</p>
-      <p>The files are grouped into two series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, Spanish Civil War Materials</item>
-        <item>II, Trade-Union Activities</item>
-      </list>
-    </arrangement>
-    <separatedmaterial id="aspace_6e39f453a29583dbba2fda8e988bcae1">
-      <head>Separated Material</head>
-      <p>One rolled photograph was separated and placed with other rolled photographs for preservation.</p>
-    </separatedmaterial>
-    <processinfo id="aspace_cebe3f2e0452f295f8bbb9a5100529ad">
-      <head>Processing Information</head>
-      <p>Photographs separated from this collection during processing were established as a separate collection, the Charles and Annette O'Flaherty Photographs (PHOTOS 219). In 2014, the photograph collection was reincorporated into the Charles and Annette O'Flaherty Papers (WAG 142).</p>
-    </processinfo>
-    <userestrict id="aspace_82bc4c814427cf7062056df09edb873e">
-      <head>Conditions Governing Use</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by Charles and Annette O'Flaherty were transferred to New York University in 2000 by Brendan O'Flaherty. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>
-    </userestrict>
-    <prefercite id="aspace_043878d518470b91b1c7529c18b7defe">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Charles and Annette O'Flaherty Papers; WAG 142; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-      <genreform source="aat">Photographs.</genreform>
-      <subject source="lcsh">Soldiers |z United States |v Biography.</subject>
-      <subject source="lcsh">Women labor leaders.</subject>
-      <genreform source="aat">Newsletters.</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <geogname source="lcsh">Newark (N.J.).</geogname>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
-      <genreform source="aat">Reports.</genreform>
-      <genreform source="aat">Personal papers.</genreform>
-      <corpname rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_142">wag_142</eadid><filedesc><titlestmt><titleproper>Guide to the Charles and Annette O'Flaherty Papers <num>WAG.142</num></titleproper><author>Susan Tofte</author></titlestmt><editionstmt><p>This version was derived from oflaherty.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:08:57 -0500</date>.</creation><langusage>Finding aid is written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Charles and Annette O'Flaherty Papers</unittitle>
+    <origination label="Creator">
       <persname rules="dacs" source="local">O'Flaherty, Charles</persname>
-      <persname rules="dacs" source="local">Flaherty, Edward</persname>
+    </origination>
+    <origination label="Creator">
       <persname rules="dacs" source="local">O'Flaherty, Annette</persname>
-      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-      <corpname source="naf">CIO Women's League of New Jersey</corpname>
-      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
-      <persname source="naf">Krebs, Paul J. (Paul Joseph), 1912-1996</persname>
-      <persname source="naf">Meyner, Robert B.</persname>
-      <persname source="naf">Meany, George, 1894-1980</persname>
-      <persname source="naf">Reuther, Walter, 1907-1970</persname>
-      <persname source="naf">O'Flaherty, Edward</persname>
-      <persname source="naf">Minish, Joseph G.</persname>
-      <corpname source="naf">New Jersey State Industrial Union Council</corpname>
-      <corpname source="naf">AFL-CIO. Committee on Political Education</corpname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">O'Flaherty, Annette</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">O'Flaherty, Brendan</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref14" level="series">
-        <did>
-          <unittitle>Series I: Spanish Civil War Materials</unittitle>
-          <unitdate datechar="creation" normal="1937/1984" type="inclusive">1937-1984</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Flaherty, Edward (?): Authorization for Hospital Visit</unittitle>
-            <unitdate datechar="creation" normal="1937/1937" type="inclusive">[1937]</unitdate>
-            <container altrender="Record carton" id="aspace_c072a0ba1f6918aebea38a935d789044" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_fe4bf7036ca539ce7fea9bd49a621482" parent="aspace_c072a0ba1f6918aebea38a935d789044" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Flaherty, Edward: Identification Card</unittitle>
-            <unitdate datechar="creation" normal="1937/1937" type="inclusive">[1937]</unitdate>
-            <container altrender="Record carton" id="aspace_3a88a0727c04fe5eefaf16c6c332cbef" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_0d55a2122e571977f4f032ed1ad94201" parent="aspace_3a88a0727c04fe5eefaf16c6c332cbef" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>O'Flaherty, Charles</unittitle>
-            <unitdate datechar="creation" normal="1937/1984" type="inclusive">undated , 1982-1984</unitdate>
-            <container altrender="Record carton" id="aspace_9316d348d0939fb65dae3c1eae09706d" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_744a2441fe7b23f5f507ad0040a7d228" parent="aspace_9316d348d0939fb65dae3c1eae09706d" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>O'Flaherty, Edward: Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1937/1982" type="inclusive">undated , 1969</unitdate>
-            <container altrender="Record carton" id="aspace_72bbaa2625cb17c4d0215dbb43532b04" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_55e0963d023f3077b01d4ee432d5b0a0" parent="aspace_72bbaa2625cb17c4d0215dbb43532b04" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>O'Flaherty, Edward: Writings</unittitle>
-            <unitdate datechar="creation" normal="1937/1982" type="inclusive">undated</unitdate>
-            <container altrender="Record carton" id="aspace_c5c1ec7075a59dbde823ad0d1714e63f" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_a8e7eb8be92c890babbbba63291d33a2" parent="aspace_c5c1ec7075a59dbde823ad0d1714e63f" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Veterans of the Abraham Lincoln Brigade</unittitle>
-            <unitdate datechar="creation" normal="1977/1980" type="inclusive">1977-1980</unitdate>
-            <container altrender="Record carton" id="aspace_c04e17887992e3816dfa4448a6536ace" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_f88fcade772c01c6fd1a571fb1b06828" parent="aspace_c04e17887992e3816dfa4448a6536ace" type="Folder">6</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref21" level="series">
-        <did>
-          <unittitle>Series II: Trade-Union Activities</unittitle>
-          <unitdate datechar="creation" normal="1940/1968" type="inclusive">1940-1968</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey-Committee on Political Education (COPE) AFL-CIO</unittitle>
-            <unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate>
-            <container altrender="Record carton" id="aspace_7395a78477908a785e78ada8c324ee1d" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_5183cf6d35e33246501ece6660a855df" parent="aspace_7395a78477908a785e78ada8c324ee1d" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey-CIO PAC Conference on Family Participation in PAC</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <container altrender="Record carton" id="aspace_4179199008dc9cc28b68b1e879d6ca8a" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_38e97c787d7e4f178d17de8903013d21" parent="aspace_4179199008dc9cc28b68b1e879d6ca8a" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Constitution</unittitle>
-            <unitdate datechar="creation" normal="1937/1982" type="inclusive">undated</unitdate>
-            <container altrender="Record carton" id="aspace_1b231899601ce3aeaa9e79fa1addf82d" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_2348c7267df4ae10d08067ce328e5893" parent="aspace_1b231899601ce3aeaa9e79fa1addf82d" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1955/1959" type="inclusive">1955-1959</unitdate>
-            <container altrender="Record carton" id="aspace_0c55462c90def5e80b0c76db87e18d92" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_a333cd3952434252cfd547835e3014bc" parent="aspace_0c55462c90def5e80b0c76db87e18d92" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Correspondence with IUE, UAW, CWA, National CIO, and National CIO Auxiliaries</unittitle>
-            <unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate>
-            <container altrender="Record carton" id="aspace_4a24d5ec5ba518badd48ef1f1bc4bcf8" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_66bf2c90e65a9bd62aca235cb58740d7" parent="aspace_4a24d5ec5ba518badd48ef1f1bc4bcf8" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Essex-West Hudson Chapter</unittitle>
-            <unitdate datechar="creation" normal="1956/1961" type="inclusive">1956-1961</unitdate>
-            <container altrender="Record carton" id="aspace_2f36cdad8b041dbcb8903463b493affe" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_f47567e5709aa749edf9dd38a27b31b5" parent="aspace_2f36cdad8b041dbcb8903463b493affe" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: First Convention</unittitle>
-            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
-            <container altrender="Record carton" id="aspace_ba5ee2f0026de1be1f04255a0bdce935" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_d987322aac29160fef916de2b2c36d4d" parent="aspace_ba5ee2f0026de1be1f04255a0bdce935" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Fourth Annual Convention Conference</unittitle>
-            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
-            <container altrender="Record carton" id="aspace_c405291b27e99d6ac3f3545483ac7c17" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_d7d9725d2adfd8c349ee6ac6c11cc065" parent="aspace_c405291b27e99d6ac3f3545483ac7c17" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: The League Reporter</unittitle>
-            <unitdate datechar="creation" normal="1952/1955" type="inclusive">1952-1955</unitdate>
-            <container altrender="Record carton" id="aspace_13d1b5d602f0fe33b1f454f697d48dca" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_adce0dc08525740bd97ff47bc68ee73c" parent="aspace_13d1b5d602f0fe33b1f454f697d48dca" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Member List</unittitle>
-            <unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate>
-            <container altrender="Record carton" id="aspace_6bb52016dc08eb609bcf2a73b2123bad" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_f1877809e3fd640a513cbc83c2b32316" parent="aspace_6bb52016dc08eb609bcf2a73b2123bad" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: National CIO Women's Conference</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <container altrender="Record carton" id="aspace_ae4a00c2c16b06ba838c2a1b92c8cb0e" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_0cfedf85acc3de28f258bc4c7ac7ff25" parent="aspace_ae4a00c2c16b06ba838c2a1b92c8cb0e" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: News Bulletin/Newsletter</unittitle>
-            <unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate>
-            <container altrender="Record carton" id="aspace_776480b67118c4691fd71288aff43abc" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_7a56a57841d200a7669af661db12cd83" parent="aspace_776480b67118c4691fd71288aff43abc" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Newspaper Clippings</unittitle>
-            <unitdate datechar="creation" normal="1955/1959" type="inclusive">1955-1959</unitdate>
-            <container altrender="Record carton" id="aspace_17a4bb107fdb3225f300535ce1b5ce5a" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_f1e52b493f7a073d96af57f1a8252d70" parent="aspace_17a4bb107fdb3225f300535ce1b5ce5a" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Officers' Report</unittitle>
-            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
-            <container altrender="Record carton" id="aspace_80a76186d6a3ba101d5a1da016e7f791" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_4010a8d6fa74f29b9173bd4a8cacc632" parent="aspace_80a76186d6a3ba101d5a1da016e7f791" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Organizational Material</unittitle>
-            <unitdate datechar="creation" normal="1949/1962" type="inclusive">1949-1962</unitdate>
-            <container altrender="Record carton" id="aspace_f3eaefa86206e275d44ccf44df76b151" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_7eb30fc7db10df1dcd6379e3f733d2be" parent="aspace_f3eaefa86206e275d44ccf44df76b151" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Resolutions</unittitle>
-            <unitdate datechar="creation" normal="1937/1982" type="inclusive">undated , 1958</unitdate>
-            <container altrender="Record carton" id="aspace_310fcd5123b757594d99800390a07bcf" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_a2c546a2bacdd9dd12755931c61b1cc0" parent="aspace_310fcd5123b757594d99800390a07bcf" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Second Annual Convention</unittitle>
-            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
-            <container altrender="Record carton" id="aspace_0a7414556e855981894811eae7534177" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_c7667ba9f20ff28319e68d8203cfc4a1" parent="aspace_0a7414556e855981894811eae7534177" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Steering Committee</unittitle>
-            <unitdate datechar="creation" normal="1937/1982" type="inclusive">undated , 1954-1955</unitdate>
-            <container altrender="Record carton" id="aspace_153310559cc4c3f5a1e0ced6f56b7bb0" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_c0e13f13f362bfe3bc186e552a93446f" parent="aspace_153310559cc4c3f5a1e0ced6f56b7bb0" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Supervised Shower Programs</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <container altrender="Record carton" id="aspace_b5bd56840deac4313fb49e6b84e4bc15" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_42b5fd11360403b2e855a3dcec6fd5e7" parent="aspace_b5bd56840deac4313fb49e6b84e4bc15" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: The Union Maid</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Record carton" id="aspace_35fa92a11808be1d6317dff3bd039900" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_9a32ef0769fde1fed497af0c9e199804" parent="aspace_35fa92a11808be1d6317dff3bd039900" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>CIO Women's League of New Jersey: Vaccines</unittitle>
-            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
-            <container altrender="Record carton" id="aspace_6045ec8c59412f221f01514fb6bfc22a" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_a80193c5fa253a59d15033fb95f36c98" parent="aspace_6045ec8c59412f221f01514fb6bfc22a" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>Government Regulation and Control and Concentration of American Business, Annette Doyle Honors Paper</unittitle>
-            <unitdate datechar="creation">May 27, 1940</unitdate>
-            <container altrender="Record carton" id="aspace_9ba0c37b22f2dea45f62bee36f3ad1bd" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_710e19270be45efeac750d9d859d08ab" parent="aspace_9ba0c37b22f2dea45f62bee36f3ad1bd" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>IUE-AFL-CIO, Local 447 Elections</unittitle>
-            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Record carton" id="aspace_a223806f642bf425787fcab077605d7e" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_7e26f8a09ab8d23099a12e6afad4a54a" parent="aspace_a223806f642bf425787fcab077605d7e" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>National CIO Community Service Center</unittitle>
-            <unitdate datechar="creation" normal="1937/1982" type="inclusive">undated , 1953-1954</unitdate>
-            <container altrender="Record carton" id="aspace_dbbf3935b54b8b98b2c037aa1329969c" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_007b38be6cea819a857b28d59ffd9897" parent="aspace_dbbf3935b54b8b98b2c037aa1329969c" type="Folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>New Jersey State Industrial Union Council AFL-CIO: Report on New Jersey</unittitle>
-            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
-            <container altrender="Record carton" id="aspace_50b93526edff26ec1b3ce488b2570e73" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_ada1cdf41861f4945fcd45d636d8d285" parent="aspace_50b93526edff26ec1b3ce488b2570e73" type="Folder">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>New Jersey State CIO Council</unittitle>
-            <unitdate datechar="creation" normal="1955/1961" type="inclusive">1955-1961</unitdate>
-            <container altrender="Record carton" id="aspace_44f6086f630b8bfa51790e10bdab8144" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_2088c45ef28d307216cebd2245f88725" parent="aspace_44f6086f630b8bfa51790e10bdab8144" type="Folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Newark Pre-School Council Annual Staff Report</unittitle>
-            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
-            <container altrender="Record carton" id="aspace_a0e5aec3745c694db934679bb347fbca" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_6c9f7656ee0dc13802475545c2776056" parent="aspace_a0e5aec3745c694db934679bb347fbca" type="Folder">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="file">
-          <did>
-            <unittitle>Springfield Newspaper Guild, Local 28</unittitle>
-            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
-            <container altrender="Record carton" id="aspace_1b72fa68a3925eda412aeef3bcc7ce74" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_fcb27ac761bf083281f88ea63e127410" parent="aspace_1b72fa68a3925eda412aeef3bcc7ce74" type="Folder">34</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="file">
-          <did>
-            <unittitle>Western Massachusetts CIO Council</unittitle>
-            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
-            <container altrender="Record carton" id="aspace_b6421cad8ce0c97aefef2a7fa4b49ed7" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_7eefa4ae9dec2cba55f1cf4210a80bfd" parent="aspace_b6421cad8ce0c97aefef2a7fa4b49ed7" type="Folder">35</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref55" level="series">
-        <did>
-          <unittitle>Series III: Photographs</unittitle>
-          <unitdate datechar="creation" normal="1959/1999" type="inclusive">1959-1999</unitdate>
-        </did>
-        <c id="aspace_ref56" level="file">
-          <did>
-            <unittitle>Abraham Lincoln Brigade Veterans (Charles O'Flaherty, Ed Flaherty and Paul Burns)</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
-            <container altrender="Record carton" id="aspace_7ffb64f47b80c88e19eecd10190f1112" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_0e1c0fd652d8e32d261c6c197d05b017" parent="aspace_7ffb64f47b80c88e19eecd10190f1112" type="Folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="file">
-          <did>
-            <unittitle>Community Services Dinner</unittitle>
-            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
-            <container altrender="Record carton" id="aspace_bfe78b9726b665f8321492cce5cd4250" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_9d2d28934d2cf5ecf2bb1516fc5a7e9e" parent="aspace_bfe78b9726b665f8321492cce5cd4250" type="Folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref58" level="file">
-          <did>
-            <unittitle>Miscellaneous</unittitle>
-            <unitdate datechar="creation" normal="1955/1964" type="inclusive">circa 1959</unitdate>
-            <container altrender="Record carton" id="aspace_c813f98de0556ea5a416bf07a3b4e4b7" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_eb6a0d21dc48123f9d307d1cfff813ae" parent="aspace_c813f98de0556ea5a416bf07a3b4e4b7" type="Folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="file">
-          <did>
-            <unittitle>O'Flaherty Family</unittitle>
-            <unitdate datechar="creation" normal="1937/1999" type="inclusive">1999, undated</unitdate>
-            <container altrender="Record carton" id="aspace_93edc5d4d0934164b2c7cf01e49aa88e" label="Mixed Materials [31142062757771]" type="Box">1</container>
-            <container id="aspace_de57167907aff4ae0da42800b95fd410" parent="aspace_93edc5d4d0934164b2c7cf01e49aa88e" type="Folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_dd8da71d67f74ba0627db881042171d1" level="file">
-          <did>
-            <unittitle>Testimonial dinner for Mrs. Carl Holderman, CIO Women of New Jersey</unittitle>
-            <unitdate datechar="creation" normal="1959-10-21/1959-10-21">1959-10-21</unitdate>
-            <container altrender="Flat OS Box 17" id="aspace_c8d11b8c9059a393c60c1f20f39985e2" label="Mixed Materials [31142062715415]" type="Box">Shared Tamiment 032</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>WAG.142</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 record carton.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1999" type="inclusive">1937-1999</unitdate>
+    <unitdate datechar="creation" normal="1952/1970" type="bulk">1952-1970</unitdate>
+    <abstract id="aspace_9612d69337295f8187211aceba5b8f45" label="Abstract">Annette O'Flaherty was a trade-union activist and president of the CIO Women's League of New Jersey from the mid-1950s through the early 1960s. Her papers in this collection include constitutions, convention records, newsletters, and correspondence with leading labor and political figures in New Jersey, as well as general material documenting the history of women's role in the labor movement. Charles O'Flaherty was the eldest of three brothers who fought in Spain during the Spanish Civil War as volunteers in the Abraham Lincoln Brigade. Following his youngest brother Edward's death in 1978, Charles acquired some of Edward's writings on his experience in Spain. These writings, and Charles's International Brigades identity card, are included in this collection. Twenty-four photographs are also included which document Annette O'Flaherty's work with the CIO Women's League of New Jersey, Abraham Lincoln Brigade veterans and the O'Flaherty family.</abstract>
+    <langmaterial id="aspace_d077d150b24bca608222e949522a6e35">Materials are in English</langmaterial>
+  </did>
+  <acqinfo id="aspace_5fd7d29c43d784c467ad0000b42ccdef">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Annette O'Flaherty in 1997. Additional items were donated by Annette and Charles' son Brendan O'Flaherty in 2000. The accession numbers associated with these gifts are 1997.004 and 1997.016.</p>  </acqinfo>
+  <accessrestrict id="aspace_e444f464e42c0977c144592bbf6d9972">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_91c0c1174ed27cf794ce780b01d18caf">
+    <head>Historical/Biographical Note</head>
+<p>Annette Doyle O'Flaherty was born in New York City. She graduated from Columbia High School in 1936 and from Mount Holyoke College with a B.A. with honors in Economics in 1940. In July of 1940, she went to work on the editorial staff of Springfield Newspapers until the papers stopped publication because of a strike in September 1946. While working for Springfield Newspapers, Annette served as executive secretary of the Springfield Newspaper Guild, Local 28 until October 1947. At that time she became the National Coordinator for the United Nations Appeal for Children and American Overseas Aid until the organization dissolved in June 1948. Annette returned to Springfield where she became secretary and campaign manager for a joint AFL-CIO political committee organized for the 1948 political election year. The committee was successful in defeating three anti-labor referenda and helped to elect a Congressman.</p><p>Annette also served as secretary of the Western Massachusetts CIO Council for four years and was assistant director of the Union Counseling Program. She became the state president of the CIO Women's League of New Jersey in the 1950s after settling in Newark, New Jersey with her husband Charles.</p><p>Charles (Charlie) O'Flaherty was born in South Boston and graduated from Norwood, MA High School in 1924. He was the oldest of three brothers, all of whom eventually volunteered for service in the Spanish Civil War (using the original version of their family name, Flaherty). He attended Colby College on scholarship but quit after two years to help support his family. He became interested in the labor movement and socialism while in college and was influenced by the hunger marchers he saw on Boston Common. His first job was working as a purchasing manager for Barnes and Noble. In the early 1930's, Charles worked for the Cambridge Rubber Company in Cambridge Massachusetts.</p><p>In 1936, Charles went to Spain and was a leader of the Irish Section of the International Brigades. He was wounded on the Jarama Front, where he served with the Abraham Lincoln Brigade infantry. Charles was sent home in 1937 as a result of severe injuries to his arm. He went on a nation-wide tour with his brother Frank, who was also wounded in Spain, to raise funds for the Friends of the Abraham Lincoln Brigade.</p><p>The youngest Flaherty brother, Edward, was an infantry commander at Jarama. He was an auto mechanic who served in World War II with an Army transportation unit in Germany. Following his return from the war, he settled in Paterson, New Jersey. Edward (Eddie) died on July 13, 1978.</p><p>In 1940 Charles accepted a job organizing for the United Electric Workers (UE). He was an early member of the Marine Workers Industrial Union and was a delegate to the National Maritime Union (NMU) convention in 1945. Charles left for sea again at the beginning of World War II and spent the war on the Murmansk Run as a member of the NMU.</p><p>Charles O'Flaherty married Annette Doyle in November 1948 and settled in Newark, N.J.; they had two sons, Sean and Brendan. Charles worked for the Worthington Pump Co. and served as president of Local 55 of the International Brotherhood of Firemen, Oilers, and Maintenance Mechanics, AFL-CIO. The O'Flahertys remained active in the anti-war, anti-nuclear, feminist and other progressive political movements. Charles O'Flaherty died on June 28, 1984, and Annette in 2000.</p>  </bioghist>
+  <scopecontent id="aspace_9f5cec96f381b00291d891a869a9798b">
+    <head>Scope and Content Note</head>
+<p>This collection includes materials pertaining to both the Flaherty brothers' involvement in the Spanish Civil War and Annette O'Flaherty's presidency of the CIO Women's League of New Jersey. Included in the Spanish Civil War materials are Edward O'Flaherty's writings and correspondence, Charles O'Flaherty's notes and letters, and Veterans of the Abraham Lincoln Brigade mailings. Highlights include Edward Flaherty's identification card from Spain and his writing about his experience in the Spanish Civil War. Materials pertaining the CIO Women's League of New Jersey include correspondence, constitutions, convention records, newsletters, and publications from the national CIO. Highlights include correspondence with leading labor and political figures in New Jersey. The collection also includes twenty-four photographs documenting the O'Flaherty family, Spanish Civil War veterans and CIO Women's League events.</p>  </scopecontent>
+  <arrangement id="aspace_5bea6fa5b41243bf847ac002008d55e8">
+    <head>Arrangement</head>
+<p>This collection is arranged into three series: </p><p>Series I: Spanish Civil War Materials, 1937-1984</p><p>Series II: Trade-Union Activities, 1940-1968</p><p>Series III: Photographs, 1959-1999</p><p>All series are arranged alphabetically.</p><p>Folders are arranged alphabetically by topic within each series.</p><p>The files are grouped into two series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Spanish Civil War Materials</item>
+      <item>II, Trade-Union Activities</item>
+    </list>
+  </arrangement>
+  <separatedmaterial id="aspace_6e39f453a29583dbba2fda8e988bcae1">
+    <head>Separated Material</head>
+<p>One rolled photograph was separated and placed with other rolled photographs for preservation.</p>  </separatedmaterial>
+  <processinfo id="aspace_cebe3f2e0452f295f8bbb9a5100529ad">
+    <head>Processing Information</head>
+<p>Photographs separated from this collection during processing were established as a separate collection, the Charles and Annette O'Flaherty Photographs (PHOTOS 219). In 2014, the photograph collection was reincorporated into the Charles and Annette O'Flaherty Papers (WAG 142).</p>  </processinfo>
+  <userestrict id="aspace_82bc4c814427cf7062056df09edb873e">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Charles and Annette O'Flaherty were transferred to New York University in 2000 by Brendan O'Flaherty. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
+  <prefercite id="aspace_043878d518470b91b1c7529c18b7defe">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Charles and Annette O'Flaherty Papers; WAG 142; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+    <genreform source="aat">Photographs.</genreform>
+    <subject source="lcsh">Soldiers |z United States |v Biography.</subject>
+    <subject source="lcsh">Women labor leaders.</subject>
+    <genreform source="aat">Newsletters.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <geogname source="lcsh">Newark (N.J.).</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
+    <genreform source="aat">Reports.</genreform>
+    <genreform source="aat">Personal papers.</genreform>
+    <corpname authfilenumber="(lccn)n80081625" rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
+    <persname rules="dacs" source="local">O'Flaherty, Charles</persname>
+    <persname rules="dacs" source="local">Flaherty, Edward</persname>
+    <persname rules="dacs" source="local">O'Flaherty, Annette</persname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+    <corpname authfilenumber="(lccn)n85333834" source="naf">CIO Women's League of New Jersey</corpname>
+    <corpname authfilenumber="(lccn)n88119969" source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+    <persname source="naf">Krebs, Paul J. (Paul Joseph), 1912-1996</persname>
+    <persname source="naf">Meyner, Robert B.</persname>
+    <persname source="naf">Meany, George, 1894-1980</persname>
+    <persname source="naf">Reuther, Walter, 1907-1970</persname>
+    <persname source="naf">O'Flaherty, Edward</persname>
+    <persname source="naf">Minish, Joseph G.</persname>
+    <corpname authfilenumber="(lccn)n85388868" source="naf">New Jersey State Industrial Union Council</corpname>
+    <corpname authfilenumber="(lccn)n82204805" source="naf">AFL-CIO. Committee on Political Education</corpname>
+    <persname role="dnr" rules="dacs" source="local">O'Flaherty, Annette</persname>
+    <persname role="dnr" rules="dacs" source="local">O'Flaherty, Brendan</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series I: Spanish Civil War Materials</unittitle><unitdate datechar="creation" normal="1937/1984" type="inclusive">1937-1984</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>Flaherty, Edward (?): Authorization for Hospital Visit</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">[1937]</unitdate><container altrender="Record carton" id="aspace_1863124728b187f88bd065a9e8dc072e" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_7b0bccda9ce76762efce8343b130246b" parent="aspace_1863124728b187f88bd065a9e8dc072e" type="Folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Flaherty, Edward: Identification Card</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">[1937]</unitdate><container altrender="Record carton" id="aspace_1d1cbbf459b34e83e0334a6e2046462e" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_638fda3d898af17b567bdd0a66c86a82" parent="aspace_1d1cbbf459b34e83e0334a6e2046462e" type="Folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>O'Flaherty, Charles</unittitle><unitdate datechar="creation" normal="1937/1984" type="inclusive">undated , 1982-1984</unitdate><container altrender="Record carton" id="aspace_e05767fcd85374cea68807fec8721865" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_062cd2a2b35512a3fbffaf1eeca602e0" parent="aspace_e05767fcd85374cea68807fec8721865" type="Folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>O'Flaherty, Edward: Correspondence</unittitle><unitdate datechar="creation" normal="1937/1982" type="inclusive">undated , 1969</unitdate><container altrender="Record carton" id="aspace_852c152d4df2badfc5023d35fcfab662" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_8c350c3847ec6b1422664f6482cfb690" parent="aspace_852c152d4df2badfc5023d35fcfab662" type="Folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>O'Flaherty, Edward: Writings</unittitle><unitdate datechar="creation" normal="1937/1982" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_4e6ac3b3dd815f8de88249b2f204854f" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_1091bd97a90929f5806b274bca10809b" parent="aspace_4e6ac3b3dd815f8de88249b2f204854f" type="Folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade</unittitle><unitdate datechar="creation" normal="1977/1980" type="inclusive">1977-1980</unitdate><container altrender="Record carton" id="aspace_cb260813fa44c372f4280ac3c1cddd32" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_a44e693243253789fd832ab809385761" parent="aspace_cb260813fa44c372f4280ac3c1cddd32" type="Folder">6</container></did></c></c><c id="aspace_ref21" level="series"><did><unittitle>Series II: Trade-Union Activities</unittitle><unitdate datechar="creation" normal="1940/1968" type="inclusive">1940-1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref22" level="file"><did><unittitle>CIO Women's League of New Jersey-Committee on Political Education (COPE) AFL-CIO</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container altrender="Record carton" id="aspace_2021bfbbd38a92c4495ef8d8f09644f2" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_907628b1937d581c53ebf6ea73ba3575" parent="aspace_2021bfbbd38a92c4495ef8d8f09644f2" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>CIO Women's League of New Jersey-CIO PAC Conference on Family Participation in PAC</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_c80869fa40a63a2c828c3baf92ceeed1" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_ba1f7d342a982abf686f7e2d4a16ee58" parent="aspace_c80869fa40a63a2c828c3baf92ceeed1" type="Folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>CIO Women's League of New Jersey: Constitution</unittitle><unitdate datechar="creation" normal="1937/1982" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_dce31431094784444d7d1dd1cac91a3c" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_39a25765ec0ad5ea1bb903549edc935c" parent="aspace_dce31431094784444d7d1dd1cac91a3c" type="Folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>CIO Women's League of New Jersey: Correspondence</unittitle><unitdate datechar="creation" normal="1955/1959" type="inclusive">1955-1959</unitdate><container altrender="Record carton" id="aspace_e4c500ec1a950fbe47c04821430c549f" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_b4f6e17fb5bbc84de4fa449c5aba9d07" parent="aspace_e4c500ec1a950fbe47c04821430c549f" type="Folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>CIO Women's League of New Jersey: Correspondence with IUE, UAW, CWA, National CIO, and National CIO Auxiliaries</unittitle><unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate><container altrender="Record carton" id="aspace_c84d20494ebedb0d65f04db34cb6a332" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_5e26e51d1e09c5aedecdc4f70e056e83" parent="aspace_c84d20494ebedb0d65f04db34cb6a332" type="Folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>CIO Women's League of New Jersey: Essex-West Hudson Chapter</unittitle><unitdate datechar="creation" normal="1956/1961" type="inclusive">1956-1961</unitdate><container altrender="Record carton" id="aspace_56d3aedef0eeba718b63fae87c4e4ba4" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_78dcecaf3730e817bdb106f9e5d85263" parent="aspace_56d3aedef0eeba718b63fae87c4e4ba4" type="Folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>CIO Women's League of New Jersey: First Convention</unittitle><unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Record carton" id="aspace_6b0d5b4a3d3cb2d2d18c5d7e016fb9a1" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_1dbdbd28a596073048a3242f0dd797c5" parent="aspace_6b0d5b4a3d3cb2d2d18c5d7e016fb9a1" type="Folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>CIO Women's League of New Jersey: Fourth Annual Convention Conference</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_337e6ab0df90aad665d0662c780dc211" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_60e19f7be2b816f879a5ab7f87f08c2c" parent="aspace_337e6ab0df90aad665d0662c780dc211" type="Folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>CIO Women's League of New Jersey: The League Reporter</unittitle><unitdate datechar="creation" normal="1952/1955" type="inclusive">1952-1955</unitdate><container altrender="Record carton" id="aspace_77d40879dc5ae5cd0cb66c9ddb99b86d" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_6560ef15a04c33913a8939ddc79f3dc9" parent="aspace_77d40879dc5ae5cd0cb66c9ddb99b86d" type="Folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>CIO Women's League of New Jersey: Member List</unittitle><unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate><container altrender="Record carton" id="aspace_4dcc8f4dac40a16a37ff2babe34d2742" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_5e9da6fe252da5af2e38aa6ae76692fc" parent="aspace_4dcc8f4dac40a16a37ff2babe34d2742" type="Folder">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>CIO Women's League of New Jersey: National CIO Women's Conference</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_1e1a4119ac67ad818ce0b7e7ac72473c" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_cc4081f61f0cf51ec0269f668aceae6f" parent="aspace_1e1a4119ac67ad818ce0b7e7ac72473c" type="Folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>CIO Women's League of New Jersey: News Bulletin/Newsletter</unittitle><unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate><container altrender="Record carton" id="aspace_32c317327feb13c6f4af00f54a3de02c" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_b4aa45a7acfecc474593f65a20506a4e" parent="aspace_32c317327feb13c6f4af00f54a3de02c" type="Folder">18</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>CIO Women's League of New Jersey: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1955/1959" type="inclusive">1955-1959</unitdate><container altrender="Record carton" id="aspace_beab8d3e6163c09b6a039512d599da0e" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_050d34a80cd8c1c75120dd6d698a8ece" parent="aspace_beab8d3e6163c09b6a039512d599da0e" type="Folder">19</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>CIO Women's League of New Jersey: Officers' Report</unittitle><unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate><container altrender="Record carton" id="aspace_36a6ce6efcc562422e5d90e2bacbb902" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_904b217de4b1a1d0a18b8435a2294f33" parent="aspace_36a6ce6efcc562422e5d90e2bacbb902" type="Folder">20</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>CIO Women's League of New Jersey: Organizational Material</unittitle><unitdate datechar="creation" normal="1949/1962" type="inclusive">1949-1962</unitdate><container altrender="Record carton" id="aspace_64deb7d58e9ed5f4c46f23d91fea054c" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_8a46ecb2e2a568bb98d169344c15e38e" parent="aspace_64deb7d58e9ed5f4c46f23d91fea054c" type="Folder">21</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>CIO Women's League of New Jersey: Resolutions</unittitle><unitdate datechar="creation" normal="1937/1982" type="inclusive">undated , 1958</unitdate><container altrender="Record carton" id="aspace_6f3e1b3bb1f895bf9378bedd6c8127d9" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_ae2f1d015fff70eb638a7ac8fb5daa0e" parent="aspace_6f3e1b3bb1f895bf9378bedd6c8127d9" type="Folder">22</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>CIO Women's League of New Jersey: Second Annual Convention</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_d6c2aee2b0b6b2d5bd18bb0f6e94d13e" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_768a2cf7ac7c4c66421e69c12af26fad" parent="aspace_d6c2aee2b0b6b2d5bd18bb0f6e94d13e" type="Folder">23</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>CIO Women's League of New Jersey: Steering Committee</unittitle><unitdate datechar="creation" normal="1937/1982" type="inclusive">undated , 1954-1955</unitdate><container altrender="Record carton" id="aspace_6d94237fb816886d8a4e3a19c39ce4cd" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_403e8a64675df8bc0f964204682cb3cb" parent="aspace_6d94237fb816886d8a4e3a19c39ce4cd" type="Folder">24</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>CIO Women's League of New Jersey: Supervised Shower Programs</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_e69b8472ca1ddbde365441c41819c288" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_02e902f6bb89a2083c94354c94ee2868" parent="aspace_e69b8472ca1ddbde365441c41819c288" type="Folder">25</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>CIO Women's League of New Jersey: The Union Maid</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Record carton" id="aspace_e9713d15b6e7847785c0454a34137f84" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_a6d08fad1c7eb75afc1db128057d41db" parent="aspace_e9713d15b6e7847785c0454a34137f84" type="Folder">26</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>CIO Women's League of New Jersey: Vaccines</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_8e8dc642a3364efb425dfc8c09f13e97" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_a7e017fdc349dd45a56ac1665e5cd552" parent="aspace_8e8dc642a3364efb425dfc8c09f13e97" type="Folder">27</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Government Regulation and Control and Concentration of American Business, Annette Doyle Honors Paper</unittitle><unitdate datechar="creation">May 27, 1940</unitdate><container altrender="Record carton" id="aspace_e6f74af853111e8383cebb4c101a0faa" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_9c5e508badd4607eefcb97acc0346766" parent="aspace_e6f74af853111e8383cebb4c101a0faa" type="Folder">28</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>IUE-AFL-CIO, Local 447 Elections</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Record carton" id="aspace_9655090cccc3cdb54b579c84e1e2f499" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_e5576d6cad60de7d864afa8ca0f3bbdf" parent="aspace_9655090cccc3cdb54b579c84e1e2f499" type="Folder">29</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>National CIO Community Service Center</unittitle><unitdate datechar="creation" normal="1937/1982" type="inclusive">undated , 1953-1954</unitdate><container altrender="Record carton" id="aspace_9efe7436d57c350db7d22a2b70272334" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_b292aaa45350f4a89c34c6d705d60923" parent="aspace_9efe7436d57c350db7d22a2b70272334" type="Folder">30</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>New Jersey State Industrial Union Council AFL-CIO: Report on New Jersey</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Record carton" id="aspace_3037f42f2f3d6a841982b1b4d9dcfb77" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_713f39ea93e06a5f6ad8a159b1d08b44" parent="aspace_3037f42f2f3d6a841982b1b4d9dcfb77" type="Folder">31</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>New Jersey State CIO Council</unittitle><unitdate datechar="creation" normal="1955/1961" type="inclusive">1955-1961</unitdate><container altrender="Record carton" id="aspace_118caa19732f47425a7c0c7f3f9a0b1c" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_9f48b08b0f756489b8b58d4cb2215896" parent="aspace_118caa19732f47425a7c0c7f3f9a0b1c" type="Folder">32</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Newark Pre-School Council Annual Staff Report</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Record carton" id="aspace_65b98205107dad4551e5006c547d73f0" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_3be148504b5be45678bc7ce84794bc9f" parent="aspace_65b98205107dad4551e5006c547d73f0" type="Folder">33</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Springfield Newspaper Guild, Local 28</unittitle><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Record carton" id="aspace_4269eb8b9c3dfb5ab7cf08ab4e4bc1c1" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_4b8f7a3695ce69e59f6d4f208f0fb649" parent="aspace_4269eb8b9c3dfb5ab7cf08ab4e4bc1c1" type="Folder">34</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Western Massachusetts CIO Council</unittitle><unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Record carton" id="aspace_d33c6fe4aeae67b93d7127f8dd615d2c" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_e3359b889c18c929ebedbefbd659c113" parent="aspace_d33c6fe4aeae67b93d7127f8dd615d2c" type="Folder">35</container></did></c></c><c id="aspace_ref55" level="series"><did><unittitle>Series III: Photographs</unittitle><unitdate datechar="creation" normal="1959/1999" type="inclusive">1959-1999</unitdate></did><c id="aspace_ref56" level="file"><did><unittitle>Abraham Lincoln Brigade Veterans (Charles O'Flaherty, Ed Flaherty and Paul Burns)</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_5e96f4ba37bd0a4bfe6383ad5bcd8ead" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_37d121e59d0f9c263e1420ecef88c77e" parent="aspace_5e96f4ba37bd0a4bfe6383ad5bcd8ead" type="Folder">36</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Community Services Dinner</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_48c88249a0904679de29a0736937ac0d" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_8ea95c4c9609766149564d9b309567e9" parent="aspace_48c88249a0904679de29a0736937ac0d" type="Folder">37</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation" normal="1955/1964" type="inclusive">circa 1959</unitdate><container altrender="Record carton" id="aspace_7a6264d974d08f5b1a28df4de165525a" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_7c4dd8b0e7dae4721a394263a01f65cd" parent="aspace_7a6264d974d08f5b1a28df4de165525a" type="Folder">38</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>O'Flaherty Family</unittitle><unitdate datechar="creation" normal="1937/1999" type="inclusive">1999, undated</unitdate><container altrender="Record carton" id="aspace_18bc30f96c838724cdd7c43940fd73d5" label="Mixed Materials [31142062757771]" type="Box">1</container><container id="aspace_effb312bea9c6841e06dad6d34ab6ff7" parent="aspace_18bc30f96c838724cdd7c43940fd73d5" type="Folder">39</container></did></c><c id="aspace_dd8da71d67f74ba0627db881042171d1" level="file"><did><unittitle>Testimonial dinner for Mrs. Carl Holderman, CIO Women of New Jersey</unittitle><unitdate datechar="creation" normal="1959-10-21/1959-10-21">1959-10-21</unitdate><container altrender="Flat OS Box 17" id="aspace_c1fb38198055454c101f4f4b1fe42986" label="Mixed Materials [31142062715415]" type="Box">Shared Tamiment 032</container></did></c></c></dsc>
+</archdesc>
 </ead>

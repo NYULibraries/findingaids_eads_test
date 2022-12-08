@@ -1,589 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_035">mss_035</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Pleiades Club Collection <num>MSS.035</num></titleproper>
-        <author>Jane Gorzhevskaya, Fall 1997. Collection reprocessed by Emily King, 2014.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>1997</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:46:12 -0500</date>.</creation>
-      <langusage>Description is in <language>English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Pleiades Club Collection</unittitle>
-      <origination label="Creator">
-        <persname source="local">Neiman, Howard S.</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Mann, Sivia Brenner</persname>
-      </origination>
-      <unitid>MSS.035</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
-        <extent altrender="carrier">(4 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1893/1943" type="inclusive">1893-1943</unitdate>
-      <abstract id="aspace_ec9f9e57ac7cd1b037fc964cb59ed51a">The Pleiades Club was a Greenwich Village literary society of the early 20th century. Howard Neiman was a member of the Board of Governors throughout the Club's history, and served in other posts at the Club. The collection includes Neiman's club correspondence and printed items which illuminate aspects of the literary and artistic life of the Village of that time.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <custodhist id="aspace_113d3c35047ad3cf1242ed8e68d16f26">
-      <head>Provenance</head>
-      <p>The collection consists of papers and books of Howard S. Neiman donated to Fales Library by Sivia Brenner Mann in 1994.</p>
-    </custodhist>
-    <accessrestrict id="aspace_dc784a1f6c736ca5851187ea7af3739d">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <userestrict id="aspace_bdb403a30d9abde73be1dd292aaa223a">
-      <head>Use Restrictions</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </userestrict>
-    <prefercite id="aspace_5502c16b50ea821ee4b1241e402c2980">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form:<lb/><lb/>Identification of item, date (if known); The Pleiades Club Collection; MSS 035; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address>, New York University Libraries.</p>
-    </prefercite>
-    <bioghist id="aspace_2b2531ab1e6f3558f20074af6753f52f">
-      <head>Historical/Biographical Note:</head>
-      <p>The Pleiades Club emerged in 1896 from the gatherings of some members of the Greenwich Village artistic community in the small Italian restaurant of Maria del Prato on MacDougal Street. Among the customers of Maria's, the Pleiades Club named: Amos Cummings, Colonel William Gulder, Ripley Oswood Anthony, Paul Du Chaillu, Clara Louise Kellogg, Mark Twain, Valerian Gribayedoff, Signor Tagliapietra, "Billy" (W. E. S) Fales, Cleveland Moffett, Stephen Crane, "Billy" Welsh, Henry Tyrrell, Sam Chamberlain, Colonel Patton, William Garrison, George Luks, and Ernest Jarrold as its progenitors. For several seasons (each season lasted December through May) the Club continued to meet weekly at Maria's, first on Saturday and then on Sunday nights. As it became more widely known, the Club moved in search of larger quarters, first to the Black Cat (Uptown) and then to the Hungaria. After the first few years of uncertain and varying policies, in 1901 a new Board of Governors was elected, the name Pleiades Club regularly adopted, and the incorporation papers granted on January 9, 1902. After several seasons of moves, the Club settled in 1906 at the Hotel Brevoort, where it remained for most of its existence, with the exception of a few short-term stays at Reisenweber's and Hotel Martinique.</p>
-      <p>The Club's activities primarily consisted of weekly dinners, accompanied by an entertainment program, such as music performances and poetry readings, where club members and guests of honor gathered "to enjoy and foster the allied arts of Music, Drama, Art and Literature, and to Promote the spirit of good fellowship" (The Pleiad, 1931-32). The Club saw its mission as providing a friendly and appreciative audience to the inexperienced artists, helping the needy artists with free scholarships in the various branches of arts. The Club also published a yearbook, The Pleiad.</p>
-      <p>The Club apparently continued to function at least through the 1935/1936 season, since the 1936 yearbook was published (it is a part of The New York Historical Society collection).</p>
-      <p>Howard Seiger Neiman (1868-1947) was a patent attorney, editor and publisher of Textile Colorist magazine (1918-1944). Born in Norristown, PA, he received a B. S. degree from Lehigh University in 1888 and entered the dyestuff and chemical industries. Neiman had studied at New York Law School, set up offices as a patent and trademark attorney, and became a leading legal adviser for the cosmetic industry. He served as chemical expert for Leopold Cassella &amp; Co., H. A. Metz &amp; Co. and other concerns.</p>
-      <p>Throughout his life, Howard Neiman belonged to numerous clubs and associations. He was a member of the American Chemical Society since 1893. A charter member of the American Institute of Chemists, he was named its honorary secretary in 1946, after having served as its secretary for twenty years. He was a member of the Salesman's Association of the Synthetic Organic Chemical Manufacturers Association, the Chemists Club, Theta Delta Chi, Old Colony and the Manhasset Bay Yacht Club. He also was president of the Municipal Opera Association and a Mason Knight Templar and Shriner.</p>
-      <p>The Pleiades club was one of Neiman's long-time commitments. He was a member of the Board of Governors throughout the Club's history, served as its Secretary in 1905-1908 and again in 1928-1933, and was elected President of the Club three times.</p>
-      <p> Sources: </p>
-      <p>
-        <list>
-          <item> The Pleiad</item>
-          <item> The New York Times Obituary (Nov. 2, 1947, 73:2)</item>
-          <item/>
-          <item/>
-        </list>
-      </p>
-    </bioghist>
-    <scopecontent id="aspace_ef209f3eaa13da76da31e429e1515938">
-      <head>Scope and Content Note</head>
-      <p>Howard S. Neiman's collection consists of books, yearbooks, scrapbooks, letters and miscellaneous items. The material primarily relates to the Pleiades Club of the Greenwich Village, but also include some items relating to other activities of Howard Neiman. </p>
-      <p>
-        <emph render="bold">SERIES DESCRIPTION</emph>
-      </p>
-      <p><emph render="bold">Series I, Books</emph>, (1899-1949): consists of books from Neiman's library, written mostly by the members of the Pleiades Club. Nearly all books and pamphlets are inscribed to Neiman by their authors. Two books have manuscript poems and correspondence laid in.</p>
-      <p><emph render="bold">Series II, Yearbooks</emph>, (1906-1932): contains volumes of The Pleiad for years 1907-1922 (missing volumes for 1908/09, 1911/12, and 1920/21 seasons), volumes for 1927/28, 1928/29 and 1931/32 seasons and a folder containing loose pages from various issues of the yearbook (1906-1915). Six volumes are inscribed or signed by the contributors.</p>
-      <p><emph render="bold">Series III, Correspondence</emph>, (1903-1918): comprised of over 150 letters (virtually all autograph), from minor writers, journalists, celebrities of the day, politicians, editors etc. Letters are addressed predominantly to Neiman as a secretary of the Pleiades Club, and sometimes to other Club officials (John Ryan, Edward Foley). Among the more famous names are Louis Rhead (3 letters), Secretary of State John Hay, Arthur Guiterman, Dan Beard, Otis Skinner. Several letters and postcards concerning Neiman do not relate to the Pleiades Club.</p>
-      <p><emph render="bold">Series IV: Miscellaneous</emph>, (1893-1960): consists of two subseries</p>
-      <p>Subseries A consists of the materials relating to the Pleiades Club, such as scrapbooks and folders.</p>
-      <p>Subseries B consists of materials relating to other interests of Howard Neiman, such bound volumes of newspaper clippings and poetry, Textile Colorist editorials, selection of materials on actor George Clarke, opera libretto etc.</p>
-    </scopecontent>
-    <arrangement id="aspace_c2974b787909ebf1d31bb9c4ee7d209c">
-      <head>Arrangement</head>
-      <p>Folders are generally arranged alphabetically by subject/author heading.</p>
-      <p>The files are grouped into four series.</p>
-      <list numeration="arabic" type="ordered">
-        <head>Missing Title</head>
-        <item>Series I: Books is arranged alphabetically by author's last name.</item>
-        <item>Series II: Yearbooks are arranged chronologically.</item>
-        <item>Series III: Correspondence is arranged alphabetically by correspondents' last name.</item>
-        <item>Series IV: Ephemera is arranged into two subseries.</item>
-      </list>
-    </arrangement>
-    <separatedmaterial id="aspace_a909acadbd5eb779564efcd1c50a04b5">
-      <head>Separated Material</head>
-      <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
-    </separatedmaterial>
-    <controlaccess>
-      <geogname source="lcsh">New York (N.Y.).</geogname>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Scrapbooks.</genreform>
-      <genreform source="aat">Postcards.</genreform>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <geogname source="lcsh">New York (N.Y.) -- Social life and customs.</geogname>
-      <geogname source="lcsh">New York (N.Y.) -- Intellectual life</geogname>
-      <subject source="lcsh">English literature |x Societies, etc.</subject>
-      <persname source="naf">Arliss, George, 1868-1946</persname>
-      <persname source="naf">Skinner, Otis, 1858-1942</persname>
-      <persname source="naf">Beard, Daniel Carter, 1850-1941</persname>
-      <corpname source="naf">Pleiades Club</corpname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_035">mss_035</eadid><filedesc><titlestmt><titleproper>Guide to the Pleiades Club Collection <num>MSS.035</num></titleproper><author>Jane Gorzhevskaya, Fall 1997. Collection reprocessed by Emily King, 2014.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>1997</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 11:06:22 -0500</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Pleiades Club Collection</unittitle>
+    <origination label="Creator">
       <persname source="local">Neiman, Howard S.</persname>
-      <persname source="naf">Rhead, Louis, 1857-1926</persname>
-      <persname source="naf">Pollock, Channing, 1880-1946</persname>
-      <persname source="naf">Guiterman, Arthur, 1871-1943</persname>
-      <persname source="naf">Clarke, George, 1840-1906</persname>
-      <persname source="naf">Hay, John, 1838-1905</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Mann, Sivia Brenner</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref11" level="series">
-        <did>
-          <unittitle>Series I: Books</unittitle>
-        </did>
-        <scopecontent id="aspace_484d3f0f830a5eb0741c6a7a13b76a3d">
-          <head>Scope and Content</head>
-          <p>This series consists of books from Neiman's library, written mostly by the members of the Pleiades Club. Nearly all books and pamphlets are inscribed to Neiman by their authors. Two books have manuscript poems and correspondence laid in.</p>
-        </scopecontent>
-        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Bangs, John Kendrick, <emph render="italic">Olympian Nights</emph>, New York-London: Harper and Bros. Co., 1902.</unittitle>
-            <unitdate datechar="creation">1902</unitdate>
-            <container id="aspace_44e417fd3d76b166bb13e955bfb10675" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_9a4bfaf49d62ae3608f213d96a3908bf" parent="aspace_44e417fd3d76b166bb13e955bfb10675" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Beresford, Helen, <emph render="italic">The Phantom Knight and Other Verse</emph>, Hawthorne: Hawthorne News Printing and Publishing Co., 1925. Sighed by author.</unittitle>
-            <unitdate datechar="creation">1925</unitdate>
-            <container id="aspace_576b0a8d78e78f29370f27bfd1f21d71" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_f91232577db471e8e160b3d5df9d94d8" parent="aspace_576b0a8d78e78f29370f27bfd1f21d71" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Chittenden, Larry, <emph render="italic">Bermuda Verses</emph>, New York - London: Putnam's Sons, 1909. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1909</unitdate>
-            <container id="aspace_4b4446eccabf43c3dce7a1ea72993b98" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_cdd7bda9e8eb47f4a1d398ab338211db" parent="aspace_4b4446eccabf43c3dce7a1ea72993b98" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Cole, Carter S., <emph render="italic">Lays and Lyrics</emph>, New York, n. p. 1910. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1910</unitdate>
-            <container id="aspace_6cd256339463b8028024899a47980ef6" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_e8fc13620b5bad26f23fa2a8f377f92c" parent="aspace_6cd256339463b8028024899a47980ef6" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Edwards, Harry Stillwell, <emph render="italic">Just Sweethearts: a Christmas Love Story</emph>, Mason, Georgia: Burke Co., 1919. Inscribed to Howard and Edna Neiman from cousin Sadie.</unittitle>
-            <unitdate datechar="creation">1919</unitdate>
-            <container id="aspace_f363faa17bf0a567f4a8abb7613d97bf" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_5229cac3d90df83d3eb83d85969d769d" parent="aspace_f363faa17bf0a567f4a8abb7613d97bf" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Emerson,. Edwin Jr., <emph render="italic">Popys's Ghost</emph>, Boston, 1899. Signed by author.</unittitle>
-            <unitdate datechar="creation">1899</unitdate>
-            <container id="aspace_c1d65fc76463fb78d931213dccf87f7f" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_accedaf30e487abc58e4df9c175485cc" parent="aspace_c1d65fc76463fb78d931213dccf87f7f" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Emmons, Earl, <emph render="italic">Mavericks</emph>, New York: Oswald Publishing Co., 1924. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1924</unitdate>
-            <container id="aspace_8563aec04c6f3b3370675171b71882b3" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_50c0114f11c04816ffed1071c35d41ae" parent="aspace_8563aec04c6f3b3370675171b71882b3" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Eudy, Mary Cummings, <emph render="italic">Quicken the Current</emph>, New York: Harper &amp; Bros. Co., 1949.</unittitle>
-            <unitdate datechar="creation">1949</unitdate>
-            <container id="aspace_3b335abb6c0d81e7d4c51c64084ab3f5" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_eca8d430b7526e5ef2214e347e99e4f4" parent="aspace_3b335abb6c0d81e7d4c51c64084ab3f5" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Euwer, Antony Henderson, <emph render="italic">Cats, New York: Club Affairs Co.</emph>, 1907. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1907</unitdate>
-            <container id="aspace_350803ec2d8efd486ad1306960afa846" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_e27973e103beb458aba77e213f40f26b" parent="aspace_350803ec2d8efd486ad1306960afa846" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Fairchild, Lee, <emph render="italic">The Tippler's Vow</emph>, New York: De Olde Arden Press, 1908. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1908</unitdate>
-            <container id="aspace_54f51d33a70ea3823dcf2872b96e98bb" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_19aea7a835a812ec20d83041c677b3c8" parent="aspace_54f51d33a70ea3823dcf2872b96e98bb" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Foster, Ardeen, <emph render="italic">The Poetical Works</emph>, New York: McElroy Publishing Co., 1906. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1906</unitdate>
-            <container id="aspace_792ec5fdfa5d8ebe7752bd3e960a113d" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_201f53c8466e0e1bf5da878b4ac712ca" parent="aspace_792ec5fdfa5d8ebe7752bd3e960a113d" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Hazzard, John Edward, <emph render="italic">Poetry an'Rot</emph>, New York: Geo F. Rammelsburg, 1906. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1906</unitdate>
-            <container id="aspace_b879a7ca574cb2736155c8dd855323b7" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_1fa7d3e2f5b13a116f6b767d769b6aa8" parent="aspace_b879a7ca574cb2736155c8dd855323b7" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Moore, Charles Forrest, <emph render="italic">One Thing and Another: Essays</emph>, New York :William Edwin Rudge, 1924. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1924</unitdate>
-            <container id="aspace_088cdecae05d8c97955552bdc06dee3e" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_979100511ce48fa1cdcac5b43e228ef9" parent="aspace_088cdecae05d8c97955552bdc06dee3e" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Moore, Charles Forrest, <emph render="italic">Parade of the Presidents</emph>, New York :William Edwin Rudge, 1928. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1928</unitdate>
-            <container id="aspace_6cbc255fc8bb36c6bf89afd81f5a30e0" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_f60e06d7753cc5763af7aeb6f3e88b3c" parent="aspace_6cbc255fc8bb36c6bf89afd81f5a30e0" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Moore, Charles Forrest, <emph render="italic">The Challenge of Life</emph>, New York :William Edwin Rudge,1924</unittitle>
-            <unitdate datechar="creation">1924</unitdate>
-            <container id="aspace_663409d42360a7e1e36e847da97fd26a" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_aecf8350bc9bc37bf9d26430d9804037" parent="aspace_663409d42360a7e1e36e847da97fd26a" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Nelson, Frank Carleton, <emph render="italic">Along Life's Road</emph>, Auburn: The Indiana State Forum, 1927. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1927</unitdate>
-            <container id="aspace_daa3a0c5f4468a5b3358871b75482cad" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_c16d3a578d2828002b53218f83a79705" parent="aspace_daa3a0c5f4468a5b3358871b75482cad" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Norris, Zoe Anderson,<emph render="italic"> The Color of His Soul</emph>, New York Fenno &amp; Co., 1903. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1903</unitdate>
-            <container id="aspace_103843c0e4caacd93c5eca83009f1a78" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_77f4eb2a0ece4ae59034aea544bed13d" parent="aspace_103843c0e4caacd93c5eca83009f1a78" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Palmer Spaudling, Francesca di Maria, <emph render="italic">The Voyager and Other Poems</emph>, New York, n. p. 1912 Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1912</unitdate>
-            <container id="aspace_7f1613f4c51dac2e7d340accd03e9343" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_5bfb4d13bed252141eb7c0f25c39fce8" parent="aspace_7f1613f4c51dac2e7d340accd03e9343" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Samuels, Maurice, <emph render="italic">The Florentines, A Play</emph>, New York: Bentano's, 1904. Inscribed to Neiman by author.</unittitle>
-            <unitdate datechar="creation">1904</unitdate>
-            <container id="aspace_9200054471c9f36dd75f125792ced403" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_79a3ba2d5cab01d8d3103fa3ebf1c827" parent="aspace_9200054471c9f36dd75f125792ced403" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Terry, Edward Hicks Streeter , <emph render="italic">Poems</emph>, Philadelphia: The Biddle Press, 1910. Signed by author. Enclosed: two manuscript poems by Terry.</unittitle>
-            <unitdate datechar="creation">1910</unitdate>
-            <container id="aspace_0507c9533663abca706d476221bd1a37" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_ef5ccb784c191510ad8db7e6dec92a2b" parent="aspace_0507c9533663abca706d476221bd1a37" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Weeks, Clara Winslow, <emph render="italic">Story of a Chinese Plate</emph>, New York: The Trow Press, 1913. Enclosed: correspondence from Clara Winslow Week to Neiman.</unittitle>
-            <unitdate datechar="creation">1913</unitdate>
-            <container id="aspace_172d30d8bdfa4a24071ef7fb87f033e4" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_21c8e35055cf74e8d485d6f091362389" parent="aspace_172d30d8bdfa4a24071ef7fb87f033e4" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">What Mrs Eddy Said to Arthur Brisbane: the Celebrated Interview of the Eminent Journalist and the Founder of Christian Science</emph>, New York: Paige, 1930. Inscribed to Neiman by Sam Roan.</unittitle>
-            <unitdate datechar="creation">1930</unitdate>
-            <container id="aspace_0daa85b8e8cb37ce83fe3255632bc9a9" label="Mixed Materials [31142042230022]" type="Box">1</container>
-            <container id="aspace_0e7119e0db992f61444c304fa16e0cbc" parent="aspace_0daa85b8e8cb37ce83fe3255632bc9a9" type="Folder">22</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref34" level="series">
-        <did>
-          <unittitle>Series II: Yearbooks</unittitle>
-        </did>
-        <scopecontent id="aspace_b67a93e58abeb4ba81dbf3919a2ecfb7">
-          <head>Scope and Content</head>
-          <p>This series contains volumes of The Pleiad for years 1907-1922 (missing volumes for 1908/09, 1911/12, and 1920/21 seasons), volumes for 1927/28, 1928/29 and 1931/32 seasons and a folder containing loose pages from various issues of the yearbook (1906-1915). Six volumes are inscribed or signed by the contributors.</p>
-        </scopecontent>
-        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1907/08. Inscribed or signed by the contributors.</unittitle>
-            <unitdate datechar="creation">1907-1908</unitdate>
-            <container id="aspace_0c4cf61ff54827408d9d4c9358deaea5" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_0f64a0a7329b3bc76f78ce83c7319344" parent="aspace_0c4cf61ff54827408d9d4c9358deaea5" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1909/10. Inscribed or signed by the contributors.</unittitle>
-            <unitdate datechar="creation">1909-1910</unitdate>
-            <container id="aspace_ca33a6e067befd4022ac2e61b8f0629b" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_85e90bb030d7fe1bedcb66ba31f1f63f" parent="aspace_ca33a6e067befd4022ac2e61b8f0629b" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1910/11</unittitle>
-            <unitdate datechar="creation">1910-1911</unitdate>
-            <container id="aspace_9ae36555fad3414c4e255c83bccf1f42" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_3e4dfea11803491a6d5786f5e07c4f0e" parent="aspace_9ae36555fad3414c4e255c83bccf1f42" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1912/13. Inscribed or signed by the contributors.</unittitle>
-            <unitdate datechar="creation">1912-1913</unitdate>
-            <container id="aspace_b2ab6e545049a0e7b1f70e669416a325" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_cc327a0b106e7c6895f23f77466a602d" parent="aspace_b2ab6e545049a0e7b1f70e669416a325" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1913/14</unittitle>
-            <unitdate datechar="creation">1913-1914</unitdate>
-            <container id="aspace_6ffb4782785cb2116a484688ecb57eb7" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_ccc9ea46f7049cf65726bebdd812abfb" parent="aspace_6ffb4782785cb2116a484688ecb57eb7" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1914/15</unittitle>
-            <unitdate datechar="creation">1914-1915</unitdate>
-            <container id="aspace_7be8585940b8e05bbb79d82931208563" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_f3437d19869dfd0e2fe4f1dc050b9281" parent="aspace_7be8585940b8e05bbb79d82931208563" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1915/16. Inscribed or signed by the contributors.</unittitle>
-            <unitdate datechar="creation">1915-1916</unitdate>
-            <container id="aspace_7beabb2dc98e052e7fe6500e483a69fd" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_3a7fae8477cf09a60a37562df02e0d81" parent="aspace_7beabb2dc98e052e7fe6500e483a69fd" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1916/17</unittitle>
-            <unitdate datechar="creation">1916-1917</unitdate>
-            <container id="aspace_47f951bac99ffba45578040372549425" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_78332fb5978c3c441cc6beb62074d5b1" parent="aspace_47f951bac99ffba45578040372549425" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1917/18. Inscribed or signed by the contributors.</unittitle>
-            <unitdate datechar="creation">1917-1918</unitdate>
-            <container id="aspace_7bf8ce073b2bd29b6fe90e17fc49ae38" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_0b733affb3606aa1a7d4b2065fb8f1ff" parent="aspace_7bf8ce073b2bd29b6fe90e17fc49ae38" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1918/19</unittitle>
-            <unitdate datechar="creation">1918-1919</unitdate>
-            <container id="aspace_83fbe496a376df2ad9acfa4105c91bbb" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_afff07db7770287f67cd810899e763be" parent="aspace_83fbe496a376df2ad9acfa4105c91bbb" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1919/20. Inscribed or signed by the contributors.</unittitle>
-            <unitdate datechar="creation">1919-1920</unitdate>
-            <container id="aspace_dffdf4af9de5e698274f358806751ec9" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_afd8fed05de000123a160e258ce6fd9d" parent="aspace_dffdf4af9de5e698274f358806751ec9" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1921/22</unittitle>
-            <unitdate datechar="creation">1921-1922</unitdate>
-            <container id="aspace_0f7461b55df769c46ec570171ef50324" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_7289de46070fd3c6ae398dc4afb6fdcb" parent="aspace_0f7461b55df769c46ec570171ef50324" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1927/28</unittitle>
-            <unitdate datechar="creation">1927-1928</unitdate>
-            <container id="aspace_7c16355ede69c709c7c57de85b1f5672" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_a834ebb906d1059f6dad75770020f7b2" parent="aspace_7c16355ede69c709c7c57de85b1f5672" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1928/29</unittitle>
-            <unitdate datechar="creation">1928-1929</unitdate>
-            <container id="aspace_df77a5d77ac17ede1a30fd00463efb99" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_44b94f20e703153746aba3d7d0ea4e4a" parent="aspace_df77a5d77ac17ede1a30fd00463efb99" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The Pleiad, yearbook, season 1931/32</unittitle>
-            <unitdate datechar="creation">1931-1932</unitdate>
-            <container id="aspace_dfa64cedc71d8008aa03b8d7ba46533d" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_cabb1a102fbcc49a5fec971dee68fd9c" parent="aspace_dfa64cedc71d8008aa03b8d7ba46533d" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Loose pages from various issues of the yearbook (1906-1915).</unittitle>
-            <unitdate datechar="creation">1906-1915</unitdate>
-            <container id="aspace_7843f722858a607ee5efdadbd33b9110" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_32cf32174650293413ae8aaec1459c14" parent="aspace_7843f722858a607ee5efdadbd33b9110" type="Folder">16</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref51" level="series">
-        <did>
-          <unittitle>Series III: Correspondence</unittitle>
-        </did>
-        <scopecontent id="aspace_c5226284068b328d73fd3b0f098a82c2">
-          <head>Scope and Content</head>
-          <p>This series is comprised of over 150 letters (virtually all autograph), from minor writers, journalists, celebrities of the day, politicians, editors etc. Letters are addressed predominantly to Neiman as a secretary of the Pleiades Club, and sometimes to other Club officials (John Ryan, Edward Foley). Among the more famous names are Louis Rhead (3 letters), Secretary of State John Hay, Arthur Guiterman, Dan Beard, Otis Skinner. Several letters and postcards concerning Neiman do not relate to the Pleiades Club.</p>
-        </scopecontent>
-        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="bold">Incoming Letters (1903-1918), arranged alphabetically by correspondent (A-K).<lb/>Correspondents:</emph><lb/>Charles A. Adams,<lb/>Birdsill Andrews,<lb/>A. Antone and R. Rimon,<lb/>Paulette Antoine,<lb/>George Arliss,<lb/>John Aushire,<lb/>A. Bainbridge,<lb/>M. J. Baxter,<lb/>Dan Beard, <lb/>George Beban,<lb/>Alan Bell,<lb/>Helen Berensford,<lb/>K. Blienniz,<lb/>Gertrude Boor-Stearne,<lb/>A. Brisbane,<lb/>Alanson T. Briggs,<lb/>Edmund Breese,<lb/>Richard Carter,<lb/>J. B. Coghlan,<lb/>Homer Davenport, <lb/>D. Delchanty,<lb/>Mennes Graham Destamps,<lb/>Thomas Darlington,<lb/>Edith Dethson,<lb/>Minnie Dupree,<lb/>Paul Dufault,<lb/>Alec deEbray,<lb/>Lee Fairchild,<lb/>Thomas Fogart<lb/>Evelyn Dutton Fogg, <lb/>Ardeen Foster,<lb/>Spencer Frisk,<lb/>Paolo S. Galazzi,<lb/>Gilberte,<lb/>Ch. Gilibert,<lb/>Jeanne Gomelli,<lb/>Frederick Grant,<lb/>Ms. Greenleaf,<lb/>Arthur Guiterman,<lb/>Archie Gunn,<lb/>James Clarence Harvey,<lb/>John Hay,<lb/>Hartford S. Hadley,<lb/>Job E Hedges,<lb/>S. F. Hershil, <lb/>Shafter Howard,<lb/>Franz Kaltenborn,<lb/>M. Ketten,<lb/>Helen Koelling,<lb/>Koike,</unittitle>
-            <unitdate datechar="creation">1903-1918</unitdate>
-            <container id="aspace_70033ce94f5c3ba30c909aac4ef2c706" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_5807ab56dc7d9aa90b582e3728adf54b" parent="aspace_70033ce94f5c3ba30c909aac4ef2c706" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="bold">Incoming Letters (1903-1918), arranged alphabetically by correspondent (L-Z).</emph><lb/>Harry Leighton, <lb/>Sheldon Lewis,<lb/>Frank Lincoln,<lb/>de Lipman,<lb/>Charles Battell Loomis,<lb/>Wright Lorrimer,<lb/>R. B. Mantell,<lb/>F. C. Mathenson, <lb/>Raybaudy-Massiglia,<lb/>Edyth Totten McGrath,<lb/>Roy L. McCardell,<lb/>Burn McIntosh,<lb/>Nelson Miles,<lb/>J. W. Miller<lb/>James Grant Milson,<lb/>Esther Wall Mumford,<lb/>Jan Munkacsy,<lb/>E. Nagasaki,<lb/>M. Nagasi,<lb/>Marci Narelle,<lb/>Mesrop Newton,<lb/>Zoe Anderson Norris,<lb/>[...] O'Carrole,<lb/>R. F. Outeault,<lb/>Francesca di Maria Palmer,<lb/>F. Joubert Pienaar,<lb/>J. C. Platt,<lb/>Channing Pollock,<lb/>F. K. Pulsifer,<lb/>Louis Rhead,<lb/>Charles. H. Roe,<lb/>Caro Roma,<lb/>Charles Rotland,<lb/>Mrs McGarick-Russell,<lb/>Charles Sarka,<lb/>Theodocia Sarrisen,<lb/>Maurice Samuels<lb/>Julius L. Schendel,<lb/>Percy Sanderson,<lb/>James N Sing,<lb/>Otis Skinner,<lb/>Edith Sothern, <lb/>N[...] Taliofarro,<lb/>C. Bryson Taylor,<lb/>David Warfield,<lb/>Clifford Walker,<lb/>Percy Winter,<lb/>Bartow S. Weeks,<lb/>Ethel Jackson Zimmerman.<lb/></unittitle>
-            <unitdate datechar="creation">1903-1918</unitdate>
-            <container id="aspace_f472802a78938ef20a9ce6ecc12291db" label="Mixed Materials [31142042230030]" type="Box">2</container>
-            <container id="aspace_4e5bbed0376cffa826e99eb54260f668" parent="aspace_f472802a78938ef20a9ce6ecc12291db" type="Folder">18</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref54" level="series">
-        <did>
-          <unittitle>Series IV: Ephemera</unittitle>
-        </did>
-        <scopecontent id="aspace_62aae33ee05003ecd1515748372046bd">
-          <head>Scope and Content</head>
-          <p>This series is divided into two subseries: subseries A consists of the materials relating to the Pleiades Club, such as scrapbooks and folders. Subseries B includes materials relating to other interests of Howard Neiman, such bound volumes of newspaper clippings and poetry, Textile Colorist editorials, selection of materials on actor George Clarke, opera libretto etc.</p>
-        </scopecontent>
-        <c id="aspace_ref55" level="subseries">
-          <did>
-            <unittitle>Subseries A: The Pleiades Club</unittitle>
-          </did>
-          <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Pleiades Scrapbook, season 1930-1931, contains autographs, poems and drawings by members and guests of the Club.</unittitle>
-              <unitdate datechar="creation">1930-1931</unitdate>
-              <container altrender="Flat Box - 12 x 15.25" id="aspace_1483e48344360270183cb7a4d3a2d8d1" label="Mixed Materials [31142063599867]" type="Box">4</container>
-              <container id="aspace_0521c79dbd26fe5a7a8eaeee8c3ccafd" parent="aspace_1483e48344360270183cb7a4d3a2d8d1" type="Folder">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Club Yearbook Cloth Ex Libris Folders for year XIII, season 1906/07</unittitle>
-              <unitdate datechar="creation">1906-1907</unitdate>
-              <container id="aspace_e2ac9bb810642e7fd428770af8216567" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_4e823ffc71193bf6e8a67622263e3e90" parent="aspace_e2ac9bb810642e7fd428770af8216567" type="Folder">1</container>
-            </did>
-            <scopecontent id="aspace_64f5b26cf10edb42d169d16ea8648f80">
-              <head>Scope and Content</head>
-              <p>2 copies.</p>
-            </scopecontent>
-          </c>
-        </c>
-        <c id="aspace_ref58" level="subseries">
-          <did>
-            <unittitle>Subseries B: Howard Neiman</unittitle>
-          </did>
-          <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>"Smoke Rings From Editor's Pipe," Howard Neiman ed., Textile Colorist, Inc., 1942.</unittitle>
-              <unitdate datechar="creation">1942</unitdate>
-              <container id="aspace_386ea564d4907ed0a42e7fc40767b147" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_fa024f27f1a8d2dd1fd0c90b6d92734c" parent="aspace_386ea564d4907ed0a42e7fc40767b147" type="Folder">2</container>
-            </did>
-          </c>
-          <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Editorials of Textile Colorist ,1935-1943, inscribed by Neiman to his wife Edna.</unittitle>
-              <unitdate datechar="creation">1935-1943</unitdate>
-              <container id="aspace_5ad0aa1b8b6f3dc430770ed37eeccc97" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_362c042c491022abfa278bb0d8b3d1a7" parent="aspace_5ad0aa1b8b6f3dc430770ed37eeccc97" type="Folder">3</container>
-            </did>
-          </c>
-          <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Poetry Album 1897 - 1908 (?) contains printed and handwritten poems by Neiman.</unittitle>
-              <unitdate datechar="creation">1897-[1908]</unitdate>
-              <container id="aspace_1094c52364fd4a34d7dde14b28dc1b5b" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_2a9198007db425667a7bb69899514b0f" parent="aspace_1094c52364fd4a34d7dde14b28dc1b5b" type="Folder">4</container>
-            </did>
-          </c>
-          <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Newspaper Clippings, 1891-1895, a bound volume.</unittitle>
-              <unitdate datechar="creation">1891-1895</unitdate>
-              <container id="aspace_04cf1f7c255ad6b21107695c909e335d" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_ecce30b464885f04cb8fdd9e484a98f0" parent="aspace_04cf1f7c255ad6b21107695c909e335d" type="Folder">5</container>
-            </did>
-          </c>
-          <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>"Erinnerungslatter" undated loose leaf collection of art photographs and articles about art exhibitions.</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <container id="aspace_f344a931a884c5f6293424275745b8c8" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_c237547af9e42e15c1254b5121004faa" parent="aspace_f344a931a884c5f6293424275745b8c8" type="Folder">6</container>
-            </did>
-          </c>
-          <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Material relating to actor George Clarke (1893-1894) consists of four autographed letters by George Clarke, addressed to Mr. Popelon, a magazine article and 3 photographs.</unittitle>
-              <unitdate datechar="creation">1893-1894</unitdate>
-              <container id="aspace_a220ffaae4a6d4f7c3c0168ee1f08985" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_5cbd9a91c2c92ab04efb6d31823e7dd5" parent="aspace_a220ffaae4a6d4f7c3c0168ee1f08985" type="Folder">7</container>
-            </did>
-          </c>
-          <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Contes D'Hoffmann. Opera libretto.</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <container id="aspace_ed5b5050c25f0d0f53a3287d1e5fce08" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_a23e331d97cd35b91b4650d3dc3e1306" parent="aspace_ed5b5050c25f0d0f53a3287d1e5fce08" type="Folder">8</container>
-            </did>
-          </c>
-          <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Jack Hazzard, Thinking of Yeh Christmas Time. 1914, booklet.</unittitle>
-              <unitdate datechar="creation">1914</unitdate>
-              <container id="aspace_fe9f5b25e28811721c3eff7078f2a42e" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_b34c3fed3c984ea1347e0340ccb9d3cb" parent="aspace_fe9f5b25e28811721c3eff7078f2a42e" type="Folder">9</container>
-            </did>
-          </c>
-          <c id="aspace_ref69" level="file">
-            <did>
-              <unittitle>Letter to Neiman from Secretary of State Christian A. Herter</unittitle>
-              <unitdate datechar="creation">23 September 1960</unitdate>
-              <container id="aspace_2cf95273647fc4392ed157b45fed9e5d" label="Mixed Materials [31142042230048]" type="Box">3</container>
-              <container id="aspace_36a5b36e381cdafa666aacd77ca41b9f" parent="aspace_2cf95273647fc4392ed157b45fed9e5d" type="Folder">10</container>
-            </did>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>MSS.035</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+      <extent altrender="carrier">in 4 boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1893/1943" type="inclusive">1893-1943</unitdate>
+    <abstract id="aspace_ec9f9e57ac7cd1b037fc964cb59ed51a" label="Abstract">The Pleiades Club was a Greenwich Village literary society of the early 20th century. Howard Neiman was a member of the Board of Governors throughout the Club's history, and served in other posts at the Club. The collection includes Neiman's club correspondence and printed items which illuminate aspects of the literary and artistic life of the Village of that time.</abstract>
+    <langmaterial id="aspace_57aa93ef2cb27a077a26421a18ffaf1f">Materials are in English</langmaterial>
+  </did>
+  <custodhist id="aspace_113d3c35047ad3cf1242ed8e68d16f26">
+    <head>Provenance</head>
+<p>The collection consists of papers and books of Howard S. Neiman donated to Fales Library by Sivia Brenner Mann in 1994.</p>  </custodhist>
+  <accessrestrict id="aspace_dc784a1f6c736ca5851187ea7af3739d">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <userestrict id="aspace_bdb403a30d9abde73be1dd292aaa223a">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <prefercite id="aspace_5502c16b50ea821ee4b1241e402c2980">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form:<lb/><lb/>Identification of item, date (if known); The Pleiades Club Collection; MSS 035; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address>, New York University Libraries.</p>  </prefercite>
+  <bioghist id="aspace_2b2531ab1e6f3558f20074af6753f52f">
+    <head>Historical Note</head>
+<p>The Pleiades Club emerged in 1896 from the gatherings of some members of the Greenwich Village artistic community in the small Italian restaurant of Maria del Prato on MacDougal Street. Among the customers of Maria's, the Pleiades Club named: Amos Cummings, Colonel William Gulder, Ripley Oswood Anthony, Paul Du Chaillu, Clara Louise Kellogg, Mark Twain, Valerian Gribayedoff, Signor Tagliapietra, "Billy" (W. E. S) Fales, Cleveland Moffett, Stephen Crane, "Billy" Welsh, Henry Tyrrell, Sam Chamberlain, Colonel Patton, William Garrison, George Luks, and Ernest Jarrold as its progenitors. For several seasons (each season lasted December through May) the Club continued to meet weekly at Maria's, first on Saturday and then on Sunday nights. As it became more widely known, the Club moved in search of larger quarters, first to the Black Cat (Uptown) and then to the Hungaria. After the first few years of uncertain and varying policies, in 1901 a new Board of Governors was elected, the name Pleiades Club regularly adopted, and the incorporation papers granted on January 9, 1902. After several seasons of moves, the Club settled in 1906 at the Hotel Brevoort, where it remained for most of its existence, with the exception of a few short-term stays at Reisenweber's and Hotel Martinique.</p><p>The Club's activities primarily consisted of weekly dinners, accompanied by an entertainment program, such as music performances and poetry readings, where club members and guests of honor gathered "to enjoy and foster the allied arts of Music, Drama, Art and Literature, and to Promote the spirit of good fellowship" (The Pleiad, 1931-32). The Club saw its mission as providing a friendly and appreciative audience to the inexperienced artists, helping the needy artists with free scholarships in the various branches of arts. The Club also published a yearbook, The Pleiad.</p><p>The Club apparently continued to function at least through the 1935/1936 season, since the 1936 yearbook was published (it is a part of The New York Historical Society collection).</p><p>Howard Seiger Neiman (1868-1947) was a patent attorney, editor and publisher of Textile Colorist magazine (1918-1944). Born in Norristown, PA, he received a B. S. degree from Lehigh University in 1888 and entered the dyestuff and chemical industries. Neiman had studied at New York Law School, set up offices as a patent and trademark attorney, and became a leading legal adviser for the cosmetic industry. He served as chemical expert for Leopold Cassella &amp; Co., H. A. Metz &amp; Co. and other concerns.</p><p>Throughout his life, Howard Neiman belonged to numerous clubs and associations. He was a member of the American Chemical Society since 1893. A charter member of the American Institute of Chemists, he was named its honorary secretary in 1946, after having served as its secretary for twenty years. He was a member of the Salesman's Association of the Synthetic Organic Chemical Manufacturers Association, the Chemists Club, Theta Delta Chi, Old Colony and the Manhasset Bay Yacht Club. He also was president of the Municipal Opera Association and a Mason Knight Templar and Shriner.</p><p>The Pleiades club was one of Neiman's long-time commitments. He was a member of the Board of Governors throughout the Club's history, served as its Secretary in 1905-1908 and again in 1928-1933, and was elected President of the Club three times.</p><p> Sources: </p><p><list><item> The Pleiad</item><item> The New York Times Obituary (Nov. 2, 1947, 73:2)</item><item></item><item></item></list> </p>  </bioghist>
+  <scopecontent id="aspace_ef209f3eaa13da76da31e429e1515938">
+    <head>Scope and Content Note</head>
+<p>Howard S. Neiman's collection consists of books, yearbooks, scrapbooks, letters and miscellaneous items. The material primarily relates to the Pleiades Club of the Greenwich Village, but also include some items relating to other activities of Howard Neiman. </p><p><emph render="bold">SERIES DESCRIPTION</emph> </p><p><emph render="bold">Series I, Books</emph>, (1899-1949): consists of books from Neiman's library, written mostly by the members of the Pleiades Club. Nearly all books and pamphlets are inscribed to Neiman by their authors. Two books have manuscript poems and correspondence laid in.</p><p><emph render="bold">Series II, Yearbooks</emph>, (1906-1932): contains volumes of The Pleiad for years 1907-1922 (missing volumes for 1908/09, 1911/12, and 1920/21 seasons), volumes for 1927/28, 1928/29 and 1931/32 seasons and a folder containing loose pages from various issues of the yearbook (1906-1915). Six volumes are inscribed or signed by the contributors.</p><p><emph render="bold">Series III, Correspondence</emph>, (1903-1918): comprised of over 150 letters (virtually all autograph), from minor writers, journalists, celebrities of the day, politicians, editors etc. Letters are addressed predominantly to Neiman as a secretary of the Pleiades Club, and sometimes to other Club officials (John Ryan, Edward Foley). Among the more famous names are Louis Rhead (3 letters), Secretary of State John Hay, Arthur Guiterman, Dan Beard, Otis Skinner. Several letters and postcards concerning Neiman do not relate to the Pleiades Club.</p><p><emph render="bold">Series IV: Miscellaneous</emph>, (1893-1960): consists of two subseries</p><p>Subseries A consists of the materials relating to the Pleiades Club, such as scrapbooks and folders.</p><p>Subseries B consists of materials relating to other interests of Howard Neiman, such bound volumes of newspaper clippings and poetry, Textile Colorist editorials, selection of materials on actor George Clarke, opera libretto etc.</p>  </scopecontent>
+  <arrangement id="aspace_c2974b787909ebf1d31bb9c4ee7d209c">
+    <head>Arrangement</head>
+
+<p>Folders are generally arranged alphabetically by subject/author heading.</p><p>The files are grouped into four series.</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Books is arranged alphabetically by author's last name.</item>
+      <item>Series II: Yearbooks are arranged chronologically.</item>
+      <item>Series III: Correspondence is arranged alphabetically by correspondents' last name.</item>
+      <item>Series IV: Ephemera is arranged into two subseries.</item>
+    </list>
+  </arrangement>
+  <separatedmaterial id="aspace_a909acadbd5eb779564efcd1c50a04b5">
+    <head>Separated Material</head>
+<p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>  </separatedmaterial>
+  <controlaccess>
+    <geogname source="lcsh">New York (N.Y.).</geogname>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <genreform source="aat">Postcards.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <geogname source="lcsh">New York (N.Y.) -- Social life and customs.</geogname>
+    <geogname source="lcsh">New York (N.Y.) -- Intellectual life</geogname>
+    <subject source="lcsh">English literature |x Societies, etc.</subject>
+    <persname source="naf">Arliss, George, 1868-1946</persname>
+    <persname source="naf">Skinner, Otis, 1858-1942</persname>
+    <persname source="naf">Beard, Daniel Carter, 1850-1941</persname>
+    <corpname authfilenumber="(lccn)n88236288" source="naf">Pleiades Club</corpname>
+    <persname source="local">Neiman, Howard S.</persname>
+    <persname source="naf">Rhead, Louis, 1857-1926</persname>
+    <persname source="naf">Pollock, Channing, 1880-1946</persname>
+    <persname source="naf">Guiterman, Arthur, 1871-1943</persname>
+    <persname source="naf">Clarke, George, 1840-1906</persname>
+    <persname source="naf">Hay, John, 1838-1905</persname>
+    <persname role="dnr" rules="dacs" source="local">Mann, Sivia Brenner</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Books</unittitle></did><scopecontent id="aspace_484d3f0f830a5eb0741c6a7a13b76a3d"><head>Scope and Content</head><p>This series consists of books from Neiman's library, written mostly by the members of the Pleiades Club. Nearly all books and pamphlets are inscribed to Neiman by their authors. Two books have manuscript poems and correspondence laid in.</p></scopecontent><c id="aspace_ref12" level="otherlevel" otherlevel="unspecified"><did><unittitle>Bangs, John Kendrick, <emph render="italic">Olympian Nights</emph>, New York-London: Harper and Bros. Co., 1902.</unittitle><unitdate datechar="creation">1902</unitdate><container id="aspace_6bdd737907be2c4b1559f12076e65be7" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_c1c8892e15dd91d7ac73f44911e74de8" parent="aspace_6bdd737907be2c4b1559f12076e65be7" type="Folder">1</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle>Beresford, Helen, <emph render="italic">The Phantom Knight and Other Verse</emph>, Hawthorne: Hawthorne News Printing and Publishing Co., 1925. Sighed by author.</unittitle><unitdate datechar="creation">1925</unitdate><container id="aspace_3e8bfb26bb319d79d473684890a0a130" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_bd0de3ae55af7b473f8a01ccbe723b03" parent="aspace_3e8bfb26bb319d79d473684890a0a130" type="Folder">2</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Chittenden, Larry, <emph render="italic">Bermuda Verses</emph>, New York - London: Putnam's Sons, 1909. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1909</unitdate><container id="aspace_17d9395fa67dbe6806dd0cbf9d6baa1c" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_31d3e5ede17b7048b4076e64dc32125d" parent="aspace_17d9395fa67dbe6806dd0cbf9d6baa1c" type="Folder">3</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Cole, Carter S., <emph render="italic">Lays and Lyrics</emph>, New York, n. p. 1910. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1910</unitdate><container id="aspace_b21afb0234d78b06176b45f0eb35cf7f" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_1f4f2d461b4d118a5deb6097257ea1fc" parent="aspace_b21afb0234d78b06176b45f0eb35cf7f" type="Folder">4</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Edwards, Harry Stillwell, <emph render="italic">Just Sweethearts: a Christmas Love Story</emph>, Mason, Georgia: Burke Co., 1919. Inscribed to Howard and Edna Neiman from cousin Sadie.</unittitle><unitdate datechar="creation">1919</unitdate><container id="aspace_f89a1d85a8c9f91e7b2c788839e83c7d" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_bf29c00043d470dfe3a8a4f137b53bf8" parent="aspace_f89a1d85a8c9f91e7b2c788839e83c7d" type="Folder">5</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Emerson,. Edwin Jr., <emph render="italic">Popys's Ghost</emph>, Boston, 1899. Signed by author.</unittitle><unitdate datechar="creation">1899</unitdate><container id="aspace_001fc13579a17c1b091bdfa14a4abad9" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_ab39759a76a90c03ad7144d44226a473" parent="aspace_001fc13579a17c1b091bdfa14a4abad9" type="Folder">6</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Emmons, Earl, <emph render="italic">Mavericks</emph>, New York: Oswald Publishing Co., 1924. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_497586ec3849af3b7c453fee2aafa860" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_d9bfa8994154d1093e440f31a401616b" parent="aspace_497586ec3849af3b7c453fee2aafa860" type="Folder">7</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Eudy, Mary Cummings, <emph render="italic">Quicken the Current</emph>, New York: Harper &amp; Bros. Co., 1949.</unittitle><unitdate datechar="creation">1949</unitdate><container id="aspace_c1dde620a97876d0a2b933bd52e2e7ec" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_85b927e04e679be7e128982a9df5c6a1" parent="aspace_c1dde620a97876d0a2b933bd52e2e7ec" type="Folder">8</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Euwer, Antony Henderson, <emph render="italic">Cats, New York: Club Affairs Co.</emph>, 1907. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1907</unitdate><container id="aspace_bab4e61cc1ccef72aa5d7594867c8a3c" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_72fc6a15aed2d43cc445b72d58ba818d" parent="aspace_bab4e61cc1ccef72aa5d7594867c8a3c" type="Folder">9</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Fairchild, Lee, <emph render="italic">The Tippler's Vow</emph>, New York: De Olde Arden Press, 1908. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1908</unitdate><container id="aspace_d842e2ed0c6594debfb5864eb98a22e6" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_5a346dac3a32f6933fd66905aaeea358" parent="aspace_d842e2ed0c6594debfb5864eb98a22e6" type="Folder">10</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Foster, Ardeen, <emph render="italic">The Poetical Works</emph>, New York: McElroy Publishing Co., 1906. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1906</unitdate><container id="aspace_c47cad102e24d7fdcc08a1294d1338d7" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_a6fb73a84bba78df05f950530ce277df" parent="aspace_c47cad102e24d7fdcc08a1294d1338d7" type="Folder">11</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Hazzard, John Edward, <emph render="italic">Poetry an'Rot</emph>, New York: Geo F. Rammelsburg, 1906. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1906</unitdate><container id="aspace_309d7032160a37265893bceca894d903" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_150aafda7fd6b9378f57fe01b7f9e23e" parent="aspace_309d7032160a37265893bceca894d903" type="Folder">12</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Moore, Charles Forrest, <emph render="italic">One Thing and Another: Essays</emph>, New York :William Edwin Rudge, 1924. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_5dec77a28cdd3fe418325cf9b7f47460" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_e871cb83b6e89f04b07a8470bc31db0c" parent="aspace_5dec77a28cdd3fe418325cf9b7f47460" type="Folder">13</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Moore, Charles Forrest, <emph render="italic">Parade of the Presidents</emph>, New York :William Edwin Rudge, 1928. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1928</unitdate><container id="aspace_23b9b69d1aeac43396e07c40cf03a29c" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_bad86a5b778ac156c09b3c4f8d04277b" parent="aspace_23b9b69d1aeac43396e07c40cf03a29c" type="Folder">14</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Moore, Charles Forrest, <emph render="italic">The Challenge of Life</emph>, New York :William Edwin Rudge,1924</unittitle><unitdate datechar="creation">1924</unitdate><container id="aspace_0dc15e0875489d83249d2070dbbeb5c0" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_68ad9cd178a20ece0c68dfa4e0b31b70" parent="aspace_0dc15e0875489d83249d2070dbbeb5c0" type="Folder">15</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Nelson, Frank Carleton, <emph render="italic">Along Life's Road</emph>, Auburn: The Indiana State Forum, 1927. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1927</unitdate><container id="aspace_f3367a836e3938ad7cd0e19a0efdd32c" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_6016b84ed04b3f8090cd26df34d74aab" parent="aspace_f3367a836e3938ad7cd0e19a0efdd32c" type="Folder">16</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Norris, Zoe Anderson,<emph render="italic"> The Color of His Soul</emph>, New York Fenno &amp; Co., 1903. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1903</unitdate><container id="aspace_59003f2f3ba37c0f77e9873a264aef31" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_31176a26ce24ef36fed4477651b01024" parent="aspace_59003f2f3ba37c0f77e9873a264aef31" type="Folder">17</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Palmer Spaudling, Francesca di Maria, <emph render="italic">The Voyager and Other Poems</emph>, New York, n. p. 1912 Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1912</unitdate><container id="aspace_99d713572704cdc2b3906d3d2482136b" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_f4d23bd4f62f802035f7f9f40b0b8604" parent="aspace_99d713572704cdc2b3906d3d2482136b" type="Folder">18</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>Samuels, Maurice, <emph render="italic">The Florentines, A Play</emph>, New York: Bentano's, 1904. Inscribed to Neiman by author.</unittitle><unitdate datechar="creation">1904</unitdate><container id="aspace_7db9e9abcde2108615f0f76f41daeacb" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_5d27e3a3f9b72f2f294d891986aa30df" parent="aspace_7db9e9abcde2108615f0f76f41daeacb" type="Folder">19</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Terry, Edward Hicks Streeter , <emph render="italic">Poems</emph>, Philadelphia: The Biddle Press, 1910. Signed by author. Enclosed: two manuscript poems by Terry.</unittitle><unitdate datechar="creation">1910</unitdate><container id="aspace_e305e9c226acfd75d3944954c3fe0910" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_ec3a922862cc602e3dc081cb464ac92a" parent="aspace_e305e9c226acfd75d3944954c3fe0910" type="Folder">20</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Weeks, Clara Winslow, <emph render="italic">Story of a Chinese Plate</emph>, New York: The Trow Press, 1913. Enclosed: correspondence from Clara Winslow Week to Neiman.</unittitle><unitdate datechar="creation">1913</unitdate><container id="aspace_2f733d548420d395a51a2e8870828b2a" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_446b79ab4c7fcf3eca95dbc9df58c674" parent="aspace_2f733d548420d395a51a2e8870828b2a" type="Folder">21</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">What Mrs Eddy Said to Arthur Brisbane: the Celebrated Interview of the Eminent Journalist and the Founder of Christian Science</emph>, New York: Paige, 1930. Inscribed to Neiman by Sam Roan.</unittitle><unitdate datechar="creation">1930</unitdate><container id="aspace_001b3b9d15d6eb98b1ab5cbfa476f4f9" label="Mixed Materials [31142042230022]" type="Box">1</container><container id="aspace_37b0971ffbdf5fa77e41a4db7a924a60" parent="aspace_001b3b9d15d6eb98b1ab5cbfa476f4f9" type="Folder">22</container></did></c></c><c id="aspace_ref34" level="series"><did><unittitle>Series II: Yearbooks</unittitle></did><scopecontent id="aspace_b67a93e58abeb4ba81dbf3919a2ecfb7"><head>Scope and Content</head><p>This series contains volumes of The Pleiad for years 1907-1922 (missing volumes for 1908/09, 1911/12, and 1920/21 seasons), volumes for 1927/28, 1928/29 and 1931/32 seasons and a folder containing loose pages from various issues of the yearbook (1906-1915). Six volumes are inscribed or signed by the contributors.</p></scopecontent><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1907/08. Inscribed or signed by the contributors.</unittitle><unitdate datechar="creation">1907-1908</unitdate><container id="aspace_06212ec98a7f334fd31b8cdedfb5d328" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_6eda8e12ef92d148dab749cc1ed17199" parent="aspace_06212ec98a7f334fd31b8cdedfb5d328" type="Folder">1</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1909/10. Inscribed or signed by the contributors.</unittitle><unitdate datechar="creation">1909-1910</unitdate><container id="aspace_802ae343800c95e02eb13ebd44e52c71" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_0e647656f3bd70fa8fc9cbb7aecd9471" parent="aspace_802ae343800c95e02eb13ebd44e52c71" type="Folder">2</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1910/11</unittitle><unitdate datechar="creation">1910-1911</unitdate><container id="aspace_31150531dcb2338becb967c26a615c32" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_29d315f79a331280aadf8efaafa90cf5" parent="aspace_31150531dcb2338becb967c26a615c32" type="Folder">3</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1912/13. Inscribed or signed by the contributors.</unittitle><unitdate datechar="creation">1912-1913</unitdate><container id="aspace_c026ea6ff35ad0b161ff916d241c405a" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_35a859877b573587c638feb428d10bee" parent="aspace_c026ea6ff35ad0b161ff916d241c405a" type="Folder">4</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1913/14</unittitle><unitdate datechar="creation">1913-1914</unitdate><container id="aspace_c9da048920005e7b08804bd9c8ca1645" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_19e94be95cf8bf6d96bb27585bc3a489" parent="aspace_c9da048920005e7b08804bd9c8ca1645" type="Folder">5</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1914/15</unittitle><unitdate datechar="creation">1914-1915</unitdate><container id="aspace_4bc99a8dbca392117a21f4c6a18afa08" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_78b7a254984348253b7128566d75975d" parent="aspace_4bc99a8dbca392117a21f4c6a18afa08" type="Folder">6</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1915/16. Inscribed or signed by the contributors.</unittitle><unitdate datechar="creation">1915-1916</unitdate><container id="aspace_985f5c4d0b04d56d5fe0abe699cae9d1" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_d553ba534b6d84a999dddebf6454e138" parent="aspace_985f5c4d0b04d56d5fe0abe699cae9d1" type="Folder">7</container></did></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1916/17</unittitle><unitdate datechar="creation">1916-1917</unitdate><container id="aspace_2013934b5338512ae580384bba0fd6b1" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_d6836a68fa57ff7b38ba401d0db403a4" parent="aspace_2013934b5338512ae580384bba0fd6b1" type="Folder">8</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1917/18. Inscribed or signed by the contributors.</unittitle><unitdate datechar="creation">1917-1918</unitdate><container id="aspace_b1b20f9fdf3c39ee1f3f508c6b357dc7" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_b1f72ba33d06e8742960721eb1e249aa" parent="aspace_b1b20f9fdf3c39ee1f3f508c6b357dc7" type="Folder">9</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1918/19</unittitle><unitdate datechar="creation">1918-1919</unitdate><container id="aspace_3bc23cbb196851d004b91d6c7ec69ad8" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_ffa4629e00753dc585e0befc5d203d8d" parent="aspace_3bc23cbb196851d004b91d6c7ec69ad8" type="Folder">10</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1919/20. Inscribed or signed by the contributors.</unittitle><unitdate datechar="creation">1919-1920</unitdate><container id="aspace_a9ff790a954ef319aebef4aaf9f8d1f8" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_393ba37ef9f585fc5c56410ab7a3533c" parent="aspace_a9ff790a954ef319aebef4aaf9f8d1f8" type="Folder">11</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1921/22</unittitle><unitdate datechar="creation">1921-1922</unitdate><container id="aspace_c34d85384f3d846f25067b592eb53799" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_6d512499f27abf4a7100a726a4efb6b8" parent="aspace_c34d85384f3d846f25067b592eb53799" type="Folder">12</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1927/28</unittitle><unitdate datechar="creation">1927-1928</unitdate><container id="aspace_9d723382182fa8f2e2aae02e696b8548" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_4a2e6215ded10f65c4e069dc4c5dde76" parent="aspace_9d723382182fa8f2e2aae02e696b8548" type="Folder">13</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1928/29</unittitle><unitdate datechar="creation">1928-1929</unitdate><container id="aspace_33980295c4b61efb9ba7b0520f47099e" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_1da69bc41a4c2742387718ae4eda1dc9" parent="aspace_33980295c4b61efb9ba7b0520f47099e" type="Folder">14</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Pleiad, yearbook, season 1931/32</unittitle><unitdate datechar="creation">1931-1932</unitdate><container id="aspace_46424bcd8d6306557e5d68c861933f94" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_b9f01f687ffa860096cfa150d97c2ca5" parent="aspace_46424bcd8d6306557e5d68c861933f94" type="Folder">15</container></did></c><c id="aspace_ref50" level="otherlevel" otherlevel="unspecified"><did><unittitle>Loose pages from various issues of the yearbook (1906-1915).</unittitle><unitdate datechar="creation">1906-1915</unitdate><container id="aspace_aed5cd0f82ff108589c8929e8466d228" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_0b6da43c510b9d7c49f28f3dd374b876" parent="aspace_aed5cd0f82ff108589c8929e8466d228" type="Folder">16</container></did></c></c><c id="aspace_ref51" level="series"><did><unittitle>Series III: Correspondence</unittitle></did><scopecontent id="aspace_c5226284068b328d73fd3b0f098a82c2"><head>Scope and Content</head><p>This series is comprised of over 150 letters (virtually all autograph), from minor writers, journalists, celebrities of the day, politicians, editors etc. Letters are addressed predominantly to Neiman as a secretary of the Pleiades Club, and sometimes to other Club officials (John Ryan, Edward Foley). Among the more famous names are Louis Rhead (3 letters), Secretary of State John Hay, Arthur Guiterman, Dan Beard, Otis Skinner. Several letters and postcards concerning Neiman do not relate to the Pleiades Club.</p></scopecontent><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Incoming Letters (1903-1918), arranged alphabetically by correspondent (A-K).<lb/>Correspondents:</emph><lb/>Charles A. Adams,<lb/>Birdsill Andrews,<lb/>A. Antone and R. Rimon,<lb/>Paulette Antoine,<lb/>George Arliss,<lb/>John Aushire,<lb/>A. Bainbridge,<lb/>M. J. Baxter,<lb/>Dan Beard, <lb/>George Beban,<lb/>Alan Bell,<lb/>Helen Berensford,<lb/>K. Blienniz,<lb/>Gertrude Boor-Stearne,<lb/>A. Brisbane,<lb/>Alanson T. Briggs,<lb/>Edmund Breese,<lb/>Richard Carter,<lb/>J. B. Coghlan,<lb/>Homer Davenport, <lb/>D. Delchanty,<lb/>Mennes Graham Destamps,<lb/>Thomas Darlington,<lb/>Edith Dethson,<lb/>Minnie Dupree,<lb/>Paul Dufault,<lb/>Alec deEbray,<lb/>Lee Fairchild,<lb/>Thomas Fogart<lb/>Evelyn Dutton Fogg, <lb/>Ardeen Foster,<lb/>Spencer Frisk,<lb/>Paolo S. Galazzi,<lb/>Gilberte,<lb/>Ch. Gilibert,<lb/>Jeanne Gomelli,<lb/>Frederick Grant,<lb/>Ms. Greenleaf,<lb/>Arthur Guiterman,<lb/>Archie Gunn,<lb/>James Clarence Harvey,<lb/>John Hay,<lb/>Hartford S. Hadley,<lb/>Job E Hedges,<lb/>S. F. Hershil, <lb/>Shafter Howard,<lb/>Franz Kaltenborn,<lb/>M. Ketten,<lb/>Helen Koelling,<lb/>Koike,</unittitle><unitdate datechar="creation">1903-1918</unitdate><container id="aspace_2d46d19418d32831f680490b6e146129" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_9b4fac87087724ea2c4668e6d3eea4d6" parent="aspace_2d46d19418d32831f680490b6e146129" type="Folder">17</container></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Incoming Letters (1903-1918), arranged alphabetically by correspondent (L-Z).</emph><lb/>Harry Leighton, <lb/>Sheldon Lewis,<lb/>Frank Lincoln,<lb/>de Lipman,<lb/>Charles Battell Loomis,<lb/>Wright Lorrimer,<lb/>R. B. Mantell,<lb/>F. C. Mathenson, <lb/>Raybaudy-Massiglia,<lb/>Edyth Totten McGrath,<lb/>Roy L. McCardell,<lb/>Burn McIntosh,<lb/>Nelson Miles,<lb/>J. W. Miller<lb/>James Grant Milson,<lb/>Esther Wall Mumford,<lb/>Jan Munkacsy,<lb/>E. Nagasaki,<lb/>M. Nagasi,<lb/>Marci Narelle,<lb/>Mesrop Newton,<lb/>Zoe Anderson Norris,<lb/>[...] O'Carrole,<lb/>R. F. Outeault,<lb/>Francesca di Maria Palmer,<lb/>F. Joubert Pienaar,<lb/>J. C. Platt,<lb/>Channing Pollock,<lb/>F. K. Pulsifer,<lb/>Louis Rhead,<lb/>Charles. H. Roe,<lb/>Caro Roma,<lb/>Charles Rotland,<lb/>Mrs McGarick-Russell,<lb/>Charles Sarka,<lb/>Theodocia Sarrisen,<lb/>Maurice Samuels<lb/>Julius L. Schendel,<lb/>Percy Sanderson,<lb/>James N Sing,<lb/>Otis Skinner,<lb/>Edith Sothern, <lb/>N[...] Taliofarro,<lb/>C. Bryson Taylor,<lb/>David Warfield,<lb/>Clifford Walker,<lb/>Percy Winter,<lb/>Bartow S. Weeks,<lb/>Ethel Jackson Zimmerman.<lb/></unittitle><unitdate datechar="creation">1903-1918</unitdate><container id="aspace_ae8fbf472de2fc1c04941c9f7d9f7dbf" label="Mixed Materials [31142042230030]" type="Box">2</container><container id="aspace_204e722be3c5a0c139a7e1422bd7e3ff" parent="aspace_ae8fbf472de2fc1c04941c9f7d9f7dbf" type="Folder">18</container></did></c></c><c id="aspace_ref54" level="series"><did><unittitle>Series IV: Ephemera</unittitle></did><scopecontent id="aspace_62aae33ee05003ecd1515748372046bd"><head>Scope and Content</head><p>This series is divided into two subseries: subseries A consists of the materials relating to the Pleiades Club, such as scrapbooks and folders. Subseries B includes materials relating to other interests of Howard Neiman, such bound volumes of newspaper clippings and poetry, Textile Colorist editorials, selection of materials on actor George Clarke, opera libretto etc.</p></scopecontent><c id="aspace_ref55" level="subseries"><did><unittitle>Subseries A: The Pleiades Club</unittitle></did><c id="aspace_ref56" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pleiades Scrapbook, season 1930-1931, contains autographs, poems and drawings by members and guests of the Club.</unittitle><unitdate datechar="creation">1930-1931</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_6cb770caf4aa217142c7f6559366fb57" label="Mixed Materials [31142063599867]" type="Box">4</container><container id="aspace_669eb5020da6ceb250d014bd45bbe40f" parent="aspace_6cb770caf4aa217142c7f6559366fb57" type="Folder">1</container></did></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Club Yearbook Cloth Ex Libris Folders for year XIII, season 1906/07</unittitle><unitdate datechar="creation">1906-1907</unitdate><container id="aspace_73d309ace63a95d8d3aea96a15b6021d" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_4d1ec6b2931a8dca713edd7688aef428" parent="aspace_73d309ace63a95d8d3aea96a15b6021d" type="Folder">1</container></did><scopecontent id="aspace_64f5b26cf10edb42d169d16ea8648f80"><head>Scope and Content</head><p>2 copies.</p></scopecontent></c></c><c id="aspace_ref58" level="subseries"><did><unittitle>Subseries B: Howard Neiman</unittitle></did><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Smoke Rings From Editor's Pipe," Howard Neiman ed., Textile Colorist, Inc., 1942.</unittitle><unitdate datechar="creation">1942</unitdate><container id="aspace_0746529adb09485d0d88867a62f91388" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_1916bc324e87425ff2ba41be0ed6c2c8" parent="aspace_0746529adb09485d0d88867a62f91388" type="Folder">2</container></did></c><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>Editorials of Textile Colorist ,1935-1943, inscribed by Neiman to his wife Edna.</unittitle><unitdate datechar="creation">1935-1943</unitdate><container id="aspace_b0afd06885e7d1786240527689e2f2f2" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_c8218650adf9b787ededefcb4f360800" parent="aspace_b0afd06885e7d1786240527689e2f2f2" type="Folder">3</container></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>Poetry Album 1897 - 1908 (?) contains printed and handwritten poems by Neiman.</unittitle><unitdate datechar="creation">1897-[1908]</unitdate><container id="aspace_eea979d8905bebbbb62fa9d275a819c0" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_73f7798262d95ad770be9e758a082d9e" parent="aspace_eea979d8905bebbbb62fa9d275a819c0" type="Folder">4</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspaper Clippings, 1891-1895, a bound volume.</unittitle><unitdate datechar="creation">1891-1895</unitdate><container id="aspace_e5dc0500bfad6311a962e802d039d57b" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_68d85a805159d877ce3c4697d42ee73e" parent="aspace_e5dc0500bfad6311a962e802d039d57b" type="Folder">5</container></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Erinnerungslatter" undated loose leaf collection of art photographs and articles about art exhibitions.</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_0a13aa7b818e63c8f76a1f4be755111b" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_67c0c631c9506959b47e442198f43e92" parent="aspace_0a13aa7b818e63c8f76a1f4be755111b" type="Folder">6</container></did></c><c id="aspace_ref64" level="otherlevel" otherlevel="unspecified"><did><unittitle>Material relating to actor George Clarke (1893-1894) consists of four autographed letters by George Clarke, addressed to Mr. Popelon, a magazine article and 3 photographs.</unittitle><unitdate datechar="creation">1893-1894</unitdate><container id="aspace_956e8f1591219f7128e6e321320d9019" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_039651e4523dfd2c6dc857184298046b" parent="aspace_956e8f1591219f7128e6e321320d9019" type="Folder">7</container></did></c><c id="aspace_ref65" level="otherlevel" otherlevel="unspecified"><did><unittitle>Contes D'Hoffmann. Opera libretto.</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_d19a59a806b9e75c63231bd08fba40f5" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_96647b266c9955a8f57df14b967edbc7" parent="aspace_d19a59a806b9e75c63231bd08fba40f5" type="Folder">8</container></did></c><c id="aspace_ref66" level="otherlevel" otherlevel="unspecified"><did><unittitle>Jack Hazzard, Thinking of Yeh Christmas Time. 1914, booklet.</unittitle><unitdate datechar="creation">1914</unitdate><container id="aspace_bf8a5c8934d31717659e73f383e25911" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_6cde1d82293051b715d11f4d41f6d5c4" parent="aspace_bf8a5c8934d31717659e73f383e25911" type="Folder">9</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Letter to Neiman from Secretary of State Christian A. Herter</unittitle><unitdate datechar="creation">23 September 1960</unitdate><container id="aspace_81db09f23e56ec9b9d5b2830174a93e1" label="Mixed Materials [31142042230048]" type="Box">3</container><container id="aspace_a3f02137d2ef96526b57041162804f5d" parent="aspace_81db09f23e56ec9b9d5b2830174a93e1" type="Folder">10</container></did></c></c></c></dsc>
+</archdesc>
 </ead>

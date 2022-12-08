@@ -1,332 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_313">tam_313</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Preliminary Inventory to the Jane Churchma Squatters' Rights Collection  <num>TAM.313</num></titleproper>
-        <author>Tamiment staff</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>12/11/2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:47:47 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Jane Churchman Squatters' Rights Collection</unittitle>
-      <origination label="Creator">
-        <persname source="local">Churchman, Jane</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" source="local">Churchman, Jane</persname>
-      </origination>
-      <unitid>TAM.313</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1980/1999" type="inclusive">circa 1980s-1990s</unitdate>
-      <langmaterial id="aspace_2137939d96d98e13bdb976ef0256ad33">Materials are in English</langmaterial>
-    </did>
-    <accessrestrict id="aspace_8ed58c2da33b8ee2b282102cd960566a">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_0d8ba47411484ee4e15efb82d3c90d4c">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Jane Churchman in 2006. The accession number associated with this gift is 2006.012.</p>
-    </acqinfo>
-    <bioghist id="aspace_dbc8b1fd6097c6c480a6b7b3c503de39">
-      <head>Historical/Biographical Note</head>
-      <p>Jane Churchman was a squatter and housing rights activist in New York City.</p>
-    </bioghist>
-    <scopecontent id="aspace_9ee732bf7eec2d0858c8e5bffe6b3c73">
-      <head>Scope and Contents</head>
-      <p>The squatters' rights movement which was centered in New York City's East Village and Lower East Side reached its peak in the late 1980s and culminated in the Tompkins Square Park Police Riot of August 1988. However, the movement continued well into the 1990s. The collection consists of clippings and subject files related to housing and New York City politics that were accumulated by squatter Jane Churchman.</p>
-    </scopecontent>
-    <userestrict id="aspace_fb5473e65dc186bb22fae37a2b9dba70">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Jane Churchman, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="local">Tompkins Square Park Riot, New York, N.Y., 1988.</subject>
-      <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
-      <subject source="lcsh">Squatters -- New York (State) -- New York</subject>
-      <geogname source="lcsh">Lower East Side (New York, N.Y.) -- Social conditions.</geogname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_313">tam_313</eadid><filedesc><titlestmt><titleproper>Preliminary Inventory to the Jane Churchma Squatters' Rights Collection  <num>TAM.313</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/11/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:47:23 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Jane Churchman Squatters' Rights Collection</unittitle>
+    <origination label="Creator">
+      <persname source="local">Churchman, Jane</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" source="local">Churchman, Jane</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref2" level="file">
-        <did>
-          <unittitle>Chronology of NYC Housing Events, Statistics of Jobs, Housing, and Poverty</unittitle>
-          <container altrender="Record carton" id="aspace_f86d4797cd9c2e149b1dc7db9db15e70" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_edade4cf3672a96b0e0633cedbac514c" parent="aspace_f86d4797cd9c2e149b1dc7db9db15e70" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref3" level="file">
-        <did>
-          <unittitle>Clippings/1</unittitle>
-          <container altrender="Record carton" id="aspace_447cd37ab622f98e0107f9699715603c" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_23553143eec9104dbb9aba329100cfd9" parent="aspace_447cd37ab622f98e0107f9699715603c" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref4" level="file">
-        <did>
-          <unittitle>Clippings/2</unittitle>
-          <container altrender="Record carton" id="aspace_8ba09c68c33fb3bbfa547bbec36101a8" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_f59d211b5ff848e1eaf06e8101865835" parent="aspace_8ba09c68c33fb3bbfa547bbec36101a8" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref5" level="file">
-        <did>
-          <unittitle>Clippings (Photocopies)</unittitle>
-          <container altrender="Record carton" id="aspace_b9715a7cb5fea5de1e4517a636af90b0" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_d74503e6fc48fdd969047c749f58b0d3" parent="aspace_b9715a7cb5fea5de1e4517a636af90b0" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref6" level="file">
-        <did>
-          <unittitle>Clippings: Poverty, Jobs, and Housing Related</unittitle>
-          <container altrender="Record carton" id="aspace_c5427c094a852dd2cbcfb605defe6e67" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_6c5ef6b0c57f0157cf3b229582ad9ad3" parent="aspace_c5427c094a852dd2cbcfb605defe6e67" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref7" level="file">
-        <did>
-          <unittitle>"Corrective Capitalism: The Rise of America's Community Development Corporations"</unittitle>
-          <container altrender="Record carton" id="aspace_acdd7ed64c9ce245b04da09319c6ab99" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_bdeb60b5ae18d8fcbbb88f64d5bf9f7a" parent="aspace_acdd7ed64c9ce245b04da09319c6ab99" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref8" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <container altrender="Record carton" id="aspace_75dc67b467257b77cb334e4c7792f39e" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_d6a75b9297a4e157753be6934d883493" parent="aspace_75dc67b467257b77cb334e4c7792f39e" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref9" level="file">
-        <did>
-          <unittitle>Demolition of Buildings</unittitle>
-          <container altrender="Record carton" id="aspace_b649b039048dc2cd8e8f16b2c039a9e3" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_c793f9e5d12d736e520721f660280dce" parent="aspace_b649b039048dc2cd8e8f16b2c039a9e3" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>Demosntrations at the 1992 Democratic Conventions (Clippings)</unittitle>
-          <container altrender="Record carton" id="aspace_607a7e8bfbe6bfbb001ee3ebfddf5ee7" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_3bfce5fe6d8da449024acc6a7fe8cc5d" parent="aspace_607a7e8bfbe6bfbb001ee3ebfddf5ee7" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle>Department of Housing Preservation and Development - The City of New York</unittitle>
-          <container altrender="Record carton" id="aspace_bcea0ce5d31740464332178dc4365ae6" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_deae3eb0c0c878aa6bffe9b9db7aefaa" parent="aspace_bcea0ce5d31740464332178dc4365ae6" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Engineering Inspection Report (John T. Walsh)</unittitle>
-          <container altrender="Record carton" id="aspace_d6169f6eff83db453f9d256f315b3a09" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_51ce278823b52bc16bbc3664f77b7cf6" parent="aspace_d6169f6eff83db453f9d256f315b3a09" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Episcopal Mission Society</unittitle>
-          <container altrender="Record carton" id="aspace_6321502c2aa776b8e1508929880e1c10" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_3e490b64c98ffd7ea159c120f8ebc95c" parent="aspace_6321502c2aa776b8e1508929880e1c10" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>"Frank Morales: A Biography"</unittitle>
-          <container altrender="Record carton" id="aspace_6390b2659cdb60c9c5e5d991f453f2ef" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_1ede5689b44b5021a413ebc569f5f0fe" parent="aspace_6390b2659cdb60c9c5e5d991f453f2ef" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>Grants</unittitle>
-          <container altrender="Record carton" id="aspace_12d67a60b6d41f0c55ff21da4b0ed9a7" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_d8f1ae1acb09ad6a332af9722eddfd2c" parent="aspace_12d67a60b6d41f0c55ff21da4b0ed9a7" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Handwritten Notes</unittitle>
-          <container altrender="Record carton" id="aspace_b3dba6102fe24d99a4802acd5456c30c" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_3c57460eba3b18e4031c1bdc8fe19878" parent="aspace_b3dba6102fe24d99a4802acd5456c30c" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Homelessness - Articles Related</unittitle>
-          <container altrender="Record carton" id="aspace_eb4b8703f6d0c64fd16f8bbc38e515e1" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_26c59a4bcecbf9c22f6e805fb813d1c8" parent="aspace_eb4b8703f6d0c64fd16f8bbc38e515e1" type="Folder">16</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Homelessness: Housing Advisory Council and Other Materials</unittitle>
-          <container altrender="Record carton" id="aspace_6a8bbaccbee716c7b4f5de3770b744d6" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_188223175b879d6b6c44f7e810f7a47a" parent="aspace_6a8bbaccbee716c7b4f5de3770b744d6" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>Homelessness: "Moving Forward: A National Agenda to Address Homelessness in 1990"</unittitle>
-          <container altrender="Record carton" id="aspace_c82f3c89377e315eef8c3a26bce41178" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_9d4052465ff58aa18f510cf0d63397ca" parent="aspace_c82f3c89377e315eef8c3a26bce41178" type="Folder">18</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>The Frances Perkins Memorial Conference on the Curch and Labor Today</unittitle>
-          <container altrender="Record carton" id="aspace_dfa61e1207c5a90c8d7dd5ebfa89222f" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_5e0cf8645c7cac84877a7d2d6aa05048" parent="aspace_dfa61e1207c5a90c8d7dd5ebfa89222f" type="Folder">19</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Lower East Side: Artworks, Galleries</unittitle>
-          <container altrender="Record carton" id="aspace_78cfabc3ea6cdb8ea3f8a31f244f363b" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_1075f067ea5b2e5a7242156f1275fcbc" parent="aspace_78cfabc3ea6cdb8ea3f8a31f244f363b" type="Folder">20</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Lower East Side Housing Study</unittitle>
-          <container altrender="Record carton" id="aspace_c58707bc2c1630d3a327361bef5695e6" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_926db6faa504d62e21659d75b2d2a74f" parent="aspace_c58707bc2c1630d3a327361bef5695e6" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>Mayor Dinkin's Commission on the Homeless (Includes Transcripts of Testimonies)</unittitle>
-          <container altrender="Record carton" id="aspace_ea4107fcc1ecfb275e2763d1851ac921" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_809823a51a231482973e61707a3cb220" parent="aspace_ea4107fcc1ecfb275e2763d1851ac921" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>The New York Time Articles (manuscripts)</unittitle>
-          <container altrender="Record carton" id="aspace_a1f029dfcc5f9c5e1c4bf6fffae096a1" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_21b3d397fc903c68871cb216c095d134" parent="aspace_a1f029dfcc5f9c5e1c4bf6fffae096a1" type="Folder">23</container>
-        </did>
-      </c>
-      <c id="aspace_ref25" level="file">
-        <did>
-          <unittitle>Posters</unittitle>
-          <container altrender="Record carton" id="aspace_56efe548b00be5b2fe251d2d58a62af7" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_988537621da4564a23a61809e2cfdb91" parent="aspace_56efe548b00be5b2fe251d2d58a62af7" type="Folder">24</container>
-        </did>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle>Squatters: Artwork, Comic Book</unittitle>
-          <container altrender="Record carton" id="aspace_9422ae8042d8b928fd500891fc599adc" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_673d6d74fe9e982a035586e52eb65e11" parent="aspace_9422ae8042d8b928fd500891fc599adc" type="Folder">25</container>
-        </did>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle>Squatters: Clippings</unittitle>
-          <container altrender="Record carton" id="aspace_5785c9a67c0887b97eefd5f506710723" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_59a83c84117272f7d1d32eb51be82472" parent="aspace_5785c9a67c0887b97eefd5f506710723" type="Folder">26</container>
-        </did>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle>"Street Sheets"</unittitle>
-          <container altrender="Record carton" id="aspace_a775b77f391ac30b1d4b3bad5c0c9701" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_5c257fcd64df466bc75ed8a75aab7850" parent="aspace_a775b77f391ac30b1d4b3bad5c0c9701" type="Folder">27</container>
-        </did>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle>"Survival Without Rent"</unittitle>
-          <container altrender="Record carton" id="aspace_9194cf45a23abc6a14fa7176b6bcbc10" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_8d619359ef55aba60f5740775dec686e" parent="aspace_9194cf45a23abc6a14fa7176b6bcbc10" type="Folder">28</container>
-        </did>
-      </c>
-      <c id="aspace_ref30" level="file">
-        <did>
-          <unittitle>Tompkins Square Park</unittitle>
-          <container altrender="Record carton" id="aspace_7d3195889f9342de083718dde07cc4de" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_173f22a90b37e424890cbfd255ab2aee" parent="aspace_7d3195889f9342de083718dde07cc4de" type="Folder">29</container>
-        </did>
-      </c>
-      <c id="aspace_ref31" level="file">
-        <did>
-          <unittitle>Tompkins Square Park and City Planning - Papers Submitted to Professor Peter Marcuse</unittitle>
-          <container altrender="Record carton" id="aspace_51e39b506265c56f67dc9f1af178eb87" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_f8c5c89eede4ef5bf999c3ac5702bec1" parent="aspace_51e39b506265c56f67dc9f1af178eb87" type="Folder">30</container>
-        </did>
-      </c>
-      <c id="aspace_ref32" level="file">
-        <did>
-          <unittitle>Tompkins Square Park: Clippings</unittitle>
-          <container altrender="Record carton" id="aspace_dd2ee6a88926de81345dc528361822ff" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_eee92a363e9adec2d96489969f13f211" parent="aspace_dd2ee6a88926de81345dc528361822ff" type="Folder">31</container>
-        </did>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>Tompkins Square Park: Tape Transcripts</unittitle>
-          <container altrender="Record carton" id="aspace_efbae42c665210711c24cc036781fa76" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_5cd2c57b48a9d07006529fd3b6fa4921" parent="aspace_efbae42c665210711c24cc036781fa76" type="Folder">32</container>
-        </did>
-      </c>
-      <c id="aspace_ref34" level="file">
-        <did>
-          <unittitle>Vergara, Camilo J.: "The New American Ghetto" (Municipal Society of New York)</unittitle>
-          <container altrender="Record carton" id="aspace_929ed72202894179ad71eff6b94f6062" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_552ef9a1199edf8ce3dc19ffe974ef51" parent="aspace_929ed72202894179ad71eff6b94f6062" type="Folder">33</container>
-        </did>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>Writing by Jane Churchman: "Reply to Betsy Gotbaum"</unittitle>
-          <container altrender="Record carton" id="aspace_2f97fd7de7776112e1ea12aa3b2e9a95" label="Mixed Materials [31142062721330]" type="Box">1</container>
-          <container id="aspace_5397070807e2c4ade39ca043bd19c633" parent="aspace_2f97fd7de7776112e1ea12aa3b2e9a95" type="Folder">34</container>
-        </did>
-      </c>
-      <c id="aspace_ref36" level="file">
-        <did>
-          <unittitle>Oversized Clippings</unittitle>
-          <container altrender="Hollinger Flat OS 14" id="aspace_f6af1ac90bb46f66d06ed37d39cdca65" label="Mixed Materials [31142062759660]" type="Box">2</container>
-          <container id="aspace_ec53bf1a22af8bedee47fb73a3cce6d3" parent="aspace_f6af1ac90bb46f66d06ed37d39cdca65" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref37" level="file">
-        <did>
-          <unittitle>"Urban Design Manhattan" - Regional Plan Association</unittitle>
-          <container altrender="Hollinger Flat OS 14" id="aspace_8583b5165e78174c53f6917a6c511c3f" label="Mixed Materials [31142062759660]" type="Box">2</container>
-          <container id="aspace_1393f747cef134ceca7b18e33ccc42cf" parent="aspace_8583b5165e78174c53f6917a6c511c3f" type="Folder">2</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.313</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1980/1999" type="inclusive">circa 1980s-1990s</unitdate>
+    <langmaterial id="aspace_2137939d96d98e13bdb976ef0256ad33">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_8ed58c2da33b8ee2b282102cd960566a">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_0d8ba47411484ee4e15efb82d3c90d4c">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Jane Churchman in 2006. The accession number associated with this gift is 2006.012.</p>  </acqinfo>
+  <bioghist id="aspace_dbc8b1fd6097c6c480a6b7b3c503de39">
+    <head>Historical/Biographical Note</head>
+<p>Jane Churchman was a squatter and housing rights activist in New York City.</p>  </bioghist>
+  <scopecontent id="aspace_9ee732bf7eec2d0858c8e5bffe6b3c73">
+    <head>Scope and Contents</head>
+<p>The squatters' rights movement which was centered in New York City's East Village and Lower East Side reached its peak in the late 1980s and culminated in the Tompkins Square Park Police Riot of August 1988. However, the movement continued well into the 1990s. The collection consists of clippings and subject files related to housing and New York City politics that were accumulated by squatter Jane Churchman.</p>  </scopecontent>
+  <userestrict id="aspace_fb5473e65dc186bb22fae37a2b9dba70">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Jane Churchman, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Tompkins Square Park Riot, New York, N.Y., 1988.</subject>
+    <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
+    <subject source="lcsh">Squatters -- New York (State) -- New York</subject>
+    <geogname source="lcsh">Lower East Side (New York, N.Y.) -- Social conditions.</geogname>
+    <persname role="dnr" source="local">Churchman, Jane</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle>Chronology of NYC Housing Events, Statistics of Jobs, Housing, and Poverty</unittitle><container altrender="Record carton" id="aspace_9d5f2103aa39d58988d1a5a58a0fbf04" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_4d32bc0c5a9e327c4b657609416ac338" parent="aspace_9d5f2103aa39d58988d1a5a58a0fbf04" type="Folder">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Clippings/1</unittitle><container altrender="Record carton" id="aspace_bc3d7bb6e9167b2b5708a6a589d6f842" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_2ff5c6552a0b10fd847c448f9ef56be8" parent="aspace_bc3d7bb6e9167b2b5708a6a589d6f842" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Clippings/2</unittitle><container altrender="Record carton" id="aspace_ed8ffc0e1ad5c9aec23a54661f5eb8d7" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_987dfbbd8f2d229ef0a58d26dcb0dbcb" parent="aspace_ed8ffc0e1ad5c9aec23a54661f5eb8d7" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Clippings (Photocopies)</unittitle><container altrender="Record carton" id="aspace_62e5dd697ef8b1bfefc7a79b11875f0c" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_04b98240834c18f19b8305c611fc72c3" parent="aspace_62e5dd697ef8b1bfefc7a79b11875f0c" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Clippings: Poverty, Jobs, and Housing Related</unittitle><container altrender="Record carton" id="aspace_17a119993620a3cf65d017b14cff002b" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_a14884941843051d04fef5a504dea170" parent="aspace_17a119993620a3cf65d017b14cff002b" type="Folder">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>"Corrective Capitalism: The Rise of America's Community Development Corporations"</unittitle><container altrender="Record carton" id="aspace_51dcd733c0482f3e239a0855c8ac9c70" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_3aed939154351725aa8d34a282a784bc" parent="aspace_51dcd733c0482f3e239a0855c8ac9c70" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Correspondence</unittitle><container altrender="Record carton" id="aspace_32071c769b6b4b41f4c881d43404eaaa" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_8b16e6a9a95c3455eff8d26751f79569" parent="aspace_32071c769b6b4b41f4c881d43404eaaa" type="Folder">7</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Demolition of Buildings</unittitle><container altrender="Record carton" id="aspace_8ca1f5ba208eb1ca36ab09e959cb7aef" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_032759219f2543e9368e49748e6099ac" parent="aspace_8ca1f5ba208eb1ca36ab09e959cb7aef" type="Folder">8</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Demosntrations at the 1992 Democratic Conventions (Clippings)</unittitle><container altrender="Record carton" id="aspace_71501ef762b25a01382474af3709a0bf" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_2c30afa062965d0c46f7c0e91357d8e9" parent="aspace_71501ef762b25a01382474af3709a0bf" type="Folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Department of Housing Preservation and Development - The City of New York</unittitle><container altrender="Record carton" id="aspace_9157218a8d0fca29f3e18f4d34c5f896" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_73750da1cd1771300118dd7f492d787c" parent="aspace_9157218a8d0fca29f3e18f4d34c5f896" type="Folder">10</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Engineering Inspection Report (John T. Walsh)</unittitle><container altrender="Record carton" id="aspace_418a4d15e1fe0f2dd444067ab69d4f40" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_f91f978b85fab550f515c9dd6097f0ba" parent="aspace_418a4d15e1fe0f2dd444067ab69d4f40" type="Folder">11</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Episcopal Mission Society</unittitle><container altrender="Record carton" id="aspace_807f2753c9a5bc1498d2eff05c2d3c7e" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_ddbe6cbae15ba3f7d29fbcbaffb243ab" parent="aspace_807f2753c9a5bc1498d2eff05c2d3c7e" type="Folder">12</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>"Frank Morales: A Biography"</unittitle><container altrender="Record carton" id="aspace_a101befd9839c49f8a783fa096b132fc" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_7f8625a6ab3fb16f93f4cf3b5d589810" parent="aspace_a101befd9839c49f8a783fa096b132fc" type="Folder">13</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Grants</unittitle><container altrender="Record carton" id="aspace_d8cc38890b9984a306924159964ea439" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_ca845969d6c38342bb13a19354f2e631" parent="aspace_d8cc38890b9984a306924159964ea439" type="Folder">14</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Handwritten Notes</unittitle><container altrender="Record carton" id="aspace_8e5d33d89acde685efe7ee6a5024069a" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_9f650b762534c5efc0790ad14df3ef3c" parent="aspace_8e5d33d89acde685efe7ee6a5024069a" type="Folder">15</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Homelessness - Articles Related</unittitle><container altrender="Record carton" id="aspace_216b2eab15dfa99659b8733e0fd034af" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_36172403bbd371b6549af9673b9cb6a1" parent="aspace_216b2eab15dfa99659b8733e0fd034af" type="Folder">16</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Homelessness: Housing Advisory Council and Other Materials</unittitle><container altrender="Record carton" id="aspace_18c66669843e1105db0913abd914b112" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_ff390d2cb485d40e493a66ad96a2b338" parent="aspace_18c66669843e1105db0913abd914b112" type="Folder">17</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Homelessness: "Moving Forward: A National Agenda to Address Homelessness in 1990"</unittitle><container altrender="Record carton" id="aspace_ef8ccef89021d800aa29f4e4b51f3d5a" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_53480f11e140ea8c214939ebdb48fef2" parent="aspace_ef8ccef89021d800aa29f4e4b51f3d5a" type="Folder">18</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>The Frances Perkins Memorial Conference on the Curch and Labor Today</unittitle><container altrender="Record carton" id="aspace_56ab42f4060f4048cca478f4d69ab33a" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_c4bc373c4ec3cb863334f26309d4c1ce" parent="aspace_56ab42f4060f4048cca478f4d69ab33a" type="Folder">19</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Lower East Side: Artworks, Galleries</unittitle><container altrender="Record carton" id="aspace_549cf3503862b4cd07abcf45d7440ea3" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_56a74a5d96eef0015d4d80f51a5dc122" parent="aspace_549cf3503862b4cd07abcf45d7440ea3" type="Folder">20</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Lower East Side Housing Study</unittitle><container altrender="Record carton" id="aspace_79d744237131f0f844cde129bba1e773" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_5f704977052942ea07fe1cc2462bf377" parent="aspace_79d744237131f0f844cde129bba1e773" type="Folder">21</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Mayor Dinkin's Commission on the Homeless (Includes Transcripts of Testimonies)</unittitle><container altrender="Record carton" id="aspace_70cc72024bd9b14ad4b18e3c3f642403" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_0e4e151a9c504b92fbbd6db8bf811c8a" parent="aspace_70cc72024bd9b14ad4b18e3c3f642403" type="Folder">22</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>The New York Time Articles (manuscripts)</unittitle><container altrender="Record carton" id="aspace_0c68ff78c090e7c933e5fbec3a451db9" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_f6fcf2ff941ebcfa06dc1ad740e8c32a" parent="aspace_0c68ff78c090e7c933e5fbec3a451db9" type="Folder">23</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Posters</unittitle><container altrender="Record carton" id="aspace_e5155c5aa4e7804b48ec15e82898bdd8" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_3f2e7368e02c6edd26c9b75127c9e25e" parent="aspace_e5155c5aa4e7804b48ec15e82898bdd8" type="Folder">24</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Squatters: Artwork, Comic Book</unittitle><container altrender="Record carton" id="aspace_476263aa7977956b5681c6d36719b841" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_81b24d66ca993f4a6d043bab9da3ee07" parent="aspace_476263aa7977956b5681c6d36719b841" type="Folder">25</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Squatters: Clippings</unittitle><container altrender="Record carton" id="aspace_a343e88eaed1fb2a5f07789628a04116" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_fdcd02707d1c098d4a481e5c479aa46d" parent="aspace_a343e88eaed1fb2a5f07789628a04116" type="Folder">26</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>"Street Sheets"</unittitle><container altrender="Record carton" id="aspace_e81e7f7675661a4eab5b8f92693bf656" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_e52c6fd6bc57b2bdeb477eb1973aa952" parent="aspace_e81e7f7675661a4eab5b8f92693bf656" type="Folder">27</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>"Survival Without Rent"</unittitle><container altrender="Record carton" id="aspace_996d6ff04b885264287a76e5dd0f6b9c" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_4f35d2cf0f028ec6a457845aba5ac9b6" parent="aspace_996d6ff04b885264287a76e5dd0f6b9c" type="Folder">28</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Tompkins Square Park</unittitle><container altrender="Record carton" id="aspace_ac018328a372be37ba2ac0ee1f75f4f3" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_8eae7023197402a8d09fcd3aced6fa72" parent="aspace_ac018328a372be37ba2ac0ee1f75f4f3" type="Folder">29</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Tompkins Square Park and City Planning - Papers Submitted to Professor Peter Marcuse</unittitle><container altrender="Record carton" id="aspace_7b483285c8154a81f8740176822bcc62" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_8e61cf7f8de013004fb6ed8b9d8f294a" parent="aspace_7b483285c8154a81f8740176822bcc62" type="Folder">30</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Tompkins Square Park: Clippings</unittitle><container altrender="Record carton" id="aspace_0c3583b9da5b0397d31961baa492ccd5" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_abd0d665250139075573b87110f82eb2" parent="aspace_0c3583b9da5b0397d31961baa492ccd5" type="Folder">31</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Tompkins Square Park: Tape Transcripts</unittitle><container altrender="Record carton" id="aspace_ea0979284bb75f1a29ab8658c854d02a" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_5bce631432c826480303c9f06e5bb4a7" parent="aspace_ea0979284bb75f1a29ab8658c854d02a" type="Folder">32</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Vergara, Camilo J.: "The New American Ghetto" (Municipal Society of New York)</unittitle><container altrender="Record carton" id="aspace_ef6e8e4d82b07912608b575a2fa16772" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_4d4458f9dd9d841d42cb3b35a8ac39e0" parent="aspace_ef6e8e4d82b07912608b575a2fa16772" type="Folder">33</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Writing by Jane Churchman: "Reply to Betsy Gotbaum"</unittitle><container altrender="Record carton" id="aspace_de542b7a2ba89f9672925c3eb573e52c" label="Mixed Materials [31142062721330]" type="Box">1</container><container id="aspace_45461a4eeddfafd614e9ab9376ec89f0" parent="aspace_de542b7a2ba89f9672925c3eb573e52c" type="Folder">34</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Oversized Clippings</unittitle><container altrender="Hollinger Flat OS 14" id="aspace_3c6791b9064d408a8ec0b67bdf2cafec" label="Mixed Materials [31142062759660]" type="Box">2</container><container id="aspace_bda66492e2cc747ef1da7530a9190d97" parent="aspace_3c6791b9064d408a8ec0b67bdf2cafec" type="Folder">1</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>"Urban Design Manhattan" - Regional Plan Association</unittitle><container altrender="Hollinger Flat OS 14" id="aspace_323816f939fe3d93526dbe26ff62d207" label="Mixed Materials [31142062759660]" type="Box">2</container><container id="aspace_7057ed50134d71d03550852503388904" parent="aspace_323816f939fe3d93526dbe26ff62d207" type="Folder">2</container></did></c></dsc>
+</archdesc>
 </ead>

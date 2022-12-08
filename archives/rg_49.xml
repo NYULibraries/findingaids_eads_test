@@ -1,234 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/rg_49">rg_49</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the NYU Abu Dhabi Publications <num>RG.49</num></titleproper>
-        <author>Emma Sarconi</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-        <p>
-          <date>2016</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:51:20 -0500</date>.</creation>
-      <langusage>Finding aid written in English </langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>June 2019</date>
-        <item>Updated by Jennifer E. Neal to incorporate materials being sent offsite in 2019 and for compliance with DACS and ACM Required Elements for Archival Description</item>
-      </change>
-      <change>
-        <date>July 2019</date>
-        <item>Updated by Jennifer E. Neal to incorporate materials being sent to offsite storage in 2019</item>
-      </change>
-      <change>
-        <date>July 2019</date>
-        <item>Updated with 2019 accretion by Stacey Flatt</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>NYU Abu Dhabi Publications</unittitle>
-      <origination label="Creator">
-        <corpname source="naf">New York University in Abu Dhabi</corpname>
-      </origination>
-      <unitid>RG.49</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
-        <extent altrender="carrier">in 3 manuscript boxes, 3 oversize flat boxes, and one folder in a shared manuscript box.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="2008/2019" type="inclusive">2008-2019</unitdate>
-      <unitdate datechar="creation" normal="2011/2016" type="bulk">2011-2016</unitdate>
-      <abstract id="aspace_e5ac92b39490aeb21b2f6b02766aa6dc">New York University Abu Dhabi (NYUAD) is a degree-granting liberal arts and research university located in Abu Dhabi, United Arab Emirates and is part of the NYU's Global Network University. NYUAD opened in a temporary location in 2008 before moving to its permanent home on Saadiyat Island, Abu Dhabi in 2010, the same year it accepted its first class of students. The campus offers 22 majors in liberal arts and sciences. Established in 2008 as a center of advanced research, scholarly, and creative activity in Abu Dhabi, The Institute assembles academics, professionals, and leaders from around the world to its academic conferences and public program to discuss research areas and topics of local and global significance. This collection consists of publications produced by NYUAD, and includes promotional and administration publications, such as course catalogs and graduating class yearbooks. Materials also include an book commemorating the inauguration of NYU Abu Dhabi Institute.</abstract>
-      <physloc id="aspace_7d766fb6ceefbbaeac0cc2bb40e510f4">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_87a76d20d646b7bb7afc34c73f680c2e">Materials primarily in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_e2f1ff2623df40cf987507ad362a638f">
-      <head>Conditions Governing Access</head>
-      <p>Administrative records and unpublished reports of New York University are closed for a period of 20 years from the date of their creation. Access to files spanning multiple years will be opened to researchers based on the date of the most recent materials. Board of Trustees records are closed for 35 years from the date of creation.  Materials related to personnel, grievances, job and fellowship searches and applications, and all files that fall under the federal Family Educational Rights and Privacy Act (FERPA) are permanently restricted.  Additional restrictions may apply to other materials in this collection.  For questions regarding specific restrictions, please contact the University Archives.</p>
-    </accessrestrict>
-    <accruals id="aspace_51fd138d25861722e51084a2ad264e66">
-      <head>Accruals</head>
-      <p>Further accruals are expected.</p>
-    </accruals>
-    <acqinfo id="aspace_39202cc0d0795949c2eb650fba332b81">
-      <head>Immediate Source of Acquisition</head>
-      <p>Transferred by NYU Abu Dhabi in 2015 and June 2019. The accession numbers associated with these gift are 2016.005, 2019.066, and 2019.077.</p>
-    </acqinfo>
-    <arrangement id="aspace_674eed22c46f27e8d06955ca0acefa6b">
-      <head>Arrangement</head>
-      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <bioghist id="aspace_6eb3b06849ead4c857e1bf54f3b51df8">
-      <head>Historical Note</head>
-      <p>New York University Abu Dhabi (NYUAD) is a degree-granting liberal arts and research university located in Abu Dhabi, United Arab Emirates and is part of the NYU's Global Network University. NYUAD opened in a temporary location in 2008 before moving to its permanent home on Saadiyat Island, Abu Dhabi in 2010, the same year it accepted its first class of students. The campus offers 22 majors in liberal arts and sciences.</p>
-      <p>Established in 2008 as a center of advanced research, scholarly, and creative activity in Abu Dhabi, The Institute assembles academics, professionals, and leaders from around the world to its academic conferences and public program to discuss research areas and topics of local and global significance.</p>
-    </bioghist>
-    <prefercite id="aspace_d953240f56b6c79ef4ee5a2137d78c0a">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; NYU Abu Dhabi Publications; RG 49; box number; folder number; New York University Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_708bd1105da304992380ed9a02cdf706">
-      <head>Processing Information</head>
-      <p>The materials were placed in acid free boxes and original order was maintained in the state in which it was received. In 2019 the commemorative book was rehoused by Preservation and sent to offsite storage and a separate accretion had a booklet which was placed in an acid free folder and box.</p>
-    </processinfo>
-    <scopecontent id="aspace_e9d8318420b415404ce7b8d976f62992">
-      <head>Scope and Contents</head>
-      <p>This collection consists of publications produced by New York University Abu Dhabi (NYUAD). Materials include promotional and administration publications distributed by NYUAD, such as course catalogs and graduating class yearbooks. Materials also include a book commemorating the inauguration of NYU Abu Dhabi Institute and a 2013 internal concept document.</p>
-    </scopecontent>
-    <userestrict id="aspace_f37e7edc3845f2138918b07a9ad9acd0">
-      <head>Conditions Governing Use</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by New York University Abu Dhabi are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives. Please contact university-archives@nyu.edu.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Universities and Colleges -- Alumni and alumnae.</subject>
-      <genreform source="aat">School yearbooks.</genreform>
-      <geogname source="lcsh">AbuÌ„ ZÌ£aby (United Arab Emirates)</geogname>
-      <genreform source="lcsh">Booklets.</genreform>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_c829a2fea56dfb1b984cb098cf7bc214" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Institute -- Inaugural Commemorative Book</unittitle>
-          <unitdate datechar="creation" normal="2008/2008">2008</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_ea2fb835408a73e361fc4cb3ec23b2b0" label="Mixed Materials [31142063063260]" type="Box">1</container>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_07936071cfab5347634ce23ffbde738b" label="Mixed Materials [31142063354503]" type="Box">6</container>
-        </did>
-        <scopecontent id="aspace_e8f81dd9b9e5347f5103b263e37665e6">
-          <head>Scope and Contents</head>
-          <p>ID Number: 466. Description: 14 x 14 purple book. Creator/Donor/Subject: Abu Dhabi Institute.</p>
-        </scopecontent>
-      </c>
-      <c id="aspace_e8efedc45ad110ce88023e60a5ce8bac" level="file">
-        <did>
-          <unittitle>Class of 2014 Publication</unittitle>
-          <unitdate datechar="creation" normal="2014/2014">2014</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_00871d6ac4e94b26a0086e3fdbea024a" label="Mixed Materials [31142063354479]" type="Box">3</container>
-          <container id="aspace_80bd237da5a2f63730a30f1d0f80b577" parent="aspace_00871d6ac4e94b26a0086e3fdbea024a" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_0d28a54febb681f2bc619617bde7cc3c" level="file">
-        <did>
-          <unittitle>Class of 2015 Publication</unittitle>
-          <unitdate datechar="creation" normal="2015/2015">2015</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_92ed84ec9a35ab911f59aab604f1c883" label="Mixed Materials [31142063354479]" type="Box">3</container>
-          <container id="aspace_34e06c9b578fb8349d83c63364637198" parent="aspace_92ed84ec9a35ab911f59aab604f1c883" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_7f0daccf893fb70d3971d1c0aa95c435" level="file">
-        <did>
-          <unittitle>Class of 2016 Publication</unittitle>
-          <unitdate datechar="creation" normal="2016/2016">2016</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a71e797c5fa2cc91543d6de89c5f3e71" label="Mixed Materials [31142063354479]" type="Box">3</container>
-          <container id="aspace_d4aef1edcebbd649b078eaeadcd97eff" parent="aspace_a71e797c5fa2cc91543d6de89c5f3e71" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_b947c1a31b94052764b2b8dcb7154cc8" level="file">
-        <did>
-          <unittitle>Class of 2017 Publication</unittitle>
-          <unitdate datechar="creation" normal="2017/2017">2017</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_381a0610ba319bbfbcdc9ac874a8c7f7" label="Mixed Materials [31142063354479]" type="Box">3</container>
-          <container id="aspace_af30adc56fb2411f576cfc4a4f4bd06b" parent="aspace_381a0610ba319bbfbcdc9ac874a8c7f7" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_694e427b52a431e09903562e6ad431d9" level="file">
-        <did>
-          <unittitle>Year in Review Booklets</unittitle>
-          <unitdate datechar="creation" normal="2011/2014" type="inclusive">2011-2014</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_87d237eb88a9b0441dc532eb100c3001" label="Mixed Materials [31142063354479]" type="Box">3</container>
-          <container id="aspace_f7e01de35c1b57611ce4b6c3ac2edc85" parent="aspace_87d237eb88a9b0441dc532eb100c3001" type="Folder">5-6</container>
-        </did>
-      </c>
-      <c id="aspace_5843f784f2be6f3339ae3048c54296b4" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2010/2011" type="inclusive">2010-2011</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b95a0bc841d8f5fb1461d1d1454e6c69" label="Mixed Materials [31142063354487]" type="Box">4</container>
-          <container id="aspace_57318fdb0ba559df8b7182cbe0a4de99" parent="aspace_b95a0bc841d8f5fb1461d1d1454e6c69" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_761e18c874114eb7e412fbf4830c81c4" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2011/2012" type="inclusive">2011-2012</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_63a4cf7fb3ad3e4b9b19309aaa0e977a" label="Mixed Materials [31142063354487]" type="Box">4</container>
-          <container id="aspace_155f8a588875adb99b7eaa5321f10be8" parent="aspace_63a4cf7fb3ad3e4b9b19309aaa0e977a" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_c73c77cb1ed763845800c64612cd876c" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2012/2013" type="inclusive">2012-2013</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_d9501bfc7bc078b50681ebe1be393d21" label="Mixed Materials [31142063354487]" type="Box">4</container>
-          <container id="aspace_32f9dd2c2d9aaa70dbde7561c21e76de" parent="aspace_d9501bfc7bc078b50681ebe1be393d21" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_37e027bb0269824be107fcee59143c0a" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2013/2014" type="inclusive">2013-2014</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_100a7d42cf88ba3fdeecf230cca5b789" label="Mixed Materials [31142063354487]" type="Box">4</container>
-          <container id="aspace_04792f65b2f15a41509259acb42c61e4" parent="aspace_100a7d42cf88ba3fdeecf230cca5b789" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_f260e3021a7cda0f2c113c387d5c01e2" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2014/2015" type="inclusive">2014-2015</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_63a2c28354ff2dd58d26756337a3ad9f" label="Mixed Materials [31142063354487]" type="Box">4</container>
-          <container id="aspace_3975655fa28797dc1c11f2979f5c5841" parent="aspace_63a2c28354ff2dd58d26756337a3ad9f" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_1a46d258829bbb7355b808c5dbaf6e8a" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2015/2016" type="inclusive">2015-2016</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_841297388fdb810952b12cd7ca40d4d4" label="Mixed Materials [31142063354495]" type="Box">5</container>
-          <container id="aspace_222f29128750fd218e4a74ef6ed83a96" parent="aspace_841297388fdb810952b12cd7ca40d4d4" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_56c3b3abb8da3a386cb0642531054289" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2016/2017" type="inclusive">2016-2017</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_9b15bd96ca4f13d154b503181cbe50c1" label="Mixed Materials [31142063354495]" type="Box">5</container>
-          <container id="aspace_05c3dd44ce2130bedab88a86b4b2f465" parent="aspace_9b15bd96ca4f13d154b503181cbe50c1" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_a73f27ea9bd6c748d4029ff3909dda6f" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2017/2018" type="inclusive">2017-2018</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a1b7ff09046a45a9adee6027f77555c0" label="Mixed Materials [31142063354495]" type="Box">5</container>
-          <container id="aspace_e92f2578f1ae9608c219dc4bd1f5894e" parent="aspace_a1b7ff09046a45a9adee6027f77555c0" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_761c88603281c605488c3e67c34a7bb3" level="file">
-        <did>
-          <unittitle>NYU Abu Dhabi Bulletin</unittitle>
-          <unitdate datechar="creation" normal="2018/2019" type="inclusive">2018-2019</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a9ab49ba8fd31201a51ce39e17b79030" label="Mixed Materials [31142063354495]" type="Box">5</container>
-          <container id="aspace_dc3a1b0434d7f9bfc1b7f0e944e338f6" parent="aspace_a9ab49ba8fd31201a51ce39e17b79030" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_712f6044ba2cfb8af79638f05fa6d28b" level="file">
-        <did>
-          <unittitle>Promotional Material</unittitle>
-          <unitdate datechar="creation" normal="2011/2018" type="inclusive">2011-2018</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8a5e31381295bfc9671c5e068faf4c49" label="Mixed Materials [31142062913929]" type="Box">9</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_49">rg_49</eadid><filedesc><titlestmt><titleproper>Guide to the NYU Abu Dhabi Publications <num>RG.49</num></titleproper><author>Emma Sarconi</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>2016</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:39:04 -0500</date>.</creation><langusage>Finding aid written in English </langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>June 2019</date><item>Updated by Jennifer E. Neal to incorporate materials being sent offsite in 2019 and for compliance with DACS and ACM Required Elements for Archival Description</item></change><change><date>July 2019</date><item>Updated by Jennifer E. Neal to incorporate materials being sent to offsite storage in 2019</item></change><change><date>July 2019</date><item>Updated with 2019 accretion by Stacey Flatt</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>NYU Abu Dhabi Publications</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no2016163446" source="naf">New York University in Abu Dhabi</corpname>
+    </origination>
+    <unitid>RG.49</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+      <extent altrender="carrier">in 3 manuscript boxes, 3 oversize flat boxes, and one folder in a shared manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2008/2019" type="inclusive">2008-2019</unitdate>
+    <unitdate datechar="creation" normal="2011/2016" type="bulk">2011-2016</unitdate>
+    <abstract id="aspace_e5ac92b39490aeb21b2f6b02766aa6dc">New York University Abu Dhabi (NYUAD) is a degree-granting liberal arts and research university located in Abu Dhabi, United Arab Emirates and is part of the NYU's Global Network University. NYUAD opened in a temporary location in 2008 before moving to its permanent home on Saadiyat Island, Abu Dhabi in 2010, the same year it accepted its first class of students. The campus offers 22 majors in liberal arts and sciences. Established in 2008 as a center of advanced research, scholarly, and creative activity in Abu Dhabi, The Institute assembles academics, professionals, and leaders from around the world to its academic conferences and public program to discuss research areas and topics of local and global significance. This collection consists of publications produced by NYUAD, and includes promotional and administration publications, such as course catalogs and graduating class yearbooks. Materials also include an book commemorating the inauguration of NYU Abu Dhabi Institute.</abstract>
+    <physloc id="aspace_7d766fb6ceefbbaeac0cc2bb40e510f4">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_87a76d20d646b7bb7afc34c73f680c2e">Materials primarily in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_e2f1ff2623df40cf987507ad362a638f">
+    <head>Conditions Governing Access</head>
+<p>Administrative records and unpublished reports of New York University are closed for a period of 20 years from the date of their creation. Access to files spanning multiple years will be opened to researchers based on the date of the most recent materials. Board of Trustees records are closed for 35 years from the date of creation.  Materials related to personnel, grievances, job and fellowship searches and applications, and all files that fall under the federal Family Educational Rights and Privacy Act (FERPA) are permanently restricted.  Additional restrictions may apply to other materials in this collection.  For questions regarding specific restrictions, please contact the University Archives.</p>  </accessrestrict>
+  <accruals id="aspace_51fd138d25861722e51084a2ad264e66">
+    <head>Accruals</head>
+<p>Further accruals are expected.</p>  </accruals>
+  <acqinfo id="aspace_39202cc0d0795949c2eb650fba332b81">
+    <head>Immediate Source of Acquisition</head>
+<p>Transferred by NYU Abu Dhabi in 2015 and June 2019. The accession numbers associated with these gift are 2016.005, 2019.066, and 2019.077.</p>  </acqinfo>
+  <arrangement id="aspace_674eed22c46f27e8d06955ca0acefa6b">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_6eb3b06849ead4c857e1bf54f3b51df8">
+    <head>Historical Note</head>
+<p>New York University Abu Dhabi (NYUAD) is a degree-granting liberal arts and research university located in Abu Dhabi, United Arab Emirates and is part of the NYU's Global Network University. NYUAD opened in a temporary location in 2008 before moving to its permanent home on Saadiyat Island, Abu Dhabi in 2010, the same year it accepted its first class of students. The campus offers 22 majors in liberal arts and sciences.</p><p>Established in 2008 as a center of advanced research, scholarly, and creative activity in Abu Dhabi, The Institute assembles academics, professionals, and leaders from around the world to its academic conferences and public program to discuss research areas and topics of local and global significance.</p>  </bioghist>
+  <prefercite id="aspace_d953240f56b6c79ef4ee5a2137d78c0a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; NYU Abu Dhabi Publications; RG 49; box number; folder number; New York University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_708bd1105da304992380ed9a02cdf706">
+    <head>Processing Information</head>
+<p>The materials were placed in acid free boxes and original order was maintained in the state in which it was received. In 2019 the commemorative book was rehoused by Preservation and sent to offsite storage and a separate accretion had a booklet which was placed in an acid free folder and box.</p>  </processinfo>
+  <scopecontent id="aspace_e9d8318420b415404ce7b8d976f62992">
+    <head>Scope and Contents</head>
+<p>This collection consists of publications produced by New York University Abu Dhabi (NYUAD). Materials include promotional and administration publications distributed by NYUAD, such as course catalogs and graduating class yearbooks. Materials also include a book commemorating the inauguration of NYU Abu Dhabi Institute and a 2013 internal concept document.</p>  </scopecontent>
+  <userestrict id="aspace_f37e7edc3845f2138918b07a9ad9acd0">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by New York University Abu Dhabi are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives. Please contact university-archives@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Universities and Colleges -- Alumni and alumnae.</subject>
+    <genreform source="aat">School yearbooks.</genreform>
+    <geogname source="lcsh">AbuÌ„ ZÌ£aby (United Arab Emirates)</geogname>
+    <genreform source="lcsh">Booklets.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_c829a2fea56dfb1b984cb098cf7bc214" level="file"><did><unittitle>NYU Abu Dhabi Institute -- Inaugural Commemorative Book</unittitle><unitdate datechar="creation" normal="2008/2008">2008</unitdate><container altrender="Flat OS Box 17" id="aspace_e8ba733059b1aa4f410368c1a20ef15f" label="Mixed Materials [31142063063260]" type="Box">1</container><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_a5ddc4da50b07ae42c27d57f63787b9d" label="Mixed Materials [31142063354503]" type="Box">6</container></did><scopecontent id="aspace_e8f81dd9b9e5347f5103b263e37665e6"><head>Scope and Contents</head><p>ID Number: 466. Description: 14 x 14 purple book. Creator/Donor/Subject: Abu Dhabi Institute.</p></scopecontent></c><c id="aspace_e8efedc45ad110ce88023e60a5ce8bac" level="file"><did><unittitle>Class of 2014 Publication</unittitle><unitdate datechar="creation" normal="2014/2014">2014</unitdate><container altrender="Manuscript box - Legal" id="aspace_8a4d252ebb290bd7522e6c5a7080597e" label="Mixed Materials [31142063354479]" type="Box">3</container><container id="aspace_7455115c4a97641c376d8ea21b1a6822" parent="aspace_8a4d252ebb290bd7522e6c5a7080597e" type="Folder">1</container></did></c><c id="aspace_0d28a54febb681f2bc619617bde7cc3c" level="file"><did><unittitle>Class of 2015 Publication</unittitle><unitdate datechar="creation" normal="2015/2015">2015</unitdate><container altrender="Manuscript box - Legal" id="aspace_8737d76eee07fccfd2d180d5fa25051f" label="Mixed Materials [31142063354479]" type="Box">3</container><container id="aspace_e70be5f547c06aa40930e11f1ccf954f" parent="aspace_8737d76eee07fccfd2d180d5fa25051f" type="Folder">2</container></did></c><c id="aspace_7f0daccf893fb70d3971d1c0aa95c435" level="file"><did><unittitle>Class of 2016 Publication</unittitle><unitdate datechar="creation" normal="2016/2016">2016</unitdate><container altrender="Manuscript box - Legal" id="aspace_39deeaa80f5f08a8eed3ff200378bd12" label="Mixed Materials [31142063354479]" type="Box">3</container><container id="aspace_3440928a2ab83174bd77fc73b350a11f" parent="aspace_39deeaa80f5f08a8eed3ff200378bd12" type="Folder">3</container></did></c><c id="aspace_b947c1a31b94052764b2b8dcb7154cc8" level="file"><did><unittitle>Class of 2017 Publication</unittitle><unitdate datechar="creation" normal="2017/2017">2017</unitdate><container altrender="Manuscript box - Legal" id="aspace_727431aafec878845ccc699713b2b411" label="Mixed Materials [31142063354479]" type="Box">3</container><container id="aspace_8309f83fb1722cd18b45bc597353ff16" parent="aspace_727431aafec878845ccc699713b2b411" type="Folder">4</container></did></c><c id="aspace_694e427b52a431e09903562e6ad431d9" level="file"><did><unittitle>Year in Review Booklets</unittitle><unitdate datechar="creation" normal="2011/2014" type="inclusive">2011-2014</unitdate><container altrender="Manuscript box - Legal" id="aspace_3b35813edbc5777695e760428f0b4276" label="Mixed Materials [31142063354479]" type="Box">3</container><container id="aspace_80e64784b331340a952ef3c4440e36cf" parent="aspace_3b35813edbc5777695e760428f0b4276" type="Folder">5-6</container></did></c><c id="aspace_5843f784f2be6f3339ae3048c54296b4" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2010/2011" type="inclusive">2010-2011</unitdate><container altrender="Manuscript box - Legal" id="aspace_0bb120f6a19e73681c10ea3fdd7cbe28" label="Mixed Materials [31142063354487]" type="Box">4</container><container id="aspace_8df740151225688aaf96bcc25607ff0a" parent="aspace_0bb120f6a19e73681c10ea3fdd7cbe28" type="Folder">1</container></did></c><c id="aspace_761e18c874114eb7e412fbf4830c81c4" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2011/2012" type="inclusive">2011-2012</unitdate><container altrender="Manuscript box - Legal" id="aspace_edae26c0e29d350368f034d60d569612" label="Mixed Materials [31142063354487]" type="Box">4</container><container id="aspace_0887b73435a29b14d555e20a35b20961" parent="aspace_edae26c0e29d350368f034d60d569612" type="Folder">2</container></did></c><c id="aspace_c73c77cb1ed763845800c64612cd876c" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2012/2013" type="inclusive">2012-2013</unitdate><container altrender="Manuscript box - Legal" id="aspace_0dae6591f784195b55147a2d33e0adb9" label="Mixed Materials [31142063354487]" type="Box">4</container><container id="aspace_2605ce2f0607c61c181ba7a52f65b431" parent="aspace_0dae6591f784195b55147a2d33e0adb9" type="Folder">3</container></did></c><c id="aspace_37e027bb0269824be107fcee59143c0a" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2013/2014" type="inclusive">2013-2014</unitdate><container altrender="Manuscript box - Legal" id="aspace_93d960c531dc8080fdc09002794e3c82" label="Mixed Materials [31142063354487]" type="Box">4</container><container id="aspace_f89ef489647ad6e5716ed1b6a4080ea8" parent="aspace_93d960c531dc8080fdc09002794e3c82" type="Folder">4</container></did></c><c id="aspace_f260e3021a7cda0f2c113c387d5c01e2" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2014/2015" type="inclusive">2014-2015</unitdate><container altrender="Manuscript box - Legal" id="aspace_e09a49079d8678dc02604f968a13fe26" label="Mixed Materials [31142063354487]" type="Box">4</container><container id="aspace_d1dfbd35b85580878c4bff947de640b7" parent="aspace_e09a49079d8678dc02604f968a13fe26" type="Folder">5</container></did></c><c id="aspace_1a46d258829bbb7355b808c5dbaf6e8a" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2015/2016" type="inclusive">2015-2016</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f9b3eb73de00e9190a4a9b872481f3f" label="Mixed Materials [31142063354495]" type="Box">5</container><container id="aspace_ebe5827adcc651927d545b3897e5eb54" parent="aspace_0f9b3eb73de00e9190a4a9b872481f3f" type="Folder">1</container></did></c><c id="aspace_56c3b3abb8da3a386cb0642531054289" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2016/2017" type="inclusive">2016-2017</unitdate><container altrender="Manuscript box - Legal" id="aspace_22728b82420484ecdb56d53b395dc517" label="Mixed Materials [31142063354495]" type="Box">5</container><container id="aspace_89293348cca3c3aaf06b253d79386ea9" parent="aspace_22728b82420484ecdb56d53b395dc517" type="Folder">2</container></did></c><c id="aspace_a73f27ea9bd6c748d4029ff3909dda6f" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2017/2018" type="inclusive">2017-2018</unitdate><container altrender="Manuscript box - Legal" id="aspace_a4bd4be3b076f90082280be4eca5b885" label="Mixed Materials [31142063354495]" type="Box">5</container><container id="aspace_f55f63c701ba97b9aac97872ad19504a" parent="aspace_a4bd4be3b076f90082280be4eca5b885" type="Folder">3</container></did></c><c id="aspace_761c88603281c605488c3e67c34a7bb3" level="file"><did><unittitle>NYU Abu Dhabi Bulletin</unittitle><unitdate datechar="creation" normal="2018/2019" type="inclusive">2018-2019</unitdate><container altrender="Manuscript box - Legal" id="aspace_a25bfdcb49e4b33dc430a744695254d9" label="Mixed Materials [31142063354495]" type="Box">5</container><container id="aspace_6b1a22817c8fc990742337bc7ffb5495" parent="aspace_a25bfdcb49e4b33dc430a744695254d9" type="Folder">4</container></did></c><c id="aspace_712f6044ba2cfb8af79638f05fa6d28b" level="file"><did><unittitle>Promotional Material</unittitle><unitdate datechar="creation" normal="2011/2018" type="inclusive">2011-2018</unitdate><container altrender="Manuscript box - Legal" id="aspace_e28447c4380ac04031def3b6e06b485d" label="Mixed Materials [31142062913929]" type="Box">9</container></did></c></dsc>
+</archdesc>
 </ead>

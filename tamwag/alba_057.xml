@@ -1,245 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>alba_057</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Joint Anti-Fascist Refugee Committee Records <num>ALBA.057</num></titleproper>
-        <author>Alix Ross and Jessica Weglein, 2005; Entered into Toolkit by Ann Christiansen, 2010</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:32:48 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Joint Anti-Fascist Refugee Committee Records</unittitle>
-      <origination label="Creator">
-        <corpname source="naf">Joint Anti-Fascist Refugee Committee</corpname>
-      </origination>
-      <origination label="source">
-        <persname rules="dacs" source="local">Robbin, Violet</persname>
-      </origination>
-      <unitid>ALBA.057</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1942/1954" type="inclusive">1942-1954</unitdate>
-      <abstract id="aspace_9083183e3b2d8b6a4d8dcf9d40af4c37">The Joint Anti-Fascist Refugee Committee (JAFRC) was formed in 1941 to supply humanitarian relief to refugees of the Spanish Civil War and to support "anti-fascist fighters trapped in Vichy France, and North Africa." Citing harassment by the House Committee on Un-American Activities, the Subversive Activities Control Board and the Treasury Department, the board of JAFRC voted to disband in 1955.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_057">alba_057</eadid><filedesc><titlestmt><titleproper>Guide to the Joint Anti-Fascist Refugee Committee Records <num>ALBA.057</num></titleproper><author>Alix Ross and Jessica Weglein, 2005; Entered into Toolkit by Ann Christiansen, 2010</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:59:34 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Joint Anti-Fascist Refugee Committee Records</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no2009098484" source="naf">Joint Anti-Fascist Refugee Committee</corpname>
+    </origination>
+    <origination label="source">
+      <persname rules="dacs" source="local">Robbin, Violet</persname>
+    </origination>
+    <unitid>ALBA.057</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1942/1954" type="inclusive">1942-1954</unitdate>
+    <abstract id="aspace_9083183e3b2d8b6a4d8dcf9d40af4c37" label="Abstract">The Joint Anti-Fascist Refugee Committee (JAFRC) was formed in 1941 to supply humanitarian relief to refugees of the Spanish Civil War and to support "anti-fascist fighters trapped in Vichy France, and North Africa." Citing harassment by the House Committee on Un-American Activities, the Subversive Activities Control Board and the Treasury Department, the board of JAFRC voted to disband in 1955.
 These records consist of documents related to the political concerns of the JAFRC, both domestically and abroad, and its fundraising activities.</abstract>
-      <langmaterial id="aspace_51be718577548a029525b265caf76bfe">Materials are in English</langmaterial>
-    </did>
-    <bioghist id="aspace_7b75343002cdd256b20fce02034fb03c">
-      <head>Historical/Biographical Note</head>
-      <p>The Joint Anti-Fascist Refugee Committee (JAFRC) emerged in 1941superseding several earlier committees and organizations that had been developed to secure humanitarian aid for refugees of the Spanish Civil War.  Along with providing humanitarian aid, the JAFRC was "dedicated to the rescue and relief of thousands of anti-fascist fighters trapped in Vichy France, and North Africa so that they [could] return to the active fight against the Axis."
-Dr. Edward Barsky, leader of American medical volunteers in Spain during the Spanish Civil War and chairman of the North American Spanish Aid Committee, became the national chairman of the JAFRC. Dorothy Parker was the chairman for the Spanish Refugee Appeal, the fundraising arm of the JAFRC.  Prominent religious leaders, artists, musicians, scientists and academics were among the sponsors of the JAFRC, including Leonard Bernstein, Albert Einstein, Lillian Hellman, Langston Hughes, Paul Robeson and Orson Welles.</p>
-      <p>Early in 1946 Barsky, Executive Secretary Helen R. Bryan and Executive Board members of JAFRC were subpoenaed to appear before the House Committee on Un-American Activities (HUAC), to surrender financial records, and to turn over the names of contributors and recipients of aid. After refusing to comply with HUAC demands, Barsky and the entire board of JAFRC were charged with contempt of Congress and convicted in June 1947.</p>
-      <p>Three years of appeals that challenged the constitutionality of the HUAC hearings ended in 1950 when the Supreme Court refused to review the convictions. The board members were sentenced to three months in prison, and Barsky, as the JAFRC's chairman, was sentenced to six months in the Federal Penitentiary in Petersburg, Virginia and fined $500. Barsky resigned from JAFRC and in 1951 Dr. Mark Straus, who had served as a physician and a soldier in the Abraham Lincoln Battalion during the Spanish Civil War, was elected chairman of the organization.</p>
-      <p>Despite the change in leadership, the JAFRC was unable to avoid the scrutiny of the United States government.   In 1952 the JAFRC, whose tax-exempt status had been rescinded by the Bureau of Internal Revenue in 1948, was sued by the United States Department of the Treasury for $307,000 in back taxes. The next two years found the JAFRC attempting to ward off efforts by the United States Congress's Subversive Activities Control Board (SACB) to force the JAFRC to register as a Communist front organization. In 1955, citing harassment by the HUAC, the SACB and the Treasury Department, the board of JAFRC voted to disband.</p>
-    </bioghist>
-    <relatedmaterial id="aspace_a5d636ded328c86e4e37f6bee3057df0">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>Edward Barsky Papers (ALBA 125)</p>
-      <p>Charlotte Todes Stern Papers (TAM 70)</p>
-    </relatedmaterial>
-    <separatedmaterial id="aspace_3c0c166cfae4788e041fe0c8859f01cd">
-      <head>Separated Materials</head>
-      <p>Photographs from the Joint Anti-Fascist Refugee Committee Records have been transferred to the non-print section of the ALBA collection at the Tamiment Library.</p>
-    </separatedmaterial>
-    <userestrict id="aspace_277a51def2d03fda18c3d76805591862">
-      <head>Use Restrictions</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </userestrict>
-    <accessrestrict id="aspace_f39ae49df5f794fc3abcd8067620c477">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </accessrestrict>
-    <prefercite id="aspace_140f8e4d892f99dff64d8f6777bae7a4">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <scopecontent id="aspace_f5033152d57b5cb1267c4904f4797e70">
-      <head>Scope and Content</head>
-      <p><emph render="bold">Series I: General Files, 1942-1954.</emph>  These records consist of documents related to the founding of the Joint Anti-Fascist Refugee Committee (JAFRC), and financial reports, correspondence, publicity pamphlets, fundraising appeals and ephemera from the 1940s.  <emph render="italic">Campaign Bulletin</emph> and <emph render="italic">Free Spain</emph>, JAFRC newsletters, document the political concerns of the organization, both domestically and abroad, and its fundraising activities from 1950-1954.</p>
-    </scopecontent>
-    <arrangement id="aspace_dcb13fb19ce7c6d69087bff2d496c4f2">
-      <head>Arrangement</head>
-      <p>Organized into 1 series: 
-I.General Files, 1942-1954. Arranged alphabetically by topic.</p>
-    </arrangement>
-    <custodhist id="aspace_db3656e0cd470ccf2a799cca6c66b678">
-      <head>Provenance</head>
-      <p>The bulk of the Joint Anti-Fascist Refugee Committee Collection was donated to the Veterans of the Abraham Lincoln Brigade in 1971 by Violet Robbins. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University. In March 2004, Meyer S. Gunther donated 29 issues of "Free Spain: Bulletin of the Joint Anti-Fascist Refugee Committee"(1951-1954), and two single-page leaflets issued by the Committee.</p>
-    </custodhist>
-    <controlaccess>
-      <subject source="lcsh">War correspondents |z United States.</subject>
-      <geogname source="lcsh">Spain |x Politics and government |y 1939-1975 |v Periodicals.</geogname>
-      <genreform source="aat">Printed ephemera.</genreform>
-      <genreform source="aat">Speeches.</genreform>
-      <subject source="lcsh">Anti-fascist movements |v Pictorial works.</subject>
-      <subject source="lcsh">Anti-fascist movements -- United States.</subject>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Refugees.</geogname>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, Polish.</geogname>
-      <persname source="naf">Barsky, Edward K., 1895-1975</persname>
-      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
-      <persname source="naf">Parker, Dorothy, 1893-1967.</persname>
-      <persname role="fmo" rules="dacs" source="local">Robbin, Violet</persname>
-      <corpname source="naf">North American Committee to Aid Spanish Democracy</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref12" level="series">
-        <did>
-          <unittitle>Series I: General Files, 1942-1954</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Artwork and Graphics </unittitle>
-            <unitdate datechar="creation">Undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7432498aaf04cb7ac0bbb9680b254fa5" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_d4de543127e54ca5c66bbd3216f51864" parent="aspace_7432498aaf04cb7ac0bbb9680b254fa5" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Bulletins: <emph render="italic">Campaign Bulletin</emph> and <emph render="italic">Free Spain</emph></unittitle>
-            <unitdate datechar="creation">1944; Jul 1950-Feb 1954</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_039058dd7c4bfb75310a80ad355c774e" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_89059e470bed2fdf4065b023aed3ee90" parent="aspace_039058dd7c4bfb75310a80ad355c774e" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Bulletins: <emph render="italic">Two Years of American Aid to Spain</emph></unittitle>
-            <unitdate datechar="creation">1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b05bde77f4a18fd428403793f275bc98" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_d5bad024e39ee6af326c212d816eaa1d" parent="aspace_b05bde77f4a18fd428403793f275bc98" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
-            <unitdate datechar="creation">Undated; 1945-1948</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_06547e9af5748b6a3b06083754ffa68b" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_5701f20cc2985fad8ac68b017de54ffe" parent="aspace_06547e9af5748b6a3b06083754ffa68b" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Constitution </unittitle>
-            <unitdate datechar="creation">Undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7ded1faca0d6d340a6e69797636b266e" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_f1a5f89f7a85fc8cd7e23637af0622cf" parent="aspace_7ded1faca0d6d340a6e69797636b266e" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation">Undated; 1944-1951</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d26f876319bd9af7a21f94d0b6430382" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_99443866d011f6841f612b28772f9312" parent="aspace_d26f876319bd9af7a21f94d0b6430382" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Donation Booklets</unittitle>
-            <unitdate datechar="creation">1945-1948</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d4ff2e156d74ef3e7803e9c8bfb5a4dd" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_18b2869e8a1438a152c62669a93afece" parent="aspace_d4ff2e156d74ef3e7803e9c8bfb5a4dd" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Events: Programs and Tickets</unittitle>
-            <unitdate datechar="creation" normal="1946/1949" type="inclusive">Undated; 1946-1949</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f96c4adbe494f8ddf2a4c0fbba4e7510" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_5b25df046ce5df5bb182e806895ab5b7" parent="aspace_f96c4adbe494f8ddf2a4c0fbba4e7510" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>House Committee on Un-American Activities (HUAC)</unittitle>
-            <unitdate datechar="creation">Undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e29b69800c9dff8e9b5eca860d4f387b" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_3e079e2024ef7a2110824e6299cad155" parent="aspace_e29b69800c9dff8e9b5eca860d4f387b" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Leaflets and Pamphlets</unittitle>
-            <unitdate datechar="creation">Undated; 1943-1948; 1953</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6617448e64d2e4305f7a97ecf90467ea" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_49feaf1458b633899197de71e4742ca0" parent="aspace_6617448e64d2e4305f7a97ecf90467ea" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Memos and Reports</unittitle>
-            <unitdate datechar="creation">Undated; 1942-1947</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0914b4d5493885fd4309a16af74900de" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_0f000b0d19646568a45f54c02d79c969" parent="aspace_0914b4d5493885fd4309a16af74900de" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>National Conference</unittitle>
-            <unitdate datechar="creation">1948</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_bfe51c4254ca5d5b801342cd67d8ce64" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_693cd8ada8edf54750f9998e0e8138a7" parent="aspace_bfe51c4254ca5d5b801342cd67d8ce64" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Spanish Refugee Appeal: General</unittitle>
-            <unitdate datechar="creation">Undated; 1946; 1948-1955 </unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d00df77c0e0ad7cb2a1db3e6d1f7a8ed" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_d7f7a38164e13d3d1b18ba11d5fd5f63" parent="aspace_d00df77c0e0ad7cb2a1db3e6d1f7a8ed" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Spanish Refugee Appeal: Journal</unittitle>
-            <unitdate datechar="creation">1946</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_eb41938584ea92c7f8bdb29d04b73fd4" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_805cfa53827618eb1025fe2331bb785c" parent="aspace_eb41938584ea92c7f8bdb29d04b73fd4" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Spanish Refugee Appeal: Press Releases and Statements</unittitle>
-            <unitdate datechar="creation">Undated; 1945; 1946; 1948-1950</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_87d5fc98b803af886745d0733f0ac4f0" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_26d4c782d5479233931ec590a0dac3cd" parent="aspace_87d5fc98b803af886745d0733f0ac4f0" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Sponsor Lists</unittitle>
-            <unitdate datechar="creation">Undated; 1945</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_71cdaa4bc1ab73b4d950d2d0d77bd3c9" label="Mixed Materials [31142062755585]" type="Box">1</container>
-            <container id="aspace_1ec4eae6c47fdce7fed4c835da77d8ad" parent="aspace_71cdaa4bc1ab73b4d950d2d0d77bd3c9" type="Folder">16</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    <langmaterial id="aspace_51be718577548a029525b265caf76bfe">Materials are in English</langmaterial>
+  </did>
+  <bioghist id="aspace_7b75343002cdd256b20fce02034fb03c">
+    <head>Historical/Biographical Note</head>
+<p>The Joint Anti-Fascist Refugee Committee (JAFRC) emerged in 1941superseding several earlier committees and organizations that had been developed to secure humanitarian aid for refugees of the Spanish Civil War.  Along with providing humanitarian aid, the JAFRC was "dedicated to the rescue and relief of thousands of anti-fascist fighters trapped in Vichy France, and North Africa so that they [could] return to the active fight against the Axis."
+Dr. Edward Barsky, leader of American medical volunteers in Spain during the Spanish Civil War and chairman of the North American Spanish Aid Committee, became the national chairman of the JAFRC. Dorothy Parker was the chairman for the Spanish Refugee Appeal, the fundraising arm of the JAFRC.  Prominent religious leaders, artists, musicians, scientists and academics were among the sponsors of the JAFRC, including Leonard Bernstein, Albert Einstein, Lillian Hellman, Langston Hughes, Paul Robeson and Orson Welles.</p><p>Early in 1946 Barsky, Executive Secretary Helen R. Bryan and Executive Board members of JAFRC were subpoenaed to appear before the House Committee on Un-American Activities (HUAC), to surrender financial records, and to turn over the names of contributors and recipients of aid. After refusing to comply with HUAC demands, Barsky and the entire board of JAFRC were charged with contempt of Congress and convicted in June 1947.</p><p>Three years of appeals that challenged the constitutionality of the HUAC hearings ended in 1950 when the Supreme Court refused to review the convictions. The board members were sentenced to three months in prison, and Barsky, as the JAFRC's chairman, was sentenced to six months in the Federal Penitentiary in Petersburg, Virginia and fined $500. Barsky resigned from JAFRC and in 1951 Dr. Mark Straus, who had served as a physician and a soldier in the Abraham Lincoln Battalion during the Spanish Civil War, was elected chairman of the organization.</p><p>Despite the change in leadership, the JAFRC was unable to avoid the scrutiny of the United States government.   In 1952 the JAFRC, whose tax-exempt status had been rescinded by the Bureau of Internal Revenue in 1948, was sued by the United States Department of the Treasury for $307,000 in back taxes. The next two years found the JAFRC attempting to ward off efforts by the United States Congress's Subversive Activities Control Board (SACB) to force the JAFRC to register as a Communist front organization. In 1955, citing harassment by the HUAC, the SACB and the Treasury Department, the board of JAFRC voted to disband.</p>  </bioghist>
+  <relatedmaterial id="aspace_a5d636ded328c86e4e37f6bee3057df0">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Edward Barsky Papers (ALBA 125)</p><p>Charlotte Todes Stern Papers (TAM 70)</p>  </relatedmaterial>
+  <separatedmaterial id="aspace_3c0c166cfae4788e041fe0c8859f01cd">
+    <head>Separated Materials</head>
+<p>Photographs from the Joint Anti-Fascist Refugee Committee Records have been transferred to the non-print section of the ALBA collection at the Tamiment Library.</p>  </separatedmaterial>
+  <userestrict id="aspace_277a51def2d03fda18c3d76805591862">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <accessrestrict id="aspace_f39ae49df5f794fc3abcd8067620c477">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <prefercite id="aspace_140f8e4d892f99dff64d8f6777bae7a4">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <scopecontent id="aspace_f5033152d57b5cb1267c4904f4797e70">
+    <head>Scope and Content</head>
+<p><emph render="bold">Series I: General Files, 1942-1954.</emph>  These records consist of documents related to the founding of the Joint Anti-Fascist Refugee Committee (JAFRC), and financial reports, correspondence, publicity pamphlets, fundraising appeals and ephemera from the 1940s.  <emph render="italic">Campaign Bulletin</emph> and <emph render="italic">Free Spain</emph>, JAFRC newsletters, document the political concerns of the organization, both domestically and abroad, and its fundraising activities from 1950-1954.</p>  </scopecontent>
+  <arrangement id="aspace_dcb13fb19ce7c6d69087bff2d496c4f2">
+    <head>Arrangement</head>
+<p>Organized into 1 series: 
+I.General Files, 1942-1954. Arranged alphabetically by topic.</p>  </arrangement>
+  <custodhist id="aspace_db3656e0cd470ccf2a799cca6c66b678">
+    <head>Provenance</head>
+<p>The bulk of the Joint Anti-Fascist Refugee Committee Collection was donated to the Veterans of the Abraham Lincoln Brigade in 1971 by Violet Robbins. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University. In March 2004, Meyer S. Gunther donated 29 issues of "Free Spain: Bulletin of the Joint Anti-Fascist Refugee Committee"(1951-1954), and two single-page leaflets issued by the Committee.</p>  </custodhist>
+  <controlaccess>
+    <subject source="lcsh">War correspondents |z United States.</subject>
+    <geogname source="lcsh">Spain |x Politics and government |y 1939-1975 |v Periodicals.</geogname>
+    <genreform source="aat">Printed ephemera.</genreform>
+    <genreform source="aat">Speeches.</genreform>
+    <subject source="lcsh">Anti-fascist movements |v Pictorial works.</subject>
+    <subject source="lcsh">Anti-fascist movements -- United States.</subject>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Refugees.</geogname>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, Polish.</geogname>
+    <persname source="naf">Barsky, Edward K., 1895-1975</persname>
+    <corpname authfilenumber="(lccn)n88119969" source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+    <persname source="naf">Parker, Dorothy, 1893-1967.</persname>
+    <persname role="fmo" rules="dacs" source="local">Robbin, Violet</persname>
+    <corpname authfilenumber="(lccn)nr98043925" source="naf">North American Committee to Aid Spanish Democracy</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref12" level="series"><did><unittitle>Series I: General Files, 1942-1954</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref13" level="file"><did><unittitle>Artwork and Graphics </unittitle><unitdate datechar="creation">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ee2df5c55c414314aac5fc5093a5b584" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_845f38a8d6b51c35082bfe0cec95e23e" parent="aspace_ee2df5c55c414314aac5fc5093a5b584" type="Folder">1</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Bulletins: <emph render="italic">Campaign Bulletin</emph> and <emph render="italic">Free Spain</emph></unittitle><unitdate datechar="creation">1944; Jul 1950-Feb 1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_b8152b22483f3ce3db08f5f7d65af6ae" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_6bb94e1c2c85f12574e2a126dc98830c" parent="aspace_b8152b22483f3ce3db08f5f7d65af6ae" type="Folder">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Bulletins: <emph render="italic">Two Years of American Aid to Spain</emph></unittitle><unitdate datechar="creation">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_b541bf86aa74d04ede9181c874c85ec3" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_723a34ea3a2f603a49c685ee4c54d0d0" parent="aspace_b541bf86aa74d04ede9181c874c85ec3" type="Folder">3</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation">Undated; 1945-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_b4654ba3a6e91a2797c83a570c5191ee" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_19e559af534cbe72627f6596afacaf97" parent="aspace_b4654ba3a6e91a2797c83a570c5191ee" type="Folder">4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Constitution </unittitle><unitdate datechar="creation">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b9c16317729ba511c8a5dbb4109ec92c" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_4a7015def04cc5769ab1e58865244bef" parent="aspace_b9c16317729ba511c8a5dbb4109ec92c" type="Folder">5</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">Undated; 1944-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_09230daaaee9be124f1aa4dcdc6a611c" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_42085b578d8a5bb0d3838f8375e395b0" parent="aspace_09230daaaee9be124f1aa4dcdc6a611c" type="Folder">6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Donation Booklets</unittitle><unitdate datechar="creation">1945-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_c0fdac1d22734e1a282986474ff40570" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_d7d9a4a3e8b6f95084f3ae7439acfc72" parent="aspace_c0fdac1d22734e1a282986474ff40570" type="Folder">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Events: Programs and Tickets</unittitle><unitdate datechar="creation" normal="1946/1949" type="inclusive">Undated; 1946-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_f9c2cc22843b11ea2ef8cfd52bac3041" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_923b72f9abd0ab1ffa0f6b69786d70f2" parent="aspace_f9c2cc22843b11ea2ef8cfd52bac3041" type="Folder">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>House Committee on Un-American Activities (HUAC)</unittitle><unitdate datechar="creation">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_41d11c634dc4c6edc28dd0a68c87fccd" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_ba8d8269030717dd287f2dcdf70514c6" parent="aspace_41d11c634dc4c6edc28dd0a68c87fccd" type="Folder">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Leaflets and Pamphlets</unittitle><unitdate datechar="creation">Undated; 1943-1948; 1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_37a1685d4e8705ae27b556f7c6e55eba" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_8b453ccbbadc6960dde251fa522e18df" parent="aspace_37a1685d4e8705ae27b556f7c6e55eba" type="Folder">10</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Memos and Reports</unittitle><unitdate datechar="creation">Undated; 1942-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_4d6389ef2f4a706717cd5e09122dcb78" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_79d2a19c47d2d8ec7a9469319a3d688d" parent="aspace_4d6389ef2f4a706717cd5e09122dcb78" type="Folder">11</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>National Conference</unittitle><unitdate datechar="creation">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_72ad38ef98a6d1043109892c4d75bb74" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_6459a7d5d2f4462fe6b5229e3b013f7c" parent="aspace_72ad38ef98a6d1043109892c4d75bb74" type="Folder">12</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Spanish Refugee Appeal: General</unittitle><unitdate datechar="creation">Undated; 1946; 1948-1955 </unitdate><container altrender="Manuscript box - Legal" id="aspace_638463899eb8aede8507a58227fc73de" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_7a2aa62451919bd1362100df22fb7611" parent="aspace_638463899eb8aede8507a58227fc73de" type="Folder">13</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Spanish Refugee Appeal: Journal</unittitle><unitdate datechar="creation">1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_7303104427fcae2486cdcb32e3697cf0" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_66b9714e1331ec81a3b412d5f5d5c3c1" parent="aspace_7303104427fcae2486cdcb32e3697cf0" type="Folder">14</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Spanish Refugee Appeal: Press Releases and Statements</unittitle><unitdate datechar="creation">Undated; 1945; 1946; 1948-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_692b7ba05107bb4ddfd12eb45b65d467" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_d5687ef93fc6203a2faed02f53a619e7" parent="aspace_692b7ba05107bb4ddfd12eb45b65d467" type="Folder">15</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Sponsor Lists</unittitle><unitdate datechar="creation">Undated; 1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_93b117489d407337e3e41db10c20f8fb" label="Mixed Materials [31142062755585]" type="Box">1</container><container id="aspace_483d25bdc13582090f3031e47428eb4c" parent="aspace_93b117489d407337e3e41db10c20f8fb" type="Folder">16</container></did></c></c></dsc>
+</archdesc>
 </ead>

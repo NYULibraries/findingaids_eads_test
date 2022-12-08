@@ -1,321 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_205/">wag_205</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Anthony J. Silva Papers <num>WAG.205</num></titleproper>
-        <author>Gail Dancy</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>June 2002</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:57:37 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Anthony J. Silva Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Silva, Anthony J.</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Silva, Anthony J.</persname>
-      </origination>
-      <unitid>WAG.205</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1912/2001" type="inclusive">1912-2001</unitdate>
-      <langmaterial><language langcode="eng">English</language>
-.    </langmaterial>
-    </did>
-    <scopecontent id="aspace_c0545de9908a46e1b048a36be9614012">
-      <head>Scope and Contents</head>
-      <p>Materials relating to the history of the United Telegraphers Union.</p>
-    </scopecontent>
-    <accessrestrict id="aspace_ab1c08a0dbd46050fe0dff313e51dcb1">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_f1a0f7334463e9549a2d3779903d8ba4">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Anthony J. Silva was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <acqinfo id="aspace_8d13ae8a813b80c36df3d8f43a3a63fc">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Anthony J. Silva, 2000. The accession number associated with this gift is 2000.009.</p>
-    </acqinfo>
-    <controlaccess>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_205">wag_205</eadid><filedesc><titlestmt><titleproper>Anthony J. Silva Papers <num>WAG.205</num></titleproper><author>Gail Dancy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>June 2002</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:45:11 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Anthony J. Silva Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Silva, Anthony J.</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Silva, Anthony J.</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref2" level="file">
-        <did>
-          <unittitle>Agreements</unittitle>
-          <unitdate datechar="creation" normal="1929/1939" type="inclusive">1929-1939</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_97af9a0976e0ff3616179c2933d4eb51" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_54f80e251f3a014b6af160e7f6924842" parent="aspace_97af9a0976e0ff3616179c2933d4eb51" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref3" level="file">
-        <did>
-          <unittitle>Agreements: American Communications Association (ACA) and Postal Telegraph Company</unittitle>
-          <unitdate datechar="creation" normal="1939/1939" type="inclusive">January 14, 1939</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b02c3991dc9f283114705cfdefbd4873" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_e63bb1710d64c84614176dd6fd18e7cd" parent="aspace_b02c3991dc9f283114705cfdefbd4873" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref4" level="file">
-        <did>
-          <unittitle>Agreements: ACA and Postal Telegraph-Cable Company</unittitle>
-          <unitdate datechar="creation" normal="1942/1942" type="inclusive">October 1, 1942</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_102ebaf40f6b8056978af7735e6ca64f" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_be97e4fedb0ba1c0f06cbb45897c9baf" parent="aspace_102ebaf40f6b8056978af7735e6ca64f" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref5" level="file">
-        <did>
-          <unittitle>Agreements: Western Union and ACA, Local 40</unittitle>
-          <unitdate datechar="creation" normal="1948/1948" type="inclusive">April 1, 1948</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_bd498ca1c5f8c2fbfdeddd9e836fbaa5" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_0cc2d275d72682a39aff8be2909e2c2e" parent="aspace_bd498ca1c5f8c2fbfdeddd9e836fbaa5" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref6" level="file">
-        <did>
-          <unittitle>Association Western Union Employees (AWUE): Survey </unittitle>
-          <unitdate datechar="creation" normal="1992/1997" type="inclusive">1992-1997</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_56e9878c6a191b08d507cc60961df869" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_916396ef7df2a6c1243a485b9768709f" parent="aspace_56e9878c6a191b08d507cc60961df869" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref7" level="file">
-        <did>
-          <unittitle>Association Western Union Employees (AWUE): Officers List </unittitle>
-          <unitdate datechar="creation" normal="1919/1938" type="inclusive">1919-1938</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0b490c0fda87938c1b5a0d34e624977e" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_5332b9fd50dbadc97e62ca27e7b1685e" parent="aspace_0b490c0fda87938c1b5a0d34e624977e" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref8" level="file">
-        <did>
-          <unittitle>Arbitrations: NLRB and Western Union</unittitle>
-          <unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_757e24252beb49134671c023efbc228e" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_fcdf31abc9ba84f7d465641085b356c5" parent="aspace_757e24252beb49134671c023efbc228e" type="Folder">7 </container>
-        </did>
-      </c>
-      <c id="aspace_ref9" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate datechar="creation" normal="1912/1934" type="inclusive">1912-1934</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_481efe24ef1aedf07a169a858810e562" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_bbbbaf2e318e29b99586d8e1b48a6f31" parent="aspace_481efe24ef1aedf07a169a858810e562" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>Constitution and By-Laws</unittitle>
-          <unitdate datechar="creation" normal="1919/1936" type="inclusive">1919-1936</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_54689e14e0a2aa4334623319206a7423" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_bac2fc1a8dba7d557a687658b8c927d7" parent="aspace_54689e14e0a2aa4334623319206a7423" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle>"Dots, Dashes, and Tyranny: Western Union's Company Union Remembered."  Silva, Anthony J.  Labor's Heritage</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">Spring/Summer 2001</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0b63d6f7ea0108d3cdfed58cb241a1b2" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_f596812164d7111a15e82b8c3dc12e47" parent="aspace_0b63d6f7ea0108d3cdfed58cb241a1b2" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Histories, Records of Achievements</unittitle>
-          <unitdate datechar="creation" normal="1931/1932" type="inclusive">1931-1932</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1750f722a520b7ab6cf9dcba32cbb37d" label="Mixed Materials [31142062730075]" type="Box">1</container>
-          <container id="aspace_910e4c1cb2ed5d545018b9323a399c55" parent="aspace_1750f722a520b7ab6cf9dcba32cbb37d" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_fd3bbffdcf90259ec1c636b461aa629b" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_f5326766b3aeab5f3bb4d075db41616d" parent="aspace_fd3bbffdcf90259ec1c636b461aa629b" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5a83cec1df651b2824183ac2f051d77a" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_c0aa45f3a7fd8a7320d3719e044fd2fc" parent="aspace_5a83cec1df651b2824183ac2f051d77a" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_99847162ee7f079c59a50e1131bd99ef" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_b0769a87f5809a35eb0026310e9ba4a5" parent="aspace_99847162ee7f079c59a50e1131bd99ef" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a665ae0522044285032480f39514d3ea" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_ab238c036fd415a788ab0a5de897608f" parent="aspace_a665ae0522044285032480f39514d3ea" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1fd81200cb51cba4e38b90261057b1ca" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_1e148cfa61de92b4614ac4ad3f429f54" parent="aspace_1fd81200cb51cba4e38b90261057b1ca" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8cde60ba8817ff6dc11ea84f4e2ab27e" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_f5b2482cdfffa4174b0304c62af11bdc" parent="aspace_8cde60ba8817ff6dc11ea84f4e2ab27e" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_974fd32c933ac70d11ca29cdd5ffe9e2" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_d26be1dee9d473c1040cd3ae97673446" parent="aspace_974fd32c933ac70d11ca29cdd5ffe9e2" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_6d002a0a70897e7ee5d5ea93fc3d4788" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_faee308b309c162725c58d0bdca82d92" parent="aspace_6d002a0a70897e7ee5d5ea93fc3d4788" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_17f2398b8b036dd37d022aefada3c86b" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_29555f1cc642a8174e875d07714fa8bd" parent="aspace_17f2398b8b036dd37d022aefada3c86b" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1e6c82a77bdf66bffb35f4b7ca31840b" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_f1d10de305d102a9224cc9833dea503a" parent="aspace_1e6c82a77bdf66bffb35f4b7ca31840b" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0a9401861c393673328fc47fe0078a87" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_2c65496616c55015b3df6cd8493a626c" parent="aspace_0a9401861c393673328fc47fe0078a87" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_340a11d90a5cb354b057fc14706640dc" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_cbb20366fccbf8dde739689bf2af768c" parent="aspace_340a11d90a5cb354b057fc14706640dc" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref25" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_255fe7543abe91b6b2af71c6ce11d6d5" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_7b31939569b9d10b80346ca1713f9ac9" parent="aspace_255fe7543abe91b6b2af71c6ce11d6d5" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Telegraph World</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0e9654968eb10747a69e39a34b02f4c2" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_e5a712ff4a9df30bb13eb9d30fe0cf37" parent="aspace_0e9654968eb10747a69e39a34b02f4c2" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">United Telegraph Workers</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_550466399842e59c0ea33d521aa0e320" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_4b0ee2ea88133a4fa5e1bcdd1ba2eb60" parent="aspace_550466399842e59c0ea33d521aa0e320" type="Folder">14a</container>
-        </did>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">Western Union News</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1914/1918" type="inclusive">1914, 1918</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_70b65a4eeca1b969e707de5a890a7a41" label="Mixed Materials [31142062730083]" type="Box">2</container>
-          <container id="aspace_561a817203d0275dbd8d884a2bb5908a" parent="aspace_70b65a4eeca1b969e707de5a890a7a41" type="Folder">14a</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>WAG.205</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1912/2001" type="inclusive">1912-2001</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_c0545de9908a46e1b048a36be9614012">
+    <head>Scope and Contents</head>
+<p>Materials relating to the history of the United Telegraphers Union.</p>  </scopecontent>
+  <accessrestrict id="aspace_ab1c08a0dbd46050fe0dff313e51dcb1">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_f1a0f7334463e9549a2d3779903d8ba4">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Anthony J. Silva was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <acqinfo id="aspace_8d13ae8a813b80c36df3d8f43a3a63fc">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Anthony J. Silva, 2000. The accession number associated with this gift is 2000.009.</p>  </acqinfo>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Silva, Anthony J.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle>Agreements</unittitle><unitdate datechar="creation" normal="1929/1939" type="inclusive">1929-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_05b70de14dff97df4efe7516a8b1c442" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_03f4f2cec009316c55d1fa61c8456e0a" parent="aspace_05b70de14dff97df4efe7516a8b1c442" type="Folder">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Agreements: American Communications Association (ACA) and Postal Telegraph Company</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">January 14, 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_75fe96b6a62b8a94564d7962d62cab08" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_5511bff354caa0404a4a59d9abd66ec7" parent="aspace_75fe96b6a62b8a94564d7962d62cab08" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Agreements: ACA and Postal Telegraph-Cable Company</unittitle><unitdate datechar="creation" normal="1942/1942" type="inclusive">October 1, 1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_2a456b070f9e55fc62113c037cb37c04" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_f03388de776660a8a01a3630a4c9d0db" parent="aspace_2a456b070f9e55fc62113c037cb37c04" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Agreements: Western Union and ACA, Local 40</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">April 1, 1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_1bb43f58ef5c3e88df5ffb44a40739d3" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_a0ccaf4b3d62cc5c3ffbea25dcae6c53" parent="aspace_1bb43f58ef5c3e88df5ffb44a40739d3" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Association Western Union Employees (AWUE): Survey </unittitle><unitdate datechar="creation" normal="1992/1997" type="inclusive">1992-1997</unitdate><container altrender="Manuscript box - Legal" id="aspace_267057a74e62d531ef5e7b0248e7b9dc" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_da03c9ff7ceae2942e31f666ac62ba66" parent="aspace_267057a74e62d531ef5e7b0248e7b9dc" type="Folder">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Association Western Union Employees (AWUE): Officers List </unittitle><unitdate datechar="creation" normal="1919/1938" type="inclusive">1919-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_1596690ccda578c14d0e78bbf9dd8239" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_d4e2b633af269191201e7cac7076b0eb" parent="aspace_1596690ccda578c14d0e78bbf9dd8239" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Arbitrations: NLRB and Western Union</unittitle><unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_08131e3a63aea9f74c630ba4a2f7dc33" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_3a78e0f4c01189e57a74aa2b27032699" parent="aspace_08131e3a63aea9f74c630ba4a2f7dc33" type="Folder">7 </container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1912/1934" type="inclusive">1912-1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_dd5f9858810f776c2f5e026a17d2ce12" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_e40792ea5cb75a61eb3d60d559ed0261" parent="aspace_dd5f9858810f776c2f5e026a17d2ce12" type="Folder">8</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Constitution and By-Laws</unittitle><unitdate datechar="creation" normal="1919/1936" type="inclusive">1919-1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_2b620e31a909224c9b35b80a5357da0d" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_3b36567bfe3244541da9a862a2517e04" parent="aspace_2b620e31a909224c9b35b80a5357da0d" type="Folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>"Dots, Dashes, and Tyranny: Western Union's Company Union Remembered."  Silva, Anthony J.  Labor's Heritage</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">Spring/Summer 2001</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a7df0c74b4935387a06a7799a04f361" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_b0117a771480cfb33d852478b045c635" parent="aspace_5a7df0c74b4935387a06a7799a04f361" type="Folder">10</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Histories, Records of Achievements</unittitle><unitdate datechar="creation" normal="1931/1932" type="inclusive">1931-1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_4027febbdbf6defaf99cbe2b6cc32694" label="Mixed Materials [31142062730075]" type="Box">1</container><container id="aspace_450d25d4f1e1f9e045dda679a5972b9a" parent="aspace_4027febbdbf6defaf99cbe2b6cc32694" type="Folder">11</container></did></c><c id="aspace_ref13" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate><container altrender="Manuscript box - Legal" id="aspace_d8ce6ef56576416e8f86331dcc729324" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_5a3ecc52fef1a9db9dc3c3c205ff5ce3" parent="aspace_d8ce6ef56576416e8f86331dcc729324" type="Folder">1</container></did></c><c id="aspace_ref14" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_d8520b3692c7660c5bf806851d8a5f6d" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_d57ba7f32540f797c6fd65732f4d2056" parent="aspace_d8520b3692c7660c5bf806851d8a5f6d" type="Folder">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a504611e57ecb76df6a0d44beced4a5" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_09e2a4f3afae01148ff09fd094ce4b95" parent="aspace_6a504611e57ecb76df6a0d44beced4a5" type="Folder">3</container></did></c><c id="aspace_ref16" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Manuscript box - Legal" id="aspace_cccebbeff8b7aaccca012c712fefc966" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_7fd8b60f0b580ab08c1c5d05576c7195" parent="aspace_cccebbeff8b7aaccca012c712fefc966" type="Folder">4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate><container altrender="Manuscript box - Legal" id="aspace_18fd72bdd939771109f20b35403bcd3f" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_af4217d3aa568574758b252328c433f5" parent="aspace_18fd72bdd939771109f20b35403bcd3f" type="Folder">5</container></did></c><c id="aspace_ref18" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_6740b7526619ada3df1ad72a2a46b5d0" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_b1abff8e2621e71cf2bc7dad3e6c7864" parent="aspace_6740b7526619ada3df1ad72a2a46b5d0" type="Folder">6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_458743512c51cfb3eef508acdb8aebf5" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_834c35893b86613eac2334e6657c1c72" parent="aspace_458743512c51cfb3eef508acdb8aebf5" type="Folder">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf87a0ab62148311b133a3e0cb7df992" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_3229de47366be753dcd3fc62cdf173eb" parent="aspace_cf87a0ab62148311b133a3e0cb7df992" type="Folder">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_d54a2b4d88baa76d9b135d7afd71a304" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_d20e78d7cb72f8aaa01d0fccbe9b07d5" parent="aspace_d54a2b4d88baa76d9b135d7afd71a304" type="Folder">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_9150b99fc342bb465a847a4cae14c497" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_02113b4509dae3278b0bf1bcc5a14dbe" parent="aspace_9150b99fc342bb465a847a4cae14c497" type="Folder">10</container></did></c><c id="aspace_ref23" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_52cf5cecab98da9cf543280a9b3230a0" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_17fafd3fe04cc4644a44a3d5453a339f" parent="aspace_52cf5cecab98da9cf543280a9b3230a0" type="Folder">11</container></did></c><c id="aspace_ref24" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_e6a1c03d48763ca9dd729858a2edde42" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_83019284feafad1e8e8acb46897c32d2" parent="aspace_e6a1c03d48763ca9dd729858a2edde42" type="Folder">12</container></did></c><c id="aspace_ref25" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_c88dab1c8823f41002d02d42b0258675" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_b899168ad2ee2163be25fc5c84ebae1a" parent="aspace_c88dab1c8823f41002d02d42b0258675" type="Folder">13</container></did></c><c id="aspace_ref26" level="file"><did><unittitle><emph render="italic">Telegraph World</emph></unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_db40cdd0b21187a6b9161e30a0737307" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_a388f8216b42ca180e0c82dd9395403f" parent="aspace_db40cdd0b21187a6b9161e30a0737307" type="Folder">14</container></did></c><c id="aspace_ref27" level="file"><did><unittitle><emph render="italic">United Telegraph Workers</emph></unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_217d5d138cc18d068b53f22e09cd2090" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_0f4c0fda825016a8e9bdf6d19e5e2934" parent="aspace_217d5d138cc18d068b53f22e09cd2090" type="Folder">14a</container></did></c><c id="aspace_ref28" level="file"><did><unittitle><emph render="italic">Western Union News</emph></unittitle><unitdate datechar="creation" normal="1914/1918" type="inclusive">1914, 1918</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e9038c0b4e77423134fefa41fe872c8" label="Mixed Materials [31142062730083]" type="Box">2</container><container id="aspace_3f982aa1144dad3888f5175976b06872" parent="aspace_2e9038c0b4e77423134fefa41fe872c8" type="Folder">14a</container></did></c></dsc>
+</archdesc>
 </ead>

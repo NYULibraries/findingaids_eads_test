@@ -1,915 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_249">mss_249</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Lisa Fox and Curt Royston Papers <num>MSS.249</num></titleproper>
-        <author>Ashley Todd</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>2011</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:35:14 -0500</date>.</creation>
-      <langusage>Finding aid written in English.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>March 2017</date>
-        <item>Updated by Jacqueline Rider to reflect incorporation of video preservation master and sub-master files.</item>
-      </change>
-      <change>
-        <date>June 2018</date>
-        <item>Edited by Jasmine Larkin for compliance with DACS and ACM Required Elements for Archival Description.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Lisa Fox and Curt Royston Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Fox, Lisa</persname>
-      </origination>
-      <origination label="Creator">
-        <persname source="naf">Royston, Curt</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" source="naf">Fox, Lisa</persname>
-      </origination>
-      <unitid>MSS.249</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">18 Linear Feet</extent>
-        <extent altrender="carrier">in 8 record cartons, 2 manuscript boxes, 17 jewel cases, 2 film cans, and 1 flat file folder.</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">19 film reels</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">19 videocassettes (u-matic)</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">17 videodiscs (dvd)</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">2 videocassettes (vhs)</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">2 sound tape reels</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1980/1988" type="inclusive">1980-1988</unitdate>
-      <abstract id="aspace_11376bfe0ccae201ca10eec6b56230fc">The Lisa Fox and Curt Royston Papers consists of materials created by Lisa and Curt's multimedia collaborations. This collection contains reviews, photographs, transparencies, posters, video recordings, and sound recordings. Materials date from 1980 to 1988.</abstract>
-      <physloc id="aspace_fa2689b64aaa00f7c9d4ccd26f29cacd">Some materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_3bb11c6d73ea1e25f2744bbc443adc75">Materials are in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_d7733b621f2d5414f779487e3d92e7c2">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_8b5dd1eade3b58457e826cc0b919fec3">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Lisa Fox in 2009 and 2014. The accession numbers associated with these gifts are 2009.249 and 2014.249.</p>
-    </acqinfo>
-    <arrangement id="aspace_778c304e4271884d319bba9dfc467383">
-      <head>Arrangement</head>
-      <p>The collection is organized into five series based on format:</p>
-      <list numeration="arabic" type="ordered">
-        <item>Series I: Paper and Photographs</item>
-        <item>Series II: Posters</item>
-        <item>Series III: Film</item>
-        <item>Series IV: Video recordings</item>
-        <item>Series V: Sound recordings</item>
-      </list>
-    </arrangement>
-    <bioghist id="aspace_b9eed57f9e7e4dc0db0d46d7cbcc0a93">
-      <head>Biographical Note</head>
-      <p>Lisa Fox was a leading dancer with the Merce Cunningham Dance Company from 1976-1980 and was a choreographer with the Lisa Fox Danse for over thirty years. Curt Royston is best known for his proficiency in a variety of media: painting, sculpture, photography, film, and video, and often in combination. His work has been shown extensively throughout the United States and Europe including a 1987 one-man exhibition at the Whitney Museum of American Art. Together Royston and Fox collaborated on a series of multimedia installations, as well as a number of 16mm dance-based films throughout the 1980s, the most popular of which is "In Artificial Light" (1983).</p>
-    </bioghist>
-    <prefercite id="aspace_7dfaf4782f3da37b8f9751342090dbfa">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the
-following form:<lb/><lb/>
-Identification of item,  date (if known); Lisa Fox and Curt Royston Papers; MSS 249; box number; folder number; Fales Library and Special Collections, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_e68abaaced02d1b723ef153f5d84d34e">
-      <head>Processing Information</head>
-      <p>In 2018 materials from accretion 2014.249 were processed and intellectually incorporated into the collection. Materials were housed in archival folders and boxes.</p>
-    </processinfo>
-    <relatedmaterial id="aspace_8e2839e86dd62cba72725ef4acbafe28">
-      <head>Related Material at Fales Library and Special Collections</head>
-      <p>Curt Royston Papers (MSS.259)</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_491108968653da1a750476c1b6ad6673">
-      <head>Scope and Content</head>
-      <p>This collection contains reviews, photographs, transparencies, posters, film, video and sound recordings related to the multimedia collaborations of Lisa Fox and Curt Royston. Materials date from 1980 to 1988.</p>
-    </scopecontent>
-    <userestrict id="aspace_f4194b0ec85e3bf891f571e13e8b099e">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Lisa Fox and Curt Royston was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Multimedia (Art).</subject>
-      <subject source="lcsh">Women choreographers.</subject>
-      <subject source="lcsh">Women dancers.</subject>
-      <subject source="lcsh">Artists -- United States.</subject>
-      <subject source="lcsh">Motion picture producers and directors.</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_249">mss_249</eadid><filedesc><titlestmt><titleproper>Guide to the Lisa Fox and Curt Royston Papers <num>MSS.249</num></titleproper><author>Ashley Todd</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2011</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 11:00:00 -0500</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>March 2017</date><item>Updated by Jacqueline Rider to reflect incorporation of video preservation master and sub-master files.</item></change><change><date>June 2018</date><item>Edited by Jasmine Larkin for compliance with DACS and ACM Required Elements for Archival Description.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Lisa Fox and Curt Royston Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Fox, Lisa</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Royston, Curt</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" source="naf">Fox, Lisa</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref1" level="series">
-        <did>
-          <unittitle>Series I: Paper and Photographs</unittitle>
-        </did>
-        <c id="aspace_ref143" level="file">
-          <did>
-            <unittitle>"In Artificial Light"</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_e439cbcff6c5a687ef78946126424b10" label="Mixed Materials [31142063601499]" type="Box">1</container>
-            <container id="aspace_6de347c8ac8e3850b2100cc44ad16ace" parent="aspace_e439cbcff6c5a687ef78946126424b10" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref144" level="file">
-          <did>
-            <unittitle>Reviews</unittitle>
-            <unitdate datechar="creation">1987-88</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_ff40a4fcb186ffd493ba54989b4d1395" label="Mixed Materials [31142063601499]" type="Box">1</container>
-            <container id="aspace_32ba82d72abe05cd90132e4f9beab53b" parent="aspace_ff40a4fcb186ffd493ba54989b4d1395" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref145" level="file">
-          <did>
-            <unittitle>[Transparencies, High Noon]</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_4d63f2c494eee3b2f2a6f17ca5c67de4" label="Mixed Materials [31142063601499]" type="Box">1</container>
-            <container id="aspace_9b51ff3df631229bb40563b814f01e1e" parent="aspace_4d63f2c494eee3b2f2a6f17ca5c67de4" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_6a54133084a9e24d93fb04670bafbbf8" level="file">
-          <did>
-            <unittitle>Photographs, transparencies, and negatives</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_557cbd883a8edde0939a6dec504d192b" label="Mixed Materials [31142062772051]" type="Box">6</container>
-            <container id="aspace_b7107277e5c0175993f952a7ca2d34d4" parent="aspace_557cbd883a8edde0939a6dec504d192b" type="Folder">1-20</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref135" level="series">
-        <did>
-          <unittitle>Series II: Posters</unittitle>
-        </did>
-        <c id="aspace_ref141" level="file">
-          <did>
-            <unittitle>Lisa Fox, Danse, Salle Simon I. Patino, Cite Universitaire de Geneve</unittitle>
-            <unitdate datechar="creation">February 8, [19--]</unitdate>
-            <container altrender="Oversize Folder - Half Case" id="aspace_55dadecbfbe1dda8b9dbe86ae93f85ef" label="Mixed Materials [31142062888576]" type="Folder">5 Left</container>
-          </did>
-        </c>
-        <c id="aspace_ref146" level="file">
-          <did>
-            <unittitle>The Kitchen USA Touring</unittitle>
-            <unitdate datechar="creation">June 14-15, [19--]</unitdate>
-            <container altrender="Oversize Folder - Half Case" id="aspace_f69692c57601acb782a61fc4c5c17e07" label="Mixed Materials [31142062888576]" type="Folder">5 Left</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref2" level="series">
-        <did>
-          <unittitle>Series III: Film</unittitle>
-        </did>
-        <c id="aspace_ref6" level="subseries">
-          <did>
-            <unittitle>Subseries A: Access Copies</unittitle>
-          </did>
-          <accessrestrict id="aspace_7d39f5562563d308dafc709855281064">
-            <head>Conditions Governing Access</head>
-            <p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p>
-          </accessrestrict>
-          <c id="aspace_ref150" level="item">
-            <did>
-              <unittitle>In Artificial Light, a film by Curt Royston (2010 Restoration Print)</unittitle>
-              <unitid>ID: 249.0094</unitid>
-              <unitdate datechar="creation">1982</unitdate>
-              <container altrender="Film Can (1.25&quot; height, any dimensions)" id="aspace_a942d6f5c76635dd1e5a392478e7959d" label="film [31142063514114]" type="reel">249.0094</container>
-              <container id="aspace_53fa278527559d8635003e4a288737ec" parent="aspace_a942d6f5c76635dd1e5a392478e7959d" type="reel">Release Print</container>
-              <container altrender="Film Can (1.25&quot; height, any dimensions)" id="aspace_5ff677664d054a7eb23619a6c5b23d48" label="film [31142063514106]" type="reel">249.0093</container>
-              <container id="aspace_8d432e4936cc24d14de610c845eebcd9" parent="aspace_5ff677664d054a7eb23619a6c5b23d48" type="reel">Answer Print</container>
-            </did>
-            <phystech id="aspace_4f3655e8838f4df5a7905a89c1885a85">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>Color, Sound<lb/>Duration: 20 minutes</p>
-            </phystech>
-          </c>
-        </c>
-        <c id="aspace_ref7" level="subseries">
-          <did>
-            <unittitle>Subseries B: Originals</unittitle>
-          </did>
-          <c id="aspace_ref8" level="item">
-            <did>
-              <unittitle>Hothouse (title on print)</unittitle>
-              <unitid>ID: 249.0001</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_5b61d5399133f2e014ff08c4a2c8f6e9" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_96ac6bbfbcefe3e7397a3dba0e59b6d3" parent="aspace_5b61d5399133f2e014ff08c4a2c8f6e9" type="Media">ID: 249.0001</container>
-            </did>
-            <phystech id="aspace_ea2ccbe334bd839911f2b662631d75be">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length: 400 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref10" level="item">
-            <did>
-              <unittitle>Hothouse</unittitle>
-              <unitid>ID: 249.0002</unitid>
-              <unitdate datechar="creation">1985</unitdate>
-              <container altrender="Record carton" id="aspace_b9429702ff0ffe5841520ed9793161f8" label="media [31142063435278]" type="Box">3</container>
-              <container id="aspace_24e09930a485732d29ee0e3b64c6465e" parent="aspace_b9429702ff0ffe5841520ed9793161f8" type="Media">ID: 249.0002</container>
-            </did>
-            <phystech id="aspace_33c86ed1581f718a40eb298325601704">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length: 400 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref12" level="item">
-            <did>
-              <unittitle>Hothouse - 2nd Answer Print</unittitle>
-              <unitid>ID: 249.0003</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_226fc836144cb8c788ffd1d9784afa5a" label="media [31142063435278]" type="Box">3</container>
-              <container id="aspace_661ce399f6ab4d93e6f219f63323e956" parent="aspace_226fc836144cb8c788ffd1d9784afa5a" type="Media">ID: 249.0003</container>
-            </did>
-            <phystech id="aspace_34b0faf258d6e859be3c08eb7d486ea5">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length: 400 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref14" level="item">
-            <did>
-              <unittitle>In Artificial Light</unittitle>
-              <unitid>ID: 249.0004</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_71b93f4fb0e22e12f89064e328c2db0f" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_29fcaa4f555bd03c1672f876e859675a" parent="aspace_71b93f4fb0e22e12f89064e328c2db0f" type="Media">ID: 249.0004</container>
-            </did>
-            <phystech id="aspace_5b53133e290f2e7d9165db00c6442ce3">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:700 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref16" level="item">
-            <did>
-              <unittitle>In Artificial Light - Mag Track</unittitle>
-              <unitid>ID: 249.0005</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_b52472b2b8346c86a487bf58f033b57b" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_f35aea89b1f73fd6d383e9d0da85a1b0" parent="aspace_b52472b2b8346c86a487bf58f033b57b" type="Media">ID: 249.0005</container>
-            </did>
-            <phystech id="aspace_94a668290c39881cd42115569a54b017">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref18" level="item">
-            <did>
-              <unittitle>Puss and Boots</unittitle>
-              <unitid>ID: 249.0006</unitid>
-              <unitdate datechar="creation">c.a. 1980</unitdate>
-              <container altrender="Record carton" id="aspace_666ec17b0c225047af9f97592ecdcd20" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_5d9f76a87eb3c623d2fbdada66fa9b78" parent="aspace_666ec17b0c225047af9f97592ecdcd20" type="Media">ID: 249.0006</container>
-            </did>
-            <phystech id="aspace_00ce7cdac0933fc8887a1b6b303e1b06">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:100 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref20" level="item">
-            <did>
-              <unittitle>Kitchen Show on the Staten Island Ferry</unittitle>
-              <unitid>ID: 249.0007</unitid>
-              <unitdate datechar="creation">c.a. 1981</unitdate>
-              <container altrender="Record carton" id="aspace_b18645c48d657236e05cdb4ad82e2358" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_3e54ef5e5df2013053026afeceac58d2" parent="aspace_b18645c48d657236e05cdb4ad82e2358" type="Media">ID: 249.0007</container>
-            </did>
-            <phystech id="aspace_c35251d7891c4b80d948cb11f04d78af">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:100 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref22" level="item">
-            <did>
-              <unittitle>Notes for an Adagio</unittitle>
-              <unitid>ID: 249.0008</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_317111bca102301007606417c70da5bd" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_fcde6427c26559af37087a7606cbd591" parent="aspace_317111bca102301007606417c70da5bd" type="Media">ID: 249.0008</container>
-            </did>
-            <phystech id="aspace_dca4430d0e2513e5906eeb9fec5edf33">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:260 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref24" level="item">
-            <did>
-              <unittitle>Notes for an Adagio - Pix</unittitle>
-              <unitid>ID: 249.0009</unitid>
-              <unitdate datechar="creation">c.a. 1982</unitdate>
-              <container altrender="Record carton" id="aspace_332e3168f9a5019a2ba567edb3028f2c" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_fa502eaa771b6bd75d47a6373c8f7fbc" parent="aspace_332e3168f9a5019a2ba567edb3028f2c" type="Media">ID: 249.0009</container>
-            </did>
-            <phystech id="aspace_04f30008c863cf9dd8cddaeb1774283b">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:100 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref26" level="item">
-            <did>
-              <unittitle>White Shirt Place - Reel 1 - Mag Track</unittitle>
-              <unitid>ID: 249.0010</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_b1834944d7404c5b023d78cd359335f5" label="media [31142063435278]" type="Box">3</container>
-              <container id="aspace_c88ec94dbd03f40b082931dcfc085a18" parent="aspace_b1834944d7404c5b023d78cd359335f5" type="Media">ID: 249.0010</container>
-            </did>
-            <phystech id="aspace_fb1b15ef4ccaf6730a3ec65f95ed14f9">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:850 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref28" level="item">
-            <did>
-              <unittitle>White Shirt Place - Reel 2 - Mag Track</unittitle>
-              <unitid>ID: 249.0011</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_ee6174160bdb9e6f12f91e8e45fa3610" label="media [31142063435278]" type="Box">3</container>
-              <container id="aspace_146b06bd08486d8100b28cb8be280c78" parent="aspace_ee6174160bdb9e6f12f91e8e45fa3610" type="Media">ID: 249.0011</container>
-            </did>
-            <phystech id="aspace_1bfc3089a5a2c16d4806726dd6edfb8f">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:650 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref30" level="item">
-            <did>
-              <unittitle>In Artificial Light</unittitle>
-              <unitid>ID: 249.0012</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_82b2e6cbabcf91e7e0d2deb0f8ffe072" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_b08b833802b4b2081e3c03fd7044af5a" parent="aspace_82b2e6cbabcf91e7e0d2deb0f8ffe072" type="Media">ID: 249.0012</container>
-            </did>
-            <phystech id="aspace_435c902d4b96c1cf6aa471fcc24c62b9">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:670 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref32" level="item">
-            <did>
-              <unittitle>Hot House</unittitle>
-              <unitid>ID: 249.0013</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_171ef5c82d3c7edb8af2edca689cd75c" label="media [31142063435278]" type="Box">3</container>
-              <container id="aspace_7fe3f32edaa31413d22246d20af15b26" parent="aspace_171ef5c82d3c7edb8af2edca689cd75c" type="Media">ID: 249.0013</container>
-            </did>
-            <phystech id="aspace_c0e04eb4fee6b9e99eb8433ff0e81fa2">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:450 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref34" level="item">
-            <did>
-              <unittitle>En Passant</unittitle>
-              <unitid>ID: 249.0014</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_89a77e4f058cfd9ae5c46bfeab8fbc2f" label="media [31142063435278]" type="Box">3</container>
-              <container id="aspace_dea0ae380a64d34e0d660fbe44353072" parent="aspace_89a77e4f058cfd9ae5c46bfeab8fbc2f" type="Media">ID: 249.0014</container>
-            </did>
-            <phystech id="aspace_5f499994704d7f1e48181053a923ae00">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:500 ft</p>
-            </phystech>
-          </c>
-          <c id="aspace_ref36" level="item">
-            <did>
-              <unittitle>Notes for an Adagio</unittitle>
-              <unitid>ID: 249.0015</unitid>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_59328088add39fe06259eaed6791f1a7" label="media [31142063435260]" type="Box">2</container>
-              <container id="aspace_defe0cc9e86182f7ebcbb5ad7bfb478f" parent="aspace_59328088add39fe06259eaed6791f1a7" type="Media">ID: 249.0015</container>
-            </did>
-            <phystech id="aspace_be8afc8189cdc17b8d47730854847a3e">
-              <head>Physical Characteristics and Technical Requirements</head>
-              <p>Gauge: 16mm<lb/>
-Length:140 ft</p>
-            </phystech>
-          </c>
-        </c>
-      </c>
-      <c id="aspace_ref4" level="series">
-        <did>
-          <unittitle>Series IV: Video recordings </unittitle>
-        </did>
-        <accessrestrict id="aspace_984b011061df191d92709582ee4c0d7d">
-          <head>Conditions Governing Access</head>
-          <p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p>
-        </accessrestrict>
-        <c id="aspace_ref38" level="item">
-          <did>
-            <unittitle>"High Noon in Half Light"</unittitle>
-            <unitid>ID: 249.0016</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_63530cbd22abb54d9fa2df87ba0ee112" label="moving images [31142063435294]" type="Box">5</container>
-            <container id="aspace_fed79b42f461038243e38cae724efdb2" parent="aspace_63530cbd22abb54d9fa2df87ba0ee112" type="Media">ID: 249.0016</container>
-          </did>
-          <phystech id="aspace_c4cb750a8c93334c275d8e52a45498e0">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 1in<lb/></p>
-            <p>Duration: 33 minutes</p>
-          </phystech>
-          <accessrestrict id="aspace_b9b0fa49459152d236eee358341b1175">
-            <head>Conditions Governing Access</head>
-            <p>Audiovisual materials have not been preserved and may not be available to researchers.</p>
-          </accessrestrict>
-        </c>
-        <c id="aspace_ref40" level="item">
-          <did>
-            <unittitle>"High Noon in Half Light"</unittitle>
-            <unitid>ID: 249.0017</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_3dc71784c12165b4db7b21127ec9dfbe" label="moving images [31142063435294]" type="Box">5</container>
-            <container id="aspace_82fb0dc360f28dec438b170e5aad7ad9" parent="aspace_3dc71784c12165b4db7b21127ec9dfbe" type="Media">ID: 249.0017</container>
-          </did>
-          <phystech id="aspace_5c74c5508260fe85cc95fd4eff5b3275">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 1in<lb/></p>
-            <p>Duration: 33 minutes</p>
-          </phystech>
-          <accessrestrict id="aspace_bdb1ad60099a73a022cf30fbfdd24972">
-            <head>Conditions Governing Access</head>
-            <p>Audiovisual materials have not been preserved and may not be available to researchers.</p>
-          </accessrestrict>
-        </c>
-        <c id="aspace_ref42" level="item">
-          <did>
-            <unittitle>"High Noon in Half Light"</unittitle>
-            <unitid>ID: 249.0018</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_8fa430fc898acf031c21f375468a0da2" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_093f8b696fde13803a99b92f23064cac" parent="aspace_8fa430fc898acf031c21f375468a0da2" type="Media">ID: 249.0018</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_9910e82a6f6c347527078d2bf57ef584" label="access dvd [31142063424686]" type="case">249.0041</container>
-          </did>
-          <altformavail id="aspace_e9655dc9878529172f9e5f3f602f031a">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0041.</p>
-          </altformavail>
-          <phystech id="aspace_4c76c10d3814e43e8aa646f78f0faaa8">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: 33 minutes</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref44" level="item">
-          <did>
-            <unittitle>"High Noon in Half Light"</unittitle>
-            <unitid>ID: 249.0019</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_01b8b6c0deb0bb0e5d5f7dc3836f4ed4" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_7e708719dfc6ef51837859520cb352e6" parent="aspace_01b8b6c0deb0bb0e5d5f7dc3836f4ed4" type="Media">ID: 249.0019</container>
-          </did>
-          <phystech id="aspace_fa5ced63fe1f69ce8750cdb4e2a99866">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: VHS<lb/></p>
-            <p>Duration: 33 minutes</p>
-          </phystech>
-          <accessrestrict id="aspace_2222606ee467b88b045992519d14a31d">
-            <head>Conditions Governing Access</head>
-            <p>Audiovisual materials have not been preserved and may not be available to researchers.</p>
-          </accessrestrict>
-        </c>
-        <c id="aspace_ref46" level="item">
-          <did>
-            <unittitle>High Noon in Half Light: "Eye Light" Camera #1</unittitle>
-            <unitid>ID: 249.0020</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 10, 1987</unitdate>
-            <container altrender="Record carton" id="aspace_925d81a3f93f0614405fa7c713030fd2" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_b724de4d3360c278d953b64d06242aa6" parent="aspace_925d81a3f93f0614405fa7c713030fd2" type="Media">ID: 249.0020</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_4805b3d1250c5dc8a09d33bbf664ccf0" label="access dvd [31142063424694]" type="case">249.0044</container>
-          </did>
-          <phystech id="aspace_0522aa47d72adf3507449523dff1dc9b">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/>
-Duration: unknown</p>
-          </phystech>
-          <odd id="aspace_13bf576ad02355018e6a1b23f08664bc">
-            <head>General</head>
-            <p>Alternate Title: "High Noon in Half Light"</p>
-          </odd>
-          <altformavail id="aspace_25e75d086dcb2e2f58fe4e9eea456626">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0044</p>
-          </altformavail>
-        </c>
-        <c id="aspace_ref49" level="item">
-          <did>
-            <unittitle>Half Light "All Our Hands" Camera #1</unittitle>
-            <unitid>ID: 249.0021</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 10, 1987</unitdate>
-            <container altrender="Record carton" id="aspace_2b41f5d75737694facafc740d4b9990d" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_26a9ad4cd74a53e9db37cee6a2bffc39" parent="aspace_2b41f5d75737694facafc740d4b9990d" type="Media">ID: 249.0021</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_656f381f273de1646d0591d0ac7a6d2f" label="access dvd [31142063424702]" type="case">249.0047</container>
-          </did>
-          <altformavail id="aspace_554007b18a9640359919a1d5b50996b7">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0047.</p>
-          </altformavail>
-          <phystech id="aspace_f93fb799098a6c9905f78fb2b8a92b44">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-          <odd id="aspace_0d0a41d3084c989110f5ccd68dc9b999">
-            <head>General</head>
-            <p>Alternate Title: "High Noon in Half Light"</p>
-          </odd>
-        </c>
-        <c id="aspace_ref52" level="item">
-          <did>
-            <unittitle>Half Light - "Eye Light" Camera #2</unittitle>
-            <unitid>ID: 249.0022</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 17, 1987</unitdate>
-            <container altrender="Record carton" id="aspace_e4d794b9343e741849cecb6b387a22ed" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_e494b4d59626694ffdac734d0cb029c7" parent="aspace_e4d794b9343e741849cecb6b387a22ed" type="Media">ID: 249.0022</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_fb21188246dd7ced5fe4df11d4d8a63e" label="access dvd [31142063424710]" type="case">249.0050</container>
-          </did>
-          <altformavail id="aspace_fd8c690e544445243ff11c5a4023fe6b">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0050</p>
-          </altformavail>
-          <phystech id="aspace_014ce2fba845a86cf032e717eb14114f">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-          <odd id="aspace_b5e7b02602fe106dc9d082d9d3e86e63">
-            <head>General</head>
-            <p>Alternate Title: "High Noon in Half Light"</p>
-          </odd>
-        </c>
-        <c id="aspace_ref55" level="item">
-          <did>
-            <unittitle>Half Light - "All Our Hands" Camera #2</unittitle>
-            <unitid>ID: 249.0023</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 17, 1987</unitdate>
-            <container altrender="Record carton" id="aspace_367018aa7ecbc82579729ed608820bd8" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_c2cd672a7a82e991f8651edb915d0f2f" parent="aspace_367018aa7ecbc82579729ed608820bd8" type="Media">ID: 249.0023</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_afde03916d97b3338ff070ac402d2663" label="access dvd [31142063424728]" type="case">249.0053</container>
-          </did>
-          <altformavail id="aspace_8a46a4e902de4b8e896a26d94230a6a1">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0053.</p>
-          </altformavail>
-          <phystech id="aspace_c7b59dbbcfd23341840c618b2440baa3">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 1in<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-          <odd id="aspace_f51a685465203578b34ed4f2e0578a76">
-            <head>General</head>
-            <p>Alternate Title: "High Noon in Half Light"</p>
-          </odd>
-        </c>
-        <c id="aspace_ref58" level="item">
-          <did>
-            <unittitle>Half Light - "Blue Room" Camera #2</unittitle>
-            <unitid>ID:249.0024</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 17, 1987</unitdate>
-            <container altrender="Record carton" id="aspace_bef0caa0fbc36be0a57a2f647417df90" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_55c068ed69c3f36ca08e348cea348abe" parent="aspace_bef0caa0fbc36be0a57a2f647417df90" type="Media">ID:249.0024</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_70e927079b20decb8a7ee4c1a9eb66f7" label="access dvd [31142063424736]" type="case">249.0056</container>
-          </did>
-          <altformavail id="aspace_805d1b0202706941a92349aee6900bce">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0056.</p>
-          </altformavail>
-          <phystech id="aspace_dd27c44500d970742f9cc321229fc987">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-          <odd id="aspace_0a105ba342b50598b17e4293dff7573f">
-            <head>General</head>
-            <p>Alternate Title: "High Noon in Half Light"</p>
-          </odd>
-        </c>
-        <c id="aspace_ref61" level="item">
-          <did>
-            <unittitle>"Eye Light" Performance #3</unittitle>
-            <unitid>ID: 249.0025</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 28, 1987</unitdate>
-            <container altrender="Record carton" id="aspace_0d716cbfd6b1de5dffd23df683d0d930" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_efa3366b226b1c964ec27af3f1f7717a" parent="aspace_0d716cbfd6b1de5dffd23df683d0d930" type="Media">ID: 249.0025</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_94701f0e1311af1fdfc9ca0403665625" label="access dvd [31142063424744]" type="case">249.0059</container>
-          </did>
-          <altformavail id="aspace_a931ff5800534ab756711ec7bc0ca433">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0059.</p>
-          </altformavail>
-          <phystech id="aspace_1f7772ef876d8b2532158ba08d54b504">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref63" level="item">
-          <did>
-            <unittitle>"All Our Hands" Performance #3</unittitle>
-            <unitid>ID: 249.0026</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 28, 1987</unitdate>
-            <container id="aspace_435a77cfc5d829461b423761dc26c57c" label="moving images" type="Box">[1]</container>
-            <container id="aspace_715dc18cc9fdb231315b5f3de2db5ac6" parent="aspace_435a77cfc5d829461b423761dc26c57c" type="Media">ID: 249.0026</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_113319dbb84da13ba3c16fce2de58755" label="access dvd [31142063424751]" type="case">249.0062</container>
-          </did>
-          <altformavail id="aspace_f2834740dad4d93a117cfcb5be01ff62">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0062.</p>
-          </altformavail>
-          <phystech id="aspace_8d824a9da13e4212b94c6ea0fe9d019a">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref65" level="item">
-          <did>
-            <unittitle>"Blue Room" Performance #3</unittitle>
-            <unitid>ID: 249.0027</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 28, 1987</unitdate>
-            <container altrender="Record carton" id="aspace_6bb9ba051aace08618a2027160624340" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_738dcca0cbe7f66addfb526b06995ce1" parent="aspace_6bb9ba051aace08618a2027160624340" type="Media">ID: 249.0027</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_37f156c7e32fd009eca0e6ed7bc58610" label="access dvd [31142063424769]" type="case">249.0065</container>
-          </did>
-          <altformavail id="aspace_9632b66758f45e68ec191d096fff7666">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0065.</p>
-          </altformavail>
-          <phystech id="aspace_9958888e9d6cc26029f365d8ff0a6733">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref67" level="item">
-          <did>
-            <unittitle>Overhead Cam Performance #3</unittitle>
-            <unitid>ID: 249.0028</unitid>
-            <unitdate datechar="creation" normal="1987/1987" type="inclusive">November 28, 1987</unitdate>
-            <container altrender="Record carton" id="aspace_65ad44535236e30427d5285d4f469e6e" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_cd12c197c48bf7fefcbfb5a389755deb" parent="aspace_65ad44535236e30427d5285d4f469e6e" type="Media">ID: 249.0028</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_ef94451294d67c30aeae3f346f9656c3" label="access dvd [31142063424777]" type="case">249.0068</container>
-          </did>
-          <altformavail id="aspace_c4a0086143add01e5c74a2b21f034e48">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0068.</p>
-          </altformavail>
-          <phystech id="aspace_4b4119dd2beea8fdf7e7910a7e9b336b">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref69" level="item">
-          <did>
-            <unittitle>"In Artificial Light"</unittitle>
-            <unitid>ID: 249.0029</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_cc0d3296ed483bfc02ec05061d230a8c" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_3ab145bbc62fbe088a31dd6f306efdda" parent="aspace_cc0d3296ed483bfc02ec05061d230a8c" type="Media">ID: 249.0029</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_8bbcaf105d151bea722be4360075cba3" label="access dvd [31142063424785]" type="case">249.0071</container>
-          </did>
-          <altformavail id="aspace_bde1eeba7ee1bee7d8edc64c0c391f84">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0071.</p>
-          </altformavail>
-          <phystech id="aspace_a42cd137d731c0ed3c760da7fd61a219">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: 20 minutes</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref71" level="item">
-          <did>
-            <unittitle>"In Artificial Light"</unittitle>
-            <unitid>ID: 249.0030</unitid>
-            <unitdate datechar="creation" normal="1983/1983" type="inclusive">January 1983</unitdate>
-            <container altrender="Record carton" id="aspace_e40ea55acd5e0aaf40c3d16bc3140dd2" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_de8d5e52f889a11a5c4720a592678f96" parent="aspace_e40ea55acd5e0aaf40c3d16bc3140dd2" type="Media">ID: 249.0030</container>
-            <container altrender="Jewel Case - 5.5" id="aspace_0075bfe5952fe1b44931ca07239eae95" label="access dvd [31142063424843]" type="case">249.0097</container>
-          </did>
-          <altformavail id="aspace_b114dbb41ddade5ca00acdcf00ac179a">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0097</p>
-          </altformavail>
-          <phystech id="aspace_906bfb6e51c7921e2802afb48ee15c47">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: 20 minutes</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref73" level="item">
-          <did>
-            <unittitle>Downtown Madonna  Part 2 and "In Artificial Light"</unittitle>
-            <unitid>ID: 249.0031</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_df865b6b9d6a127f191bef51729d3090" label="media [31142063435286]" type="Box">4</container>
-            <container id="aspace_fb74588577fdc8d0f36b4ad5015f2bc6" parent="aspace_df865b6b9d6a127f191bef51729d3090" type="Media">ID: 249.0031</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_50c078a3b26e1489e30aefbfaba510db" label="access dvd [31142063424793]" type="case">249.0074</container>
-          </did>
-          <altformavail id="aspace_7f252704fce3cab128237a86b1ea34f3">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0074.</p>
-          </altformavail>
-          <phystech id="aspace_ccd1807bf629fea01d5f7943e85acbd9">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: Betacam SP<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref75" level="item">
-          <did>
-            <unittitle>"In Artificial Light"</unittitle>
-            <unitid>ID: 249.0032</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_96154f5ab3ab32f8f5ca21c121a314fc" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_9529147abe41292bb736220587085dab" parent="aspace_96154f5ab3ab32f8f5ca21c121a314fc" type="Media">ID: 249.0032</container>
-          </did>
-          <phystech id="aspace_06ee220779a16e48ce48b99d78dfaa52">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Format: VHS<lb/>
-Duration: [unknown]</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref77" level="item">
-          <did>
-            <unittitle>"Hot House"</unittitle>
-            <unitid>ID: 249.0033</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_910f93d5ddd43e2a40d0f78da8bd7fa1" label="moving images [31142063435286]" type="Box">4</container>
-            <container id="aspace_3800ba11c98c28db1ed92846d62ca781" parent="aspace_910f93d5ddd43e2a40d0f78da8bd7fa1" type="Media">ID: 249.0033</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_1e54607e375308ab5ed94a8c8fc760d9" label="access dvd [31142063424801]" type="case">249.0077</container>
-          </did>
-          <altformavail id="aspace_d26a9d5d2a00fc1b722c4e399d3be516">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0077.</p>
-          </altformavail>
-          <phystech id="aspace_c889569188cbbf8d11ecadda3b1e6e63">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: 10 minutes</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref79" level="item">
-          <did>
-            <unittitle>"Hot House" - Original film to video transfer</unittitle>
-            <unitid>IDL 249.0034</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_a5e98588dcc2fe80dbf9874aab4a084c" label="moving images [31142063435294]" type="Box">5</container>
-            <container id="aspace_070ef9030092dc99d231231792ef119d" parent="aspace_a5e98588dcc2fe80dbf9874aab4a084c" type="Media">IDL 249.0034</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_fe52f89be0cce87c5649729462478e7e" label="access dvd [31142063424819]" type="case">249.0080</container>
-          </did>
-          <altformavail id="aspace_505055316a23d3a6e6424b42895e2160">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0080</p>
-          </altformavail>
-          <phystech id="aspace_2024eb264be2fe8f48a3cd41efe80ed8">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/>
-Duration: unknown</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref81" level="item">
-          <did>
-            <unittitle>Lisa Fox "Floored", Kitchen Performance 12/10/81</unittitle>
-            <unitid>ID: 249.0035</unitid>
-            <unitdate datechar="creation" normal="1981/1981" type="inclusive">December 10, 1981</unitdate>
-            <container altrender="Record carton" id="aspace_0985f16e0e8a692ae8b2bcb699482fa1" label="moving images [31142063435294]" type="Box">5</container>
-            <container id="aspace_aa1bc2114652147525b792006801c560" parent="aspace_0985f16e0e8a692ae8b2bcb699482fa1" type="Media">ID: 249.0035</container>
-          </did>
-          <phystech id="aspace_0a987e67dfce48c00239b3c39bfec2ac">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Format: 3/4in Umatic<lb/>
-Duration: 00:40:00</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref83" level="item">
-          <did>
-            <unittitle>Lisa Fox "The Feast"</unittitle>
-            <unitid>ID: 249.0036</unitid>
-            <unitdate datechar="creation" normal="1983/1983" type="inclusive">January 1983</unitdate>
-            <container altrender="Record carton" id="aspace_acd7e4614300a6eb410e2c13212e4954" label="moving images [31142063435294]" type="Box">5</container>
-            <container id="aspace_73e266fe801ce2edaf8ef7bb11ce7c57" parent="aspace_acd7e4614300a6eb410e2c13212e4954" type="Media">ID: 249.0036</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_7db74e9d14ba70b94f4ffc212be19419" label="access dvd [31142063424827]" type="case">249.0083</container>
-          </did>
-          <altformavail id="aspace_3175d2e4763525320f5c46ae678cfa96">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0083</p>
-          </altformavail>
-          <phystech id="aspace_b9a711030d0f0e7246f39d907d404b1e">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: 8 minutes</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref85" level="item">
-          <did>
-            <unittitle>"Lisa Fox &amp; Rhys Chatham, Institute of Contemporary Art"</unittitle>
-            <unitid>ID: 249.0037</unitid>
-            <unitdate datechar="creation" normal="1983/1983" type="inclusive">January 1983</unitdate>
-            <container altrender="Record carton" id="aspace_f63c1a0b99a4827a25460eedec24e6ed" label="moving images [31142063435294]" type="Box">5</container>
-            <container id="aspace_2d5604a2be9c924aefdbc956a8fa0db4" parent="aspace_f63c1a0b99a4827a25460eedec24e6ed" type="Media">ID: 249.0037</container>
-            <container altrender="Jewel Case - 5.75" id="aspace_6602ce48efd1eaae60f92938b4bda873" label="access dvd [31142063424835]" type="case">249.0086</container>
-          </did>
-          <altformavail id="aspace_fa82b4bb095f7f20a78eba380445050f">
-            <head>Existence and Location of Copies</head>
-            <p>Access DVD available. Please request Access DVD #249.0086.</p>
-          </altformavail>
-          <phystech id="aspace_0a7ed6e7624d8db043e6dd8c29e3f00e">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Original format: 3/4in Umatic<lb/></p>
-            <p>Duration: unknown</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref87" level="item">
-          <did>
-            <unittitle>[Untitled - Curt Royston]</unittitle>
-            <unitid>ID: 249.0038</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_0ec09d63f812820f7fee64b2bab842e1" label="moving images [31142063435294]" type="Box">5</container>
-            <container id="aspace_f45679fbfd858b7eb83ea78f8565232e" parent="aspace_0ec09d63f812820f7fee64b2bab842e1" type="Media">ID: 249.0038</container>
-          </did>
-          <phystech id="aspace_71b7a2a0d4cbc628f7a384bf9f3233fc">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>Format: 3/4in Umatic<lb/>
-Duration: [unknown]</p>
-          </phystech>
-        </c>
-      </c>
-      <c id="aspace_ref137" level="series">
-        <did>
-          <unittitle>Series V: Sound recordings</unittitle>
-        </did>
-        <c id="aspace_ref138" level="item">
-          <did>
-            <unittitle>Hot House Rough Takes</unittitle>
-            <unitid>ID: 249.0087</unitid>
-            <unitdate datechar="creation">June 1985</unitdate>
-            <container altrender="Record carton" id="aspace_e985ae62c1a6cbca355ed3df205bd4f7" label="media [31142063435294]" type="Box">5</container>
-            <container id="aspace_b65ab0ed0948a666ae9b32f7d1999acc" parent="aspace_e985ae62c1a6cbca355ed3df205bd4f7" type="Media">ID: 249.0087</container>
-          </did>
-          <odd id="aspace_5bb3ac61bdb5cd8c1b5c2b452b21fa50">
-            <head>General</head>
-            <p>Alternate Title: Piano Takes with Harold - 6/85</p>
-          </odd>
-        </c>
-        <c id="aspace_ref139" level="item">
-          <did>
-            <unittitle>June Mix</unittitle>
-            <unitid>ID: 249.0088</unitid>
-            <unitdate datechar="creation">6/2/82</unitdate>
-            <container altrender="Record carton" id="aspace_b5ad9d68b02ec93460711f32db32ad5b" label="media [31142063435294]" type="Box">5</container>
-            <container id="aspace_d318fa09ed1facff679644f687f014a4" parent="aspace_b5ad9d68b02ec93460711f32db32ad5b" type="Media">ID: 249.0088</container>
-          </did>
-        </c>
-        <c id="aspace_ref140" level="item">
-          <did>
-            <unittitle>The Bunt, The Hunt, Floored - Swiss Mix, Feb 1982</unittitle>
-            <unitid>ID: 249.0089</unitid>
-            <unitdate datechar="creation">February 1982</unitdate>
-            <container altrender="Record carton" id="aspace_c1f5a6655b4ae3ab20f9c3ebf164616c" label="media [31142063435294]" type="Box">5</container>
-            <container id="aspace_e0e1b73cb5cef434f66dc526b73fcb44" parent="aspace_c1f5a6655b4ae3ab20f9c3ebf164616c" type="Media">ID: 249.0089</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>MSS.249</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">18 Linear Feet</extent>
+      <extent altrender="carrier">in 8 record cartons, 2 manuscript boxes, 17 jewel cases, 2 film cans, and 1 flat file folder.</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">19 film reels</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">19 videocassettes (u-matic)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">17 videodiscs (dvd)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 videocassettes (vhs)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 sound tape reels</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1980/1988" type="inclusive">1980-1988</unitdate>
+    <abstract id="aspace_11376bfe0ccae201ca10eec6b56230fc">The Lisa Fox and Curt Royston Papers consists of materials created by Lisa and Curt's multimedia collaborations. This collection contains reviews, photographs, transparencies, posters, video recordings, and sound recordings. Materials date from 1980 to 1988.</abstract>
+    <physloc id="aspace_fa2689b64aaa00f7c9d4ccd26f29cacd">Some materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_3bb11c6d73ea1e25f2744bbc443adc75">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_d7733b621f2d5414f779487e3d92e7c2">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_8b5dd1eade3b58457e826cc0b919fec3">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Lisa Fox in 2009 and 2014. The accession numbers associated with these gifts are 2009.249 and 2014.249.</p>  </acqinfo>
+  <arrangement id="aspace_778c304e4271884d319bba9dfc467383">
+    <head>Arrangement</head>
+<p>The collection is organized into five series based on format:</p>    <list numeration="arabic" type="ordered">
+      <item>Series I: Paper and Photographs</item>
+      <item>Series II: Posters</item>
+      <item>Series III: Film</item>
+      <item>Series IV: Video recordings</item>
+      <item>Series V: Sound recordings</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_b9eed57f9e7e4dc0db0d46d7cbcc0a93">
+    <head>Biographical Note</head>
+<p>Lisa Fox was a leading dancer with the Merce Cunningham Dance Company from 1976-1980 and was a choreographer with the Lisa Fox Danse for over thirty years. Curt Royston is best known for his proficiency in a variety of media: painting, sculpture, photography, film, and video, and often in combination. His work has been shown extensively throughout the United States and Europe including a 1987 one-man exhibition at the Whitney Museum of American Art. Together Royston and Fox collaborated on a series of multimedia installations, as well as a number of 16mm dance-based films throughout the 1980s, the most popular of which is "In Artificial Light" (1983).</p>  </bioghist>
+  <prefercite id="aspace_7dfaf4782f3da37b8f9751342090dbfa">
+    <head>Preferred Citation</head>
+<p>Published citations should take the
+following form:<lb/><lb/>
+Identification of item,  date (if known); Lisa Fox and Curt Royston Papers; MSS 249; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_e68abaaced02d1b723ef153f5d84d34e">
+    <head>Processing Information</head>
+<p>In 2018 materials from accretion 2014.249 were processed and intellectually incorporated into the collection. Materials were housed in archival folders and boxes.</p>  </processinfo>
+  <relatedmaterial id="aspace_8e2839e86dd62cba72725ef4acbafe28">
+    <head>Related Material at Fales Library and Special Collections</head>
+<p>Curt Royston Papers (MSS.259)</p>  </relatedmaterial>
+  <scopecontent id="aspace_491108968653da1a750476c1b6ad6673">
+    <head>Scope and Content</head>
+<p>This collection contains reviews, photographs, transparencies, posters, film, video and sound recordings related to the multimedia collaborations of Lisa Fox and Curt Royston. Materials date from 1980 to 1988.</p>  </scopecontent>
+  <userestrict id="aspace_f4194b0ec85e3bf891f571e13e8b099e">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Lisa Fox and Curt Royston was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Multimedia (Art).</subject>
+    <subject source="lcsh">Women choreographers.</subject>
+    <subject source="lcsh">Women dancers.</subject>
+    <subject source="lcsh">Artists -- United States.</subject>
+    <subject source="lcsh">Motion picture producers and directors.</subject>
+    <subject source="lcsh">Choreographers</subject>
+    <subject source="lcsh">Dancers</subject>
+    <persname role="dnr" source="naf">Fox, Lisa</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Paper and Photographs</unittitle></did><c id="aspace_ref143" level="file"><did><unittitle>"In Artificial Light"</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_85075f180f6e9ee8523c13eb5306d470" label="Mixed Materials [31142063601499]" type="Box">1</container><container id="aspace_3a2635a40a73d6d620b193d13dc0bca4" parent="aspace_85075f180f6e9ee8523c13eb5306d470" type="Folder">1</container></did></c><c id="aspace_ref144" level="file"><did><unittitle>Reviews</unittitle><unitdate datechar="creation">1987-88</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4f1ccfc00e8cff1a967f9630afb588e1" label="Mixed Materials [31142063601499]" type="Box">1</container><container id="aspace_a9d4c3a940a67a6c8786edc3ef60a1b8" parent="aspace_4f1ccfc00e8cff1a967f9630afb588e1" type="Folder">2</container></did></c><c id="aspace_ref145" level="file"><did><unittitle>[Transparencies, High Noon]</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_9083b4b0f4f9b57518c3ab14c2c9cd5d" label="Mixed Materials [31142063601499]" type="Box">1</container><container id="aspace_dcc237f922927082271209b8fdbe7d8a" parent="aspace_9083b4b0f4f9b57518c3ab14c2c9cd5d" type="Folder">3</container></did></c><c id="aspace_6a54133084a9e24d93fb04670bafbbf8" level="file"><did><unittitle>Photographs, transparencies, and negatives</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_7df3823bd0e31a0485a7047185cecfac" label="Mixed Materials [31142062772051]" type="Box">6</container><container id="aspace_636521907ebd5d0b0a081fc3d18afd74" parent="aspace_7df3823bd0e31a0485a7047185cecfac" type="Folder">1-20</container></did></c></c><c id="aspace_ref135" level="series"><did><unittitle>Series II: Posters</unittitle></did><c id="aspace_ref141" level="file"><did><unittitle>Lisa Fox, Danse, Salle Simon I. Patino, Cite Universitaire de Geneve</unittitle><unitdate datechar="creation">February 8, [19--]</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_d9a7167aab2dfcba404f719edddb9eb9" label="Mixed Materials [31142062888576]" type="Folder">5 Left</container></did></c><c id="aspace_ref146" level="file"><did><unittitle>The Kitchen USA Touring</unittitle><unitdate datechar="creation">June 14-15, [19--]</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_811803b80677973a288161e92864b45c" label="Mixed Materials [31142062888576]" type="Folder">5 Left</container></did></c></c><c id="aspace_ref2" level="series"><did><unittitle>Series III: Film</unittitle></did><c id="aspace_ref6" level="subseries"><did><unittitle>Subseries A: Access Copies</unittitle></did><accessrestrict id="aspace_7d39f5562563d308dafc709855281064"><head>Conditions Governing Access</head><p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p></accessrestrict><c id="aspace_ref150" level="item"><did><unittitle>In Artificial Light, a film by Curt Royston (2010 Restoration Print)</unittitle><unitid>ID: 249.0094</unitid><unitdate datechar="creation">1982</unitdate><container altrender="Film Can (1.25&quot; height, any dimensions)" id="aspace_521933e06e61ec0609f51074f73722c0" label="film [31142063514106]" type="reel">249.0093</container><container id="aspace_26e14c2b8c477f7e95f73d67dabac1b7" parent="aspace_521933e06e61ec0609f51074f73722c0" type="reel">Answer Print</container><container altrender="Record carton" id="aspace_18784ee73c319202748a5cd0b13e3424" label="film [31142067184583]" type="Box">Shared Fales 048</container><container id="aspace_f9072f2eb884ed326b6a2a25de13457b" parent="aspace_18784ee73c319202748a5cd0b13e3424" type="reel">249.0094</container></did><phystech id="aspace_4f3655e8838f4df5a7905a89c1885a85"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>Color, Sound<lb/>Duration: 20 minutes</p></phystech></c></c><c id="aspace_ref7" level="subseries"><did><unittitle>Subseries B: Originals</unittitle></did><c id="aspace_ref8" level="item"><did><unittitle>Hothouse (title on print)</unittitle><unitid>ID: 249.0001</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_0d1ac8beba72bd37b77209ccb1acf2a3" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_0968df6b92416373fbfa789df34b9181" parent="aspace_0d1ac8beba72bd37b77209ccb1acf2a3" type="Media">ID: 249.0001</container></did><phystech id="aspace_ea2ccbe334bd839911f2b662631d75be"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length: 400 ft</p></phystech></c><c id="aspace_ref10" level="item"><did><unittitle>Hothouse</unittitle><unitid>ID: 249.0002</unitid><unitdate datechar="creation">1985</unitdate><container altrender="Record carton" id="aspace_7911ef13413a35536885019ce4d7dfd4" label="Mixed Materials [31142063435278]" type="Box">3</container><container id="aspace_a8f3b877a0f42e23bbe715b6ea761c5f" parent="aspace_7911ef13413a35536885019ce4d7dfd4" type="Media">ID: 249.0002</container></did><phystech id="aspace_33c86ed1581f718a40eb298325601704"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length: 400 ft</p></phystech></c><c id="aspace_ref12" level="item"><did><unittitle>Hothouse - 2nd Answer Print</unittitle><unitid>ID: 249.0003</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_9e2cb8f79d164f8fec4b37df8174590a" label="Mixed Materials [31142063435278]" type="Box">3</container><container id="aspace_9fa8e49de274b81800eb3af2b8b942e4" parent="aspace_9e2cb8f79d164f8fec4b37df8174590a" type="Media">ID: 249.0003</container></did><phystech id="aspace_34b0faf258d6e859be3c08eb7d486ea5"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length: 400 ft</p></phystech></c><c id="aspace_ref14" level="item"><did><unittitle>In Artificial Light</unittitle><unitid>ID: 249.0004</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_939ce309bfe8dfe07d8237ac02b4aa6f" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_247fbbba45968a595371aecc5044488d" parent="aspace_939ce309bfe8dfe07d8237ac02b4aa6f" type="Media">ID: 249.0004</container></did><phystech id="aspace_5b53133e290f2e7d9165db00c6442ce3"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:700 ft</p></phystech></c><c id="aspace_ref16" level="item"><did><unittitle>In Artificial Light - Mag Track</unittitle><unitid>ID: 249.0005</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_608715557ec233c5af138887e52b9b01" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_ad4fcc811ad937b07401968acfcf4368" parent="aspace_608715557ec233c5af138887e52b9b01" type="Media">ID: 249.0005</container></did><phystech id="aspace_94a668290c39881cd42115569a54b017"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm</p></phystech></c><c id="aspace_ref18" level="item"><did><unittitle>Puss and Boots</unittitle><unitid>ID: 249.0006</unitid><unitdate datechar="creation">c.a. 1980</unitdate><container altrender="Record carton" id="aspace_30516e3dcc44e5b6d5d59cb2352f6031" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_d1a74d2a7616ef54f0e545638de5b3a8" parent="aspace_30516e3dcc44e5b6d5d59cb2352f6031" type="Media">ID: 249.0006</container></did><phystech id="aspace_00ce7cdac0933fc8887a1b6b303e1b06"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:100 ft</p></phystech></c><c id="aspace_ref20" level="item"><did><unittitle>Kitchen Show on the Staten Island Ferry</unittitle><unitid>ID: 249.0007</unitid><unitdate datechar="creation">c.a. 1981</unitdate><container altrender="Record carton" id="aspace_aa9dc7ebefcdc257745e9af98fb7e798" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_ae443c4d19d11ccf7b54f7c59b7c2c3f" parent="aspace_aa9dc7ebefcdc257745e9af98fb7e798" type="Media">ID: 249.0007</container></did><phystech id="aspace_c35251d7891c4b80d948cb11f04d78af"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:100 ft</p></phystech></c><c id="aspace_ref22" level="item"><did><unittitle>Notes for an Adagio</unittitle><unitid>ID: 249.0008</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_3c49b1e051fcab3234762cf4dae63537" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_511ac9ab34c70e3f4a3db8bc388c3661" parent="aspace_3c49b1e051fcab3234762cf4dae63537" type="Media">ID: 249.0008</container></did><phystech id="aspace_dca4430d0e2513e5906eeb9fec5edf33"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:260 ft</p></phystech></c><c id="aspace_ref24" level="item"><did><unittitle>Notes for an Adagio - Pix</unittitle><unitid>ID: 249.0009</unitid><unitdate datechar="creation">c.a. 1982</unitdate><container altrender="Record carton" id="aspace_47117f5a836a241dcb551a068c3825ba" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_d6b3da8dafb5e68a9dc4c7d9659d0fed" parent="aspace_47117f5a836a241dcb551a068c3825ba" type="Media">ID: 249.0009</container></did><phystech id="aspace_04f30008c863cf9dd8cddaeb1774283b"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:100 ft</p></phystech></c><c id="aspace_ref26" level="item"><did><unittitle>White Shirt Place - Reel 1 - Mag Track</unittitle><unitid>ID: 249.0010</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_08d229b2ce566cde9a4f2675ae8621ef" label="Mixed Materials [31142063435278]" type="Box">3</container><container id="aspace_f1c47689bf59dfdf31b62101de23935f" parent="aspace_08d229b2ce566cde9a4f2675ae8621ef" type="Media">ID: 249.0010</container></did><phystech id="aspace_fb1b15ef4ccaf6730a3ec65f95ed14f9"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:850 ft</p></phystech></c><c id="aspace_ref28" level="item"><did><unittitle>White Shirt Place - Reel 2 - Mag Track</unittitle><unitid>ID: 249.0011</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_a5ccb36442e24bb31947bfc2fcad45a9" label="Mixed Materials [31142063435278]" type="Box">3</container><container id="aspace_13efb9217cc5f58c6db7b559a56969cb" parent="aspace_a5ccb36442e24bb31947bfc2fcad45a9" type="Media">ID: 249.0011</container></did><phystech id="aspace_1bfc3089a5a2c16d4806726dd6edfb8f"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:650 ft</p></phystech></c><c id="aspace_ref30" level="item"><did><unittitle>In Artificial Light</unittitle><unitid>ID: 249.0012</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_f882b465cfd0792e8452be3bbd13b9ec" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_08186fbcaf0333e43e1f0846c98f9cf5" parent="aspace_f882b465cfd0792e8452be3bbd13b9ec" type="Media">ID: 249.0012</container></did><phystech id="aspace_435c902d4b96c1cf6aa471fcc24c62b9"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:670 ft</p></phystech></c><c id="aspace_ref32" level="item"><did><unittitle>Hot House</unittitle><unitid>ID: 249.0013</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_816102b4c27c0bf2648c9bf10abbfb3d" label="Mixed Materials [31142063435278]" type="Box">3</container><container id="aspace_578662acea8aeff2c5f54284ac8bb9f9" parent="aspace_816102b4c27c0bf2648c9bf10abbfb3d" type="Media">ID: 249.0013</container></did><phystech id="aspace_c0e04eb4fee6b9e99eb8433ff0e81fa2"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:450 ft</p></phystech></c><c id="aspace_ref34" level="item"><did><unittitle>En Passant</unittitle><unitid>ID: 249.0014</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_3888424a51d474451c52334c3790b0a4" label="Mixed Materials [31142063435278]" type="Box">3</container><container id="aspace_f3374f05dcc9e28e20cbb3363da8cf86" parent="aspace_3888424a51d474451c52334c3790b0a4" type="Media">ID: 249.0014</container></did><phystech id="aspace_5f499994704d7f1e48181053a923ae00"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:500 ft</p></phystech></c><c id="aspace_ref36" level="item"><did><unittitle>Notes for an Adagio</unittitle><unitid>ID: 249.0015</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_acb4379594f4f1c1084bdee4f751c52d" label="Mixed Materials [31142063435260]" type="Box">2</container><container id="aspace_cccc7dc549824a7d1ae382374495c066" parent="aspace_acb4379594f4f1c1084bdee4f751c52d" type="Media">ID: 249.0015</container></did><phystech id="aspace_be8afc8189cdc17b8d47730854847a3e"><head>Physical Characteristics and Technical Requirements</head><p>Gauge: 16mm<lb/>
+Length:140 ft</p></phystech></c></c></c><c id="aspace_ref4" level="series"><did><unittitle>Series IV: Video recordings </unittitle></did><accessrestrict id="aspace_984b011061df191d92709582ee4c0d7d"><head>Conditions Governing Access</head><p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p></accessrestrict><c id="aspace_ref38" level="item"><did><unittitle>"High Noon in Half Light"</unittitle><unitid>ID: 249.0016</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_0dfd7d2b13cfbfefbdfefbf29e46f097" label="Moving Images [31142063435294]" type="Box">5</container><container id="aspace_5f1fbea92dbe2adde69a87382fd87332" parent="aspace_0dfd7d2b13cfbfefbdfefbf29e46f097" type="Media">ID: 249.0016</container></did><phystech id="aspace_c4cb750a8c93334c275d8e52a45498e0"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 1in<lb/></p><p>Duration: 33 minutes</p></phystech><accessrestrict id="aspace_b9b0fa49459152d236eee358341b1175"><head>Conditions Governing Access</head><p>Audiovisual materials have not been preserved and may not be available to researchers.</p></accessrestrict></c><c id="aspace_ref40" level="item"><did><unittitle>"High Noon in Half Light"</unittitle><unitid>ID: 249.0017</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_84a0ca78a148bbe76615b98338876103" label="Moving Images [31142063435294]" type="Box">5</container><container id="aspace_b76bcda351371e02056c2c5216b0fd31" parent="aspace_84a0ca78a148bbe76615b98338876103" type="Media">ID: 249.0017</container></did><phystech id="aspace_5c74c5508260fe85cc95fd4eff5b3275"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 1in<lb/></p><p>Duration: 33 minutes</p></phystech><accessrestrict id="aspace_bdb1ad60099a73a022cf30fbfdd24972"><head>Conditions Governing Access</head><p>Audiovisual materials have not been preserved and may not be available to researchers.</p></accessrestrict></c><c id="aspace_ref42" level="item"><did><unittitle>"High Noon in Half Light"</unittitle><unitid>ID: 249.0018</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_bc1206b911a0ecb407ff058c6515a722" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_15046ff1c6ffb51199f78057bc34fb3b" parent="aspace_bc1206b911a0ecb407ff058c6515a722" type="Media">ID: 249.0018</container><container altrender="Jewel Case - 5.75" id="aspace_a9d44e1200e1c9209fce77856e0c5d82" label="Moving Images [31142063424686]" type="case">249.0041</container></did><altformavail id="aspace_e9655dc9878529172f9e5f3f602f031a"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0041.</p></altformavail><phystech id="aspace_4c76c10d3814e43e8aa646f78f0faaa8"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: 33 minutes</p></phystech></c><c id="aspace_ref44" level="item"><did><unittitle>"High Noon in Half Light"</unittitle><unitid>ID: 249.0019</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_8e4148c1b5e6d2e3579aa2ab4c13fd84" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_a4f962c4c11f0d773352676187d6de15" parent="aspace_8e4148c1b5e6d2e3579aa2ab4c13fd84" type="Media">ID: 249.0019</container></did><phystech id="aspace_fa5ced63fe1f69ce8750cdb4e2a99866"><head>Physical Characteristics and Technical Requirements</head><p>Original format: VHS<lb/></p><p>Duration: 33 minutes</p></phystech><accessrestrict id="aspace_2222606ee467b88b045992519d14a31d"><head>Conditions Governing Access</head><p>Audiovisual materials have not been preserved and may not be available to researchers.</p></accessrestrict></c><c id="aspace_ref46" level="item"><did><unittitle>High Noon in Half Light: "Eye Light" Camera #1</unittitle><unitid>ID: 249.0020</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 10, 1987</unitdate><container altrender="Record carton" id="aspace_3d5b1929635813a9eb40c0459ce518af" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_b34e036ceba6fa64f56364b854b0e198" parent="aspace_3d5b1929635813a9eb40c0459ce518af" type="Media">ID: 249.0020</container><container altrender="Jewel Case - 5.75" id="aspace_40518c0720260fee5a2e528dfc096f7f" label="Moving Images [31142063424694]" type="case">249.0044</container></did><phystech id="aspace_0522aa47d72adf3507449523dff1dc9b"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/>
+Duration: unknown</p></phystech><odd id="aspace_13bf576ad02355018e6a1b23f08664bc"><head>General</head><p>Alternate Title: "High Noon in Half Light"</p></odd><altformavail id="aspace_25e75d086dcb2e2f58fe4e9eea456626"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0044</p></altformavail></c><c id="aspace_ref49" level="item"><did><unittitle>Half Light "All Our Hands" Camera #1</unittitle><unitid>ID: 249.0021</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 10, 1987</unitdate><container altrender="Record carton" id="aspace_d7ae9b33c0692b0f27e7fe69859a45f8" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_757b433ff1237efce43ad45c6ef39689" parent="aspace_d7ae9b33c0692b0f27e7fe69859a45f8" type="Media">ID: 249.0021</container><container altrender="Jewel Case - 5.75" id="aspace_5bfced444a61ea829e0491784c0cf24d" label="Moving Images [31142063424702]" type="case">249.0047</container></did><altformavail id="aspace_554007b18a9640359919a1d5b50996b7"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0047.</p></altformavail><phystech id="aspace_f93fb799098a6c9905f78fb2b8a92b44"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: unknown</p></phystech><odd id="aspace_0d0a41d3084c989110f5ccd68dc9b999"><head>General</head><p>Alternate Title: "High Noon in Half Light"</p></odd></c><c id="aspace_ref52" level="item"><did><unittitle>Half Light - "Eye Light" Camera #2</unittitle><unitid>ID: 249.0022</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 17, 1987</unitdate><container altrender="Record carton" id="aspace_54c25ef8291f7b76dcab5b97ca91ab3d" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_50aa5e25fcdd2258965e67d17189ad4c" parent="aspace_54c25ef8291f7b76dcab5b97ca91ab3d" type="Media">ID: 249.0022</container><container altrender="Jewel Case - 5.75" id="aspace_0e1f2393966a0205ebbdc06bfcfeaf28" label="Moving Images [31142063424710]" type="case">249.0050</container></did><altformavail id="aspace_fd8c690e544445243ff11c5a4023fe6b"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0050</p></altformavail><phystech id="aspace_014ce2fba845a86cf032e717eb14114f"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: unknown</p></phystech><odd id="aspace_b5e7b02602fe106dc9d082d9d3e86e63"><head>General</head><p>Alternate Title: "High Noon in Half Light"</p></odd></c><c id="aspace_ref55" level="item"><did><unittitle>Half Light - "All Our Hands" Camera #2</unittitle><unitid>ID: 249.0023</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 17, 1987</unitdate><container altrender="Record carton" id="aspace_7e8b5ec573b86892faacfd664d7833fd" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_89f67b0bf2a882bfa5bf6b9f1df8e7b2" parent="aspace_7e8b5ec573b86892faacfd664d7833fd" type="Media">ID: 249.0023</container><container altrender="Jewel Case - 5.75" id="aspace_bab1c772b3e113b47d7016093592e62b" label="Moving Images [31142063424728]" type="case">249.0053</container></did><altformavail id="aspace_8a46a4e902de4b8e896a26d94230a6a1"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0053.</p></altformavail><phystech id="aspace_c7b59dbbcfd23341840c618b2440baa3"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 1in<lb/></p><p>Duration: unknown</p></phystech><odd id="aspace_f51a685465203578b34ed4f2e0578a76"><head>General</head><p>Alternate Title: "High Noon in Half Light"</p></odd></c><c id="aspace_ref58" level="item"><did><unittitle>Half Light - "Blue Room" Camera #2</unittitle><unitid>ID:249.0024</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 17, 1987</unitdate><container altrender="Record carton" id="aspace_79cba1099e8f5c32f17d4104927f1c94" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_33471b9fcb4df708735443456ad7aa56" parent="aspace_79cba1099e8f5c32f17d4104927f1c94" type="Media">ID:249.0024</container><container altrender="Jewel Case - 5.75" id="aspace_0b9cd805a67f226e663b9ede4d17843e" label="Moving Images [31142063424736]" type="case">249.0056</container></did><altformavail id="aspace_805d1b0202706941a92349aee6900bce"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0056.</p></altformavail><phystech id="aspace_dd27c44500d970742f9cc321229fc987"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: unknown</p></phystech><odd id="aspace_0a105ba342b50598b17e4293dff7573f"><head>General</head><p>Alternate Title: "High Noon in Half Light"</p></odd></c><c id="aspace_ref61" level="item"><did><unittitle>"Eye Light" Performance #3</unittitle><unitid>ID: 249.0025</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 28, 1987</unitdate><container altrender="Record carton" id="aspace_8669239deff9a4f17eebc7453bae46f4" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_30e90c37238a80a5a5f3fa7d4ee5b51e" parent="aspace_8669239deff9a4f17eebc7453bae46f4" type="Media">ID: 249.0025</container><container altrender="Jewel Case - 5.75" id="aspace_99d2aee72aa0bc4437291c4742b620ea" label="Moving Images [31142063424744]" type="case">249.0059</container></did><altformavail id="aspace_a931ff5800534ab756711ec7bc0ca433"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0059.</p></altformavail><phystech id="aspace_1f7772ef876d8b2532158ba08d54b504"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: unknown</p></phystech></c><c id="aspace_ref63" level="item"><did><unittitle>"All Our Hands" Performance #3</unittitle><unitid>ID: 249.0026</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 28, 1987</unitdate><container id="aspace_831e461c074be39337138acbac44ab25" label="Moving Images" type="Box">[1]</container><container id="aspace_6448f93d055be145bc8c40e04f4b1af9" parent="aspace_831e461c074be39337138acbac44ab25" type="Media">ID: 249.0026</container><container altrender="Jewel Case - 5.75" id="aspace_277801f069c488262bb5a3dd74d5eca5" label="Moving Images [31142063424751]" type="case">249.0062</container></did><altformavail id="aspace_f2834740dad4d93a117cfcb5be01ff62"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0062.</p></altformavail><phystech id="aspace_8d824a9da13e4212b94c6ea0fe9d019a"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: unknown</p></phystech></c><c id="aspace_ref65" level="item"><did><unittitle>"Blue Room" Performance #3</unittitle><unitid>ID: 249.0027</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 28, 1987</unitdate><container altrender="Record carton" id="aspace_2d176ff34cc89d1e71064b6267b331ed" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_9bf9467e979d9ae27e0435c88674338d" parent="aspace_2d176ff34cc89d1e71064b6267b331ed" type="Media">ID: 249.0027</container><container altrender="Jewel Case - 5.75" id="aspace_909bbe97d6d5bdd0cbea57bad5a94a83" label="Moving Images [31142063424769]" type="case">249.0065</container></did><altformavail id="aspace_9632b66758f45e68ec191d096fff7666"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0065.</p></altformavail><phystech id="aspace_9958888e9d6cc26029f365d8ff0a6733"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: unknown</p></phystech></c><c id="aspace_ref67" level="item"><did><unittitle>Overhead Cam Performance #3</unittitle><unitid>ID: 249.0028</unitid><unitdate datechar="creation" normal="1987/1987" type="inclusive">November 28, 1987</unitdate><container altrender="Record carton" id="aspace_04fe435fda2084af4ddcd1ebc6b5b021" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_1a79796ea8f34eb1f2d6036c0a65b448" parent="aspace_04fe435fda2084af4ddcd1ebc6b5b021" type="Media">ID: 249.0028</container><container altrender="Jewel Case - 5.75" id="aspace_06469b18df50282cf713278cf9cca64d" label="Moving Images [31142063424777]" type="case">249.0068</container></did><altformavail id="aspace_c4a0086143add01e5c74a2b21f034e48"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0068.</p></altformavail><phystech id="aspace_4b4119dd2beea8fdf7e7910a7e9b336b"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: unknown</p></phystech></c><c id="aspace_ref69" level="item"><did><unittitle>"In Artificial Light"</unittitle><unitid>ID: 249.0029</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_ca84548f4cb512e297f02701fc072327" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_70202baf63319881b7fe4a8680ee8f2d" parent="aspace_ca84548f4cb512e297f02701fc072327" type="Media">ID: 249.0029</container><container altrender="Jewel Case - 5.75" id="aspace_368c313f2aa0e298dfe40106ac69188e" label="Moving Images [31142063424785]" type="case">249.0071</container></did><altformavail id="aspace_bde1eeba7ee1bee7d8edc64c0c391f84"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0071.</p></altformavail><phystech id="aspace_a42cd137d731c0ed3c760da7fd61a219"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: 20 minutes</p></phystech></c><c id="aspace_ref71" level="item"><did><unittitle>"In Artificial Light"</unittitle><unitid>ID: 249.0030</unitid><unitdate datechar="creation" normal="1983/1983" type="inclusive">January 1983</unitdate><container altrender="Record carton" id="aspace_6a7f831ba22c0c50a580c7fd85aff9f8" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_8e81e6ea6e3b52ccb4a5205431e57a2f" parent="aspace_6a7f831ba22c0c50a580c7fd85aff9f8" type="Media">ID: 249.0030</container><container altrender="Jewel Case - 5.5" id="aspace_e727c507b2ea818a6e3f146d7cf9e43b" label="Moving Images [31142063424843]" type="case">249.0097</container></did><altformavail id="aspace_b114dbb41ddade5ca00acdcf00ac179a"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0097</p></altformavail><phystech id="aspace_906bfb6e51c7921e2802afb48ee15c47"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: 20 minutes</p></phystech></c><c id="aspace_ref73" level="item"><did><unittitle>Downtown Madonna  Part 2 and "In Artificial Light"</unittitle><unitid>ID: 249.0031</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_feb11ad0c473fc53a1ecc24b53d7bd6a" label="Mixed Materials [31142063435286]" type="Box">4</container><container id="aspace_045de344f53ba7ec87d5dac7c34e73d0" parent="aspace_feb11ad0c473fc53a1ecc24b53d7bd6a" type="Media">ID: 249.0031</container><container altrender="Jewel Case - 5.75" id="aspace_d198bfd86e3d51f9f4bf8cc2252c2b14" label="Moving Images [31142063424793]" type="case">249.0074</container></did><altformavail id="aspace_7f252704fce3cab128237a86b1ea34f3"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0074.</p></altformavail><phystech id="aspace_ccd1807bf629fea01d5f7943e85acbd9"><head>Physical Characteristics and Technical Requirements</head><p>Original format: Betacam SP<lb/></p><p>Duration: unknown</p></phystech></c><c id="aspace_ref75" level="item"><did><unittitle>"In Artificial Light"</unittitle><unitid>ID: 249.0032</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_578712ea31f6ca74b9f5ccf681b8405e" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_260edbf676f52fb75fb6804a953fc34b" parent="aspace_578712ea31f6ca74b9f5ccf681b8405e" type="Media">ID: 249.0032</container></did><phystech id="aspace_06ee220779a16e48ce48b99d78dfaa52"><head>Physical Characteristics and Technical Requirements</head><p>Format: VHS<lb/>
+Duration: [unknown]</p></phystech></c><c id="aspace_ref77" level="item"><did><unittitle>"Hot House"</unittitle><unitid>ID: 249.0033</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_bf96bde5f3309cd28005a5fa56a4fcdb" label="Moving Images [31142063435286]" type="Box">4</container><container id="aspace_6862536fb573df18dd7337ee040e28e8" parent="aspace_bf96bde5f3309cd28005a5fa56a4fcdb" type="Media">ID: 249.0033</container><container altrender="Jewel Case - 5.75" id="aspace_9297db0dfdee8057aed07567f12fbeee" label="Moving Images [31142063424801]" type="case">249.0077</container></did><altformavail id="aspace_d26a9d5d2a00fc1b722c4e399d3be516"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0077.</p></altformavail><phystech id="aspace_c889569188cbbf8d11ecadda3b1e6e63"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: 10 minutes</p></phystech></c><c id="aspace_ref79" level="item"><did><unittitle>"Hot House" - Original film to video transfer</unittitle><unitid>IDL 249.0034</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_070a3c6e21fb082b22fc1e594215c6cc" label="Moving Images [31142063435294]" type="Box">5</container><container id="aspace_96705cf19b719920b93823675649d5c3" parent="aspace_070a3c6e21fb082b22fc1e594215c6cc" type="Media">IDL 249.0034</container><container altrender="Jewel Case - 5.75" id="aspace_773de2a61d95872dfc8a80e22223265c" label="Moving Images [31142063424819]" type="case">249.0080</container></did><altformavail id="aspace_505055316a23d3a6e6424b42895e2160"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0080</p></altformavail><phystech id="aspace_2024eb264be2fe8f48a3cd41efe80ed8"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/>
+Duration: unknown</p></phystech></c><c id="aspace_ref81" level="item"><did><unittitle>Lisa Fox "Floored", Kitchen Performance 12/10/81</unittitle><unitid>ID: 249.0035</unitid><unitdate datechar="creation" normal="1981/1981" type="inclusive">December 10, 1981</unitdate><container altrender="Record carton" id="aspace_6c18d080b9c3cda274794cfc6b6b6e0a" label="Moving Images [31142063435294]" type="Box">5</container><container id="aspace_d28725878849b4a4580c94a24d857f0d" parent="aspace_6c18d080b9c3cda274794cfc6b6b6e0a" type="Media">ID: 249.0035</container></did><phystech id="aspace_0a987e67dfce48c00239b3c39bfec2ac"><head>Physical Characteristics and Technical Requirements</head><p>Format: 3/4in Umatic<lb/>
+Duration: 00:40:00</p></phystech></c><c id="aspace_ref83" level="item"><did><unittitle>Lisa Fox "The Feast"</unittitle><unitid>ID: 249.0036</unitid><unitdate datechar="creation" normal="1983/1983" type="inclusive">January 1983</unitdate><container altrender="Record carton" id="aspace_38dc960db2e916320654fe6dc8958a67" label="Moving Images [31142063435294]" type="Box">5</container><container id="aspace_bba0f8fe6cbd80a5487681fc39a45331" parent="aspace_38dc960db2e916320654fe6dc8958a67" type="Media">ID: 249.0036</container><container altrender="Jewel Case - 5.75" id="aspace_de0fcdc7ca01d4f207ec158feaad3078" label="Moving Images [31142063424827]" type="case">249.0083</container></did><altformavail id="aspace_3175d2e4763525320f5c46ae678cfa96"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0083</p></altformavail><phystech id="aspace_b9a711030d0f0e7246f39d907d404b1e"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: 8 minutes</p></phystech></c><c id="aspace_ref85" level="item"><did><unittitle>"Lisa Fox &amp; Rhys Chatham, Institute of Contemporary Art"</unittitle><unitid>ID: 249.0037</unitid><unitdate datechar="creation" normal="1983/1983" type="inclusive">January 1983</unitdate><container altrender="Record carton" id="aspace_c902f85a4025f25a89941ad4a58de4f2" label="Moving Images [31142063435294]" type="Box">5</container><container id="aspace_c0d1f315b140fc75595e8e20c541229d" parent="aspace_c902f85a4025f25a89941ad4a58de4f2" type="Media">ID: 249.0037</container><container altrender="Jewel Case - 5.75" id="aspace_d51e573f0b7955491c0114fe1441b87d" label="Moving Images [31142063424835]" type="case">249.0086</container></did><altformavail id="aspace_fa82b4bb095f7f20a78eba380445050f"><head>Existence and Location of Copies</head><p>Access DVD available. Please request Access DVD #249.0086.</p></altformavail><phystech id="aspace_0a7ed6e7624d8db043e6dd8c29e3f00e"><head>Physical Characteristics and Technical Requirements</head><p>Original format: 3/4in Umatic<lb/></p><p>Duration: unknown</p></phystech></c><c id="aspace_ref87" level="item"><did><unittitle>[Untitled - Curt Royston]</unittitle><unitid>ID: 249.0038</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_bfaba3c4c1db4befb9758f869db81963" label="Moving Images [31142063435294]" type="Box">5</container><container id="aspace_abcf660d375bbbbd6620ecec6317d15b" parent="aspace_bfaba3c4c1db4befb9758f869db81963" type="Media">ID: 249.0038</container></did><phystech id="aspace_71b7a2a0d4cbc628f7a384bf9f3233fc"><head>Physical Characteristics and Technical Requirements</head><p>Format: 3/4in Umatic<lb/>
+Duration: [unknown]</p></phystech></c></c><c id="aspace_ref137" level="series"><did><unittitle>Series V: Sound recordings</unittitle></did><c id="aspace_ref138" level="item"><did><unittitle>Hot House Rough Takes</unittitle><unitid>ID: 249.0087</unitid><unitdate datechar="creation">June 1985</unitdate><container altrender="Record carton" id="aspace_0dbf90f303bb4ee9578c691f29e300bb" label="Mixed Materials [31142063435294]" type="Box">5</container><container id="aspace_68428f2fc977435704c933fc198ca192" parent="aspace_0dbf90f303bb4ee9578c691f29e300bb" type="Media">ID: 249.0087</container></did><odd id="aspace_5bb3ac61bdb5cd8c1b5c2b452b21fa50"><head>General</head><p>Alternate Title: Piano Takes with Harold - 6/85</p></odd></c><c id="aspace_ref139" level="item"><did><unittitle>June Mix</unittitle><unitid>ID: 249.0088</unitid><unitdate datechar="creation">6/2/82</unitdate><container altrender="Record carton" id="aspace_8c814a3df634ae0736174f74495c5f3c" label="Mixed Materials [31142063435294]" type="Box">5</container><container id="aspace_57a4b66be8ca1ad8c6f129cb70f427d5" parent="aspace_8c814a3df634ae0736174f74495c5f3c" type="Media">ID: 249.0088</container></did></c><c id="aspace_ref140" level="item"><did><unittitle>The Bunt, The Hunt, Floored - Swiss Mix, Feb 1982</unittitle><unitid>ID: 249.0089</unitid><unitdate datechar="creation">February 1982</unitdate><container altrender="Record carton" id="aspace_2cd7872783e7d8d1140961aabb5c5895" label="Mixed Materials [31142063435294]" type="Box">5</container><container id="aspace_d68546b14996c7845b118d578a4e7c78" parent="aspace_2cd7872783e7d8d1140961aabb5c5895" type="Media">ID: 249.0089</container></did></c></c></dsc>
+</archdesc>
 </ead>

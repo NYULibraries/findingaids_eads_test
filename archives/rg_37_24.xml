@@ -1,170 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/instcomphum/">rg_37_24</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Records of the Institute for Computing in the Humanities <num>RG.37.24</num></titleproper>
-        <author>Marissa De Simone.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:46:19 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>Records of the Institute for Computer Research in the Humanities</unittitle>
-      <origination label="Creator">
-        <corpname role="cre" rules="aacr" source="naf">New York University. Institute for Computer Research in the Humanities</corpname>
-      </origination>
-      <unitid>RG.37.24</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1964/1982" type="inclusive">1964-1982</unitdate>
-      <unitdate datechar="creation" normal="1964/1969" type="bulk">1964-1969</unitdate>
-      <abstract id="aspace_d69248c0403d95d4f952de871628967c">The Institute for Computer Research in the Humanities was formed at New York University's University College in 1965, when a need developed for a method of organizing research and criticism in the humanities. Founders of the Institute aimed to eliminate an unproductive boundary between the humanities and technology in an attempt to advance scholarly research.</abstract>
-      <physloc id="aspace_8c3d505483a9bf4e8b5b1e43a50ca0ed">5/G/2</physloc>
-      <langmaterial><language langcode="eng">English</language>
-.    </langmaterial>
-    </did>
-    <userestrict id="aspace_65f17aac80ba61ab44320094a06d5a61">
-      <head>Use Restrictions</head>
-      <p>Permission to publish materials must be obtained in writing from the:</p>
-      <p>New York University Archives
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_37_24">rg_37_24</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the Institute for Computing in the Humanities <num>RG.37.24</num></titleproper><author>Marissa De Simone.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:42:09 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Records of the Institute for Computer Research in the Humanities</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no96068908" role="cre" rules="aacr" source="naf">New York University. Institute for Computer Research in the Humanities</corpname>
+    </origination>
+    <unitid>RG.37.24</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1964/1982" type="inclusive">1964-1982</unitdate>
+    <unitdate datechar="creation" normal="1964/1969" type="bulk">1964-1969</unitdate>
+    <abstract id="aspace_d69248c0403d95d4f952de871628967c" label="Abstract">The Institute for Computer Research in the Humanities was formed at New York University's University College in 1965, when a need developed for a method of organizing research and criticism in the humanities. Founders of the Institute aimed to eliminate an unproductive boundary between the humanities and technology in an attempt to advance scholarly research.</abstract>
+    <langmaterial id="aspace_9a25e29d3c07723b03e40a45ced3ab30">Materials are in English.</langmaterial>
+  </did>
+  <userestrict id="aspace_65f17aac80ba61ab44320094a06d5a61">
+    <head>Use Restrictions</head>
+<p>Permission to publish materials must be obtained in writing from the:</p><p>New York University Archives
 Elmer Holmes Bobst Library
 70 Washington Square South
 New York, NY 10012
 Phone: (212) 998-2646
 Fax: (212) 995-4225
-E-mail: university-archives@nyu.edu</p>
-    </userestrict>
-    <accessrestrict id="aspace_5572fbf3bc144f68ee4dcf524d8b2418">
-      <head>Access Restrictions</head>
-      <p>This collection is open to researchers.</p>
-    </accessrestrict>
-    <arrangement id="aspace_f6a554d63966123e07fc391d4ea54c94">
-      <head>Arrangement Note</head>
-      <p>The folders in this collection are arranged alphabetically.</p>
-    </arrangement>
-    <custodhist id="aspace_6059a5203e2de9fda623a33242e73abd">
-      <head>Provenance</head>
-      <p>This collection was created by Anna Pollin, Director of the New York University program in Spain and founder of the Institute for Computer Research in the Humanities.  She transferred the collection to Professor Bayrd Still of the New York University Department of History in 1982.  The documents were later transferred to the New York University Archives.</p>
-    </custodhist>
-    <bioghist id="aspace_671f42981334858549adb004128e2c27">
-      <head>History</head>
-      <p>The Institute for Computer Research in the Humanities began after Dr. Alice Pollin of the Spanish Department at University College proposed a project that involved creating a computer index of the <emph render="italic">Revista de Filogia Espanola</emph>, a collection of Hispanic literature and linguistics.  This project illuminated the potential for merging computer technology with humanities research to advance research and writing techniques.  Early proposals for the program included projects that would catalogue literature and literary criticism and develop technology for music analysis.  The Institute was officially created in September 1965.  It actively promoted computer research in the humanities for over five years.  In July 1969 the Institute was shuttered due to lack of funding.</p>
-    </bioghist>
-    <scopecontent id="aspace_30b9c4af0d4b644d4050b73db04c95fd">
-      <head>Scope and Contents Note</head>
-      <p>The collection comprises paper documentation relating to the Institute for Computer Research in the Humanities.  Materials concerning the founding of the Institute include correspondence, a record of its first meeting, and proposals for the Institute and its constituent projects within the disciplines of Spanish literature, classics, and musicology. Organizational activities are reflected in conference materials, newsletters, and press clippings.</p>
-    </scopecontent>
-    <prefercite id="aspace_4b3806e715e9c55749de4b2601c41006">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: Identification of the item, date (if known); Records of the Institute for Computer Research in the Humanities (New York University); RG 37.24; Box number; Folder number; New York University Archives, New York University Libraries.</p>
-    </prefercite>
-    <dsc>
-      <c id="aspace_ref3" level="series">
-        <did>
-          <unittitle>Series I: History </unittitle>
-          <unitdate datechar="creation" normal="1964/1982" type="inclusive">1964-1982</unitdate>
-          <unitdate datechar="creation" normal="1964/1969" type="bulk">1964-1969</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref4" level="file">
-          <did>
-            <unittitle>Conference Material </unittitle>
-            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_c076cc07b417af5da7bad497c1b79da1" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_2f89004807ba638505a273dd57b4f2ec" parent="aspace_c076cc07b417af5da7bad497c1b79da1" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref5" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_57413b44d604cbb1d29a8fffa293c38d" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_cfc994ff347dc9f104468457eaedbc11" parent="aspace_57413b44d604cbb1d29a8fffa293c38d" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref6" level="file">
-          <did>
-            <unittitle>News Clippings</unittitle>
-            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_244c413e9e9cba6cc228a9c98080c552" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_ae2d78bd214176c6b3c99a73af1c424c" parent="aspace_244c413e9e9cba6cc228a9c98080c552" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>News Letters </unittitle>
-            <unitdate datechar="creation" normal="1965/1969" type="inclusive">1965</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_880f482feb79b41262098608598d0fd3" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_0460576fa5c484bc50075a39e69e0b59" parent="aspace_880f482feb79b41262098608598d0fd3" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Proposal: The Genesis of an Idea </unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_7615e18189c4e5095ff594e9154f0791" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_ec7bdf9cf116de893bb86ece17d47683" parent="aspace_7615e18189c4e5095ff594e9154f0791" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Proposal </unittitle>
-            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_aaded5dbce3bd69f71102997a5c7df39" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_6d52dbd428ec6d8889da0b68e989fe2f" parent="aspace_aaded5dbce3bd69f71102997a5c7df39" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref10" level="file">
-          <did>
-            <unittitle>Proposal </unittitle>
-            <unitdate datechar="creation">Undated </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_f0beee35275f90b1d0a972e3257f7005" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_0425d22565379f7b2ac1e3c1c8e2b447" parent="aspace_f0beee35275f90b1d0a972e3257f7005" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref11" level="file">
-          <did>
-            <unittitle>Record of First Meeting </unittitle>
-            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_eff126e7c86baf87d609ac4e1e9f029d" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_d85955128705d06c914c02fa1a1d22ed" parent="aspace_eff126e7c86baf87d609ac4e1e9f029d" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>
-              <emph render="italic">Revista De Filogia Espanola </emph>
-            </unittitle>
-            <unitdate datechar="creation">Undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_f29cd33e587b5dc4781403b35a1f4227" label="Mixed Materials [31142063071065]" type="Box">1</container>
-            <container id="aspace_1fcf23599517394255a5794f6cde4ee4" parent="aspace_f29cd33e587b5dc4781403b35a1f4227" type="Folder">9</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+E-mail: university-archives@nyu.edu</p>  </userestrict>
+  <accessrestrict id="aspace_5572fbf3bc144f68ee4dcf524d8b2418">
+    <head>Access Restrictions</head>
+<p>This collection is open to researchers.</p>  </accessrestrict>
+  <arrangement id="aspace_f6a554d63966123e07fc391d4ea54c94">
+    <head>Arrangement Note</head>
+<p>The folders in this collection are arranged alphabetically.</p>  </arrangement>
+  <custodhist id="aspace_6059a5203e2de9fda623a33242e73abd">
+    <head>Provenance</head>
+<p>This collection was created by Anna Pollin, Director of the New York University program in Spain and founder of the Institute for Computer Research in the Humanities.  She transferred the collection to Professor Bayrd Still of the New York University Department of History in 1982.  The documents were later transferred to the New York University Archives.</p>  </custodhist>
+  <bioghist id="aspace_671f42981334858549adb004128e2c27">
+    <head>History</head>
+<p>The Institute for Computer Research in the Humanities began after Dr. Alice Pollin of the Spanish Department at University College proposed a project that involved creating a computer index of the <emph render="italic">Revista de Filogia Espanola</emph>, a collection of Hispanic literature and linguistics.  This project illuminated the potential for merging computer technology with humanities research to advance research and writing techniques.  Early proposals for the program included projects that would catalogue literature and literary criticism and develop technology for music analysis.  The Institute was officially created in September 1965.  It actively promoted computer research in the humanities for over five years.  In July 1969 the Institute was shuttered due to lack of funding.</p>  </bioghist>
+  <scopecontent id="aspace_30b9c4af0d4b644d4050b73db04c95fd">
+    <head>Scope and Contents Note</head>
+<p>The collection comprises paper documentation relating to the Institute for Computer Research in the Humanities.  Materials concerning the founding of the Institute include correspondence, a record of its first meeting, and proposals for the Institute and its constituent projects within the disciplines of Spanish literature, classics, and musicology. Organizational activities are reflected in conference materials, newsletters, and press clippings.</p>  </scopecontent>
+  <prefercite id="aspace_4b3806e715e9c55749de4b2601c41006">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: Identification of the item, date (if known); Records of the Institute for Computer Research in the Humanities (New York University); RG 37.24; Box number; Folder number; New York University Archives, New York University Libraries.</p>  </prefercite>
+  <dsc><c id="aspace_ref3" level="series"><did><unittitle>Series I: History </unittitle><unitdate datechar="creation" normal="1964/1982" type="inclusive">1964-1982</unitdate><unitdate datechar="creation" normal="1964/1969" type="bulk">1964-1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref4" level="file"><did><unittitle>Conference Material </unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_258c5e0b7b746f1eb74f90a07c8d5606" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_cc803b8ccbc272bb44dbb1e0cc2aea9d" parent="aspace_258c5e0b7b746f1eb74f90a07c8d5606" type="Folder">1</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_f1b6f9832d677016e23857d38309df55" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_27d851d3c6d3fbb4924c697e32967178" parent="aspace_f1b6f9832d677016e23857d38309df55" type="Folder">2</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>News Clippings</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_a77513fe81c4a4d31b3eaa8420eb8b4e" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_5a7ad88958628eb2383b18c3e96178e4" parent="aspace_a77513fe81c4a4d31b3eaa8420eb8b4e" type="Folder">3</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>News Letters </unittitle><unitdate datechar="creation" normal="1965/1969" type="inclusive">1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_64cab27d6fcfa7c52523a10248f2bb93" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_5f10460bc3029e3959b5f4f259ed2013" parent="aspace_64cab27d6fcfa7c52523a10248f2bb93" type="Folder">4</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Proposal: The Genesis of an Idea </unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_18a651b8fb34be946e12ce77a0f7ef05" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_5537c08b6bf0492942d9927dab2710f9" parent="aspace_18a651b8fb34be946e12ce77a0f7ef05" type="Folder">5</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Proposal </unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_28d09bb0de5d5c28f33d7b64b01895d7" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_2d93f29e613aa0089190ae370d1f4ae5" parent="aspace_28d09bb0de5d5c28f33d7b64b01895d7" type="Folder">6</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Proposal </unittitle><unitdate datechar="creation">Undated </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_686761781ade9d2bd26971afb16d6913" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_acdd83d32d424e98ac6506186bb7e3a0" parent="aspace_686761781ade9d2bd26971afb16d6913" type="Folder">7</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Record of First Meeting </unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_c73bc5a3b89fa13a09ae769b2f984510" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_a723bae150fdbbdf6566fb7db49e7c08" parent="aspace_c73bc5a3b89fa13a09ae769b2f984510" type="Folder">8</container></did></c><c id="aspace_ref12" level="file"><did><unittitle><emph render="italic">Revista De Filogia Espanola </emph></unittitle><unitdate datechar="creation">Undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_de146acb54821006d91da350213998b1" label="Mixed Materials [31142063071065]" type="Box">1</container><container id="aspace_2581ef08479c09d312097802b22ca6cd" parent="aspace_de146acb54821006d91da350213998b1" type="Folder">9</container></did></c></c></dsc>
+</archdesc>
 </ead>

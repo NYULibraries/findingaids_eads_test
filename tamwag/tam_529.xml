@@ -1,210 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_529/">tam_529</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Elizabeth Gurley Flynn: Joe Hill Case Materials <num>TAM.529</num></titleproper>
-        <author>Peter Meyer Filardo</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2006</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:59:13 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Elizabeth Gurley Flynn: Joe Hill Case Materials</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Flynn, Elizabeth Gurley</persname>
-      </origination>
-      <origination label="source">
-        <corpname authfilenumber="(lccn)n79036120" role="dnr" source="naf">Communist Party of the United States of America</corpname>
-      </origination>
-      <origination label="source">
-        <corpname role="dnr" rules="dacs" source="local">Longview Publishing Company</corpname>
-      </origination>
-      <unitid>TAM.529</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-        <extent altrender="carrier">(1 Box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1915/1915">1915</unitdate>
-      <abstract id="aspace_926d2af3c985a80ac54268fb7d2b79e6">Elizabeth Gurley Flynn (1890-1964) was a leading Irish-American Communist, socialist, feminist, labor organizer, orator, and campaigner for civil liberties. Joe Hill (1879-1915), labor songwriter and member of the Industrial Workers of the World, was convicted of murder after a politically charged trial and executed by the State of Utah on November 19, 1915. The collection contains prison letters to Flynn, a letter to William D. Haywood, Hill's "My Last Will" (a poem), letters from defense attorney O. N. Hilton, lyrics of a song by Hill for Flynn's son, Fred ("To Bronco Buster Flynn"), a clippings scrapbook about the case, "Joe Hill Murdered," and a memorial program.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <accessrestrict id="aspace_708d321d93432f6141e06eed298c5d1b">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_aab420c18f17d8f51129d1e1c5c60434">
-      <head>Immediate Source of Acquisition</head>
-      <p>Separated from Communist Party of the United States of America Records (TAM 132) in circa 2006. The accession number associated with this collection is 2006.072.</p>
-    </acqinfo>
-    <arrangement id="aspace_22cf3f5d088b810227a899b0d9878eca">
-      <head>Arrangement</head>
-      <p>Arranged alphabetically in one series.</p>
-    </arrangement>
-    <bioghist id="aspace_f9938d50da0b8187e91396bc116abac1">
-      <head>Historical/Biographical Note</head>
-      <p>Elizabeth Gurley Flynn (1890-1964) was a leading Irish-American Communist, socialist, feminist, labor organizer, orator, and campaigner for civil liberties. Joe Hill (1879-1915), labor songwriter and member of the Industrial Workers of the World (many of his songs appear in the <emph render="italic">IWW Songbook</emph>), was convicted of murder after a politically charged trial and executed by the State of Utah on November 19, 1915.</p>
-    </bioghist>
-    <prefercite id="aspace_09840460820503e7755882e3512bc56a">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Elizabeth Gurley Flynn: Joe Hill Case Materials; TAM 529; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <scopecontent id="aspace_b0afd2be21f404b6202f59c04b62a7f4">
-      <head>Scope and Content Note</head>
-      <p>The collection contains prison letters to Flynn, a letter to William D. Haywood, Hill's "My Last Will" (a poem), letters from defense attorney O. N. Hilton, lyrics of a song by Hill for Flynn's son, Fred ("To Bronco Buster Flynn'), a clippings scrapbook about the case, "Joe Hill Murdered," and an undated theatre memorial program from Leipzig, Germany.</p>
-    </scopecontent>
-    <userestrict id="aspace_73f3183d9c95e86b7af145c96e0e1513">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the Communist Party of the United States of America was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <genreform source="aat">Poetry.</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <subject source="lcsh">Trials (Political crimes and offenses) -- United States.</subject>
-      <genreform source="aat">Scrapbooks.</genreform>
-      <corpname rules="dacs" source="naf">Industrial Workers of the World</corpname>
-      <persname source="naf">Hilton, O. N. (Orrin Nelson), 1849-1932 -- Portraits.</persname>
-      <persname source="naf">Haywood, Big Bill, 1869-1928 -- |v Portraits</persname>
-      <persname source="naf">Hill, Joe, 1879-1915</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_529">tam_529</eadid><filedesc><titlestmt><titleproper>Elizabeth Gurley Flynn: Joe Hill Case Materials <num>TAM.529</num></titleproper><author>Peter Meyer Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2006</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:42:53 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Elizabeth Gurley Flynn: Joe Hill Case Materials</unittitle>
+    <origination label="Creator">
       <persname source="naf">Flynn, Elizabeth Gurley</persname>
+    </origination>
+    <origination label="source">
       <corpname authfilenumber="(lccn)n79036120" role="dnr" source="naf">Communist Party of the United States of America</corpname>
+    </origination>
+    <origination label="source">
       <corpname role="dnr" rules="dacs" source="local">Longview Publishing Company</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref6" level="series">
-        <did>
-          <unittitle>Series I: Joe Hill Case Materials</unittitle>
-          <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
-        </did>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>Hill, Joe: "Dear Judge" (signed letter)</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">Oct 20, 1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_9a947511debc4ea1c3d81ca14cdc4dae" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_b64dbb91f2fb978c33b3b8cefdad9ce5" parent="aspace_9a947511debc4ea1c3d81ca14cdc4dae" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Hill, Joe: Memorial Program</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_3460df1adcc4be1ef8be8e5ac7226911" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_511ae415661ebd7ff7e3e0ae87129acc" parent="aspace_3460df1adcc4be1ef8be8e5ac7226911" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Hill, Joe: "My Last Will" (poem)</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_6710241bf14e61cbc539db064b931227" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_4ed5da757107622a2a1b9f038dd6c8ed" parent="aspace_6710241bf14e61cbc539db064b931227" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref10" level="file">
-          <did>
-            <unittitle>Hill, Joe: Prison Letters to E. G. Flynn (originals)</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_0ec4bdecb92108d9114798d38752ae08" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_42e4b96e98d5f60fe031ced04024df7e" parent="aspace_0ec4bdecb92108d9114798d38752ae08" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref11" level="file">
-          <did>
-            <unittitle>Hill, Joe: Prison Letters to E. G. Flynn (photostats)</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_a5a5c169c22771c3230750e7746560cc" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_d7a971fb9bc5a544023e233d98cbd7ef" parent="aspace_a5a5c169c22771c3230750e7746560cc" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>Hill, Joe: Prison Letter to William D. Haywood </unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_92cbb0fa9dfeae5e7909766727a99c9c" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_e4266edb48e9e023903d3ee2385a1037" parent="aspace_92cbb0fa9dfeae5e7909766727a99c9c" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Hill, Joe: Telegram to E. G. Fynn</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">Nov 18, 1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_6f39668de5a3f09ee699cdffe635a06a" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_f1d90e3a3707718cc3f75bc7571d7acc" parent="aspace_6f39668de5a3f09ee699cdffe635a06a" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Hill, Joe: "To Bronco Buster Flynn" (song lyrics)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_2bd6d10d378714b8818038f3956a5433" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_33e44eb3352ff311a71b123654fc43da" parent="aspace_2bd6d10d378714b8818038f3956a5433" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Hilton, O. N.: Letters to Hill, Flynn, Judge, Board of Pardons</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_38b877aed105295faf4500308ca77057" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_95652f2e313059a89c554ea43b1a8156" parent="aspace_38b877aed105295faf4500308ca77057" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Hilton, O. N.: Telegram to E. G. Flynn</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">Nov 20, 1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_abe49c00136175e3dbf9fb828ae48c9e" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_373ca5c481178d68a6d13ba2c528ceaa" parent="aspace_abe49c00136175e3dbf9fb828ae48c9e" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Joe Hill Case: Letters to/from Third Parties</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c5e989d559a4bcc121419f80f93bba7d" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_e1b4c520ca151cf1a92cef330cbf0e9b" parent="aspace_c5e989d559a4bcc121419f80f93bba7d" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle><emph render="italic">Joe Hill: Der Mann Niemals Starb</emph> (Theatre program, Leipzig)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_9467f6bb2e7597a18b24c62fc3e29775" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_9be4aeeaf6021a6dc247b0de1709c5bb" parent="aspace_9467f6bb2e7597a18b24c62fc3e29775" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Scrapbook: "Joe Hill Murdered"</unittitle>
-            <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_d5aae6d7d528ce7d3be11cb2be207ed7" label="Mixed Materials [31142062748168]" type="Box">1</container>
-            <container id="aspace_dce98f160d154fe470e3b769b5999e02" parent="aspace_d5aae6d7d528ce7d3be11cb2be207ed7" type="Folder">13</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.529</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 Box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1915/1915">1915</unitdate>
+    <abstract id="aspace_926d2af3c985a80ac54268fb7d2b79e6">Elizabeth Gurley Flynn (1890-1964) was a leading Irish-American Communist, socialist, feminist, labor organizer, orator, and campaigner for civil liberties. Joe Hill (1879-1915), labor songwriter and member of the Industrial Workers of the World, was convicted of murder after a politically charged trial and executed by the State of Utah on November 19, 1915. The collection contains prison letters to Flynn, a letter to William D. Haywood, Hill's "My Last Will" (a poem), letters from defense attorney O. N. Hilton, lyrics of a song by Hill for Flynn's son, Fred ("To Bronco Buster Flynn"), a clippings scrapbook about the case, "Joe Hill Murdered," and a memorial program.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_708d321d93432f6141e06eed298c5d1b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_aab420c18f17d8f51129d1e1c5c60434">
+    <head>Immediate Source of Acquisition</head>
+<p>Separated from Communist Party of the United States of America Records (TAM 132) in circa 2006. The accession number associated with this collection is 2006.072.</p>  </acqinfo>
+  <arrangement id="aspace_22cf3f5d088b810227a899b0d9878eca">
+    <head>Arrangement</head>
+<p>Arranged alphabetically in one series.</p>  </arrangement>
+  <bioghist id="aspace_f9938d50da0b8187e91396bc116abac1">
+    <head>Historical/Biographical Note</head>
+<p>Elizabeth Gurley Flynn (1890-1964) was a leading Irish-American Communist, socialist, feminist, labor organizer, orator, and campaigner for civil liberties. Joe Hill (1879-1915), labor songwriter and member of the Industrial Workers of the World (many of his songs appear in the <emph render="italic">IWW Songbook</emph>), was convicted of murder after a politically charged trial and executed by the State of Utah on November 19, 1915.</p>  </bioghist>
+  <prefercite id="aspace_09840460820503e7755882e3512bc56a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Elizabeth Gurley Flynn: Joe Hill Case Materials; TAM 529; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_b0afd2be21f404b6202f59c04b62a7f4">
+    <head>Scope and Content Note</head>
+<p>The collection contains prison letters to Flynn, a letter to William D. Haywood, Hill's "My Last Will" (a poem), letters from defense attorney O. N. Hilton, lyrics of a song by Hill for Flynn's son, Fred ("To Bronco Buster Flynn'), a clippings scrapbook about the case, "Joe Hill Murdered," and an undated theatre memorial program from Leipzig, Germany.</p>  </scopecontent>
+  <userestrict id="aspace_73f3183d9c95e86b7af145c96e0e1513">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the Communist Party of the United States of America was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Poetry.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Trials (Political crimes and offenses) -- United States.</subject>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <corpname authfilenumber="(lccn)n80079695" rules="dacs" source="naf">Industrial Workers of the World</corpname>
+    <persname source="naf">Hilton, O. N. (Orrin Nelson), 1849-1932 -- Portraits.</persname>
+    <persname source="naf">Haywood, Big Bill, 1869-1928 -- |v Portraits</persname>
+    <persname source="naf">Hill, Joe, 1879-1915</persname>
+    <persname source="naf">Flynn, Elizabeth Gurley</persname>
+    <corpname authfilenumber="(lccn)n79036120" role="dnr" source="naf">Communist Party of the United States of America</corpname>
+    <corpname role="dnr" rules="dacs" source="local">Longview Publishing Company</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref6" level="series"><did><unittitle>Series I: Joe Hill Case Materials</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate></did><c id="aspace_ref7" level="file"><did><unittitle>Hill, Joe: "Dear Judge" (signed letter)</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">Oct 20, 1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5f7a30237b4b47a848e6be7fe2b9246b" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_f682ab0f0f4982e9a226aa3c83ede178" parent="aspace_5f7a30237b4b47a848e6be7fe2b9246b" type="Folder">1</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Hill, Joe: Memorial Program</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0e57320011840508dde79deab3200b49" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_9e140a8c152802f0cef0218363e9a68f" parent="aspace_0e57320011840508dde79deab3200b49" type="Folder">2</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Hill, Joe: "My Last Will" (poem)</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_615cd89255b22c77764be57c77e7e446" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_8c268aaf3e188ddbad7896d2955ca058" parent="aspace_615cd89255b22c77764be57c77e7e446" type="Folder">3</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Hill, Joe: Prison Letters to E. G. Flynn (originals)</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bb7a3e869e67f2b8b89329581d4bd0f8" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_f7672be9a68b9a4f89e1e26ff07fba2a" parent="aspace_bb7a3e869e67f2b8b89329581d4bd0f8" type="Folder">4</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Hill, Joe: Prison Letters to E. G. Flynn (photostats)</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9919a40dc68d50a92b71b857fdf61d15" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_2b54bbe1367cd9cc7cba6eb236367f9f" parent="aspace_9919a40dc68d50a92b71b857fdf61d15" type="Folder">5</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Hill, Joe: Prison Letter to William D. Haywood </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b389ff6c1ca0bebc61e3d51f14fcc761" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_1dfa93e4921704bfe00b0bd9da0e9ed8" parent="aspace_b389ff6c1ca0bebc61e3d51f14fcc761" type="Folder">6</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Hill, Joe: Telegram to E. G. Fynn</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">Nov 18, 1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_453e5faae061e06d45ff1c0c75f56610" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_01c8a38c2b540554d2df63de26d43151" parent="aspace_453e5faae061e06d45ff1c0c75f56610" type="Folder">7</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Hill, Joe: "To Bronco Buster Flynn" (song lyrics)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_fb960b8e62ef09d654c7744ea92793f5" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_bcfb50834d296c1bf43542bb8241b2c3" parent="aspace_fb960b8e62ef09d654c7744ea92793f5" type="Folder">8</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Hilton, O. N.: Letters to Hill, Flynn, Judge, Board of Pardons</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0ffde13bd7a6bf449cbfb5c9cb88f8c1" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_6af21b2ae662dea94f1041bd4113b9b3" parent="aspace_0ffde13bd7a6bf449cbfb5c9cb88f8c1" type="Folder">9</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Hilton, O. N.: Telegram to E. G. Flynn</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">Nov 20, 1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5ea3f6c6c3074e75524afad89baf6023" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_223b775d16bc2763c6ea675ee43c7ce0" parent="aspace_5ea3f6c6c3074e75524afad89baf6023" type="Folder">10</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Joe Hill Case: Letters to/from Third Parties</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2e230620e19beb4ad3892adee78cf726" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_f41754b9eee994a55ebfcd1b41587ec1" parent="aspace_2e230620e19beb4ad3892adee78cf726" type="Folder">11</container></did></c><c id="aspace_ref18" level="file"><did><unittitle><emph render="italic">Joe Hill: Der Mann Niemals Starb</emph> (Theatre program, Leipzig)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2e57427ece99c32a084703877341b9b5" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_f07cc7676e4cbd77c54f02c6b904e3f7" parent="aspace_2e57427ece99c32a084703877341b9b5" type="Folder">12</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Scrapbook: "Joe Hill Murdered"</unittitle><unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9d01c2007b1b06bb8f0ed91cf0ee31a3" label="Mixed Materials [31142062748168]" type="Box">1</container><container id="aspace_9e0e4271eb27e317865040617e5bc2a2" parent="aspace_9d01c2007b1b06bb8f0ed91cf0ee31a3" type="Folder">13</container></did></c></c></dsc>
+</archdesc>
 </ead>

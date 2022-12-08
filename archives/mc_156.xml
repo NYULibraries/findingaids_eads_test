@@ -1,319 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/ricci/">mc_156</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the John Ricci Papers <num>MC.156</num></titleproper>
-        <author>Jackie Rider.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-        <p>
-          <date>3-10-2011</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:25:34 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>John Ricci Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Ricci, John E.</persname>
-      </origination>
-      <unitid>MC.156</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1920/1980" type="inclusive">1920-1980</unitdate>
-      <physloc id="aspace_923974d404f9773ee487be53d28e2fc0">12/D/3</physloc>
-      <abstract id="aspace_90030ab866c6af76b99e9a2f14df1369">This collection contains photographs, memorabilia, and correspondence relating to John Ricci's tenure as a professor of chemistry at New York University.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <arrangement id="aspace_df7ebd2f8698f5572084af688d4ab392">
-      <head>Arrangement</head>
-      <p>The collection consists of two series, in which items are arranged chronologically.  Series I consists of photos, memorabilia and correspondence related to Ricci's student days and teaching career at the University.  Series II consists of photos and related correspondence given to Ricci from students on his retirement.</p>
-    </arrangement>
-    <accessrestrict id="aspace_75dba36ff252504ae80d398781f4dc4b">
-      <head>Conditions Governing Access</head>
-      <p>Open for research without restrictions.</p>
-    </accessrestrict>
-    <prefercite id="aspace_d21770fddfc5ad44086f207444a4e9bc">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: Identification of item, date (if known), John Ricci Papers, MC 156, folder number, New York University Archives, New York University Libraries.</p>
-    </prefercite>
-    <bioghist id="aspace_efcb4ac5364e8e8b0a86b6045c8e0e1f">
-      <head>Biography of John Ricci</head>
-      <p>John E. Ricci (1907-1999) taught chemistry in New York University's College of Arts and Science from 1931 until his retirement as professor in 1973.  He received bachelor's, master's, and doctoral degrees in chemistry from NYU and chaired the University College Committee on Recommendations to the Medical and Dental Schools.  In 1960 he received one of three Great Teacher Awards from the University's Alumni Federation.  </p>
-      <p>Ricci was a member of several honorary societies, including Phi Beta Kappa and the American Chemical Society, where he was associate editor of the Society's journal.  He was also a consultant to the U.S. Atomic Energy Commission through the Los Alamos and Oak Ridge National Laboratories.</p>
-      <p>He wrote more than 70 research articles, most in the <emph render="italic">Journal of the American Chemical Society</emph>.  He also authored two books: <emph render="italic">The Phase Rule and Heterogeneous Equilibrium</emph> and <emph render="italic">Hydrogen Ion Concentration, New Concepts in a Systematic Treatment.</emph></p>
-    </bioghist>
-    <scopecontent id="aspace_a1d0a410449fcea278a355d0195a0018">
-      <head>Scope and Content</head>
-      <p>The collection consists primarily of photographs taken during and honoring Ricci's teaching career at New York University.  Most are of Department of Chemistry faculty and students.  Included are some photos of the University Heights Campus.  The collection also contains items from Ricci's student days at NYU during the 1920s and correspondence related to Ricci's appointment to several New York City councils and academic honorary societies.</p>
-    </scopecontent>
-    <controlaccess>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Memorabilia.</genreform>
-      <genreform source="aat">Photographs.</genreform>
-      <genreform source="aat">Awards</genreform>
-      <corpname rules="dacs" source="local">New York University. University Heights</corpname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_156">mc_156</eadid><filedesc><titlestmt><titleproper>Guide to the John Ricci Papers <num>MC.156</num></titleproper><author>Jackie Rider.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>3-10-2011</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:40:47 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>John Ricci Papers</unittitle>
+    <origination label="Creator">
       <persname rules="dacs" source="local">Ricci, John E.</persname>
-      <corpname source="naf">New York University</corpname>
-      <corpname rules="aacr" source="local">Phi Beta Kappa. Beta of New York (New York University)</corpname>
-      <corpname source="naf">American Chemical Society</corpname>
-      <persname rules="dacs" source="local">Hill, Arthur E.</persname>
-      <persname rules="dacs" source="local">Jones, Theodore Francis, 1885-1968</persname>
-      <corpname rules="aacr" source="local">New York University. Department of Chemistry</corpname>
-      <corpname rules="dacs" source="local">New York City Council of Defense</corpname>
-      <corpname source="naf">New York University. Graduate School of Arts and Science</corpname>
-      <corpname source="naf">New York University. Faculty of Arts and Science</corpname>
-      <persname rules="dacs" source="local">Gwynne, Charles T.</persname>
-      <persname rules="dacs" source="local">Morris, Newbold</persname>
-      <persname source="naf">La Guardia, Fiorello H. (Fiorello Henry), 1882-1947</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref16" level="series">
-        <did>
-          <unittitle>Series I</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref1" level="file">
-          <did>
-            <unittitle>Honorary Fraternity Keys of John Ricci</unittitle>
-            <unitdate datechar="creation" normal="1920/1931" type="inclusive">1920-1931</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_632637b30c72edad2698907a25052f1e" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_07ba2f11dae976fb7a45bb586fa727ea" parent="aspace_632637b30c72edad2698907a25052f1e" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref2" level="file">
-          <did>
-            <unittitle>1926 Commencement Program and NYU Class Day Program</unittitle>
-            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_d6de90d2b9481be85270af3de209e7d2" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_3af31fb1ccc70c7b1fdd14d2c93b8d41" parent="aspace_d6de90d2b9481be85270af3de209e7d2" type="Folder">2</container>
-          </did>
-          <c id="aspace_ref35" level="item">
-            <did>
-              <unittitle>NYU Class Day Program</unittitle>
-              <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_d8dd32e6a6ef886c79ca428eddb74042" label="Mixed Materials [31142063001203]" type="Box">1</container>
-              <container id="aspace_9b1b9720b2ff8e4c19f240a364b391fa" parent="aspace_d8dd32e6a6ef886c79ca428eddb74042" type="Folder">2</container>
-              <container id="aspace_6509f748b3fe0ec0b0173a7e22da71cd" parent="aspace_9b1b9720b2ff8e4c19f240a364b391fa" type="Item">1</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_ref3" level="file">
-          <did>
-            <unittitle>University Heights Chemistry Faculty 1924, 1932</unittitle>
-            <unitdate datechar="creation" normal="1924/1932" type="inclusive">1924-1932</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_616bc3acccac127d7cfd00cd3882f1de" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_17638efc104a842258df62313eca6c01" parent="aspace_616bc3acccac127d7cfd00cd3882f1de" type="Folder">3</container>
-          </did>
-          <c id="aspace_ref17" level="item">
-            <did>
-              <unittitle>Department of Chemistry, 1924</unittitle>
-              <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_85b5e4eba8b4325cc25e5e775a7b5475" label="Mixed Materials [31142063001203]" type="Box">1</container>
-              <container id="aspace_7a389ba4590209773deafbb241751bb9" parent="aspace_85b5e4eba8b4325cc25e5e775a7b5475" type="Folder">3</container>
-              <container id="aspace_638174aa7f5804357898f34f1c79c9c4" parent="aspace_7a389ba4590209773deafbb241751bb9" type="Item">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref18" level="item">
-            <did>
-              <unittitle>Department of Chemistry, 1932</unittitle>
-              <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_fc278e87b5e5a3bde7d18a87547e51c0" label="Mixed Materials [31142063001203]" type="Box">1</container>
-              <container id="aspace_dfad85f008422de7fe85bd90d8c9ec8c" parent="aspace_fc278e87b5e5a3bde7d18a87547e51c0" type="Folder">3</container>
-              <container id="aspace_6054ee632b878b7aba2f73c75bad588e" parent="aspace_dfad85f008422de7fe85bd90d8c9ec8c" type="Item">2</container>
-            </did>
-          </c>
-          <c id="aspace_ref19" level="item">
-            <did>
-              <unittitle>Department of Chemistry, a.</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_62db089643263d1404070786424ea94e" label="Mixed Materials [31142063001203]" type="Box">1</container>
-              <container id="aspace_afbb2457fef8257eb5dc836d69a9998a" parent="aspace_62db089643263d1404070786424ea94e" type="Folder">3</container>
-              <container id="aspace_e521c4e0a8db9f7588a7d9d8c82aef61" parent="aspace_afbb2457fef8257eb5dc836d69a9998a" type="Item">3</container>
-            </did>
-          </c>
-          <c id="aspace_ref20" level="item">
-            <did>
-              <unittitle>Department of Chemistry, b.</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_f172425051ccfc0a8596a22e341724af" label="Mixed Materials [31142063001203]" type="Box">1</container>
-              <container id="aspace_0689510aab8884ab0425dec204fdef01" parent="aspace_f172425051ccfc0a8596a22e341724af" type="Folder">3</container>
-              <container id="aspace_b4fe4fa7e09aa434904ea692fed0d694" parent="aspace_0689510aab8884ab0425dec204fdef01" type="Item">4</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_ref4" level="file">
-          <did>
-            <unittitle>Ricci with Prof. H. Austin Taylor and Prof. Milton Burton</unittitle>
-            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_5c681b99b0b487793b43dccb3b83292b" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_c3ebca0edf405077bb3d4f6aeb61b990" parent="aspace_5c681b99b0b487793b43dccb3b83292b" type="Folder">4</container>
-          </did>
-          <c id="aspace_ref25" level="item">
-            <did>
-              <unittitle>John E. Ricci</unittitle>
-              <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_5b9b77943a67df9af70a7486576cdf03" label="Mixed Materials [31142063001203]" type="Box">1</container>
-              <container id="aspace_1f47cfb597c0e5d5ac680cd35d035047" parent="aspace_5b9b77943a67df9af70a7486576cdf03" type="Folder">4</container>
-              <container id="aspace_51f3c49a29adbaf988bce17a75de087d" parent="aspace_1f47cfb597c0e5d5ac680cd35d035047" type="Item">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref26" level="item">
-            <did>
-              <unittitle>Nichols Hall, a.</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_7bd629b1d6af76f0b64e288f5b467806" label="Mixed Materials [31142063001203]" type="Box">1</container>
-              <container id="aspace_49a1cb282d645bacc306c030f3f62266" parent="aspace_7bd629b1d6af76f0b64e288f5b467806" type="Folder">4</container>
-              <container id="aspace_fc8d1e2135983ed39d1314395b9ca4be" parent="aspace_49a1cb282d645bacc306c030f3f62266" type="Item">2</container>
-            </did>
-          </c>
-          <c id="aspace_ref27" level="item">
-            <did>
-              <unittitle>Nichols Hall, b.</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_713d34989daf97e2fe9ee36e5343c311" label="Mixed Materials [31142063001203]" type="Box">1</container>
-              <container id="aspace_e84add29fcf211ce72e6a38b17e42652" parent="aspace_713d34989daf97e2fe9ee36e5343c311" type="Folder">4</container>
-              <container id="aspace_880a7c4376b7c8651ce5a0ed3736a2ee" parent="aspace_e84add29fcf211ce72e6a38b17e42652" type="Item">3</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_ref5" level="file">
-          <did>
-            <unittitle>35 Year Service Award to Ricci</unittitle>
-            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_12586fa84f9498faaca3d614b383d097" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_8268137bc7441f88b684adab6eab81d7" parent="aspace_12586fa84f9498faaca3d614b383d097" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref6" level="file">
-          <did>
-            <unittitle>First Ricci Teaching Award to Arthur Tringali</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_b4124e46c2b4e9dc7906ffff4b081649" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_da711dcd88ce64fe901ce8afc7e5bff7" parent="aspace_b4124e46c2b4e9dc7906ffff4b081649" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>Second Ricci Teaching Award to Aidan Young</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_9f71e75c0319675a461af5a3fccb9043" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_6629b2caafdf8211af779a5928b69392" parent="aspace_9f71e75c0319675a461af5a3fccb9043" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Ricci Symposium and Dinner</unittitle>
-            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_3e604de303c6239d960a143807b30e16" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_e84ca969393e50cc9691071c6b4daee8" parent="aspace_3e604de303c6239d960a143807b30e16" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Ricci Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1925/1942" type="inclusive">1925-1942</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_2b076ffe91ac0ae2ece55a26d5f501e7" label="Mixed Materials [31142063001203]" type="Box">1</container>
-            <container id="aspace_fa5ab9688311d550cc71806ce14fc624" parent="aspace_2b076ffe91ac0ae2ece55a26d5f501e7" type="Folder">9</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref29" level="series">
-        <did>
-          <unittitle>Series II</unittitle>
-          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Correspondence, notes</unittitle>
-            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_4ece6a636c0176d77224ef11eddb0647" label="Mixed Materials [31142063001195]" type="Box">2</container>
-            <container id="aspace_aedfde6eefd22a299e6e9e9d716b63b8" parent="aspace_4ece6a636c0176d77224ef11eddb0647" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Photographs</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_00c1b297bf64c3ea84e24afde8840a70" label="Mixed Materials [31142063001195]" type="Box">2</container>
-            <container id="aspace_23e5cfc389964fadb5a32296a2cadfcb" parent="aspace_00c1b297bf64c3ea84e24afde8840a70" type="Folder">2</container>
-          </did>
-          <c id="aspace_ref32" level="item">
-            <did>
-              <unittitle>University Heights Campus, Chemistry Lab</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_5f504bd8955d6af518e902488c38d440" label="Mixed Materials [31142063001195]" type="Box">2</container>
-              <container id="aspace_003c9f54f1e40d36d7b818df1ba3ff6d" parent="aspace_5f504bd8955d6af518e902488c38d440" type="Folder">2</container>
-              <container id="aspace_c34b20ba614754ccbb8bf20d728c0331" parent="aspace_003c9f54f1e40d36d7b818df1ba3ff6d" type="Item">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref33" level="item">
-            <did>
-              <unittitle>University Heights Campus, quadrangle</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_2e4cfdef0e339335e28e5bb0a149661c" label="Mixed Materials [31142063001195]" type="Box">2</container>
-              <container id="aspace_5bffb62355315a0432cc3d9a60085d73" parent="aspace_2e4cfdef0e339335e28e5bb0a149661c" type="Folder">2</container>
-              <container id="aspace_c5d92ff3341710396da36beae751fb7f" parent="aspace_5bffb62355315a0432cc3d9a60085d73" type="Item">2</container>
-            </did>
-          </c>
-          <c id="aspace_ref34" level="item">
-            <did>
-              <unittitle>University Heights Campus, aerial view</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_d9fb2548dca4fb020d0778d7e239d0a6" label="Mixed Materials [31142063001195]" type="Box">2</container>
-              <container id="aspace_2099a0cf0eed5c346ba60867e5c9268d" parent="aspace_d9fb2548dca4fb020d0778d7e239d0a6" type="Folder">2</container>
-              <container id="aspace_3feeaa1a11c4b71b476d02162d236daa" parent="aspace_2099a0cf0eed5c346ba60867e5c9268d" type="Item">3</container>
-            </did>
-          </c>
-          <c id="aspace_ref36" level="item">
-            <did>
-              <unittitle>Spring weekend, campus</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_221e40ca0b0f0e8a441b1175387a60ec" label="Mixed Materials [31142063001195]" type="Box">2</container>
-              <container id="aspace_bdca2ce2e951fb3613527b62364b094b" parent="aspace_221e40ca0b0f0e8a441b1175387a60ec" type="Folder">2</container>
-              <container id="aspace_ac9ea7589b261e230f46f488fa864444" parent="aspace_bdca2ce2e951fb3613527b62364b094b" type="Item">4</container>
-            </did>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>MC.156</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1920/1980" type="inclusive">1920-1980</unitdate>
+    <abstract id="aspace_90030ab866c6af76b99e9a2f14df1369" label="Abstract">This collection contains photographs, memorabilia, and correspondence relating to John Ricci's tenure as a professor of chemistry at New York University.</abstract>
+    <langmaterial id="aspace_014db46c65f6cff9a4bd34bcb359da15">Materials are primarily in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_df7ebd2f8698f5572084af688d4ab392">
+    <head>Arrangement</head>
+<p>The collection consists of two series, in which items are arranged chronologically.  Series I consists of photos, memorabilia and correspondence related to Ricci's student days and teaching career at the University.  Series II consists of photos and related correspondence given to Ricci from students on his retirement.</p>  </arrangement>
+  <accessrestrict id="aspace_75dba36ff252504ae80d398781f4dc4b">
+    <head>Conditions Governing Access</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <prefercite id="aspace_d21770fddfc5ad44086f207444a4e9bc">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: Identification of item, date (if known), John Ricci Papers, MC 156, folder number, New York University Archives, New York University Libraries.</p>  </prefercite>
+  <bioghist id="aspace_efcb4ac5364e8e8b0a86b6045c8e0e1f">
+    <head>Biography of John Ricci</head>
+<p>John E. Ricci (1907-1999) taught chemistry in New York University's College of Arts and Science from 1931 until his retirement as professor in 1973.  He received bachelor's, master's, and doctoral degrees in chemistry from NYU and chaired the University College Committee on Recommendations to the Medical and Dental Schools.  In 1960 he received one of three Great Teacher Awards from the University's Alumni Federation.  </p><p>Ricci was a member of several honorary societies, including Phi Beta Kappa and the American Chemical Society, where he was associate editor of the Society's journal.  He was also a consultant to the U.S. Atomic Energy Commission through the Los Alamos and Oak Ridge National Laboratories.</p><p>He wrote more than 70 research articles, most in the <emph render="italic">Journal of the American Chemical Society</emph>.  He also authored two books: <emph render="italic">The Phase Rule and Heterogeneous Equilibrium</emph> and <emph render="italic">Hydrogen Ion Concentration, New Concepts in a Systematic Treatment.</emph></p>  </bioghist>
+  <scopecontent id="aspace_a1d0a410449fcea278a355d0195a0018">
+    <head>Scope and Content</head>
+<p>The collection consists primarily of photographs taken during and honoring Ricci's teaching career at New York University.  Most are of Department of Chemistry faculty and students.  Included are some photos of the University Heights Campus.  The collection also contains items from Ricci's student days at NYU during the 1920s and correspondence related to Ricci's appointment to several New York City councils and academic honorary societies.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Memorabilia.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Awards</genreform>
+    <corpname rules="dacs" source="local">New York University. University Heights</corpname>
+    <persname rules="dacs" source="local">Ricci, John E.</persname>
+    <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
+    <corpname rules="aacr" source="local">Phi Beta Kappa. Beta of New York (New York University)</corpname>
+    <corpname authfilenumber="(lccn)n78088941" source="naf">American Chemical Society</corpname>
+    <persname rules="dacs" source="local">Hill, Arthur E.</persname>
+    <persname rules="dacs" source="local">Jones, Theodore Francis, 1885-1968</persname>
+    <corpname authfilenumber="(lccn)no2015037695" rules="aacr" source="naf">New York University. Department of Chemistry</corpname>
+    <corpname rules="dacs" source="local">New York City Council of Defense</corpname>
+    <corpname authfilenumber="(lccn)n85007451" source="naf">New York University. Graduate School of Arts and Science</corpname>
+    <corpname authfilenumber="(lccn)n79052591" source="naf">New York University. Faculty of Arts and Science</corpname>
+    <persname rules="dacs" source="local">Gwynne, Charles T.</persname>
+    <persname rules="dacs" source="local">Morris, Newbold</persname>
+    <persname source="naf">La Guardia, Fiorello H. (Fiorello Henry), 1882-1947</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref16" level="series"><did><unittitle>Series I</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref1" level="file"><did><unittitle>Honorary Fraternity Keys of John Ricci</unittitle><unitdate datechar="creation" normal="1920/1931" type="inclusive">1920-1931</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_132f621e4a4df9a36ea8c032eef648ac" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_057e559ffd8218d243467808f8911f05" parent="aspace_132f621e4a4df9a36ea8c032eef648ac" type="Folder">1</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>1926 Commencement Program and NYU Class Day Program</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d1b5cf50f180e34d6cf98fc2b28dd4fc" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_59bca36f4cb921561fe9689e9627c264" parent="aspace_d1b5cf50f180e34d6cf98fc2b28dd4fc" type="Folder">2</container></did><c id="aspace_ref35" level="item"><did><unittitle>NYU Class Day Program</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4e5b2a9cfdef6ccc1257453b72299779" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_1915d8e9e2cb7e8099128a1a9d52fcaa" parent="aspace_4e5b2a9cfdef6ccc1257453b72299779" type="Folder">2</container><container id="aspace_8d10cc774f4da0db5655d38df996c130" parent="aspace_1915d8e9e2cb7e8099128a1a9d52fcaa" type="Item">1</container></did></c></c><c id="aspace_ref3" level="file"><did><unittitle>University Heights Chemistry Faculty 1924, 1932</unittitle><unitdate datechar="creation" normal="1924/1932" type="inclusive">1924-1932</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_625f898cb4bb857e93d423feecf80be8" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_7d8ef2286c0780e475be85ec952edcb4" parent="aspace_625f898cb4bb857e93d423feecf80be8" type="Folder">3</container></did><c id="aspace_ref17" level="item"><did><unittitle>Department of Chemistry, 1924</unittitle><unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_42f8d1abcd5a4ff6a09248a601a1f9e4" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_378102afa723b3c05e65d1bd7f3f119b" parent="aspace_42f8d1abcd5a4ff6a09248a601a1f9e4" type="Folder">3</container><container id="aspace_fca53cab66a9dd3fabd6040dd9675d82" parent="aspace_378102afa723b3c05e65d1bd7f3f119b" type="Item">1</container></did></c><c id="aspace_ref18" level="item"><did><unittitle>Department of Chemistry, 1932</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_b51fff7beb5255cae5c311223030b4c6" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_45fecf27f6fcc13f023c7692072e0a79" parent="aspace_b51fff7beb5255cae5c311223030b4c6" type="Folder">3</container><container id="aspace_094a36a8f614912b5098181cf7be6220" parent="aspace_45fecf27f6fcc13f023c7692072e0a79" type="Item">2</container></did></c><c id="aspace_ref19" level="item"><did><unittitle>Department of Chemistry, a.</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_b303dc76b49919a1436e0849d000c788" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_edbb5dd38be660722c94ff326f0b26cc" parent="aspace_b303dc76b49919a1436e0849d000c788" type="Folder">3</container><container id="aspace_28096d1f472ed8382b86710017513522" parent="aspace_edbb5dd38be660722c94ff326f0b26cc" type="Item">3</container></did></c><c id="aspace_ref20" level="item"><did><unittitle>Department of Chemistry, b.</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_3b4174282dc78cff82a1bf02ebd433ea" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_cf0d5c028ea44dc97b2e9d819dc6bb4b" parent="aspace_3b4174282dc78cff82a1bf02ebd433ea" type="Folder">3</container><container id="aspace_2c6eb302f79ca1af54adcddd07f20a4b" parent="aspace_cf0d5c028ea44dc97b2e9d819dc6bb4b" type="Item">4</container></did></c></c><c id="aspace_ref4" level="file"><did><unittitle>Ricci with Prof. H. Austin Taylor and Prof. Milton Burton</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_8a5f78e9e087a591124199e0b6087e60" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_8342adb67a446b9924635fdc07f7884f" parent="aspace_8a5f78e9e087a591124199e0b6087e60" type="Folder">4</container></did><c id="aspace_ref25" level="item"><did><unittitle>John E. Ricci</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_a2ffddf0ea9f2593b9b462420c5b4f28" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_c9b91e31ef34160ef3f494fe91e726ea" parent="aspace_a2ffddf0ea9f2593b9b462420c5b4f28" type="Folder">4</container><container id="aspace_da6149f1a4225b40eaa583474b477c0f" parent="aspace_c9b91e31ef34160ef3f494fe91e726ea" type="Item">1</container></did></c><c id="aspace_ref26" level="item"><did><unittitle>Nichols Hall, a.</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_cf8f224feb58afc4a8ce3f70e1d2a80b" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_d0ee5d916e6bb6abcacc65d29429f0a0" parent="aspace_cf8f224feb58afc4a8ce3f70e1d2a80b" type="Folder">4</container><container id="aspace_e841655c504f07145e4c1b9821d57ad1" parent="aspace_d0ee5d916e6bb6abcacc65d29429f0a0" type="Item">2</container></did></c><c id="aspace_ref27" level="item"><did><unittitle>Nichols Hall, b.</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_ce74cbc5eb22ec61ca8a6d03397f471b" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_3b78f0dc222cce582b8d2203d49fcdc8" parent="aspace_ce74cbc5eb22ec61ca8a6d03397f471b" type="Folder">4</container><container id="aspace_d203e94c31fb351c5ceb70ed353b9164" parent="aspace_3b78f0dc222cce582b8d2203d49fcdc8" type="Item">3</container></did></c></c><c id="aspace_ref5" level="file"><did><unittitle>35 Year Service Award to Ricci</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_bf53785121746c35c18009d97ba6abb1" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_b42e04e489fc326b2ba854e31f6a2695" parent="aspace_bf53785121746c35c18009d97ba6abb1" type="Folder">5</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>First Ricci Teaching Award to Arthur Tringali</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_ae35d100a5a081fbddcaf338dd80f970" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_74a745fecd8bb79ce7b6ec6bf6d1d4a5" parent="aspace_ae35d100a5a081fbddcaf338dd80f970" type="Folder">6</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Second Ricci Teaching Award to Aidan Young</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_890e2b6b8cdeb6e457022376a2c7eb9d" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_a8471e67a278fb76ce464036b02906e8" parent="aspace_890e2b6b8cdeb6e457022376a2c7eb9d" type="Folder">7</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Ricci Symposium and Dinner</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_ec538e2063224cf0405598409a1bff15" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_ae5b6d0b469c4eee7297eb1278d6a8ff" parent="aspace_ec538e2063224cf0405598409a1bff15" type="Folder">8</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Ricci Correspondence</unittitle><unitdate datechar="creation" normal="1925/1942" type="inclusive">1925-1942</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_3d2f9e08ae7204a3859b24f472355923" label="Mixed Materials [31142063001203]" type="Box">1</container><container id="aspace_40308aabb48ba21092cbd342ac3183e9" parent="aspace_3d2f9e08ae7204a3859b24f472355923" type="Folder">9</container></did></c></c><c id="aspace_ref29" level="series"><did><unittitle>Series II</unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref30" level="file"><did><unittitle>Correspondence, notes</unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_003705489e51d55b8c4bf187caa6e95b" label="Mixed Materials [31142063001195]" type="Box">2</container><container id="aspace_5653e05f502b75ffd355b6b6a5bdf44d" parent="aspace_003705489e51d55b8c4bf187caa6e95b" type="Folder">1</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_98a1977a2881508c04bc48618c67eabb" label="Mixed Materials [31142063001195]" type="Box">2</container><container id="aspace_770dabc2fdf0f0810809a4c8fe306ce1" parent="aspace_98a1977a2881508c04bc48618c67eabb" type="Folder">2</container></did><c id="aspace_ref32" level="item"><did><unittitle>University Heights Campus, Chemistry Lab</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4da0c772e76623058527a63e8d404bb9" label="Mixed Materials [31142063001195]" type="Box">2</container><container id="aspace_4be4914a5586b0d4115f4be9978d5eee" parent="aspace_4da0c772e76623058527a63e8d404bb9" type="Folder">2</container><container id="aspace_0062e5f7266e39d7336498f0cea0e90c" parent="aspace_4be4914a5586b0d4115f4be9978d5eee" type="Item">1</container></did></c><c id="aspace_ref33" level="item"><did><unittitle>University Heights Campus, quadrangle</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_9f5448a7c120aefeaac1eeebf0c259a6" label="Mixed Materials [31142063001195]" type="Box">2</container><container id="aspace_17d9778b59399e5eaf8660b47ebf9aec" parent="aspace_9f5448a7c120aefeaac1eeebf0c259a6" type="Folder">2</container><container id="aspace_49efb60e28b0d7b1cdb0fbe4a7830e85" parent="aspace_17d9778b59399e5eaf8660b47ebf9aec" type="Item">2</container></did></c><c id="aspace_ref34" level="item"><did><unittitle>University Heights Campus, aerial view</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d03bf61137a9bd6749b7c5eec51e9d57" label="Mixed Materials [31142063001195]" type="Box">2</container><container id="aspace_615094615bfd400fe73b5b43058d1888" parent="aspace_d03bf61137a9bd6749b7c5eec51e9d57" type="Folder">2</container><container id="aspace_b1280adc3f861ef3c010e596c3504a26" parent="aspace_615094615bfd400fe73b5b43058d1888" type="Item">3</container></did></c><c id="aspace_ref36" level="item"><did><unittitle>Spring weekend, campus</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_1106d66e4a554aeb2c3f0b7c265c7ee3" label="Mixed Materials [31142063001195]" type="Box">2</container><container id="aspace_ce1c4c22353481c90804265a437a63a8" parent="aspace_1106d66e4a554aeb2c3f0b7c265c7ee3" type="Folder">2</container><container id="aspace_970ce6e71080b5402fef32ac06158548" parent="aspace_ce1c4c22353481c90804265a437a63a8" type="Item">4</container></did></c></c></c></dsc>
+</archdesc>
 </ead>

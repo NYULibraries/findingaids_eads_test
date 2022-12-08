@@ -1,398 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_265">mss_265</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Doris Tobias Papers <num>MSS.265</num></titleproper>
-        <author>Jennifer E. Neal</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>July 2018</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:55:13 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Doris Tobias Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Tobias, Doris</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Feigin, David S.</persname>
-      </origination>
-      <origination label="source">
-        <persname source="naf">Tobias, Doris</persname>
-      </origination>
-      <unitid>MSS.265</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-        <extent altrender="carrier">in 1 record carton, 1 manuscript box, 1 half manuscript box, and 1 flat box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1970/2009" type="inclusive">1970-2009</unitdate>
-      <unitdate datechar="creation" normal="1970/1979" type="bulk">1970-1979</unitdate>
-      <abstract id="aspace_6952c857aabb1313002526f4115b0aef">Doris Tobias (d. 2009) was a food writer based in New York City. She worked as a food and wine columnist and editor for <emph render="italic">Women's Wear Daily</emph> and <emph render="italic">Wine &amp; Spirits Magazine</emph>. Tobias published several cook books and reviewed numerous restaurants during her career. This collection documents her professional career as a female writer involved in the food industry in New York City during the late 20th century. Materials include recipes, menus, print publications, clippings, food and wine event packets, business cards, financial and apartment contract records, writings, and a toy truck commemorating George Duboeuf's annual Beaujolais Nouveau.</abstract>
-      <physloc id="aspace_c2d94b1f1440c3b5c514aa979a05a876">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_b7bc61c27e1c0541ed2240505d69bc5c">Materials are primarily in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_f03f4eba6b15314268234fc40e0dd157">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_e9930399f35569a942ce095e38b79ef6">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by David S. Feigin in 2009. The accession number associated with this gift is 2009.265.</p>
-    </acqinfo>
-    <arrangement id="aspace_8f2c012751879ac48638ed6b1cc1f1b7">
-      <head>Arrangement</head>
-      <p>Materials are arranged in the order in which they were recieved from the donor.</p>
-    </arrangement>
-    <bioghist id="aspace_f6f2408942b2bf35fdb38c06d1c9f590">
-      <head>Biographical / Historical</head>
-      <p>Doris Tobias (d. 2009) was a food writer based in New York City. She worked as a food and wine columnist and editor for <emph render="italic">Women's Wear Daily</emph> and <emph render="italic">Wine &amp; Spirits Magazine</emph>. Tobias published several cook books and reviewed numerous NYC restaurants during her career. In June 2008, she was interviewed about her 750 square foot East Village apartment for a New York Times article entitled, "LIVING IN A NUTSHELL; Living Large In Little Apple."</p>
-    </bioghist>
-    <prefercite id="aspace_923bc9e40576c50b97972722da15baca">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Doris Tobias Papers; MSS 265; box number; folder number; Fales Library and Special Collections, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_bdc68cd9c6165d146798cee94aa598f6">
-      <head>Processing Information</head>
-      <p>Materails were placed in new acid-free folders. Original order and folder titles were maintained.</p>
-    </processinfo>
-    <scopecontent id="aspace_f435a5a463a66a4bba14420dbeb5921b">
-      <head>Scope and Contents</head>
-      <p>This collection documents Tobias' professional career as a female writer involved in the food industry in New York City during the late 20th century. Materials include recipes, menus, print publications, clippings, food and wine event packets, business cards, financial and apartment contract records, writings, and a toy truck commemorating George Duboeuf's annual Beaujolais Nouveau.</p>
-    </scopecontent>
-    <userestrict id="aspace_a9fadde7f3ef2149201fa090fc664bab">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Doris Tobias, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Cooking &amp; dining</subject>
-      <subject source="lcsh">Food habits -- New York (State) -- New York</subject>
-      <occupation source="lcsh">Food writers.</occupation>
-      <subject source="lcsh">Food writing.</subject>
-      <subject source="lcsh">Restaurants -- New York (State) -- New York</subject>
-      <subject source="lcsh">Women in the food industry.</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_265">mss_265</eadid><filedesc><titlestmt><titleproper>Guide to the Doris Tobias Papers <num>MSS.265</num></titleproper><author>Jennifer E. Neal</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>July 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:53:04 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Doris Tobias Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Tobias, Doris</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Feigin, David S.</persname>
-      <persname role="fmo" source="naf">Tobias, Doris</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_73f3903914bc293e3b1aac6d4e3f4a13" level="file">
-        <did>
-          <unittitle>Magazines</unittitle>
-          <unitdate datechar="creation" normal="1977/1994" type="inclusive">1977-1994</unitdate>
-          <container altrender="Record carton" id="aspace_937d41677fa0e4726042685eb8ebb3c1" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_82fe5d901f733d5589c9dc6a0154bc71" parent="aspace_937d41677fa0e4726042685eb8ebb3c1" type="Folder">1-2</container>
-        </did>
-      </c>
-      <c id="aspace_10dc3c62474671e9ea6a1b0dd797d10b" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate datechar="creation" normal="1984/1990" type="inclusive">1984-1990</unitdate>
-          <container altrender="Record carton" id="aspace_393008908f65852558bb75506251d963" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_ee743be8beacaddc2124024e774a45c6" parent="aspace_393008908f65852558bb75506251d963" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_8cb8a807fcd412f1bff278d487eb88da" level="file">
-        <did>
-          <unittitle>Chips</unittitle>
-          <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
-          <container altrender="Record carton" id="aspace_7dc5d74993e91cd4b493bd8021444916" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_a20dcb0f316ee24fed1af013544ee64c" parent="aspace_7dc5d74993e91cd4b493bd8021444916" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_4bd36a5e78836dca53e45e401fa4fec8" level="file">
-        <did>
-          <unittitle>Recipes</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_c288fc8d7df6a3e048134981ce0c06a6" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_1390b1acfd47688db198dcccc7b09702" parent="aspace_c288fc8d7df6a3e048134981ce0c06a6" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_d31faf5b4c0d2fac2fc7090d82cab473" level="file">
-        <did>
-          <unittitle>Letter</unittitle>
-          <unitdate datechar="creation" normal="1976/1976">1976</unitdate>
-          <container altrender="Record carton" id="aspace_6c1f19813187824a762ee63edfb91068" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_93e853e2c96194b1c478016784b3fb66" parent="aspace_6c1f19813187824a762ee63edfb91068" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_5848a33ce83d565389a2ae603c7386f4" level="file">
-        <did>
-          <unittitle>Sandwich</unittitle>
-          <unitdate datechar="creation" normal="1978/1978">1978, undated</unitdate>
-          <container altrender="Record carton" id="aspace_2297363813778b4a1de897436792a5ba" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_7c8d5c3e08c22dfc25b5ce8528a283a8" parent="aspace_2297363813778b4a1de897436792a5ba" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_7da4c76f34cc27ffd193cc481b959468" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate datechar="creation" normal="1985/2006" type="inclusive">1985-2006</unitdate>
-          <container altrender="Record carton" id="aspace_6d1423cc7ebf02c83c4f8e01c364245b" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_b331ce987a749e2e4d67d1e9827845e6" parent="aspace_6d1423cc7ebf02c83c4f8e01c364245b" type="Folder">8-9</container>
-        </did>
-      </c>
-      <c id="aspace_c40e6bffdcc45eee254f2172c011ed4f" level="file">
-        <did>
-          <unittitle>Wine and Health</unittitle>
-          <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
-          <container altrender="Record carton" id="aspace_c110016a2110fc0a01911bd076d0c8d5" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_30afb8cc30be05f9904fd087e6e2c97a" parent="aspace_c110016a2110fc0a01911bd076d0c8d5" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_3454f35d7e8e7fbfcf6d41751e4ec9ca" level="file">
-        <did>
-          <unittitle>Gourmet Gall/March of Dimes</unittitle>
-          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
-          <container altrender="Record carton" id="aspace_19c1350ef6bd91a279faae50edd566fc" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_d464a1f1a89a114f5cba7d754b12b02d" parent="aspace_19c1350ef6bd91a279faae50edd566fc" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_fb9bd89bb19c023d8361b06da717676c" level="file">
-        <did>
-          <unittitle>Recipes</unittitle>
-          <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
-          <container altrender="Record carton" id="aspace_745439aa40f67bd5df14ecf03540ed26" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_a1764a0581874ecf061a983677b95ac9" parent="aspace_745439aa40f67bd5df14ecf03540ed26" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_23032dd650baaddcb266d317d19859e2" level="file">
-        <did>
-          <unittitle>Doris Tobias editorial of Golden Lemon</unittitle>
-          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
-          <container altrender="Record carton" id="aspace_8dfd10ddd7145fc57b6bd96e1c868cd3" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_446f1dd34fd61b79999b4f5f3cae6165" parent="aspace_8dfd10ddd7145fc57b6bd96e1c868cd3" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_7b952ae7485883f73d7add539f5d413d" level="file">
-        <did>
-          <unittitle>Wine Cellars unused material</unittitle>
-          <unitdate datechar="creation" normal="1973/1973">1973, undated</unitdate>
-          <container altrender="Record carton" id="aspace_03472faeecc3a6fc33784184451a39df" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_dead3152773abe8fe09c4a1a1719c27e" parent="aspace_03472faeecc3a6fc33784184451a39df" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_f4b3df4d3e59373bdebd2db9b6ebce9e" level="file">
-        <did>
-          <unittitle>Burgundy</unittitle>
-          <unitdate datechar="creation" normal="1971/1975" type="inclusive">1971-1975</unitdate>
-          <container altrender="Record carton" id="aspace_a6a2540b0c18924afd57f717e3b30a80" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_9dc71ea1994b315996086b5d19892a2d" parent="aspace_a6a2540b0c18924afd57f717e3b30a80" type="Folder">16</container>
-        </did>
-      </c>
-      <c id="aspace_bc0fa0a5c930d6c9d5decd4bab114157" level="file">
-        <did>
-          <unittitle>Book reviews by Doris Tobias</unittitle>
-          <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
-          <container altrender="Record carton" id="aspace_7eda1b97a0efe10fcf22f8316b4dc7b7" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_f02eb08096673fcb76ac6665eb020b33" parent="aspace_7eda1b97a0efe10fcf22f8316b4dc7b7" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_340e21a2ad45486dd6cd3c57aa55ca49" level="file">
-        <did>
-          <unittitle>Fifth, Sixth, and Ninth Annual California Vinters Barrel Tasting Dinner</unittitle>
-          <unitdate datechar="creation" normal="1980/1984" type="inclusive">1980-1984</unitdate>
-          <container altrender="Record carton" id="aspace_c0e3e952ebd5a900db62b2eedefd223b" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_461f4c1447c2e96ae3411e6e5c1e916d" parent="aspace_c0e3e952ebd5a900db62b2eedefd223b" type="Folder">18-20</container>
-        </did>
-      </c>
-      <c id="aspace_ab4a65dd7390640d28e64ddd7f942b7a" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate datechar="creation" normal="1976/1976">1976</unitdate>
-          <container altrender="Record carton" id="aspace_dd56904ab73f04d1aa54f37507ad6ba3" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_e02c4e8afa54707d3226ecbb209c008d" parent="aspace_dd56904ab73f04d1aa54f37507ad6ba3" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_a7488c493d74e779074bc0eaf3c6fd55" level="file">
-        <did>
-          <unittitle>Golden Lemon</unittitle>
-          <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
-          <container altrender="Record carton" id="aspace_b9ca079ec6d695bfc09b42ea25a67988" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_583bfcd5941a6dcfd06209702c6e4c1e" parent="aspace_b9ca079ec6d695bfc09b42ea25a67988" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_1885d01992dea67e6abf12247c06f6a4" level="file">
-        <did>
-          <unittitle>Rose Champagne</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_690d1a01b49a50873846a9932596ccb6" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_94c65323fa4ef7950d26faf64fd6af7d" parent="aspace_690d1a01b49a50873846a9932596ccb6" type="Folder">23</container>
-        </did>
-      </c>
-      <c id="aspace_1578a1b9766b6aca9b85c6eb481f9a03" level="file">
-        <did>
-          <unittitle>2 Beckman Place - contract copy</unittitle>
-          <unitdate datechar="creation" normal="1970/2005" type="inclusive">1970-2005</unitdate>
-          <container altrender="Record carton" id="aspace_c2d4965597b5f188b1c6e882c7b24377" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_fc511a673c783d8d5acba3f300f6bc64" parent="aspace_c2d4965597b5f188b1c6e882c7b24377" type="Folder">24</container>
-        </did>
-      </c>
-      <c id="aspace_8826bc4938824ac50b61c7919e53954b" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate datechar="creation" normal="1974/1985" type="inclusive">1974-1985</unitdate>
-          <container altrender="Record carton" id="aspace_8d24afc6698652856031d58595b6d559" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_6965551f37ce36c0948cd5de1e88b832" parent="aspace_8d24afc6698652856031d58595b6d559" type="Folder">25</container>
-        </did>
-      </c>
-      <c id="aspace_f4887f85b8c5166fd7c8444043f6acab" level="file">
-        <did>
-          <unittitle>Doris Tobias's proposed books</unittitle>
-          <unitdate datechar="creation" normal="1971/1971">1971, undated</unitdate>
-          <container altrender="Record carton" id="aspace_0ec5fe0e773ac8cd3ca7213293ba3e1f" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_86c01b45295741d2ae72c5e236a71a88" parent="aspace_0ec5fe0e773ac8cd3ca7213293ba3e1f" type="Folder">26</container>
-        </did>
-      </c>
-      <c id="aspace_c198b0b4ef7928e43c5386fc35cefb94" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate datechar="creation" normal="1988/1988">1988</unitdate>
-          <container altrender="Record carton" id="aspace_760893dc927a96b6c28911f46687fdcb" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_d78b7c385426dfb3514e78ae1501e205" parent="aspace_760893dc927a96b6c28911f46687fdcb" type="Folder">27</container>
-        </did>
-      </c>
-      <c id="aspace_a06208f5429eba38c990702365fcd76c" level="file">
-        <did>
-          <unittitle>Invitation</unittitle>
-          <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
-          <container altrender="Record carton" id="aspace_c2335e2926ad533ca221281e9b77e396" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_f0e236cae5350e5c3eeb623af694bf85" parent="aspace_c2335e2926ad533ca221281e9b77e396" type="Folder">28</container>
-        </did>
-      </c>
-      <c id="aspace_45712510054b70c71e9066ef7d187c23" level="file">
-        <did>
-          <unittitle>Magazines</unittitle>
-          <unitdate datechar="creation" normal="2008/2009" type="inclusive">2008-2009</unitdate>
-          <container altrender="Record carton" id="aspace_4a9a98350913c2f5681c3d6cfabc3ae4" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_dbdddfb6ac5e62260eda78a2e19ba2a1" parent="aspace_4a9a98350913c2f5681c3d6cfabc3ae4" type="Folder">29</container>
-        </did>
-      </c>
-      <c id="aspace_f494fff2403c01ba3fb36c45baf0b66c" level="file">
-        <did>
-          <unittitle>The Great East Coast Seafood Book</unittitle>
-          <unitdate datechar="creation">1982</unitdate>
-          <container altrender="Record carton" id="aspace_33470aa23e48926ebc24a831ee6177ae" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_12083b27ff35b8566b667e94f4af4356" parent="aspace_33470aa23e48926ebc24a831ee6177ae" type="Folder">30</container>
-        </did>
-      </c>
-      <c id="aspace_566497ff797131e7a21962abeabe9c90" level="file">
-        <did>
-          <unittitle>Menus and press releases</unittitle>
-          <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977, undated</unitdate>
-          <container altrender="Record carton" id="aspace_5958d209fc100f11a9b984dbaa4d27a5" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_12218f1b09aa03e9f3550ee576bcd984" parent="aspace_5958d209fc100f11a9b984dbaa4d27a5" type="Folder">31</container>
-        </did>
-      </c>
-      <c id="aspace_5466ff278e53e2a64ff1cf6a8e4781e9" level="file">
-        <did>
-          <unittitle>Financial records</unittitle>
-          <unitdate datechar="creation" normal="2008/2009" type="inclusive">2008-2009</unitdate>
-          <container altrender="Record carton" id="aspace_9acddb42f18ae785e8e853f9d15fa53b" label="Mixed Materials [31142063605938]" type="Box">1</container>
-          <container id="aspace_4bdd328857282c98b87b1f1df09ef250" parent="aspace_9acddb42f18ae785e8e853f9d15fa53b" type="Folder">32</container>
-        </did>
-      </c>
-      <c id="aspace_4835927486e9e4d0cc4b0cb450d852d2" level="file">
-        <did>
-          <unittitle>At Table and related articles</unittitle>
-          <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_94865780d8b499b47a296cd5e9f30398" label="Mixed Materials [31142062732543]" type="Box">2</container>
-          <container id="aspace_e81207c0e88efc7a3a783e62e71762a3" parent="aspace_94865780d8b499b47a296cd5e9f30398" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_160d0bfecfd606e6ec1c0ffc69c12862" level="file">
-        <did>
-          <unittitle>At Table articles</unittitle>
-          <unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0096cc58bfb7e25c5d0f1f731f93b3d5" label="Mixed Materials [31142062732543]" type="Box">2</container>
-          <container id="aspace_7ece70c122f725aab96e3006539d6f77" parent="aspace_0096cc58bfb7e25c5d0f1f731f93b3d5" type="Folder">2-3</container>
-        </did>
-      </c>
-      <c id="aspace_fb23e7e0e18fd04d2903659bdf5a6c67" level="file">
-        <did>
-          <unittitle>Press releases</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_23821ab3021563566d967c4d9d99e633" label="Mixed Materials [31142062732543]" type="Box">2</container>
-          <container id="aspace_7ba45fb43f10b88b21b9a2bc7047c0ab" parent="aspace_23821ab3021563566d967c4d9d99e633" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_0ae607cae305de40aa22cf39665d83c6" level="file">
-        <did>
-          <unittitle>Writings</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1290cfc417c9a223ed3c8a284312646f" label="Mixed Materials [31142062732543]" type="Box">2</container>
-          <container id="aspace_21760448ff434e35143ed8066d4356b4" parent="aspace_1290cfc417c9a223ed3c8a284312646f" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_e17f22a1dd737893ba3a600c8b0cfe49" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate datechar="creation" normal="1972/1990" type="inclusive">1972-1990</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_d2adf7b9728f4a18d8f7876495508f9f" label="Mixed Materials [31142062732543]" type="Box">2</container>
-          <container id="aspace_0538b29b27e5aeb8ec771ce102470542" parent="aspace_d2adf7b9728f4a18d8f7876495508f9f" type="Folder">7-9</container>
-        </did>
-      </c>
-      <c id="aspace_3dab6591a84dda82ea0057f12d0ac1aa" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ff373b49f4188359166fd816e3872548" label="Mixed Materials [31142062732543]" type="Box">2</container>
-          <container id="aspace_8d8b1c0e9105d58f6b3728ed94fdaaa6" parent="aspace_ff373b49f4188359166fd816e3872548" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_fec64feaf28df38a7c887fd6fa4ea4ba" level="file">
-        <did>
-          <unittitle>Menus</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_2dc8a2d1cc2ab2f55ed36ca20e297973" label="Mixed Materials [31142062732543]" type="Box">2</container>
-          <container id="aspace_2987877bc57662a3332e351995942744" parent="aspace_2dc8a2d1cc2ab2f55ed36ca20e297973" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_335b528bb54a07c52370ccd83270054c" level="file">
-        <did>
-          <unittitle>Pamphlets</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5a7dfad013e676674e82b94b882d1787" label="Mixed Materials [31142062732543]" type="Box">2</container>
-          <container id="aspace_9f173b48c33908cffbf14249cf51341a" parent="aspace_5a7dfad013e676674e82b94b882d1787" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_b89e66c5275e3b9a816df91e5c03a013" level="file">
-        <did>
-          <unittitle>Georges Duboeuf commemorative Beaujolais Nouveau toy truck</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Letter - Half" id="aspace_5baecac324bad2c232b81f498186cc2c" label="Mixed Materials [31142062732550]" type="Box">3</container>
-          <container id="aspace_a34236a2b0d0f6bd8fe9a4c150cbbf64" parent="aspace_5baecac324bad2c232b81f498186cc2c" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_b577ade0267dbbfcbb10667969299c9d" level="file">
-        <did>
-          <unittitle>Business cards</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Letter - Half" id="aspace_9f6936f440096c5e06adbf8d445ea6a2" label="Mixed Materials [31142062732550]" type="Box">3</container>
-          <container id="aspace_0060eeeea657ac1124c2703bf5bc23c4" parent="aspace_9f6936f440096c5e06adbf8d445ea6a2" type="Folder">2-3</container>
-        </did>
-      </c>
-      <c id="aspace_aa4e8b90c0c3f7f6520a68ff0226b9ac" level="file">
-        <did>
-          <unittitle>Menus and press releases</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_088dbb7bf24cf4f8871a84d7403392df" label="Mixed Materials [31142062732568]" type="Box">Shared Fales 011</container>
-          <container id="aspace_82ecddb90c8bcf4606bc361e385d7889" parent="aspace_088dbb7bf24cf4f8871a84d7403392df" type="Folder">1</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <origination label="source">
+      <persname source="naf">Tobias, Doris</persname>
+    </origination>
+    <unitid>MSS.265</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">in 1 record carton, 1 manuscript box, 1 half manuscript box, and 1 flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1970/2009" type="inclusive">1970-2009</unitdate>
+    <unitdate datechar="creation" normal="1970/1979" type="bulk">1970-1979</unitdate>
+    <abstract id="aspace_6952c857aabb1313002526f4115b0aef">Doris Tobias (d. 2009) was a food writer based in New York City. She worked as a food and wine columnist and editor for <emph render="italic">Women's Wear Daily</emph> and <emph render="italic">Wine &amp; Spirits Magazine</emph>. Tobias published several cook books and reviewed numerous restaurants during her career. This collection documents her professional career as a female writer involved in the food industry in New York City during the late 20th century. Materials include recipes, menus, print publications, clippings, food and wine event packets, business cards, financial and apartment contract records, writings, and a toy truck commemorating George Duboeuf's annual Beaujolais Nouveau.</abstract>
+    <physloc id="aspace_c2d94b1f1440c3b5c514aa979a05a876">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_b7bc61c27e1c0541ed2240505d69bc5c">Materials are primarily in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_f03f4eba6b15314268234fc40e0dd157">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_e9930399f35569a942ce095e38b79ef6">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by David S. Feigin in 2009. The accession number associated with this gift is 2009.265.</p>  </acqinfo>
+  <arrangement id="aspace_8f2c012751879ac48638ed6b1cc1f1b7">
+    <head>Arrangement</head>
+<p>Materials are arranged in the order in which they were recieved from the donor.</p>  </arrangement>
+  <bioghist id="aspace_f6f2408942b2bf35fdb38c06d1c9f590">
+    <head>Biographical / Historical</head>
+<p>Doris Tobias (d. 2009) was a food writer based in New York City. She worked as a food and wine columnist and editor for <emph render="italic">Women's Wear Daily</emph> and <emph render="italic">Wine &amp; Spirits Magazine</emph>. Tobias published several cook books and reviewed numerous NYC restaurants during her career. In June 2008, she was interviewed about her 750 square foot East Village apartment for a New York Times article entitled, "LIVING IN A NUTSHELL; Living Large In Little Apple."</p>  </bioghist>
+  <prefercite id="aspace_923bc9e40576c50b97972722da15baca">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Doris Tobias Papers; MSS 265; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_bdc68cd9c6165d146798cee94aa598f6">
+    <head>Processing Information</head>
+<p>Materails were placed in new acid-free folders. Original order and folder titles were maintained.</p>  </processinfo>
+  <scopecontent id="aspace_f435a5a463a66a4bba14420dbeb5921b">
+    <head>Scope and Contents</head>
+<p>This collection documents Tobias' professional career as a female writer involved in the food industry in New York City during the late 20th century. Materials include recipes, menus, print publications, clippings, food and wine event packets, business cards, financial and apartment contract records, writings, and a toy truck commemorating George Duboeuf's annual Beaujolais Nouveau.</p>  </scopecontent>
+  <userestrict id="aspace_a9fadde7f3ef2149201fa090fc664bab">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Doris Tobias, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Cooking &amp; dining</subject>
+    <subject source="lcsh">Food habits -- New York (State) -- New York</subject>
+    <occupation source="lcsh">Food writers.</occupation>
+    <subject source="lcsh">Food writing.</subject>
+    <subject source="lcsh">Restaurants -- New York (State) -- New York</subject>
+    <subject source="lcsh">Women in the food industry.</subject>
+    <persname role="dnr" rules="dacs" source="local">Feigin, David S.</persname>
+    <persname role="fmo" source="naf">Tobias, Doris</persname>
+  </controlaccess>
+  <dsc><c id="aspace_73f3903914bc293e3b1aac6d4e3f4a13" level="file"><did><unittitle>Magazines</unittitle><unitdate datechar="creation" normal="1977/1994" type="inclusive">1977-1994</unitdate><container altrender="Record carton" id="aspace_1363112e727b916cf0fdfa75193a723b" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_002079edf2941962dc5796b45700b431" parent="aspace_1363112e727b916cf0fdfa75193a723b" type="Folder">1-2</container></did></c><c id="aspace_10dc3c62474671e9ea6a1b0dd797d10b" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1984/1990" type="inclusive">1984-1990</unitdate><container altrender="Record carton" id="aspace_90f8f31289224215e35036c8c6e50d0f" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_911be3e4d7161072aac633f519381edd" parent="aspace_90f8f31289224215e35036c8c6e50d0f" type="Folder">3</container></did></c><c id="aspace_8cb8a807fcd412f1bff278d487eb88da" level="file"><did><unittitle>Chips</unittitle><unitdate datechar="creation" normal="1989/1989">1989</unitdate><container altrender="Record carton" id="aspace_deb1fef98353550fca436a8b372eb345" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_7bc82e163a6f2a7bb0e67865b3b10e79" parent="aspace_deb1fef98353550fca436a8b372eb345" type="Folder">4</container></did></c><c id="aspace_4bd36a5e78836dca53e45e401fa4fec8" level="file"><did><unittitle>Recipes</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_3d5f1710a1613cfe33fd6cd4b7bd3465" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_44ec9d304d223f725e707707f09418b9" parent="aspace_3d5f1710a1613cfe33fd6cd4b7bd3465" type="Folder">5</container></did></c><c id="aspace_d31faf5b4c0d2fac2fc7090d82cab473" level="file"><did><unittitle>Letter</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container altrender="Record carton" id="aspace_2eb19c8e349f08b7d57bbfb791828dc1" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_2a82c9deaeeed93ea5ac3dc6b0a4d22d" parent="aspace_2eb19c8e349f08b7d57bbfb791828dc1" type="Folder">6</container></did></c><c id="aspace_5848a33ce83d565389a2ae603c7386f4" level="file"><did><unittitle>Sandwich</unittitle><unitdate datechar="creation" normal="1978/1978">1978, undated</unitdate><container altrender="Record carton" id="aspace_85264f04efcc5fb4ebc45a2806900a06" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_80cd77bb6695882618c62f6b1a3b5e8a" parent="aspace_85264f04efcc5fb4ebc45a2806900a06" type="Folder">7</container></did></c><c id="aspace_7da4c76f34cc27ffd193cc481b959468" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1985/2006" type="inclusive">1985-2006</unitdate><container altrender="Record carton" id="aspace_f694926e5af80ac349c02c5511655d26" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_37a4e78557e78cbc39b55d8a1493e8df" parent="aspace_f694926e5af80ac349c02c5511655d26" type="Folder">8-9</container></did></c><c id="aspace_c40e6bffdcc45eee254f2172c011ed4f" level="file"><did><unittitle>Wine and Health</unittitle><unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate><container altrender="Record carton" id="aspace_b5fa302287653cbc84051f24fca9a913" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_aa9c255cb23d38c098db722667cecdf8" parent="aspace_b5fa302287653cbc84051f24fca9a913" type="Folder">10</container></did></c><c id="aspace_3454f35d7e8e7fbfcf6d41751e4ec9ca" level="file"><did><unittitle>Gourmet Gall/March of Dimes</unittitle><unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate><container altrender="Record carton" id="aspace_35aa45e989a9f56cde4c3be28455b0a7" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_0814ccdf01b9e51406fd7b9243cf8e42" parent="aspace_35aa45e989a9f56cde4c3be28455b0a7" type="Folder">12</container></did></c><c id="aspace_fb9bd89bb19c023d8361b06da717676c" level="file"><did><unittitle>Recipes</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Record carton" id="aspace_ee1a4a7513252effdb77c46ae307e159" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_07a6c1816ac1e42eecaf6279cacd3af9" parent="aspace_ee1a4a7513252effdb77c46ae307e159" type="Folder">13</container></did></c><c id="aspace_23032dd650baaddcb266d317d19859e2" level="file"><did><unittitle>Doris Tobias editorial of Golden Lemon</unittitle><unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate><container altrender="Record carton" id="aspace_d763cc3fb63560b02f0223aba4f835ce" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_59908286a635392ced949f14892c7721" parent="aspace_d763cc3fb63560b02f0223aba4f835ce" type="Folder">14</container></did></c><c id="aspace_7b952ae7485883f73d7add539f5d413d" level="file"><did><unittitle>Wine Cellars unused material</unittitle><unitdate datechar="creation" normal="1973/1973">1973, undated</unitdate><container altrender="Record carton" id="aspace_a5fb6ad41539f217129b7e5af879dce1" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_022ec7d2a26fff1b8011e50b0f5a7594" parent="aspace_a5fb6ad41539f217129b7e5af879dce1" type="Folder">15</container></did></c><c id="aspace_f4b3df4d3e59373bdebd2db9b6ebce9e" level="file"><did><unittitle>Burgundy</unittitle><unitdate datechar="creation" normal="1971/1975" type="inclusive">1971-1975</unitdate><container altrender="Record carton" id="aspace_3c8e9c9b2612b5ed1ce852d33c489153" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_1f8e62db0a83d209654dae2ac8ad2e26" parent="aspace_3c8e9c9b2612b5ed1ce852d33c489153" type="Folder">16</container></did></c><c id="aspace_bc0fa0a5c930d6c9d5decd4bab114157" level="file"><did><unittitle>Book reviews by Doris Tobias</unittitle><unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate><container altrender="Record carton" id="aspace_6b732692a682431b406710cf3a10e293" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_1f228238a1a0953fbe4bb32163b945ec" parent="aspace_6b732692a682431b406710cf3a10e293" type="Folder">17</container></did></c><c id="aspace_340e21a2ad45486dd6cd3c57aa55ca49" level="file"><did><unittitle>Fifth, Sixth, and Ninth Annual California Vinters Barrel Tasting Dinner</unittitle><unitdate datechar="creation" normal="1980/1984" type="inclusive">1980-1984</unitdate><container altrender="Record carton" id="aspace_ae4ffde397b0807cf6b128f72048e296" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_0b4a0e030632fc160bfb1f7d8e41ef70" parent="aspace_ae4ffde397b0807cf6b128f72048e296" type="Folder">18-20</container></did></c><c id="aspace_ab4a65dd7390640d28e64ddd7f942b7a" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1976/1976">1976</unitdate><container altrender="Record carton" id="aspace_9784dd7f2774f2b36c9821780c3e0843" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_e56a7f32c7b3bfda8480551c4086b335" parent="aspace_9784dd7f2774f2b36c9821780c3e0843" type="Folder">21</container></did></c><c id="aspace_a7488c493d74e779074bc0eaf3c6fd55" level="file"><did><unittitle>Golden Lemon</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container altrender="Record carton" id="aspace_a79c26726a0fe26b83180c70371848f2" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_aa756cdedded0aa4902b12f77d1abffa" parent="aspace_a79c26726a0fe26b83180c70371848f2" type="Folder">22</container></did></c><c id="aspace_1885d01992dea67e6abf12247c06f6a4" level="file"><did><unittitle>Rose Champagne</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_4763ff087968eb812fd789b92e60d659" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_53640da56cf63ba51ec4ec91ad2c825d" parent="aspace_4763ff087968eb812fd789b92e60d659" type="Folder">23</container></did></c><c id="aspace_1578a1b9766b6aca9b85c6eb481f9a03" level="file"><did><unittitle>2 Beckman Place - contract copy</unittitle><unitdate datechar="creation" normal="1970/2005" type="inclusive">1970-2005</unitdate><container altrender="Record carton" id="aspace_5721aecabfae3c6fbca59d35e0bf9f3c" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_35bbfa2bfee90d2d26565254812f49c6" parent="aspace_5721aecabfae3c6fbca59d35e0bf9f3c" type="Folder">24</container></did></c><c id="aspace_8826bc4938824ac50b61c7919e53954b" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1974/1985" type="inclusive">1974-1985</unitdate><container altrender="Record carton" id="aspace_64b768a5ee28743389fe23c6e494c0de" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_d47d131606913459fd43bae8bc1cfe22" parent="aspace_64b768a5ee28743389fe23c6e494c0de" type="Folder">25</container></did></c><c id="aspace_f4887f85b8c5166fd7c8444043f6acab" level="file"><did><unittitle>Doris Tobias's proposed books</unittitle><unitdate datechar="creation" normal="1971/1971">1971, undated</unitdate><container altrender="Record carton" id="aspace_bddada8e59133cc992f9f7dc9dbe8082" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_ff4d8b8a8bf27cab0fbfcb54a0a20d91" parent="aspace_bddada8e59133cc992f9f7dc9dbe8082" type="Folder">26</container></did></c><c id="aspace_c198b0b4ef7928e43c5386fc35cefb94" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1988/1988">1988</unitdate><container altrender="Record carton" id="aspace_bdfba3a245a2b0d2f1a633fd42737970" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_b47ea736aa234f5f3732e4494807273c" parent="aspace_bdfba3a245a2b0d2f1a633fd42737970" type="Folder">27</container></did></c><c id="aspace_a06208f5429eba38c990702365fcd76c" level="file"><did><unittitle>Invitation</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Record carton" id="aspace_c14f7a6dd9e51ebdb4ff6df8babdbffd" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_8711fe09308498335b7ea928296a2276" parent="aspace_c14f7a6dd9e51ebdb4ff6df8babdbffd" type="Folder">28</container></did></c><c id="aspace_45712510054b70c71e9066ef7d187c23" level="file"><did><unittitle>Magazines</unittitle><unitdate datechar="creation" normal="2008/2009" type="inclusive">2008-2009</unitdate><container altrender="Record carton" id="aspace_e4e9b79eba718af9d8358ff655bd194a" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_2c86ee0269415bf88bcb7e63083a9fc9" parent="aspace_e4e9b79eba718af9d8358ff655bd194a" type="Folder">29</container></did></c><c id="aspace_f494fff2403c01ba3fb36c45baf0b66c" level="file"><did><unittitle>The Great East Coast Seafood Book</unittitle><unitdate datechar="creation">1982</unitdate><container altrender="Record carton" id="aspace_cc8ccbe9737145698025be91cceeaf1b" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_ac7813db845f24a052741b341430ceb0" parent="aspace_cc8ccbe9737145698025be91cceeaf1b" type="Folder">30</container></did></c><c id="aspace_566497ff797131e7a21962abeabe9c90" level="file"><did><unittitle>Menus and press releases</unittitle><unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977, undated</unitdate><container altrender="Record carton" id="aspace_68a443ffbbd3a5ab314bb32b442fe184" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_05fc800e7e083c0193edb35ad522eedb" parent="aspace_68a443ffbbd3a5ab314bb32b442fe184" type="Folder">31</container></did></c><c id="aspace_5466ff278e53e2a64ff1cf6a8e4781e9" level="file"><did><unittitle>Financial records</unittitle><unitdate datechar="creation" normal="2008/2009" type="inclusive">2008-2009</unitdate><container altrender="Record carton" id="aspace_186304d35f2ce1328a95435f9627f185" label="Mixed Materials [31142063605938]" type="Box">1</container><container id="aspace_2c6f391839aab9653b8f2e0129daafe5" parent="aspace_186304d35f2ce1328a95435f9627f185" type="Folder">32</container></did></c><c id="aspace_4835927486e9e4d0cc4b0cb450d852d2" level="file"><did><unittitle>At Table and related articles</unittitle><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_eb46f561ee60778290c9ea17d4a14a53" label="Mixed Materials [31142062732543]" type="Box">2</container><container id="aspace_2ba2b66d34ee5c9500cb00f21a3730a5" parent="aspace_eb46f561ee60778290c9ea17d4a14a53" type="Folder">1</container></did></c><c id="aspace_160d0bfecfd606e6ec1c0ffc69c12862" level="file"><did><unittitle>At Table articles</unittitle><unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_55b618aaf9e1bc9d2a40f369a7e37b67" label="Mixed Materials [31142062732543]" type="Box">2</container><container id="aspace_545e2efd12c520089a726b94383c2023" parent="aspace_55b618aaf9e1bc9d2a40f369a7e37b67" type="Folder">2-3</container></did></c><c id="aspace_fb23e7e0e18fd04d2903659bdf5a6c67" level="file"><did><unittitle>Press releases</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2d3407440af6442262ca3811b4d593a3" label="Mixed Materials [31142062732543]" type="Box">2</container><container id="aspace_53784a7c9603ef94cbe782d75e20399e" parent="aspace_2d3407440af6442262ca3811b4d593a3" type="Folder">4</container></did></c><c id="aspace_0ae607cae305de40aa22cf39665d83c6" level="file"><did><unittitle>Writings</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a79cdab1d4f98946d5b22ace60d19ad3" label="Mixed Materials [31142062732543]" type="Box">2</container><container id="aspace_b4bfcc33e55c3692593e83f9948099e8" parent="aspace_a79cdab1d4f98946d5b22ace60d19ad3" type="Folder">6</container></did></c><c id="aspace_e17f22a1dd737893ba3a600c8b0cfe49" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1972/1990" type="inclusive">1972-1990</unitdate><container altrender="Manuscript box - Legal" id="aspace_055ab269749a2e73f1524473b910f010" label="Mixed Materials [31142062732543]" type="Box">2</container><container id="aspace_8ab13ad57d2f984ccd39c1970a2dfc4c" parent="aspace_055ab269749a2e73f1524473b910f010" type="Folder">7-9</container></did></c><c id="aspace_3dab6591a84dda82ea0057f12d0ac1aa" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_d9dde88c0b981f01a243867c15a84f0d" label="Mixed Materials [31142062732543]" type="Box">2</container><container id="aspace_23815dadb5f34bfd89db5d25eb7642a0" parent="aspace_d9dde88c0b981f01a243867c15a84f0d" type="Folder">10</container></did></c><c id="aspace_fec64feaf28df38a7c887fd6fa4ea4ba" level="file"><did><unittitle>Menus</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e633977586bee43e77d94d9c94e8172a" label="Mixed Materials [31142062732543]" type="Box">2</container><container id="aspace_27952d610844153313efcc10f02826b2" parent="aspace_e633977586bee43e77d94d9c94e8172a" type="Folder">11</container></did></c><c id="aspace_335b528bb54a07c52370ccd83270054c" level="file"><did><unittitle>Pamphlets</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ad47c90087bf78412087e9f248e49e8d" label="Mixed Materials [31142062732543]" type="Box">2</container><container id="aspace_4d07a96b3857546f4be90817ad816514" parent="aspace_ad47c90087bf78412087e9f248e49e8d" type="Folder">12</container></did></c><c id="aspace_b89e66c5275e3b9a816df91e5c03a013" level="file"><did><unittitle>Georges Duboeuf commemorative Beaujolais Nouveau toy truck</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_933fe195e39ea13680ab2cced3d82058" label="Mixed Materials [31142062732550]" type="Box">3</container><container id="aspace_40413e88e6597ece829a32ae5184dd81" parent="aspace_933fe195e39ea13680ab2cced3d82058" type="Folder">1</container></did></c><c id="aspace_b577ade0267dbbfcbb10667969299c9d" level="file"><did><unittitle>Business cards</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e4b29ff25d381ff05a0dfabf38a53685" label="Mixed Materials [31142062732550]" type="Box">3</container><container id="aspace_3bb213c2b4abfffd624d49ceabdc23bc" parent="aspace_e4b29ff25d381ff05a0dfabf38a53685" type="Folder">2-3</container></did></c><c id="aspace_aa4e8b90c0c3f7f6520a68ff0226b9ac" level="file"><did><unittitle>Menus and press releases</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_7d53bfaa18aee803c782a67e25457c2c" label="Mixed Materials [31142062732568]" type="Box">Shared Fales 011</container><container id="aspace_1494fa7e1391de5e77557090723366b3" parent="aspace_7d53bfaa18aee803c782a67e25457c2c" type="Folder">1</container></did></c></dsc>
+</archdesc>
 </ead>

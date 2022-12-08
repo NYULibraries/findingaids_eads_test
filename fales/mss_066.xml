@@ -1,723 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_066">mss_066</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Maxwell Aley Papers <num>MSS.066</num></titleproper>
-        <author>Jennifer E. Neal</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>June 2018</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:55:28 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Maxwell Aley Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Aley, Ruth</persname>
-      </origination>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Aley, Maxwell</persname>
-      </origination>
-      <origination label="Creator">
-        <persname role="dnr" rules="dacs" source="local">Aley, Maxwell Parkhurst </persname>
-      </origination>
-      <unitid>MSS.066</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
-        <extent altrender="carrier">in 2 record cartons, 1 card box, and 1 oversize flat box</extent>
-      </physdesc>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1928/1990" type="inclusive">1928-1990</unitdate>
-      <unitdate datechar="creation" normal="1942/1974" type="bulk">1942-1974</unitdate>
-      <abstract id="aspace_9c22fcc2a60f110a38ab93e1dd4e20ff">Maxwell Aley (1889-1953) was an American writer, editor, publisher, and literary agent. After graduating from Indiana University, Aley began his career as editor of the "Daily Commercial" in Bangor, Maine. He held numerous positions as an editor at several magazines and publishing companies and eventually joined his wife, Ruth, as partner at the agency she established in New York City. This collection documents Aley's career and the endeavors of the Aley family's literary agency after his death, ranging from 1928 to 1990.  Materials include correspondence, manuscripts, contracts, lists, publications, a few photographs, and one audiocassette.</abstract>
-      <physloc id="aspace_265736871fcae0e9ec308ce049d57881">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_fdc5d32f32424848a0078828d2d0dc4c">Materials are primarily in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_b52f5fbc015744e88dc98ab959208917">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_c420c8c9a435c7892a6a2cabd3230f02">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Maxwell Parkhurst Aley in 1997. The accession number associated with this gift is 0.066.</p>
-    </acqinfo>
-    <arrangement id="aspace_0fcab1da5556518ab43ce67d9cf5d58c">
-      <head>Arrangement</head>
-      <p>The materials are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <bioghist id="aspace_183eaca58d9c3ff74dc951a76bdd2e4d">
-      <head>Biographical / Historical</head>
-      <p>Maxwell Aley, an American writer, editor, publisher, and literary agent, was born September 21, 1889 in Indiana and died July 16, 1953 in New York. Aley grew up in Indiana and attended Indiana University. His first job was in Bangor, Maine at the "Daily Commercial" where he became managing editor in 1915. That same year he married Ruth Emeilie Tracy Parkhurst. They had two children, Maxwell Parkhurst Aley and Robert Jonathan Aley, who would both become partners in the Aley family's literary agency. Aley held numerous positions as an editor at several magazines and publishing companies in Maine and New York, and eventually left Longmans, Green and Company to join his wife, Ruth, as a parter in the agency she had already established. He was a co-founder of the American and International P.E.N. (Poets, Playwrights, Editors, and Novelists) Clubs, and an active member of the Society of Authors' Representatives, the Authors' League, the National Arts Club, and Phi Beta Kappa National Scholastic Honor Society.</p>
-    </bioghist>
-    <custodhist id="aspace_66c6f5c657e0479f5a8f197f0b0adf17">
-      <head>Custodial History</head>
-      <p>Materials were donated to the University of Wyoming American Heritage  Center by Ruth Aley in 1991. Maxwell Parkhurst Aley transferred the materials from the University of Wyoming American Heritage Center and donated them to New York University in 1997.</p>
-    </custodhist>
-    <phystech id="aspace_03b481cbf7810dea69a49f06865820be">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <prefercite id="aspace_fb5d69db992d99564f0309c5b56b4bd6">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Maxwell Aley papers; MSS 066; box number; folder number; Fales Library and Special Collections, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_4ca53ae5c03dc594331aa760dc23e32f">
-      <head>Processing Information</head>
-      <p>Materials were placed in new acid-free folders. Original order and folder titles were retained. One audiocassette was rehoused in an appropriate case and photographs were placed in photo sleeves or mylar.</p>
-    </processinfo>
-    <scopecontent id="aspace_c0bad0bf673fd7f7078a2559c2003722">
-      <head>Scope and Contents</head>
-      <p>This collection consists of materials that document Maxwell Aley's early career as a writer, editor, publisher, and literary agent beginning in 1929 and the business endeavors of the Aley family's literary agency up to 1990. Materials include correspondence, manuscripts, contracts, lists, publications, a few photographs, and one audiocassette.</p>
-    </scopecontent>
-    <userestrict id="aspace_6ab6c653838124b6ae373cfeb5cdc854">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Maxwell and Ruth Aley, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Literary agents.</subject>
-      <subject source="lcsh">Literary editors.</subject>
-      <subject source="lcsh">Authors, American -- 20th century.</subject>
-      <subject source="lcsh">Authors, American -- 20th century -- Correspondence</subject>
-      <subject source="lcsh">Authors and publishers -- New York (State) -- New York -- 20th century.</subject>
-      <subject source="lcsh">Editors -- New York (State) -- New York</subject>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Manuscripts</genreform>
-      <genreform source="aat">Photographs.</genreform>
-      <genreform source="aat">Publications (documents)</genreform>
-      <genreform source="aat">Contracts</genreform>
-      <persname rules="dacs" source="local">Aley, Maxwell</persname>
-      <persname source="naf">Gluck, Jay</persname>
-      <persname source="naf">Maxwell, Nicole</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_066">mss_066</eadid><filedesc><titlestmt><titleproper>Guide to the Maxwell Aley Papers <num>MSS.066</num></titleproper><author>Jennifer E. Neal</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>June 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:53:36 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Maxwell Aley Papers</unittitle>
+    <origination label="Creator">
       <persname source="naf">Aley, Ruth</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_234465d37e8721aef79ef33d51438b97" level="file">
-        <did>
-          <unittitle>New Frontiers in Medicine</unittitle>
-          <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_bf322cc82f22a4180d630fca06097d22" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_96f2522d0c2cac52b4ca7efff4b5df79" parent="aspace_bf322cc82f22a4180d630fca06097d22" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_1c053953a351ef2e536db9786847b214" level="file">
-        <did>
-          <unittitle>Health '62 - '69</unittitle>
-          <unitdate datechar="creation" normal="1962/1966" type="inclusive">1962-1966</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_fd33a87be40880e32dc880692cc5a7fd" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_8b57ef9d24911a0c26023986e0f7e16b" parent="aspace_fd33a87be40880e32dc880692cc5a7fd" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_bf30e7cb37056e64951f89c5eb259920" level="file">
-        <did>
-          <unittitle>Gluck, Zen</unittitle>
-          <unitdate datechar="creation" normal="1962/1964" type="inclusive">1962-1964</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_282c7d52f8df2f880f8a8dccebba8718" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_6be5b539cc7f1f894bdab925f9d2af47" parent="aspace_282c7d52f8df2f880f8a8dccebba8718" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_00f7e31c3cab0e0507b2c7b54b3dcd92" level="file">
-        <did>
-          <unittitle>Burford publicity reviews</unittitle>
-          <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_e6c8c288eb3a31766168692bf53b53ba" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_c5b3954e1f57d00e8e07511b7732c908" parent="aspace_e6c8c288eb3a31766168692bf53b53ba" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_e7432b66fd3c2836700f3946dd336bbd" level="file">
-        <did>
-          <unittitle>Wyo [sic] make copies</unittitle>
-          <unitdate datechar="creation" normal="1939/1973" type="inclusive">1939-1973</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_13de40b5319ed22438b12e8cf3b05fff" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_ba8f74bef9ce9ca8617f0d769886130d" parent="aspace_13de40b5319ed22438b12e8cf3b05fff" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_daf6113bcf20febd05a97fbcff31596e" level="file">
-        <did>
-          <unittitle>Royalty records: active clients</unittitle>
-          <unitdate datechar="creation" normal="1971/1987" type="inclusive">1971-1987</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_fe6624b399661945167234c537f87ee8" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_ef0434bc638854f66a9d7624c38c1a62" parent="aspace_fe6624b399661945167234c537f87ee8" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_cff91a4dba77d5f5c0f86c98b9a4ff73" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_ba28e7c59ddc8c3187914e7448ba9e49" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_e5ac359244b67807a02febd384444e2a" parent="aspace_ba28e7c59ddc8c3187914e7448ba9e49" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_165358426c45ffd46cc3196f8ff107ba" level="file">
-        <did>
-          <unittitle>Publicity</unittitle>
-          <unitdate datechar="creation" normal="1962/1983" type="inclusive">1962-1983</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_23977ccab43004bd38aca9023b815f97" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_99e3ce9ecfc12adb58ca66d00c1da7b4" parent="aspace_23977ccab43004bd38aca9023b815f97" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ba7d4eb4b19f81f9ffe6899b50bb516c" level="file">
-        <did>
-          <unittitle>Ruth Aley: answer</unittitle>
-          <unitdate datechar="creation" normal="1956/1988" type="inclusive">1956-1988</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_bf7dcbf4c7d7cdc33856881270444cc0" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_3b16f685220c4d2168b1bfc7c4a1ef81" parent="aspace_bf7dcbf4c7d7cdc33856881270444cc0" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_63186838fed0c1242be26da6a49fe6c9" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1982/1990" type="inclusive">1982-1990</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_57498daa89f0f55023354f381d445994" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_41fb3e61f25984ab9d5a7fd37b7950b3" parent="aspace_57498daa89f0f55023354f381d445994" type="Folder">10</container>
-        </did>
-        <c id="aspace_883fbad4a2006b0c33556a3df5bba097" level="item">
-          <did>
-            <unittitle>Bert Stiles-Bauer [audiocassette]</unittitle>
-            <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Card Box 5.75" id="aspace_d12a9f019ef6dce471516c12a60ec291" label="Audio [31142063425915]" type="Box">Shared Fales 006</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_a437fd0d1138d4f121a2c43c1cadd980" level="file">
-        <did>
-          <unittitle>Biographical information</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_62ac7450063b14291d9b8ec93b8a2f87" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_fe61d1bb3c4da2be07cde7a70a55ff5d" parent="aspace_62ac7450063b14291d9b8ec93b8a2f87" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_e4611f06abf8d5da76cf92ebf5049028" level="file">
-        <did>
-          <unittitle>Williamson Archer</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_7d23435fee205c962aae838e1ceff560" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_5105a66177670beac39252547fca60ca" parent="aspace_7d23435fee205c962aae838e1ceff560" type="Folder">12-13</container>
-        </did>
-      </c>
-      <c id="aspace_66d83fae58e2228eb391c44196e9401e" level="file">
-        <did>
-          <unittitle>"1990"</unittitle>
-          <unitdate datechar="creation" normal="1967/1987" type="inclusive">1967-1987</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_5c3b92c5739b96d6ebba0221238c31f8" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_3ae9581c7398b2194e5faf0ef01dd874" parent="aspace_5c3b92c5739b96d6ebba0221238c31f8" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_4d8b85a5ee8ae45b31be87812823ca4f" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1933/1987" type="inclusive">1933-1987</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_b3a0aa79a0d7d05740df0cd77d7372a5" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_4db83dd80a136cc4089792517987586e" parent="aspace_b3a0aa79a0d7d05740df0cd77d7372a5" type="Folder">15-16</container>
-        </did>
-      </c>
-      <c id="aspace_a52ffce6dfe24020e5b65deb3f104365" level="file">
-        <did>
-          <unittitle>Bambino Goes West by Andrew S. Wing</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_0eb8a620833b86b3acbc1fcd3e0df131" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_5fb5f94ac504d68a98a84cc3626555e7" parent="aspace_0eb8a620833b86b3acbc1fcd3e0df131" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_6afa6d4828577a70da10343af3ad2029" level="file">
-        <did>
-          <unittitle>Maria Kuncewicz [sic]</unittitle>
-          <unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_38a6323b1bd7275958d77b5b15e3c08f" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_205eefd1531bf7ec1eeecf31f892ca3d" parent="aspace_38a6323b1bd7275958d77b5b15e3c08f" type="Folder">18</container>
-        </did>
-      </c>
-      <c id="aspace_0069ab751334c632fb75c93b101ad213" level="file">
-        <did>
-          <unittitle>Jay Gluck</unittitle>
-          <unitdate datechar="creation" normal="1956/1962" type="inclusive">1956-1962</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_b70bbce64a5008a986f320bb8074b63f" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_1e295efb9ebc1885578b2ecb801808dd" parent="aspace_b70bbce64a5008a986f320bb8074b63f" type="Folder">19</container>
-        </did>
-      </c>
-      <c id="aspace_7d5572af126ffdca95b2e822ef3543f1" level="file">
-        <did>
-          <unittitle>Gluck: '63, '64, '65, '66, '67</unittitle>
-          <unitdate datechar="creation" normal="1961/1967" type="inclusive">1961-1967</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_0dd359f64b29eeaf313c3ceb50d209e2" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_a9e07c5624eb3a01535a548234aead70" parent="aspace_0dd359f64b29eeaf313c3ceb50d209e2" type="Folder">20</container>
-        </did>
-      </c>
-      <c id="aspace_bac214eef71842c17211eea642c9c4d1" level="file">
-        <did>
-          <unittitle>Gluck = J.S.O. [sic] 1969</unittitle>
-          <unitdate datechar="creation" normal="1960/1971" type="inclusive">1960-1971</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_c418920e2f0bf9c7c0372f2b6705090b" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_60c719b9cf72ebd5306a5b4a7de1228c" parent="aspace_c418920e2f0bf9c7c0372f2b6705090b" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_4ca408f4d735dc874fae0336bf55577f" level="file">
-        <did>
-          <unittitle>Legal agreements for authors</unittitle>
-          <unitdate datechar="creation" normal="1957/1965" type="inclusive">1957-1965</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_f1585e467c85d6a86f3e96c9883525cc" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_2cd60e04980234a3efc3ef8e895d0e68" parent="aspace_f1585e467c85d6a86f3e96c9883525cc" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_53eabaecfa083137e00fe8fd53663488" level="file">
-        <did>
-          <unittitle>Contracts: Mary Jack Wald</unittitle>
-          <unitdate datechar="creation" normal="1946/1946">1946, undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_05d759b00d97b0f7f093d0a6e8c196d5" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_15db8cdc207dc8c16b05d48e2e51a70d" parent="aspace_05d759b00d97b0f7f093d0a6e8c196d5" type="Folder">23</container>
-        </did>
-      </c>
-      <c id="aspace_efb7aa0453a5b1740526bef835953bb8" level="file">
-        <did>
-          <unittitle>Author-agent contracts</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_6934b2295944b27a35521be870869caf" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_d764f355a6027ca4bf57bd4b401ca6df" parent="aspace_6934b2295944b27a35521be870869caf" type="Folder">24</container>
-        </did>
-      </c>
-      <c id="aspace_b8bf84efb1f1448e80439d3bdbdd523c" level="file">
-        <did>
-          <unittitle>Daisy Newman</unittitle>
-          <unitdate datechar="creation" normal="1944/1954" type="inclusive">1944-1954</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_985119c48d0f705a5ff8ce13ced1bc99" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_5160ab48b57f60f841f822aaed23f501" parent="aspace_985119c48d0f705a5ff8ce13ced1bc99" type="Folder">25</container>
-        </did>
-      </c>
-      <c id="aspace_27fa4d4119909590b1453e800c1ab588" level="file">
-        <did>
-          <unittitle>B</unittitle>
-          <unitdate datechar="creation" normal="1951/1974" type="inclusive">1951-1974</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_5283bf9e95773eca0ddda2da1e1c27aa" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_cb5d96bbcec673cf82c28e92250b9b01" parent="aspace_5283bf9e95773eca0ddda2da1e1c27aa" type="Folder">26</container>
-        </did>
-      </c>
-      <c id="aspace_d39da63fd9b88dd0e258fb6abd8c9f5e" level="file">
-        <did>
-          <unittitle>Correspondence and manuscripts</unittitle>
-          <unitdate datechar="creation" normal="1942/1948" type="inclusive">1942-1948, undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_4c0d67e65883c4f1f0a3ec7f4dd10148" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_b6ce295a18dc1ce14d036647760cc58f" parent="aspace_4c0d67e65883c4f1f0a3ec7f4dd10148" type="Folder">27</container>
-        </did>
-      </c>
-      <c id="aspace_218397af9bf24a043f64fc3155a39ecb" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1928/1968" type="inclusive">1928-1968</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_1c5a48aeffebb14d3568e054fd9accaa" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_1449d758064d0124c34af886e1c1d612" parent="aspace_1c5a48aeffebb14d3568e054fd9accaa" type="Folder">28-29</container>
-        </did>
-      </c>
-      <c id="aspace_2db4c1b956bf8e24a91ba7dae52fde2f" level="file">
-        <did>
-          <unittitle>S</unittitle>
-          <unitdate datechar="creation" normal="1944/1972" type="inclusive">1944-1972</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_924ace7660ce302bd442fb25df19eab5" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_5a09fab812763a5522ad39030752c41e" parent="aspace_924ace7660ce302bd442fb25df19eab5" type="Folder">30</container>
-        </did>
-      </c>
-      <c id="aspace_b196f0407d0cea71ada2ab15f5ec4479" level="file">
-        <did>
-          <unittitle>Manuscripts</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_696e67544cee6b1af9a89a98212029aa" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_59de2c67487f682077ead2b97691fc68" parent="aspace_696e67544cee6b1af9a89a98212029aa" type="Folder">31</container>
-        </did>
-      </c>
-      <c id="aspace_2036c3085c2a6d708d5dd5c0f90369a5" level="file">
-        <did>
-          <unittitle>Partridge, Bellamy</unittitle>
-          <unitdate datechar="creation" normal="1952/1958" type="inclusive">1952-1958</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_28df4bfd87dbdd8d5dfecfdfbb3b0302" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_5d67f0a1cf6db2077bb162de942cd7f3" parent="aspace_28df4bfd87dbdd8d5dfecfdfbb3b0302" type="Folder">32</container>
-        </did>
-      </c>
-      <c id="aspace_c94026e88a43bdeba0ff462824db9683" level="file">
-        <did>
-          <unittitle>Marjorie Holmes</unittitle>
-          <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_5fce42b0c8cf0598f07a325b1470edf2" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_66a474d39345b885638fad9db907b953" parent="aspace_5fce42b0c8cf0598f07a325b1470edf2" type="Folder">33</container>
-        </did>
-      </c>
-      <c id="aspace_7ddd3ce9efb15b9f1e39d025813dde64" level="file">
-        <did>
-          <unittitle>Manuscripts</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_7a860c3e1fffcf7facffc35c11827fe9" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_604056ed2b5de883e4ff93ace12bf761" parent="aspace_7a860c3e1fffcf7facffc35c11827fe9" type="Folder">34</container>
-        </did>
-      </c>
-      <c id="aspace_7aa67767765e14c53cbcb50d1a476f0a" level="file">
-        <did>
-          <unittitle>1971 Log Book</unittitle>
-          <unitdate datechar="creation" normal="1971/1981" type="inclusive">1971-1981</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_eac22e6ec586aa7ca0bc51efb3b78b0b" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_d5823bdd93327aa15765094a24773596" parent="aspace_eac22e6ec586aa7ca0bc51efb3b78b0b" type="Folder">35</container>
-        </did>
-      </c>
-      <c id="aspace_6601735237b74a57914b09014349d61d" level="file">
-        <did>
-          <unittitle>"You're Not Tough" by Maxwell Aley</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_1019951350b3b54dbd75b7acfa595a58" label="Mixed Materials [31142054864205]" type="Box">1</container>
-          <container id="aspace_b063e74a7717e18bec23c94feb526ecc" parent="aspace_1019951350b3b54dbd75b7acfa595a58" type="Folder">36</container>
-        </did>
-      </c>
-      <c id="aspace_8d9b7dd51d5e75167fb60c3d86a1adcf" level="file">
-        <did>
-          <unittitle>Good Housekeeping</unittitle>
-          <unitdate datechar="creation" normal="1926-08/1926-08">1926-08</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_7148d4a01a3f9fc34fe26d1d9a35a3cd" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_180338d58456bcd9222f06ae461c18c6" parent="aspace_7148d4a01a3f9fc34fe26d1d9a35a3cd" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_0bf1a16c18b7eb50b8079ff7b4da78ad" level="file">
-        <did>
-          <unittitle>Bert Stiles + [Dan] Baur</unittitle>
-          <unitdate datechar="creation" normal="1941/1973" type="inclusive">1941-1973</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_ba9ddf268fe63c8067a6da29a0129b31" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_8c4176b1b514e99ddd0ad5325ae8ed10" parent="aspace_ba9ddf268fe63c8067a6da29a0129b31" type="Folder">2-3</container>
-        </did>
-      </c>
-      <c id="aspace_249891770c7e0c1d47bf26044e0120ef" level="file">
-        <did>
-          <unittitle>Riki Stevens</unittitle>
-          <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_5a4c75d1a0d1a6d5997eb0259b360496" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_61b288972a7236483656c50c05f057e8" parent="aspace_5a4c75d1a0d1a6d5997eb0259b360496" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_3d08250837ae9f81e768919c8b3c578b" level="file">
-        <did>
-          <unittitle>Ferguson - Bolt: foreign, England '78</unittitle>
-          <unitdate datechar="creation" normal="1973/1978" type="inclusive">1973-1978</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_eafd14d241bf7061b87ceade7d856049" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_d461b51c0c2566fcb09a2bd9ec552f7c" parent="aspace_eafd14d241bf7061b87ceade7d856049" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_aa6f55695672e61b05fe5a642dfc5f39" level="file">
-        <did>
-          <unittitle>Aley, Maxwell</unittitle>
-          <unitdate datechar="creation" normal="1927/1939" type="inclusive">1927-1939</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_96a4c1a1d8e98e8eb39b7d7a5f288f3d" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_346e0aa1f68592b35cf33f377a3db425" parent="aspace_96a4c1a1d8e98e8eb39b7d7a5f288f3d" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_298c3c3a2bbb8dd7d3c316efdcdc5d46" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_260f6baaaf597d8a01c94125ad4d7b07" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_612159dbf76710dc2cf92d50b9518eb2" parent="aspace_260f6baaaf597d8a01c94125ad4d7b07" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_7aecdb0afe43717d1aedc5b82cffcef8" level="file">
-        <did>
-          <unittitle>Maxwell Aley - autographed letters</unittitle>
-          <unitdate datechar="creation" normal="1921/1936" type="inclusive">1921-1936</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_8f7242f9f438365f4024f4f00418411f" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_78a446bfbb860af6b753309696eba5d2" parent="aspace_8f7242f9f438365f4024f4f00418411f" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_77bac0b93530de48fa5aa95da2e9312f" level="file">
-        <did>
-          <unittitle>Maxwell Aley Associates</unittitle>
-          <unitdate datechar="creation" normal="1929/1975" type="inclusive">1929-1975</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_9249694f4aa11871fdbefc6aabd69e20" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_021c00d62e333c7eb2780d937e3fc7c4" parent="aspace_9249694f4aa11871fdbefc6aabd69e20" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_c55ceee9c91ffaa68b0a90828a8c1bf2" level="file">
-        <did>
-          <unittitle>C. Jonas</unittitle>
-          <unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_77aeaaa005817bd9ff802fe56c44263d" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_8e84c8616e4fda8834f6f0872a9fee7b" parent="aspace_77aeaaa005817bd9ff802fe56c44263d" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_169db54589b89fe5d6721fb9d3c51633" level="file">
-        <did>
-          <unittitle>Maxwell Aley Anthology of War Stories</unittitle>
-          <unitdate datechar="creation" normal="1947/1957" type="inclusive">1947-1957</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_2685100784d483df8c159deef97555f0" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_7cdebdd8923439dcb1c432696d0d2f26" parent="aspace_2685100784d483df8c159deef97555f0" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_46931aa3126a5215f6b0e1daa0513246" level="file">
-        <did>
-          <unittitle>M. Aley</unittitle>
-          <unitdate datechar="creation" normal="1927/1951" type="inclusive">1927-1951</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_8d7dad62ff5f29066c311acb5d6f2cc1" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_752775fdcea6979cceb2a6dd6ab6c9e6" parent="aspace_8d7dad62ff5f29066c311acb5d6f2cc1" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_b3cef9a642854ae6b99381419ebb54c8" level="file">
-        <did>
-          <unittitle>David Bolt - general</unittitle>
-          <unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_bedf3629bcd55c2325a8ad0ecece6b8e" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_ad67f1b104c28c142e3a220787c20f57" parent="aspace_bedf3629bcd55c2325a8ad0ecece6b8e" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_81f04a8a62c5dd2b8bad167c4e094c10" level="file">
-        <did>
-          <unittitle>Maxwell Aley  American biography</unittitle>
-          <unitdate datechar="creation" normal="1953/1953">1953</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_a852257f56b9bca63a120a55c102326c" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_74cb447c3a43b47b2f7924286521dbc3" parent="aspace_a852257f56b9bca63a120a55c102326c" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_11b2f55b76d4c534bfb818452c91a61d" level="file">
-        <did>
-          <unittitle>Good Housekeeping</unittitle>
-          <unitdate datechar="creation" normal="1927-07/1927-07">1927-07</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_c136cd330dff7bb29fd3cfce4cced28f" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_3c18d18b75197a6dc6908b2f1f126751" parent="aspace_c136cd330dff7bb29fd3cfce4cced28f" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_09c24d58cb395a1b85e62a1a0fb5f62c" level="file">
-        <did>
-          <unittitle>N. Sullivan</unittitle>
-          <unitdate datechar="creation" normal="1965/1983" type="inclusive">1965-1983</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_1db12908b9d5e03144da483595c31ba8" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_7d4d32280b0a8c0ec668582a5eb55f12" parent="aspace_1db12908b9d5e03144da483595c31ba8" type="Folder">16</container>
-        </did>
-      </c>
-      <c id="aspace_0234d08c151bdb444d96a0b6e99777db" level="file">
-        <did>
-          <unittitle>Nicole Maxwell: magazines</unittitle>
-          <unitdate datechar="creation" normal="1958/1974" type="inclusive">1958-1974</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_c3adb4f2b3b149ef474a19eeaec979da" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_ba73b80865f94c23e12d99c4d5450477" parent="aspace_c3adb4f2b3b149ef474a19eeaec979da" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_9a69f934bb3eb07a21d1eaf90f25c253" level="file">
-        <did>
-          <unittitle>Nicole Maxwell: publications, etc.</unittitle>
-          <unitdate datechar="creation" normal="1952/1987" type="inclusive">1952-1987</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_3cf4e415e6d053bea4b400bd8004ef1b" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_d1b35802b64c48000be7f04df0fa079f" parent="aspace_3cf4e415e6d053bea4b400bd8004ef1b" type="Folder">18-19</container>
-        </did>
-      </c>
-      <c id="aspace_c5ac00993add0df63e881483f18f2f49" level="file">
-        <did>
-          <unittitle>Stiles, Bert</unittitle>
-          <unitdate datechar="creation" normal="1940/1942" type="inclusive">1940-1942</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_20eb83b14afc54133c415d6a1f1b2dfb" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_66f6c7c0e0c4dfde4cca630e2253fe29" parent="aspace_20eb83b14afc54133c415d6a1f1b2dfb" type="Folder">20</container>
-        </did>
-      </c>
-      <c id="aspace_2f2712bbf499eb11e7f14c0f923674e6" level="file">
-        <did>
-          <unittitle>Manuscript page</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_eb7ef2e3b47c383d1df84c681d6426d2" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_65f3d8b30db6f2ec2a7d44fa949f65fe" parent="aspace_eb7ef2e3b47c383d1df84c681d6426d2" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_9eb8dc14a8873700c3b7391e267f1fac" level="file">
-        <did>
-          <unittitle>Cocannoer, Joseph</unittitle>
-          <unitdate datechar="creation" normal="1956/1959" type="inclusive">1956-1959</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_f1743362dbda9d9412d52edf5556981e" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_a253f4467900832858def332bfe59cc3" parent="aspace_f1743362dbda9d9412d52edf5556981e" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_2010d1098f98054267a6eaf2bbff8196" level="file">
-        <did>
-          <unittitle>J.A. Brown</unittitle>
-          <unitdate datechar="creation" normal="1950/1960" type="inclusive">1950-1960</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_2fca67d676dc631dd31cf719f8292b89" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_b407bdeb0ed4a458a48ead59e67fa9f4" parent="aspace_2fca67d676dc631dd31cf719f8292b89" type="Folder">23</container>
-        </did>
-      </c>
-      <c id="aspace_5547f5060b836181caaa4f88d3cdf78d" level="file">
-        <did>
-          <unittitle>Survey - Gluck</unittitle>
-          <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_fdbf6a00b10244d72eaa8e6445eaf303" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_efc7223277c8c281468f556c3c39fa38" parent="aspace_fdbf6a00b10244d72eaa8e6445eaf303" type="Folder">24</container>
-        </did>
-      </c>
-      <c id="aspace_af8d3a462b6d7758b6bb375f52fd78ea" level="file">
-        <did>
-          <unittitle>Maria Kuncewiczowa</unittitle>
-          <unitdate datechar="creation" normal="1961/1982" type="inclusive">1961-1982</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_b055f22ca74d073067619aa441049370" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_096c55d234ffd2c948b238a6b77be499" parent="aspace_b055f22ca74d073067619aa441049370" type="Folder">25</container>
-        </did>
-      </c>
-      <c id="aspace_b6665ae7fa54bffd673ae08302086cdf" level="file">
-        <did>
-          <unittitle>Ukiya-Gluck</unittitle>
-          <unitdate datechar="creation" normal="1962/1968" type="inclusive">1962-1968</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_bf3dd3a32379540fa51446ab71629ce7" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_6cf94c20ef4df4d0f58d4942175516ad" parent="aspace_bf3dd3a32379540fa51446ab71629ce7" type="Folder">26</container>
-        </did>
-      </c>
-      <c id="aspace_2f522bf9d1e169e3f067c2c76cf6c61c" level="file">
-        <did>
-          <unittitle>Publishers</unittitle>
-          <unitdate datechar="creation" normal="1976/1989" type="inclusive">1976-1989</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_5241ef129f67f2186e5e52d7c6cd03b6" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_b5ba73be6e321488f7a55231734367cc" parent="aspace_5241ef129f67f2186e5e52d7c6cd03b6" type="Folder">27</container>
-        </did>
-      </c>
-      <c id="aspace_bc9c0b7a26ed42bc003721586805e587" level="file">
-        <did>
-          <unittitle>Olema, California</unittitle>
-          <unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_a8f6d9013237b992474a6434bbf96157" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_a5d7b88ceaf17a602c22bb21f38f3192" parent="aspace_a8f6d9013237b992474a6434bbf96157" type="Folder">28</container>
-        </did>
-      </c>
-      <c id="aspace_6408d6bb13e8896dba86ce468537d022" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_cc7d714ad78e2bbe21ae47fbf6f7302c" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_f1622e35fd4275a74da5f4ee1fe23959" parent="aspace_cc7d714ad78e2bbe21ae47fbf6f7302c" type="Folder">29</container>
-        </did>
-      </c>
-      <c id="aspace_adb65a1a7022f94bba2e29daacd6aec9" level="file">
-        <did>
-          <unittitle>Joe Durso</unittitle>
-          <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_264a91d3a4cf8d156859a09e68b68ae9" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_946a904a2374525040d25405393abd52" parent="aspace_264a91d3a4cf8d156859a09e68b68ae9" type="Folder">30</container>
-        </did>
-      </c>
-      <c id="aspace_b77a1722b2050b45f3bb27c01b608ab1" level="file">
-        <did>
-          <unittitle>Lists</unittitle>
-          <unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_f705570792624580192063ed0f0a4de8" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_49c7d361d8c9e68b66c7a4044c836dec" parent="aspace_f705570792624580192063ed0f0a4de8" type="Folder">31</container>
-        </did>
-      </c>
-      <c id="aspace_21e318bc037f6d12cda35d34c424f1c4" level="file">
-        <did>
-          <unittitle>Iran-Gluck</unittitle>
-          <unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_bcc26ce49c3f069c3b2f21e04c78239e" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_141a6497c4055f07dc285f879bbdb031" parent="aspace_bcc26ce49c3f069c3b2f21e04c78239e" type="Folder">32</container>
-        </did>
-      </c>
-      <c id="aspace_7b919e1b71495cdb794437dd98d60145" level="file">
-        <did>
-          <unittitle>Submissions and sales</unittitle>
-          <unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944, undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_a05f5fa343f2c96b39f20b41e179b802" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_f8f8746039352f39869990a5c42bb54d" parent="aspace_a05f5fa343f2c96b39f20b41e179b802" type="Folder">33-34</container>
-        </did>
-      </c>
-      <c id="aspace_4ca19c3d9244f2ec9bfc4618f3f2c5d9" level="file">
-        <did>
-          <unittitle>Pope [Arthur Upham Pope]</unittitle>
-          <unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_1c0f4452bc9b420f2a3a07cb140874ad" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_7561e20d99e403c28bf476375b2beaa7" parent="aspace_1c0f4452bc9b420f2a3a07cb140874ad" type="Folder">35</container>
-        </did>
-      </c>
-      <c id="aspace_be4da5945ecc081f9d6ce3bdf810fba3" level="file">
-        <did>
-          <unittitle>Gluck, '68, '69, '70</unittitle>
-          <unitdate datechar="creation" normal="1961/1972" type="inclusive">1961-1972</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_ff7624b0992613822fd85c9ce27e4e67" label="Mixed Materials [31142054864213]" type="Box">2</container>
-          <container id="aspace_a5d9f520566d7e52c8abfca43f28d1dc" parent="aspace_ff7624b0992613822fd85c9ce27e4e67" type="Folder">36</container>
-        </did>
-      </c>
-      <c id="aspace_bd0677027481a795c12c9008308203bb" level="file">
-        <did>
-          <unittitle>Pictorial Review</unittitle>
-          <unitdate datechar="creation" normal="1929/1929">1929</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Flat Box - 12 x 16" id="aspace_736f05722ef6e3e5822a0a0272e48524" label="Mixed Materials [31142054873529]" type="Box">Shared Fales 002 </container>
-          <container id="aspace_8c7d6d731ecbb534c49713fa277a68d7" parent="aspace_736f05722ef6e3e5822a0a0272e48524" type="Folder">22</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Aley, Maxwell</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="dnr" rules="dacs" source="local">Aley, Maxwell Parkhurst </persname>
+    </origination>
+    <unitid>MSS.066</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+      <extent altrender="carrier">in 2 record cartons, 1 card box, and 1 oversize flat box</extent>
+    </physdesc>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1928/1990" type="inclusive">1928-1990</unitdate>
+    <unitdate datechar="creation" normal="1942/1974" type="bulk">1942-1974</unitdate>
+    <abstract id="aspace_9c22fcc2a60f110a38ab93e1dd4e20ff">Maxwell Aley (1889-1953) was an American writer, editor, publisher, and literary agent. After graduating from Indiana University, Aley began his career as editor of the "Daily Commercial" in Bangor, Maine. He held numerous positions as an editor at several magazines and publishing companies and eventually joined his wife, Ruth, as partner at the agency she established in New York City. This collection documents Aley's career and the endeavors of the Aley family's literary agency after his death, ranging from 1928 to 1990.  Materials include correspondence, manuscripts, contracts, lists, publications, a few photographs, and one audiocassette.</abstract>
+    <physloc id="aspace_265736871fcae0e9ec308ce049d57881">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_fdc5d32f32424848a0078828d2d0dc4c">Materials are primarily in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_b52f5fbc015744e88dc98ab959208917">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_c420c8c9a435c7892a6a2cabd3230f02">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Maxwell Parkhurst Aley in 1997. The accession number associated with this gift is 0.066.</p>  </acqinfo>
+  <arrangement id="aspace_0fcab1da5556518ab43ce67d9cf5d58c">
+    <head>Arrangement</head>
+<p>The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_183eaca58d9c3ff74dc951a76bdd2e4d">
+    <head>Biographical / Historical</head>
+<p>Maxwell Aley, an American writer, editor, publisher, and literary agent, was born September 21, 1889 in Indiana and died July 16, 1953 in New York. Aley grew up in Indiana and attended Indiana University. His first job was in Bangor, Maine at the "Daily Commercial" where he became managing editor in 1915. That same year he married Ruth Emeilie Tracy Parkhurst. They had two children, Maxwell Parkhurst Aley and Robert Jonathan Aley, who would both become partners in the Aley family's literary agency. Aley held numerous positions as an editor at several magazines and publishing companies in Maine and New York, and eventually left Longmans, Green and Company to join his wife, Ruth, as a parter in the agency she had already established. He was a co-founder of the American and International P.E.N. (Poets, Playwrights, Editors, and Novelists) Clubs, and an active member of the Society of Authors' Representatives, the Authors' League, the National Arts Club, and Phi Beta Kappa National Scholastic Honor Society.</p>  </bioghist>
+  <custodhist id="aspace_66c6f5c657e0479f5a8f197f0b0adf17">
+    <head>Custodial History</head>
+<p>Materials were donated to the University of Wyoming American Heritage  Center by Ruth Aley in 1991. Maxwell Parkhurst Aley transferred the materials from the University of Wyoming American Heritage Center and donated them to New York University in 1997.</p>  </custodhist>
+  <phystech id="aspace_03b481cbf7810dea69a49f06865820be">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <prefercite id="aspace_fb5d69db992d99564f0309c5b56b4bd6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Maxwell Aley papers; MSS 066; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_4ca53ae5c03dc594331aa760dc23e32f">
+    <head>Processing Information</head>
+<p>Materials were placed in new acid-free folders. Original order and folder titles were retained. One audiocassette was rehoused in an appropriate case and photographs were placed in photo sleeves or mylar.</p>  </processinfo>
+  <scopecontent id="aspace_c0bad0bf673fd7f7078a2559c2003722">
+    <head>Scope and Contents</head>
+<p>This collection consists of materials that document Maxwell Aley's early career as a writer, editor, publisher, and literary agent beginning in 1929 and the business endeavors of the Aley family's literary agency up to 1990. Materials include correspondence, manuscripts, contracts, lists, publications, a few photographs, and one audiocassette.</p>  </scopecontent>
+  <userestrict id="aspace_6ab6c653838124b6ae373cfeb5cdc854">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Maxwell and Ruth Aley, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Literary agents.</subject>
+    <subject source="lcsh">Literary editors.</subject>
+    <subject source="lcsh">Authors, American -- 20th century.</subject>
+    <subject source="lcsh">Authors, American -- 20th century -- Correspondence</subject>
+    <subject source="lcsh">Authors and publishers -- New York (State) -- New York -- 20th century.</subject>
+    <subject source="lcsh">Editors -- New York (State) -- New York</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Manuscripts</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Publications (documents)</genreform>
+    <genreform source="aat">Contracts</genreform>
+    <persname rules="dacs" source="local">Aley, Maxwell</persname>
+    <persname source="naf">Gluck, Jay</persname>
+    <persname source="naf">Maxwell, Nicole</persname>
+    <persname source="naf">Aley, Ruth</persname>
+  </controlaccess>
+  <dsc><c id="aspace_234465d37e8721aef79ef33d51438b97" level="file"><did><unittitle>New Frontiers in Medicine</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_85e5b4fdf8e633722d404e0263d6a694" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_2dfc4893fe4cc61ef0aa8d80bdec7b22" parent="aspace_85e5b4fdf8e633722d404e0263d6a694" type="Folder">1</container></did></c><c id="aspace_1c053953a351ef2e536db9786847b214" level="file"><did><unittitle>Health '62 - '69</unittitle><unitdate datechar="creation" normal="1962/1966" type="inclusive">1962-1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_361d7638e78b6bd482cfd171c4f0e82a" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_3553fcd108b27ececa1408d4cba18ffb" parent="aspace_361d7638e78b6bd482cfd171c4f0e82a" type="Folder">2</container></did></c><c id="aspace_bf30e7cb37056e64951f89c5eb259920" level="file"><did><unittitle>Gluck, Zen</unittitle><unitdate datechar="creation" normal="1962/1964" type="inclusive">1962-1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_58d759d410eb03a69e7a8bc887737963" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_8a80fa3c4117b7d18de2a5da922ea868" parent="aspace_58d759d410eb03a69e7a8bc887737963" type="Folder">3</container></did></c><c id="aspace_00f7e31c3cab0e0507b2c7b54b3dcd92" level="file"><did><unittitle>Burford publicity reviews</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_718410f28756f08a7a5fd500dbf889cc" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_4b4847cd670542204aa47cbfd943b346" parent="aspace_718410f28756f08a7a5fd500dbf889cc" type="Folder">4</container></did></c><c id="aspace_e7432b66fd3c2836700f3946dd336bbd" level="file"><did><unittitle>Wyo [sic] make copies</unittitle><unitdate datechar="creation" normal="1939/1973" type="inclusive">1939-1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_955deef964fa2507089f8b0a3c486363" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_4b9400f88cd679fe197b35ff34ef2369" parent="aspace_955deef964fa2507089f8b0a3c486363" type="Folder">5</container></did></c><c id="aspace_daf6113bcf20febd05a97fbcff31596e" level="file"><did><unittitle>Royalty records: active clients</unittitle><unitdate datechar="creation" normal="1971/1987" type="inclusive">1971-1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e8e78162dc1a7db5bf4bd0cb1551543c" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_7952b7c9245f5e4c587e04cecbe2a943" parent="aspace_e8e78162dc1a7db5bf4bd0cb1551543c" type="Folder">6</container></did></c><c id="aspace_cff91a4dba77d5f5c0f86c98b9a4ff73" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1986/1986">1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c32b8167930c2458e92c8a1ac924da3c" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_b0e8c8fee123ccc84e96a23ccbe13dfb" parent="aspace_c32b8167930c2458e92c8a1ac924da3c" type="Folder">7</container></did></c><c id="aspace_165358426c45ffd46cc3196f8ff107ba" level="file"><did><unittitle>Publicity</unittitle><unitdate datechar="creation" normal="1962/1983" type="inclusive">1962-1983</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7c688af76501780c3a9fe94ab0109ea5" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_26277803a25c5a4219e1fba18148f796" parent="aspace_7c688af76501780c3a9fe94ab0109ea5" type="Folder">8</container></did></c><c id="aspace_ba7d4eb4b19f81f9ffe6899b50bb516c" level="file"><did><unittitle>Ruth Aley: answer</unittitle><unitdate datechar="creation" normal="1956/1988" type="inclusive">1956-1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f75bb4374f0c798527aa7f7d2fff4347" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_bc1316a68d724e4ccbeeebe4e8daf36b" parent="aspace_f75bb4374f0c798527aa7f7d2fff4347" type="Folder">9</container></did></c><c id="aspace_63186838fed0c1242be26da6a49fe6c9" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1982/1990" type="inclusive">1982-1990</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_de5edce3a22d832cfad7d815d232e7b3" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_065d3d9643150c4e04238ed56f4a6c4e" parent="aspace_de5edce3a22d832cfad7d815d232e7b3" type="Folder">10</container></did><c id="aspace_883fbad4a2006b0c33556a3df5bba097" level="item"><did><unittitle>Bert Stiles-Bauer [audiocassette]</unittitle><unitdate datechar="creation" normal="1983/1983">1983</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Card Box 5.75" id="aspace_e94ec089cb1b15c5eda9835af40a1e84" label="Audio [31142063425915]" type="Box">Shared Fales 006</container></did></c></c><c id="aspace_a437fd0d1138d4f121a2c43c1cadd980" level="file"><did><unittitle>Biographical information</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_45219ff2551c456ddf4e832b7579406e" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_153627694ae5c7793f0bea293d834b67" parent="aspace_45219ff2551c456ddf4e832b7579406e" type="Folder">11</container></did></c><c id="aspace_e4611f06abf8d5da76cf92ebf5049028" level="file"><did><unittitle>Williamson Archer</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4972fb397158b3e21c27e55adf2dbb16" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_c84f1db1a1dd04901430d837d38caf95" parent="aspace_4972fb397158b3e21c27e55adf2dbb16" type="Folder">12-13</container></did></c><c id="aspace_66d83fae58e2228eb391c44196e9401e" level="file"><did><unittitle>"1990"</unittitle><unitdate datechar="creation" normal="1967/1987" type="inclusive">1967-1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6d4ab85274016fb7fb7dffa3c77e61dc" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_e4f73853383b7c1d286a1d60a8477e86" parent="aspace_6d4ab85274016fb7fb7dffa3c77e61dc" type="Folder">14</container></did></c><c id="aspace_4d8b85a5ee8ae45b31be87812823ca4f" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1933/1987" type="inclusive">1933-1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6f6b45f07c1f1e7f9cc3178d9bc5557d" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_3dc15bf002e7b452457d59e5cf4bd88a" parent="aspace_6f6b45f07c1f1e7f9cc3178d9bc5557d" type="Folder">15-16</container></did></c><c id="aspace_a52ffce6dfe24020e5b65deb3f104365" level="file"><did><unittitle>Bambino Goes West by Andrew S. Wing</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3c99e88d03866cec4aee3be96f049f28" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_557886aa266168f85507b0fbbde776dd" parent="aspace_3c99e88d03866cec4aee3be96f049f28" type="Folder">17</container></did></c><c id="aspace_6afa6d4828577a70da10343af3ad2029" level="file"><did><unittitle>Maria Kuncewicz [sic]</unittitle><unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7e53be78bc450023a9b895b1ab41be16" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_3c67505466177e5aabe00c8688da45cd" parent="aspace_7e53be78bc450023a9b895b1ab41be16" type="Folder">18</container></did></c><c id="aspace_0069ab751334c632fb75c93b101ad213" level="file"><did><unittitle>Jay Gluck</unittitle><unitdate datechar="creation" normal="1956/1962" type="inclusive">1956-1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_bfe0d05403606a24b676fc302b5a22cf" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_05caf4b29ab5f54e0b976c4d46d9a108" parent="aspace_bfe0d05403606a24b676fc302b5a22cf" type="Folder">19</container></did></c><c id="aspace_7d5572af126ffdca95b2e822ef3543f1" level="file"><did><unittitle>Gluck: '63, '64, '65, '66, '67</unittitle><unitdate datechar="creation" normal="1961/1967" type="inclusive">1961-1967</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4b12eb3495a82a8eb747399b9d4461f2" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_ceeff3ca3c452df343f38702066ec651" parent="aspace_4b12eb3495a82a8eb747399b9d4461f2" type="Folder">20</container></did></c><c id="aspace_bac214eef71842c17211eea642c9c4d1" level="file"><did><unittitle>Gluck = J.S.O. [sic] 1969</unittitle><unitdate datechar="creation" normal="1960/1971" type="inclusive">1960-1971</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8db18fbe64c6bf8812f1712eb49a94a1" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_bccf0fdaf244aec784808e210c973452" parent="aspace_8db18fbe64c6bf8812f1712eb49a94a1" type="Folder">21</container></did></c><c id="aspace_4ca408f4d735dc874fae0336bf55577f" level="file"><did><unittitle>Legal agreements for authors</unittitle><unitdate datechar="creation" normal="1957/1965" type="inclusive">1957-1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f047409699729ffa3ef0c6de79c7166f" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_447862d73e8999441b42bc997b929482" parent="aspace_f047409699729ffa3ef0c6de79c7166f" type="Folder">22</container></did></c><c id="aspace_53eabaecfa083137e00fe8fd53663488" level="file"><did><unittitle>Contracts: Mary Jack Wald</unittitle><unitdate datechar="creation" normal="1946/1946">1946, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1aa103daff3af5fc86222b026b037e2d" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_c5620db4072acbbbf3fc153a246324d4" parent="aspace_1aa103daff3af5fc86222b026b037e2d" type="Folder">23</container></did></c><c id="aspace_efb7aa0453a5b1740526bef835953bb8" level="file"><did><unittitle>Author-agent contracts</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e31ca27189a23cdf51ce591204109524" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_845cd9f0961d21d168f99ce90d6cfe60" parent="aspace_e31ca27189a23cdf51ce591204109524" type="Folder">24</container></did></c><c id="aspace_b8bf84efb1f1448e80439d3bdbdd523c" level="file"><did><unittitle>Daisy Newman</unittitle><unitdate datechar="creation" normal="1944/1954" type="inclusive">1944-1954</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8c7464cb4521111e9a7a5fddeeb02db5" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_be822fdcd09753dc81ebad34dc3fc9b6" parent="aspace_8c7464cb4521111e9a7a5fddeeb02db5" type="Folder">25</container></did></c><c id="aspace_27fa4d4119909590b1453e800c1ab588" level="file"><did><unittitle>B</unittitle><unitdate datechar="creation" normal="1951/1974" type="inclusive">1951-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_588fa1c93e4673e008f80a79205921f9" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_715c57ace6bad499fd1333a5de9328a6" parent="aspace_588fa1c93e4673e008f80a79205921f9" type="Folder">26</container></did></c><c id="aspace_d39da63fd9b88dd0e258fb6abd8c9f5e" level="file"><did><unittitle>Correspondence and manuscripts</unittitle><unitdate datechar="creation" normal="1942/1948" type="inclusive">1942-1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_77c9601a99aa7076d3f4ed346dadfe39" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_97bb54a1635942034a5e94a3471a537a" parent="aspace_77c9601a99aa7076d3f4ed346dadfe39" type="Folder">27</container></did></c><c id="aspace_218397af9bf24a043f64fc3155a39ecb" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1928/1968" type="inclusive">1928-1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a29b62aacb98299c6f843e564064baf7" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_e9dbc15e5fbdf64fed6d4d9a013755b5" parent="aspace_a29b62aacb98299c6f843e564064baf7" type="Folder">28-29</container></did></c><c id="aspace_2db4c1b956bf8e24a91ba7dae52fde2f" level="file"><did><unittitle>S</unittitle><unitdate datechar="creation" normal="1944/1972" type="inclusive">1944-1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_762fbe6acb93b95886e268fd0c58bd45" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_6763658f5ef7c3e2627c3c84c01762c9" parent="aspace_762fbe6acb93b95886e268fd0c58bd45" type="Folder">30</container></did></c><c id="aspace_b196f0407d0cea71ada2ab15f5ec4479" level="file"><did><unittitle>Manuscripts</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1ce79dab57bef4d9eba94606a51481a6" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_18fa55512e14a8d53c2e1ec17ffdf5e6" parent="aspace_1ce79dab57bef4d9eba94606a51481a6" type="Folder">31</container></did></c><c id="aspace_2036c3085c2a6d708d5dd5c0f90369a5" level="file"><did><unittitle>Partridge, Bellamy</unittitle><unitdate datechar="creation" normal="1952/1958" type="inclusive">1952-1958</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d6bf749a3bfedd2c0bc8347c7321decb" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_dd9d8112fcdb5aaaf8dea6cc2f885a22" parent="aspace_d6bf749a3bfedd2c0bc8347c7321decb" type="Folder">32</container></did></c><c id="aspace_c94026e88a43bdeba0ff462824db9683" level="file"><did><unittitle>Marjorie Holmes</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3e83e3f8ff59f490b9f6a48122906d51" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_508d0eb321551ab0b4472925c31e52e5" parent="aspace_3e83e3f8ff59f490b9f6a48122906d51" type="Folder">33</container></did></c><c id="aspace_7ddd3ce9efb15b9f1e39d025813dde64" level="file"><did><unittitle>Manuscripts</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_34be76ffee2a232ef1a9b1a1c701903d" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_ab03b9c6b4a17c986d58f4570497eba7" parent="aspace_34be76ffee2a232ef1a9b1a1c701903d" type="Folder">34</container></did></c><c id="aspace_7aa67767765e14c53cbcb50d1a476f0a" level="file"><did><unittitle>1971 Log Book</unittitle><unitdate datechar="creation" normal="1971/1981" type="inclusive">1971-1981</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_830906b0753da15971c5d730cde15b8f" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_b92c7d8706e34f8080efeda84d93b0e0" parent="aspace_830906b0753da15971c5d730cde15b8f" type="Folder">35</container></did></c><c id="aspace_6601735237b74a57914b09014349d61d" level="file"><did><unittitle>"You're Not Tough" by Maxwell Aley</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_094be1925bab3858cacc1382da16b2d7" label="Mixed Materials [31142054864205]" type="Box">1</container><container id="aspace_f49f20c424199e069a7427cff1690129" parent="aspace_094be1925bab3858cacc1382da16b2d7" type="Folder">36</container></did></c><c id="aspace_8d9b7dd51d5e75167fb60c3d86a1adcf" level="file"><did><unittitle>Good Housekeeping</unittitle><unitdate datechar="creation" normal="1926-08/1926-08">1926-08</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_82ba148d37d71fbaefd50aa011042997" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_aac72acc82843c3e6508853519d628a9" parent="aspace_82ba148d37d71fbaefd50aa011042997" type="Folder">1</container></did></c><c id="aspace_0bf1a16c18b7eb50b8079ff7b4da78ad" level="file"><did><unittitle>Bert Stiles + [Dan] Baur</unittitle><unitdate datechar="creation" normal="1941/1973" type="inclusive">1941-1973</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f18aa1f3dba6479cb3ed0188e8ff8414" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_400a9bcbce5f28edf24df87fe6156614" parent="aspace_f18aa1f3dba6479cb3ed0188e8ff8414" type="Folder">2-3</container></did></c><c id="aspace_249891770c7e0c1d47bf26044e0120ef" level="file"><did><unittitle>Riki Stevens</unittitle><unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_32180fe9c41b1514d69f3166c8c83c23" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_2957d631dfa34e23b1102ebc5f4cbab7" parent="aspace_32180fe9c41b1514d69f3166c8c83c23" type="Folder">4</container></did></c><c id="aspace_3d08250837ae9f81e768919c8b3c578b" level="file"><did><unittitle>Ferguson - Bolt: foreign, England '78</unittitle><unitdate datechar="creation" normal="1973/1978" type="inclusive">1973-1978</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_534a0f8f8d42f018c82ebb7032f46011" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_671e6e37c4421ea2ea21c3693a82e7a5" parent="aspace_534a0f8f8d42f018c82ebb7032f46011" type="Folder">5</container></did></c><c id="aspace_aa6f55695672e61b05fe5a642dfc5f39" level="file"><did><unittitle>Aley, Maxwell</unittitle><unitdate datechar="creation" normal="1927/1939" type="inclusive">1927-1939</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3a9ca45ef0f08257232815d09ac67a12" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_cc1797370ce72a6f33df6a8c92071a4e" parent="aspace_3a9ca45ef0f08257232815d09ac67a12" type="Folder">6</container></did></c><c id="aspace_298c3c3a2bbb8dd7d3c316efdcdc5d46" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1989/1989">1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_685c1b1f610a9fcd49966e7cc5a499ea" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_31811720b442ffa5b4ae577a073b6d6b" parent="aspace_685c1b1f610a9fcd49966e7cc5a499ea" type="Folder">7</container></did></c><c id="aspace_7aecdb0afe43717d1aedc5b82cffcef8" level="file"><did><unittitle>Maxwell Aley - autographed letters</unittitle><unitdate datechar="creation" normal="1921/1936" type="inclusive">1921-1936</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e5cd9bcc982a47bfa571881a83164e92" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_0ea2688007584fa07777986f77dfe0b2" parent="aspace_e5cd9bcc982a47bfa571881a83164e92" type="Folder">8</container></did></c><c id="aspace_77bac0b93530de48fa5aa95da2e9312f" level="file"><did><unittitle>Maxwell Aley Associates</unittitle><unitdate datechar="creation" normal="1929/1975" type="inclusive">1929-1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7a0a49e91bbfc0f4083b936f40ea5a21" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_f8f48231b9b4ee1fd414fdacf9305962" parent="aspace_7a0a49e91bbfc0f4083b936f40ea5a21" type="Folder">9</container></did></c><c id="aspace_c55ceee9c91ffaa68b0a90828a8c1bf2" level="file"><did><unittitle>C. Jonas</unittitle><unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4631d009ce5c3501c1c9a7697bde9672" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_26e47074b1d8a6253d6eff586df83709" parent="aspace_4631d009ce5c3501c1c9a7697bde9672" type="Folder">10</container></did></c><c id="aspace_169db54589b89fe5d6721fb9d3c51633" level="file"><did><unittitle>Maxwell Aley Anthology of War Stories</unittitle><unitdate datechar="creation" normal="1947/1957" type="inclusive">1947-1957</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_551bfe21b0a1c60d034df57f4133d1f3" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_19beac22a8677c789647bbc61046a37e" parent="aspace_551bfe21b0a1c60d034df57f4133d1f3" type="Folder">11</container></did></c><c id="aspace_46931aa3126a5215f6b0e1daa0513246" level="file"><did><unittitle>M. Aley</unittitle><unitdate datechar="creation" normal="1927/1951" type="inclusive">1927-1951</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c99e43962dc141fcc8811c2ced27861c" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_3d8d94f4d9d70dca2fe2f3a46e791aa5" parent="aspace_c99e43962dc141fcc8811c2ced27861c" type="Folder">12</container></did></c><c id="aspace_b3cef9a642854ae6b99381419ebb54c8" level="file"><did><unittitle>David Bolt - general</unittitle><unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0516dfdae3228bccf776a178024a5a95" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_f6be84bf8411e7ac4c46a650745e9362" parent="aspace_0516dfdae3228bccf776a178024a5a95" type="Folder">13</container></did></c><c id="aspace_81f04a8a62c5dd2b8bad167c4e094c10" level="file"><did><unittitle>Maxwell Aley  American biography</unittitle><unitdate datechar="creation" normal="1953/1953">1953</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_bb721d10c13a2b1a731d9ca29d1744be" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_47f93c83630f39f9a30641535615de0d" parent="aspace_bb721d10c13a2b1a731d9ca29d1744be" type="Folder">14</container></did></c><c id="aspace_11b2f55b76d4c534bfb818452c91a61d" level="file"><did><unittitle>Good Housekeeping</unittitle><unitdate datechar="creation" normal="1927-07/1927-07">1927-07</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3f5200684634fc1e80710cc9684a8159" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_3d3a3e7f67c0197627cf050e9d67a3e2" parent="aspace_3f5200684634fc1e80710cc9684a8159" type="Folder">15</container></did></c><c id="aspace_09c24d58cb395a1b85e62a1a0fb5f62c" level="file"><did><unittitle>N. Sullivan</unittitle><unitdate datechar="creation" normal="1965/1983" type="inclusive">1965-1983</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cf8aba04d653c5795beb43fbe52e488e" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_de53e1c4520e1e7ac7f2af06168ed6b8" parent="aspace_cf8aba04d653c5795beb43fbe52e488e" type="Folder">16</container></did></c><c id="aspace_0234d08c151bdb444d96a0b6e99777db" level="file"><did><unittitle>Nicole Maxwell: magazines</unittitle><unitdate datechar="creation" normal="1958/1974" type="inclusive">1958-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2be71adc136acffa2bdd812eae6c6a0c" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_f13deed9f0016e87e7335caa2fb9b5aa" parent="aspace_2be71adc136acffa2bdd812eae6c6a0c" type="Folder">17</container></did></c><c id="aspace_9a69f934bb3eb07a21d1eaf90f25c253" level="file"><did><unittitle>Nicole Maxwell: publications, etc.</unittitle><unitdate datechar="creation" normal="1952/1987" type="inclusive">1952-1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_68ed1fdbc4b51c80c284eca9c9d847f2" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_ac4d3c1f4b2e5cee9d4ef78aefc092c1" parent="aspace_68ed1fdbc4b51c80c284eca9c9d847f2" type="Folder">18-19</container></did></c><c id="aspace_c5ac00993add0df63e881483f18f2f49" level="file"><did><unittitle>Stiles, Bert</unittitle><unitdate datechar="creation" normal="1940/1942" type="inclusive">1940-1942</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_715b749648a5666714b697123cc9e95b" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_bd8de32fc28f2be68e952570d75553e5" parent="aspace_715b749648a5666714b697123cc9e95b" type="Folder">20</container></did></c><c id="aspace_2f2712bbf499eb11e7f14c0f923674e6" level="file"><did><unittitle>Manuscript page</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5fcdc3780e534008161a89f8061be926" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_c04320112212efdc9be3732972b5db1b" parent="aspace_5fcdc3780e534008161a89f8061be926" type="Folder">21</container></did></c><c id="aspace_9eb8dc14a8873700c3b7391e267f1fac" level="file"><did><unittitle>Cocannoer, Joseph</unittitle><unitdate datechar="creation" normal="1956/1959" type="inclusive">1956-1959</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_967b49b3d31ac22b50ca9a0c035e662f" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_ef4096b2d29a23446a3a5738e711a67f" parent="aspace_967b49b3d31ac22b50ca9a0c035e662f" type="Folder">22</container></did></c><c id="aspace_2010d1098f98054267a6eaf2bbff8196" level="file"><did><unittitle>J.A. Brown</unittitle><unitdate datechar="creation" normal="1950/1960" type="inclusive">1950-1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d9a39cbee71005b97f771dee6b478e74" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_4f405e4e7ebed7dc5969d260e21a8a6a" parent="aspace_d9a39cbee71005b97f771dee6b478e74" type="Folder">23</container></did></c><c id="aspace_5547f5060b836181caaa4f88d3cdf78d" level="file"><did><unittitle>Survey - Gluck</unittitle><unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7d47a1beb5b80bce7648b7d2f530ee78" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_f212e4add0b21bf724a42192c441241c" parent="aspace_7d47a1beb5b80bce7648b7d2f530ee78" type="Folder">24</container></did></c><c id="aspace_af8d3a462b6d7758b6bb375f52fd78ea" level="file"><did><unittitle>Maria Kuncewiczowa</unittitle><unitdate datechar="creation" normal="1961/1982" type="inclusive">1961-1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_aaba71ce25c7150318b041be8d44abf9" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_827c55bd4669b5a4c359cf88834a64c4" parent="aspace_aaba71ce25c7150318b041be8d44abf9" type="Folder">25</container></did></c><c id="aspace_b6665ae7fa54bffd673ae08302086cdf" level="file"><did><unittitle>Ukiya-Gluck</unittitle><unitdate datechar="creation" normal="1962/1968" type="inclusive">1962-1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_75344fb67968629fe5641e3f2452dd4b" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_fbf9bb7b7f5fa767ef08d1d684f2b944" parent="aspace_75344fb67968629fe5641e3f2452dd4b" type="Folder">26</container></did></c><c id="aspace_2f522bf9d1e169e3f067c2c76cf6c61c" level="file"><did><unittitle>Publishers</unittitle><unitdate datechar="creation" normal="1976/1989" type="inclusive">1976-1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_814412a37af324582aba35a6d8535805" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_0d27d2567c7dbf93f0d0a78012069e29" parent="aspace_814412a37af324582aba35a6d8535805" type="Folder">27</container></did></c><c id="aspace_bc9c0b7a26ed42bc003721586805e587" level="file"><did><unittitle>Olema, California</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_12d7945a2f089ade7363325f06ad5cc1" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_cb08fd11a0f8885e0b8f5b1e4670c239" parent="aspace_12d7945a2f089ade7363325f06ad5cc1" type="Folder">28</container></did></c><c id="aspace_6408d6bb13e8896dba86ce468537d022" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_00cd3294ffc800254aedd7ebce8d0928" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_c7c2f58047be89e127607ae2192bdb41" parent="aspace_00cd3294ffc800254aedd7ebce8d0928" type="Folder">29</container></did></c><c id="aspace_adb65a1a7022f94bba2e29daacd6aec9" level="file"><did><unittitle>Joe Durso</unittitle><unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_23fa0d8bacd85d917611be16284681b6" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_181ed3c2cfb9d4b38316aa59427f7c81" parent="aspace_23fa0d8bacd85d917611be16284681b6" type="Folder">30</container></did></c><c id="aspace_b77a1722b2050b45f3bb27c01b608ab1" level="file"><did><unittitle>Lists</unittitle><unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7e328f8d8d47577acf2171b7a52b3850" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_96e0280ffb96932335e6200de2258fbe" parent="aspace_7e328f8d8d47577acf2171b7a52b3850" type="Folder">31</container></did></c><c id="aspace_21e318bc037f6d12cda35d34c424f1c4" level="file"><did><unittitle>Iran-Gluck</unittitle><unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6dd358d7556e30e2be88270c20f95bd9" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_3f097e961eea1dd8f6a34504c27c1412" parent="aspace_6dd358d7556e30e2be88270c20f95bd9" type="Folder">32</container></did></c><c id="aspace_7b919e1b71495cdb794437dd98d60145" level="file"><did><unittitle>Submissions and sales</unittitle><unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_404fa3a1bfecd416f2cdf3b88eddaf20" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_cf3f2610449ab34863e381fbba0c67b5" parent="aspace_404fa3a1bfecd416f2cdf3b88eddaf20" type="Folder">33-34</container></did></c><c id="aspace_4ca19c3d9244f2ec9bfc4618f3f2c5d9" level="file"><did><unittitle>Pope [Arthur Upham Pope]</unittitle><unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f46f15206254b0e3d82dcdbb736f0a49" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_62e0a69fd31cd49fff723668501a1c6f" parent="aspace_f46f15206254b0e3d82dcdbb736f0a49" type="Folder">35</container></did></c><c id="aspace_be4da5945ecc081f9d6ce3bdf810fba3" level="file"><did><unittitle>Gluck, '68, '69, '70</unittitle><unitdate datechar="creation" normal="1961/1972" type="inclusive">1961-1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5b79fa9ea99b005260ce1a98b7ddd5e1" label="Mixed Materials [31142054864213]" type="Box">2</container><container id="aspace_5f8a28cee4a8793598f6bad851460cb7" parent="aspace_5b79fa9ea99b005260ce1a98b7ddd5e1" type="Folder">36</container></did></c><c id="aspace_bd0677027481a795c12c9008308203bb" level="file"><did><unittitle>Pictorial Review</unittitle><unitdate datechar="creation" normal="1929/1929">1929</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 12 x 16" id="aspace_28296f85e1641d992e16767edafd6bc4" label="Mixed Materials [31142054873529]" type="Box">Shared Fales 002 </container><container id="aspace_3048ddeab68655a16f56901b49916e69" parent="aspace_28296f85e1641d992e16767edafd6bc4" type="Folder">22</container></did></c></dsc>
+</archdesc>
 </ead>

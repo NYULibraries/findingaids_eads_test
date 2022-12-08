@@ -1,155 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid_boxlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_671">tam_671</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Daniel J. Walkowitz Papers <num>TAM.671</num></titleproper>
-        <author>Heather Mulliner</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>6/30/2016</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:27:14 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Daniel J. Walkowitz Papers</unittitle>
-      <origination label="Creator">
-        <persname role="dnr" rules="dacs" source="naf">Walkowitz, Daniel J.</persname>
-      </origination>
-      <unitid>TAM.671</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">6.5 Linear Feet</extent>
-        <extent altrender="carrier">in 5 record cartons and 3 manuscript boxes</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1967/2007" type="inclusive">1967-2007</unitdate>
-      <abstract id="aspace_f498fef25aabf56d941ae81e0fca4b60">Daniel J. Walkowitz is a professor Emeritus of history and metropolitan studies at New York University who specializes in labor history, urban history, and public history. His papers contain research files related to his books <emph render="italic">Working with Class</emph> and <emph render="italic">City Folk</emph>, as well as scripts, grant proposals, correspondence, and recordings related to several historical films Walkowitz produced.  The collection also contains a small amount of Walkowitz's teaching materials which consist of syllabi, course lists, lecture notes, and files related to departmental programs.</abstract>
-      <physloc id="aspace_c1a5e532459da5463123d753d9dcb0fb">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_79145af0f1b1a4d1bfa7b3ca928566f3">Materials are in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_af6cf41759f35dc0ef7fe63a764da53b">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restriction with the exception of student records in box 8. Access to box 8 is restricted.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_340b092758deff677e83a06d8ed09874">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Daniel J. Walkowitz in 2015. The accession number associated with this gift is 2015.029.</p>
-    </acqinfo>
-    <arrangement id="aspace_3cba0a747e67c1929784ce835b18183b">
-      <head>Arrangement</head>
-      <p>Materials in this collection have been maintained in the arrangement established by the creator. Three distinct groupings related to the different aspects of Walkowitz's work as an historian have been identified: research files, public history films and televisions programs, and teaching materials.</p>
-    </arrangement>
-    <bioghist id="aspace_43642bf2df171b1ddc6b1e75bb477699">
-      <head>Historical/Biographical Note</head>
-      <p>Daniel J. Walkowitz is a professor Emeritus of history and metropolitan studies at New York University. He received his doctorate from the University of Rochester in 1972 where he studied under labor historian Herbert Gutman. He began teaching history at New York University in 1978 specializing in labor history, urban history, and public history. He co-founded NYU's graduate public history program in 1981 and also headed the undergraduate program in metropolitan studies. Combing history with an interest in filmmaking, Walkowitz co-directed several historical documentaries and dramatizations for PBS with NYU media studies Professor Barbara Abrash, including <emph render="italic">The Molders of Troy</emph>, which drew upon Walkowitz's doctoral research and his 1978 book, <emph render="italic">Worker City, Company Town</emph>. His other books include <emph render="italic">Workers of the Donbass Speak: Survival and Identity in the New Ukraine</emph>, with Lewis H. Siegelbaum, 1995;  <emph render="italic">Working with Class: Social Workers and the Politics of Middle Class Identity</emph>, 1999; and <emph render="italic">City Folk: English Country Dance and the Politics of the Folk in Modern America</emph>, 2010.  He adapted <emph render="italic">City Folk</emph> into a documentary in 2014.</p>
-    </bioghist>
-    <prefercite id="aspace_0f4b36e39711b8abe6ac292190a2ff3e">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Daniel J. Walkowitz Papers; TAM 671; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_b38959bd578d0314ecb17b7893be4380">
-      <head>Processing Information</head>
-      <p>At the time of accessioning materials in this collection were moved into archival boxes, but original folders have been maintained. Materials have largely been retained in the order in which they were received. Several groupings of files, which were spread across several boxes, were reunited upon rehousing when a clear original order that had been disrupted was apparent.</p>
-    </processinfo>
-    <scopecontent id="aspace_76e76dfe32d46ee82aaed9d3c3673816">
-      <head>Scope and Content Note</head>
-      <p>The Daniel J. Walkowitz Papers (dates 1967-2007) contain papers and video recordings related to the academic work and public history projects of historian and New York University professor Daniel J. Walkowitz. His papers include research files related to his book, <emph render="italic">Working with Class</emph>, concerning social work and Jewish philanthropic organizations in New York City from the 1910s to the 1960s. These files contain photocopies from archival collections of the Federation of Jewish Philanthropies, Jewish Board of Guardians, and the Social Service Employees' Union as well as newspaper clippings and secondary articles related to the topic. The files were compiled in the late 1980s and early 1990s and also contain Walkowitz's handwritten notes. Other research files in this collection relate to English folk dancing in the United States, and include transcripts of original oral history interviews, the majority of which were conducted by Walkowitz. The interviews date from 1999 and 2004, and were collected as research for his book <emph render="italic">City Folk</emph>. The collection also contains materials related to Walkowitz's historical films. These materials include copies of National Endowment for the Humanities (NEH) grant proposals, scripts, correspondence with collaborators, notes, research, and budgets. Films most prominently represented in this collection include <emph render="italic">Molders of Troy</emph>, <emph render="italic">Sisters</emph>, and <emph render="italic">Perestroika from Below</emph>, documenting iron workers in Troy, NY; class and gender in America; and a 1989 mass strike of mine workers in the Soviet Union. Walkowitz worked on these projects with his colleague Barbara Abrash from 1979 through the 1990s under the name Past Time Productions. Recordings of <emph render="italic">Molders of Troy</emph> and <emph render="italic">Perestroika from Below</emph> are included in the collection on reel-to-reel, VHS, and DVD. Additionally the collection contains a small amount of Walkowitz's teaching materials which consist of syllabi, course lists, lecture notes, and files related to departmental programs.</p>
-    </scopecontent>
-    <phystech id="aspace_0e72a10ac4bc9bb8beade9321b9b0477">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <userestrict id="aspace_9dae4041870a3359d590840ac992762d">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Daniel J. Walkowitz, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Working class -- History -- 20th century</subject>
-      <subject source="lcsh">Public history -- United States</subject>
-      <genreform source="lcsh">Historical television programs</genreform>
-      <subject source="lcsh">Historians -- United States.</subject>
-      <subject source="lcsh">Folk dancing, English</subject>
-      <subject source="lcsh">Social workers -- United States</subject>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>Research Files: Social Work</unittitle>
-          <unitdate datechar="creation" normal="1987/1996" type="inclusive">1987-1996</unitdate>
-          <container altrender="Record carton" id="aspace_492361b2a011d853956a044b170ee66b" label="Mixed Materials [31142054860450]" type="Box">1</container>
-          <container altrender="Record carton" id="aspace_3fba867b13f28d15b39494438ba78eec" label="Mixed Materials [31142054860468]" type="Box">2</container>
-          <container altrender="Record carton" id="aspace_2f1b88523a5dc56c315c7f1e69155bad" label="Mixed Materials [31142054860476]" type="Box">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Research Files: English Folk Dance and City Folk</unittitle>
-          <unitdate datechar="creation" normal="1992/2008" type="inclusive">1992-2008</unitdate>
-          <container altrender="Record carton" id="aspace_cfc9244d2eb360e434c10165c72fbc06" label="Mixed Materials [31142054860476]" type="Box">3</container>
-          <container altrender="Record carton" id="aspace_3c973d6027b16fe0e0ca16f605a06322" label="Mixed Materials [31142054860484]" type="Box">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>Public History Television Programs: Scripts and Research Materials</unittitle>
-          <unitdate datechar="creation" normal="1976/1999" type="inclusive">1976-1999</unitdate>
-          <container altrender="Record carton" id="aspace_d401a146bf8ac87ce26a7ba40a516f56" label="Mixed Materials [31142054860492]" type="Box">5</container>
-          <container altrender="Record carton" id="aspace_e2a282b00710f802be4aef7fc575d79f" label="Mixed Materials [31142054860484]" type="Box">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Public History Television Program Recordings: Molders of Troy</unittitle>
-          <unitdate datechar="creation" normal="1980/1980">1980</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f0acba3718d204b7e0b983440e0dbacb" label="videos [31142054860518]" type="Box">7</container>
-          <container id="aspace_c196c17e2d1eb89ad8fffb9e31ebddaf" parent="aspace_f0acba3718d204b7e0b983440e0dbacb" type="Cassette">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Public History Television Program Recordings: Perestroika From Below</unittitle>
-          <unitdate datechar="creation" normal="1990/2012" type="inclusive">1990, 2012</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f7c5097ec6821700d3b822368e2373db" label="film [31142054860518]" type="Box">7</container>
-          <container id="aspace_a7b9a1fc235e943a901d7d7c28eb97cb" parent="aspace_f7c5097ec6821700d3b822368e2373db" type="reel">1</container>
-          <container altrender="Manuscript box - Legal" id="aspace_b86770db04a535560f0362e4d3a76282" label="videos [31142054860518]" type="Box">7</container>
-          <container id="aspace_c283147c8c2fd43d3460d86bf43838c9" parent="aspace_b86770db04a535560f0362e4d3a76282" type="Cassette">1-2</container>
-          <container altrender="Manuscript box - Legal" id="aspace_bf12df54e2791f7b07f0dcf26b0d2cdd" label="master dvd [31142054860518]" type="Box">7</container>
-          <container id="aspace_6d0b31374d9fb4c623c24be16ee6ea8f" parent="aspace_bf12df54e2791f7b07f0dcf26b0d2cdd" type="DVD">1-3</container>
-        </did>
-        <phystech id="aspace_02474f0a59c44a820094903644e383c8">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Researchers must use access copies to view these materials. Advanced notice is required.</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Teaching and Department Files: New York University</unittitle>
-          <unitdate datechar="creation" normal="1967/2009" type="inclusive">1967-2009</unitdate>
-          <unitdate datechar="creation" normal="1980/2001" type="bulk">1980-2001</unitdate>
-          <container altrender="Record carton" id="aspace_6f336048ba0930f3a4f81b74d32d8670" label="Mixed Materials [31142054860492]" type="Box">5</container>
-          <container altrender="Manuscript box - Legal" id="aspace_0ceb9ed4e06272fc1610c5f30f769852" label="Mixed Materials [31142054860500]" type="Box">6</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid_boxlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_671">tam_671</eadid><filedesc><titlestmt><titleproper>Guide to the Daniel J. Walkowitz Papers <num>TAM.671</num></titleproper><author>Heather Mulliner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>6/30/2016</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:02:06 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Daniel J. Walkowitz Papers</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" rules="dacs" source="naf">Walkowitz, Daniel J.</persname>
+    </origination>
+    <unitid>TAM.671</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.5 Linear Feet</extent>
+      <extent altrender="carrier">in 5 record cartons and 3 manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1967/2007" type="inclusive">1967-2007</unitdate>
+    <abstract id="aspace_f498fef25aabf56d941ae81e0fca4b60">Daniel J. Walkowitz is a professor Emeritus of history and metropolitan studies at New York University who specializes in labor history, urban history, and public history. His papers contain research files related to his books <emph render="italic">Working with Class</emph> and <emph render="italic">City Folk</emph>, as well as scripts, grant proposals, correspondence, and recordings related to several historical films Walkowitz produced.  The collection also contains a small amount of Walkowitz's teaching materials which consist of syllabi, course lists, lecture notes, and files related to departmental programs.</abstract>
+    <physloc id="aspace_c1a5e532459da5463123d753d9dcb0fb">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_79145af0f1b1a4d1bfa7b3ca928566f3">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_af6cf41759f35dc0ef7fe63a764da53b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restriction with the exception of student records in box 8. Access to box 8 is restricted.</p>  </accessrestrict>
+  <acqinfo id="aspace_340b092758deff677e83a06d8ed09874">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Daniel J. Walkowitz in 2015. The accession number associated with this gift is 2015.029.</p>  </acqinfo>
+  <arrangement id="aspace_3cba0a747e67c1929784ce835b18183b">
+    <head>Arrangement</head>
+<p>Materials in this collection have been maintained in the arrangement established by the creator. Three distinct groupings related to the different aspects of Walkowitz's work as an historian have been identified: research files, public history films and televisions programs, and teaching materials.</p>  </arrangement>
+  <bioghist id="aspace_43642bf2df171b1ddc6b1e75bb477699">
+    <head>Historical/Biographical Note</head>
+<p>Daniel J. Walkowitz is a professor Emeritus of history and metropolitan studies at New York University. He received his doctorate from the University of Rochester in 1972 where he studied under labor historian Herbert Gutman. He began teaching history at New York University in 1978 specializing in labor history, urban history, and public history. He co-founded NYU's graduate public history program in 1981 and also headed the undergraduate program in metropolitan studies. Combing history with an interest in filmmaking, Walkowitz co-directed several historical documentaries and dramatizations for PBS with NYU media studies Professor Barbara Abrash, including <emph render="italic">The Molders of Troy</emph>, which drew upon Walkowitz's doctoral research and his 1978 book, <emph render="italic">Worker City, Company Town</emph>. His other books include <emph render="italic">Workers of the Donbass Speak: Survival and Identity in the New Ukraine</emph>, with Lewis H. Siegelbaum, 1995;  <emph render="italic">Working with Class: Social Workers and the Politics of Middle Class Identity</emph>, 1999; and <emph render="italic">City Folk: English Country Dance and the Politics of the Folk in Modern America</emph>, 2010.  He adapted <emph render="italic">City Folk</emph> into a documentary in 2014.</p>  </bioghist>
+  <prefercite id="aspace_0f4b36e39711b8abe6ac292190a2ff3e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Daniel J. Walkowitz Papers; TAM 671; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_b38959bd578d0314ecb17b7893be4380">
+    <head>Processing Information</head>
+<p>At the time of accessioning materials in this collection were moved into archival boxes, but original folders have been maintained. Materials have largely been retained in the order in which they were received. Several groupings of files, which were spread across several boxes, were reunited upon rehousing when a clear original order that had been disrupted was apparent.</p>  </processinfo>
+  <scopecontent id="aspace_76e76dfe32d46ee82aaed9d3c3673816">
+    <head>Scope and Content Note</head>
+<p>The Daniel J. Walkowitz Papers (dates 1967-2007) contain papers and video recordings related to the academic work and public history projects of historian and New York University professor Daniel J. Walkowitz. His papers include research files related to his book, <emph render="italic">Working with Class</emph>, concerning social work and Jewish philanthropic organizations in New York City from the 1910s to the 1960s. These files contain photocopies from archival collections of the Federation of Jewish Philanthropies, Jewish Board of Guardians, and the Social Service Employees' Union as well as newspaper clippings and secondary articles related to the topic. The files were compiled in the late 1980s and early 1990s and also contain Walkowitz's handwritten notes. Other research files in this collection relate to English folk dancing in the United States, and include transcripts of original oral history interviews, the majority of which were conducted by Walkowitz. The interviews date from 1999 and 2004, and were collected as research for his book <emph render="italic">City Folk</emph>. The collection also contains materials related to Walkowitz's historical films. These materials include copies of National Endowment for the Humanities (NEH) grant proposals, scripts, correspondence with collaborators, notes, research, and budgets. Films most prominently represented in this collection include <emph render="italic">Molders of Troy</emph>, <emph render="italic">Sisters</emph>, and <emph render="italic">Perestroika from Below</emph>, documenting iron workers in Troy, NY; class and gender in America; and a 1989 mass strike of mine workers in the Soviet Union. Walkowitz worked on these projects with his colleague Barbara Abrash from 1979 through the 1990s under the name Past Time Productions. Recordings of <emph render="italic">Molders of Troy</emph> and <emph render="italic">Perestroika from Below</emph> are included in the collection on reel-to-reel, VHS, and DVD. Additionally the collection contains a small amount of Walkowitz's teaching materials which consist of syllabi, course lists, lecture notes, and files related to departmental programs.</p>  </scopecontent>
+  <phystech id="aspace_0e72a10ac4bc9bb8beade9321b9b0477">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_9dae4041870a3359d590840ac992762d">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Daniel J. Walkowitz, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Working class -- History -- 20th century</subject>
+    <subject source="lcsh">Public history -- United States</subject>
+    <genreform source="lcsh">Historical television programs</genreform>
+    <subject source="lcsh">Historians -- United States.</subject>
+    <subject source="lcsh">Folk dancing, English</subject>
+    <subject source="lcsh">Social workers -- United States</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref10" level="file"><did><unittitle>Research Files: Social Work</unittitle><unitdate datechar="creation" normal="1987/1996" type="inclusive">1987-1996</unitdate><container altrender="Record carton" id="aspace_4c05332e5a25701eb5e8c6f51b4a76d3" label="Mixed Materials [31142054860450]" type="Box">1</container><container altrender="Record carton" id="aspace_4049bd44f8286c238f689d35fb556c50" label="Mixed Materials [31142054860468]" type="Box">2</container><container altrender="Record carton" id="aspace_870b2a37e009817cd8a2698671f2d9f2" label="Mixed Materials [31142054860476]" type="Box">3</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Research Files: English Folk Dance and City Folk</unittitle><unitdate datechar="creation" normal="1992/2008" type="inclusive">1992-2008</unitdate><container altrender="Record carton" id="aspace_05c95b03798c32c98db77d415217414b" label="Mixed Materials [31142054860476]" type="Box">3</container><container altrender="Record carton" id="aspace_cebb56924b971f6db82415d7144e87fb" label="Mixed Materials [31142054860484]" type="Box">4</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Public History Television Programs: Scripts and Research Materials</unittitle><unitdate datechar="creation" normal="1976/1999" type="inclusive">1976-1999</unitdate><container altrender="Record carton" id="aspace_d0bc807a6602873404f5f98617763cec" label="Mixed Materials [31142054860492]" type="Box">5</container><container altrender="Record carton" id="aspace_d8843d2ef4eb3a33787354c9e1fb36f6" label="Mixed Materials [31142054860484]" type="Box">4</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Public History Television Program Recordings: Molders of Troy</unittitle><unitdate datechar="creation" normal="1980/1980">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_df22cec1206948ad5c7ed461f3c4fc55" label="video [31142054860518]" type="Box">7</container><container id="aspace_236f121538d1524975b3d7dccf732d2c" parent="aspace_df22cec1206948ad5c7ed461f3c4fc55" type="Cassette">1</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Public History Television Program Recordings: Perestroika From Below</unittitle><unitdate datechar="creation" normal="1990/2012" type="inclusive">1990, 2012</unitdate><container altrender="Manuscript box - Legal" id="aspace_a1c0ea8b11dbfb609b764fd0788ab72a" label="film [31142054860518]" type="Box">7</container><container id="aspace_ea5c45bae9eb168b604be2b461ffb49b" parent="aspace_a1c0ea8b11dbfb609b764fd0788ab72a" type="reel">1</container><container altrender="Manuscript box - Legal" id="aspace_5019c199910b6d19d447051d9f85548a" label="video [31142054860518]" type="Box">7</container><container id="aspace_e0a8edbedcb2ae7dc9b014697e256e8b" parent="aspace_5019c199910b6d19d447051d9f85548a" type="Cassette">1-2</container><container altrender="Manuscript box - Legal" id="aspace_7835df3ffe96c7fdc9ae1e7be738c6b4" label="Moving Images [31142054860518]" type="Box">7</container><container id="aspace_6d4a81cccd59b6ad898a3489b2de6db4" parent="aspace_7835df3ffe96c7fdc9ae1e7be738c6b4" type="DVD">1-3</container></did><phystech id="aspace_02474f0a59c44a820094903644e383c8"><head>Physical Characteristics and Technical Requirements</head><p>Researchers must use access copies to view these materials. Advanced notice is required.</p></phystech></c><c id="aspace_ref16" level="file"><did><unittitle>Teaching and Department Files: New York University</unittitle><unitdate datechar="creation" normal="1967/2009" type="inclusive">1967-2009</unitdate><unitdate datechar="creation" normal="1980/2001" type="bulk">1980-2001</unitdate><container altrender="Record carton" id="aspace_48d951489abda6f3eda909de787f2a97" label="Mixed Materials [31142054860492]" type="Box">5</container><container altrender="Manuscript box - Legal" id="aspace_31d31c28fde67afccc57ad6edb080b0e" label="Mixed Materials [31142054860500]" type="Box">6</container></did></c></dsc>
+</archdesc>
 </ead>

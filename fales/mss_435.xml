@@ -1,341 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_435</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Pyramid Club Flyers <num>MSS.435</num></titleproper>
-        <author>Sophie Glidden-Lyon</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:49:40 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Pyramid Club Flyers</unittitle>
-      <origination label="Creator">
-        <persname role="col" rules="aacr" source="naf">Hurst, Michel</persname>
-      </origination>
-      <origination label="Creator">
-        <persname role="col" rules="aacr" source="naf">Swope, Robert, 1954-</persname>
-      </origination>
-      <unitid>MSS.435</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-        <extent altrender="carrier">(1 Document box, 2 photo binders)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1980/1990" type="inclusive">circa 1980s</unitdate>
-      <abstract id="aspace_faa921913ee192e2773cf0cd672681ec">This collection contains over 200 flyers and posters advertising performances, film screenings, dance parties, art exhibits and live readings held at the Pyramid Club in New York at 101 Avenue A. Also included is 1 box of flyers from a variety of other clubs including Danceteria, CBGB's and Club 57. The artists advertised on the Pyramid Flyers include John Sex, Lydia Lunch, Ethyl Eichelberger, David Wojnarowicz, and Johanna Went, along with many others.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <custodhist id="aspace_22b6477394afa7770d34e8488f120e0b">
-      <head>Provenance</head>
-      <p>The collection was purchased by NYU's Fales Library &amp; Special Collections from Michel Hurst and Robert Swope, who collected the posters while living in New York's East Village.</p>
-    </custodhist>
-    <arrangement id="aspace_215835ef523e2f79066e526871ea972a">
-      <head>Arrangement</head>
-      <p>This material is arranged into 1 box and 2 binders. The box contains miscellaneous flyers from clubs other than Pyramid with the exception of one folder of oversize Pyramid flyers. This material is arranged alphabetically. The two binders contain flyers exclusively from the Pyramid Club; the  arrangement of these flyers reflects the order they were in when they were acquired by the Fales Library.</p>
-    </arrangement>
-    <bioghist id="aspace_9d2db2ba1fbea138c132f782c1cfc234">
-      <head>Historical Note</head>
-      <p>Located at 101 Avenue A in the East Village, the Pyramid Club was an important nightclub for the 1980's and 90's downtown New York scene. Pyramid began as a standard dive bar, but evolved into the epicenter of a diverse underground art and performance scene under the attentions of Bobby Bradley, Alan Mace and Victor Sapienza. All three men were employees at the nightclub Interferon, and were later joined by Brian Butterick, who had been an employee at Mudd Club. Home to many of the most well known drag performers of the time, such as Lady Bunny and Ethyl Eichelberger, Pyramid was also a cornerstone in the neighborhood's LGBT community. It opened officially as a nightclub in December of 1981 and continues to operate today, largely as a throwback 80's dance club.</p>
-      <p>In addition to performance, the club hosted art exhibitions, film screenings and live readings by artists like Lydia Lunch and David Wojnarowicz. It hosted a number of films emerging from the No Wave and Cinema of Transgression scenes. It was home to John Jesurun's serial performance piece,<emph render="italic"> Chang in a Void Moon</emph>, which ran at the Pyramid Club for a year and continues today at other venues internationally. <emph render="italic">Chang in a Void Moon</emph> was followed by Kestutis Nakas' <emph render="italic">Titus Andronicus</emph>. Pyramid was also the birthplace of Wigstock, which first occurred in Tompkin's Square Park and was organized by Lady Bunny.</p>
-    </bioghist>
-    <accessrestrict id="aspace_4aebeeac251dfe771b0463cec089959c">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <userestrict id="aspace_ad098a5111e6efc320c9b777f2bcc66e">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </userestrict>
-    <prefercite id="aspace_4373a80926a23d76b356708f10e18f87">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_435">mss_435</eadid><filedesc><titlestmt><titleproper>Guide to the Pyramid Club Flyers <num>MSS.435</num></titleproper><author>Sophie Glidden-Lyon</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:53:56 -0500</date>.</creation><langusage>Description is in English</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Pyramid Club Flyers</unittitle>
+    <origination label="Creator">
+      <persname role="col" rules="aacr" source="naf">Hurst, Michel</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="col" rules="aacr" source="naf">Swope, Robert, 1954-</persname>
+    </origination>
+    <unitid>MSS.435</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">in 1 Document box and 2 photo binders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1980/1990" type="inclusive">circa 1980s</unitdate>
+    <abstract id="aspace_faa921913ee192e2773cf0cd672681ec">This collection contains over 200 flyers and posters advertising performances, film screenings, dance parties, art exhibits and live readings held at the Pyramid Club in New York at 101 Avenue A. Also included is 1 box of flyers from a variety of other clubs including Danceteria, CBGB's and Club 57. The artists advertised on the Pyramid Flyers include John Sex, Lydia Lunch, Ethyl Eichelberger, David Wojnarowicz, and Johanna Went, along with many others.</abstract>
+    <langmaterial id="aspace_ac3032449825cbc3ed6bcaf36ff0c0f2">Materials are in English</langmaterial>
+  </did>
+  <custodhist id="aspace_22b6477394afa7770d34e8488f120e0b">
+    <head>Provenance</head>
+<p>The collection was purchased by NYU's Fales Library &amp; Special Collections from Michel Hurst and Robert Swope, who collected the posters while living in New York's East Village.</p>  </custodhist>
+  <arrangement id="aspace_215835ef523e2f79066e526871ea972a">
+    <head>Arrangement</head>
+<p>This material is arranged into 1 box and 2 binders. The box contains miscellaneous flyers from clubs other than Pyramid with the exception of one folder of oversize Pyramid flyers. This material is arranged alphabetically. The two binders contain flyers exclusively from the Pyramid Club; the  arrangement of these flyers reflects the order they were in when they were acquired by the Fales Library.</p>  </arrangement>
+  <bioghist id="aspace_9d2db2ba1fbea138c132f782c1cfc234">
+    <head>Historical Note</head>
+<p>Located at 101 Avenue A in the East Village, the Pyramid Club was an important nightclub for the 1980's and 90's downtown New York scene. Pyramid began as a standard dive bar, but evolved into the epicenter of a diverse underground art and performance scene under the attentions of Bobby Bradley, Alan Mace and Victor Sapienza. All three men were employees at the nightclub Interferon, and were later joined by Brian Butterick, who had been an employee at Mudd Club. Home to many of the most well known drag performers of the time, such as Lady Bunny and Ethyl Eichelberger, Pyramid was also a cornerstone in the neighborhood's LGBT community. It opened officially as a nightclub in December of 1981 and continues to operate today, largely as a throwback 80's dance club.</p><p>In addition to performance, the club hosted art exhibitions, film screenings and live readings by artists like Lydia Lunch and David Wojnarowicz. It hosted a number of films emerging from the No Wave and Cinema of Transgression scenes. It was home to John Jesurun's serial performance piece,<emph render="italic"> Chang in a Void Moon</emph>, which ran at the Pyramid Club for a year and continues today at other venues internationally. <emph render="italic">Chang in a Void Moon</emph> was followed by Kestutis Nakas' <emph render="italic">Titus Andronicus</emph>. Pyramid was also the birthplace of Wigstock, which first occurred in Tompkin's Square Park and was organized by Lady Bunny.</p>  </bioghist>
+  <accessrestrict id="aspace_4aebeeac251dfe771b0463cec089959c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <userestrict id="aspace_ad098a5111e6efc320c9b777f2bcc66e">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <prefercite id="aspace_4373a80926a23d76b356708f10e18f87">
+    <head>Preferred Citation</head>
+<p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); Pyramid Club Flyers; MSS 435; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
-    </prefercite>
-    <relatedmaterial id="aspace_86d2ce7777a04cbdc438e8165686d90e">
-      <head>Related Materials</head>
-      <p>Nelson Sullivan Video Collection (MSS.357)</p>
-      <p>Nick Zedd Papers (MSS.311)</p>
-      <p>David Wojnarowicz Papers (MSS.092)</p>
-      <p>April Palmieri Papers (MSS.115)</p>
-      <p>Downtown Flyers and Invitations Collection (MSS.119)</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_04fa51c860fa4afdb8db3ae597ad2325">
-      <head>Scope and Content</head>
-      <p>This collection contains flyers distributed by the Pyramid Club to advertise events, performances and shows. There is also a small amount of miscellaneous material, housed in box 1, from other clubs and galleries like Club 57, CBGB's, Life Cafe, Civilian Warfare, Danceteria, Limbo Lounge and Theater for the New City. Box 1 also contains a few flyers or posters from unidentified venues, as well as flyers from Pyramid that are 8 ½ x 14, instead of the standard 8 ½ x 11 size. </p>
-      <p>These flyers are largely only dated with month and day and are photocopies with the exception of one or two master copies. They were made either for individual events, or act as weekly calendars. The performers named include drag queens like Ethyl Eichelberger, John Kelly, Lady Bunny and Tanya Ransom. Musical performances by 3 Teens Kill 4, Elliott Sharp, They Might Be Giants, Nick Cave, The Butthole Surfers, Zette, Rat At Rat R, the Frank Maya Band and John Sex. Live readings were given by Lydia Lunch, David Wojnarowicz, Ann Magnuson, Fran Lebowitz and Eric Bogosian. Also mentioned are artists like Greer Lankton and Peter Hujar, as well as John Waters, Thurston Moore, Nick Zedd, Richard Kern, Cookie Mueller, Johanna Went, Julie Hair, Ela Troyano and Antonio Frederico. Events such as Sundays at Pyramid, Pyramid Not Pyramid, Cafe Iguana, Pyramid 84, Pyramid Cocktail Lounge, Disturbed Form Theater and Loretta's Diner are advertised. Many of the events were hosted by the magazine Straight to Hell (STH).</p>
-    </scopecontent>
-    <phystech id="aspace_70d6dea64691dbd21a87ecab453addde">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Audiovisual materials have not been preserved and may not be available to researchers.</p>
-    </phystech>
-    <controlaccess>
-      <genreform source="aat">Photocopies.</genreform>
-      <subject source="lcsh">Artists -- New York (State) -- New York.</subject>
-      <genreform source="aat">Posters.</genreform>
-      <subject source="lcsh">Artists and community -- United States</subject>
-      <subject source="lcsh">Art, American -- New York (State) -- 20th century.</subject>
-      <genreform source="aat">Fliers (printed matter)</genreform>
-      <subject source="lcsh">Nightclubs.</subject>
-      <subject source="local">Downtown writers.</subject>
-      <subject source="local">Downtown Collection.</subject>
-      <subject source="local">Cinema of Transgression.</subject>
-      <subject source="lcsh">New wave music.</subject>
-      <persname rules="dacs" source="naf">Kern, Richard, 1954-</persname>
-      <persname rules="aacr" source="naf">Zedd, Nick</persname>
-      <persname source="naf">Sex, John</persname>
-      <persname source="naf">Waters, John, 1946-</persname>
-      <persname source="naf">Lunch, Lydia</persname>
-      <persname source="naf">Hujar, Peter, 1934-1987</persname>
-      <persname source="naf">Sullivan, Nelson</persname>
-      <persname source="naf">Wojnarowicz, David</persname>
-      <persname source="naf">Eichelberger, Ethyl, 1945-1990</persname>
-      <persname source="naf">Lady Bunny</persname>
-      <persname rules="dacs" source="local">Bogosian, Eric</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref47" level="series">
-        <did>
-          <unittitle>Series I: Pyramid Flyers</unittitle>
-        </did>
-        <scopecontent id="aspace_bb8bcc37026d23ac79ee6cc4b868a9a8">
-          <head>Scope and Content</head>
-          <p>Series I comprises flyers made to promote Pyramid performances and shows. The performers named include drag queens like Ethyl Eichelberger, John Kelly, Lady Bunny and Tanya Ransom. Musical performers include 3 Teens Kill 4, Elliott Sharp, They Might Be Giants, Nick Cave, The Butthole Surfers, Zette, Rat At Rat R, the Frank Maya Band and John Sex. Live readings were given by Lydia Lunch, David Wojnarowicz, Ann Magnuson, Fran Lebowitz and Eric Bogosian. Also mentioned are artists like Greer Lankton and Peter Hujar, as well as John Waters, Thurston Moore, Nick Zedd, Richard Kern, Cookie Mueller, Johanna Went, Julie Hair, Ela Troyano and Antonio Frederico. Events such as Sundays at Pyramid, Pyramid Not Pyramid, Cafe Iguana, Pyramid 84, Pyramid Cocktail Lounge, Disturbed Form Theater and Loretta's Diner are advertised. Many of the events were hosted by the magazine Straight to Hell (STH).</p>
-        </scopecontent>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Pyramid Flyers</unittitle>
-            <unitdate datechar="creation" normal="1981/1995" type="inclusive">[undated]</unitdate>
-            <unitdate datechar="creation" normal="1981/1995" type="bulk">1981-1995</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Box Binder (2&quot; wide, any dimensions between 12x16)" id="aspace_e73e9e7216d490fd61a4e6f89c90079c" label="Mixed Materials [31142054866754]" type="Box">2</container>
-          </did>
-          <scopecontent id="aspace_029cc1680d2723933fc9d32faa29c67d">
-            <head>Scope and Content</head>
-            <p>Binder of flyers from the Pyramid Club from ca. the 1980s.</p>
-          </scopecontent>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Pyramid Flyers</unittitle>
-            <unitdate datechar="creation">[undated]</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Box Binder (2&quot; wide, any dimensions between 12x16)" id="aspace_74cd38f41733fab35c8eae1ad1a350b3" label="Mixed Materials [31142054866762]" type="Box">3</container>
-          </did>
-          <scopecontent id="aspace_c636955faaf0812ce973c125e6965945">
-            <head>Scope and Content</head>
-            <p>Binder of flyers from the Pyramid Club from ca. the 1980s.</p>
-          </scopecontent>
-        </c>
-      </c>
-      <c id="aspace_ref48" level="series">
-        <did>
-          <unittitle>Series II: Other Venues</unittitle>
-        </did>
-        <scopecontent id="aspace_ff7d3466a493e8c07902d725952a948b">
-          <head>Scope and Content</head>
-          <p>Series II contains flyers from clubs and galleries other than Pyramid, such as Club 57, CBGB's, Life Cafe, Civilian Warfare, Danceteria, Limbo Lounge and Theater for the New City. Series II 1 also contains a few flyers from unidentified venues, as well as flyers from Pyramid that are 8 ½ x 14, instead of the standard 8 ½ x 11 size.</p>
-        </scopecontent>
-        <c id="aspace_ref1" level="file">
-          <did>
-            <unittitle>8th Street Between B&amp;C</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_ae017efb6159f4b70a04902493130b16" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_d9d82753bdec3081f389ec230b988929" parent="aspace_ae017efb6159f4b70a04902493130b16" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref2" level="file">
-          <did>
-            <unittitle>117 East 3rd Street</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_24e0188d7edb72fb5ae968a0c0060b23" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_921a52dcb01e90cf7df94d73edebfb34" parent="aspace_24e0188d7edb72fb5ae968a0c0060b23" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref3" level="file">
-          <did>
-            <unittitle>118 East Houston</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6d1fe9d54f181f05c46b542af5f1bbe6" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_2ce3dc9acd55527c2a78826c74d23d83" parent="aspace_6d1fe9d54f181f05c46b542af5f1bbe6" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref4" level="file">
-          <did>
-            <unittitle>118 East 1st Street, Beyween 1st &amp; A</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f3333b15810ed06c9fea64c80d8502ac" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_73e2a838c5fffc0020498b4d368e45e3" parent="aspace_f3333b15810ed06c9fea64c80d8502ac" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref5" level="file">
-          <did>
-            <unittitle>220 West 49th Street</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_94ffc4c9cc4888f7ace0363fa7d8def2" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_7d5067ea373023ebe1f4cb5cd1f14a32" parent="aspace_94ffc4c9cc4888f7ace0363fa7d8def2" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref6" level="file">
-          <did>
-            <unittitle>Busker's Club</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f65c07882cb0bde9f8f47b77553bae52" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_c2bbfa64247be09ff8c1371ffa8ec799" parent="aspace_f65c07882cb0bde9f8f47b77553bae52" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>CBGB's</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c877c31b0554aaa8066aa7346a8592a9" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_9b6c0764482ef04f4f58ce52a71097d0" parent="aspace_c877c31b0554aaa8066aa7346a8592a9" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Civilian Warfare</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b1c40a532185f236626f0df04c49a7e4" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_c791aed60c290509fbc742db01b793e9" parent="aspace_b1c40a532185f236626f0df04c49a7e4" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Club 57</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_92db8b50f24f22350272b91ba03275a6" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_85e83381938df9214d174fb6fa5c9c88" parent="aspace_92db8b50f24f22350272b91ba03275a6" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref10" level="file">
-          <did>
-            <unittitle>Danceteria</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e4a481713a88d315189b9b5c84f5d63e" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_4ab8a6976b7573f01832e688023d7b2b" parent="aspace_e4a481713a88d315189b9b5c84f5d63e" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref11" level="file">
-          <did>
-            <unittitle>How did Susanna manage to get her picture in the New York Times?!! [Newspaper Clipping]</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c3892adb515cd474c3562ef224500e5e" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_da50b11db60a1a11a9a7832de194a5ee" parent="aspace_c3892adb515cd474c3562ef224500e5e" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>Jesse Jackson</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_10352c8e76971155316b5687f68b6ce3" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_79666ef5355a9bc4c649b0c84dd098c6" parent="aspace_10352c8e76971155316b5687f68b6ce3" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Life Cafe</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6432715eec863a2e272fe411f1649d86" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_d32be38e6b68c25f66cd9cdfaae6f5bd" parent="aspace_6432715eec863a2e272fe411f1649d86" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Limbo Lounge</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e8a0ccc7f1172f518f5e760b0006528f" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_bb19e679745a7719900bdc08b40db815" parent="aspace_e8a0ccc7f1172f518f5e760b0006528f" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Max's</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fd157f20f76f2c10086efb560b76df29" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_d70f744078771fee7e2b7e05c1cfbb7e" parent="aspace_fd157f20f76f2c10086efb560b76df29" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Park Inn-Tavern</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_bb95b269f190a1ff9287b8c41b4aa9f8" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_54a69b24ee678f4f48a1888a6c402e73" parent="aspace_bb95b269f190a1ff9287b8c41b4aa9f8" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Pyramid</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_02d6b88d1f9cf4d9f6d535df856b1e56" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_ebf4f74e52717004cb9648b6d96edcd5" parent="aspace_02d6b88d1f9cf4d9f6d535df856b1e56" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Re Cher Chez Studio</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b0b8c1d4ac16ed632b709e6bb411b150" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_c21e5832eab28d1e309194767bfc054f" parent="aspace_b0b8c1d4ac16ed632b709e6bb411b150" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Save the Robots</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f6ebc4c01916444091a0c98011f0b0af" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_dbd9cba4df475073dbec4e29565ee2c9" parent="aspace_f6ebc4c01916444091a0c98011f0b0af" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Theater for the New City</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c1c6b7633ebc734ed95f2693ee078f74" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_2ecebbf48d09ffda44250c74aaca1185" parent="aspace_c1c6b7633ebc734ed95f2693ee078f74" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Truck &amp; Warehouse Theater</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e01f9e34161c9a4d2380b429d4219fe6" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_8d73cd57bcc7c9f84e8250504b80770c" parent="aspace_e01f9e34161c9a4d2380b429d4219fe6" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>The Waverly</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_40c9b3b2079aa68cb65891e3aec29dc9" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_4488a02e523e51d70536733f0e190efc" parent="aspace_40c9b3b2079aa68cb65891e3aec29dc9" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Why Drugs?</unittitle>
-            <unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5bbb31357c9bce16205c97f7fd421886" label="Mixed Materials [31142054866739]" type="Box">1</container>
-            <container id="aspace_35a1b4ca9398403cb6980d33aa512144" parent="aspace_5bbb31357c9bce16205c97f7fd421886" type="Folder">23</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+Identification of item,  date (if known); Pyramid Club Flyers; MSS 435; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <relatedmaterial id="aspace_86d2ce7777a04cbdc438e8165686d90e">
+    <head>Related Materials</head>
+<p>Nelson Sullivan Video Collection (MSS.357)</p><p>Nick Zedd Papers (MSS.311)</p><p>David Wojnarowicz Papers (MSS.092)</p><p>April Palmieri Papers (MSS.115)</p><p>Downtown Flyers and Invitations Collection (MSS.119)</p>  </relatedmaterial>
+  <scopecontent id="aspace_04fa51c860fa4afdb8db3ae597ad2325">
+    <head>Scope and Content</head>
+<p>This collection contains flyers distributed by the Pyramid Club to advertise events, performances and shows. There is also a small amount of miscellaneous material, housed in box 1, from other clubs and galleries like Club 57, CBGB's, Life Cafe, Civilian Warfare, Danceteria, Limbo Lounge and Theater for the New City. Box 1 also contains a few flyers or posters from unidentified venues, as well as flyers from Pyramid that are 8 ½ x 14, instead of the standard 8 ½ x 11 size. </p><p>These flyers are largely only dated with month and day and are photocopies with the exception of one or two master copies. They were made either for individual events, or act as weekly calendars. The performers named include drag queens like Ethyl Eichelberger, John Kelly, Lady Bunny and Tanya Ransom. Musical performances by 3 Teens Kill 4, Elliott Sharp, They Might Be Giants, Nick Cave, The Butthole Surfers, Zette, Rat At Rat R, the Frank Maya Band and John Sex. Live readings were given by Lydia Lunch, David Wojnarowicz, Ann Magnuson, Fran Lebowitz and Eric Bogosian. Also mentioned are artists like Greer Lankton and Peter Hujar, as well as John Waters, Thurston Moore, Nick Zedd, Richard Kern, Cookie Mueller, Johanna Went, Julie Hair, Ela Troyano and Antonio Frederico. Events such as Sundays at Pyramid, Pyramid Not Pyramid, Cafe Iguana, Pyramid 84, Pyramid Cocktail Lounge, Disturbed Form Theater and Loretta's Diner are advertised. Many of the events were hosted by the magazine Straight to Hell (STH).</p>  </scopecontent>
+  <phystech id="aspace_70d6dea64691dbd21a87ecab453addde">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers.</p>  </phystech>
+  <controlaccess>
+    <genreform source="aat">Photocopies.</genreform>
+    <subject source="lcsh">Artists -- New York (State) -- New York.</subject>
+    <genreform source="aat">Posters.</genreform>
+    <subject source="lcsh">Artists and community -- United States</subject>
+    <subject source="lcsh">Art, American -- New York (State) -- 20th century.</subject>
+    <genreform source="aat">Fliers (printed matter)</genreform>
+    <subject source="lcsh">Nightclubs.</subject>
+    <subject source="local">Downtown writers.</subject>
+    <subject source="local">Downtown Collection.</subject>
+    <subject source="local">Cinema of Transgression.</subject>
+    <subject source="lcsh">New wave music.</subject>
+    <persname rules="dacs" source="naf">Kern, Richard, 1954-</persname>
+    <persname rules="aacr" source="naf">Zedd, Nick</persname>
+    <persname source="naf">Sex, John</persname>
+    <persname source="naf">Waters, John, 1946-</persname>
+    <persname source="naf">Lunch, Lydia</persname>
+    <persname source="naf">Hujar, Peter, 1934-1987</persname>
+    <persname source="naf">Sullivan, Nelson</persname>
+    <persname source="naf">Wojnarowicz, David</persname>
+    <persname source="naf">Eichelberger, Ethyl, 1945-1990</persname>
+    <persname source="naf">Lady Bunny</persname>
+    <persname rules="dacs" source="local">Bogosian, Eric</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref47" level="series"><did><unittitle>Series I: Pyramid Flyers</unittitle></did><scopecontent id="aspace_bb8bcc37026d23ac79ee6cc4b868a9a8"><head>Scope and Content</head><p>Series I comprises flyers made to promote Pyramid performances and shows. The performers named include drag queens like Ethyl Eichelberger, John Kelly, Lady Bunny and Tanya Ransom. Musical performers include 3 Teens Kill 4, Elliott Sharp, They Might Be Giants, Nick Cave, The Butthole Surfers, Zette, Rat At Rat R, the Frank Maya Band and John Sex. Live readings were given by Lydia Lunch, David Wojnarowicz, Ann Magnuson, Fran Lebowitz and Eric Bogosian. Also mentioned are artists like Greer Lankton and Peter Hujar, as well as John Waters, Thurston Moore, Nick Zedd, Richard Kern, Cookie Mueller, Johanna Went, Julie Hair, Ela Troyano and Antonio Frederico. Events such as Sundays at Pyramid, Pyramid Not Pyramid, Cafe Iguana, Pyramid 84, Pyramid Cocktail Lounge, Disturbed Form Theater and Loretta's Diner are advertised. Many of the events were hosted by the magazine Straight to Hell (STH).</p></scopecontent><c id="aspace_ref24" level="file"><did><unittitle>Pyramid Flyers</unittitle><unitdate datechar="creation" normal="1981/1995" type="inclusive">[undated]</unitdate><unitdate datechar="creation" normal="1981/1995" type="bulk">1981-1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Box Binder (2&quot; wide, any dimensions between 12x16)" id="aspace_76447818a6c4a063bcf7087dbeda84bf" label="Mixed Materials [31142054866754]" type="Box">2</container></did><scopecontent id="aspace_029cc1680d2723933fc9d32faa29c67d"><head>Scope and Content</head><p>Binder of flyers from the Pyramid Club from ca. the 1980s.</p></scopecontent></c><c id="aspace_ref25" level="file"><did><unittitle>Pyramid Flyers</unittitle><unitdate datechar="creation">[undated]</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Box Binder (2&quot; wide, any dimensions between 12x16)" id="aspace_f0467ad6bbf21a87af2539b006655dca" label="Mixed Materials [31142054866762]" type="Box">3</container></did><scopecontent id="aspace_c636955faaf0812ce973c125e6965945"><head>Scope and Content</head><p>Binder of flyers from the Pyramid Club from ca. the 1980s.</p></scopecontent></c></c><c id="aspace_ref48" level="series"><did><unittitle>Series II: Other Venues</unittitle></did><scopecontent id="aspace_ff7d3466a493e8c07902d725952a948b"><head>Scope and Content</head><p>Series II contains flyers from clubs and galleries other than Pyramid, such as Club 57, CBGB's, Life Cafe, Civilian Warfare, Danceteria, Limbo Lounge and Theater for the New City. Series II 1 also contains a few flyers from unidentified venues, as well as flyers from Pyramid that are 8 ½ x 14, instead of the standard 8 ½ x 11 size.</p></scopecontent><c id="aspace_ref1" level="file"><did><unittitle>8th Street Between B&amp;C</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6979bc64522d6f31319a29b1d120cd0c" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_6323c26d8cf630d203fe5c0ffe726573" parent="aspace_6979bc64522d6f31319a29b1d120cd0c" type="Folder">1</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>117 East 3rd Street</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_bee0fb7a46a324af4457a225a071e2f7" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_8895821d6ef45d4afd27d27a028764df" parent="aspace_bee0fb7a46a324af4457a225a071e2f7" type="Folder">2</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>118 East Houston</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_5b4bd55a82d798f11172aa3131d6e098" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_468873d509ccc905ba1fefe043f426b8" parent="aspace_5b4bd55a82d798f11172aa3131d6e098" type="Folder">3</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>118 East 1st Street, Beyween 1st &amp; A</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_b528299b6e2dfb33693e07d522f66130" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_1346edde2fec10e48564b87423ef4d45" parent="aspace_b528299b6e2dfb33693e07d522f66130" type="Folder">4</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>220 West 49th Street</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_5c32f2f1a8c7e7dc8f1333cd1e1aff12" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_5140ace51aed8ea8d7d6a94a70de0e08" parent="aspace_5c32f2f1a8c7e7dc8f1333cd1e1aff12" type="Folder">5</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Busker's Club</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_88c7052d7d587ec437afef56a50f39e2" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_1fa08f443298b3712ea6493e8af99de7" parent="aspace_88c7052d7d587ec437afef56a50f39e2" type="Folder">6</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>CBGB's</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_201b3b3082b9f6ea947e23189f26da55" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_45bedd7389725f73f31588a83f9aad82" parent="aspace_201b3b3082b9f6ea947e23189f26da55" type="Folder">7</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Civilian Warfare</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_c9218accc62dfacaa733b976efdf649b" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_ff97b83ad7b8f0b8984665ac4a7c17da" parent="aspace_c9218accc62dfacaa733b976efdf649b" type="Folder">8</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Club 57</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_4698dad11581713844c0027be837c8ba" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_189cab70c44c9e72054f663e0ed1b4a7" parent="aspace_4698dad11581713844c0027be837c8ba" type="Folder">9</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Danceteria</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_b0277e3031b1c9ca152424805b88b2bc" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_9444579d9636a22e124ab2e390b16915" parent="aspace_b0277e3031b1c9ca152424805b88b2bc" type="Folder">10</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>How did Susanna manage to get her picture in the New York Times?!! [Newspaper Clipping]</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_e7bd617fcbd1716763be47875175b8bf" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_77e6e68e964c5aad1ad5451035e8846e" parent="aspace_e7bd617fcbd1716763be47875175b8bf" type="Folder">11</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Jesse Jackson</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_762676caaaafee7ce0bc05708542daad" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_5403a3d050805a6167cf4b0f85044f52" parent="aspace_762676caaaafee7ce0bc05708542daad" type="Folder">12</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Life Cafe</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_542b7954a9a7a5ff0dea41da08c1592d" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_ac37651cc420df5a2cbc74fa9896ac14" parent="aspace_542b7954a9a7a5ff0dea41da08c1592d" type="Folder">13</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Limbo Lounge</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_b078b03546ff07f4c550ff459f871e39" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_3bdc64239a3a6dba2869d2eebbdc2a94" parent="aspace_b078b03546ff07f4c550ff459f871e39" type="Folder">14</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Max's</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_6ba4386270c849e78ea8a5355ca75f12" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_6d70d84ead6c1382d32a8681d0e4372e" parent="aspace_6ba4386270c849e78ea8a5355ca75f12" type="Folder">15</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Park Inn-Tavern</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_01779e8ee6de745969a86aab8f38985c" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_0bf4ac7b64b19e8fe91e598e5665e4bd" parent="aspace_01779e8ee6de745969a86aab8f38985c" type="Folder">16</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Pyramid</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_23ae701a51ef8bd11847025e9d719970" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_7bc4c952ac1528237720b41ae4d078ba" parent="aspace_23ae701a51ef8bd11847025e9d719970" type="Folder">17</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Re Cher Chez Studio</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_936de9128a4d6cf555f0f0f2d6cd2178" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_32485a16c50d01f5eabfa20f8d0c7202" parent="aspace_936de9128a4d6cf555f0f0f2d6cd2178" type="Folder">18</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Save the Robots</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_caa2f3b8653376be3b9e4c3c946c4321" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_b1663f168881a5690167fc397b592aa5" parent="aspace_caa2f3b8653376be3b9e4c3c946c4321" type="Folder">19</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Theater for the New City</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_167daecfc2d594ac18aa2ef6d531ddb3" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_a206ee07c5d262b552cfbb16d1387492" parent="aspace_167daecfc2d594ac18aa2ef6d531ddb3" type="Folder">20</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Truck &amp; Warehouse Theater</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_12b593c48d5dfc9a2cccbb63fbe0f7b4" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_0688b94d23915cea93fcf76380758c62" parent="aspace_12b593c48d5dfc9a2cccbb63fbe0f7b4" type="Folder">21</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>The Waverly</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_ea3a0fd5ad9949b8afc3705ec5ced20d" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_68d5e24a736ea059e634956f9bb6a0d0" parent="aspace_ea3a0fd5ad9949b8afc3705ec5ced20d" type="Folder">22</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Why Drugs?</unittitle><unitdate datechar="creation" normal="1980/1990" type="inclusive">[undated]</unitdate><container altrender="Manuscript box - Legal" id="aspace_e0ead564b806dcbdfccfc56f0f0f262c" label="Mixed Materials [31142054866739]" type="Box">1</container><container id="aspace_716de6919a8cded0e16be3051da44d5b" parent="aspace_e0ead564b806dcbdfccfc56f0f0f262c" type="Folder">23</container></did></c></c></dsc>
+</archdesc>
 </ead>

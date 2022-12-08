@@ -1,470 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_126">alba_126</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Howard Goddard Papers <num>ALBA.126</num></titleproper>
-        <author>Jennifer Waxman</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from a paper finding aid.</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:36:15 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Howard Goddard Papers</unittitle>
-      <origination label="Creator">
-        <persname source="local">Goddard, Howard, 1911-1997</persname>
-      </origination>
-      <unitid>ALBA.126</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-        <extent altrender="carrier">in 1 manuscript box and 1 folder in an oversize shared box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1937/1996" type="inclusive">1937-1996</unitdate>
-      <abstract id="aspace_e48745c8f1742c651f7d04adcc84f33a">Howard Goddard (1911-1997) dedicated much of his life to working as a union activist, from organizing in the early 1930s to a lifelong career with the International Union of Mine, Mill and Smelter Workers (IUMMSW). Goddard joined the International Brigades to fight against Franco in Spain in 1937 and returned in 1938 with the rank of Captain. This collection contains ephemera from the Spanish Civil War and correspondence between Goddard and various veterans and veteran organizations.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <custodhist id="aspace_660a0f0ae7e9953a67c686b35ee3c863">
-      <head>Provenance</head>
-      <p>The Howard Goddard Collection was donated to the Abraham Lincoln Brigade Archives in 1997 by Esther Brown. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
-    </custodhist>
-    <accessrestrict id="aspace_63a2ccdc3116f0e623c3fb1086f47c23">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </accessrestrict>
-    <bioghist id="aspace_a4f264e374fb73afdb49989a76bb478d">
-      <head>Historical/Biographical Note</head>
-      <p>Howard Goddard (1911-1997) was born in Harrodsburg, Kentucky. The family moved to Southern California in 1921 and he took his first job when he turned 13. After graduating from high school he worked in Trona, California for a chemical mining company. His experience organizing and fighting for union rights in this company town (which involves one of the first landmark cases successfully argued before the National Labor Relations Board) solidified his belief in the workers' cause and the international fight against fascism. Arriving in Spain in March 1937 via the Pyrenees, Goddard was assigned to a Spanish-speaking company in the International Brigades. After recovering from wounds at Belchite and helping to plan the Battle of Ebro, Goddard was promoted to captain of his company in October of 1938. Goddard returned from Spain in late 1938 and continued to work and organize unions from Denver to Los Angeles, representing the International Union of Mine, Mill and Smelter Workers for most of his career. He married and had two children. He was an active member of the Veterans of the Abraham Lincoln Brigade and at the time of his death was living in San Francisco.</p>
-    </bioghist>
-    <scopecontent id="aspace_388e457266f39bffaa1f6d8cd2d4132a">
-      <head>Scope and Content Note</head>
-      <p><emph render="bold">Series I: Subject Files</emph>. The bulk of this series contains ephemera associated with the Spanish Civil War, including certificates of honor and documents of affiliation with the Spanish Communist Party and the International Brigades. Other subject files include anniversary programs and newsletters from the Abraham Lincoln Brigade Archives, the Veterans of the Abraham Lincoln Brigade (both the New York and Bay Area posts), and the 60th Anniversary Tribute in Spain in 1996. Of note is a transcript of an oral history interview done by Art Day in 1986, addressing Goddard's involvement with the labor movement in the 1930s and 1940s.</p>
-      <p><emph render="bold">Series II: Correspondence</emph>. Each folder in this series contains both incoming and outgoing correspondence between the recipient and Goddard. The recipient's name titles each folder. Many of the letters written in Spanish include Goddard's own translation. The bulk of the letters, mostly to and from veterans of the Spanish Civil War, is between Goddard and former veteran John V. Murra. Murra's correspondence also contains clippings and other items that he sent to Goddard. Notable are letters between Goddard and José Antonio Valledor Alvarez, a former commander of the 15th International Brigade.</p>
-    </scopecontent>
-    <arrangement id="aspace_195048c1dceb3b4de0eb0e5593f1a337">
-      <head>Arrangement</head>
-      <p>Series I is arranged alphabetically by subject. Series II is arranged alphabetically by correspondent.</p>
-      <p>The files are grouped into two series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, Subject Files, 1937-1996; Undated.</item>
-        <item>II, Correspondence, 1985-1996; Undated</item>
-      </list>
-    </arrangement>
-    <relatedmaterial id="aspace_197d349b1115bf0a017b58a060c50aa3">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>ALBA collections at the Tamiment Library.</p>
-    </relatedmaterial>
-    <separatedmaterial id="aspace_b85f71eef97fdc94dac5c8b5fd03a549">
-      <head>Separated Material</head>
-      <p>Photographs from the Howard Goddard Collection have been transferred to the non-print section of the ALBA collection in the Tamiment Library and Robert F. Wagner Labor Archives.</p>
-    </separatedmaterial>
-    <userestrict id="aspace_520fd87ac0d1f704924c641bedd1f728">
-      <head>Use Restrictions</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </userestrict>
-    <prefercite id="aspace_dd1cff23f0c9c182ee47385b41da5571">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-      <geogname source="lcsh">Belchite (Spain)</geogname>
-      <subject source="lcsh">Ebro River, Battle of the, Spain, 1938.</subject>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-      <genreform source="aat">Printed ephemera.</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Articles.</genreform>
-      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
-      <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
-      <persname source="ingest">Valledor Alvarez, José Antonio.</persname>
-      <corpname source="naf">International Union of Mine, Mill, and Smelter Workers</corpname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_126">alba_126</eadid><filedesc><titlestmt><titleproper>Guide to the Howard Goddard Papers <num>ALBA.126</num></titleproper><author>Jennifer Waxman</author></titlestmt><editionstmt><p>This version was derived from a paper finding aid.</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:04:11 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Howard Goddard Papers</unittitle>
+    <origination label="Creator">
       <persname source="local">Goddard, Howard, 1911-1997</persname>
-      <persname source="naf">Murra, John V.</persname>
-      <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV</corpname>
-      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref15" level="series">
-        <did>
-          <unittitle>Series I: Subject Files</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Abraham Lincoln Brigade Archives: 50th Anniversary Commemoration</unittitle>
-            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a1e9a736d2b0a8a7d30de916b3b316a8" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_a6f44960a2626b3a1775c972a5e690cc" parent="aspace_a1e9a736d2b0a8a7d30de916b3b316a8" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Adolph Ross Project: A Biographical Dictionary of American Volunteers in the Spanish Civil War, 1936-39 Questionnaire</unittitle>
-            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_551dbc3981f88d8e442718c7ae8d677e" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_d53098451e369f3bed366ef346ed837e" parent="aspace_551dbc3981f88d8e442718c7ae8d677e" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Communist Party: Promotional Pocket Calendar</unittitle>
-            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6dc0bfecd557988e06991f2f88662eba" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_c3241e46a169453ddb70e9993c585b84" parent="aspace_6dc0bfecd557988e06991f2f88662eba" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Goddard, Howard: Oral History Interview Conducted by Art Day</unittitle>
-            <unitdate datechar="creation">Sep 1986</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_88da5fc224e42e77a0026c1d03093672" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_6947df4466e16190eee75445d844c239" parent="aspace_88da5fc224e42e77a0026c1d03093672" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Ibarruri, Dolores: Clippings</unittitle>
-            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9e4f25330b25f656438edcefa747a43e" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_e3451d367c7fb6b566c0b2c54aa579c4" parent="aspace_9e4f25330b25f656438edcefa747a43e" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>International Brigades: Clippings</unittitle>
-            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b6ecfa0fffc50fe8fa5cd5ca38a0e197" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_24dad0a0b67bdcb18750c0f9016bd490" parent="aspace_b6ecfa0fffc50fe8fa5cd5ca38a0e197" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>International Brigades: 60th Anniversary Tribute in Spain</unittitle>
-            <unitdate datechar="creation">Nov 1996</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5a6eaa5e998fc80162d347c7683c31aa" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_a8c4a92825697985cd2d64de62373163" parent="aspace_5a6eaa5e998fc80162d347c7683c31aa" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Spain: Certificate of Naturalization</unittitle>
-            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_eef56025d1042f1719baa22a5fca31bf" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_88c7d32dde571d321aabdcc1b07af2ca" parent="aspace_eef56025d1042f1719baa22a5fca31bf" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Spain: Pension Acquisition for Veterans</unittitle>
-            <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_638657f3fefa1de2e50c8c06c9b300a6" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_eb742695d76926bc74aad4fc8f685d4b" parent="aspace_638657f3fefa1de2e50c8c06c9b300a6" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Association of the Friends of the Soviet Union Identification Card (Albacete)</unittitle>
-            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5abb7829e5c07b074c3f2270f51260da" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_1dd78fd9cab4e0cfbcf80f625502715e" parent="aspace_5abb7829e5c07b074c3f2270f51260da" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Carnet de Honor</unittitle>
-            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_44a003855e5e0d73f54f5fdf8fe8364b" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_dfbf17a72b031b93adbdd54fb691debe" parent="aspace_44a003855e5e0d73f54f5fdf8fe8364b" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Citation of Honor</unittitle>
-            <unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e787773dc5f51d193245329bc2ac5e8d" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_568fc1c69b6b2a9d94b7f3295bc4ce50" parent="aspace_e787773dc5f51d193245329bc2ac5e8d" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Communist Party of Spain Identification Card</unittitle>
-            <unitdate datechar="creation">Jan 1, 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e955f0dc41022cc1638a80e6f8aba984" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_7bb66ecb2ecdbadeaecaeda9b497fb92" parent="aspace_e955f0dc41022cc1638a80e6f8aba984" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Embarkation Card</unittitle>
-            <unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8679ae492749b823a4a09a72b629d5a2" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_9d60bc9c5278c9ea3d96a64ffae916f2" parent="aspace_8679ae492749b823a4a09a72b629d5a2" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Spanish Civil War: General Orders of Promotion</unittitle>
-            <unitdate datechar="creation">Oct 1, 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8cb6736a6e718902bc8202a8bf11c64e" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_4dcbda4261bdb33f2c72bcccbfbcadeb" parent="aspace_8cb6736a6e718902bc8202a8bf11c64e" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Spanish Civil War: International Brigades: Certificate of Service </unittitle>
-            <unitdate datechar="creation">Nov 10, 1938</unitdate>
-            <container altrender="Flat OS Box 17" id="aspace_80658ef3f13993539eb8342fd9357149" label="Mixed Materials [31142062759256]" type="Box">Tamiment Shared MSOS006</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Spanish Civil War: James Lardner Memorial Fund</unittitle>
-            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_12ff18dfdeaa3536a71dccbb657d2e3a" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_e4158203ada5c2694ba064dc051e11a7" parent="aspace_12ff18dfdeaa3536a71dccbb657d2e3a" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Military Service Booklet</unittitle>
-            <unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0bf734505b9ba0c2c7e22cf7e2c19457" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_dad62bc76f6c25ae329c611c92cde611" parent="aspace_0bf734505b9ba0c2c7e22cf7e2c19457" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Order Form for Uniform</unittitle>
-            <unitdate datechar="creation">Sep 25, 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d0cb49cde0afc33b4ccd9727ecb1a768" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_1fce1e0211fd6f66619d0a56df109ab3" parent="aspace_d0cb49cde0afc33b4ccd9727ecb1a768" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Pesetas</unittitle>
-            <unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9099395ef131b9f5fa3ad81aaf102fbd" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_efd08af5cc5cb7fb6248b1940812e0a1" parent="aspace_9099395ef131b9f5fa3ad81aaf102fbd" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Repatriation Papers</unittitle>
-            <unitdate datechar="creation">Nov 30, 1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_782e9cf4a4871608e66d0dabd47854e1" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_d5e4f2cd0287317bbd8ff29a1b661693" parent="aspace_782e9cf4a4871608e66d0dabd47854e1" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Socorro Rojo Internacional Identification Card</unittitle>
-            <unitdate datechar="creation">Aug 10, 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_eaa71ac0758c74a87d9a2562494fb78e" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_390f9bef835dcfd502f6f0f805ab55c9" parent="aspace_eaa71ac0758c74a87d9a2562494fb78e" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Telephone Conference Call Records</unittitle>
-            <unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f6b51478b63cf95d729dd528940a6757" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_0ae83b52a2306f103227f445aebdffe6" parent="aspace_f6b51478b63cf95d729dd528940a6757" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Vaccination Certificate</unittitle>
-            <unitdate datechar="creation">Nov 6, 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ad2cc54f2f35846cc0e4aff8aac32c84" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_7a0db663c945c596ef978a87ada04b6c" parent="aspace_ad2cc54f2f35846cc0e4aff8aac32c84" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Veterans of the Abraham Lincoln Brigade Identification Card</unittitle>
-            <unitdate datechar="creation">Jan 1, 1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8c1f15b93116cf8197efca93ec7c67f9" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_e3e87b6e95664affb2a64887dc2ba3ef" parent="aspace_8c1f15b93116cf8197efca93ec7c67f9" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Spanish Civil War: Wallet</unittitle>
-            <unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e7aa2eae92c3562df054ee7c089c9d76" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_c2f0c4bdf00b7dcb2e0f67ca9d9ebc1a" parent="aspace_e7aa2eae92c3562df054ee7c089c9d76" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>Veterans: Obituaries and Eulogies</unittitle>
-            <unitdate datechar="creation" normal="1986/1992" type="inclusive">1986-1992</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_501ca76ae1960f8f796d08bfed0a737c" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_9183e95e0532dadc0bbbc0de01242808" parent="aspace_501ca76ae1960f8f796d08bfed0a737c" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>Veterans of the Abraham Lincoln Brigade: Anniversary Events</unittitle>
-            <unitdate datechar="creation" normal="1979/1994" type="inclusive">1979-1994</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3ee3e3d0fd65f5719d5173cae330cc3a" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_9e81bdbb453595cd57d96d21b74c9311" parent="aspace_3ee3e3d0fd65f5719d5173cae330cc3a" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>Veterans of the Abraham Lincoln Brigade: Newsletters</unittitle>
-            <unitdate datechar="creation" normal="1985/1996" type="inclusive">1985-1996</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1081fbd7e27b845329b3692f907e3af9" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_12f57887a209b5dc6bc248cedf2c0d28" parent="aspace_1081fbd7e27b845329b3692f907e3af9" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Veterans of the Abraham Lincoln Brigade: Bay Area Post: Anniversary Events</unittitle>
-            <unitdate datechar="creation" normal="1984/1996" type="inclusive">1984-1996</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d8539e9e95828122564369dbe0b17fd7" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_e68a57af4dbd5feba83a3db7546c8327" parent="aspace_d8539e9e95828122564369dbe0b17fd7" type="Folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Veterans of the Abraham Lincoln Brigade: Bay Area Post: Newsletters</unittitle>
-            <unitdate datechar="creation" normal="1979/1991" type="inclusive">1979-1991</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b1b25646d37bf2cbec62901aa73dd403" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_45f9befefe1f7ba1de23ddd5013c510a" parent="aspace_b1b25646d37bf2cbec62901aa73dd403" type="Folder">31</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref47" level="series">
-        <did>
-          <unittitle>Series II: Correspondence</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Doménech, Castillo Jesús</unittitle>
-            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_88b5b792f8cb48bc999ae845273c6b4c" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_de2122f6a3696f9b5ee9ddfdfd98287a" parent="aspace_88b5b792f8cb48bc999ae845273c6b4c" type="Folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="file">
-          <did>
-            <unittitle>Eladio, Paula</unittitle>
-            <unitdate datechar="creation">Feb 2, 1990</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b397870b1edf0d6f3cb68b5c28d220ba" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_02df79f87361654a84d71ffc99d32fd1" parent="aspace_b397870b1edf0d6f3cb68b5c28d220ba" type="Folder">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="file">
-          <did>
-            <unittitle>Geiser, Carl</unittitle>
-            <unitdate datechar="creation" normal="1992/1994" type="inclusive">1992-1994</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6a00a3e9b6f3129f1a64f7a3bd1d6667" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_343630aa04cc647103ad8460460bf412" parent="aspace_6a00a3e9b6f3129f1a64f7a3bd1d6667" type="Folder">34</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="file">
-          <did>
-            <unittitle>Ibarruri, Dolores</unittitle>
-            <unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d54ef8e0d625ea2731b6373aefb7ee65" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_59117511e41fcd205bba037cb1ec16fe" parent="aspace_d54ef8e0d625ea2731b6373aefb7ee65" type="Folder">35</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="file">
-          <did>
-            <unittitle>Levenson, Leonard</unittitle>
-            <unitdate datechar="creation">Jan 27, 1996</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_46a042fc80f314b295e07afee7ba9da2" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_ca9818db5c8541c4e92cee2c71271924" parent="aspace_46a042fc80f314b295e07afee7ba9da2" type="Folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="file">
-          <did>
-            <unittitle>MacLeod, Donald</unittitle>
-            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a39fccc6e9fa77092bc2f53109b265a4" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_7e9cdb8ef1732b52c08b8be241ebdee9" parent="aspace_a39fccc6e9fa77092bc2f53109b265a4" type="Folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref54" level="file">
-          <did>
-            <unittitle>Marantz, Anton Peter</unittitle>
-            <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b459b18e263c97400e900b81d044fff5" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_c89900da6a061f748ef6a7c37511e28a" parent="aspace_b459b18e263c97400e900b81d044fff5" type="Folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="file">
-          <did>
-            <unittitle>Murra, John</unittitle>
-            <unitdate datechar="creation" normal="1985/1995" type="inclusive">1985-1995</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_49aa23a0fe3d09a78c096d5ce7be51da" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_c6e44d74110b66a058daba377e52ad46" parent="aspace_49aa23a0fe3d09a78c096d5ce7be51da" type="Folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="file">
-          <did>
-            <unittitle>Nelson, Steve</unittitle>
-            <unitdate datechar="creation">Nov 22, 1985</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_00d8a110785304e245a4a3c649660174" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_26985d2f8d0ce7a6e7987ac5bd80c8e9" parent="aspace_00d8a110785304e245a4a3c649660174" type="Folder">40</container>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="file">
-          <did>
-            <unittitle>Shelton, Denis</unittitle>
-            <unitdate datechar="creation">Oct. 11, 1996</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d6c198e5f4cb2c633550caebb123a2e9" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_9e60f126334a1352c9a5b5311f374635" parent="aspace_d6c198e5f4cb2c633550caebb123a2e9" type="Folder">41</container>
-          </did>
-        </c>
-        <c id="aspace_ref58" level="file">
-          <did>
-            <unittitle>Valledor Alvarez, José Antonio</unittitle>
-            <unitdate datechar="creation" normal="1985/1994" type="inclusive">1985-1994</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a660f343d40c1e86baca9675859f2c84" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_976a9eef00379259d186726ffb9f9b83" parent="aspace_a660f343d40c1e86baca9675859f2c84" type="Folder">42</container>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="file">
-          <did>
-            <unittitle>Watt, George</unittitle>
-            <unitdate datechar="creation">Jan 18, 1986</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a461c1666bb344a2b60eeb20205f4374" label="Mixed Materials [31142062756476]" type="Box">1</container>
-            <container id="aspace_92fbd9de35b6601671337da75eba17cd" parent="aspace_a461c1666bb344a2b60eeb20205f4374" type="Folder">43</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>ALBA.126</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box and 1 folder in an oversize shared box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1996" type="inclusive">1937-1996</unitdate>
+    <abstract id="aspace_e48745c8f1742c651f7d04adcc84f33a" label="Abstract">Howard Goddard (1911-1997) dedicated much of his life to working as a union activist, from organizing in the early 1930s to a lifelong career with the International Union of Mine, Mill and Smelter Workers (IUMMSW). Goddard joined the International Brigades to fight against Franco in Spain in 1937 and returned in 1938 with the rank of Captain. This collection contains ephemera from the Spanish Civil War and correspondence between Goddard and various veterans and veteran organizations.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <custodhist id="aspace_660a0f0ae7e9953a67c686b35ee3c863">
+    <head>Provenance</head>
+<p>The Howard Goddard Collection was donated to the Abraham Lincoln Brigade Archives in 1997 by Esther Brown. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <accessrestrict id="aspace_63a2ccdc3116f0e623c3fb1086f47c23">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <bioghist id="aspace_a4f264e374fb73afdb49989a76bb478d">
+    <head>Historical/Biographical Note</head>
+<p>Howard Goddard (1911-1997) was born in Harrodsburg, Kentucky. The family moved to Southern California in 1921 and he took his first job when he turned 13. After graduating from high school he worked in Trona, California for a chemical mining company. His experience organizing and fighting for union rights in this company town (which involves one of the first landmark cases successfully argued before the National Labor Relations Board) solidified his belief in the workers' cause and the international fight against fascism. Arriving in Spain in March 1937 via the Pyrenees, Goddard was assigned to a Spanish-speaking company in the International Brigades. After recovering from wounds at Belchite and helping to plan the Battle of Ebro, Goddard was promoted to captain of his company in October of 1938. Goddard returned from Spain in late 1938 and continued to work and organize unions from Denver to Los Angeles, representing the International Union of Mine, Mill and Smelter Workers for most of his career. He married and had two children. He was an active member of the Veterans of the Abraham Lincoln Brigade and at the time of his death was living in San Francisco.</p>  </bioghist>
+  <scopecontent id="aspace_388e457266f39bffaa1f6d8cd2d4132a">
+    <head>Scope and Content Note</head>
+<p><emph render="bold">Series I: Subject Files</emph>. The bulk of this series contains ephemera associated with the Spanish Civil War, including certificates of honor and documents of affiliation with the Spanish Communist Party and the International Brigades. Other subject files include anniversary programs and newsletters from the Abraham Lincoln Brigade Archives, the Veterans of the Abraham Lincoln Brigade (both the New York and Bay Area posts), and the 60th Anniversary Tribute in Spain in 1996. Of note is a transcript of an oral history interview done by Art Day in 1986, addressing Goddard's involvement with the labor movement in the 1930s and 1940s.</p><p><emph render="bold">Series II: Correspondence</emph>. Each folder in this series contains both incoming and outgoing correspondence between the recipient and Goddard. The recipient's name titles each folder. Many of the letters written in Spanish include Goddard's own translation. The bulk of the letters, mostly to and from veterans of the Spanish Civil War, is between Goddard and former veteran John V. Murra. Murra's correspondence also contains clippings and other items that he sent to Goddard. Notable are letters between Goddard and José Antonio Valledor Alvarez, a former commander of the 15th International Brigade.</p>  </scopecontent>
+  <arrangement id="aspace_195048c1dceb3b4de0eb0e5593f1a337">
+    <head>Arrangement</head>
+<p>Series I is arranged alphabetically by subject. Series II is arranged alphabetically by correspondent.</p><p>The files are grouped into two series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Subject Files, 1937-1996; Undated.</item>
+      <item>II, Correspondence, 1985-1996; Undated</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_197d349b1115bf0a017b58a060c50aa3">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>ALBA collections at the Tamiment Library.</p>  </relatedmaterial>
+  <separatedmaterial id="aspace_b85f71eef97fdc94dac5c8b5fd03a549">
+    <head>Separated Material</head>
+<p>Photographs from the Howard Goddard Collection have been transferred to the non-print section of the ALBA collection in the Tamiment Library and Robert F. Wagner Labor Archives.</p>  </separatedmaterial>
+  <userestrict id="aspace_520fd87ac0d1f704924c641bedd1f728">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <prefercite id="aspace_dd1cff23f0c9c182ee47385b41da5571">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+    <geogname source="lcsh">Belchite (Spain)</geogname>
+    <subject source="lcsh">Ebro River, Battle of the, Spain, 1938.</subject>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+    <genreform source="aat">Printed ephemera.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Articles.</genreform>
+    <corpname authfilenumber="(lccn)n88119969" source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+    <corpname authfilenumber="(lccn)n88119968" source="naf">Abraham Lincoln Brigade Archives</corpname>
+    <persname source="ingest">Valledor Alvarez, José Antonio.</persname>
+    <corpname authfilenumber="(lccn)n83019774" source="naf">International Union of Mine, Mill, and Smelter Workers</corpname>
+    <persname source="local">Goddard, Howard, 1911-1997</persname>
+    <persname source="naf">Murra, John V.</persname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Brigada Internacional, XV</corpname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: Subject Files</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>Abraham Lincoln Brigade Archives: 50th Anniversary Commemoration</unittitle><unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f7628d571d584a2db0aa21d4f9fa11a" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_f04733ce491a5e591fd588384c3257b3" parent="aspace_9f7628d571d584a2db0aa21d4f9fa11a" type="Folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Adolph Ross Project: A Biographical Dictionary of American Volunteers in the Spanish Civil War, 1936-39 Questionnaire</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_222c50ae83015d39737b29de3e7e269c" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_9381e33817b0f1f1706de4d98e6fed8c" parent="aspace_222c50ae83015d39737b29de3e7e269c" type="Folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Communist Party: Promotional Pocket Calendar</unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_39c7db2a909edecf3f11fe3bd681c0c4" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_57b4cd7d3b7bd1d69a457618a5f23dc3" parent="aspace_39c7db2a909edecf3f11fe3bd681c0c4" type="Folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Goddard, Howard: Oral History Interview Conducted by Art Day</unittitle><unitdate datechar="creation">Sep 1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_6b617135e717a98301736dc12431c75e" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_186d75a27247892c7c8b57c43ce08cb4" parent="aspace_6b617135e717a98301736dc12431c75e" type="Folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Ibarruri, Dolores: Clippings</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ed4ef4ef59aa2dfc3713b17ce46ead6" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_d36c41fe3adb4cc1aafa82a4ee41d1ba" parent="aspace_0ed4ef4ef59aa2dfc3713b17ce46ead6" type="Folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>International Brigades: Clippings</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_7541487b20ade5bd7bbdf214e68a3cb3" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_2f851fbdce725f26bf7166f17e74f2ae" parent="aspace_7541487b20ade5bd7bbdf214e68a3cb3" type="Folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>International Brigades: 60th Anniversary Tribute in Spain</unittitle><unitdate datechar="creation">Nov 1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_7f2990793e8f4ad1c516cdcabafa8991" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_b206c54138bcef085993df4f80cac9d3" parent="aspace_7f2990793e8f4ad1c516cdcabafa8991" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Spain: Certificate of Naturalization</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_118656608033a8f6373f5483ae113b20" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_c0a93faaf8109de7fac0a5ebe71baf09" parent="aspace_118656608033a8f6373f5483ae113b20" type="Folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Spain: Pension Acquisition for Veterans</unittitle><unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_35479704e6fe0408f3c561cc5ebe1a18" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_4d1994e4070e2be9fb446d233bc6ba1a" parent="aspace_35479704e6fe0408f3c561cc5ebe1a18" type="Folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Spanish Civil War: Association of the Friends of the Soviet Union Identification Card (Albacete)</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_8e091f79133339d865deedd99d3ff848" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_bbcc224dac85fe506d7657ba311c4ac4" parent="aspace_8e091f79133339d865deedd99d3ff848" type="Folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Spanish Civil War: Carnet de Honor</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_53b32776b753d88372e7525e890ae537" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_26c0d445216e2a0d075c6ea8fd3b53f0" parent="aspace_53b32776b753d88372e7525e890ae537" type="Folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Spanish Civil War: Citation of Honor</unittitle><unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e7e346cfeecc07fae50abff5dde84ad6" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_b5854d5f87934e48d9ca1538fd593b3d" parent="aspace_e7e346cfeecc07fae50abff5dde84ad6" type="Folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Spanish Civil War: Communist Party of Spain Identification Card</unittitle><unitdate datechar="creation">Jan 1, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_d03225178f4bcb3cbdd996e12fbb959f" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_97ca0af52207ba7a9c8f163c748dd861" parent="aspace_d03225178f4bcb3cbdd996e12fbb959f" type="Folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Spanish Civil War: Embarkation Card</unittitle><unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_41653f9a09808d7ca6e3d0528da2f578" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_1cfa2ecfc884ec11a8bd71c35b0a5074" parent="aspace_41653f9a09808d7ca6e3d0528da2f578" type="Folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Spanish Civil War: General Orders of Promotion</unittitle><unitdate datechar="creation">Oct 1, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_e17e73e3f5d8b2f561e38f584fec092d" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_08d807b1c4360f52a307d8f3dfaa19c7" parent="aspace_e17e73e3f5d8b2f561e38f584fec092d" type="Folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Spanish Civil War: International Brigades: Certificate of Service </unittitle><unitdate datechar="creation">Nov 10, 1938</unitdate><container altrender="Flat OS Box 17" id="aspace_a6338c1e5133f0d6063b5d5f2478403a" label="Mixed Materials [31142062759256]" type="Box">Shared Tamiment MSOS006</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Spanish Civil War: James Lardner Memorial Fund</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_a7d5eddf6cb349231d27234fbfeaf84a" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_78ca9f5c1553afcb2f746c3ff60af4e8" parent="aspace_a7d5eddf6cb349231d27234fbfeaf84a" type="Folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Spanish Civil War: Military Service Booklet</unittitle><unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f37c4b4726ea24a09e1a7682b45b64c" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_2ea0a630105e9ff9b2d32294917cce1a" parent="aspace_0f37c4b4726ea24a09e1a7682b45b64c" type="Folder">18</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Spanish Civil War: Order Form for Uniform</unittitle><unitdate datechar="creation">Sep 25, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_514ca62495a3b00f32e8d5a7a6c0e481" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_e443c355c2d9c4d47538dcc6c042d1dc" parent="aspace_514ca62495a3b00f32e8d5a7a6c0e481" type="Folder">19</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Spanish Civil War: Pesetas</unittitle><unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf2dd9c3ce10d964eacdb74825c570de" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_c3f07600867e9b280c8f621b3f76a9e0" parent="aspace_bf2dd9c3ce10d964eacdb74825c570de" type="Folder">20</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Spanish Civil War: Repatriation Papers</unittitle><unitdate datechar="creation">Nov 30, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_b8fbda1b4bce028cb162f391684cf580" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_cf1da324dd0d57854fde1fbdcb9b85fd" parent="aspace_b8fbda1b4bce028cb162f391684cf580" type="Folder">21</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Spanish Civil War: Socorro Rojo Internacional Identification Card</unittitle><unitdate datechar="creation">Aug 10, 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf0f8aa01348ed94fda074ccc7802b82" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_fa26468a0291cf6589fa21b3acb6d57e" parent="aspace_bf0f8aa01348ed94fda074ccc7802b82" type="Folder">22</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Spanish Civil War: Telephone Conference Call Records</unittitle><unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c1a44d8b02286a0b03fa20aecf3012b2" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_24aefb550937d40934b9f2d6fb452fbb" parent="aspace_c1a44d8b02286a0b03fa20aecf3012b2" type="Folder">23</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Spanish Civil War: Vaccination Certificate</unittitle><unitdate datechar="creation">Nov 6, 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_29c7fc4b02c44ba054cd5ccd3e3791eb" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_95d0643de7131681afd229554ca23852" parent="aspace_29c7fc4b02c44ba054cd5ccd3e3791eb" type="Folder">24</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Spanish Civil War: Veterans of the Abraham Lincoln Brigade Identification Card</unittitle><unitdate datechar="creation">Jan 1, 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_038ec48e61cc8ae31de651a930042a2e" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_54636b69fe60d8ea2a53490ef2e2cbf9" parent="aspace_038ec48e61cc8ae31de651a930042a2e" type="Folder">25</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Spanish Civil War: Wallet</unittitle><unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a149e16700833e87275d0dd36bcc0347" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_4c990aa099253b1b86d15a3647ca7912" parent="aspace_a149e16700833e87275d0dd36bcc0347" type="Folder">26</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Veterans: Obituaries and Eulogies</unittitle><unitdate datechar="creation" normal="1986/1992" type="inclusive">1986-1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_eaeeae95b7a27d35c611e053c98f335f" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_cd5dbdc5e3617588051b243a7e59bfc5" parent="aspace_eaeeae95b7a27d35c611e053c98f335f" type="Folder">27</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade: Anniversary Events</unittitle><unitdate datechar="creation" normal="1979/1994" type="inclusive">1979-1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_764768004cee63d55336a4c7e4e7356f" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_df47950e19d439f65fc0e5dca53eb55a" parent="aspace_764768004cee63d55336a4c7e4e7356f" type="Folder">28</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade: Newsletters</unittitle><unitdate datechar="creation" normal="1985/1996" type="inclusive">1985-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_504a07b0eb0e2318ea686faf3a3327fa" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_71bcd6cb3ce173ba36157dc1f5efbb9e" parent="aspace_504a07b0eb0e2318ea686faf3a3327fa" type="Folder">29</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade: Bay Area Post: Anniversary Events</unittitle><unitdate datechar="creation" normal="1984/1996" type="inclusive">1984-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_11bcce667872a2d8127a315fa977f291" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_b02d6ad13573ad987ef2f02fd3c7fedc" parent="aspace_11bcce667872a2d8127a315fa977f291" type="Folder">30</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Veterans of the Abraham Lincoln Brigade: Bay Area Post: Newsletters</unittitle><unitdate datechar="creation" normal="1979/1991" type="inclusive">1979-1991</unitdate><container altrender="Manuscript box - Legal" id="aspace_f5c658b23bf9c92f64ec004706c99a60" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_c3f9030196f6d37fef87e166ece21275" parent="aspace_f5c658b23bf9c92f64ec004706c99a60" type="Folder">31</container></did></c></c><c id="aspace_ref47" level="series"><did><unittitle>Series II: Correspondence</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref48" level="file"><did><unittitle>Doménech, Castillo Jesús</unittitle><unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate><container altrender="Manuscript box - Legal" id="aspace_3dbb051a57275a648b56a05955847b63" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_d4af35d6642329dccf3d33e692e4fa06" parent="aspace_3dbb051a57275a648b56a05955847b63" type="Folder">32</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Eladio, Paula</unittitle><unitdate datechar="creation">Feb 2, 1990</unitdate><container altrender="Manuscript box - Legal" id="aspace_b1125d0f08dd15fbf052718c37354aac" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_a00aa9b4dff3e642cc67a3cc935525de" parent="aspace_b1125d0f08dd15fbf052718c37354aac" type="Folder">33</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Geiser, Carl</unittitle><unitdate datechar="creation" normal="1992/1994" type="inclusive">1992-1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_5c849e5cbd64b01c2d36b94dfdacf554" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_75def950fe091698929a4982a6b0b34d" parent="aspace_5c849e5cbd64b01c2d36b94dfdacf554" type="Folder">34</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Ibarruri, Dolores</unittitle><unitdate datechar="creation" normal="1937/1996" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_975b640af7e5ecc152fd8b86cd1be0cd" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_e760e1a58cac9995cebfbbd1a3b0355d" parent="aspace_975b640af7e5ecc152fd8b86cd1be0cd" type="Folder">35</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Levenson, Leonard</unittitle><unitdate datechar="creation">Jan 27, 1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_6b61f35d360ab50067ff9cd35fa03637" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_39cddf600ae12872178fef0d57467958" parent="aspace_6b61f35d360ab50067ff9cd35fa03637" type="Folder">36</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>MacLeod, Donald</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_19bcfb98aeb6f735a2cf1ff37001916d" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_f98c167e4f905be81d71ea7c760519d3" parent="aspace_19bcfb98aeb6f735a2cf1ff37001916d" type="Folder">37</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Marantz, Anton Peter</unittitle><unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_916dc87208b41e715bb94d0d2c962c3a" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_69a7a722cefc7027cecdf31e18878a45" parent="aspace_916dc87208b41e715bb94d0d2c962c3a" type="Folder">38</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Murra, John</unittitle><unitdate datechar="creation" normal="1985/1995" type="inclusive">1985-1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_c4e39adb500a27d2268723d9ad483ef7" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_12e612cbba5de97fcf3b3c2e94ff9cea" parent="aspace_c4e39adb500a27d2268723d9ad483ef7" type="Folder">39</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Nelson, Steve</unittitle><unitdate datechar="creation">Nov 22, 1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_1530c8aa986029d5decb1dca55e3ef91" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_aea1fcb35926b4bbb711b3ec2702aace" parent="aspace_1530c8aa986029d5decb1dca55e3ef91" type="Folder">40</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Shelton, Denis</unittitle><unitdate datechar="creation">Oct. 11, 1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_428d63912a598c370cb53067d786166a" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_8035daa2a5a0daf3c2eaaeceab698109" parent="aspace_428d63912a598c370cb53067d786166a" type="Folder">41</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Valledor Alvarez, José Antonio</unittitle><unitdate datechar="creation" normal="1985/1994" type="inclusive">1985-1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e6161de0fdb1cd1b5983b1d7d788865" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_09c601d80103251699e022986b8bf5b9" parent="aspace_6e6161de0fdb1cd1b5983b1d7d788865" type="Folder">42</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Watt, George</unittitle><unitdate datechar="creation">Jan 18, 1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_f2c0ab1d2f0842c634b422b02dc96bb7" label="Mixed Materials [31142062756476]" type="Box">1</container><container id="aspace_d95a48eb21c74e6343d67b4bb78ed227" parent="aspace_f2c0ab1d2f0842c634b422b02dc96bb7" type="Folder">43</container></did></c></c></dsc>
+</archdesc>
 </ead>

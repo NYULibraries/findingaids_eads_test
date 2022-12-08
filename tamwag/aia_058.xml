@@ -1,185 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_058">aia_058</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Jim McGinty Papers <num>AIA.058</num></titleproper>
-        <author>Megan O'Shea</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>July 2018</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:26:34 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Jim McGinty Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">McGinty, Jim, 1937-2010</persname>
-      </origination>
-      <unitid>AIA.058</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-        <extent altrender="carrier">in 3 manuscript boxes and 1 half manuscript box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1949/2010" type="inclusive">1949-2010</unitdate>
-      <unitdate datechar="creation" normal="1978/2001" type="bulk">1978-2001</unitdate>
-      <abstract id="aspace_a12a5386a5c801c9e92187d26d6da0db">Jim McGinty (1937-2010) was a teacher and an active member in the Irish traditional music community in both the United States and Ireland.  He was a member of the Comhaltas Ceoltóirí Éireann (The Association of Traditional Irish Musicians) North America and the Michael Coleman Branch of Comhaltas.  The Jim McGinty Papers document McGinty's participation in Comhaltas and Fleadh Cheoil na hÉireann, as well as his work as a high school teacher and coach.   The collection dates from 1949 to 2010, with the bulk of material dating between 1978 and 2001,  and includes programs, schedules, newsletters, date books, clippings, periodicals, administrative documents, and correspondence.</abstract>
-      <physloc id="aspace_962ac9d6b860a62ee0b2a8c7aeebaf6c">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_a94e3b4eec218a866f616f4f41889b99">Materials primarily in English, with some publications in Irish.</langmaterial>
-    </did>
-    <userestrict id="aspace_25a7f313a064378f011a46bcdf0e493d">
-      <head>Conditions Governing Use</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by Jim McGinty were transferred to New York University in 2010 by Barbara McGinty. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library &amp; Robert F. Wagner Labor Archives. Please contact tamiment.wagner@nyu.edu.</p>
-    </userestrict>
-    <scopecontent id="aspace_cd06b04ff6e05c4b789245bd67cea617">
-      <head>Scope and Contents</head>
-      <p>The Jim McGinty Papers document McGinty's participation in traditional Irish music organizations, and his work as a high school teacher and coach.  The collection dates from 1949 to 2010, with the bulk of material dating between 1978 and 2001, and includes programs, schedules, newsletters, date books, clippings, periodicals, administrative documents, and correspondence.  The bulk of the material documents McGinty's participation in Comhaltas Ceoltóirí Éireann (The Association of Traditional Irish Musicians) North America, the Michael Coleman Branch of Comhaltas, and Comhaltas's Fleadh Cheoil na hÉireann from 1978 through 2002.  This material consists of event programs, schedules, and qualifier and result lists for competitions.  There is a small amount of correspondence, financial documents, and membership reports regarding the Michael Coleman Branch in the 1980s and 1990s.  McGinty's work as a teacher and coach is documented through a small amount of clippings and certificates from the 1970s through the 1990s.  The collection also contains photographs of McGinty with family and friends at various events in the United States and Ireland, and McGinty's date books from 1977 to 2002.</p>
-    </scopecontent>
-    <accessrestrict id="aspace_5a0cc00dc3a331bce3257dde378e9728">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_a4ae6a2042bc8a128b0a082124659055">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by the Barbara McGinty in 2010.  The accession number associated with this gift is 2010.056.</p>
-    </acqinfo>
-    <arrangement id="aspace_4433a44041f609ffd366df59d2bbd1c8">
-      <head>Arrangement</head>
-      <p>The collection is arranged in alphabetical order by organization title or format of material.</p>
-    </arrangement>
-    <bioghist id="aspace_d4930e88954741d91246f2557e3bf41c">
-      <head>Biographical Note</head>
-      <p>Jim McGinty (1937-2010) was a teacher and an active member in the Irish traditional music community in both the United States and Ireland.  He worked for over 30 years as a special education teacher and coached a number of sports teams in the North Rockland School District in New York state.  He was a member of the Comhaltas Ceoltóirí Éireann (The Association of Traditional Irish Musicians) North America and the Michael Coleman Branch of Comhaltas.  He served as the chairman of the branch a number of times in the 1990s.  He was active in Comhaltas's Fleadh Cheoil na hÉireann, and encouraged similar festivals in the United States.  He hosted an Irish music radio program for over two decades for the American Irish Association on WVOX in the New York City and Westchester County areas.</p>
-    </bioghist>
-    <prefercite id="aspace_fefae7f055efb0917162fcb1bff4bf95">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Jim McGinty Papers; AIA 058; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_a2ae8692bf265b1a6fbb657d1c25b88f">
-      <head>Processing Information</head>
-      <p>Materials related to each other were brought together physically and arranged in alphabetical order by organization title or format of material.  Materials were housed in archival folders and boxes.</p>
-    </processinfo>
-    <separatedmaterial id="aspace_db895d2132c02f4ae21e7212771e16b3">
-      <head>Separated Materials</head>
-      <p>Approximately 550 sound recordings on compact disc were transferred to the Avery Fisher Center in 2010.  Approximately 150 sound recordings on disc were transferred to the Avery Fisher Center in July 2018.</p>
-    </separatedmaterial>
-    <controlaccess>
-      <subject source="lcsh">Irish -- Music.</subject>
-      <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
-      <subject source="lcsh">Irish -- Societies, etc.</subject>
-      <genreform source="aat">Programs (documents)</genreform>
-      <genreform source="lcsh">Datebooks.</genreform>
-      <corpname source="naf">Comhaltas Ceolótirí Éireann</corpname>
-      <corpname rules="dacs" source="local">Comhaltas Ceolótirí Éireann. Fleadh Cheoil Na hÉireann</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_aac79759a8e279798d61cb0fbc752cab" level="file">
-        <did>
-          <unittitle>Award, business cards, and patch</unittitle>
-          <unitdate datechar="creation" normal="1960/2000" type="inclusive">1960-2000</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1a1aa13546f8134bc22ce45f9180df3d" label="Mixed Materials [31142063577731]" type="Box">1</container>
-          <container id="aspace_2130914948f053316773aeaae0d2b0f4" parent="aspace_1a1aa13546f8134bc22ce45f9180df3d" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_bf9bdcffcd47c8a30fac86824dd77377" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate datechar="creation" normal="1949/2004" type="inclusive">1949-2004</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ac20b44b990f36e64a9ed036e4da4906" label="Mixed Materials [31142063577731]" type="Box">1</container>
-          <container id="aspace_994a087fed4ef791b17350557fc17503" parent="aspace_ac20b44b990f36e64a9ed036e4da4906" type="Folder">2-4</container>
-        </did>
-      </c>
-      <c id="aspace_1a6630600a12fc7ded8812418b95ab13" level="file">
-        <did>
-          <unittitle>Comhaltas Ceoltóirí Éireann -- Fleadh Cheoil Na hÉireann</unittitle>
-          <unitdate datechar="creation" normal="1977/2003" type="inclusive">1977-2003</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_95dbad8abe4942fa6ac40f4e11be62ca" label="Mixed Materials [31142063577731]" type="Box">1</container>
-          <container id="aspace_1187a387baaef860f6519a458c3c7ba9" parent="aspace_95dbad8abe4942fa6ac40f4e11be62ca" type="Folder">12-18</container>
-          <container altrender="Manuscript box - Legal" id="aspace_ee943f1f8534f45e987b04d3e248728f" label="Mixed Materials [31142063577723]" type="Box">2</container>
-          <container id="aspace_e465216ce4e4f0690f5b4407473d011b" parent="aspace_ee943f1f8534f45e987b04d3e248728f" type="Folder">1-6</container>
-          <container altrender="Manuscript box - Legal" id="aspace_6c1327cbdfe2a2e3c5ecea202ae7736c" label="Mixed Materials [31142063577715]" type="Box">3</container>
-          <container id="aspace_103e6f6a6ef332e66e3a95aca07fc6f5" parent="aspace_6c1327cbdfe2a2e3c5ecea202ae7736c" type="Folder">1-3</container>
-        </did>
-      </c>
-      <c id="aspace_cee49614b821d19d7ddb0e7044eb601e" level="file">
-        <did>
-          <unittitle>Comhaltas Ceoltóirí Éireann -- General</unittitle>
-          <unitdate datechar="creation" normal="1970/2009" type="inclusive">1970-2009</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_4bf168e74407dabba0856cc94e97f244" label="Mixed Materials [31142063577731]" type="Box">1</container>
-          <container id="aspace_a4720e79f737fc7da0e6ad380193d0f4" parent="aspace_4bf168e74407dabba0856cc94e97f244" type="Folder">5-11</container>
-        </did>
-      </c>
-      <c id="aspace_50181a7e6c01556384d7c13b3f319ac0" level="file">
-        <did>
-          <unittitle>Comhaltas Ceoltóirí Éireann -- Michael Coleman Branch</unittitle>
-          <unitdate datechar="creation" normal="1978/2004" type="inclusive">1978-2004</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_66bccebf2e40a5a9c498fcd0cd6a8caa" label="Mixed Materials [31142063577715]" type="Box">3</container>
-          <container id="aspace_a51f5b4cb5daa29a471d0302e7d9d64d" parent="aspace_66bccebf2e40a5a9c498fcd0cd6a8caa" type="Folder">4-7</container>
-        </did>
-      </c>
-      <c id="aspace_5990c9125686862cfa1db845521ed5f7" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1962/2007" type="inclusive">1962-2007</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_e010cc8145632253957c0a59fa79735d" label="Mixed Materials [31142063577715]" type="Box">3</container>
-          <container id="aspace_61c4341ee11f18523ad5c18ac328b37f" parent="aspace_e010cc8145632253957c0a59fa79735d" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_b09bd3d1d7fcfc26aad62114ced24595" level="file">
-        <did>
-          <unittitle>Datebooks</unittitle>
-          <unitdate datechar="creation" normal="1979/2008" type="inclusive">1979-2008</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c8a17617b274898a2ca9274818a5e8db" label="Mixed Materials [31142063577715]" type="Box">3</container>
-          <container id="aspace_1e0ec277290122e250e161d6c5c0d0dc" parent="aspace_c8a17617b274898a2ca9274818a5e8db" type="Folder">9-13</container>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_f6bb2ce17eb5b0019e592b837964caf3" label="Mixed Materials [31142063577707]" type="Box">4</container>
-          <container id="aspace_1b986aced17fda8cf65cad9b5be33774" parent="aspace_f6bb2ce17eb5b0019e592b837964caf3" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_45e0edf10fb5d50ce17a457b79cb5656" level="file">
-        <did>
-          <unittitle>Irish music events programs</unittitle>
-          <unitdate datechar="creation" normal="1983/2000" type="inclusive">1983-2000</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_98fdc5891d277c7a4246f420dda2f87c" label="Mixed Materials [31142063577707]" type="Box">4</container>
-          <container id="aspace_fdf190ec1eeb24f3ed6f4a681b11a866" parent="aspace_98fdc5891d277c7a4246f420dda2f87c" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_4af935c62befd3add97b4f54b2674b99" level="file">
-        <did>
-          <unittitle>Periodicals</unittitle>
-          <unitdate datechar="creation" normal="1974/1996" type="inclusive">1974-1996</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_e04e31623a1643405edae582083b6a40" label="Mixed Materials [31142063577707]" type="Box">4</container>
-          <container id="aspace_f666102f7427fa19695378ac418171c3" parent="aspace_e04e31623a1643405edae582083b6a40" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_b67be88a2e8c4684fefb8b3761fe9627" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <unitdate datechar="creation" normal="1969/2010" type="inclusive">1969-2010</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_475935dd6cc8972efd4f9eac4b37908a" label="Mixed Materials [31142063577707]" type="Box">4</container>
-          <container id="aspace_c164ed36e168a582a44b66b2eec6880d" parent="aspace_475935dd6cc8972efd4f9eac4b37908a" type="Folder">4-5</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_058">aia_058</eadid><filedesc><titlestmt><titleproper>Guide to the Jim McGinty Papers <num>AIA.058</num></titleproper><author>Megan O'Shea</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>July 2018</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:49:42 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Jim McGinty Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">McGinty, Jim, 1937-2010</persname>
+    </origination>
+    <unitid>AIA.058</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">in 3 manuscript boxes and 1 half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1949/2010" type="inclusive">1949-2010</unitdate>
+    <unitdate datechar="creation" normal="1978/2001" type="bulk">1978-2001</unitdate>
+    <abstract id="aspace_a12a5386a5c801c9e92187d26d6da0db">Jim McGinty (1937-2010) was a teacher and an active member in the Irish traditional music community in both the United States and Ireland.  He was a member of the Comhaltas Ceoltóirí Éireann (The Association of Traditional Irish Musicians) North America and the Michael Coleman Branch of Comhaltas.  The Jim McGinty Papers document McGinty's participation in Comhaltas and Fleadh Cheoil na hÉireann, as well as his work as a high school teacher and coach.   The collection dates from 1949 to 2010, with the bulk of material dating between 1978 and 2001,  and includes programs, schedules, newsletters, date books, clippings, periodicals, administrative documents, and correspondence.</abstract>
+    <physloc id="aspace_962ac9d6b860a62ee0b2a8c7aeebaf6c">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_a94e3b4eec218a866f616f4f41889b99">Materials primarily in English, with some publications in Irish.</langmaterial>
+  </did>
+  <userestrict id="aspace_25a7f313a064378f011a46bcdf0e493d">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Jim McGinty were transferred to New York University in 2010 by Barbara McGinty. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library &amp; Robert F. Wagner Labor Archives. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <scopecontent id="aspace_cd06b04ff6e05c4b789245bd67cea617">
+    <head>Scope and Contents</head>
+<p>The Jim McGinty Papers document McGinty's participation in traditional Irish music organizations, and his work as a high school teacher and coach.  The collection dates from 1949 to 2010, with the bulk of material dating between 1978 and 2001, and includes programs, schedules, newsletters, date books, clippings, periodicals, administrative documents, and correspondence.  The bulk of the material documents McGinty's participation in Comhaltas Ceoltóirí Éireann (The Association of Traditional Irish Musicians) North America, the Michael Coleman Branch of Comhaltas, and Comhaltas's Fleadh Cheoil na hÉireann from 1978 through 2002.  This material consists of event programs, schedules, and qualifier and result lists for competitions.  There is a small amount of correspondence, financial documents, and membership reports regarding the Michael Coleman Branch in the 1980s and 1990s.  McGinty's work as a teacher and coach is documented through a small amount of clippings and certificates from the 1970s through the 1990s.  The collection also contains photographs of McGinty with family and friends at various events in the United States and Ireland, and McGinty's date books from 1977 to 2002.</p>  </scopecontent>
+  <accessrestrict id="aspace_5a0cc00dc3a331bce3257dde378e9728">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a4ae6a2042bc8a128b0a082124659055">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by the Barbara McGinty in 2010.  The accession number associated with this gift is 2010.056.</p>  </acqinfo>
+  <arrangement id="aspace_4433a44041f609ffd366df59d2bbd1c8">
+    <head>Arrangement</head>
+<p>The collection is arranged in alphabetical order by organization title or format of material.</p>  </arrangement>
+  <bioghist id="aspace_d4930e88954741d91246f2557e3bf41c">
+    <head>Biographical Note</head>
+<p>Jim McGinty (1937-2010) was a teacher and an active member in the Irish traditional music community in both the United States and Ireland.  He worked for over 30 years as a special education teacher and coached a number of sports teams in the North Rockland School District in New York state.  He was a member of the Comhaltas Ceoltóirí Éireann (The Association of Traditional Irish Musicians) North America and the Michael Coleman Branch of Comhaltas.  He served as the chairman of the branch a number of times in the 1990s.  He was active in Comhaltas's Fleadh Cheoil na hÉireann, and encouraged similar festivals in the United States.  He hosted an Irish music radio program for over two decades for the American Irish Association on WVOX in the New York City and Westchester County areas.</p>  </bioghist>
+  <prefercite id="aspace_fefae7f055efb0917162fcb1bff4bf95">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Jim McGinty Papers; AIA 058; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_a2ae8692bf265b1a6fbb657d1c25b88f">
+    <head>Processing Information</head>
+<p>Materials related to each other were brought together physically and arranged in alphabetical order by organization title or format of material.  Materials were housed in archival folders and boxes.</p>  </processinfo>
+  <separatedmaterial id="aspace_db895d2132c02f4ae21e7212771e16b3">
+    <head>Separated Materials</head>
+<p>Approximately 550 sound recordings on compact disc were transferred to the Avery Fisher Center in 2010.  Approximately 150 sound recordings on disc were transferred to the Avery Fisher Center in July 2018.</p>  </separatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Irish -- Music</subject>
+    <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
+    <subject source="lcsh">Irish -- Societies, etc.</subject>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="lcsh">Datebooks.</genreform>
+    <corpname source="naf">Comhaltas Ceolótirí Éireann</corpname>
+    <corpname rules="dacs" source="local">Comhaltas Ceolótirí Éireann. Fleadh Cheoil Na hÉireann</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_aac79759a8e279798d61cb0fbc752cab" level="file"><did><unittitle>Award, business cards, and patch</unittitle><unitdate datechar="creation" normal="1960/2000" type="inclusive">1960-2000</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b5efbbd6cb7c2712c7566d6bdc158cf" label="Mixed Materials [31142063577731]" type="Box">1</container><container id="aspace_f7cc56c4a92133b729c73d4702f67721" parent="aspace_0b5efbbd6cb7c2712c7566d6bdc158cf" type="Folder">1</container></did></c><c id="aspace_bf9bdcffcd47c8a30fac86824dd77377" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1949/2004" type="inclusive">1949-2004</unitdate><container altrender="Manuscript box - Legal" id="aspace_5aab83778f062f27a3320842712b2519" label="Mixed Materials [31142063577731]" type="Box">1</container><container id="aspace_92ccdd2638fb281ff611d93fec289d4a" parent="aspace_5aab83778f062f27a3320842712b2519" type="Folder">2-4</container></did></c><c id="aspace_1a6630600a12fc7ded8812418b95ab13" level="file"><did><unittitle>Comhaltas Ceoltóirí Éireann -- Fleadh Cheoil Na hÉireann</unittitle><unitdate datechar="creation" normal="1977/2003" type="inclusive">1977-2003</unitdate><container altrender="Manuscript box - Legal" id="aspace_1a9e4412980f355645308a8dd6191836" label="Mixed Materials [31142063577731]" type="Box">1</container><container id="aspace_112c18b1138e906fa2b764ddd267b688" parent="aspace_1a9e4412980f355645308a8dd6191836" type="Folder">12-18</container><container altrender="Manuscript box - Legal" id="aspace_10ba46407a15fd6cbd8da8039e5b9029" label="Mixed Materials [31142063577723]" type="Box">2</container><container id="aspace_65d3fd12940251ddd857b670151a472e" parent="aspace_10ba46407a15fd6cbd8da8039e5b9029" type="Folder">1-6</container><container altrender="Manuscript box - Legal" id="aspace_29827bced3a5c3b5488f25b23b2ef2e0" label="Mixed Materials [31142063577715]" type="Box">3</container><container id="aspace_a989cb2a9bf3e1513733462be12fee8c" parent="aspace_29827bced3a5c3b5488f25b23b2ef2e0" type="Folder">1-3</container></did></c><c id="aspace_cee49614b821d19d7ddb0e7044eb601e" level="file"><did><unittitle>Comhaltas Ceoltóirí Éireann -- General</unittitle><unitdate datechar="creation" normal="1970/2009" type="inclusive">1970-2009</unitdate><container altrender="Manuscript box - Legal" id="aspace_3a3450cee9930220acf658f6872e5ef9" label="Mixed Materials [31142063577731]" type="Box">1</container><container id="aspace_250e3038d196616f6d182b6a704183ae" parent="aspace_3a3450cee9930220acf658f6872e5ef9" type="Folder">5-11</container></did></c><c id="aspace_50181a7e6c01556384d7c13b3f319ac0" level="file"><did><unittitle>Comhaltas Ceoltóirí Éireann -- Michael Coleman Branch</unittitle><unitdate datechar="creation" normal="1978/2004" type="inclusive">1978-2004</unitdate><container altrender="Manuscript box - Legal" id="aspace_920a9d04e6c7f8471243de5f4e88c495" label="Mixed Materials [31142063577715]" type="Box">3</container><container id="aspace_5fc77998ee614c4dd6c619764725ecb6" parent="aspace_920a9d04e6c7f8471243de5f4e88c495" type="Folder">4-7</container></did></c><c id="aspace_5990c9125686862cfa1db845521ed5f7" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1962/2007" type="inclusive">1962-2007</unitdate><container altrender="Manuscript box - Legal" id="aspace_16abf6e43e4c3632ce667413bc3777f5" label="Mixed Materials [31142063577715]" type="Box">3</container><container id="aspace_d25e0a52496ca0c992942075c89e79d2" parent="aspace_16abf6e43e4c3632ce667413bc3777f5" type="Folder">8</container></did></c><c id="aspace_b09bd3d1d7fcfc26aad62114ced24595" level="file"><did><unittitle>Datebooks</unittitle><unitdate datechar="creation" normal="1979/2008" type="inclusive">1979-2008</unitdate><container altrender="Manuscript box - Legal" id="aspace_ca4236c8ff4652607450b26577d98cc7" label="Mixed Materials [31142063577715]" type="Box">3</container><container id="aspace_651113552516ee4d707b8cf5860877db" parent="aspace_ca4236c8ff4652607450b26577d98cc7" type="Folder">9-13</container><container altrender="Manuscript box - Legal - Half" id="aspace_2069633dcee31ce002fe25e007d56cb6" label="Mixed Materials [31142063577707]" type="Box">4</container><container id="aspace_58e20f6ee0f5db69e2af1b79646f82b3" parent="aspace_2069633dcee31ce002fe25e007d56cb6" type="Folder">1</container></did></c><c id="aspace_45e0edf10fb5d50ce17a457b79cb5656" level="file"><did><unittitle>Irish music events programs</unittitle><unitdate datechar="creation" normal="1983/2000" type="inclusive">1983-2000</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3e3469c04db02b17d54437bde2f86799" label="Mixed Materials [31142063577707]" type="Box">4</container><container id="aspace_9a6ff590abb1ec2bbe52bbc8266a14ca" parent="aspace_3e3469c04db02b17d54437bde2f86799" type="Folder">2</container></did></c><c id="aspace_4af935c62befd3add97b4f54b2674b99" level="file"><did><unittitle>Periodicals</unittitle><unitdate datechar="creation" normal="1974/1996" type="inclusive">1974-1996</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d8b106678293d95fa98f10e66382e0f5" label="Mixed Materials [31142063577707]" type="Box">4</container><container id="aspace_40052c85323e1802f1799f6bc27d6800" parent="aspace_d8b106678293d95fa98f10e66382e0f5" type="Folder">3</container></did></c><c id="aspace_b67be88a2e8c4684fefb8b3761fe9627" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation" normal="1969/2010" type="inclusive">1969-2010</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3a1f8dcdad1e18bb1b46a721b7c3cf6e" label="Mixed Materials [31142063577707]" type="Box">4</container><container id="aspace_85c93e259ffb32957d36ffce9916521f" parent="aspace_3a1f8dcdad1e18bb1b46a721b7c3cf6e" type="Folder">4-5</container></did></c></dsc>
+</archdesc>
 </ead>

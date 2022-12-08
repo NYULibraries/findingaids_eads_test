@@ -1,187 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_061">aia_061</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Rose Cosgrove County Longford Ladies Auxiliary Papers <num>AIA.061</num></titleproper>
-        <author>Bonnie Gordon</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>6/2/14</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:27:03 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Rose Cosgrove County Longford Ladies Auxiliary Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Cosgrove, Rose</persname>
-      </origination>
-      <unitid>AIA.061</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
-        <extent altrender="carrier">in 1 manuscript box, 2 oversize flat boxes, and 2 small artifact boxes</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1949/2007" type="inclusive">1949-2007</unitdate>
-      <abstract id="aspace_afa1b7638e017e1514ce39caaf48c70e">Rose Cosgrove (1908-2009) was a leading member of the County Longford Association and the County Longford Social Club of New York. This collection consists of materials pertaining to the County Longford Ladies Auxiliary, the County Longford Association, the United Irish Counties Association, and other Irish American organizations based in the greater New York City area. Materials include photographs, artwork, event programs, as well as various artifacts, such as banners, ribbons, buttons, and ceremonial uniforms.</abstract>
-      <langmaterial id="aspace_23a0076cad5b80fc8b0c542ace7b7800">Materials are in English.</langmaterial>
-    </did>
-    <scopecontent id="aspace_ef5972a51deb2a5db0413558b7d885ec">
-      <head>Scope and Content Note</head>
-      <p>This collection consists of materials pertaining to the County Longford Ladies Auxiliary, the County Longford Association, the United Irish Counties Association, and other Irish American organizations based in the greater New York City area. Materials include photographs, artwork, event programs, as well as various artifacts, such as banners, ribbons, buttons, and ceremonial uniforms.</p>
-    </scopecontent>
-    <accessrestrict id="aspace_1ba059bd90ab728068432002ea78d2af">
-      <head>Access Restrictions</head>
-      <p>Open for research without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_0b05bd3b838d20b477d4410a322afbfa">
-      <head>Use Restrictions</head>
-      <p>The Tamiment Library does not have information about who owns copyright to this collection. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-    </userestrict>
-    <arrangement id="aspace_89c443ae6f6195017fa1f507ea203ead">
-      <head>Arrangement</head>
-      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <relatedmaterial id="aspace_3dcabd901861e183b05e7e0872443822">
-      <head>Related Archival Materials</head>
-      <p>Archives of Irish America County Societies Collection (AIA 003)</p>
-      <p>United Irish Counties Association of New York (AIA 056)</p>
-    </relatedmaterial>
-    <bioghist id="aspace_9f445ef63dfb27b3680cc3491f6a1bf7">
-      <head>Historical/Biographical Note</head>
-      <p>Rose Cosgrove (1908-2009) was a leading member of the County Longford Association and the County Longford Social Club of New York. Born in Dernaferst, Lough Gowna, Co. Cavan, she emigrated to New York as a young woman. Upon her arrival, she worked as a housekeeper and joined numerous Irish American social organizations. She served as the president of the Co. Longford Association from 1982-1984. Up until the last ten years of her life, Cosgrove travelled to Ireland annually.</p>
-    </bioghist>
-    <acqinfo id="aspace_b926ab59fe437b1572b536f1f305bd52">
-      <head>Immediate Source of Acquisition</head>
-      <p>Brigid Connolly Sullivan, Rose Cosgrove's neice, donated the materials in this collection to Glucksman Ireland House in anticipation of an exhibit in 2010. Additional donations were received at an unknown, later date. The accession number associated with this gift is 2011.002.</p>
-    </acqinfo>
-    <prefercite id="aspace_8e038cd823de886429ee67443e6a4d68">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Rose Cosgrove County Longford Ladies Auxiliary Papers; AIA 061; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <controlaccess>
-      <subject source="lcsh">Irish Americans -- Ethnic identity.</subject>
-      <subject source="lcsh">Irish Americans -- New York (N.Y.) -- Social life and customs.</subject>
-      <geogname source="lcsh">Longford (Ireland : County)</geogname>
-      <subject source="lcsh">Women -- New York (State) -- New York -- Societies, etc.</subject>
-      <subject source="lcsh">Irish Americans -- Social life and customs.</subject>
-      <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Artifacts: County Longford Ladies Auxiliary hats and ribbons</unittitle>
-          <container altrender="OS Flat Box - 15x19x3" id="aspace_efeb9415a743a6bcdc4289325bae543e" label="Mixed Materials [31142054612067]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Artwork and Home Crafts</unittitle>
-          <unitdate datechar="creation" normal="1963/1963" type="inclusive">circa 1963</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_2489a9327482c771025d50f0865dede8" label="Mixed Materials [31142054611960]" type="Box">1</container>
-          <container id="aspace_566387fdb993b47310d6e28b79dba5dd" parent="aspace_2489a9327482c771025d50f0865dede8" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>"Beautiful Ireland in Verse and Picture"</unittitle>
-          <unitdate datechar="creation" normal="1940/1949" type="inclusive">circa 1940-1949</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_80940bee3ac6f016984a801096ced9e6" label="Mixed Materials [31142054611960]" type="Box">1</container>
-          <container id="aspace_2a4fd7424699bcc1b2d0d72679e05440" parent="aspace_80940bee3ac6f016984a801096ced9e6" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>"Celtic Crossing: A Celebration of Irish Heritage"</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b7dc8df9fdc3b9b79ba0273b0636729d" label="Mixed Materials [31142054611960]" type="Box">1</container>
-          <container id="aspace_3f9a57066ebde3c2898b3e2f0105dfc1" parent="aspace_b7dc8df9fdc3b9b79ba0273b0636729d" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1994/2007" type="inclusive">1994-2007</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b1ad1f5d0ec0415ae29da003e5f78d42" label="Mixed Materials [31142054611960]" type="Box">1</container>
-          <container id="aspace_2abb3d53674e51eed3a4d23ab6402907" parent="aspace_b1ad1f5d0ec0415ae29da003e5f78d42" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Dinner Dance Programs</unittitle>
-          <unitdate datechar="creation">1979, 1984</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_35cb0f95a77a0059e2a20d7fb9bef77c" label="Mixed Materials [31142054611960]" type="Box">1</container>
-          <container id="aspace_32a6b8d7db334a5a698b4bd06c8ab333" parent="aspace_35cb0f95a77a0059e2a20d7fb9bef77c" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>Framed Photograph Collage</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="OS Flat Box - 19 " id="aspace_3bcc0b01cd1d3127828f5f13abde2380" label="Mixed Materials [31142054612083]" type="Box">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Meeting Log Book</unittitle>
-          <unitdate datechar="creation" normal="1957/1972" type="inclusive">1957-1972</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_cb89fb318bfcb95b4aaa605b56fe0c1d" label="Mixed Materials [31142054611960]" type="Box">1</container>
-          <container id="aspace_c75435c0f6ee2165026f9abd9521e106" parent="aspace_cb89fb318bfcb95b4aaa605b56fe0c1d" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5bc43a583cc715f2e4ad5a1505ca05b3" label="Mixed Materials [31142054611960]" type="Box">1</container>
-          <container id="aspace_525b8f58e4a85c6420be3f9dab432f3b" parent="aspace_5bc43a583cc715f2e4ad5a1505ca05b3" type="Folder">7</container>
-          <container altrender="Flat OS Box 17" id="aspace_7d06b28aa01300ee6a5998e2cd247d57" label="Mixed Materials [31142062759801]" type="Box">Tamiment Shared AIAOS001</container>
-          <container id="aspace_cde8a3658ecc6cbeb0b77b55cb501e43" parent="aspace_7d06b28aa01300ee6a5998e2cd247d57" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Plaque</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="OS Flat Box - 15x19x3" id="aspace_8501f33999de63bdcb7e39bf584aa1f4" label="Mixed Materials [31142054612067]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>Ribbons</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_207cec442510617008e6612c3587f82d" label="Mixed Materials [31142054611978]" type="Box">3</container>
-          <container altrender="Card Box 5.75" id="aspace_d103511687eddc9ec4770c4fcd31b872" label="Mixed Materials [31142054611986]" type="Box">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>United Irish Counties Association</unittitle>
-          <unitdate datechar="creation" normal="1979/1992" type="inclusive">1979-1992</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_6a8ece4de05feb1b3e28f0b30d66e797" label="Mixed Materials [31142054611960]" type="Box">1</container>
-          <container id="aspace_9ea7485f00116a361dba754ce9e7b00e" parent="aspace_6a8ece4de05feb1b3e28f0b30d66e797" type="Folder">8</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_061">aia_061</eadid><filedesc><titlestmt><titleproper>Guide to the Rose Cosgrove County Longford Ladies Auxiliary Papers <num>AIA.061</num></titleproper><author>Bonnie Gordon</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>6/2/14</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:50:25 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Rose Cosgrove County Longford Ladies Auxiliary Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Cosgrove, Rose</persname>
+    </origination>
+    <unitid>AIA.061</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box, 2 oversize flat boxes, and 2 small artifact boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1949/2007" type="inclusive">1949-2007</unitdate>
+    <abstract id="aspace_afa1b7638e017e1514ce39caaf48c70e">Rose Cosgrove (1908-2009) was a leading member of the County Longford Association and the County Longford Social Club of New York. This collection consists of materials pertaining to the County Longford Ladies Auxiliary, the County Longford Association, the United Irish Counties Association, and other Irish American organizations based in the greater New York City area. Materials include photographs, artwork, event programs, as well as various artifacts, such as banners, ribbons, buttons, and ceremonial uniforms.</abstract>
+    <langmaterial id="aspace_23a0076cad5b80fc8b0c542ace7b7800">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_ef5972a51deb2a5db0413558b7d885ec">
+    <head>Scope and Content Note</head>
+<p>This collection consists of materials pertaining to the County Longford Ladies Auxiliary, the County Longford Association, the United Irish Counties Association, and other Irish American organizations based in the greater New York City area. Materials include photographs, artwork, event programs, as well as various artifacts, such as banners, ribbons, buttons, and ceremonial uniforms.</p>  </scopecontent>
+  <accessrestrict id="aspace_1ba059bd90ab728068432002ea78d2af">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_0b05bd3b838d20b477d4410a322afbfa">
+    <head>Use Restrictions</head>
+<p>The Tamiment Library does not have information about who owns copyright to this collection. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <arrangement id="aspace_89c443ae6f6195017fa1f507ea203ead">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <relatedmaterial id="aspace_3dcabd901861e183b05e7e0872443822">
+    <head>Related Archival Materials</head>
+<p>Archives of Irish America County Societies Collection (AIA 003)</p><p>United Irish Counties Association of New York (AIA 056)</p>  </relatedmaterial>
+  <bioghist id="aspace_9f445ef63dfb27b3680cc3491f6a1bf7">
+    <head>Historical/Biographical Note</head>
+<p>Rose Cosgrove (1908-2009) was a leading member of the County Longford Association and the County Longford Social Club of New York. Born in Dernaferst, Lough Gowna, Co. Cavan, she emigrated to New York as a young woman. Upon her arrival, she worked as a housekeeper and joined numerous Irish American social organizations. She served as the president of the Co. Longford Association from 1982-1984. Up until the last ten years of her life, Cosgrove travelled to Ireland annually.</p>  </bioghist>
+  <acqinfo id="aspace_b926ab59fe437b1572b536f1f305bd52">
+    <head>Immediate Source of Acquisition</head>
+<p>Brigid Connolly Sullivan, Rose Cosgrove's neice, donated the materials in this collection to Glucksman Ireland House in anticipation of an exhibit in 2010. Additional donations were received at an unknown, later date. The accession number associated with this gift is 2011.002.</p>  </acqinfo>
+  <prefercite id="aspace_8e038cd823de886429ee67443e6a4d68">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Rose Cosgrove County Longford Ladies Auxiliary Papers; AIA 061; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Irish Americans -- Ethnic identity.</subject>
+    <subject source="lcsh">Irish Americans -- New York (N.Y.) -- Social life and customs.</subject>
+    <geogname source="lcsh">Longford (Ireland : County)</geogname>
+    <subject source="lcsh">Women -- New York (State) -- New York -- Societies, etc.</subject>
+    <subject source="lcsh">Irish Americans -- Social life and customs.</subject>
+    <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref21" level="file"><did><unittitle>Artifacts: County Longford Ladies Auxiliary hats and ribbons</unittitle><container altrender="OS Flat Box - 15x19x3" id="aspace_29f6bde2ae2261bc4020adabfd60b92e" label="Mixed Materials [31142054612067]" type="Box">2</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Artwork and Home Crafts</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">circa 1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_32a198c3eb93b4e0dfadfa8763512b89" label="Mixed Materials [31142054611960]" type="Box">1</container><container id="aspace_d469f924c5ae2e82d64a461981c2f87f" parent="aspace_32a198c3eb93b4e0dfadfa8763512b89" type="Folder">1</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>"Beautiful Ireland in Verse and Picture"</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">circa 1940-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_53d05fa14dfea406ba23bfa46dce4e9e" label="Mixed Materials [31142054611960]" type="Box">1</container><container id="aspace_c699144738fe92e0ec023ba891abd415" parent="aspace_53d05fa14dfea406ba23bfa46dce4e9e" type="Folder">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>"Celtic Crossing: A Celebration of Irish Heritage"</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a67c76733d8b8fb600b7f6872d642bf3" label="Mixed Materials [31142054611960]" type="Box">1</container><container id="aspace_33f991cf03183b303e29d851707fce0d" parent="aspace_a67c76733d8b8fb600b7f6872d642bf3" type="Folder">3</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1994/2007" type="inclusive">1994-2007</unitdate><container altrender="Manuscript box - Legal" id="aspace_964cdbb0483b5d379124afbd30e3ee2a" label="Mixed Materials [31142054611960]" type="Box">1</container><container id="aspace_6cdccea819c07a21cb06a1f2da021d42" parent="aspace_964cdbb0483b5d379124afbd30e3ee2a" type="Folder">4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Dinner Dance Programs</unittitle><unitdate datechar="creation">1979, 1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_f2aa214b66b9c2fc624420f86c49861b" label="Mixed Materials [31142054611960]" type="Box">1</container><container id="aspace_a7b2d21057f0a7c31631bfa1d0652797" parent="aspace_f2aa214b66b9c2fc624420f86c49861b" type="Folder">5</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Framed Photograph Collage</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box - 19 " id="aspace_904b8e5be72dfa2489f8d41b9f08f61a" label="Mixed Materials [31142054612083]" type="Box">5</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Meeting Log Book</unittitle><unitdate datechar="creation" normal="1957/1972" type="inclusive">1957-1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_10e2ff98b87ab772cb14ba27cb98c1de" label="Mixed Materials [31142054611960]" type="Box">1</container><container id="aspace_9041d32ee273a3f20cb72681f88d1748" parent="aspace_10e2ff98b87ab772cb14ba27cb98c1de" type="Folder">6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f9b8103b16a86d50c7b94222ff0d942d" label="Mixed Materials [31142054611960]" type="Box">1</container><container id="aspace_d394d49f67bb1d800a2ff708e3efeacc" parent="aspace_f9b8103b16a86d50c7b94222ff0d942d" type="Folder">7</container><container altrender="Flat OS Box 17" id="aspace_69a15cf2bb4852312a0122d7b7d26315" label="Mixed Materials [31142062759801]" type="Box">Shared Tamiment AIAOS001</container><container id="aspace_1b72781fa0f34be2aabbceaa79f3c7b6" parent="aspace_69a15cf2bb4852312a0122d7b7d26315" type="Folder">1</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Plaque</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_cb0c2231809d5ecc0853d4ff5c81539d" label="Mixed Materials [31142054612067]" type="Box">2</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Ribbons</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_1dcb1a43a7df8686f27f2b118608318f" label="Mixed Materials [31142054611978]" type="Box">3</container><container altrender="Card Box 5.75" id="aspace_6a0f507fc2d6600b6181073c75883902" label="Mixed Materials [31142054611986]" type="Box">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>United Irish Counties Association</unittitle><unitdate datechar="creation" normal="1979/1992" type="inclusive">1979-1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_85f979310e2fd3b551d490a4e2fce24d" label="Mixed Materials [31142054611960]" type="Box">1</container><container id="aspace_8cf745ec94fd365c7c2eb24361a36307" parent="aspace_85f979310e2fd3b551d490a4e2fce24d" type="Folder">8</container></did></c></dsc>
+</archdesc>
 </ead>

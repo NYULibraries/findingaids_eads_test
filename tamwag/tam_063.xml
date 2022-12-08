@@ -1,252 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_063">tam_063</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the William J. Cassidy Files on the Tri-State Mining District of Missouri, Kansas and Oklahoma <num>TAM.063</num></titleproper>
-        <author>Tamiment staff</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from Cassidy-Tri-State Mining</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 17:00:39 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>William J. Cassidy Files on the Tri-State Mining District of Missouri, Kansas and Oklahoma</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Cassidy, William J.</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Cassidy, William J.</persname>
-      </origination>
-      <unitid>TAM.063</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1925/1950" type="inclusive">1925-1950</unitdate>
-      <abstract id="aspace_5256f3454bdb7d01978198ad6988e3e1">The collection contains letters and interview notes from persons involved in lead and zinc mining describing early attempts at unionization; copies of contracts between operators and locals of the International Union of Mine, Mill and Smelter Workers, CIO, mostly dating to the 1940s; clippings, and mining industry and government pamphlets on mining conditions. The material was collected by William J. Cassidy while he was writing his University of Pittsburgh doctoral dissertation completed in 1955.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <acqinfo id="aspace_ad2277be7588efa4d2c2fe21a47fd8df">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by William J. Cassidy, 1969. The accession number associated with this gift is 1969.002.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_5b3ff5bdb233dcbc4311356ddb4743aa">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <bioghist id="aspace_d9d1dbe09cdf08c05dc8484da35fc4af">
-      <head>Historical/Biographical Note</head>
-      <p>William J. Cassidy compiled these materials in the course of researching and writing his doctoral dissertation, "The Tri-State Zinc-Lead Mining Region: Growth, Problems and Prospects" (University of Pittsburgh, 1955).</p>
-    </bioghist>
-    <scopecontent id="aspace_07aecd5c6cd2782d4938bfe3f5a77635">
-      <head>Scope and Content Note</head>
-      <p>The collection contains letters and interview notes from persons involved in lead and zinc mining in the Tri-State Mining District (Kansas, Missouri, Oklahoma); describing early attempts at unionization, copies of contracts between operators and locals of International Union of Mine, Mill and Smelter Workers, CIO; printed ephemera from the union and several of its locals, mostly dating to the 1940s; clippings; mining industry and government pamphlets on mining conditions and a manuscript, "History of International Union of Mine, Mill and Smelter Workers Union Local 15," by Harry Blasser.</p>
-    </scopecontent>
-    <arrangement id="aspace_cca30334ecbb5c8ce4ff6ead605fad71">
-      <head>Arrangement</head>
-      <p>The folders are arranged alphabetically.</p>
-      <p>The files are grouped into one series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, Research Files, 1925-1950.</item>
-      </list>
-    </arrangement>
-    <userestrict id="aspace_40086ae257803eba43ef133169f4ea7a">
-      <head>Conditions Governing Use</head>
-      <p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1925-1950, are expected to enter the public domain in 2071.</p>
-    </userestrict>
-    <prefercite id="aspace_fb272d6415d12d0a456aeab3162568ee">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Interviews.</genreform>
-      <genreform source="aat">Notes.</genreform>
-      <genreform source="aat">Pamphlets.</genreform>
-      <geogname source="lcsh">Missouri |x Social conditions.</geogname>
-      <geogname source="lcsh">Oklahoma |x Social conditions.</geogname>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <genreform source="aat">Collective labor agreements.</genreform>
-      <subject source="lcsh">Lead miners |z United States.</subject>
-      <geogname source="lcsh">Kansas |x Social conditions.</geogname>
-      <subject source="lcsh">Zinc mines and mining |z United States.</subject>
-      <persname rules="dacs" source="local">Blasser, Harry</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_063">tam_063</eadid><filedesc><titlestmt><titleproper>Guide to the William J. Cassidy Files on the Tri-State Mining District of Missouri, Kansas and Oklahoma <num>TAM.063</num></titleproper><author>Tamiment staff</author></titlestmt><editionstmt><p>This version was derived from Cassidy-Tri-State Mining</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:11:24 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>William J. Cassidy Files on the Tri-State Mining District of Missouri, Kansas and Oklahoma</unittitle>
+    <origination label="Creator">
       <persname rules="dacs" source="local">Cassidy, William J.</persname>
-      <corpname source="naf">International Union of Mine, Mill, and Smelter Workers</corpname>
-      <corpname source="naf">Tri-State Mining District</corpname>
-      <corpname source="local">International Union of Mine, Mill and Smelter Workers. Local 15 (Picher, Okla.)</corpname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Cassidy, William J.</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I: Research Files, 1925-1950.</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Blasser, Harry, "History of International Union of Mine, Mill and Smelter Workers Local 15"</unittitle>
-            <unitdate datechar="creation" normal="1925/1950" type="inclusive">Undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_98088db11012b146d886f73c3662f12d" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_5d79a8b7be03c1c3dcdb5fc80070291e" parent="aspace_98088db11012b146d886f73c3662f12d" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Cassidy, William J.: Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1947/1950" type="inclusive">1947 , 1950</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e0bf25dee8f7e83d745cae68fdf86918" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_4ab9d62b747143a2d50e28625b76ce8e" parent="aspace_e0bf25dee8f7e83d745cae68fdf86918" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Cassidy, William J.: Research Notes and Interview with Melvin H. Black, M.D.</unittitle>
-            <unitdate datechar="creation" normal="1925/1950" type="inclusive">Undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c05fb1bc70c9d67e2338298e32637804" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_0cc403b4266e38731525fcad0d5a68ea" parent="aspace_c05fb1bc70c9d67e2338298e32637804" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Cherokee County (Kansas) Health Department Second Annual Report</unittitle>
-            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5dd0f2275717d4afa771e56e3951b14f" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_674027ee9d1b3e135edf3928394c649f" parent="aspace_5dd0f2275717d4afa771e56e3951b14f" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Harbaugh, M. D. : "Labor Relations in the Tri-State Mining District." <emph render="italic">Mining Congress Journal</emph></unittitle>
-            <unitdate datechar="creation">Jun 1936</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2b0dda8b79844eb310e086bfd8978226" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_2f022b07447311e36925ccee6b625115" parent="aspace_2b0dda8b79844eb310e086bfd8978226" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Harbaugh, M. D. : "The Tri-State Zinc and Lead Mining District in 1935." <emph render="italic">Mining Congress Journal</emph></unittitle>
-            <unitdate datechar="creation">Feb 1936</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6ec9f2d0041b84e0db7e80f880c6da98" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_4a5d808a1878df782dfe79a3e5dba75d" parent="aspace_6ec9f2d0041b84e0db7e80f880c6da98" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Hubbell, A. H. "Survey of Mining Practice 1951." <emph render="italic">Engineering and Mining Journal</emph></unittitle>
-            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2dfe8d9afbb31478526418ee113570c5" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_075ac0a4e9d92f2546b7128f5ca2dfb0" parent="aspace_2dfe8d9afbb31478526418ee113570c5" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>International Union of Mine, Mill and Smelter Workers: Printed Ephemera</unittitle>
-            <unitdate datechar="creation" normal="1925/1950" type="inclusive">Undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ff2f3b4433c5c5cd37fc3a1562cd6ccd" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_1258a068e01ecbc15dd11e3702788236" parent="aspace_ff2f3b4433c5c5cd37fc3a1562cd6ccd" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>International Union of Mine, Mill and Smelter Workers. Research Department</unittitle>
-            <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_600569109f2d3f25caf6a47089080450" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_34b5b10d1e7e84deeee2659a676fe91a" parent="aspace_600569109f2d3f25caf6a47089080450" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>International Union of Mine, Mill and Smelter Workers. Local 856. Collective Labor Agreements.</unittitle>
-            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a035f4ce811d140ab30921c7e0099bd5" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_24939f2f663a1a92546edc0511d32743" parent="aspace_a035f4ce811d140ab30921c7e0099bd5" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Midwest Research Institute. Chemistry Division. "A Survey and Scientific Analysis of the Natural Resources and Industrial Potential of the Greater Joplin (Mo.) Area</unittitle>
-            <unitdate datechar="creation">Jan 5, 1950</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2f87aaa0b4d77986bf15adf8c685be2b" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_3d82845028575fdb5ed92d09d82e69f2" parent="aspace_2f87aaa0b4d77986bf15adf8c685be2b" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle><emph render="italic">Mine, Mill vs. CIO Fight Means Turmoil in Mining</emph>. Reprinted from <emph render="italic">Engineering and Mining Journal</emph></unittitle>
-            <unitdate datechar="creation">Apr 1950</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_581df57c889e068efceec1b637525d5e" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_a1c43db50745aa02981f6d94ea8f69d7" parent="aspace_581df57c889e068efceec1b637525d5e" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Newspaper Clippings</unittitle>
-            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940-1949</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fdb683e50465143f3e8bbd51b6e0df8e" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_1a661ef833c1db6dad708ab6a985b5c4" parent="aspace_fdb683e50465143f3e8bbd51b6e0df8e" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Shaner, Dolph: Tri-State Area Local History Pamphlets</unittitle>
-            <unitdate datechar="creation" normal="1925/1944" type="inclusive">1925-1944</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_788dcb2ee0c331f0c1d9c611437c327f" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_8d0edcfb87119b12d28b160bf5ca44a6" parent="aspace_788dcb2ee0c331f0c1d9c611437c327f" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Statements of Witnesses</unittitle>
-            <unitdate datechar="creation" normal="1925/1950" type="inclusive">Undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_33dee391d25bb6f5a3449c5cee4be74d" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_45bcaa7dbf7d6128fa2b63761a0a0f59" parent="aspace_33dee391d25bb6f5a3449c5cee4be74d" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle><emph render="italic">Tri-State Miner</emph>, Vol. 1., no. 1</unittitle>
-            <unitdate datechar="creation">May 31, 1949</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8bf8a167c5f1b4d2f2f99af0b512b646" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_670c2909e2998392bda74e9f611ca438" parent="aspace_8bf8a167c5f1b4d2f2f99af0b512b646" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Tri-State Zinc and Lead Ore Producers Association: Statement to…Frances Perkins…On Living and Working Conditions</unittitle>
-            <unitdate datechar="creation">Aug 23, 1940</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_286f1667f42b9e49bb347fe907251118" label="Mixed Materials [31142062729226]" type="Box">1</container>
-            <container id="aspace_c1f2f9e057309dc095687227342592e0" parent="aspace_286f1667f42b9e49bb347fe907251118" type="Folder">17</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.063</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1925/1950" type="inclusive">1925-1950</unitdate>
+    <abstract id="aspace_5256f3454bdb7d01978198ad6988e3e1" label="Abstract">The collection contains letters and interview notes from persons involved in lead and zinc mining describing early attempts at unionization; copies of contracts between operators and locals of the International Union of Mine, Mill and Smelter Workers, CIO, mostly dating to the 1940s; clippings, and mining industry and government pamphlets on mining conditions. The material was collected by William J. Cassidy while he was writing his University of Pittsburgh doctoral dissertation completed in 1955.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <acqinfo id="aspace_ad2277be7588efa4d2c2fe21a47fd8df">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by William J. Cassidy, 1969. The accession number associated with this gift is 1969.002.</p>  </acqinfo>
+  <accessrestrict id="aspace_5b3ff5bdb233dcbc4311356ddb4743aa">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_d9d1dbe09cdf08c05dc8484da35fc4af">
+    <head>Historical/Biographical Note</head>
+<p>William J. Cassidy compiled these materials in the course of researching and writing his doctoral dissertation, "The Tri-State Zinc-Lead Mining Region: Growth, Problems and Prospects" (University of Pittsburgh, 1955).</p>  </bioghist>
+  <scopecontent id="aspace_07aecd5c6cd2782d4938bfe3f5a77635">
+    <head>Scope and Content Note</head>
+<p>The collection contains letters and interview notes from persons involved in lead and zinc mining in the Tri-State Mining District (Kansas, Missouri, Oklahoma); describing early attempts at unionization, copies of contracts between operators and locals of International Union of Mine, Mill and Smelter Workers, CIO; printed ephemera from the union and several of its locals, mostly dating to the 1940s; clippings; mining industry and government pamphlets on mining conditions and a manuscript, "History of International Union of Mine, Mill and Smelter Workers Union Local 15," by Harry Blasser.</p>  </scopecontent>
+  <arrangement id="aspace_cca30334ecbb5c8ce4ff6ead605fad71">
+    <head>Arrangement</head>
+<p>The folders are arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Research Files, 1925-1950.</item>
+    </list>
+  </arrangement>
+  <userestrict id="aspace_40086ae257803eba43ef133169f4ea7a">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1925-1950, are expected to enter the public domain in 2071.</p>  </userestrict>
+  <prefercite id="aspace_fb272d6415d12d0a456aeab3162568ee">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Interviews.</genreform>
+    <genreform source="aat">Notes.</genreform>
+    <genreform source="aat">Pamphlets.</genreform>
+    <geogname source="lcsh">Missouri |x Social conditions.</geogname>
+    <geogname source="lcsh">Oklahoma |x Social conditions.</geogname>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Collective labor agreements.</genreform>
+    <subject source="lcsh">Lead miners |z United States.</subject>
+    <geogname source="lcsh">Kansas |x Social conditions.</geogname>
+    <subject source="lcsh">Zinc mines and mining |z United States.</subject>
+    <persname rules="dacs" source="local">Blasser, Harry</persname>
+    <persname rules="dacs" source="local">Cassidy, William J.</persname>
+    <corpname authfilenumber="(lccn)n83019774" source="naf">International Union of Mine, Mill, and Smelter Workers</corpname>
+    <corpname authfilenumber="(lccn)no2007053141" source="naf">Tri-State Mining District</corpname>
+    <corpname source="local">International Union of Mine, Mill and Smelter Workers. Local 15 (Picher, Okla.)</corpname>
+    <persname role="dnr" rules="dacs" source="local">Cassidy, William J.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Research Files, 1925-1950.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Blasser, Harry, "History of International Union of Mine, Mill and Smelter Workers Local 15"</unittitle><unitdate datechar="creation" normal="1925/1950" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_13aa21fe6f5e64f03c4c40032a38c4bb" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_97f4fd2384659c00e3df3603adc3ee7b" parent="aspace_13aa21fe6f5e64f03c4c40032a38c4bb" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Cassidy, William J.: Correspondence</unittitle><unitdate datechar="creation" normal="1947/1950" type="inclusive">1947 , 1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_0d3e576ab822253fad4f0c696e526b7f" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_81c25702da2f36943755d7381a84faca" parent="aspace_0d3e576ab822253fad4f0c696e526b7f" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Cassidy, William J.: Research Notes and Interview with Melvin H. Black, M.D.</unittitle><unitdate datechar="creation" normal="1925/1950" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ef9e9de43610a346876696444974af4e" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_733832e37acfdfbb6b3959746d045272" parent="aspace_ef9e9de43610a346876696444974af4e" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Cherokee County (Kansas) Health Department Second Annual Report</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_0888160788b8fed2a4ae7db091beb1b0" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_29beebb8d417750577eb3c184028ba73" parent="aspace_0888160788b8fed2a4ae7db091beb1b0" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Harbaugh, M. D. : "Labor Relations in the Tri-State Mining District." <emph render="italic">Mining Congress Journal</emph></unittitle><unitdate datechar="creation">Jun 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_8b630d4987c36cb537efcad1b39d31db" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_bce96ad63515190cd5005abb832cfe17" parent="aspace_8b630d4987c36cb537efcad1b39d31db" type="Folder">5</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Harbaugh, M. D. : "The Tri-State Zinc and Lead Mining District in 1935." <emph render="italic">Mining Congress Journal</emph></unittitle><unitdate datechar="creation">Feb 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_17a21a4f08733d2725504a19cfbdaea0" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_af82f1d4535278b222e45b5b54f76902" parent="aspace_17a21a4f08733d2725504a19cfbdaea0" type="Folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Hubbell, A. H. "Survey of Mining Practice 1951." <emph render="italic">Engineering and Mining Journal</emph></unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_b8ba08bfa8d036babbd07d9cef1021a2" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_8614ed4de2a65b9cad6990f52379d567" parent="aspace_b8ba08bfa8d036babbd07d9cef1021a2" type="Folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>International Union of Mine, Mill and Smelter Workers: Printed Ephemera</unittitle><unitdate datechar="creation" normal="1925/1950" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bc0d08e737871eb1da875de133796f6d" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_293d07dc9932db2e539e46c5d26798c6" parent="aspace_bc0d08e737871eb1da875de133796f6d" type="Folder">8</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>International Union of Mine, Mill and Smelter Workers. Research Department</unittitle><unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_c9fa4747471c2a9b024d17c4b049afc9" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_56b68a628aea029e09974c355e0e5d79" parent="aspace_c9fa4747471c2a9b024d17c4b049afc9" type="Folder">9</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>International Union of Mine, Mill and Smelter Workers. Local 856. Collective Labor Agreements.</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_a7c7cdc050310b06a05f20349c9d0ee6" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_607582cb85a9b80cb9e33e830afc545e" parent="aspace_a7c7cdc050310b06a05f20349c9d0ee6" type="Folder">10</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Midwest Research Institute. Chemistry Division. "A Survey and Scientific Analysis of the Natural Resources and Industrial Potential of the Greater Joplin (Mo.) Area</unittitle><unitdate datechar="creation">Jan 5, 1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_e906130dfbbb8ceed3103a4231054e65" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_6d4c89bd2aeda842fffc194cc4c69eb9" parent="aspace_e906130dfbbb8ceed3103a4231054e65" type="Folder">11</container></did></c><c id="aspace_ref25" level="file"><did><unittitle><emph render="italic">Mine, Mill vs. CIO Fight Means Turmoil in Mining</emph>. Reprinted from <emph render="italic">Engineering and Mining Journal</emph></unittitle><unitdate datechar="creation">Apr 1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_0591a62b6539332099f7f2900bbe85c3" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_1a6d061142d9d5a7e59e5ea16209fbcb" parent="aspace_0591a62b6539332099f7f2900bbe85c3" type="Folder">12</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">1940-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_625a3062241e76c447b505874fd81ad2" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_4f18723f35c40d20f85e6675c1a42bac" parent="aspace_625a3062241e76c447b505874fd81ad2" type="Folder">13</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Shaner, Dolph: Tri-State Area Local History Pamphlets</unittitle><unitdate datechar="creation" normal="1925/1944" type="inclusive">1925-1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_5799b95aa22d73429cf64b2ba745bb53" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_e51fbc2f611fce88778c3ca5750d2171" parent="aspace_5799b95aa22d73429cf64b2ba745bb53" type="Folder">14</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Statements of Witnesses</unittitle><unitdate datechar="creation" normal="1925/1950" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b799052be973d03c481175a10c435cae" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_b4c362e5abec86c730c82961cf867e79" parent="aspace_b799052be973d03c481175a10c435cae" type="Folder">15</container></did></c><c id="aspace_ref29" level="file"><did><unittitle><emph render="italic">Tri-State Miner</emph>, Vol. 1., no. 1</unittitle><unitdate datechar="creation">May 31, 1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_ce2514443e4107fc084ec3746d9620aa" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_d958672ce300bb0aadfb637292ccf7ca" parent="aspace_ce2514443e4107fc084ec3746d9620aa" type="Folder">16</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Tri-State Zinc and Lead Ore Producers Association: Statement to…Frances Perkins…On Living and Working Conditions</unittitle><unitdate datechar="creation">Aug 23, 1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_71e8bafffd57af5bd82d0635dc95f329" label="Mixed Materials [31142062729226]" type="Box">1</container><container id="aspace_5ed55eca1f37cb1baf319a8d3092bc5b" parent="aspace_71e8bafffd57af5bd82d0635dc95f329" type="Folder">17</container></did></c></c></dsc>
+</archdesc>
 </ead>

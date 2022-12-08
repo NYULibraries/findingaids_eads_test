@@ -1,151 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_043">aia_043</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Mulvey Family Papers <num>AIA.043</num></titleproper>
-        <author>Rachel Searcy</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>12/11/2014</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:24:56 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-      <descrules>Cataloging Cultural Objects</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>July 2018</date>
-        <item>Updated by Megan O'Shea to incorporate banner from accession number 2018.098</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Mulvey Family Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Mulvey, Kathleen</persname>
-      </origination>
-      <origination label="source">
-        <persname source="local">Mulvey, Elizabeth</persname>
-      </origination>
-      <unitid>AIA.043</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.25 Linear Feet</extent>
-        <extent altrender="carrier">in 1 manuscript box, 1 oversize folder in a shared box, and 1 rolled banner</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1929/1979" type="inclusive">circa 1929-1936, 1963-1979</unitdate>
-      <unitdate datechar="creation" normal="1929/1936" type="bulk">1929-1936</unitdate>
-      <abstract id="aspace_e9313cebf3985da76af5c652dc82fbb1">This collection consists mainly of materials collected by Kathleen Mulvey documenting her family history. The collection includes family correspondence, panoramas of Irish American social organization functions, a banner celebrating John F. Kennedy's trip to Ireland in 1963, and a scrapbook from Elizabeth Mulvey's first trip to Europe in the late 1920s, which included Ireland, Italy, France, and Switzerland. Elizabeth Mulvey was a teacher and later public school principal in the Bronx. Kathleen Mulvey was the first woman president of the Irish Institute and an active member of the County Carlow Society.</abstract>
-      <langmaterial id="aspace_bf2419acce51792bebd3aa4729193a92">Materials are primarily in English, with one banner in Irish.</langmaterial>
-    </did>
-    <acqinfo id="aspace_0898707b4f2cc3658c27be2e86433a55">
-      <head>Immediate Source of Acquisition</head>
-      <p>Gift of Kathleen Mulvey, 1999.  The accession number associated with this gift is 1997.032.</p>
-      <p>An additional accession was donated by Kathleen Mulvey in 2018.  The accession number associated with this gift is 2018.098.</p>
-    </acqinfo>
-    <userestrict id="aspace_27dddbdd5464dbbd0d5251f04f4e4a16">
-      <head>Use Restrictions</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by Kathleen Mulvey, the sister-in-law of Elizabeth Mulvey, were transferred to New York University in 1999. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
-      <p>Material in the 2018 accretion, which was created in 1963, is in the public domain. Permission to publish or reproduce is not required.</p>
-    </userestrict>
-    <relatedmaterial id="aspace_c84c9a44a165312e85d57bb7acac0f49">
-      <head>Related Archival Materials</head>
-      <p>Archives of Irish America County Societies Collection (AIA 003)</p>
-      <p>Archives of Irish America United Irish Counties Association Collection (AIA 056)</p>
-      <p>Kathleen Hill Family Collection (AIA 064)</p>
-    </relatedmaterial>
-    <prefercite id="aspace_bea2692d73ae1cb41948bb521ec21d66">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Mulvey Family Papers; AIA 043; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <accessrestrict id="aspace_4bc48081c056c58ab7fc67005e6e731b">
-      <head>Access Restrictions</head>
-      <p>Open for research without restrictions.</p>
-    </accessrestrict>
-    <scopecontent id="aspace_d7e098c861378dcae226b450b0deaa22">
-      <head>Scope and Contents</head>
-      <p>This collection consists of materials collected by Kathleen Mulvey documenting her family history. The collection includes family correspondence, panoramas of Irish American social organization functions, and a scrapbook from Elizabeth Mulvey's first trip to Europe in the late 1920s, which included visits to Ireland, Italy, France, and Switzerland.  The collection also contains a banner celebrating John F. Kennedy's visit to Ireland in 1963.</p>
-    </scopecontent>
-    <arrangement id="aspace_d4f7efd331ed73f81538f4b39e8d7442">
-      <head>Arrangement</head>
-      <p>The order in which these materials were sent to the Tamiment Library has been maintained.</p>
-    </arrangement>
-    <bioghist id="aspace_73a07fbb2b6c16a95aedd22d4328d2b4">
-      <head>Biographical Note</head>
-      <p>Elizabeth Mulvey was born in the Bronx to a family of Irish immigrants: her father was a carpenter born in the Bronx and her mother was born in Wicklow. Mulvey worked as a teacher and later the principal of a public school in the Bronx.</p>
-      <p>Kathleen Mulvey was the first woman president of the Irish Institute and an active member of the County Carlow Society.</p>
-    </bioghist>
-    <processinfo id="aspace_6fbf70ef0071c87099f7f14b82144722">
-      <head>Processing Information</head>
-      <p>Material from the 2018 accretion was assessed for conservation treatment and rolled with treated paper to prevent further deterioration.</p>
-    </processinfo>
-    <controlaccess>
-      <subject source="lcsh">Travel photography.</subject>
-      <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
-      <geogname source="lcsh">Ireland -- History -- 20th century.</geogname>
-      <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
-      <subject source="lcsh">Irish Americans -- New York (N.Y.) -- Social life and customs.</subject>
-      <persname role="fmo" source="local">Mulvey, Elizabeth</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_15653e487d4f313c7e30318ce7d24630" level="file">
-        <did>
-          <unittitle>Banner celebrating John  F. Kennedy's visit to Ireland in 1963</unittitle>
-          <unitdate datechar="creation" normal="1963/1963">1963</unitdate>
-          <container altrender="Rolled Items Box - 48.5 x 5.5" id="aspace_7f3ea942eebd19b2243e0dca165da04c" label="Mixed Materials [31142063577764]" type="roll-storage">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle>Elizabeth Mulvey Trip to Ireland Scrapbook</unittitle>
-          <unitdate datechar="creation" normal="1929/1930" type="inclusive">circa 1929-1930</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_af55ad115d2b66f25f10fb379e1cc6c3" label="Mixed Materials [31142062883460]" type="Box">1</container>
-          <container id="aspace_9370645ebde1d2e61d3f0edd14430d18" parent="aspace_af55ad115d2b66f25f10fb379e1cc6c3" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Family Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1929/1936" type="inclusive">1929-1936</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_f3983fd4c35093c10afe0ad7e24f03c3" label="Mixed Materials [31142062883460]" type="Box">1</container>
-          <container id="aspace_ef06a08bac2cea551ec5b4ab58e2d5b2" parent="aspace_f3983fd4c35093c10afe0ad7e24f03c3" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Panoramas from Social Events and Functions</unittitle>
-          <unitdate datechar="creation" normal="1971/1979" type="inclusive">1971-1979</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_adfa9d5f1d41a63b84a629eaaf64655c" label="Mixed Materials [31142062759801]" type="Box">Tamiment Shared AIAOS001</container>
-          <container id="aspace_cf8e37f33821fead259fb23639259b47" parent="aspace_adfa9d5f1d41a63b84a629eaaf64655c" type="Folder">1</container>
-          <container altrender="Flat OS 21" id="aspace_08a26f77bba748d53d2805e8772b46ac" label="Mixed Materials [31142062853117]" type="Box">Tamiment Shared AIAXOS001</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Photographs (Possibly from Elizabeth Mulvey Scrapbook)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_cbaaf97c5186d8fc6e4042703ccaf86a" label="Mixed Materials [31142062883460]" type="Box">1</container>
-          <container id="aspace_a7db06e2e56a8ba94742adca1f60cc8e" parent="aspace_cbaaf97c5186d8fc6e4042703ccaf86a" type="Folder">3</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_043">aia_043</eadid><filedesc><titlestmt><titleproper>Guide to the Mulvey Family Papers <num>AIA.043</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/11/2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:47:26 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Cataloging Cultural Objects</descrules></profiledesc><revisiondesc><change><date>July 2018</date><item>Updated by Megan O'Shea to incorporate banner from accession number 2018.098</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Mulvey Family Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Mulvey, Kathleen</persname>
+    </origination>
+    <origination label="source">
+      <persname source="local">Mulvey, Elizabeth</persname>
+    </origination>
+    <unitid>AIA.043</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box, 1 oversize folder in a shared box, and 1 rolled banner</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1929/1979" type="inclusive">circa 1929-1936, 1963-1979</unitdate>
+    <unitdate datechar="creation" normal="1929/1936" type="bulk">1929-1936</unitdate>
+    <abstract id="aspace_e9313cebf3985da76af5c652dc82fbb1">This collection consists mainly of materials collected by Kathleen Mulvey documenting her family history. The collection includes family correspondence, panoramas of Irish American social organization functions, a banner celebrating John F. Kennedy's trip to Ireland in 1963, and a scrapbook from Elizabeth Mulvey's first trip to Europe in the late 1920s, which included Ireland, Italy, France, and Switzerland. Elizabeth Mulvey was a teacher and later public school principal in the Bronx. Kathleen Mulvey was the first woman president of the Irish Institute and an active member of the County Carlow Society.</abstract>
+    <langmaterial id="aspace_bf2419acce51792bebd3aa4729193a92">Materials are primarily in English, with one banner in Irish.</langmaterial>
+  </did>
+  <acqinfo id="aspace_0898707b4f2cc3658c27be2e86433a55">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Kathleen Mulvey, 1999.  The accession number associated with this gift is 1997.032.</p><p>An additional accession was donated by Kathleen Mulvey in 2018.  The accession number associated with this gift is 2018.098.</p>  </acqinfo>
+  <userestrict id="aspace_27dddbdd5464dbbd0d5251f04f4e4a16">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Kathleen Mulvey, the sister-in-law of Elizabeth Mulvey, were transferred to New York University in 1999. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p><p>Material in the 2018 accretion, which was created in 1963, is in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
+  <relatedmaterial id="aspace_c84c9a44a165312e85d57bb7acac0f49">
+    <head>Related Archival Materials</head>
+<p>Archives of Irish America County Societies Collection (AIA 003)</p><p>Archives of Irish America United Irish Counties Association Collection (AIA 056)</p><p>Kathleen Hill Family Collection (AIA 064)</p>  </relatedmaterial>
+  <prefercite id="aspace_bea2692d73ae1cb41948bb521ec21d66">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Mulvey Family Papers; AIA 043; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <accessrestrict id="aspace_4bc48081c056c58ab7fc67005e6e731b">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <scopecontent id="aspace_d7e098c861378dcae226b450b0deaa22">
+    <head>Scope and Contents</head>
+<p>This collection consists of materials collected by Kathleen Mulvey documenting her family history. The collection includes family correspondence, panoramas of Irish American social organization functions, and a scrapbook from Elizabeth Mulvey's first trip to Europe in the late 1920s, which included visits to Ireland, Italy, France, and Switzerland.  The collection also contains a banner celebrating John F. Kennedy's visit to Ireland in 1963.</p>  </scopecontent>
+  <arrangement id="aspace_d4f7efd331ed73f81538f4b39e8d7442">
+    <head>Arrangement</head>
+<p>The order in which these materials were sent to the Tamiment Library has been maintained.</p>  </arrangement>
+  <bioghist id="aspace_73a07fbb2b6c16a95aedd22d4328d2b4">
+    <head>Biographical Note</head>
+<p>Elizabeth Mulvey was born in the Bronx to a family of Irish immigrants: her father was a carpenter born in the Bronx and her mother was born in Wicklow. Mulvey worked as a teacher and later the principal of a public school in the Bronx.</p><p>Kathleen Mulvey was the first woman president of the Irish Institute and an active member of the County Carlow Society.</p>  </bioghist>
+  <processinfo id="aspace_6fbf70ef0071c87099f7f14b82144722">
+    <head>Processing Information</head>
+<p>Material from the 2018 accretion was assessed for conservation treatment and rolled with treated paper to prevent further deterioration.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Travel photography.</subject>
+    <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
+    <geogname source="lcsh">Ireland -- History -- 20th century.</geogname>
+    <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
+    <subject source="lcsh">Irish Americans -- New York (N.Y.) -- Social life and customs.</subject>
+    <persname role="fmo" source="local">Mulvey, Elizabeth</persname>
+  </controlaccess>
+  <dsc><c id="aspace_15653e487d4f313c7e30318ce7d24630" level="file"><did><unittitle>Banner celebrating John  F. Kennedy's visit to Ireland in 1963</unittitle><unitdate datechar="creation" normal="1963/1963">1963</unitdate><container altrender="Rolled Items Box - 48.5 x 5.5" id="aspace_36109b04ee35fe242dc50412214da6ee" label="Mixed Materials [31142063577764]" type="roll-storage">2</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Elizabeth Mulvey Trip to Ireland Scrapbook</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">circa 1929-1930</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c54103a454d2e62d9ecf39b4c90bc222" label="Mixed Materials [31142062883460]" type="Box">1</container><container id="aspace_cc2ca45cc3d486c68272dc61819711e3" parent="aspace_c54103a454d2e62d9ecf39b4c90bc222" type="Folder">1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Family Correspondence</unittitle><unitdate datechar="creation" normal="1929/1936" type="inclusive">1929-1936</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0316b5a16bfa62d6e340b0319f21cbe6" label="Mixed Materials [31142062883460]" type="Box">1</container><container id="aspace_46164a4a6f0bec482757c154e41f689c" parent="aspace_0316b5a16bfa62d6e340b0319f21cbe6" type="Folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Panoramas from Social Events and Functions</unittitle><unitdate datechar="creation" normal="1971/1979" type="inclusive">1971-1979</unitdate><container altrender="Flat OS Box 17" id="aspace_070126b046425fce921d01429aa2edcf" label="Mixed Materials [31142062759801]" type="Box">Shared Tamiment AIAOS001</container><container id="aspace_f4569b9d54a4230e3572aeac0ad2425d" parent="aspace_070126b046425fce921d01429aa2edcf" type="Folder">1</container><container altrender="Flat OS 21" id="aspace_8a87309312af4e5e2e9a49f80bdbc979" label="Mixed Materials [31142062853117]" type="Box">Shared Tamiment AIAXOS001</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Photographs (Possibly from Elizabeth Mulvey Scrapbook)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6f5c495cc64d9c1a1e41d0918dbb4860" label="Mixed Materials [31142062883460]" type="Box">1</container><container id="aspace_c8fbbdc3a23fefc0fd70be23a5c54544" parent="aspace_6f5c495cc64d9c1a1e41d0918dbb4860" type="Folder">3</container></did></c></dsc>
+</archdesc>
 </ead>

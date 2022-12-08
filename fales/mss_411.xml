@@ -1,411 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_411">mss_411</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the John Ferrone Papers <num>MSS.411</num></titleproper>
-        <author>Aki Snyder and Anna Björnsson McCormick</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>May 2021</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:54:42 -0500</date>.</creation>
-      <langusage>Finding aid is written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>John Ferrone Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Ferrone, John</persname>
-      </origination>
-      <unitid>MSS.411</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
-        <extent altrender="carrier">in 7 manuscript boxes</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1942/2012" type="inclusive">1942-2012</unitdate>
-      <abstract id="aspace_623a267be85951df6e06c61521646de1">John Ferrone (August 14, 1924 – April 10, 2016) was an American book editor working for Dell Publishing and Harcourt, Brace, &amp; World (later Harcourt Brace Jovanovich). Ferrone retired from Harcourt Brace Jovanovich in 1990, but over his career, he had numerous clients including: Eudora Welty, Anais Nin, Helen McCully, C.S. Lewis, Alice Walker, and James Beard. Ferrone's close friendship with James Beard led to much collaboration in the kitchen, as well as in the publication world. After James Beard's death in 1985, Ferrone served as Beard's literary executor. The John Ferrone Papers roughly span from 1942 to 2012, with the bulk of the materials dating between 1970 to the early 1990s. This collection contains correspondence; press-clippings containing articles, essays, and columns written by James Beard; and article and manuscript drafts. Most of the materials relate to James Beard, however, there are also papers related to Ferrone's other clients as well.</abstract>
-      <physloc id="aspace_16175ab5da5112bc37866bb5631c7241">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_6e92c802e2aec8ba7537dbaa5aa91c01">Materials are in English.</langmaterial>
-    </did>
-    <scopecontent id="aspace_92480bd90fbdf4e71c9673934aea5925">
-      <head>Scope and Contents</head>
-      <p>The John Ferrone Papers roughly span from 1942 to 2012, with the bulk of the materials dating between 1970 to the early 1990s. This collection contains correspondence; press-clippings containing articles, essays, and recipes written by James Beard; and  manuscripts for books edited by Ferrone.</p>
-      <p>The majority of this collection relates to cookbook author and chef, James Beard, one of Ferrone's biggest clients and closest friends. Ferrone kept a record of his personal and business collaboration with James Beard over several decades by saving their correspondence as well as copies of works written by Beard including magazine articles, columns, essays, and drafts. </p>
-      <p>In addition to Ferrone's correspondence with Beard, the correspondence files also include papers related to Ferrone's role as literary executor of Beard's estate, including correspondence with various publishers and book distributors regarding royalties and licensing fees. Ferrone also saved his correspondences with the Chalfont Agency, the literary agency in charge of the Beard Estate. Drafts of <emph render="italic">The Essential James Beard Cookbook</emph>, co-edited by Ferrone, are included in this collection. Additionally, Ferrone kept copies of Beard's correspondence with chef and cookbook author Helen Evans Brown. In 1994 Ferrone used this correspondence to publish <emph render="italic">Love and Kisses and a Halo of Truffles: Letters to Helen Evans Brown</emph>, an edited selection of letters from Beard and Brown's correspondence and a manuscript of the book, under the title <emph render="italic">Beard to Brown: A Mostly Culinary Correspondence</emph>, is incuded in this collection.</p>
-      <p>The rest of the correspondence files include information about John Ferrone's time working at and his departure from Harcourt Brace Jovanovich, as well as his communications with  clients other than Beard. The collection contains correspondence with clients who were involved in literary projects that included the writings of Eudora Welty, Anaïs Nin, Jack London, Helen McCully, Virginia Woolf, Violet Trefusis, and C.S. Lewis. Ferrone did not work directly with all of these authors; in some cases he published lesser-known works, correspondences, and compilations created after the author's death. Information about these projects, including correspondence about contracts, liscensing, and editorial decisions  can be found in the correspondence files.</p>
-      <p>This collection also includes the  manuscript for Hellen McCully's <emph render="italic"> Waste Not Want Not: A Cookbook of Delicious Foods from Leftovers</emph> published in 1975.</p>
-    </scopecontent>
-    <bioghist id="aspace_dd1d4cb57f3c12bbef0bffa6e8ef074a">
-      <head>Biographical note</head>
-      <p>John Ferrone (August 14, 1924 – April 10, 2016) was an American book editor working for Dell Publishing and Harcourt, Brace, &amp; World (later Harcourt Brace Jovanovich). Ferrone retired from Harcourt Brace Jovanovich in 1990, but over his career, he had numerous clients including: Eudora Welty, Anais Nin, Helen McCully, C.S. Lewis, Alice Walker, and James Beard. Ferrone's close friendship with James Beard led to much collaboration in the kitchen, as well as in the publication world. After James Beard's death in 1985, Ferrone served as Beard's literary executor.</p>
-    </bioghist>
-    <arrangement id="aspace_f915d3df6c7725b54096709eb3db7dd6">
-      <head>Arrangement</head>
-      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received at the time of purchase.</p>
-    </arrangement>
-    <accessrestrict id="aspace_7e14573c0a18db1cc7707a78256b9f6d">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_43d50a3c087b866cd31edfaf425a533f">
-      <head>Conditions Governing Use</head>
-      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
-    </userestrict>
-    <acqinfo id="aspace_48f019b1798657fbf637a8ba4c26c3a6">
-      <head>Immediate Source of Acquisition</head>
-      <p>Purchased from James Cummins Booksellers in 2014. The accession number associated with this acquisition is 2014.411.</p>
-    </acqinfo>
-    <prefercite id="aspace_24bd59309e2f92c42a32eefa67daa527">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; John Ferrone Papers; MSS 411; box number; folder number or item identifier; Fales Library and Special Collections, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_29fa2dbc7e09d568f4daaf375fe1fa18">
-      <head>Processing Information</head>
-      <p>A graduate student in the Fall 2019 session of Advanced Archival Description HIST-GA.2031 surveyed and wrote a processing plan for this collection. This collection was described by an archivist in the spring of 2021. Materials were placed in new acid-free folders and boxes. Original folder titles were retained when available.</p>
-    </processinfo>
-    <relatedmaterial id="aspace_d5f03a64ec569fd85670513d3adeeb69">
-      <head>Related Materials</head>
-      <p>For more information about John Ferrone's professional and personal relationship with James Beard see John Ferrone's interview included in Voices from the Food Revolution: People Who Changed The Way Americans Eat: An oral history project conducted by Judith Weinraub (MSS.309).</p>
-      <p>For more information on the life and career of James Beard please see the James Beard Foundation Archive (MSS.214), the James Beard Papers (MSS.263), and the James Beard Collection (MSS.139). </p>
-    </relatedmaterial>
-    <controlaccess>
-      <occupation source="lcsh">Food writers.</occupation>
-      <genreform source="lcsh">Cookbooks.</genreform>
-      <subject source="lcsh">Food writing.</subject>
-      <subject source="lcsh">Publishers and publishing</subject>
-      <persname source="naf">Beard, James, 1903-1985</persname>
-      <persname source="naf">Brown, Helen Evans</persname>
-      <corpname source="naf">Harcourt Brace Jovanovich</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_8fa94b935060b154082ec73c8c73db2d" level="file">
-        <did>
-          <unittitle>Correspondence--James Beard</unittitle>
-          <unitdate datechar="creation" normal="1964/1977" type="inclusive">1964-1977</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a19a265ebd0dc1c79b88737f78380da7" label="Mixed Materials [31142062835601]" type="Box">1</container>
-          <container id="aspace_db8b4a145ccef25530ed75ac240ae195" parent="aspace_a19a265ebd0dc1c79b88737f78380da7" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_98e7cedc9d00e4d57916fe2a4cf50121" level="file">
-        <did>
-          <unittitle>Correspondence--Lee Kessler</unittitle>
-          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_cafa7d23aef21445e0bab5e27788fd14" label="Mixed Materials [31142062835601]" type="Box">1</container>
-          <container id="aspace_b8dd5d44c64287e43766c7dc4097e28e" parent="aspace_cafa7d23aef21445e0bab5e27788fd14" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_74406994c6bc2738722f77c1e73c0805" level="file">
-        <did>
-          <unittitle>Correspondence--Walter Hooper</unittitle>
-          <unitdate datechar="creation" normal="1982/1998" type="inclusive">1982-1990</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a6c7c68d5631131f9da5e7ff19c17ca8" label="Mixed Materials [31142062835601]" type="Box">1</container>
-          <container id="aspace_fb411cfb73b517193026eb77b486ed71" parent="aspace_a6c7c68d5631131f9da5e7ff19c17ca8" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_083d7ebb19dbfb63859c40faa02836e9" level="file">
-        <did>
-          <unittitle>Correspondence--William Hathaway</unittitle>
-          <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5c01ba76c79a6139007f77c57ccc700a" label="Mixed Materials [31142062835601]" type="Box">1</container>
-          <container id="aspace_81564ac99bd54e6dae24ebcfa5f4a194" parent="aspace_5c01ba76c79a6139007f77c57ccc700a" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_5bf7b10a57a8375314eb2c9b0eeda733" level="file">
-        <did>
-          <unittitle>Correspondence--John Phillips</unittitle>
-          <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_d145bcac3899c7ec813203c08d95d9a8" label="Mixed Materials [31142062835601]" type="Box">1</container>
-          <container id="aspace_2b7509f6b150672a86b8997db8b656a6" parent="aspace_d145bcac3899c7ec813203c08d95d9a8" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_b3c4b056d105d616dfff6ccbc1103c30" level="file">
-        <did>
-          <unittitle>Correspondence--Mitchell Leaska</unittitle>
-          <unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_55322539314953aa734229a21acf9733" label="Mixed Materials [31142062835601]" type="Box">1</container>
-          <container id="aspace_4d1ce1776e8daf166176bdac87ff2498" parent="aspace_55322539314953aa734229a21acf9733" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_3480b6ffa6c0b1821b5ac8c724e7ad44" level="file">
-        <did>
-          <unittitle>Correspondence--Professional</unittitle>
-          <unitdate datechar="creation" normal="1964/1998" type="inclusive">1964-1998</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_607b59e69c69d0bc6f7e8868f8bc4fbc" label="Mixed Materials [31142062835601]" type="Box">1</container>
-          <container id="aspace_b198f01c2d5136839df0d7a5113e6e93" parent="aspace_607b59e69c69d0bc6f7e8868f8bc4fbc" type="Folder">7-14</container>
-        </did>
-      </c>
-      <c id="aspace_d77c5c07528c1721ed9fb35779830907" level="file">
-        <did>
-          <unittitle>Correspondence--<emph render="italic"> Menus for Entertaining </emph></unittitle>
-          <unitdate datechar="creation" normal="1986/1995" type="inclusive">1986-1995</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_7605d44b46023db978fd183f1956406c" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_c0c83a150e719a8e1b91df79184a48d7" parent="aspace_7605d44b46023db978fd183f1956406c" type="Folder">1-2</container>
-        </did>
-      </c>
-      <c id="aspace_bd8127c52a3df3c9fc694298226c30ca" level="file">
-        <did>
-          <unittitle>Book cover proofs</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a35ab8b55a2e228f3435617ea6f05463" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_351bebaa356dabc1a16e03fea600747a" parent="aspace_a35ab8b55a2e228f3435617ea6f05463" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_8680011801ad8b6a8e0403176765bfda" level="file">
-        <did>
-          <unittitle>"Beard on Food" Syndicated Column</unittitle>
-          <unitdate datechar="creation" normal="1966/1983" type="inclusive">1966-1983</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_14f2022a6f0f36f07b3bf871ebdc6611" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_deca4f09d0cd70c64a5dd9762f78d13f" parent="aspace_14f2022a6f0f36f07b3bf871ebdc6611" type="Folder">4-9</container>
-        </did>
-      </c>
-      <c id="aspace_33a729fa978ca020337d8da84f5b7ad0" level="file">
-        <did>
-          <unittitle>James Beard's writing on Lunching</unittitle>
-          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_60ea9583e650f75a8ff5c927e6f62485" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_db35370edff31873320772d95d5c0dfc" parent="aspace_60ea9583e650f75a8ff5c927e6f62485" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_8f3ac4b6ddf8bad27446c48df4b22b99" level="file">
-        <did>
-          <unittitle>James Beard's writing on Eating Out</unittitle>
-          <unitdate datechar="creation" normal="1966/1980" type="inclusive">1966-1980</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_43ec34fad3e038c80fd7898ac4ce3e4b" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_c5a08ab653bca41e87e010254708b936" parent="aspace_43ec34fad3e038c80fd7898ac4ce3e4b" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_a116c02c5e73e0c3b0cfbb8aafc6a6c1" level="file">
-        <did>
-          <unittitle>James Beard's writing on Menu Planning</unittitle>
-          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8861785e9e8240c67e9d41b10e71cfa8" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_8e2b7703cbc79bd176d1acc66b37faf0" parent="aspace_8861785e9e8240c67e9d41b10e71cfa8" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_eabfba62ef86a039500aab58349b9a14" level="file">
-        <did>
-          <unittitle>James Beard's writing on Chefs</unittitle>
-          <unitdate datechar="creation" normal="1964/1974" type="inclusive">1964-1974</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_83ec85376a682221413de1dcae3b1aaf" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_a3b20aa0117661c4e4d3b5e94ec416c4" parent="aspace_83ec85376a682221413de1dcae3b1aaf" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_d554bbcbe359f2a5699cd2685343b9d9" level="file">
-        <did>
-          <unittitle>James Beard's writing on the Kitchen</unittitle>
-          <unitdate datechar="creation" normal="1968/1976" type="inclusive">1968-1976</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_15aeee3a54dc697a76a1650a8ac0c6c0" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_68f6d080fb2812fa3d11f90f2aa42864" parent="aspace_15aeee3a54dc697a76a1650a8ac0c6c0" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_493be1c392aed1d71bad8b9fd130dab9" level="file">
-        <did>
-          <unittitle>James Beard's writing on American Cookery</unittitle>
-          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5fc9a1f145e7440d169536f38a7cccbf" label="Mixed Materials [31142062835619]" type="Box">2</container>
-          <container id="aspace_fbf9d70c5c168baa1bb3b05777ce03e1" parent="aspace_5fc9a1f145e7440d169536f38a7cccbf" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_4d684924b003299132c7dd700ae17380" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic">American Way</emph></unittitle>
-          <unitdate datechar="creation" normal="1975/1981" type="inclusive">1975-1981</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_afd8cc5fbc437c51640971900f9cd610" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_c402777351eedc72770ef34205616a80" parent="aspace_afd8cc5fbc437c51640971900f9cd610" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_c8a119fde4125556e26e78cbb12c67c7" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Bon Appetit </emph></unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_72816f91cf7ad988f78514e04f832769" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_14df1acf0a38d01f1836f0d1663ff832" parent="aspace_72816f91cf7ad988f78514e04f832769" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_e846194febde2c5ede8305a49e49d964" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Diversion </emph></unittitle>
-          <unitdate datechar="creation" normal="1969/1983" type="inclusive">1969-1983</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_d22790c2ab64c3b79710ed508cb166ad" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_6b0e0bc07bc7f5fd65eb42c9a0d765b3" parent="aspace_d22790c2ab64c3b79710ed508cb166ad" type="Folder">3-4</container>
-        </did>
-      </c>
-      <c id="aspace_baf6d4f809ec60f707736c4513456930" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> House and Garden </emph></unittitle>
-          <unitdate datechar="creation" normal="1965/1976" type="inclusive">1965-1976</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_af361b1ca174c53eabb7af7b38061d67" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_d1865fe63a3489f18ca2e059cff0c1a9" parent="aspace_af361b1ca174c53eabb7af7b38061d67" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_c6b4f71eed998ac020c0604b5885fef0" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Harper's Bazaar </emph></unittitle>
-          <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_44e27af677a4468e1ca3386fb452f550" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_af64079095cb4df1c3008cfa451ead46" parent="aspace_44e27af677a4468e1ca3386fb452f550" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_35cb455621c600d37bc0766f1e9a32d2" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Argrosy </emph></unittitle>
-          <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_85f4c6a4ea614146043555d3ccf32a26" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_41d24655311299040ff12eb9862bcc14" parent="aspace_85f4c6a4ea614146043555d3ccf32a26" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_d9a4a4787f35a76b5412710c80f352ea" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> House Beautiful </emph></unittitle>
-          <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ff0b1d1e38f00b0f3e4c8d116282c7d9" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_a26886d1ee8ffdbc12f738031c661b56" parent="aspace_ff0b1d1e38f00b0f3e4c8d116282c7d9" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_48c2705fc4877ca06d5f4bfb86b644ea" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> McCall's </emph></unittitle>
-          <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5f2c6ccd5904a3403f53f7e2967cd9d6" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_9218d618d4bf68d6c34d7778ca7b29f0" parent="aspace_5f2c6ccd5904a3403f53f7e2967cd9d6" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_83a9bd8c011b45dc5460585c22085ab2" level="file">
-        <did>
-          <unittitle>James Beard's writing in the<emph render="italic"> New York Times </emph></unittitle>
-          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_cced9d0b8dcceebb1450523f2c7e7b59" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_b7085146aea290f8bafacc78e5de5550" parent="aspace_cced9d0b8dcceebb1450523f2c7e7b59" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ddb7d911fa19996bf77d4c03fb09f003" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> The Pleasure of Cooking </emph></unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_7561afe73705c7abbd5e71634ecd28dc" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_e47bc5131a0ade6e6057a4b10beb5bbb" parent="aspace_7561afe73705c7abbd5e71634ecd28dc" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_e159150f32b010e6b6db62132103d2e8" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> New York Magazine </emph></unittitle>
-          <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0857e74fb11d365a90e5aa8d7001e460" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_5338b32c4ec17549349f33ac0942df0b" parent="aspace_0857e74fb11d365a90e5aa8d7001e460" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_0fcc562a1396c7acd121d1cdc20cd014" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Style </emph></unittitle>
-          <unitdate datechar="creation" normal="1973/1980" type="inclusive">1973-1980</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_922f5ed6671a4067f6576af63cdb36f9" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_83031b7cfceee643bfe0c2521fae6011" parent="aspace_922f5ed6671a4067f6576af63cdb36f9" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_425d7c83725c119d108967f1742ee26f" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Travel and Leisure </emph></unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b45b19004a773d0463ae27e110039f64" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_bd619537acc08722e63541007b68cc87" parent="aspace_b45b19004a773d0463ae27e110039f64" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_faa00b4fc14c365f568b8ac6484ed9c9" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Town and Country </emph></unittitle>
-          <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_72f1d8006628d1a1a0777021eddd53c8" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_a85fa75b2596431e4c5da3ecd8432337" parent="aspace_72f1d8006628d1a1a0777021eddd53c8" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_36b52f447503ec4983a63e0f69e8c026" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Today's Woman </emph></unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_23642a3105338d7c5318ddea3a7077ef" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_c4db547b7eb06fd0fa49e7ed8afaae67" parent="aspace_23642a3105338d7c5318ddea3a7077ef" type="Folder">16</container>
-        </did>
-      </c>
-      <c id="aspace_81a872ed7b82caa71ed6411de1aeb202" level="file">
-        <did>
-          <unittitle>James Beard's writing in <emph render="italic"> Woman's Day </emph></unittitle>
-          <unitdate datechar="creation" normal="1974/1981" type="inclusive">1974-1981</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8b94be8a97086f91efea1928a9513e9f" label="Mixed Materials [31142062835627]" type="Box">3</container>
-          <container id="aspace_1b27f01a21c932f74a9126157c2f7ff8" parent="aspace_8b94be8a97086f91efea1928a9513e9f" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_3f20885f8f2d5e1c96ff87f4dd88fa9f" level="file">
-        <did>
-          <unittitle><emph render="italic"> Homemaking with a Flair </emph> by James Beard</unittitle>
-          <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_cb871c7efff2cbe8d438d38b46234605" label="Mixed Materials [31142062835635]" type="Box">4</container>
-          <container id="aspace_a9c6738ac4b142b3d5a8b733b82448f3" parent="aspace_cb871c7efff2cbe8d438d38b46234605" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_6dcb985176674d037e80fae4f41efbe3" level="file">
-        <did>
-          <unittitle>James Beard draft essays</unittitle>
-          <unitdate datechar="creation" normal="1975/1981" type="inclusive">1975-1981</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_e4f20c3fc802d170fbc71f9ebb33b82b" label="Mixed Materials [31142062835635]" type="Box">4</container>
-          <container id="aspace_e039c486b52c27807ccfaa34b8886435" parent="aspace_e4f20c3fc802d170fbc71f9ebb33b82b" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_bfbcc87a0fe40397339ecc617816a74b" level="file">
-        <did>
-          <unittitle>Unpublished articles by James Beard</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1244cb251e64665fa7254086c63d6523" label="Mixed Materials [31142062835635]" type="Box">4</container>
-          <container id="aspace_1a1265ba7958debb724a9ab6f6924b9e" parent="aspace_1244cb251e64665fa7254086c63d6523" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_cbe65b7dbc8435484b08a6709e6ca440" level="file">
-        <did>
-          <unittitle><emph render="italic"> Waste Not, Want Not Cookbook: The Art of Lively Leftovers </emph> by Helen McCully -- Draft</unittitle>
-          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_6f44bffe3ba0616a58325d283586f3c6" label="Mixed Materials [31142062835635]" type="Box">4</container>
-          <container id="aspace_22a7438bff1f2089c0d4bd214b69c74b" parent="aspace_6f44bffe3ba0616a58325d283586f3c6" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_3b58bffff71cf3b3efdeda3593235cee" level="file">
-        <did>
-          <unittitle><emph render="italic"> The Essential James Beard Cookbook </emph> -- Drafts</unittitle>
-          <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_aadfa119539e848c75ce99d074af9170" label="Mixed Materials [31142062835635]" type="Box">4</container>
-          <container id="aspace_06f704d618dcded648129e8501ec5af3" parent="aspace_aadfa119539e848c75ce99d074af9170" type="Folder">5-7</container>
-        </did>
-      </c>
-      <c id="aspace_a5b10dda98ebafdac22780e120c08d02" level="file">
-        <did>
-          <unittitle><emph render="italic"> Beard to Brown: A Mostly Culinary Correspondence </emph> -- Manuscript</unittitle>
-          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_9312f1c708658387ba2fbc1e6257fa6a" label="Mixed Materials [31142062835643]" type="Box">5</container>
-          <container id="aspace_6cce1004cebc280f3b641e430b767a8e" parent="aspace_9312f1c708658387ba2fbc1e6257fa6a" type="Folder">2-6</container>
-        </did>
-      </c>
-      <c id="aspace_97286e4253ecf2ffdb46a9b9c5e0a035" level="file">
-        <did>
-          <unittitle>Correspondence -- Helen Evans Brown and James Beard</unittitle>
-          <unitdate datechar="creation" normal="1952/1964" type="inclusive">1952-1964</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_64af9bcdddb4d9f565c681101c467ba4" label="Mixed Materials [31142062835643]" type="Box">5</container>
-          <container id="aspace_ee7007ff26712847a878b358c2fe47b6" parent="aspace_64af9bcdddb4d9f565c681101c467ba4" type="Folder">1</container>
-          <container altrender="Manuscript box - Legal" id="aspace_c84a14e270552451137a5fbea6699bb8" label="Mixed Materials [31142062835650]" type="Box">6</container>
-          <container id="aspace_30184eb1926b3a10c3ba2b0814907391" parent="aspace_c84a14e270552451137a5fbea6699bb8" type="Folder">1-4</container>
-          <container altrender="Manuscript box - Legal" id="aspace_a4cee1b0cc50c8375d467507c4089524" label="Mixed Materials [31142062835668]" type="Box">7</container>
-          <container id="aspace_6348effcec6faca15f5ac90340c2f0be" parent="aspace_a4cee1b0cc50c8375d467507c4089524" type="Folder">1-5</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_411">mss_411</eadid><filedesc><titlestmt><titleproper>Guide to the John Ferrone Papers <num>MSS.411</num></titleproper><author>Aki Snyder and Anna Björnsson McCormick</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>May 2021</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:53:45 -0500</date>.</creation><langusage>Finding aid is written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>John Ferrone Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Ferrone, John</persname>
+    </origination>
+    <unitid>MSS.411</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      <extent altrender="carrier">in 7 manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1942/2012" type="inclusive">1942-2012</unitdate>
+    <abstract id="aspace_623a267be85951df6e06c61521646de1">John Ferrone (August 14, 1924 – April 10, 2016) was an American book editor working for Dell Publishing and Harcourt, Brace, &amp; World (later Harcourt Brace Jovanovich). Ferrone retired from Harcourt Brace Jovanovich in 1990, but over his career, he had numerous clients including: Eudora Welty, Anais Nin, Helen McCully, C.S. Lewis, Alice Walker, and James Beard. Ferrone's close friendship with James Beard led to much collaboration in the kitchen, as well as in the publication world. After James Beard's death in 1985, Ferrone served as Beard's literary executor. The John Ferrone Papers roughly span from 1942 to 2012, with the bulk of the materials dating between 1970 to the early 1990s. This collection contains correspondence; press-clippings containing articles, essays, and columns written by James Beard; and article and manuscript drafts. Most of the materials relate to James Beard, however, there are also papers related to Ferrone's other clients as well.</abstract>
+    <physloc id="aspace_16175ab5da5112bc37866bb5631c7241">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_6e92c802e2aec8ba7537dbaa5aa91c01">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_92480bd90fbdf4e71c9673934aea5925">
+    <head>Scope and Contents</head>
+<p>The John Ferrone Papers roughly span from 1942 to 2012, with the bulk of the materials dating between 1970 to the early 1990s. This collection contains correspondence; press-clippings containing articles, essays, and recipes written by James Beard; and  manuscripts for books edited by Ferrone.</p><p>The majority of this collection relates to cookbook author and chef, James Beard, one of Ferrone's biggest clients and closest friends. Ferrone kept a record of his personal and business collaboration with James Beard over several decades by saving their correspondence as well as copies of works written by Beard including magazine articles, columns, essays, and drafts. </p><p>In addition to Ferrone's correspondence with Beard, the correspondence files also include papers related to Ferrone's role as literary executor of Beard's estate, including correspondence with various publishers and book distributors regarding royalties and licensing fees. Ferrone also saved his correspondences with the Chalfont Agency, the literary agency in charge of the Beard Estate. Drafts of <emph render = 'italic'>The Essential James Beard Cookbook</emph>, co-edited by Ferrone, are included in this collection. Additionally, Ferrone kept copies of Beard's correspondence with chef and cookbook author Helen Evans Brown. In 1994 Ferrone used this correspondence to publish <emph render = 'italic'>Love and Kisses and a Halo of Truffles: Letters to Helen Evans Brown</emph>, an edited selection of letters from Beard and Brown's correspondence and a manuscript of the book, under the title <emph render = 'italic'>Beard to Brown: A Mostly Culinary Correspondence</emph>, is incuded in this collection.</p><p>The rest of the correspondence files include information about John Ferrone's time working at and his departure from Harcourt Brace Jovanovich, as well as his communications with  clients other than Beard. The collection contains correspondence with clients who were involved in literary projects that included the writings of Eudora Welty, Anaïs Nin, Jack London, Helen McCully, Virginia Woolf, Violet Trefusis, and C.S. Lewis. Ferrone did not work directly with all of these authors; in some cases he published lesser-known works, correspondences, and compilations created after the author's death. Information about these projects, including correspondence about contracts, liscensing, and editorial decisions  can be found in the correspondence files.</p><p>This collection also includes the  manuscript for Hellen McCully's <emph render = 'italic'> Waste Not Want Not: A Cookbook of Delicious Foods from Leftovers</emph> published in 1975.</p>  </scopecontent>
+  <bioghist id="aspace_dd1d4cb57f3c12bbef0bffa6e8ef074a">
+    <head>Biographical note</head>
+<p>John Ferrone (August 14, 1924 – April 10, 2016) was an American book editor working for Dell Publishing and Harcourt, Brace, &amp; World (later Harcourt Brace Jovanovich). Ferrone retired from Harcourt Brace Jovanovich in 1990, but over his career, he had numerous clients including: Eudora Welty, Anais Nin, Helen McCully, C.S. Lewis, Alice Walker, and James Beard. Ferrone's close friendship with James Beard led to much collaboration in the kitchen, as well as in the publication world. After James Beard's death in 1985, Ferrone served as Beard's literary executor.</p>  </bioghist>
+  <arrangement id="aspace_f915d3df6c7725b54096709eb3db7dd6">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received at the time of purchase.</p>  </arrangement>
+  <accessrestrict id="aspace_7e14573c0a18db1cc7707a78256b9f6d">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_43d50a3c087b866cd31edfaf425a533f">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_48f019b1798657fbf637a8ba4c26c3a6">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchased from James Cummins Booksellers in 2014. The accession number associated with this acquisition is 2014.411.</p>  </acqinfo>
+  <prefercite id="aspace_24bd59309e2f92c42a32eefa67daa527">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; John Ferrone Papers; MSS 411; box number; folder number or item identifier; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_29fa2dbc7e09d568f4daaf375fe1fa18">
+    <head>Processing Information</head>
+<p>A graduate student in the Fall 2019 session of Advanced Archival Description HIST-GA.2031 surveyed and wrote a processing plan for this collection. This collection was described by an archivist in the spring of 2021. Materials were placed in new acid-free folders and boxes. Original folder titles were retained when available.</p>  </processinfo>
+  <relatedmaterial id="aspace_d5f03a64ec569fd85670513d3adeeb69">
+    <head>Related Materials</head>
+<p>For more information about John Ferrone's professional and personal relationship with James Beard see John Ferrone's interview included in Voices from the Food Revolution: People Who Changed The Way Americans Eat: An oral history project conducted by Judith Weinraub (MSS.309).</p><p>For more information on the life and career of James Beard please see the James Beard Foundation Archive (MSS.214), the James Beard Papers (MSS.263), and the James Beard Collection (MSS.139). </p>  </relatedmaterial>
+  <controlaccess>
+    <occupation source="lcsh">Food writers.</occupation>
+    <genreform source="lcsh">Cookbooks.</genreform>
+    <subject source="lcsh">Food writing.</subject>
+    <subject source="lcsh">Publishers and publishing</subject>
+    <persname source="naf">Beard, James, 1903-1985</persname>
+    <persname source="naf">Brown, Helen Evans</persname>
+    <corpname source="naf">Harcourt Brace Jovanovich</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_8fa94b935060b154082ec73c8c73db2d" level="file"><did><unittitle>Correspondence--James Beard</unittitle><unitdate datechar="creation" normal="1964/1977" type="inclusive">1964-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_8e70bdc40170fbad1e71fd93a2d8e5cf" label="Mixed Materials [31142062835601]" type="Box">1</container><container id="aspace_ac6a56c7182be3a28e4256b706aceac6" parent="aspace_8e70bdc40170fbad1e71fd93a2d8e5cf" type="Folder">1</container></did></c><c id="aspace_98e7cedc9d00e4d57916fe2a4cf50121" level="file"><did><unittitle>Correspondence--Lee Kessler</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_e610f760cdc469ea901c8ea6c95adcf3" label="Mixed Materials [31142062835601]" type="Box">1</container><container id="aspace_6825ff3f5ddea912a59f025a484d5a24" parent="aspace_e610f760cdc469ea901c8ea6c95adcf3" type="Folder">2</container></did></c><c id="aspace_74406994c6bc2738722f77c1e73c0805" level="file"><did><unittitle>Correspondence--Walter Hooper</unittitle><unitdate datechar="creation" normal="1982/1998" type="inclusive">1982-1990</unitdate><container altrender="Manuscript box - Legal" id="aspace_3d30cd440c66984c5b7da24f716ded84" label="Mixed Materials [31142062835601]" type="Box">1</container><container id="aspace_2e11ce4a06e21dc09da69ba3568a3ce9" parent="aspace_3d30cd440c66984c5b7da24f716ded84" type="Folder">3</container></did></c><c id="aspace_083d7ebb19dbfb63859c40faa02836e9" level="file"><did><unittitle>Correspondence--William Hathaway</unittitle><unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_e5296edebe5de2e3be275698b7492df1" label="Mixed Materials [31142062835601]" type="Box">1</container><container id="aspace_f79d70f6234015dc0ff1518ac18418c1" parent="aspace_e5296edebe5de2e3be275698b7492df1" type="Folder">4</container></did></c><c id="aspace_5bf7b10a57a8375314eb2c9b0eeda733" level="file"><did><unittitle>Correspondence--John Phillips</unittitle><unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_9fa5b9023403430c41f38c6592c1e45f" label="Mixed Materials [31142062835601]" type="Box">1</container><container id="aspace_5c3f2da3975a1681d06665edd89803e7" parent="aspace_9fa5b9023403430c41f38c6592c1e45f" type="Folder">5</container></did></c><c id="aspace_b3c4b056d105d616dfff6ccbc1103c30" level="file"><did><unittitle>Correspondence--Mitchell Leaska</unittitle><unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_ce39247dc357bb3add4285aeb3fcb4b4" label="Mixed Materials [31142062835601]" type="Box">1</container><container id="aspace_c719e1f5c20c17c4e82b09e27a88c416" parent="aspace_ce39247dc357bb3add4285aeb3fcb4b4" type="Folder">6</container></did></c><c id="aspace_3480b6ffa6c0b1821b5ac8c724e7ad44" level="file"><did><unittitle>Correspondence--Professional</unittitle><unitdate datechar="creation" normal="1964/1998" type="inclusive">1964-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_8d26b5f4cd478e55f542ca444cb150ac" label="Mixed Materials [31142062835601]" type="Box">1</container><container id="aspace_deb2ebfe8db22da62f8c6821327959ee" parent="aspace_8d26b5f4cd478e55f542ca444cb150ac" type="Folder">7-14</container></did></c><c id="aspace_d77c5c07528c1721ed9fb35779830907" level="file"><did><unittitle>Correspondence--<emph render="italic"> Menus for Entertaining </emph></unittitle><unitdate datechar="creation" normal="1986/1995" type="inclusive">1986-1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_693307312d52e165f96b7da5a24b992d" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_e4fb932a8338f98fb50186239d2a4e66" parent="aspace_693307312d52e165f96b7da5a24b992d" type="Folder">1-2</container></did></c><c id="aspace_bd8127c52a3df3c9fc694298226c30ca" level="file"><did><unittitle>Book cover proofs</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2eb248f1eb11850e4c7c40de716d83c9" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_f9f1be10948f1891ec4c76bc8b9703b6" parent="aspace_2eb248f1eb11850e4c7c40de716d83c9" type="Folder">3</container></did></c><c id="aspace_8680011801ad8b6a8e0403176765bfda" level="file"><did><unittitle>"Beard on Food" Syndicated Column</unittitle><unitdate datechar="creation" normal="1966/1983" type="inclusive">1966-1983</unitdate><container altrender="Manuscript box - Legal" id="aspace_ef7f874d3f82bccc2460bc296ed4c43b" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_580e8dc9df089743054394dae5c53e99" parent="aspace_ef7f874d3f82bccc2460bc296ed4c43b" type="Folder">4-9</container></did></c><c id="aspace_33a729fa978ca020337d8da84f5b7ad0" level="file"><did><unittitle>James Beard's writing on Lunching</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_739d7142f635fefac74d6a817685b782" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_4476ebf4bf5196ebab3883a868cdc39b" parent="aspace_739d7142f635fefac74d6a817685b782" type="Folder">10</container></did></c><c id="aspace_8f3ac4b6ddf8bad27446c48df4b22b99" level="file"><did><unittitle>James Beard's writing on Eating Out</unittitle><unitdate datechar="creation" normal="1966/1980" type="inclusive">1966-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_255b01a666e3d054b523e7b53c2231d5" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_43f84715aa122f82b20b52becdc3c3de" parent="aspace_255b01a666e3d054b523e7b53c2231d5" type="Folder">11</container></did></c><c id="aspace_a116c02c5e73e0c3b0cfbb8aafc6a6c1" level="file"><did><unittitle>James Beard's writing on Menu Planning</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f1ada1530dcef8869621e488ff5ef69" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_579299d0075da9ad56757bc5ec876dc7" parent="aspace_9f1ada1530dcef8869621e488ff5ef69" type="Folder">12</container></did></c><c id="aspace_eabfba62ef86a039500aab58349b9a14" level="file"><did><unittitle>James Beard's writing on Chefs</unittitle><unitdate datechar="creation" normal="1964/1974" type="inclusive">1964-1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_e9659c418f383bf24049ec238be6d4a8" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_d63ee9ee33d29f90a380278bfdb482a6" parent="aspace_e9659c418f383bf24049ec238be6d4a8" type="Folder">13</container></did></c><c id="aspace_d554bbcbe359f2a5699cd2685343b9d9" level="file"><did><unittitle>James Beard's writing on the Kitchen</unittitle><unitdate datechar="creation" normal="1968/1976" type="inclusive">1968-1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_817cb298fbdbf25b95d867ad782703a3" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_49167ba55412539e84b1e8c566a9b3fe" parent="aspace_817cb298fbdbf25b95d867ad782703a3" type="Folder">14</container></did></c><c id="aspace_493be1c392aed1d71bad8b9fd130dab9" level="file"><did><unittitle>James Beard's writing on American Cookery</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_f62b81360a4f17d592b7d1e1453b2ad8" label="Mixed Materials [31142062835619]" type="Box">2</container><container id="aspace_32821c35df8d1b04d133d81d43ce43b2" parent="aspace_f62b81360a4f17d592b7d1e1453b2ad8" type="Folder">15</container></did></c><c id="aspace_4d684924b003299132c7dd700ae17380" level="file"><did><unittitle>James Beard's writing in <emph render = 'italic'>American Way</emph></unittitle><unitdate datechar="creation" normal="1975/1981" type="inclusive">1975-1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_86131e1681fcbf936fd516e6ee35f9e5" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_602a03e039ffe23ec3670d122053af7b" parent="aspace_86131e1681fcbf936fd516e6ee35f9e5" type="Folder">1</container></did></c><c id="aspace_c8a119fde4125556e26e78cbb12c67c7" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Bon Appetit </emph></unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_44cb90945f0b39322216c20cd5ec33cf" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_8331c04e85282190febb9387c0fa645e" parent="aspace_44cb90945f0b39322216c20cd5ec33cf" type="Folder">2</container></did></c><c id="aspace_e846194febde2c5ede8305a49e49d964" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Diversion </emph></unittitle><unitdate datechar="creation" normal="1969/1983" type="inclusive">1969-1983</unitdate><container altrender="Manuscript box - Legal" id="aspace_7b1e9c10a5a1eba9c85695376a16fbae" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_fecbb3579a5c9766687ffbe113b53fc0" parent="aspace_7b1e9c10a5a1eba9c85695376a16fbae" type="Folder">3-4</container></did></c><c id="aspace_baf6d4f809ec60f707736c4513456930" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> House and Garden </emph></unittitle><unitdate datechar="creation" normal="1965/1976" type="inclusive">1965-1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_8e48245a95643fb72c38044217c658ed" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_0bca9fe73952388f13d11c90f67c5372" parent="aspace_8e48245a95643fb72c38044217c658ed" type="Folder">5</container></did></c><c id="aspace_c6b4f71eed998ac020c0604b5885fef0" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Harper's Bazaar </emph></unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_d39ab6f86a73b616db7f9f8934acdcc4" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_6f7cc11c5470d7fd310ba324906bf312" parent="aspace_d39ab6f86a73b616db7f9f8934acdcc4" type="Folder">6</container></did></c><c id="aspace_35cb455621c600d37bc0766f1e9a32d2" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Argrosy </emph></unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_e0421ede41ec2180b9038e43c4d64469" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_182a40f262e6ec18bbc749d19b874bf5" parent="aspace_e0421ede41ec2180b9038e43c4d64469" type="Folder">7</container></did></c><c id="aspace_d9a4a4787f35a76b5412710c80f352ea" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> House Beautiful </emph></unittitle><unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_058295bd0e72a4854da7a028ba37152b" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_ec5eb91b47e6ac7c3c5366ce4f802dbc" parent="aspace_058295bd0e72a4854da7a028ba37152b" type="Folder">8</container></did></c><c id="aspace_48c2705fc4877ca06d5f4bfb86b644ea" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> McCall's </emph></unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_2540f5f08d2924c160be6e22c13a199a" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_b3dbd8e15026fac3ff23f9da3168d93a" parent="aspace_2540f5f08d2924c160be6e22c13a199a" type="Folder">9</container></did></c><c id="aspace_83a9bd8c011b45dc5460585c22085ab2" level="file"><did><unittitle>James Beard's writing in the<emph render="italic"> New York Times </emph></unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_c9aef422bb8823748f90089be62734a9" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_42cc98ae85be7650f823c1b9294fc55a" parent="aspace_c9aef422bb8823748f90089be62734a9" type="Folder">10</container></did></c><c id="aspace_ddb7d911fa19996bf77d4c03fb09f003" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> The Pleasure of Cooking </emph></unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bfe529cac1adb11a636e251d6cb3e0f7" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_490ec235e4c993546cf35f772783b2e5" parent="aspace_bfe529cac1adb11a636e251d6cb3e0f7" type="Folder">11</container></did></c><c id="aspace_e159150f32b010e6b6db62132103d2e8" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> New York Magazine </emph></unittitle><unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_9c27304862f89bc1646dcf2fc1019f5a" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_a0756671a526aa80a243ad5868102cbd" parent="aspace_9c27304862f89bc1646dcf2fc1019f5a" type="Folder">12</container></did></c><c id="aspace_0fcc562a1396c7acd121d1cdc20cd014" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Style </emph></unittitle><unitdate datechar="creation" normal="1973/1980" type="inclusive">1973-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_6fdc3637f5a53d8fc3f76bebc61af199" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_36321b9ff42a80f3c39ce03fd3edafb2" parent="aspace_6fdc3637f5a53d8fc3f76bebc61af199" type="Folder">13</container></did></c><c id="aspace_425d7c83725c119d108967f1742ee26f" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Travel and Leisure </emph></unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_20c7b6f92835c76160c8cdcc435deb8d" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_55f1c590ae3826009fe577335e88f1d2" parent="aspace_20c7b6f92835c76160c8cdcc435deb8d" type="Folder">14</container></did></c><c id="aspace_faa00b4fc14c365f568b8ac6484ed9c9" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Town and Country </emph></unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_3dbaa4d8aa47cd5fc0e4349c3fef9976" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_f8a524ae6de2ae5f67584143f1ece3a3" parent="aspace_3dbaa4d8aa47cd5fc0e4349c3fef9976" type="Folder">15</container></did></c><c id="aspace_36b52f447503ec4983a63e0f69e8c026" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Today's Woman </emph></unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_48295f1717ce7ac1c2890f20ca5cf486" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_0604028e0fda0c4674a3238e5e5e4c7f" parent="aspace_48295f1717ce7ac1c2890f20ca5cf486" type="Folder">16</container></did></c><c id="aspace_81a872ed7b82caa71ed6411de1aeb202" level="file"><did><unittitle>James Beard's writing in <emph render="italic"> Woman's Day </emph></unittitle><unitdate datechar="creation" normal="1974/1981" type="inclusive">1974-1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_7d59970c1aaa3152d0c5f25214cca790" label="Mixed Materials [31142062835627]" type="Box">3</container><container id="aspace_aeed7bf27fafd2dc38c946ec48e5969b" parent="aspace_7d59970c1aaa3152d0c5f25214cca790" type="Folder">17</container></did></c><c id="aspace_3f20885f8f2d5e1c96ff87f4dd88fa9f" level="file"><did><unittitle><emph render="italic"> Homemaking with a Flair </emph> by James Beard</unittitle><unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_512d221f54bfedec419c4d195c03368d" label="Mixed Materials [31142062835635]" type="Box">4</container><container id="aspace_7bd3943ef65ee210dd604d5cc1111e85" parent="aspace_512d221f54bfedec419c4d195c03368d" type="Folder">1</container></did></c><c id="aspace_6dcb985176674d037e80fae4f41efbe3" level="file"><did><unittitle>James Beard draft essays</unittitle><unitdate datechar="creation" normal="1975/1981" type="inclusive">1975-1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_2cdd01cfd1de9b6b8b05ea1e9b1ac810" label="Mixed Materials [31142062835635]" type="Box">4</container><container id="aspace_e9e2b0d045dc72fc0421081d82c81f35" parent="aspace_2cdd01cfd1de9b6b8b05ea1e9b1ac810" type="Folder">2</container></did></c><c id="aspace_bfbcc87a0fe40397339ecc617816a74b" level="file"><did><unittitle>Unpublished articles by James Beard</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_79cbd22b0ea97e96910c8ad576b79cee" label="Mixed Materials [31142062835635]" type="Box">4</container><container id="aspace_a0fa623fcb492a7550508b02b5f7fb60" parent="aspace_79cbd22b0ea97e96910c8ad576b79cee" type="Folder">3</container></did></c><c id="aspace_cbe65b7dbc8435484b08a6709e6ca440" level="file"><did><unittitle><emph render="italic"> Waste Not, Want Not Cookbook: The Art of Lively Leftovers </emph> by Helen McCully -- Draft</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_003846989584b65b0f3c5391ab263d60" label="Mixed Materials [31142062835635]" type="Box">4</container><container id="aspace_78c65b2d5ca7a40594520ee656b729ac" parent="aspace_003846989584b65b0f3c5391ab263d60" type="Folder">4</container></did></c><c id="aspace_3b58bffff71cf3b3efdeda3593235cee" level="file"><did><unittitle><emph render="italic"> The Essential James Beard Cookbook </emph> -- Drafts</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate><container altrender="Manuscript box - Legal" id="aspace_943565cb3040facb3783cac32e23eb2a" label="Mixed Materials [31142062835635]" type="Box">4</container><container id="aspace_1a6211c5bf0dbc8635dedfa5bcc31aaa" parent="aspace_943565cb3040facb3783cac32e23eb2a" type="Folder">5-7</container></did></c><c id="aspace_a5b10dda98ebafdac22780e120c08d02" level="file"><did><unittitle><emph render="italic"> Beard to Brown: A Mostly Culinary Correspondence </emph> -- Manuscript</unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_7dd0fa378fdeaedb3a36f05b14972699" label="Mixed Materials [31142062835643]" type="Box">5</container><container id="aspace_54957a6466323e4da2438be6f74bf444" parent="aspace_7dd0fa378fdeaedb3a36f05b14972699" type="Folder">2-6</container></did></c><c id="aspace_97286e4253ecf2ffdb46a9b9c5e0a035" level="file"><did><unittitle>Correspondence -- Helen Evans Brown and James Beard</unittitle><unitdate datechar="creation" normal="1952/1964" type="inclusive">1952-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf1fdeb0ddb59b62dca1a7dac799a5b2" label="Mixed Materials [31142062835643]" type="Box">5</container><container id="aspace_2fe77d881ab4415be10f6e774ac8a7aa" parent="aspace_bf1fdeb0ddb59b62dca1a7dac799a5b2" type="Folder">1</container><container altrender="Manuscript box - Legal" id="aspace_cf1e2c75c94015fbffb24bcbcacb63d1" label="Mixed Materials [31142062835650]" type="Box">6</container><container id="aspace_c10e17feba189ebf8c5820dac148f777" parent="aspace_cf1e2c75c94015fbffb24bcbcacb63d1" type="Folder">1-4</container><container altrender="Manuscript box - Legal" id="aspace_e0f4b06710f0fcd116b2cb880d48056b" label="Mixed Materials [31142062835668]" type="Box">7</container><container id="aspace_4264ddcd322d7d982b3be2dc6635135d" parent="aspace_e0f4b06710f0fcd116b2cb880d48056b" type="Folder">1-5</container></did></c></dsc>
+</archdesc>
 </ead>

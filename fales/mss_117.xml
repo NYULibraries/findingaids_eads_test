@@ -1,302 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_117">mss_117</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the The Rose Strunsky Lorwin Papers<lb/>ca. 1910 - 1911<lb/> <num>MSS.117</num></titleproper>
-        <author>Lisa Darms, 2009.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:57:18 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Rose Strunsky Lorwin Papers</unittitle>
-      <origination label="Creator">
-        <persname role="rcp" source="naf">Strunsky, Rose</persname>
-      </origination>
-      <unitid>MSS.117</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1910/1911" type="inclusive">ca. 1910 - 1911</unitdate>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <acqinfo id="aspace_fe5de4f42f8000e73c095eea80817afe">
-      <head>Provenance</head>
-      <p>The Rose Strunsky Lorwin Papers were donated to the Fales Library by Strunsky Lorwin's grandaughter, Elizabeth Jane Lorwin, in 2003.</p>
-    </acqinfo>
-    <prefercite id="aspace_65575ba829c5c913797c01879c882813">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the
-following form:
-Identification of item,  date (if known); The Rose Strunsky Lorwin Papers; MSS 117; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
-    </prefercite>
-    <userestrict id="aspace_a591893a68eb7f11b70df5e69fba529d">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </userestrict>
-    <accessrestrict id="aspace_1e38d739bb48dbc3bcc68eea9e828eb6">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <scopecontent id="aspace_59ffa8899650e82e6d2bd3813a3f3096">
-      <head>Scope and Contents</head>
-      <p>The Rose Strunsky Lorwin Papers contain a small amount of typescripts(mostly poems) written by Sinclair Lewis for Rose Strunsky. Ten of the typescripts have autograph revisions by Lewis; another eleven have revisions and suggestions that are presumed to have been made by Rose Strunsky. These poems were written around 1910 or 1911.</p>
-    </scopecontent>
-    <arrangement id="aspace_28b343afde1bdb76d072d207a054e90c">
-      <head>Arrangement</head>
-      <p>The folders are arranged alphabetically by folder title.</p>
-    </arrangement>
-    <bioghist id="aspace_99b519e61a133a04a94d4ceb6a05be35">
-      <head>Biographical / Historical</head>
-      <p>Rose Strunsky was born in Russia in 1884. Her family emigrated to the United States, first to New York City and then to San Francisco, where she attended Stanford University. Along with her older sister, Anna Strunsky, she was active in socialist politics and San Francisco's literary scene. The sisters travelled in Russia in 1905, and lived in Greenwich Village in New York in the 1910s. Rose Strunsky married Louis Lorwin in 1920. Throughout her life she worked as a translator; her translations include <emph render="italic">The Journal of Leo Tolstoi</emph> (Knopf, 1917) and Leon Trotsky's <emph render="italic">Literature and Revolution</emph> (International Publishers, 1925). Rose Strunsky Lorwin died in New York in 1963. </p>
-      <p>Sinclair Lewis was born in Sauk Centre Minnesota in 1885. After graduating from Yale University in 1908, Lewis worked as a freelance writer, reporter and editor in various towns before working as an editor in New York. His first commercially successful novel, <emph render="italic">Main Street</emph>, was published in 1920. In 1926, Lewis was awarded a Pulizter Prize, which he refused. He accepted a Nobel Prize for Literature in 1930. Lewis's novels include <emph render="italic">Babbit</emph> (1922) and <emph render="italic">Elmer Gantry</emph> (1927). Lewis died in 1951 in Rome.</p>
-    </bioghist>
-    <controlaccess>
-      <persname role="aut" source="naf">Lewis, Sinclair, 1885-1951</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_117">mss_117</eadid><filedesc><titlestmt><titleproper>Guide to the the Rose Strunsky Lorwin Papers, circa 1910 - 1911 <num>MSS.117</num></titleproper><author>Lisa Darms, 2009.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2009</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 11:15:39 -0500</date>.</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Rose Strunsky Lorwin Papers</unittitle>
+    <origination label="Creator">
       <persname role="rcp" source="naf">Strunsky, Rose</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref87" level="series">
-        <did>
-          <unittitle>Typescripts</unittitle>
-        </did>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Amor Rex</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_76d65b2b21c3574213e4593954c54cb1" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_0a657902b39d7c5bdc0cd35899df2c5b" parent="aspace_76d65b2b21c3574213e4593954c54cb1" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: At a Symphony Alone</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_c4d341150504762878a00dfae55461ea" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_e5fa941b9b379411af7353df627cbd2f" parent="aspace_c4d341150504762878a00dfae55461ea" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Beyond the Rainbow</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_5a25d1dcb33ea28e2ba0c17ac2615157" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_babe41ed5ea21ffd3ea68f755c825582" parent="aspace_5a25d1dcb33ea28e2ba0c17ac2615157" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: A Canticle. Of Great Lovers</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_75e292168cf1cf6a711af84edd330a79" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_ebf4fa058bf6dd54a4f52b5be6a30422" parent="aspace_75e292168cf1cf6a711af84edd330a79" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Certain Sonnets of Rose</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_dc4037448618e438db36f1ff9a242514" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_978d2a7eb5a466ca4b4a3d3e572089b9" parent="aspace_dc4037448618e438db36f1ff9a242514" type="Folder">5</container>
-          </did>
-          <odd id="aspace_273f9db20c6e2a6929ec1ac2997dbb51">
-            <head>General</head>
-            <p>This folder contains only one piece of paper with what appears to be a title of a poem and no other text.</p>
-          </odd>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The Chalice</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_e3618489c5aaef31d6e38421e91f35e1" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_6b16ad0384d00f1014a46a658f1d448c" parent="aspace_e3618489c5aaef31d6e38421e91f35e1" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The City of Rose</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_b74daf71b2dc93ef182f48c0d3bc88e6" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_843df3f43302a934aacc65f431076881" parent="aspace_b74daf71b2dc93ef182f48c0d3bc88e6" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The City's Shrine of Quest</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_7780821df9ede114c683eebea779c6a2" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_84dc3349fb43b4e2c271984308efced2" parent="aspace_7780821df9ede114c683eebea779c6a2" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The City Song</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_0d9c411f5ecbcb982bdac3946ffa1103" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_766e2313b6d7c843454bad473e7c2fff" parent="aspace_0d9c411f5ecbcb982bdac3946ffa1103" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The Heretics Club</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_0ef03082b905263dea41839ef0d01a1e" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_460661edfbd8d70d64b836be38394c30" parent="aspace_0ef03082b905263dea41839ef0d01a1e" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Introduction to Book</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_5b113fb5a1a3f032161ca8759501662f" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_45253004f1db0ef2a89c6f00017dfc99" parent="aspace_5b113fb5a1a3f032161ca8759501662f" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Love's Threat</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_0511e40e0a3284940e66f94547d80b16" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_aa07b4bad230a659fd947831c221ce5a" parent="aspace_0511e40e0a3284940e66f94547d80b16" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Mist</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_1ab5ba9c1e5e2b326e136475a6c40c90" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_8703cf457eb959f95f9dc27fcf5e045d" parent="aspace_1ab5ba9c1e5e2b326e136475a6c40c90" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref65" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Morning</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_9ace66843328570ac0e3d35b68aa4d57" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_98135caaf9b864e7cc4b0427364c49b6" parent="aspace_9ace66843328570ac0e3d35b68aa4d57" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref66" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The Night Gleam</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_8a53d2345df13fd07c6a2c432b30af1e" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_5a654c84d81898ded87a7318c50df725" parent="aspace_8a53d2345df13fd07c6a2c432b30af1e" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref67" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Notes (word count)</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_8eaab008721b20c68494a86e520ca666" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_4a52f2ff6e85fd79788d95b0b7122c2b" parent="aspace_8eaab008721b20c68494a86e520ca666" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref68" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Poems to Rose</unittitle>
-            <unitdate datechar="creation" normal="1910/1911" type="inclusive">1910-1911</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_f5da097ba9339326f3ad8fd1665745ae" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_1156dd082980c35e0b8b31b7c147cf26" parent="aspace_f5da097ba9339326f3ad8fd1665745ae" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref69" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The Proud Beggar</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_7a212b898a09ea3fa5b57fe02d770601" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_2c97eab5e1cdd7237c0421664a400a6a" parent="aspace_7a212b898a09ea3fa5b57fe02d770601" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref70" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Rose and Rose</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_3b3db60d99a0e2247b8614ee27f6ad11" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_ad7c4faa4e833f1dad5e08123f0fda0d" parent="aspace_3b3db60d99a0e2247b8614ee27f6ad11" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref71" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Roseboro</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_aa815044f37568827cc5aa5cc16a0b70" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_e3d6f56282a6656b81a3477d255a3055" parent="aspace_aa815044f37568827cc5aa5cc16a0b70" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref72" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The Rosicrucian at Tristan and Isolde</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_dcc94fa861f25cef065dea877b4df515" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_3732c2ede4472eb67bcab3f9e50a1bc6" parent="aspace_dcc94fa861f25cef065dea877b4df515" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref78" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The Sleeping Rose</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_d7973c77b274459c7a0ef0ffdb978817" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_59b7807041e83fc9098402ca6695f1a5" parent="aspace_d7973c77b274459c7a0ef0ffdb978817" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref73" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Sun</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_96b7dc9342cf3405b6e49b4b8e5ac0fe" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_7074bbbef00e7215a3edd0c024dc4753" parent="aspace_96b7dc9342cf3405b6e49b4b8e5ac0fe" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref74" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Sun Snow</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_a9eea976cb0c6a9a07a15522c01547ef" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_2f62723096284529fa2304fa0561793a" parent="aspace_a9eea976cb0c6a9a07a15522c01547ef" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref75" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: Two Afternoons</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_e5de9f2fcb3b8e90472900b4da32a902" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_6dc9a10ea0f290e58790d02efc55c017" parent="aspace_e5de9f2fcb3b8e90472900b4da32a902" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref76" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: The Vision</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_fb01bc995b70ae7f73216d8d1492f174" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_92494d766756eea7196dd9cde2390f78" parent="aspace_fb01bc995b70ae7f73216d8d1492f174" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref77" level="file">
-          <did>
-            <unittitle>Lewis, Sinclair: When Hearing the Tannhausen Overture</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_afbf72f86a25a3a43bd9d2e9dbe5c533" label="Graphic Materials [31142063601879]" type="Box">1</container>
-            <container id="aspace_fe09d1a4c79237ade253f2a071868171" parent="aspace_afbf72f86a25a3a43bd9d2e9dbe5c533" type="Folder">27</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>MSS.117</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1910/1911" type="inclusive">circa 1910 - 1911</unitdate>
+    <langmaterial id="aspace_b832f7cc5bd9975eb9097f2c4c84852a">Materials are in English.</langmaterial>
+  </did>
+  <acqinfo id="aspace_fe5de4f42f8000e73c095eea80817afe">
+    <head>Provenance</head>
+<p>The Rose Strunsky Lorwin Papers were donated to the Fales Library by Strunsky Lorwin's grandaughter, Elizabeth Jane Lorwin, in 2003.</p>  </acqinfo>
+  <prefercite id="aspace_65575ba829c5c913797c01879c882813">
+    <head>Preferred Citation</head>
+<p>Published citations should take the
+following form:
+Identification of item,  date (if known); The Rose Strunsky Lorwin Papers; MSS 117; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <userestrict id="aspace_a591893a68eb7f11b70df5e69fba529d">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <accessrestrict id="aspace_1e38d739bb48dbc3bcc68eea9e828eb6">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <scopecontent id="aspace_59ffa8899650e82e6d2bd3813a3f3096">
+    <head>Scope and Contents</head>
+<p>The Rose Strunsky Lorwin Papers contain a small amount of typescripts(mostly poems) written by Sinclair Lewis for Rose Strunsky. Ten of the typescripts have autograph revisions by Lewis; another eleven have revisions and suggestions that are presumed to have been made by Rose Strunsky. These poems were written around 1910 or 1911.</p>  </scopecontent>
+  <arrangement id="aspace_28b343afde1bdb76d072d207a054e90c">
+    <head>Arrangement</head>
+<p>The folders are arranged alphabetically by folder title.</p>  </arrangement>
+  <bioghist id="aspace_99b519e61a133a04a94d4ceb6a05be35">
+    <head>Biographical / Historical</head>
+<p>Rose Strunsky was born in Russia in 1884. Her family emigrated to the United States, first to New York City and then to San Francisco, where she attended Stanford University. Along with her older sister, Anna Strunsky, she was active in socialist politics and San Francisco's literary scene. The sisters travelled in Russia in 1905, and lived in Greenwich Village in New York in the 1910s. Rose Strunsky married Louis Lorwin in 1920. Throughout her life she worked as a translator; her translations include <emph render="italic">The Journal of Leo Tolstoi</emph> (Knopf, 1917) and Leon Trotsky's <emph render="italic">Literature and Revolution</emph> (International Publishers, 1925). Rose Strunsky Lorwin died in New York in 1963. </p><p>Sinclair Lewis was born in Sauk Centre Minnesota in 1885. After graduating from Yale University in 1908, Lewis worked as a freelance writer, reporter and editor in various towns before working as an editor in New York. His first commercially successful novel, <emph render="italic">Main Street</emph>, was published in 1920. In 1926, Lewis was awarded a Pulizter Prize, which he refused. He accepted a Nobel Prize for Literature in 1930. Lewis's novels include <emph render="italic">Babbit</emph> (1922) and <emph render="italic">Elmer Gantry</emph> (1927). Lewis died in 1951 in Rome.</p>  </bioghist>
+  <controlaccess>
+    <persname role="aut" source="naf">Lewis, Sinclair, 1885-1951</persname>
+    <persname role="rcp" source="naf">Strunsky, Rose</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref87" level="series"><did><unittitle>Typescripts</unittitle></did><c id="aspace_ref18" level="file"><did><unittitle>Lewis, Sinclair: Amor Rex</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e35e61ac61e0b11db0847c4bfe6b2652" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_e502a1cfd730fb1700cbea6e0e44df6b" parent="aspace_e35e61ac61e0b11db0847c4bfe6b2652" type="Folder">1</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Lewis, Sinclair: At a Symphony Alone</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_de25a90d4a2808970b62021be168837e" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_67e156ee2b1f9edbbc6ff233abc1faab" parent="aspace_de25a90d4a2808970b62021be168837e" type="Folder">2</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Lewis, Sinclair: Beyond the Rainbow</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_fe48193bd947594da0a02535cbbe6176" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_1f6bc453b632f5660ee8c608604d1c94" parent="aspace_fe48193bd947594da0a02535cbbe6176" type="Folder">3</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Lewis, Sinclair: A Canticle. Of Great Lovers</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_c338726f52ec33706fc6dadfb728e570" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_e4ba11fc009ffa6a0c8e2b0a6309e2da" parent="aspace_c338726f52ec33706fc6dadfb728e570" type="Folder">4</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Lewis, Sinclair: Certain Sonnets of Rose</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_744945e37bae944bb4c252fc589e972c" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_7b7b6a9c442f3f9abc5731d2130e7c0c" parent="aspace_744945e37bae944bb4c252fc589e972c" type="Folder">5</container></did><odd id="aspace_273f9db20c6e2a6929ec1ac2997dbb51"><head>General</head><p>This folder contains only one piece of paper with what appears to be a title of a poem and no other text.</p></odd></c><c id="aspace_ref23" level="file"><did><unittitle>Lewis, Sinclair: The Chalice</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_45ee85233707f1609ddd5fb409df800c" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_fafaf6d9298b22d8217d4de81b6141c3" parent="aspace_45ee85233707f1609ddd5fb409df800c" type="Folder">6</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Lewis, Sinclair: The City of Rose</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1602484be5d66d921d2e4fab54c5999f" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_a84257199ea3822930c787505d49952c" parent="aspace_1602484be5d66d921d2e4fab54c5999f" type="Folder">7</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Lewis, Sinclair: The City's Shrine of Quest</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_14473bfe1dc316c431dc5f1f00930dff" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_4e9c132a599a63154b34b8331f42c6c4" parent="aspace_14473bfe1dc316c431dc5f1f00930dff" type="Folder">8</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Lewis, Sinclair: The City Song</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1b9d74e93d8912adac36682ee840f516" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_8876b26b84dbec8403b0336e963bcb5c" parent="aspace_1b9d74e93d8912adac36682ee840f516" type="Folder">9</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Lewis, Sinclair: The Heretics Club</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d302565346fd6a77bb0becf1a618a82d" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_bd44439083dbc7bb70d57ba07a31cacd" parent="aspace_d302565346fd6a77bb0becf1a618a82d" type="Folder">10</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Lewis, Sinclair: Introduction to Book</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_496d83e01be8642fdf28729858c35139" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_fb612ff6158056e7f8ba4800956903d0" parent="aspace_496d83e01be8642fdf28729858c35139" type="Folder">11</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Lewis, Sinclair: Love's Threat</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4aae2b4729b610d29df80ac7566e5dce" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_b97520f259b50652cef8ee4da33bc92e" parent="aspace_4aae2b4729b610d29df80ac7566e5dce" type="Folder">12</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Lewis, Sinclair: Mist</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_2d02c5e1705bf981f5467c82b00997e5" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_2c3b5508f19b20f09d2dd7837e6b4ae4" parent="aspace_2d02c5e1705bf981f5467c82b00997e5" type="Folder">13</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Lewis, Sinclair: Morning</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d2d38e30f9aa010d7da955f61475945d" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_a7fcbbec9f71c8887aece069284da8bf" parent="aspace_d2d38e30f9aa010d7da955f61475945d" type="Folder">14</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Lewis, Sinclair: The Night Gleam</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_50fa41a0460b4da23f48cc15854b2c65" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_8c3765a50abbb4cc26fdabac32d7f02a" parent="aspace_50fa41a0460b4da23f48cc15854b2c65" type="Folder">15</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Lewis, Sinclair: Notes (word count)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_788a2fd3e81f7b22508e0607eff566b2" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_f3c7a7841acfee40881ca1540fbba903" parent="aspace_788a2fd3e81f7b22508e0607eff566b2" type="Folder">16</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Lewis, Sinclair: Poems to Rose</unittitle><unitdate datechar="creation" normal="1910/1911" type="inclusive">1910-1911</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_f03da7dd138fbb34375afe7e931e1f2a" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_e71c6af507e906d83a876f2c36b8f1a2" parent="aspace_f03da7dd138fbb34375afe7e931e1f2a" type="Folder">17</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Lewis, Sinclair: The Proud Beggar</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_ae0dcef10742d07dbc4d5301c88f7c18" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_cdd63df776aed9fdf1313a45c14a5f4b" parent="aspace_ae0dcef10742d07dbc4d5301c88f7c18" type="Folder">18</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Lewis, Sinclair: Rose and Rose</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_33b6c1923cc7c2640286c3e95cc2961c" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_0d7c6b0e4aea421059834e7ad91ee8c4" parent="aspace_33b6c1923cc7c2640286c3e95cc2961c" type="Folder">19</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Lewis, Sinclair: Roseboro</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_5dec4b7e8d2e3c7b7f0184f91a75beca" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_8ec882747da9162b069d8a9362731910" parent="aspace_5dec4b7e8d2e3c7b7f0184f91a75beca" type="Folder">20</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Lewis, Sinclair: The Rosicrucian at Tristan and Isolde</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d1a9d0737bc57a919381445d0d4b4534" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_020c82769a2f5d1f89c767a5f40e6342" parent="aspace_d1a9d0737bc57a919381445d0d4b4534" type="Folder">21</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Lewis, Sinclair: The Sleeping Rose</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_78899860b3bda437b0c7354bb56c7c16" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_342b23de13367bbcb751dd98fceaa9fe" parent="aspace_78899860b3bda437b0c7354bb56c7c16" type="Folder">22</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Lewis, Sinclair: Sun</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_ceeef61bc9ec3bb63318746d7fa5864e" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_b266544ec358c00f6bf77e266cb388d7" parent="aspace_ceeef61bc9ec3bb63318746d7fa5864e" type="Folder">23</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Lewis, Sinclair: Sun Snow</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_cac04b93f75dd704d83cc17fcab2e6f3" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_7b0438de616b65ead8dfdaaa4aca47a0" parent="aspace_cac04b93f75dd704d83cc17fcab2e6f3" type="Folder">24</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Lewis, Sinclair: Two Afternoons</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_ab9ca5d81cd60101d679778704fae86e" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_d1e23143726ab8b828593e040af5a114" parent="aspace_ab9ca5d81cd60101d679778704fae86e" type="Folder">25</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Lewis, Sinclair: The Vision</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_775a92e89c82329f05fa1245502d1373" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_2822d84b0c35bf26e7c8945f2802b6e6" parent="aspace_775a92e89c82329f05fa1245502d1373" type="Folder">26</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Lewis, Sinclair: When Hearing the Tannhausen Overture</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_488399f721e11d1f24a093a765c52a13" label="Graphic Materials [31142063601879]" type="Box">1</container><container id="aspace_485af30f2ae85d9d35a8d86878cf5fa9" parent="aspace_488399f721e11d1f24a093a765c52a13" type="Folder">27</container></did></c></c></dsc>
+</archdesc>
 </ead>

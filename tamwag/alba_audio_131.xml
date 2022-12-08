@@ -1,648 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_audio_131">alba_audio_131</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War <num>ALBA.AUDIO.131</num></titleproper>
-        <author>Jennifer Pondo</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2010</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:45:59 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>April 2019</date>
-        <item> Updated by Kelly Haydon to state the audiovisual materials have been digitized and are accessible to patrons</item>
-      </change>
-      <change>
-        <date>May 2021</date>
-        <item>Edited by Megan O’Shea for compliance with DACS and ACM Required Elements for Archival Description, and to reflect new housing for collection</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Patai, Frances</persname>
-      </origination>
-      <unitid>ALBA.AUDIO.131</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.8 Linear Feet</extent>
-        <extent altrender="carrier">in 1 card box and 1 box</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">36 audiocassettes</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">4 sound discs (cd)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1985/1992" type="inclusive">1985-1992</unitdate>
-      <abstract id="aspace_1ef3fa9f62c95647432d27f7e873f75f">Frances Patai was an educator, writer, historian and feminist activist. Born in New York in 1930, she earned her bachelor's and master's degrees at the City College of New York in the 1950s and taught English and Communication courses throughout the City University of New York (CUNY) system. Patai was deeply concerned with human rights issues, in particular the rights and status of women, and in the last decade of her life she devoted her efforts to researching and writing a book on U.S. women medical personnel who volunteered during the Spanish Civil War. The oral histories that make up this collection are part of her extensive research material. The Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War consist of interviews with volunteers from the Spanish Civil War, primarily the women who served as nurses.</abstract>
-      <langmaterial id="aspace_b4cb9ca2fe3290de37318892ba1084eb">Materials are in English.</langmaterial>
-    </did>
-    <bioghist id="aspace_5e943df16a554235848a323083da8724">
-      <head>Biographical Note</head>
-      <p>Frances Patai was born on New York City's Lower East Side in 1930. As a teenager, she performed in Jewish resorts in the Catskills as an actress and dancer. In her twenties she attended classes at the City College of New York, earning her bachelor's degree in 1955 and her MA in 1957. Beginning in the 1970s she served as an English and Communications instructor at various institutions in the City University of New York (CUNY) system, including long-term appointments at John Jay College and the Borough of Manhattan Community Colleges.</p>
-      <p>Throughout her career Patai was concerned with the rights and status of women, addressing in a series of essays and articles issues related to rape, pornography, and abuse.  During the 1980s she worked with the feminist organization Woman against Pornography, serving as spokesperson and organizing their annual WAP Awards, an event that promoted the non-sexist representation of women in advertising.  In later life Patai turned her attention to the anti-fascist movements of the 1930s, and began to investigate the history of American volunteers who joined the Republican forces to fight against Franco's army during the Spanish Civil War.  Patai focused her attention on the participation of American women volunteers in the Spanish Civil War, devoting her efforts to researching and writing a book on the contributions of nurses.  Through her friendship with Fredericka Martin -- a nurse with the Medical Bureau to Aid Spanish Democracy who collected extensive biographical material on her former colleagues -- Patai gained access to unique primary materials, and to the surviving nurses themselves.  She conducted these interviews over several years, as part of her research project.  Patai died in 1998 before she could bring her project to fruition. She was 67 years old.</p>
-    </bioghist>
-    <relatedmaterial id="aspace_4a67207e8eb1fcabe97769e096714a05">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>Fredericka Martin Papers (ALBA 001)
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_audio_131">alba_audio_131</eadid><filedesc><titlestmt><titleproper>Guide to the Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War <num>ALBA.AUDIO.131</num></titleproper><author>Jennifer Pondo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2010</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:48:41 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2019</date><item> Updated by Kelly Haydon to state the audiovisual materials have been digitized and are accessible to patrons</item></change><change><date>May 2021</date><item>Edited by Megan O’Shea for compliance with DACS and ACM Required Elements for Archival Description, and to reflect new housing for collection</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Patai, Frances</persname>
+    </origination>
+    <unitid>ALBA.AUDIO.131</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.8 Linear Feet</extent>
+      <extent altrender="carrier">in 1 card box and 1 box</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">36 audiocassettes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4 sound discs (cd)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1985/1992" type="inclusive">1985-1992</unitdate>
+    <abstract id="aspace_1ef3fa9f62c95647432d27f7e873f75f" label="Abstract">Frances Patai was an educator, writer, historian and feminist activist. Born in New York in 1930, she earned her bachelor's and master's degrees at the City College of New York in the 1950s and taught English and Communication courses throughout the City University of New York (CUNY) system. Patai was deeply concerned with human rights issues, in particular the rights and status of women, and in the last decade of her life she devoted her efforts to researching and writing a book on U.S. women medical personnel who volunteered during the Spanish Civil War. The oral histories that make up this collection are part of her extensive research material. The Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War consist of interviews with volunteers from the Spanish Civil War, primarily the women who served as nurses.</abstract>
+    <langmaterial id="aspace_b4cb9ca2fe3290de37318892ba1084eb">Materials are in English, with some recordings in Spanish.</langmaterial>
+  </did>
+  <bioghist id="aspace_5e943df16a554235848a323083da8724">
+    <head>Biographical Note</head>
+<p>Frances Patai was born on New York City's Lower East Side in 1930. As a teenager, she performed in Jewish resorts in the Catskills as an actress and dancer. In her twenties she attended classes at the City College of New York, earning her bachelor's degree in 1955 and her MA in 1957. Beginning in the 1970s she served as an English and Communications instructor at various institutions in the City University of New York (CUNY) system, including long-term appointments at John Jay College and the Borough of Manhattan Community Colleges.</p><p>Throughout her career Patai was concerned with the rights and status of women, addressing in a series of essays and articles issues related to rape, pornography, and abuse.  During the 1980s she worked with the feminist organization Woman against Pornography, serving as spokesperson and organizing their annual WAP Awards, an event that promoted the non-sexist representation of women in advertising.  In later life Patai turned her attention to the anti-fascist movements of the 1930s, and began to investigate the history of American volunteers who joined the Republican forces to fight against Franco's army during the Spanish Civil War.  Patai focused her attention on the participation of American women volunteers in the Spanish Civil War, devoting her efforts to researching and writing a book on the contributions of nurses.  Through her friendship with Fredericka Martin -- a nurse with the Medical Bureau to Aid Spanish Democracy who collected extensive biographical material on her former colleagues -- Patai gained access to unique primary materials, and to the surviving nurses themselves.  She conducted these interviews over several years, as part of her research project.  Patai died in 1998 before she could bring her project to fruition. She was 67 years old.</p>  </bioghist>
+  <relatedmaterial id="aspace_4a67207e8eb1fcabe97769e096714a05">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Fredericka Martin Papers (ALBA 001)
 Julia Newman: "Into the Fire" Research Files (ALBA 226)
 Frances Patai Papers (ALBA 131)
 Frances Patai Photographs (ALBA PHOTO 131)
-Frances Patai File in the Abraham Lincoln Brigade Archive (ALBA) Vertical Files: Individuals (ALBA VF 2)</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_7bf1484ec985cc0623ba0c281c78189d">
-      <head>Scope and Content Note</head>
-      <p>The Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War consist of 36 audiocassettes, which were separated from the Francis Patai Papers (ALBA 131).  The interviews were conducted by Patai in the period 1985 to 1992, in the course of research for her book project on U.S. women medical personnel who vounteered during the Spanish Civil War. Most are with the women who volunteered as nurses, but also included are interviews with Abraham Lincoln Brigade veterans Moe Fishman and Steve Nelson, and with Marion Wachtel, widow of ALB volunteer Robert Merriman.  Drafts of Patai's planned book, and her article "Heroines of the Good Fight: Testimonies of U.S. Volunteer Nurses in the Spanish Civil War, 1936-1939" (<emph render="italic">Nursing History Review</emph>, 3 (1995): 79-104), which utilizes the interviews in this collection, can be found in the Patai Papers (ALBA 131). Also included in the collection are tapes of a conference and a veterans' dinner, and a recording of Spanish Civil War songs.</p>
-    </scopecontent>
-    <arrangement id="aspace_1a88c84dc97421a48d29f8511c701eeb">
-      <head>Arrangement</head>
-      <p>Each recording has been assigned a unique item number (e.g., ALBA A 131-001), and the collection is arranged in alphabetical order by last name of the interviewee. (Women's maiden names, or names used during service in Spain, are listed first -- followed by names used later in life.)</p>
-    </arrangement>
-    <accessrestrict id="aspace_94b79b0623f9d68d0de4084b0608550b">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open to researchers.</p>
-    </accessrestrict>
-    <userestrict id="aspace_0c1560992377da36f4a953015dbe25d5">
-      <head>Conditions Governing Use</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA) were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 70 years after the creator's death. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </userestrict>
-    <phystech id="aspace_353aadd1e3f1e4119a9051eade685272">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Access CDs for some audiovisual materials in the collection are available by appointment for reading room viewing and listening only.  Access to other audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room.</p>
-    </phystech>
-    <processinfo id="aspace_a553916016fdae02c023e3ddb04b5830">
-      <head>Processing Information</head>
-      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2021 are unknown.  In May 2021, cassettes were moved from audio cabinet drawers into cassette boxes.  New container numbers were created and cassettes were assigned to the appropriate top containers.</p>
-    </processinfo>
-    <acqinfo id="aspace_3558e6379894c1e96d4c7b94a5f0281f">
-      <head>Immediate Source of Acquisition</head>
-      <p>This collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives (ALBA) collections, formerly housed at Brandeis University.  The accession numbers associated with this collection are 2001.209	and 2001.136.</p>
-    </acqinfo>
-    <custodhist id="aspace_36b5c8bf1f701cbf2d1f9456e8e63d29">
-      <head>Custodial History</head>
-      <p>The Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War were donated to Abraham Lincoln Brigade Archives by Frances Patai as part of the Frances Patai Papers in 1998. The collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives collections, formerly housed at Brandeis University.</p>
-    </custodhist>
-    <prefercite id="aspace_bf6de1cd8abd665970d5785adc7f119d">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War; ALBA AUDIO 131; box number; folder number or item identifier; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <controlaccess>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Women.</geogname>
-      <subject source="lcsh">Americans -- Spain -- History -- 20th century.</subject>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American -- Interviews.</geogname>
-      <corpname source="naf">Medical Bureau to Aid Spanish Democracy</corpname>
-      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-      <corpname source="naf">Medical Bureau and North American Committee to Aid Spanish Democracy</corpname>
-      <persname source="naf">Martin, Fredericka I.</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref1" level="file">
-        <did>
-          <unittitle>Bell (Roberts), Hilda </unittitle>
-          <unitid>cuid14393</unitid>
-          <unitdate datechar="creation" normal="1991-01-15/1991-01-15">1991-01-15</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_335c127254fd5be821e4e7c1b72e7493" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_b9198958ecbfca9eb54642840b9f08d5" parent="aspace_335c127254fd5be821e4e7c1b72e7493" type="Cassette">131-001</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_795c14596af0a22dc03dfe80c9c66b50" label="access cd [31142062734853]" type="Box">ALBA Shared Access Box 1</container>
-        </did>
-      </c>
-      <c id="aspace_ref2" level="file">
-        <did>
-          <unittitle>Bell (Roberts), Hilda ; Mildred Rackley (Simon)</unittitle>
-          <unitid>cuid14394</unitid>
-          <unitdate datechar="creation" normal="1991-01-14/1991-01-14">1991-01-14</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_4bd9e1f0c3ccbb99f6050fb9d00c5c25" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_549eb610bc7310e38d222a8541995219" parent="aspace_4bd9e1f0c3ccbb99f6050fb9d00c5c25" type="Cassette">131-002</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_b348ac5265a330f2073f1f1a43736746" label="access cd [31142062734853]" type="Box">ALBA Shared Access Box 1</container>
-        </did>
-      </c>
-      <c id="aspace_ref3" level="file">
-        <did>
-          <unittitle>Davidow, Ruth</unittitle>
-          <unitid>cuid14395</unitid>
-          <unitdate datechar="creation" normal="1992-01-20/1992-01-20">1992-01-20</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_14d542c9373610363290eeefa06ca8a1" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_a5bd58926d0c4c7cb5c7157be1191d84" parent="aspace_14d542c9373610363290eeefa06ca8a1" type="Cassette">131-003</container>
-          <container id="aspace_83deb3c138f9d86b37cd5e606f47faea" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_a7c89306ab44ad3a2a36757902884e9d" parent="aspace_83deb3c138f9d86b37cd5e606f47faea" type="file">cuid14395</container>
-        </did>
-        <phystech id="aspace_f07e7c8f712ed39129dfddae1a879c14">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 94 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref7" level="file">
-        <did>
-          <unittitle>Fisher, Ruth and Harry</unittitle>
-          <unitid>cuid14396</unitid>
-          <unitdate datechar="creation" normal="1988-05-21/1988-05-21">1988-05-21</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_a43b829e1fc881be959ddb135e5a6696" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_bbb3d00a7c06e2d61fe0ae252920f4bd" parent="aspace_a43b829e1fc881be959ddb135e5a6696" type="Cassette">131-007</container>
-          <container id="aspace_a089c37b073495228e41d5e9eca2e28b" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_09be43bc567c49a032177ad6b5c7c19e" parent="aspace_a089c37b073495228e41d5e9eca2e28b" type="file">cuid14396</container>
-        </did>
-        <phystech id="aspace_86748358aeb00c04ec4d4993d177b566">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 48 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref8" level="file">
-        <did>
-          <unittitle>Fishman, Moe (Moses)</unittitle>
-          <unitid>cuid14397</unitid>
-          <unitdate datechar="creation" normal="1989-11-06/1989-11-06">1989-11-06</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_6c1646aa7af90f9b1abab79ab3ddef3e" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_2288a65e5481b228e8a11e9ad32ca149" parent="aspace_6c1646aa7af90f9b1abab79ab3ddef3e" type="Cassette">131-008</container>
-          <container id="aspace_8f350e873fdd5c2bd8099ab306e5022c" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_931e168a2f2bda985fb58b840e3d4a60" parent="aspace_8f350e873fdd5c2bd8099ab306e5022c" type="file">cuid14397</container>
-        </did>
-        <phystech id="aspace_1e9d5fd0fe194f0254dcb5fb7dca0657">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 43 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref6" level="file">
-        <did>
-          <unittitle>Freeman (Feinberg), Helen</unittitle>
-          <unitid>cuid14398</unitid>
-          <unitdate datechar="creation" normal="1990-04-20/1990-04-20">1990-04-20</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_21a9984cd461bb78eab0aa85f255f976" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_139f7ce96d528e4fba8b525c5e721c23" parent="aspace_21a9984cd461bb78eab0aa85f255f976" type="Cassette">131-006</container>
-          <container id="aspace_adf321ca84c9b1801965f7ea91023b9d" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_b95d771b1594a8c688422377eae38429" parent="aspace_adf321ca84c9b1801965f7ea91023b9d" type="file">cuid14398</container>
-        </did>
-        <phystech id="aspace_a8fec3e6d371c48219e96f8ff4465e2f">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 34 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref31" level="file">
-        <did>
-          <unittitle>Goldin (Spiegel), Irene; Esther Brown</unittitle>
-          <unitid>cuid14399</unitid>
-          <unitdate datechar="creation" normal="1991-01-22/1991-01-22">1991-01-22</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_37ffdc06fdd484578bfea57885f8af9b" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_13b789381c4d0fca1f8ae50ce697f91c" parent="aspace_37ffdc06fdd484578bfea57885f8af9b" type="Cassette">131-034</container>
-          <container id="aspace_87dbb176ae2e9cc6f60412e5c4de94c8" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_a0469c50fe1a46d603eaa7068f4c7203" parent="aspace_87dbb176ae2e9cc6f60412e5c4de94c8" type="file">cuid14399</container>
-        </did>
-        <phystech id="aspace_80029934464b86c78a4a3a664bc4fe60">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 59 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref9" level="file">
-        <did>
-          <unittitle>Gonzala, Garcia Delgado</unittitle>
-          <unitid>cuid14400</unitid>
-          <unitdate datechar="creation" normal="1988-07-15/1988-07-15">1988-07-15</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_9bb5af288327723f28c0c02f4a3fad4d" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_0833a7acba0678c561fa1ef5d9022948" parent="aspace_9bb5af288327723f28c0c02f4a3fad4d" type="Cassette">131-009</container>
-          <container id="aspace_85cb4ca536c363e28fea02c4909235f5" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_467adb266c2e458749084017da7493c7" parent="aspace_85cb4ca536c363e28fea02c4909235f5" type="file">cuid14400</container>
-        </did>
-        <phystech id="aspace_46eac0a38383d17f2579b8a5a032488a">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 46 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Hill (Klein), Josephine</unittitle>
-          <unitid>cuid14401</unitid>
-          <unitdate datechar="creation" normal="1990-04-23/1990-04-23">1990-04-23</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_fe5f9ab9bc0b6df7f83a0ec65d54fff0" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_e98a6fbbd36f42c954472281e4aa6577" parent="aspace_fe5f9ab9bc0b6df7f83a0ec65d54fff0" type="Cassette">131-013</container>
-          <container id="aspace_89e924e0e08a8e0787784c92c3d82ccd" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_3b1abc9fd489524a8be5c880dcf792fe" parent="aspace_89e924e0e08a8e0787784c92c3d82ccd" type="file">cuid14401</container>
-        </did>
-        <phystech id="aspace_eef5383a1f8e2b9801012ff127c6f61e">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 62 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Hill (Klein), Josephine</unittitle>
-          <unitid>cuid14402</unitid>
-          <unitdate datechar="creation" normal="1990-04-23/1990-04-23">1990-04-23</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_46ff36cbdaaa7b963c4dc9dedd8667e7" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_e91e9a93d97f6ea9d17ea295d795d05d" parent="aspace_46ff36cbdaaa7b963c4dc9dedd8667e7" type="Cassette">131-014</container>
-          <container id="aspace_a8ca084fb02873a32ced7c8735116c04" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_fce76645a3b03067c70b44e8ef84929f" parent="aspace_a8ca084fb02873a32ced7c8735116c04" type="file">cuid14402</container>
-        </did>
-        <phystech id="aspace_371a02efa3bfbc508bf74d8e202e9477">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 12 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Klavantz, Rae</unittitle>
-          <unitid>cuid14403</unitid>
-          <unitdate datechar="creation" normal="1991/1991">July 1991</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_b93611c7672b3c762c682f4ffc92edd8" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_5b42ac393349158cdbafd28b773dfebe" parent="aspace_b93611c7672b3c762c682f4ffc92edd8" type="Cassette">131-015</container>
-          <container id="aspace_8071052695bcab831bb034fdb513188d" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_ebc7d098ca955d2f7e82f1627f6a13f7" parent="aspace_8071052695bcab831bb034fdb513188d" type="file">cuid14403</container>
-        </did>
-        <phystech id="aspace_df14b367ba233565ef2b49a1acd4a0ba">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 57 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>Leight, Clara</unittitle>
-          <unitid>cuid14404</unitid>
-          <unitdate datechar="creation" normal="1986-12-17/1986-12-17">1986-12-17</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_6a7603a5a4e6f8a0e7c8938eebea9e63" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_c175f6ecfa23443013925433e620d006" parent="aspace_6a7603a5a4e6f8a0e7c8938eebea9e63" type="Cassette">131-016</container>
-          <container id="aspace_5f70c763bc5c30dcb0c418cbc32e0db7" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_31c88a97cb49ca4db1b02ca95127c915" parent="aspace_5f70c763bc5c30dcb0c418cbc32e0db7" type="file">cuid14404</container>
-        </did>
-        <phystech id="aspace_e00c8ac6bc1ec8d687006ba4923c8cc9">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 90 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Leight, Clara</unittitle>
-          <unitid>cuid14405</unitid>
-          <unitdate datechar="creation" normal="1986-12-17/1986-12-17">1986-12-17</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_837cb32f1d694b541077fdcabd242fb2" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_f6a06177f9019d2aa226763813ddcdc9" parent="aspace_837cb32f1d694b541077fdcabd242fb2" type="Cassette">131-017</container>
-          <container id="aspace_9ee9c5e52bdaa5fcf3033807ce29df73" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_57144d0281cd66f02270f2270e8cd723" parent="aspace_9ee9c5e52bdaa5fcf3033807ce29df73" type="file">cuid14405</container>
-        </did>
-        <phystech id="aspace_cb93cb06e2999dc07e6e97219bdf3306">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 64 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Levine (Hartzman), May</unittitle>
-          <unitid>cuid14406</unitid>
-          <unitdate datechar="creation" normal="1991-01-27/1991-01-27">1991-01-27</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_81cb87ae6905371b695be43be42b15f7" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_4b84f0618511edb64104e8742720c6f1" parent="aspace_81cb87ae6905371b695be43be42b15f7" type="Cassette">131-018</container>
-          <container id="aspace_d017c662d32b0a32215463e951093645" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_49a24e196ea2116a60b0b928149da978" parent="aspace_d017c662d32b0a32215463e951093645" type="file">cuid14406</container>
-        </did>
-        <scopecontent id="aspace_ac5c1b1c91a4e26a835ab6fc405c9a98">
-          <head>Scope and Contents</head>
-          <p>On Side 2 of this tape, May Levine Hartzman and Sidney Kaufman are interviewed separately.</p>
-        </scopecontent>
-        <phystech id="aspace_b0625e688afd05c5b10b4a7327a923c9">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 68 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Malbin, Virginia</unittitle>
-          <unitid>cuid14407</unitid>
-          <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_0f0dffa79f5b4359f3e7f1384d27b739" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_ad6f76d1a29621e4344a2026c8be701e" parent="aspace_0f0dffa79f5b4359f3e7f1384d27b739" type="Cassette">131-019</container>
-          <container id="aspace_0b439d71c590553bf8f6f34b34d75443" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_5cf13d2f753c3787141835d0eef33ece" parent="aspace_0b439d71c590553bf8f6f34b34d75443" type="file">cuid14407</container>
-        </did>
-        <phystech id="aspace_5fc69407734d88734a7f16180164ba3c">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 64 minutes</p>
-          <p>Preservation Note: "From beginning to 00:1:30, tape rewinds and repeats part of the conversation." </p>
-        </phystech>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>Malbin, Virginia</unittitle>
-          <unitid>cuid14408</unitid>
-          <unitdate datechar="creation" normal="1991-01-25/1991-01-25">1991-01-25</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_348584b6a8e5b8b00e34cc48258bade2" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_29fd1da95b91d2971398db928b07b9ac" parent="aspace_348584b6a8e5b8b00e34cc48258bade2" type="Cassette">131-021</container>
-          <container id="aspace_40ac29cd96f989972a9df2aebca841f4" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_95f310c841a4ad75d5ef3dc56826cadc" parent="aspace_40ac29cd96f989972a9df2aebca841f4" type="file">cuid14408</container>
-        </did>
-        <phystech id="aspace_3fa4cce708b44dd05246172abb137fa7">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 59 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>Malbin, Virginia; Esther Silverstein (Blanc)</unittitle>
-          <unitid>cuid14409</unitid>
-          <unitdate datechar="creation" normal="1991-01-25/1991-01-25">1991-01-25</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_5db50153713e477834aee42412dab556" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_6a600218c43148dfe283a6fd20b554d9" parent="aspace_5db50153713e477834aee42412dab556" type="Cassette">131-020</container>
-          <container id="aspace_f57c3aa942fefc00e7fe28d097346db0" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_ffd3a848db41d975c0884241958596c5" parent="aspace_f57c3aa942fefc00e7fe28d097346db0" type="file">cuid14409</container>
-        </did>
-        <phystech id="aspace_77a273f5f36b7e208f8a3ec78cd22aee">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 53 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>Martin, Fredericka</unittitle>
-          <unitid>cuid14410</unitid>
-          <unitdate datechar="creation" normal="1985/1992" type="inclusive">undated</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_331749c3ab7b589db292405dc296a6a2" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_6f068e8d2debbc13acd7b0039dc81e0e" parent="aspace_331749c3ab7b589db292405dc296a6a2" type="Cassette">131-022</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_2d07e9afe92c008217fa029986ded0bc" label="access cd [31142062734853]" type="Box">ALBA Shared Access Box 1</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Martin, Fredericka</unittitle>
-          <unitid>cuid14411</unitid>
-          <unitdate datechar="creation" normal="1989-10-08/1989-10-08">1989-10-08</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_08a89b7d0f39673034725a97f51995f3" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_212e8e23bbef1a25cc02ac35559cfc06" parent="aspace_08a89b7d0f39673034725a97f51995f3" type="Cassette">131-023</container>
-          <container id="aspace_0cea98ed1046e1f208d5ad2dbd202457" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_28ed6558c97db48a787477e1adf4af58" parent="aspace_0cea98ed1046e1f208d5ad2dbd202457" type="file">131ref22_024</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Merriman (Wachtel), Marion</unittitle>
-          <unitid>cuid14412</unitid>
-          <unitdate datechar="creation" normal="1991-02-03/1991-02-03">1991-02-03</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_0166150608c7c7678e40d14d0b44d5b7" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_39724d5001bc1aae71b2e0b429292df5" parent="aspace_0166150608c7c7678e40d14d0b44d5b7" type="Cassette">131-024</container>
-          <container altrender="Card Box - 6.5 - long" id="aspace_27fff89cc0be22c4aab66a9845cfc3c0" label="access cd [31142062734853]" type="Box">ALBA Shared Access Box 1</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>Nelson, Steve</unittitle>
-          <unitid>cuid14413</unitid>
-          <unitdate datechar="creation" normal="1991-04-19/1991-04-19">1991-04-19</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_fba233407dc3695963a63f608468c14f" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_e3d565e57a3a0c1e2a520482794c5de5" parent="aspace_fba233407dc3695963a63f608468c14f" type="Cassette">131-025</container>
-          <container id="aspace_eabb6c22ea16310671a6367620f9a357" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_e6540469088ebccb4fd84fd2e526c424" parent="aspace_eabb6c22ea16310671a6367620f9a357" type="file">cuid14413</container>
-        </did>
-        <phystech id="aspace_39d37ef1aeafda7ba276dc68bd7dc83b">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 95 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref36" level="file">
-        <did>
-          <unittitle>Nelson, Steve</unittitle>
-          <unitid>cuid14414</unitid>
-          <unitdate datechar="creation" normal="1991-04-19/1991-04-19">1991-04-19</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_760d4d97c9fbb36a344107dd52dd6a87" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_cc6460bc8c93e34de069533678968dd1" parent="aspace_760d4d97c9fbb36a344107dd52dd6a87" type="Cassette">131-026</container>
-          <container id="aspace_5f58a4c4cd209a3727ffc1438c188220" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_d03cd9428135c5985cb56150add4e9f4" parent="aspace_5f58a4c4cd209a3727ffc1438c188220" type="file">cuid14414</container>
-        </did>
-        <phystech id="aspace_b719536c577df8d0d2b542a76b7bfaa6">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 6 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>North (Green), Helen; Spanish Civil War Songs</unittitle>
-          <unitid>cuid14415</unitid>
-          <unitdate datechar="creation" normal="1987-05-08/1987-05-08">1987-05-08</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_f7ebbbfc427f886a77679cb936589ee1" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_4fcb176aff214a7fa5ce5f33f6b4430b" parent="aspace_f7ebbbfc427f886a77679cb936589ee1" type="Cassette">131-010</container>
-          <container id="aspace_e5d2eb4307e024c11ee261787b96752d" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_e973460af77da8d8ec79055c0bad80d0" parent="aspace_e5d2eb4307e024c11ee261787b96752d" type="file">cuid14415</container>
-        </did>
-        <phystech id="aspace_f8356ba5adfdfb8fe8a5831ec3ef70e5">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 64 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle>Rackley (Simon), Mildred</unittitle>
-          <unitid>cuid14416</unitid>
-          <unitdate datechar="creation" normal="1991-01-14/1991-01-14">1991-01-14</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_9ed06f4f9c54599a93900597cd7c99c9" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_dfa754c22b2f8c07cc6d98f4a1004aea" parent="aspace_9ed06f4f9c54599a93900597cd7c99c9" type="Cassette">131-032</container>
-          <container id="aspace_f4f9723110e24fea8d2a77860addd4a1" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_c070702971c169a38a6ab4503e390582" parent="aspace_f4f9723110e24fea8d2a77860addd4a1" type="file">cuid14416</container>
-        </did>
-        <phystech id="aspace_0fd8e4012ee8017c0b19d945f86d89ea">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 47 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>Rolfe, Mary</unittitle>
-          <unitid>cuid14417</unitid>
-          <unitdate datechar="creation" normal="1991-01-18/1991-01-18">1991-01-18</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_550fc18e890654811efff405da51ee35" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_1097f8fcc3a073593bd370322df377e8" parent="aspace_550fc18e890654811efff405da51ee35" type="Cassette">131-027</container>
-          <container id="aspace_d2c01c619476941fa966c19f3a0e8a6f" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_0d499ed0f58c3df67a432fc6a461a7f9" parent="aspace_d2c01c619476941fa966c19f3a0e8a6f" type="file">cuid14417</container>
-        </did>
-        <phystech id="aspace_4156eb20d7d2fa9992684635fce59921">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 44 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle>Seborer (Greenspan), Celia </unittitle>
-          <unitid>cuid14418</unitid>
-          <unitdate datechar="creation" normal="1987-02-21/1987-02-21">1987-02-21</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_0ce3f4b559a6ae51fcd2c60e6499dd13" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_6ceacbccd307355a53c3af6288352889" parent="aspace_0ce3f4b559a6ae51fcd2c60e6499dd13" type="Cassette">131-011</container>
-          <container id="aspace_faa6fffe316a6d1669aef7d1c58955a6" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_93811090ebc2cfa8810ac39a7164f3d9" parent="aspace_faa6fffe316a6d1669aef7d1c58955a6" type="file">cuid14418</container>
-        </did>
-        <phystech id="aspace_1e006bc4de8e01cae25fe13437bdd1b2">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 64 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref34" level="file">
-        <did>
-          <unittitle>Seborer (Greenspan), Celia</unittitle>
-          <unitid>cuid14419</unitid>
-          <unitdate datechar="creation" normal="1992-05-15/1992-05-15">1992-05-15</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_3d2e2319fb2a391865960fa74a013ff7" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_15e06ceceabe4e46c5d641e90480f478" parent="aspace_3d2e2319fb2a391865960fa74a013ff7" type="Cassette">131-012</container>
-          <container id="aspace_d019316ac86df98cd4167f6f7758ae9e" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_0032098ef3c2541506402bcd0e4a552f" parent="aspace_d019316ac86df98cd4167f6f7758ae9e" type="file">cuid14419</container>
-        </did>
-        <phystech id="aspace_7c10305783b7771e30adda3b51878f46">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 52 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref25" level="file">
-        <did>
-          <unittitle>Sendor, Andrea (Sister Benedicta)</unittitle>
-          <unitid>cuid14420</unitid>
-          <unitdate datechar="creation" normal="1990-05-15/1990-05-15">1990-05-15</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_25d2700440051aebc1abdfdfd5826856" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_e07a398c67b6ada2d3a4c2ecbf731565" parent="aspace_25d2700440051aebc1abdfdfd5826856" type="Cassette">131-028</container>
-          <container id="aspace_ec611a5480bafea7fa5b22e53324bbb4" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_cbbc82408b2fe0baf31e7829ed2c2f35" parent="aspace_ec611a5480bafea7fa5b22e53324bbb4" type="file">cuid14420</container>
-        </did>
-        <phystech id="aspace_af4597754ba004cf5d4cd23f27d5c8ff">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 59 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref4" level="file">
-        <did>
-          <unittitle>Schulman (Durem), Rebecca </unittitle>
-          <unitid>cuid14421</unitid>
-          <unitdate datechar="creation" normal="1991-01-26/1991-01-26">1991-01-26</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_005b308ebe93c552de7c46a512132563" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_a4630385c57927cc7b72ff7a7a7b4472" parent="aspace_005b308ebe93c552de7c46a512132563" type="Cassette">131-004</container>
-          <container id="aspace_fcd424e936442be1c54b8df492ef6b96" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_c84fc6cc6234a4bfe1b2a4f392a01a61" parent="aspace_fcd424e936442be1c54b8df492ef6b96" type="file">cuid14421</container>
-        </did>
-        <phystech id="aspace_c52becfab79953f18680f83b9ce5975d">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 64 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref5" level="file">
-        <did>
-          <unittitle>Schulman (Durem), Rebecca; Helen Freeman (Feinberg)</unittitle>
-          <unitid>cuid14422</unitid>
-          <unitdate datechar="creation" normal="1991-01-27/1991-01-27">1991-01-27</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_97bd97a08135ae01476ecc2df362aa1f" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_006f552b7da37569b854b94dff32d8ab" parent="aspace_97bd97a08135ae01476ecc2df362aa1f" type="Cassette">131-005</container>
-          <container id="aspace_4d8e7ca3f105c462a97834df28045732" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_5042975ba4ed54a2844959d4a2eb6a69" parent="aspace_4d8e7ca3f105c462a97834df28045732" type="file">cuid14422</container>
-        </did>
-        <phystech id="aspace_91cf7f0680a7437fd2f3548f2e37e08e">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 70 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle>Shuldiner (Goldman), Anne </unittitle>
-          <unitid>cuid14423</unitid>
-          <unitdate datechar="creation" normal="1990-05-22/1990-05-22">1990-05-22</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_c1a6554584f5317e2794221bd41718bd" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_377c93dee0ea0aabddd6c5a9c32ccf65" parent="aspace_c1a6554584f5317e2794221bd41718bd" type="Cassette">131-029</container>
-          <container id="aspace_025d390b3ab6e05547049cf59f2f680f" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_6c5261be96f975d201af0f177b0f4e39" parent="aspace_025d390b3ab6e05547049cf59f2f680f" type="file">cuid14423</container>
-        </did>
-        <phystech id="aspace_872bc68bd9cb61a9bfd963e67410cd7e">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 83 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle>Silverstien (Blanc), Esther; Sana Goldblatt</unittitle>
-          <unitid>cuid14424</unitid>
-          <unitdate datechar="creation" normal="1991-01-17/1991-01-17">1991-01-17</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_7bc35694190530f48b50a1dc49f0cbc3" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_163d5c0cd12b1bcf753aae31947eaa88" parent="aspace_7bc35694190530f48b50a1dc49f0cbc3" type="Cassette">131-030</container>
-          <container id="aspace_90ccbd045ae0e00cecf34eba61128c6e" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_7476e577c952a30ca231e7cb9d2b7bd3" parent="aspace_90ccbd045ae0e00cecf34eba61128c6e" type="file">cuid14424</container>
-        </did>
-        <phystech id="aspace_155eef52a1974a621ffd2a6d4eeee0c7">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 64 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle>Silverstein (Blanc), Esther; Mary Rolfe</unittitle>
-          <unitid>cuid14425</unitid>
-          <unitdate datechar="creation" normal="1991-01-18/1991-01-18">1991-01-18</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_ab9db964ae5101018f1570a2fa21d56a" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_e38378383ba1dd5c54f2505e4ef977ed" parent="aspace_ab9db964ae5101018f1570a2fa21d56a" type="Cassette">131-031</container>
-          <container id="aspace_894d71c93fa5fc07315b8102496092ba" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_2de4d459eefad936baa9e76f95d291d3" parent="aspace_894d71c93fa5fc07315b8102496092ba" type="file">cuid14425</container>
-        </did>
-        <phystech id="aspace_a1b1ebcfdec1ccefd0bac0585656c4f5">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 43 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref32" level="file">
-        <did>
-          <unittitle>Temple, Lenora</unittitle>
-          <unitid>cuid14426</unitid>
-          <unitdate datechar="creation" normal="1986-12-13/1986-12-13">1986-12-13</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_8162a8220dfff4c649d1bbfae91a37e3" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_081caa4831cc30d0834c90d0154b9da5" parent="aspace_8162a8220dfff4c649d1bbfae91a37e3" type="Cassette">131-035</container>
-          <container id="aspace_5f6fc09bdf8c00c39f8e276016fcba1c" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_7876146704add9268d9dc1ef6838b483" parent="aspace_5f6fc09bdf8c00c39f8e276016fcba1c" type="file">cuid14426</container>
-        </did>
-        <phystech id="aspace_79996a1c59f3118210893da7df6550df">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 92 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref30" level="file">
-        <did>
-          <unittitle>Spanish Civil War Conference</unittitle>
-          <unitid>cuid14427</unitid>
-          <unitdate datechar="creation" normal="1988-03-19/1988-03-19">1988-03-19</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_2f45f19cd0f44aad5e033a6a490c7c6d" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_87c6be04f903e0db371cce634741ba14" parent="aspace_2f45f19cd0f44aad5e033a6a490c7c6d" type="Cassette">131-033</container>
-          <container id="aspace_0cec0d16b5be8609dc526d789927154e" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_b7567f02658b05502e4d7a8dacd4d7bc" parent="aspace_0cec0d16b5be8609dc526d789927154e" type="file">cuid14427</container>
-        </did>
-        <phystech id="aspace_27d5c209220521b85ff5d13cb5a8f5a4">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 54 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>VALB: 55th Anniversary Dinner</unittitle>
-          <unitid>cuid14428</unitid>
-          <unitdate datechar="creation" normal="1992-04-26/1992-04-26">1992-04-26</unitdate>
-          <container altrender="Box - 9 x 11" id="aspace_d35249357d7498813d1451cafca72d0f" label="Audio [31142062839777]" type="Box">1</container>
-          <container id="aspace_02e24b0fdabcc3e9b3a735f71882f0e5" parent="aspace_d35249357d7498813d1451cafca72d0f" type="Cassette">131-036</container>
-          <container id="aspace_bdd7af490ca8fb47ba51ae4299bc4ed4" label="digital_access_copy" type="Box">Digitized Access Files</container>
-          <container id="aspace_7853cf4ca009c2591a174132dfc2aa21" parent="aspace_bdd7af490ca8fb47ba51ae4299bc4ed4" type="file">cuid14428</container>
-        </did>
-        <phystech id="aspace_1c6b539a9ab0b787c582546b3643df55">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 25 min.</p>
-        </phystech>
-      </c>
-    </dsc>
-  </archdesc>
+Frances Patai File in the Abraham Lincoln Brigade Archive (ALBA) Vertical Files: Individuals (ALBA VF 2)</p>  </relatedmaterial>
+  <scopecontent id="aspace_7bf1484ec985cc0623ba0c281c78189d">
+    <head>Scope and Content Note</head>
+<p>The Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War consist of 36 audiocassettes, which were separated from the Francis Patai Papers (ALBA 131).  The interviews were conducted by Patai in the period 1985 to 1992, in the course of research for her book project on U.S. women medical personnel who vounteered during the Spanish Civil War. Most are with the women who volunteered as nurses, but also included are interviews with Abraham Lincoln Brigade veterans Moe Fishman and Steve Nelson, and with Marion Wachtel, widow of ALB volunteer Robert Merriman.  Drafts of Patai's planned book, and her article "Heroines of the Good Fight: Testimonies of U.S. Volunteer Nurses in the Spanish Civil War, 1936-1939" (<emph render="italic">Nursing History Review</emph>, 3 (1995): 79-104), which utilizes the interviews in this collection, can be found in the Patai Papers (ALBA 131). Also included in the collection are tapes of a conference and a veterans' dinner, and a recording of Spanish Civil War songs.</p>  </scopecontent>
+  <arrangement id="aspace_1a88c84dc97421a48d29f8511c701eeb">
+    <head>Arrangement</head>
+<p>Each recording has been assigned a unique item number (e.g., ALBA A 131-001), and the collection is arranged in alphabetical order by last name of the interviewee. (Women's maiden names, or names used during service in Spain, are listed first -- followed by names used later in life.)</p>  </arrangement>
+  <accessrestrict id="aspace_94b79b0623f9d68d0de4084b0608550b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers.</p>  </accessrestrict>
+  <userestrict id="aspace_0c1560992377da36f4a953015dbe25d5">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA) were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 70 years after the creator's death. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <phystech id="aspace_353aadd1e3f1e4119a9051eade685272">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Access CDs for some audiovisual materials in the collection are available by appointment for reading room viewing and listening only.  Access to other audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room.</p>  </phystech>
+  <processinfo id="aspace_a553916016fdae02c023e3ddb04b5830">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2021 are unknown.  In May 2021, cassettes were moved from audio cabinet drawers into cassette boxes.  New container numbers were created and cassettes were assigned to the appropriate top containers.</p>  </processinfo>
+  <acqinfo id="aspace_3558e6379894c1e96d4c7b94a5f0281f">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives (ALBA) collections, formerly housed at Brandeis University. The accession numbers associated with this collection are 2001.209 and 2001.136.</p>  </acqinfo>
+  <custodhist id="aspace_36b5c8bf1f701cbf2d1f9456e8e63d29">
+    <head>Custodial History</head>
+<p>The Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War were donated to Abraham Lincoln Brigade Archives by Frances Patai as part of the Frances Patai Papers in 1998. The collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <prefercite id="aspace_bf6de1cd8abd665970d5785adc7f119d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Frances Patai Oral Histories on Women Medical Volunteers in the Spanish Civil War; ALBA AUDIO 131; box number; folder number or item identifier; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Women.</geogname>
+    <subject source="lcsh">Americans -- Spain -- History -- 20th century.</subject>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American -- Interviews.</geogname>
+    <corpname authfilenumber="(lccn)nr98043919" source="naf">Medical Bureau to Aid Spanish Democracy</corpname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+    <corpname authfilenumber="(lccn)nr98040185" source="naf">Medical Bureau and North American Committee to Aid Spanish Democracy</corpname>
+    <persname source="naf">Martin, Fredericka I.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="file"><did><unittitle>Bell (Roberts), Hilda </unittitle><unitid>cuid14393</unitid><unitdate datechar="creation" normal="1991-01-15/1991-01-15">1991-01-15</unitdate><container altrender="Box - 9 x 11" id="aspace_d880e803bfa2848b1bc265b13e6eb6fd" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_1b21e6b13da91032aed996bb176694ae" parent="aspace_d880e803bfa2848b1bc265b13e6eb6fd" type="Cassette">131-001</container><container altrender="Card Box - 6.5 - long" id="aspace_6412b21f1b91bf0ee0a64823c696a7f8" label="Audio [31142062734853]" type="Box">Shared Tamiment 124</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Bell (Roberts), Hilda ; Mildred Rackley (Simon)</unittitle><unitid>cuid14394</unitid><unitdate datechar="creation" normal="1991-01-14/1991-01-14">1991-01-14</unitdate><container altrender="Box - 9 x 11" id="aspace_51670b23488b3df07e59ce430bfdfb5f" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_e8f275b194121a9cff2a5e344ab16d3a" parent="aspace_51670b23488b3df07e59ce430bfdfb5f" type="Cassette">131-002</container><container altrender="Card Box - 6.5 - long" id="aspace_d3a0b98ffa62f348678dbb9c79f433d4" label="Audio [31142062734853]" type="Box">Shared Tamiment 124</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Davidow, Ruth</unittitle><unitid>cuid14395</unitid><unitdate datechar="creation" normal="1992-01-20/1992-01-20">1992-01-20</unitdate><container altrender="Box - 9 x 11" id="aspace_a2bc33f3ac65e9a11e8209c3daf25844" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_6ea50458c5a8edfc2bfd49c981d19fd1" parent="aspace_a2bc33f3ac65e9a11e8209c3daf25844" type="Cassette">131-003</container><container id="aspace_9f3d71a2796e8ae05074178f2c664f7c" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_cee5c4e81aabc30ae00a2fe8584b15b0" parent="aspace_9f3d71a2796e8ae05074178f2c664f7c" type="file">cuid14395</container></did><phystech id="aspace_f07e7c8f712ed39129dfddae1a879c14"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 94 minutes</p></phystech></c><c id="aspace_ref7" level="file"><did><unittitle>Fisher, Ruth and Harry</unittitle><unitid>cuid14396</unitid><unitdate datechar="creation" normal="1988-05-21/1988-05-21">1988-05-21</unitdate><container altrender="Box - 9 x 11" id="aspace_470e238b0783609b1f07a9551c5f7c1f" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_06fb8946c9f107948df2ab9d2c51e690" parent="aspace_470e238b0783609b1f07a9551c5f7c1f" type="Cassette">131-007</container><container id="aspace_2bcdce8ad65bd9f0898d69b4e02109d2" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_8614c89f2f2f7c51705e26bbe91c4355" parent="aspace_2bcdce8ad65bd9f0898d69b4e02109d2" type="file">cuid14396</container></did><phystech id="aspace_86748358aeb00c04ec4d4993d177b566"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 48 minutes</p></phystech></c><c id="aspace_ref8" level="file"><did><unittitle>Fishman, Moe (Moses)</unittitle><unitid>cuid14397</unitid><unitdate datechar="creation" normal="1989-11-06/1989-11-06">1989-11-06</unitdate><container altrender="Box - 9 x 11" id="aspace_c3d68fcd1ac095dbde41e51dd7fd6d54" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_59d3fcce3810c0e6f153b1bac48416d8" parent="aspace_c3d68fcd1ac095dbde41e51dd7fd6d54" type="Cassette">131-008</container><container id="aspace_0ad715a114dacbf4a5fdc34e216d6147" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_a8019da548d2b5deafa9b4ffb961c9ed" parent="aspace_0ad715a114dacbf4a5fdc34e216d6147" type="file">cuid14397</container></did><phystech id="aspace_1e9d5fd0fe194f0254dcb5fb7dca0657"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 43 minutes</p></phystech></c><c id="aspace_ref6" level="file"><did><unittitle>Freeman (Feinberg), Helen</unittitle><unitid>cuid14398</unitid><unitdate datechar="creation" normal="1990-04-20/1990-04-20">1990-04-20</unitdate><container altrender="Box - 9 x 11" id="aspace_3ce347765190ef194e1252bb6756fe0b" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_e2456f3e1673df0665b6252485926e49" parent="aspace_3ce347765190ef194e1252bb6756fe0b" type="Cassette">131-006</container><container id="aspace_346d05f73e202bf6cfe2185259605c82" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_6f6061b9c2ce1377d16ec05784fca098" parent="aspace_346d05f73e202bf6cfe2185259605c82" type="file">cuid14398</container></did><phystech id="aspace_a8fec3e6d371c48219e96f8ff4465e2f"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 34 minutes</p></phystech></c><c id="aspace_ref31" level="file"><did><unittitle>Goldin (Spiegel), Irene; Esther Brown</unittitle><unitid>cuid14399</unitid><unitdate datechar="creation" normal="1991-01-22/1991-01-22">1991-01-22</unitdate><container altrender="Box - 9 x 11" id="aspace_76ea8062320a78fcbe8822659e024068" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_706d9a0a18885ef5eaaacd5c6de6a7b8" parent="aspace_76ea8062320a78fcbe8822659e024068" type="Cassette">131-034</container><container id="aspace_64a04f877ba598756ce408e6ed45373e" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_122c43acb8580cec45b43d2d08951567" parent="aspace_64a04f877ba598756ce408e6ed45373e" type="file">cuid14399</container></did><phystech id="aspace_80029934464b86c78a4a3a664bc4fe60"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 59 minutes</p></phystech></c><c id="aspace_ref9" level="file"><did><unittitle>Gonzala, Garcia Delgado</unittitle><unitid>cuid14400</unitid><unitdate datechar="creation" normal="1988-07-15/1988-07-15">1988-07-15</unitdate><langmaterial id="aspace_8c35c2c2bf83cf229987bbdd85f5afe5">This recording is in Spanish.</langmaterial><container altrender="Box - 9 x 11" id="aspace_278efe7119fa04c2970a07d9d3cab899" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_3dbc1b3d0c0e3de4e2e078ff1aac8d3d" parent="aspace_278efe7119fa04c2970a07d9d3cab899" type="Cassette">131-009</container><container id="aspace_9febde20323bc3200d64317354a8b25b" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_2faa03bd1e44a1799174d8ffbdd8477f" parent="aspace_9febde20323bc3200d64317354a8b25b" type="file">cuid14400</container></did><phystech id="aspace_46eac0a38383d17f2579b8a5a032488a"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 46 minutes</p></phystech></c><c id="aspace_ref12" level="file"><did><unittitle>Hill (Klein), Josephine</unittitle><unitid>cuid14401</unitid><unitdate datechar="creation" normal="1990-04-23/1990-04-23">1990-04-23</unitdate><container altrender="Box - 9 x 11" id="aspace_3b16cdc8f1c24de78362956cbf556a71" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_95be263640643512da0d49d14abe3733" parent="aspace_3b16cdc8f1c24de78362956cbf556a71" type="Cassette">131-013</container><container id="aspace_fbfa31b01a3d72f736fba702897d6255" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_b73241f66e59cde3d2883bbb91a1d3de" parent="aspace_fbfa31b01a3d72f736fba702897d6255" type="file">cuid14401</container></did><phystech id="aspace_eef5383a1f8e2b9801012ff127c6f61e"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 62 minutes</p></phystech></c><c id="aspace_ref13" level="file"><did><unittitle>Hill (Klein), Josephine</unittitle><unitid>cuid14402</unitid><unitdate datechar="creation" normal="1990-04-23/1990-04-23">1990-04-23</unitdate><container altrender="Box - 9 x 11" id="aspace_b364441b42003d1349860ec4224880ad" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_139e0d17cafc5beaabedd18543837fdb" parent="aspace_b364441b42003d1349860ec4224880ad" type="Cassette">131-014</container><container id="aspace_81500d2e61d1fe439177c05110519078" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_9d9d3ef04bfccfe93622a7930432585f" parent="aspace_81500d2e61d1fe439177c05110519078" type="file">cuid14402</container></did><phystech id="aspace_371a02efa3bfbc508bf74d8e202e9477"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 12 minutes</p></phystech></c><c id="aspace_ref14" level="file"><did><unittitle>Klavantz, Rae</unittitle><unitid>cuid14403</unitid><unitdate datechar="creation" normal="1991/1991">July 1991</unitdate><container altrender="Box - 9 x 11" id="aspace_3a20e9842c48dfe1b96b1841573aab66" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_70f11c882c16071ca2aead62e0807ef6" parent="aspace_3a20e9842c48dfe1b96b1841573aab66" type="Cassette">131-015</container><container id="aspace_612d60ed00ad763fbf04f15ae37460ed" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_26b20cd54c7c2ae2771aa4df1edea0c0" parent="aspace_612d60ed00ad763fbf04f15ae37460ed" type="file">cuid14403</container></did><phystech id="aspace_df14b367ba233565ef2b49a1acd4a0ba"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 57 minutes</p></phystech></c><c id="aspace_ref15" level="file"><did><unittitle>Leight, Clara</unittitle><unitid>cuid14404</unitid><unitdate datechar="creation" normal="1986-12-17/1986-12-17">1986-12-17</unitdate><container altrender="Box - 9 x 11" id="aspace_87c909cb59d6423e33bbc7c395319ad5" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_4bf193321e20768995174e2832b6a4e5" parent="aspace_87c909cb59d6423e33bbc7c395319ad5" type="Cassette">131-016</container><container id="aspace_00a2cc15164afed68ec66d1bb51ac87e" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_3ca6887a6b6b9623cd9ce30f4c7529aa" parent="aspace_00a2cc15164afed68ec66d1bb51ac87e" type="file">cuid14404</container></did><phystech id="aspace_e00c8ac6bc1ec8d687006ba4923c8cc9"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 90 minutes</p></phystech></c><c id="aspace_ref16" level="file"><did><unittitle>Leight, Clara</unittitle><unitid>cuid14405</unitid><unitdate datechar="creation" normal="1986-12-17/1986-12-17">1986-12-17</unitdate><container altrender="Box - 9 x 11" id="aspace_80d739dd874e0b145e8a26cbdcfa7bd1" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_b5885ea62c4c6406b3fdd53dbcdc099b" parent="aspace_80d739dd874e0b145e8a26cbdcfa7bd1" type="Cassette">131-017</container><container id="aspace_67f8ca47e852ee724d28209e1c87334c" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_9bf5a4883438d6316289d455d8f3bc08" parent="aspace_67f8ca47e852ee724d28209e1c87334c" type="file">cuid14405</container></did><phystech id="aspace_cb93cb06e2999dc07e6e97219bdf3306"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 64 minutes</p></phystech></c><c id="aspace_ref17" level="file"><did><unittitle>Levine (Hartzman), May</unittitle><unitid>cuid14406</unitid><unitdate datechar="creation" normal="1991-01-27/1991-01-27">1991-01-27</unitdate><container altrender="Box - 9 x 11" id="aspace_91eea6d9a872cb25d991111709963d51" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_7087024605015b2d8430873a059de0fa" parent="aspace_91eea6d9a872cb25d991111709963d51" type="Cassette">131-018</container><container id="aspace_f7856bbb4bb76d1875e3a1110be4ea5b" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_f96b4d6d5b6a11a2020df284bf92b755" parent="aspace_f7856bbb4bb76d1875e3a1110be4ea5b" type="file">cuid14406</container></did><scopecontent id="aspace_ac5c1b1c91a4e26a835ab6fc405c9a98"><head>Scope and Contents</head><p>On Side 2 of this tape, May Levine Hartzman and Sidney Kaufman are interviewed separately.</p></scopecontent><phystech id="aspace_b0625e688afd05c5b10b4a7327a923c9"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 68 minutes</p></phystech></c><c id="aspace_ref18" level="file"><did><unittitle>Malbin, Virginia</unittitle><unitid>cuid14407</unitid><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Box - 9 x 11" id="aspace_beaf22995dc270daf55d3ab80f1e40d6" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_eed0fee202da7c888746981e225a64df" parent="aspace_beaf22995dc270daf55d3ab80f1e40d6" type="Cassette">131-019</container><container id="aspace_477502a5d5fade5015aee55ab442e8b4" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_ed5f5299645c8a5c1fcd2594c2788929" parent="aspace_477502a5d5fade5015aee55ab442e8b4" type="file">cuid14407</container></did><phystech id="aspace_5fc69407734d88734a7f16180164ba3c"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 64 minutes</p><p>Preservation Note: "From beginning to 00:1:30, tape rewinds and repeats part of the conversation." </p></phystech></c><c id="aspace_ref35" level="file"><did><unittitle>Malbin, Virginia</unittitle><unitid>cuid14408</unitid><unitdate datechar="creation" normal="1991-01-25/1991-01-25">1991-01-25</unitdate><container altrender="Box - 9 x 11" id="aspace_7db9b320cb37b10bedd16799ba57d094" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_09e0bf752bea217b8d49998957d46d6a" parent="aspace_7db9b320cb37b10bedd16799ba57d094" type="Cassette">131-021</container><container id="aspace_eaaa3a86f882afca00e34256b24916fb" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_31b85911b9120500c226d0b3bb7b2b28" parent="aspace_eaaa3a86f882afca00e34256b24916fb" type="file">cuid14408</container></did><phystech id="aspace_3fa4cce708b44dd05246172abb137fa7"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 59 minutes</p></phystech></c><c id="aspace_ref19" level="file"><did><unittitle>Malbin, Virginia; Esther Silverstein (Blanc)</unittitle><unitid>cuid14409</unitid><unitdate datechar="creation" normal="1991-01-25/1991-01-25">1991-01-25</unitdate><container altrender="Box - 9 x 11" id="aspace_f8f4b51885761a2d158e6fe802a639f4" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_3b98ad346b254f9d86feb5f6e497e47d" parent="aspace_f8f4b51885761a2d158e6fe802a639f4" type="Cassette">131-020</container><container id="aspace_fc68624e03d1e0c791abe904e98cc93d" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_6604f0a68569e35cea0ccd1b0c7ce2ee" parent="aspace_fc68624e03d1e0c791abe904e98cc93d" type="file">cuid14409</container></did><phystech id="aspace_77a273f5f36b7e208f8a3ec78cd22aee"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 53 minutes</p></phystech></c><c id="aspace_ref20" level="file"><did><unittitle>Martin, Fredericka</unittitle><unitid>cuid14410</unitid><unitdate datechar="creation" normal="1985/1992" type="inclusive">undated</unitdate><container altrender="Box - 9 x 11" id="aspace_cd611efd66ee8eb883b57e5da5d3e423" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_b260ff9b57a9ca327354ab56edd6c528" parent="aspace_cd611efd66ee8eb883b57e5da5d3e423" type="Cassette">131-022</container><container altrender="Card Box - 6.5 - long" id="aspace_54cb64d12241537be15d280d38df9eb2" label="Audio [31142062734853]" type="Box">Shared Tamiment 124</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Martin, Fredericka</unittitle><unitid>cuid14411</unitid><unitdate datechar="creation" normal="1989-10-08/1989-10-08">1989-10-08</unitdate><container altrender="Box - 9 x 11" id="aspace_f7de55565ef5407583781e4dae246d55" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_0e221f441dec375199bacdcc93cced55" parent="aspace_f7de55565ef5407583781e4dae246d55" type="Cassette">131-023</container><container id="aspace_563147a00faaaa7b58b1fc706aa6f8f8" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_0d9441f0424496f5e0aa6c3da5024e4a" parent="aspace_563147a00faaaa7b58b1fc706aa6f8f8" type="file">131ref22_024</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Merriman (Wachtel), Marion</unittitle><unitid>cuid14412</unitid><unitdate datechar="creation" normal="1991-02-03/1991-02-03">1991-02-03</unitdate><container altrender="Box - 9 x 11" id="aspace_d6b48911f2378b82476371afad5d651c" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_585b27b4011477cea5db84bc9e440636" parent="aspace_d6b48911f2378b82476371afad5d651c" type="Cassette">131-024</container><container altrender="Card Box - 6.5 - long" id="aspace_ac6e42a076dedaacfe5336fda8220be4" label="Audio [31142062734853]" type="Box">Shared Tamiment 124</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Nelson, Steve</unittitle><unitid>cuid14413</unitid><unitdate datechar="creation" normal="1991-04-19/1991-04-19">1991-04-19</unitdate><container altrender="Box - 9 x 11" id="aspace_81e6c3d5e0be4afed0ae4da5ff680003" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_1734652ffe78ed1853a96b78863ebd9e" parent="aspace_81e6c3d5e0be4afed0ae4da5ff680003" type="Cassette">131-025</container><container id="aspace_4b2e4dd2770da5e4d48b6ac2aaa35dae" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_a010a15900d75b4ab8ed83e1df0db877" parent="aspace_4b2e4dd2770da5e4d48b6ac2aaa35dae" type="file">cuid14413</container></did><phystech id="aspace_39d37ef1aeafda7ba276dc68bd7dc83b"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 95 minutes</p></phystech></c><c id="aspace_ref36" level="file"><did><unittitle>Nelson, Steve</unittitle><unitid>cuid14414</unitid><unitdate datechar="creation" normal="1991-04-19/1991-04-19">1991-04-19</unitdate><container altrender="Box - 9 x 11" id="aspace_79c4b8e20a167c0a141dedaa7545e8a6" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_0738e9ac21e7e3cb1c39746d2168089d" parent="aspace_79c4b8e20a167c0a141dedaa7545e8a6" type="Cassette">131-026</container><container id="aspace_b70c48ebff1a0438a6445e5e5d28a9b1" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_8fb4bdbd7726243103fe25f18c18af70" parent="aspace_b70c48ebff1a0438a6445e5e5d28a9b1" type="file">cuid14414</container></did><phystech id="aspace_b719536c577df8d0d2b542a76b7bfaa6"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 6 minutes</p></phystech></c><c id="aspace_ref10" level="file"><did><unittitle>North (Green), Helen; Spanish Civil War Songs</unittitle><unitid>cuid14415</unitid><unitdate datechar="creation" normal="1987-05-08/1987-05-08">1987-05-08</unitdate><langmaterial id="aspace_2097907fbbb18296b8398dec70fc1e18">This recording is in Spanish.</langmaterial><container altrender="Box - 9 x 11" id="aspace_dfd2cd19ea690ea0759e342804dc3761" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_de581dd0c066e080df4d198ec18793bd" parent="aspace_dfd2cd19ea690ea0759e342804dc3761" type="Cassette">131-010</container><container id="aspace_b6ca7206a835d8d4688600cd1c3dff97" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_f7ff42488c52a85e707e5030753bd04d" parent="aspace_b6ca7206a835d8d4688600cd1c3dff97" type="file">cuid14415</container></did><phystech id="aspace_f8356ba5adfdfb8fe8a5831ec3ef70e5"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 64 minutes</p></phystech></c><c id="aspace_ref29" level="file"><did><unittitle>Rackley (Simon), Mildred</unittitle><unitid>cuid14416</unitid><unitdate datechar="creation" normal="1991-01-14/1991-01-14">1991-01-14</unitdate><container altrender="Box - 9 x 11" id="aspace_ed0b3e08ea0db37e29350eb9281016a7" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_74b2790e92ff394876a679b77e3a6818" parent="aspace_ed0b3e08ea0db37e29350eb9281016a7" type="Cassette">131-032</container><container id="aspace_ebcd4a09907bf644873890e3a0bfdcaa" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_c6f57bcb35b6d2b95fce25369a7b8878" parent="aspace_ebcd4a09907bf644873890e3a0bfdcaa" type="file">cuid14416</container></did><phystech id="aspace_0fd8e4012ee8017c0b19d945f86d89ea"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 47 minutes</p></phystech></c><c id="aspace_ref24" level="file"><did><unittitle>Rolfe, Mary</unittitle><unitid>cuid14417</unitid><unitdate datechar="creation" normal="1991-01-18/1991-01-18">1991-01-18</unitdate><container altrender="Box - 9 x 11" id="aspace_c02b5f2f9e06dfdc0e449bbaa8ba2ff8" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_8916d09101a2ba44633d1af1caf395ea" parent="aspace_c02b5f2f9e06dfdc0e449bbaa8ba2ff8" type="Cassette">131-027</container><container id="aspace_e39403d3b2906e36e1477a2a6e04d905" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_32a3cb70df4f6cea8d22ea63e47b21fc" parent="aspace_e39403d3b2906e36e1477a2a6e04d905" type="file">cuid14417</container></did><phystech id="aspace_4156eb20d7d2fa9992684635fce59921"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 44 minutes</p></phystech></c><c id="aspace_ref11" level="file"><did><unittitle>Seborer (Greenspan), Celia </unittitle><unitid>cuid14418</unitid><unitdate datechar="creation" normal="1987-02-21/1987-02-21">1987-02-21</unitdate><container altrender="Box - 9 x 11" id="aspace_c3e30da8fcf771742a8cea2ba0ea12ea" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_6ccf0922a2f585e7fd417533d9f6a651" parent="aspace_c3e30da8fcf771742a8cea2ba0ea12ea" type="Cassette">131-011</container><container id="aspace_72288de938c8f69fd9b679ef6a0c3916" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_e9b29e61fe8baf210f448bd0ddbadc4b" parent="aspace_72288de938c8f69fd9b679ef6a0c3916" type="file">cuid14418</container></did><phystech id="aspace_1e006bc4de8e01cae25fe13437bdd1b2"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 64 minutes</p></phystech></c><c id="aspace_ref34" level="file"><did><unittitle>Seborer (Greenspan), Celia</unittitle><unitid>cuid14419</unitid><unitdate datechar="creation" normal="1992-05-15/1992-05-15">1992-05-15</unitdate><container altrender="Box - 9 x 11" id="aspace_885d21f6c7e81bbcb418c6b0846c118d" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_71ac5f953bf88ae8be1cb8f9944bab61" parent="aspace_885d21f6c7e81bbcb418c6b0846c118d" type="Cassette">131-012</container><container id="aspace_aad1a264241ffd6c24cd52879ed40cf2" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_f63b7a56a48e59df884e10b550ada995" parent="aspace_aad1a264241ffd6c24cd52879ed40cf2" type="file">cuid14419</container></did><phystech id="aspace_7c10305783b7771e30adda3b51878f46"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 52 minutes</p></phystech></c><c id="aspace_ref25" level="file"><did><unittitle>Sendor, Andrea (Sister Benedicta)</unittitle><unitid>cuid14420</unitid><unitdate datechar="creation" normal="1990-05-15/1990-05-15">1990-05-15</unitdate><container altrender="Box - 9 x 11" id="aspace_6a95d851c6c3f0c6ca6035b665c8a740" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_e62e34e397250ab1eb906f2d89a776df" parent="aspace_6a95d851c6c3f0c6ca6035b665c8a740" type="Cassette">131-028</container><container id="aspace_a5f61b8d7c595c3d7fbed53c10d0c7ff" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_59f0192cf687ba42dfd1cb51eb9c462d" parent="aspace_a5f61b8d7c595c3d7fbed53c10d0c7ff" type="file">cuid14420</container></did><phystech id="aspace_af4597754ba004cf5d4cd23f27d5c8ff"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 59 minutes</p></phystech></c><c id="aspace_ref4" level="file"><did><unittitle>Schulman (Durem), Rebecca </unittitle><unitid>cuid14421</unitid><unitdate datechar="creation" normal="1991-01-26/1991-01-26">1991-01-26</unitdate><container altrender="Box - 9 x 11" id="aspace_80a47628588ac3f540f4b7b180c48da0" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_cb5d11371f10954f080fea2d4ef323e2" parent="aspace_80a47628588ac3f540f4b7b180c48da0" type="Cassette">131-004</container><container id="aspace_fab268c7ed5b60a4eb4d7b87da1441da" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_ff0306184ccd591002c336f2900ee987" parent="aspace_fab268c7ed5b60a4eb4d7b87da1441da" type="file">cuid14421</container></did><phystech id="aspace_c52becfab79953f18680f83b9ce5975d"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 64 minutes</p></phystech></c><c id="aspace_ref5" level="file"><did><unittitle>Schulman (Durem), Rebecca; Helen Freeman (Feinberg)</unittitle><unitid>cuid14422</unitid><unitdate datechar="creation" normal="1991-01-27/1991-01-27">1991-01-27</unitdate><container altrender="Box - 9 x 11" id="aspace_574c97049ac2c867c18629652765ac5f" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_850017ab3de6c7d9ffa461288bcecb14" parent="aspace_574c97049ac2c867c18629652765ac5f" type="Cassette">131-005</container><container id="aspace_8f6cef058c70592f1fc75caf0dd211d0" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_863d79626bbe21fe1cac01b759e266a8" parent="aspace_8f6cef058c70592f1fc75caf0dd211d0" type="file">cuid14422</container></did><phystech id="aspace_91cf7f0680a7437fd2f3548f2e37e08e"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 70 minutes</p></phystech></c><c id="aspace_ref26" level="file"><did><unittitle>Shuldiner (Goldman), Anne </unittitle><unitid>cuid14423</unitid><unitdate datechar="creation" normal="1990-05-22/1990-05-22">1990-05-22</unitdate><container altrender="Box - 9 x 11" id="aspace_f08d2680cfd1a623fbbca12f7b9eae1c" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_b160003816d160edbf1c7bc50d8187ae" parent="aspace_f08d2680cfd1a623fbbca12f7b9eae1c" type="Cassette">131-029</container><container id="aspace_54733751ae8cf818e7909785004d3406" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_790d1e56f6d469f2ff512a2bdc7df74e" parent="aspace_54733751ae8cf818e7909785004d3406" type="file">cuid14423</container></did><phystech id="aspace_872bc68bd9cb61a9bfd963e67410cd7e"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 83 minutes</p></phystech></c><c id="aspace_ref28" level="file"><did><unittitle>Silverstien (Blanc), Esther; Sana Goldblatt</unittitle><unitid>cuid14424</unitid><unitdate datechar="creation" normal="1991-01-17/1991-01-17">1991-01-17</unitdate><container altrender="Box - 9 x 11" id="aspace_4527e3aacab5ce2675189a252513db01" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_497ecf6618996394b9f62db30afe6c77" parent="aspace_4527e3aacab5ce2675189a252513db01" type="Cassette">131-030</container><container id="aspace_8ead69de939b744717008b7608a2e55e" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_1bbee570206891b0aade2ab83a1226dd" parent="aspace_8ead69de939b744717008b7608a2e55e" type="file">cuid14424</container></did><phystech id="aspace_155eef52a1974a621ffd2a6d4eeee0c7"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 64 minutes</p></phystech></c><c id="aspace_ref27" level="file"><did><unittitle>Silverstein (Blanc), Esther; Mary Rolfe</unittitle><unitid>cuid14425</unitid><unitdate datechar="creation" normal="1991-01-18/1991-01-18">1991-01-18</unitdate><container altrender="Box - 9 x 11" id="aspace_9756eee0a91cfc1e5953fb7e1f4a1044" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_5b42de332e63e533cd2bee1974efe42e" parent="aspace_9756eee0a91cfc1e5953fb7e1f4a1044" type="Cassette">131-031</container><container id="aspace_68701cf991920ce708a527af2f83ddcb" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_6f7e593c96ed97006e79558781d118f3" parent="aspace_68701cf991920ce708a527af2f83ddcb" type="file">cuid14425</container></did><phystech id="aspace_a1b1ebcfdec1ccefd0bac0585656c4f5"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 43 minutes</p></phystech></c><c id="aspace_ref32" level="file"><did><unittitle>Temple, Lenora</unittitle><unitid>cuid14426</unitid><unitdate datechar="creation" normal="1986-12-13/1986-12-13">1986-12-13</unitdate><container altrender="Box - 9 x 11" id="aspace_4f1009b3fec75c0f156dcb3415b563ce" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_01e0894fcfb981cc6653bb36f0c7040c" parent="aspace_4f1009b3fec75c0f156dcb3415b563ce" type="Cassette">131-035</container><container id="aspace_bc6de3c0a42a899fe347bdc461e6b9c2" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_1cb48ffd420acee2732c878fea9b3b93" parent="aspace_bc6de3c0a42a899fe347bdc461e6b9c2" type="file">cuid14426</container></did><phystech id="aspace_79996a1c59f3118210893da7df6550df"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 92 minutes</p></phystech></c><c id="aspace_ref30" level="file"><did><unittitle>Spanish Civil War Conference</unittitle><unitid>cuid14427</unitid><unitdate datechar="creation" normal="1988-03-19/1988-03-19">1988-03-19</unitdate><langmaterial id="aspace_a8ee377f15b26b8337f89ad4a633b4b4">This recording is in Spanish.</langmaterial><container altrender="Box - 9 x 11" id="aspace_3ffce5733932d3035a7e72a75e7e7190" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_d1cb8c9ea47e8909d44114400dcb24b5" parent="aspace_3ffce5733932d3035a7e72a75e7e7190" type="Cassette">131-033</container><container id="aspace_e7362a40e895ce49e12bd4eda8d57a9a" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_36aa81d776ed3766c4e2f3e618e54d1e" parent="aspace_e7362a40e895ce49e12bd4eda8d57a9a" type="file">cuid14427</container></did><phystech id="aspace_27d5c209220521b85ff5d13cb5a8f5a4"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 54 minutes</p></phystech></c><c id="aspace_ref33" level="file"><did><unittitle>VALB: 55th Anniversary Dinner</unittitle><unitid>cuid14428</unitid><unitdate datechar="creation" normal="1992-04-26/1992-04-26">1992-04-26</unitdate><container altrender="Box - 9 x 11" id="aspace_7963f2921db15ecfa0ab6a12a527f732" label="Audio [31142062839777]" type="Box">1</container><container id="aspace_6abadb41354630e2cc0645b31491bf71" parent="aspace_7963f2921db15ecfa0ab6a12a527f732" type="Cassette">131-036</container><container id="aspace_e3256d85d27f50e66e979d794e7b2953" label="electronic records" type="Box">Digitized Access Files</container><container id="aspace_826f03e0c4e19eba01ccbcf72bdd41b9" parent="aspace_e3256d85d27f50e66e979d794e7b2953" type="file">cuid14428</container></did><phystech id="aspace_1c6b539a9ab0b787c582546b3643df55"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 25 min.</p></phystech></c></dsc>
+</archdesc>
 </ead>

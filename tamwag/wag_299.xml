@@ -1,546 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_299">wag_299</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Brenda Berkman Papers on September 11, 2001 <num>WAG.299</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:23:14 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>November 2013</date>
-        <item>Edited by Heather Mulliner to include new materials incorporated into the collection</item>
-      </change>
-      <change>
-        <date>2015</date>
-        <item>Edited by Heather Mulliner to reflect updated administrative information</item>
-      </change>
-      <change>
-        <date>July 2016</date>
-        <item>Further edited by Heather Mulliner to reflect additional processing and description</item>
-      </change>
-      <change>
-        <date>August 2017</date>
-        <item>Updated by Megan O'Shea to incorporate artwork being sent to offsite art storage in September 2017</item>
-      </change>
-      <change>
-        <date>March 2019</date>
-        <item>Updated to include materials integrated from accession 2019.029 by Samantha Rowe. Edited by Samantha Rowe for compliance with DACS and ACM Required Elements for Archival Description.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Brenda Berkman Papers on September 11, 2001</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Berkman, Brenda</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" source="naf">Berkman, Brenda</persname>
-      </origination>
-      <unitid>WAG.299</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">6.5 Linear Feet</extent>
-        <extent altrender="carrier">in 2 record cartons, 2 oversize flat boxes, 2 manuscript boxes, 1 half manuscript box, and 1 serials box.</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">32 Megabytes</extent>
-        <extent altrender="carrier">in 2 files on 1 DVD-R</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">20 videocassettes</extent>
-        <extent altrender="carrier">on 20 VHS tapes</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1999/2012" type="inclusive">1999-2012</unitdate>
-      <unitdate datechar="creation" normal="2001/2002" type="bulk">2001-2002</unitdate>
-      <abstract id="aspace_187879284db9aa4f0f18f37bde72a80d">Brenda Berkman is a pioneering female firefighter who worked for the Fire Department of New York (FDNY) from 1982 to 2006. The Brenda Berkman Papers on September 11, 2001 (dates 1999-2012, bulk dates 2001-2002) contain articles, clippings, ephemera, and correspondence related to female first responders who participated in rescue operations during and following the September 11th, 2001 terrorist attacks. The collection was compiled by Berkman, and contains letters of condolence, general correspondence, newsletters from firefighters' associations and women's organizations, newspaper clippings about 9/11, and articles discussing the role of women firefighters during 9/11. There are also programs, conference materials, photographs, transcripts of speeches, and newspaper clippings related to Brenda Berkman's advocacy for women firefighters and 9/11 victims following the attacks. The collection also contains audio visual recordings pre-9/11 and after of news segments and interviews which feature Berkman, the Women at Ground Zero Project, as well as memorial and funeral services.</abstract>
-      <langmaterial id="aspace_aae616b11291e641aa73ec177f0c36e7">Materials are in English</langmaterial>
-    </did>
-    <accessrestrict id="aspace_a16ac5605e4fc39baf7fa567e54b12cc">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <phystech id="aspace_0c12672d4d1cabe90d8c9a22d7f54fb0">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <acqinfo id="aspace_d3d072dd3f9b4893f29b8815dbd3eb5c">
-      <head>Immediate Source of Acquisition</head>
-      <p>Initially donated by Brenda Berkman in 2009 and 2011. The accession numbers associated with this gift are 2009.016 and 2011.011. Accretions were gifted in 2013, 2018. The accession numbers associated with these donations are 2013.033 and 2019.029.</p>
-    </acqinfo>
-    <appraisal id="aspace_cf4fa2fe28bd6e2313deb7afca3b332c">
-      <head>Appraisal</head>
-      <p>In 2016, issues of major national news publications containing general coverage of the 9/11 attacks, which were deemed to contain minimal research value, were removed from this collection. Duplicate copies of clippings, programs, and brochures were also removed. In 2019, a curatorial decision was made during accession to not retain 6 VHS tapes and a printed booklet as they were determined to be out of scope.</p>
-    </appraisal>
-    <arrangement id="aspace_c5202b2c5585fe7c93927a7997f7c7f0">
-      <head>Arrangement</head>
-      <p>This collection is arranged alphabetically by topic or record type. Newspaper clippings are grouped by date of publication or topic. The materials sourced from accession 2019.029 are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <bioghist id="aspace_b8602970f30e487e45d2cb1f082e2705">
-      <head>Biographical Note</head>
-      <p>Brenda Berkman is a pioneering female firefighter who worked for the FDNY from 1982 to 2006. She is a founding member and former president of the United Women Firefighters (1982-1986) and served as trustee of the Women in Fire Service (1983-1992). Berkman was born in 1951 and became interested in firefighting as a young girl. She joined the FDNY in 1982 after successfully winning a lawsuit that challenged the department's physical exam, arguing that the tougher requirement discriminated against women and were unnecessary for the job. Berkman was among 47 other women who joined the fire department after passing a revised physical exam. Berkman was promoted to the position of lieutenant in 1994, and captain in 2002. She retired from firefighting in 2006 and shifted to a career in the arts. Most of her work is in stone lithography and copperplate etching which has primarily been inspired by the September 11, 2001 terrorist attacks.</p>
-    </bioghist>
-    <prefercite id="aspace_a330d874c12fc47fc7ddd10c0e6fb779">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Brenda Berkman Papers on September 11, 2001; WAG 299; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <relatedmaterial id="aspace_ae231ceab16d33dfbedb1f5714667215">
-      <head>Related Archival Materials</head>
-      <p>Other materials relating to Brenda Berkman and women firefighters in New York City are the United Women's Firefighters Records (WAG 057).</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_bc57dcc4e302a51b83e7306464e9552e">
-      <head>Scope and Content Note</head>
-      <p>The Brenda Berkman Papers on September 11, 2001 (dates 1999-2012, bulk dates 2001-2002) contain articles, clippings, ephemera, and correspondence related to female first responders who participated in rescue operations during and following the September 11, 2001 terrorist attacks. The collection was compiled by pioneering female firefighter Brenda Berkman, and includes letters of condolence, general correspondence, newsletters from firefighters' associations and women's organizations, newspaper clippings about 9/11, and national publications containing articles discussing the role of women firefighters during 9/11. There are also a number of materials related to Brenda Berkman's advocacy for women firefighters and 9/11 victims following the attacks. They include photographs and programs from firefighters' memorial services; personal notes for memorial service arrangements; audiovisual recordings, transcripts and programs from Berkman's speaking engagements about the her experience on 9/11; newsletters and programs from the Women at Ground Zero Project; and VHS copies of the documentary <emph render="italic">The Women of Ground Zero</emph>, produced by the NOW Legal Defense and Education Fund.</p>
-    </scopecontent>
-    <userestrict id="aspace_86d3c929bc8b5b9c725ef9e371992275">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Brenda Berkman was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <processinfo id="aspace_3249266e3afc509edc4b328b3aa9b66c">
-      <head>Processing Information</head>
-      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2016 have not been recorded. A file list was created in 2016. At this time, folder titles were revised for clarity and consistency and files were arranged in alphabetical order. </p>
-      <p>In August 2017, one item was retroactively accessioned into the collection.  This item was prepared to be moved to offsite art storage in September 2017.</p>
-      <p>Born-digital materials have not been imaged, analyzed, and arranged in Forensic Toolkit. New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content.</p>
-      <p>At the time of accessioning in 2019, materials were placed in new acid-free boxes. All materials were organized in the order the content was received.</p>
-    </processinfo>
-    <phystech id="aspace_2565d9693fa6be1b73e1b5ad3c72b231">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <phystech id="aspace_944c98a0a0e0eaad4ad3761315c4713c">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <controlaccess>
-      <subject source="lcsh">September 11 Terrorist Attacks, 2001.</subject>
-      <subject source="lcsh">Women fire fighters -- New York (State) -- New York.</subject>
-      <genreform source="aat">Scrapbooks.</genreform>
-      <genreform source="aat">VHS</genreform>
-      <genreform source="aat">Typescripts</genreform>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_299">wag_299</eadid><filedesc><titlestmt><titleproper>Guide to the Brenda Berkman Papers on September 11, 2001 <num>WAG.299</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:59:40 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2013</date><item>Edited by Heather Mulliner to include new materials incorporated into the collection</item></change><change><date>2015</date><item>Edited by Heather Mulliner to reflect updated administrative information</item></change><change><date>July 2016</date><item>Further edited by Heather Mulliner to reflect additional processing and description</item></change><change><date>August 2017</date><item>Updated by Megan O'Shea to incorporate artwork being sent to offsite art storage in September 2017</item></change><change><date>March 2019</date><item>Updated to include materials integrated from accession 2019.029 by Samantha Rowe. Edited by Samantha Rowe for compliance with DACS and ACM Required Elements for Archival Description.</item></change><change><date>June 2022</date><item>Updated by Anna Björnsson McCormick to reflect the return of previously quarantined material.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Brenda Berkman Papers on September 11, 2001</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Berkman, Brenda</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" source="naf">Berkman, Brenda</persname>
-      <corpname source="naf">New York (N.Y.). Fire Department</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_1d8f60f097b234780ff66264b4cae29d" level="file">
-        <did>
-          <unittitle>Berkman FDNY Service -- General Photographs</unittitle>
-          <unitdate datechar="creation" normal="1980/2001" type="inclusive">circa 1980-2001</unitdate>
-          <container altrender="Record carton" id="aspace_0ff7c33967e04c3a7cee4c8f9f5270dc" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_75931a96ac64dbb52db333569f423f63" parent="aspace_0ff7c33967e04c3a7cee4c8f9f5270dc" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_f31605a73f04c075dfdb393e64cf22f7" level="file">
-        <did>
-          <unittitle>Cards -- Christmas</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Record carton" id="aspace_889f8c783b97ee40d455eae1d981677d" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_b18d6a7da44c020621262fe7e402e0fa" parent="aspace_889f8c783b97ee40d455eae1d981677d" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_402e30f7be9412da0d5261c481fcbcad" level="file">
-        <did>
-          <unittitle>Cards -- Promotion</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May</unitdate>
-          <container altrender="Record carton" id="aspace_0939cf7413927695d8540e3137a1c63e" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_4ac0299a1e47b1ae4dc72063955e30f2" parent="aspace_0939cf7413927695d8540e3137a1c63e" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_9f995a661c78c0db1d84d704b1e57ed5" level="file">
-        <did>
-          <unittitle>Cards -- Other</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Record carton" id="aspace_5160a09aaf12e3cf3183b1979cdba0fc" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_97820b1a96e49134775043b0853768cc" parent="aspace_5160a09aaf12e3cf3183b1979cdba0fc" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_4577e3a63bd50e596b6afc622094d8fc" level="file">
-        <did>
-          <unittitle>Cards -- Sympathy</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Record carton" id="aspace_c14093ec90a357cfb7703df3afbfbbef" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_a74d28d8a105511a377a9af881efe641" parent="aspace_c14093ec90a357cfb7703df3afbfbbef" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_8a3fcf269f952e9edc0a1a876ed23a0f" level="file">
-        <did>
-          <unittitle>Condolences -- French Firefighters</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001 December</unitdate>
-          <container altrender="Record carton" id="aspace_25b8d63dd6ffbd169841d06746c985f3" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_cf23fbf70157056651ef1c1271b99dc9" parent="aspace_25b8d63dd6ffbd169841d06746c985f3" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_c81ded2e485547496abd954c019b5761" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Record carton" id="aspace_d757500767b2f97071da38b2fe174fa9" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_3e1d4947e69d7ad641d65a9917bd160c" parent="aspace_d757500767b2f97071da38b2fe174fa9" type="Folder">7-8</container>
-        </did>
-      </c>
-      <c id="aspace_f23f2febc3f8beac82a63c8b97ccf33d" level="file">
-        <did>
-          <unittitle>Correspondence -- "From Mom"</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Record carton" id="aspace_374b7556cf3b7c5dd1c1059a7eb4359d" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_1ee74f25bf875e9c0c38e8db0ec9d767" parent="aspace_374b7556cf3b7c5dd1c1059a7eb4359d" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_df0050b9188fab62faab1fbc055006d5" level="file">
-        <did>
-          <unittitle>Firefighter Memorials</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Record carton" id="aspace_6187b382d9c7ab7495c45dc4fe0201f7" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_43bd83b25b103f81096b2048a96b7a25" parent="aspace_6187b382d9c7ab7495c45dc4fe0201f7" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_12aba65f2093b99554d2536246719255" level="file">
-        <did>
-          <unittitle>FDNY memorial poster</unittitle>
-          <unitid>cuid1033</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 item</extent>
-            <physfacet>one poster</physfacet>
-          </physdesc>
-          <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
-          <container id="aspace_77e3f5a3ff3e351265aaf8c92c2a6a4f" label="Mixed Materials" type="Item">WAG.299.cuid1033</container>
-        </did>
-        <controlaccess>
-          <genreform source="aat">Posters.</genreform>
-        </controlaccess>
-      </c>
-      <c id="aspace_b473557a3473c5cfec53848c638606f6" level="file">
-        <did>
-          <unittitle>FDNY Recovery Effort</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Record carton" id="aspace_67b9170ac24be2de37fcfb02986d9280" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_0a01275e4eb1a130809fea19f4558d64" parent="aspace_67b9170ac24be2de37fcfb02986d9280" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_39a3fd12d6b41273ce2b00badcee66f2" level="file">
-        <did>
-          <unittitle>"Into the Bowels of Hell" by Schulman, Maureen McArdle</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Record carton" id="aspace_06b0ef688a1897ac8304d2ca7907490e" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_32e0ece1133dc11caf419b0edc7ac823" parent="aspace_06b0ef688a1897ac8304d2ca7907490e" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_70042ed31e379fd9e2b2a1318b4cacdc" level="file">
-        <did>
-          <unittitle>Juarbe, Angel L. Memorial -- Arrangement Notes</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Record carton" id="aspace_4d1e32bc93334f950aa37dca6259fe4e" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_5732e990b53cc1105b1fc7af436e22d0" parent="aspace_4d1e32bc93334f950aa37dca6259fe4e" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_169ef3ba1c297d191519fc8aba86dbd3" level="file">
-        <did>
-          <unittitle>Juarbe, Angel L. Memorial -- Ephemera and Clippings</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_b262c7d9cea39737c40b657b0a892601" label="Mixed Materials [31142051728817]" type="Box">4</container>
-          <container id="aspace_ec77dff1fa1a6c6fefd2a9d204f473b0" parent="aspace_b262c7d9cea39737c40b657b0a892601" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_dc7676305b1fc164844325497da4b0f8" level="file">
-        <did>
-          <unittitle>Judge, Mychal</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Record carton" id="aspace_9948af99083decf5d53a02136f0b7d57" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_12fea3e6157e792926c201aae45b7c4e" parent="aspace_9948af99083decf5d53a02136f0b7d57" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_5b112b86857e6e3df6e026714a89ec09" level="file">
-        <did>
-          <unittitle>New York City Council Select Committee on Lower Manhattan Redevelopment -- Captain Brenda Berkman Testimony</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May 9</unitdate>
-          <container altrender="Record carton" id="aspace_903f682051d1749055fed4cb1c26ca7a" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_161d403f524b6228ab0f9319d021b8ee" parent="aspace_903f682051d1749055fed4cb1c26ca7a" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_0db5bde790a010c6c08a80822ab89829" level="file">
-        <did>
-          <unittitle>Newspaper Clippings -- By Date</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001 September - 2002</unitdate>
-          <container altrender="Record carton" id="aspace_99b6fa4b6ced4d2baaccfe8bc1d341f7" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_8b01e4932e01f45bda46558d11565bad" parent="aspace_99b6fa4b6ced4d2baaccfe8bc1d341f7" type="Folder">16-20</container>
-        </did>
-      </c>
-      <c id="aspace_8850ac1d7193e80d236e7d1081affc85" level="file">
-        <did>
-          <unittitle>Newspaper Clippings -- By Date</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_2faa8e3f81e9e58db8e0b7c509fa9552" label="Mixed Materials [31142051728817]" type="Box">4</container>
-          <container id="aspace_8042838ff848e0f9a2540150a51ef38d" parent="aspace_2faa8e3f81e9e58db8e0b7c509fa9552" type="Folder">2-3</container>
-        </did>
-      </c>
-      <c id="aspace_c423352be69ed03b72424e0281313e7e" level="file">
-        <did>
-          <unittitle>Newspaper Clippings -- 9/11 Victims</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Record carton" id="aspace_7fe84d54eec4faa91e6f4c588912f564" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_df78dc276aee3be9a36eb56a741446b0" parent="aspace_7fe84d54eec4faa91e6f4c588912f564" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_9aa19bc7c5d7873f1a371d04d8528452" level="file">
-        <did>
-          <unittitle>Newspaper Clippings -- 9/11 Victims</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_bdfa3a5e48dfd922d466450578641623" label="Mixed Materials [31142051728817]" type="Box">4</container>
-          <container id="aspace_cfa947eebd16c6fa5bcd8df6b6a89db8" parent="aspace_bdfa3a5e48dfd922d466450578641623" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_f0c6e55c2bd2a91850dc43a1cba1cfd6" level="file">
-        <did>
-          <unittitle>Newspaper Clippings -- Brenda Berkman</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_71779404eb0f71824c557f7896d16b8e" label="Mixed Materials [31142051728817]" type="Box">4</container>
-          <container id="aspace_977e2448a30508021b74ba8285ba7a1d" parent="aspace_71779404eb0f71824c557f7896d16b8e" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_8c97d99d7d251972da661dd7cceb2c98" level="file">
-        <did>
-          <unittitle>Newspaper Clippings -- Brenda Berkman and Women at Ground Zero</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Record carton" id="aspace_db52b2b6a2f59c6c57553b8704c544e0" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_7173163bfefe5a6cc549456d4aa57190" parent="aspace_db52b2b6a2f59c6c57553b8704c544e0" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_2f79362c15c79c3ed20a03cbca4e285e" level="file">
-        <did>
-          <unittitle>Newspaper Clippings -- Post 9/11 Politics</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_aadef6dae2cb363e29f9da40bb15f8e0" label="Mixed Materials [31142051728817]" type="Box">4</container>
-          <container id="aspace_03a296107aacd2fe659bb37bfac61534" parent="aspace_aadef6dae2cb363e29f9da40bb15f8e0" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_71557d6be7e35cf01d2bfe49b24b1dda" level="file">
-        <did>
-          <unittitle>Newspaper Clippings -- Women at Ground Zero and Gendered Representations of 9/11 First Responders</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Flat OS Box 17" id="aspace_b06da570c047b4562eecd7fe9f3a2040" label="Mixed Materials [31142051728817]" type="Box">4</container>
-          <container id="aspace_68d349ca3b7427001fa4064d4d3abfca" parent="aspace_b06da570c047b4562eecd7fe9f3a2040" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_6f4cb48083f80c4880385fe6e5e4112f" level="file">
-        <did>
-          <unittitle>Periodicals</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Record carton" id="aspace_82b7232f096dc851cf5a669acb0b1f1a" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_645d6d40c6eea087e56364ace3bdd766" parent="aspace_82b7232f096dc851cf5a669acb0b1f1a" type="Folder">23-32</container>
-        </did>
-      </c>
-      <c id="aspace_1c08858ba1a325ca8bd3594504d611f0" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- Ms. Foundation for Women</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May 16</unitdate>
-          <container altrender="Record carton" id="aspace_22f4cb240c74c7545c781eda0d53c3e6" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_b6cce4c294c46db191bec36ce4acc169" parent="aspace_22f4cb240c74c7545c781eda0d53c3e6" type="Folder">33</container>
-        </did>
-      </c>
-      <c id="aspace_2424f1578dd80be1ba70564fce08d297" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- National Women's Law Center</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Record carton" id="aspace_1b4fffb6c719a17b95ef3e7a2c48c6ed" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_831731e023e3ba8f4ae6835f2cc6573c" parent="aspace_1b4fffb6c719a17b95ef3e7a2c48c6ed" type="Folder">34</container>
-        </did>
-      </c>
-      <c id="aspace_92fe31c3688448567b88f54d63e88310" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- New York Women's Foundation</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Record carton" id="aspace_a9cf4e27c37c5752478ea604e5f2737a" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_b7773448cfaa76a2b5f13296667ac78a" parent="aspace_a9cf4e27c37c5752478ea604e5f2737a" type="Folder">35</container>
-        </did>
-      </c>
-      <c id="aspace_cdfa765469e9baf05f5577d87d80f08d" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- NOW Legal Defense Fund/Convention</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Record carton" id="aspace_82af7139ed55a472f78af346ba490526" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_347737368ddf833c6e96a0a69a61c964" parent="aspace_82af7139ed55a472f78af346ba490526" type="Folder">36</container>
-        </did>
-      </c>
-      <c id="aspace_cec5708c180438db462fe2a65dbb75de" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- Pride/LGBT</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Record carton" id="aspace_d37a8af8f6e8d108c2e399fc3a8b2cf0" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_7c5952b42b71b4dcc15f2617fa02ea46" parent="aspace_d37a8af8f6e8d108c2e399fc3a8b2cf0" type="Folder">37</container>
-        </did>
-      </c>
-      <c id="aspace_4b607845f00d2b2196b3a92a088c9477" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- Uniformed Firefighters Association Calendar</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Record carton" id="aspace_fdc5eb2143015fd585da68d793b7fdae" label="Mixed Materials [31142051728783]" type="Box">1</container>
-          <container id="aspace_97d51b4af12ca39cd83b9c9d06960c74" parent="aspace_fdc5eb2143015fd585da68d793b7fdae" type="Folder">38</container>
-        </did>
-      </c>
-      <c id="aspace_ca6e885b7e4b08c4617cf8c92eb48d15" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- Various Programs and Newsletters</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_3368061788498035e347d635cd723965" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_54b697233d001a5ba14081a24beae370" parent="aspace_3368061788498035e347d635cd723965" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_af1549d6cc646758fda288dd207d7a91" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- Women's City Club of New York</unittitle>
-          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_344c02e6960557a7ae35ad9b602ff470" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_5705ae4b4910c77f25f75bba913e0256" parent="aspace_344c02e6960557a7ae35ad9b602ff470" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_01739c80001a2e740dea7ccb668a277b" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- Women's History Month</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 March 26</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_dee59cc4f0eb954faebf42b8eee5e542" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_0cc20e2dc2740d554282c40257e57615" parent="aspace_dee59cc4f0eb954faebf42b8eee5e542" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_d552ef7c4ff157f5b4ee83e86d275360" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- Women in Firefighting</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001 October</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_6730b6e133fb61776c5699e018cc8546" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_2855daef661c3d905b8ce26df0b388d8" parent="aspace_6730b6e133fb61776c5699e018cc8546" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_3c7f7246393dadbfad824b05d93cb3bc" level="file">
-        <did>
-          <unittitle>Printed Ephemera -- YWCA</unittitle>
-          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_6cfd7ce4653ad4419e0ed23a3c54981e" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_fe84083caa5d358a57914684d99d7f51" parent="aspace_6cfd7ce4653ad4419e0ed23a3c54981e" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_bf5ff19cdb3c355a94c7ddae744a0646" level="file">
-        <did>
-          <unittitle>Promotion Ceremony -- Notes and Programs</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May 2</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_2a4c0cfb866deae29a54bdf4e9e914a8" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_f782368d1c669fb6672a7c85b3683257" parent="aspace_2a4c0cfb866deae29a54bdf4e9e914a8" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_0dd996a15b7d39e1fd25e2c47499cafb" level="file">
-        <did>
-          <unittitle>Promotion Ceremony -- Photographs</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May 2</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8c7a769134d86f9e79034c5b7411a259" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_fbe9eee229e0296817ddb18fd04673a3" parent="aspace_8c7a769134d86f9e79034c5b7411a259" type="Folder">7-8</container>
-        </did>
-      </c>
-      <c id="aspace_0c38b39b549d2d5c006319cbcb5f0ad6" level="file">
-        <did>
-          <unittitle>Speaking Engagements about Women in Fire Service</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_60508175250270a12449aceb616f3568" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_9f10dd725f048c1c498729ef71d2c0d6" parent="aspace_60508175250270a12449aceb616f3568" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_9a4ab2a2a606a7e87980f8f539fe91fd" level="file">
-        <did>
-          <unittitle>St. Olaf College Commencement Speech</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_7507af203b80255216a7f2b07f0b4fc9" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_09648e9d358efd257bc16ae911af611a" parent="aspace_7507af203b80255216a7f2b07f0b4fc9" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_1625a6579a1c0b32ea008a85efc04efa" level="file">
-        <did>
-          <unittitle>Women at Ground Zero -- 9/11 One Year Anniversary</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f89a5518f2c46b2433b22f2d1e467ab6" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_e47c91e32ac8d38bdbf7c2c31a72b494" parent="aspace_f89a5518f2c46b2433b22f2d1e467ab6" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_c4bcc853eb1d37ebb072754fdc5cfcfd" level="file">
-        <did>
-          <unittitle>Women at Ground Zero -- Children's Artwork</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8184c6772d7a3f29c536eae09bbcc9c5" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_dd40d1e6af8632c22366d0ac708f7288" parent="aspace_8184c6772d7a3f29c536eae09bbcc9c5" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_558194370a10d360e1d8c59ea8a5de32" level="file">
-        <did>
-          <unittitle>Women at Ground Zero -- In Remembrance Photograph Notes</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_34f93caba505b97e43674c947e51847a" label="Mixed Materials [31142051728791]" type="Box">2</container>
-          <container id="aspace_182bc7d6ead21cb6403e1a7dcc4e7b6c" parent="aspace_34f93caba505b97e43674c947e51847a" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_d2ffa5d0d278d8f44566cd1853d961b7" level="file">
-        <did>
-          <unittitle>Women at Ground Zero -- In Remembrance Photographs</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Record carton" id="aspace_252ea54443a346a76200fba65d473fec" label="Mixed Materials" type="Box">DIGI 001</container>
-          <container id="aspace_8b260c7e4053a9f50e4f98d3b331a0a3" parent="aspace_252ea54443a346a76200fba65d473fec" type="CD">1</container>
-        </did>
-        <phystech id="aspace_6baf8c1e8f71be6fed6bdd44a74d10f2">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Content of this CD is born-digital.  Advanced notice is required to access these materials.</p>
-        </phystech>
-      </c>
-      <c id="aspace_40d0ac5563552e275f5a85c150ee85a6" level="file">
-        <did>
-          <unittitle>Women at Ground Zero -- "Masculinization of New York City Post 9/11" by Laura Dowler</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_583267f9cbf79192dab2e462be212ae0" label="Mixed Materials [31142051728809]" type="Box">3</container>
-          <container id="aspace_d2d94ec275f2737fab8ba92b4a477aff" parent="aspace_583267f9cbf79192dab2e462be212ae0" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_87c92f1d55f2372b57ce229fe7cbb610" level="file">
-        <did>
-          <unittitle>Women at Ground Zero -- Newsletters, Clippings, and Programs</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_d79b0e8f9b9466f2fae26f168c16f6b6" label="Mixed Materials [31142051728809]" type="Box">3</container>
-          <container id="aspace_38229eca86badbb1d77c57a94a5ba15e" parent="aspace_d79b0e8f9b9466f2fae26f168c16f6b6" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_1d583d7ed538b55e3a481726a68d9a20" level="file">
-        <did>
-          <unittitle>Women at Ground Zero -- Recognition Banquet</unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 November 8</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_8466c067baa57b2116e74b889caef2c3" label="Mixed Materials [31142051728809]" type="Box">3</container>
-          <container id="aspace_064365ba242937cb27324eecd32a62be" parent="aspace_8466c067baa57b2116e74b889caef2c3" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_a19d275e024fe361db2367599164463d" level="file">
-        <did>
-          <unittitle>
-            <emph render="italic">The Women of Ground Zero</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 February 6</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_8e7461a271cfb1b6545da45aab203ae1" label="videos [31142051728809]" type="Box">3</container>
-          <container id="aspace_61d12d8d98abf57465bcb78718723c2e" parent="aspace_8e7461a271cfb1b6545da45aab203ae1" type="Video">1-2</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>WAG.299</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.5 Linear Feet</extent>
+      <extent altrender="carrier">in 2 record cartons, 2 oversize flat boxes, 2 manuscript boxes, 1 half manuscript box, and 1 serials box.</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">32 Megabytes</extent>
+      <extent altrender="carrier">in 2 files on 1 DVD-R</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">20 videocassettes</extent>
+      <extent altrender="carrier">on 20 VHS tapes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1999/2012" type="inclusive">1999-2012</unitdate>
+    <unitdate datechar="creation" normal="2001/2002" type="bulk">2001-2002</unitdate>
+    <abstract id="aspace_187879284db9aa4f0f18f37bde72a80d">Brenda Berkman is a pioneering female firefighter who worked for the Fire Department of New York (FDNY) from 1982 to 2006. The Brenda Berkman Papers on September 11, 2001 (dates 1999-2012, bulk dates 2001-2002) contain articles, clippings, ephemera, and correspondence related to female first responders who participated in rescue operations during and following the September 11th, 2001 terrorist attacks. The collection was compiled by Berkman, and contains letters of condolence, general correspondence, newsletters from firefighters' associations and women's organizations, newspaper clippings about 9/11, and articles discussing the role of women firefighters during 9/11. There are also programs, conference materials, photographs, transcripts of speeches, and newspaper clippings related to Brenda Berkman's advocacy for women firefighters and 9/11 victims following the attacks. The collection also contains audio visual recordings pre-9/11 and after of news segments and interviews which feature Berkman, the Women at Ground Zero Project, as well as memorial and funeral services.</abstract>
+    <langmaterial id="aspace_aae616b11291e641aa73ec177f0c36e7">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_a16ac5605e4fc39baf7fa567e54b12cc">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <phystech id="aspace_0c12672d4d1cabe90d8c9a22d7f54fb0">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <acqinfo id="aspace_d3d072dd3f9b4893f29b8815dbd3eb5c">
+    <head>Immediate Source of Acquisition</head>
+<p>Initially donated by Brenda Berkman in 2009 and 2011. The accession numbers associated with this gift are 2009.016 and 2011.011. Accretions were gifted in 2013, 2018. The accession numbers associated with these donations are 2013.033 and 2019.029.</p>  </acqinfo>
+  <appraisal id="aspace_cf4fa2fe28bd6e2313deb7afca3b332c">
+    <head>Appraisal</head>
+<p>In 2016, issues of major national news publications containing general coverage of the 9/11 attacks, which were deemed to contain minimal research value, were removed from this collection. Duplicate copies of clippings, programs, and brochures were also removed. In 2019, a curatorial decision was made during accession to not retain 6 VHS tapes and a printed booklet as they were determined to be out of scope.</p>  </appraisal>
+  <arrangement id="aspace_c5202b2c5585fe7c93927a7997f7c7f0">
+    <head>Arrangement</head>
+<p>This collection is arranged alphabetically by topic or record type. Newspaper clippings are grouped by date of publication or topic. The materials sourced from accession 2019.029 are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_b8602970f30e487e45d2cb1f082e2705">
+    <head>Biographical Note</head>
+<p>Brenda Berkman is a pioneering female firefighter who worked for the FDNY from 1982 to 2006. She is a founding member and former president of the United Women Firefighters (1982-1986) and served as trustee of the Women in Fire Service (1983-1992). Berkman was born in 1951 and became interested in firefighting as a young girl. She joined the FDNY in 1982 after successfully winning a lawsuit that challenged the department's physical exam, arguing that the tougher requirement discriminated against women and were unnecessary for the job. Berkman was among 47 other women who joined the fire department after passing a revised physical exam. Berkman was promoted to the position of lieutenant in 1994, and captain in 2002. She retired from firefighting in 2006 and shifted to a career in the arts. Most of her work is in stone lithography and copperplate etching which has primarily been inspired by the September 11, 2001 terrorist attacks.</p>  </bioghist>
+  <prefercite id="aspace_a330d874c12fc47fc7ddd10c0e6fb779">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Brenda Berkman Papers on September 11, 2001; WAG 299; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_ae231ceab16d33dfbedb1f5714667215">
+    <head>Related Archival Materials</head>
+<p>Other materials relating to Brenda Berkman and women firefighters in New York City are the United Women's Firefighters Records (WAG 057).</p>  </relatedmaterial>
+  <scopecontent id="aspace_bc57dcc4e302a51b83e7306464e9552e">
+    <head>Scope and Content Note</head>
+<p>The Brenda Berkman Papers on September 11, 2001 (dates 1999-2012, bulk dates 2001-2002) contain articles, clippings, ephemera, and correspondence related to female first responders who participated in rescue operations during and following the September 11, 2001 terrorist attacks. The collection was compiled by pioneering female firefighter Brenda Berkman, and includes letters of condolence, general correspondence, newsletters from firefighters' associations and women's organizations, newspaper clippings about 9/11, and national publications containing articles discussing the role of women firefighters during 9/11. There are also a number of materials related to Brenda Berkman's advocacy for women firefighters and 9/11 victims following the attacks. They include photographs and programs from firefighters' memorial services; personal notes for memorial service arrangements; audiovisual recordings, transcripts and programs from Berkman's speaking engagements about the her experience on 9/11; newsletters and programs from the Women at Ground Zero Project; and VHS copies of the documentary <emph render="italic">The Women of Ground Zero</emph>, produced by the NOW Legal Defense and Education Fund.</p>  </scopecontent>
+  <userestrict id="aspace_86d3c929bc8b5b9c725ef9e371992275">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Brenda Berkman was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <processinfo id="aspace_3249266e3afc509edc4b328b3aa9b66c">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2016 have not been recorded. A file list was created in 2016. At this time, folder titles were revised for clarity and consistency and files were arranged in alphabetical order. </p><p>In August 2017, one item was retroactively accessioned into the collection.  This item was prepared to be moved to offsite art storage in September 2017.</p><p>Born-digital materials have not been imaged, analyzed, and arranged in Forensic Toolkit. New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content.</p><p>At the time of accessioning in 2019, materials were placed in new acid-free boxes. All materials were organized in the order the content was received. At this time three VHS cassettes and one audiocassette with evidence of mold or other damage were identified and physically separated from the remainder of the accretion. In 2022 these materials, housed in Box 20, were removed from quarantine and isolated from other items by housing them in a polyethylene bag with a desiccated board and RH monitor strip. If this strip indicates an RH greater than 50%, contact the Preservation Department immediately. Do not open this packaging without contacting the Preservation Department.</p>  </processinfo>
+  <phystech id="aspace_2565d9693fa6be1b73e1b5ad3c72b231">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <phystech id="aspace_944c98a0a0e0eaad4ad3761315c4713c">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <controlaccess>
+    <subject source="lcsh">September 11 Terrorist Attacks, 2001.</subject>
+    <subject source="lcsh">Women fire fighters -- New York (State) -- New York.</subject>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <genreform source="aat">VHS</genreform>
+    <genreform source="aat">Typescripts</genreform>
+    <persname role="dnr" source="naf">Berkman, Brenda</persname>
+    <corpname authfilenumber="(lccn)n50074741" source="naf">New York (N.Y.). Fire Department</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_1d8f60f097b234780ff66264b4cae29d" level="file"><did><unittitle>Berkman FDNY Service -- General Photographs</unittitle><unitdate datechar="creation" normal="1980/2001" type="inclusive">circa 1980-2001</unitdate><container altrender="Record carton" id="aspace_d14d8dd09e9f68fa7f46fcf34fdef02a" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_91bbf5a9668b4135113151879122bc7c" parent="aspace_d14d8dd09e9f68fa7f46fcf34fdef02a" type="Folder">1</container></did></c><c id="aspace_f31605a73f04c075dfdb393e64cf22f7" level="file"><did><unittitle>Cards -- Christmas</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Record carton" id="aspace_30bd2aa055a35f1ff710755a40eda16c" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_76fac7773e0a66e20dc1ea0957668416" parent="aspace_30bd2aa055a35f1ff710755a40eda16c" type="Folder">2</container></did></c><c id="aspace_402e30f7be9412da0d5261c481fcbcad" level="file"><did><unittitle>Cards -- Promotion</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May</unitdate><container altrender="Record carton" id="aspace_1447035767e64c3dd23c26f3e61371cd" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_23398ed39610821aa3827873d7839aa3" parent="aspace_1447035767e64c3dd23c26f3e61371cd" type="Folder">3</container></did></c><c id="aspace_9f995a661c78c0db1d84d704b1e57ed5" level="file"><did><unittitle>Cards -- Other</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Record carton" id="aspace_281ece810072dda9263aa860f13427c9" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_1695aa53aaace7c27543a22a03c8492a" parent="aspace_281ece810072dda9263aa860f13427c9" type="Folder">4</container></did></c><c id="aspace_4577e3a63bd50e596b6afc622094d8fc" level="file"><did><unittitle>Cards -- Sympathy</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Record carton" id="aspace_a40a40e5d6c3e14a2f202aa5fae8f0df" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_1893c22ae58ab6efb13a4b4aa536eb7c" parent="aspace_a40a40e5d6c3e14a2f202aa5fae8f0df" type="Folder">5</container></did></c><c id="aspace_8a3fcf269f952e9edc0a1a876ed23a0f" level="file"><did><unittitle>Condolences -- French Firefighters</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001 December</unitdate><container altrender="Record carton" id="aspace_ed4a45131428f496bef2cd891187b05f" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_1c988df5c80ef8b1bcc4c76bc56f5e0f" parent="aspace_ed4a45131428f496bef2cd891187b05f" type="Folder">6</container></did></c><c id="aspace_c81ded2e485547496abd954c019b5761" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Record carton" id="aspace_108b9c757be10b36261094e13fa77515" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_4a6975e61dbeb836381c3cf8b3e4d5a9" parent="aspace_108b9c757be10b36261094e13fa77515" type="Folder">7-8</container></did></c><c id="aspace_f23f2febc3f8beac82a63c8b97ccf33d" level="file"><did><unittitle>Correspondence -- "From Mom"</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Record carton" id="aspace_e5f3a05729bad7395c413364fd6956e1" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_42a057fe73c8df1d336728fe1e31b832" parent="aspace_e5f3a05729bad7395c413364fd6956e1" type="Folder">9</container></did></c><c id="aspace_df0050b9188fab62faab1fbc055006d5" level="file"><did><unittitle>Firefighter Memorials</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Record carton" id="aspace_b8c4017b6bd5bd9f21c7c23b9a548da2" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_3ffeed1d53a83cc0ba52cbf35730692d" parent="aspace_b8c4017b6bd5bd9f21c7c23b9a548da2" type="Folder">10</container></did></c><c id="aspace_12aba65f2093b99554d2536246719255" level="file"><did><unittitle>FDNY memorial poster</unittitle><unitid>cuid1033</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 item</extent><physfacet>one poster</physfacet></physdesc><unitdate datechar="creation" normal="2001/2001">2001</unitdate><container id="aspace_0c2a8792a3c0dbecd7f0f8aa9cac3a5e" label="Mixed Materials" type="Item">WAG.299.cuid1033</container></did><controlaccess><genreform source="aat">Posters.</genreform></controlaccess></c><c id="aspace_b473557a3473c5cfec53848c638606f6" level="file"><did><unittitle>FDNY Recovery Effort</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Record carton" id="aspace_ff9f1a1451792907c70d0959d2cf313d" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_62785d1bb9ab3af47dad0ff4775ee5ce" parent="aspace_ff9f1a1451792907c70d0959d2cf313d" type="Folder">11</container></did></c><c id="aspace_39a3fd12d6b41273ce2b00badcee66f2" level="file"><did><unittitle>"Into the Bowels of Hell" by Schulman, Maureen McArdle</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Record carton" id="aspace_85b88d63e8a9f76bae447a84ba170c6e" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_18ed2dd4089019099b8c69c2a98e29be" parent="aspace_85b88d63e8a9f76bae447a84ba170c6e" type="Folder">12</container></did></c><c id="aspace_70042ed31e379fd9e2b2a1318b4cacdc" level="file"><did><unittitle>Juarbe, Angel L. Memorial -- Arrangement Notes</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Record carton" id="aspace_a8c19e0cc14dac47d7106c1c97ce1d49" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_f52d9478ef0df85ce197444c02e3060e" parent="aspace_a8c19e0cc14dac47d7106c1c97ce1d49" type="Folder">13</container></did></c><c id="aspace_169ef3ba1c297d191519fc8aba86dbd3" level="file"><did><unittitle>Juarbe, Angel L. Memorial -- Ephemera and Clippings</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Flat OS Box 17" id="aspace_f9177489e481d9f9e39a9cf61d035632" label="Mixed Materials [31142051728817]" type="Box">4</container><container id="aspace_2eb9724556c650ad053973c55fc21b2b" parent="aspace_f9177489e481d9f9e39a9cf61d035632" type="Folder">1</container></did></c><c id="aspace_dc7676305b1fc164844325497da4b0f8" level="file"><did><unittitle>Judge, Mychal</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Record carton" id="aspace_d7e457fea3952dac82d99f5a8172f56d" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_73dbcf9e03423fae6be207f68ed0afd2" parent="aspace_d7e457fea3952dac82d99f5a8172f56d" type="Folder">14</container></did></c><c id="aspace_5b112b86857e6e3df6e026714a89ec09" level="file"><did><unittitle>New York City Council Select Committee on Lower Manhattan Redevelopment -- Captain Brenda Berkman Testimony</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May 9</unitdate><container altrender="Record carton" id="aspace_c56aa4100c046d244d82259cf34f4f7c" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_b26c42450e5219677f7d7e42441e37b3" parent="aspace_c56aa4100c046d244d82259cf34f4f7c" type="Folder">15</container></did></c><c id="aspace_0db5bde790a010c6c08a80822ab89829" level="file"><did><unittitle>Newspaper Clippings -- By Date</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001 September - 2002</unitdate><container altrender="Record carton" id="aspace_4d3ea8c3941c3af743a67eeea1801721" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_47347f6d6cb64401135b31fddaae7c9e" parent="aspace_4d3ea8c3941c3af743a67eeea1801721" type="Folder">16-20</container></did></c><c id="aspace_8850ac1d7193e80d236e7d1081affc85" level="file"><did><unittitle>Newspaper Clippings -- By Date</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Flat OS Box 17" id="aspace_e29d17d2d12ea3477565b52090a7c8d8" label="Mixed Materials [31142051728817]" type="Box">4</container><container id="aspace_a5e7e3ff1a34d040370f07b304b349ba" parent="aspace_e29d17d2d12ea3477565b52090a7c8d8" type="Folder">2-3</container></did></c><c id="aspace_c423352be69ed03b72424e0281313e7e" level="file"><did><unittitle>Newspaper Clippings -- 9/11 Victims</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Record carton" id="aspace_3a496656aee2f0404faf82162b6ca3a9" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_c623508b6071cc81a7ee5337f978141e" parent="aspace_3a496656aee2f0404faf82162b6ca3a9" type="Folder">21</container></did></c><c id="aspace_9aa19bc7c5d7873f1a371d04d8528452" level="file"><did><unittitle>Newspaper Clippings -- 9/11 Victims</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Flat OS Box 17" id="aspace_98ee276f0992e0d59c504d29a00b677a" label="Mixed Materials [31142051728817]" type="Box">4</container><container id="aspace_8f67d14c1c9f1d4e42b8337681156c37" parent="aspace_98ee276f0992e0d59c504d29a00b677a" type="Folder">4</container></did></c><c id="aspace_f0c6e55c2bd2a91850dc43a1cba1cfd6" level="file"><did><unittitle>Newspaper Clippings -- Brenda Berkman</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Flat OS Box 17" id="aspace_7d37c479c4454cff013092e474cf0661" label="Mixed Materials [31142051728817]" type="Box">4</container><container id="aspace_6385b6c3c5dac48369abbf8fff79b483" parent="aspace_7d37c479c4454cff013092e474cf0661" type="Folder">5</container></did></c><c id="aspace_8c97d99d7d251972da661dd7cceb2c98" level="file"><did><unittitle>Newspaper Clippings -- Brenda Berkman and Women at Ground Zero</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Record carton" id="aspace_6064699fab189de29842ab51f46021ca" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_f840794bfca73f0274f2c47fb96d49db" parent="aspace_6064699fab189de29842ab51f46021ca" type="Folder">22</container></did></c><c id="aspace_2f79362c15c79c3ed20a03cbca4e285e" level="file"><did><unittitle>Newspaper Clippings -- Post 9/11 Politics</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Flat OS Box 17" id="aspace_15f3f4a654335236ac172635d97ccea6" label="Mixed Materials [31142051728817]" type="Box">4</container><container id="aspace_42064028b003fad91cdf45cf6de1f9b0" parent="aspace_15f3f4a654335236ac172635d97ccea6" type="Folder">6</container></did></c><c id="aspace_71557d6be7e35cf01d2bfe49b24b1dda" level="file"><did><unittitle>Newspaper Clippings -- Women at Ground Zero and Gendered Representations of 9/11 First Responders</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Flat OS Box 17" id="aspace_a89e9b407e6042d1b7028abf547c8745" label="Mixed Materials [31142051728817]" type="Box">4</container><container id="aspace_3556a06c8768f4f5eb898bfae6ac9d00" parent="aspace_a89e9b407e6042d1b7028abf547c8745" type="Folder">7</container></did></c><c id="aspace_6f4cb48083f80c4880385fe6e5e4112f" level="file"><did><unittitle>Periodicals</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Record carton" id="aspace_8ee53a7f416d2f8ab1459a778766257c" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_443486bcc6faa165ca23405d2903f5bd" parent="aspace_8ee53a7f416d2f8ab1459a778766257c" type="Folder">23-32</container></did></c><c id="aspace_1c08858ba1a325ca8bd3594504d611f0" level="file"><did><unittitle>Printed Ephemera -- Ms. Foundation for Women</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May 16</unitdate><container altrender="Record carton" id="aspace_3ed5958016694d6f9043de40e9d3962b" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_63c1f8721ea50a33344da12c4232f1e2" parent="aspace_3ed5958016694d6f9043de40e9d3962b" type="Folder">33</container></did></c><c id="aspace_2424f1578dd80be1ba70564fce08d297" level="file"><did><unittitle>Printed Ephemera -- National Women's Law Center</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Record carton" id="aspace_5655b85ecb6e18457d8c45d2ee287d28" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_da0e51a2d7bc771fc05a71ef27fbe240" parent="aspace_5655b85ecb6e18457d8c45d2ee287d28" type="Folder">34</container></did></c><c id="aspace_92fe31c3688448567b88f54d63e88310" level="file"><did><unittitle>Printed Ephemera -- New York Women's Foundation</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Record carton" id="aspace_1b58c4ac391d69faeddca825cf8c9803" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_b04631314c00286545f07b2f91912ff3" parent="aspace_1b58c4ac391d69faeddca825cf8c9803" type="Folder">35</container></did></c><c id="aspace_cdfa765469e9baf05f5577d87d80f08d" level="file"><did><unittitle>Printed Ephemera -- NOW Legal Defense Fund/Convention</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Record carton" id="aspace_56609827b2014498553f1a3bb538b3aa" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_aaba39d8794187240b61989245645cba" parent="aspace_56609827b2014498553f1a3bb538b3aa" type="Folder">36</container></did></c><c id="aspace_cec5708c180438db462fe2a65dbb75de" level="file"><did><unittitle>Printed Ephemera -- Pride/LGBT</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Record carton" id="aspace_8b502dab25a0847bce11cc9f5cbb409d" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_12f90fff873da9a39180977a237865ee" parent="aspace_8b502dab25a0847bce11cc9f5cbb409d" type="Folder">37</container></did></c><c id="aspace_4b607845f00d2b2196b3a92a088c9477" level="file"><did><unittitle>Printed Ephemera -- Uniformed Firefighters Association Calendar</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Record carton" id="aspace_de036940f84304c69ec308183f0a1ce0" label="Mixed Materials [31142051728783]" type="Box">1</container><container id="aspace_c283bd93ca66e731b49e4638519fb10e" parent="aspace_de036940f84304c69ec308183f0a1ce0" type="Folder">38</container></did></c><c id="aspace_ca6e885b7e4b08c4617cf8c92eb48d15" level="file"><did><unittitle>Printed Ephemera -- Various Programs and Newsletters</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_60a1dfbf506af167fb4e7514d8c9a4dd" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_ed13daa1d1daca3980f1d4f27dc9e409" parent="aspace_60a1dfbf506af167fb4e7514d8c9a4dd" type="Folder">1</container></did></c><c id="aspace_af1549d6cc646758fda288dd207d7a91" level="file"><did><unittitle>Printed Ephemera -- Women's City Club of New York</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_93d27b6028106a39015f99f0d17f487a" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_56fd06a3af47cd6927eddb98c870c73b" parent="aspace_93d27b6028106a39015f99f0d17f487a" type="Folder">2</container></did></c><c id="aspace_01739c80001a2e740dea7ccb668a277b" level="file"><did><unittitle>Printed Ephemera -- Women's History Month</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 March 26</unitdate><container altrender="Manuscript box - Legal" id="aspace_a892dc85c56265ff0e7c53738c2a89f3" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_27d1781e2d37b751227a262dbae8fcc3" parent="aspace_a892dc85c56265ff0e7c53738c2a89f3" type="Folder">3</container></did></c><c id="aspace_d552ef7c4ff157f5b4ee83e86d275360" level="file"><did><unittitle>Printed Ephemera -- Women in Firefighting</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001 October</unitdate><container altrender="Manuscript box - Legal" id="aspace_bcf88f416a210521c322bc884eb573e2" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_09e742c8d54db5fc922899fb7e9abc9a" parent="aspace_bcf88f416a210521c322bc884eb573e2" type="Folder">4</container></did></c><c id="aspace_3c7f7246393dadbfad824b05d93cb3bc" level="file"><did><unittitle>Printed Ephemera -- YWCA</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Manuscript box - Legal" id="aspace_cbae132cf2c9cabfa43a0d6025d72235" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_0312f35eaa1c1df653c55817ac3f5a95" parent="aspace_cbae132cf2c9cabfa43a0d6025d72235" type="Folder">5</container></did></c><c id="aspace_bf5ff19cdb3c355a94c7ddae744a0646" level="file"><did><unittitle>Promotion Ceremony -- Notes and Programs</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May 2</unitdate><container altrender="Manuscript box - Legal" id="aspace_c6f598abedf773ed7e4e02691bd955f5" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_829874059395a7c19fd81dc53b899024" parent="aspace_c6f598abedf773ed7e4e02691bd955f5" type="Folder">6</container></did></c><c id="aspace_0dd996a15b7d39e1fd25e2c47499cafb" level="file"><did><unittitle>Promotion Ceremony -- Photographs</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May 2</unitdate><container altrender="Manuscript box - Legal" id="aspace_6fcc4b7d763bd88a9bd9900149660ade" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_d680529f75c16f8cd942f3a32221bdb8" parent="aspace_6fcc4b7d763bd88a9bd9900149660ade" type="Folder">7-8</container></did></c><c id="aspace_0c38b39b549d2d5c006319cbcb5f0ad6" level="file"><did><unittitle>Speaking Engagements about Women in Fire Service</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_f8989bc43b400ca9b3d7316241cf1ffa" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_45ee318dc0b140c96f4f62e03a22fe94" parent="aspace_f8989bc43b400ca9b3d7316241cf1ffa" type="Folder">9</container></did></c><c id="aspace_9a4ab2a2a606a7e87980f8f539fe91fd" level="file"><did><unittitle>St. Olaf College Commencement Speech</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 May</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd39ef6f4a752ea96f862139b2ea267a" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_81744c2ee8b3557cf07aff46e1f72c99" parent="aspace_fd39ef6f4a752ea96f862139b2ea267a" type="Folder">10</container></did></c><c id="aspace_1625a6579a1c0b32ea008a85efc04efa" level="file"><did><unittitle>Women at Ground Zero -- 9/11 One Year Anniversary</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_e8688a3de465091fb284a8a6b6f3d8ea" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_3650e6da108c17e5736e672dbd904325" parent="aspace_e8688a3de465091fb284a8a6b6f3d8ea" type="Folder">11</container></did></c><c id="aspace_c4bcc853eb1d37ebb072754fdc5cfcfd" level="file"><did><unittitle>Women at Ground Zero -- Children's Artwork</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_99599c969d4ebe02d4418baaf8a1040d" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_7b2f569cbbdc4d717d03f29593a15884" parent="aspace_99599c969d4ebe02d4418baaf8a1040d" type="Folder">12</container></did></c><c id="aspace_558194370a10d360e1d8c59ea8a5de32" level="file"><did><unittitle>Women at Ground Zero -- In Remembrance Photograph Notes</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_d332af1c74eaf93da643d6efa91e8804" label="Mixed Materials [31142051728791]" type="Box">2</container><container id="aspace_81e72b18cabe05814573ae9112486ca1" parent="aspace_d332af1c74eaf93da643d6efa91e8804" type="Folder">13</container></did></c><c id="aspace_d2ffa5d0d278d8f44566cd1853d961b7" level="file"><did><unittitle>Women at Ground Zero -- In Remembrance Photographs</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Record carton" id="aspace_4e6aa038bdb9557d3ef83fef1b553fcf" label="Mixed Materials" type="Box">DIGI 001</container><container id="aspace_855654832e85b980ad4393e1be946579" parent="aspace_4e6aa038bdb9557d3ef83fef1b553fcf" type="CD">1</container></did><phystech id="aspace_6baf8c1e8f71be6fed6bdd44a74d10f2"><head>Physical Characteristics and Technical Requirements</head><p>Content of this CD is born-digital.  Advanced notice is required to access these materials.</p></phystech></c><c id="aspace_40d0ac5563552e275f5a85c150ee85a6" level="file"><did><unittitle>Women at Ground Zero -- "Masculinization of New York City Post 9/11" by Laura Dowler</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7035ed3c5694fc8cf1a5166c628fdc8e" label="Mixed Materials [31142051728809]" type="Box">3</container><container id="aspace_9cd3105094985f71dc09292e61c1875f" parent="aspace_7035ed3c5694fc8cf1a5166c628fdc8e" type="Folder">1</container></did></c><c id="aspace_87c92f1d55f2372b57ce229fe7cbb610" level="file"><did><unittitle>Women at Ground Zero -- Newsletters, Clippings, and Programs</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_07b9b7c75571eeaf6de727a7f2a0083c" label="Mixed Materials [31142051728809]" type="Box">3</container><container id="aspace_522a0a2c17f6e3de5fe938f7bfe70c9a" parent="aspace_07b9b7c75571eeaf6de727a7f2a0083c" type="Folder">2</container></did></c><c id="aspace_1d583d7ed538b55e3a481726a68d9a20" level="file"><did><unittitle>Women at Ground Zero -- Recognition Banquet</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 November 8</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b31a56c176ac5452bd71a32c7a1d6f66" label="Mixed Materials [31142051728809]" type="Box">3</container><container id="aspace_36ba0d8b51c63a1dddced24f1f1fb164" parent="aspace_b31a56c176ac5452bd71a32c7a1d6f66" type="Folder">3</container></did></c><c id="aspace_a19d275e024fe361db2367599164463d" level="file"><did><unittitle><emph render="italic">The Women of Ground Zero</emph></unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 February 6</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_40c8a74646f364497ff247b84bdf50e0" label="video [31142051728809]" type="Box">3</container><container id="aspace_0eb3130d252c61f396858e7af054e385" parent="aspace_40c8a74646f364497ff247b84bdf50e0" type="Video">1-2</container></did></c></dsc>
+</archdesc>
 </ead>

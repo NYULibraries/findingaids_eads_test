@@ -1,743 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_88">mc_88</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Papers of John G. Mason <num>MC.88</num></titleproper>
-        <author>Peter Braunstein.</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from mason02KS.xml</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:36:12 -0500</date>.</creation>
-      <langusage>Description is in <language>English</language>.</langusage>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>June 2018</date>
-        <item>Finding aid revised by John Zarrillo</item>
-      </change>
-      <change>
-        <date>November 2018</date>
-        <item>Anti War Poster reintegrated into the collection by John Zarrillo</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>John G. Mason Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Mason, John G.</persname>
-      </origination>
-      <unitid>MC.88</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.75 Linear Feet</extent>
-        <extent altrender="carrier">in 5 manuscript boxes and 1 flat box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1963/1978" type="inclusive">1963-1978</unitdate>
-      <abstract id="aspace_c8305acee52055b365db6c8e734f0a30">The John G. Mason Collection contain various records from many of the student and student faculty organizations active at NYU during the years 1962 to 1978. The primary focus of this collection is student and faculty opposition to the Vietnam War between the years 1965 and 1971. The records include organizational position papers, flyers, and posters. These materials are a representative sample of information on student activity and do not contain comprehensive documentation of all student groups.</abstract>
-      <langmaterial id="aspace_a073e582ccc8d4cbc98da9464be7a381">Materials are in English.</langmaterial>
-    </did>
-    <arrangement id="aspace_9f76a2a2a6d9b0ffac1f17f8eb272997">
-      <head>Arrangement</head>
-      <p>Although the original order was noted and recorded, the collection has been reorganized so that the series are arranged chronologically by content (except where specially noted as exceptions), with the aim of facilitating research access. The collection consists of eight series, seven of which are boxed together; one of which is stored in the flat files. </p>
-      <p>The collection has been organized into eight series:</p>
-      <list type="ordered">
-        <item>Historical Overviews, Personal Papers and Ephemera</item>
-        <item>SDS Material, Chi-Reston Papers, SDS "Successors"</item>
-        <item>New York University (NYU) Student Organization Activity</item>
-        <item>New University Conference (NUC) Materials</item>
-        <item>Library and Cafeteria Workers--National Students' Strike of 1970</item>
-        <item>NYU Administrative Documents</item>
-        <item>Student Movement Organizations</item>
-        <item>Student Organization Posters</item>
-      </list>
-    </arrangement>
-    <relatedmaterial id="aspace_59578bbb5ea0a51e9090021c362b2bcd">
-      <head>Related Material at the New York University Archives         </head>
-      <p>Other materials on the SDS, NYU student involvement, the Anti-War Movement, NYU's transformation of the 1960s and 1970s are contained within the University Archives, the Tamiment/Wagner Archives, and NYU's Bobst Library. A short list of the collateral sources would include:</p>
-      <p>Chancellor Heald's Administrative and Personal Papers Collection. New York University Archives, Bobst Library, New York University, New York.</p>
-      <p>Chancellor Hester's Administrative and Personal Papers Collection. New York University Archives, Bobst Library, New York University, New York.</p>
-      <p>Chancellor Sawhill's Administrative and Personal papers Collection. New York University Archives, Bobst Library, New York University, New York.</p>
-      <p>Minutes of the New York University Trustee Council, 1962-1976. New York University Archives, Bobst Library, New York University, New York.</p>
-      <p>Miller, Peter. "Violets on the Picket Line," Public History Records, NYU History Department, New York City, New York.</p>
-      <p>Myers, David R. <emph render="italic">Toward A History of the New Left: Essays From Within The Movement</emph>.</p>
-      <p>Photographic Records of Student Protests 1962-1978, New York University Archives Photographic Collection. University Archives, Bobst Library, New York University, New York.</p>
-      <p>Reports of the Chancellors of New York University, 1962-1976. New York University Archives, Bobst Library, New York University, New York.</p>
-      <p>Reports of the Secretary of New York University, 1962-1976. New York University Archives, Bobst Library, New York University, New York.</p>
-      <p>Reports of the Treasurer of New York University, 1962-1976. New York University Archives, Bobst Library, New York University, New York.</p>
-      <p>Still, Bayrd. Administrative Papers and Personal Records. New York University Archives, Bobst Library, New York University, New York.</p>
-      <p>Students For A Democratic Society (SDS) Records 1934-1966. Tamiment Library/Wagner Labor Archives, Bobst Library, New York University, New York.</p>
-      <p>Students for A Democratic Society: Alternative Education Project, Radical America.</p>
-      <p>Unger, Irwin. <emph render="italic">The Movement: A History of the American New Left, 1955-1977</emph>.</p>
-      <p>University Christian Foundation Records, 1906-1980. New York University Archives, Bobst Library, New York University, New York.</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_3b2a1bd22afcea92925d0f9b5db4c9a5">
-      <head>Scope and Contents</head>
-      <p>The John G. Mason Papers are a personal collection of records that document NYU student activity and the student movement. The collection is the result of selective recordkeeping on the part of the collection's creator and donor. Mason was an active or ex-officio member of many of NYU's student organizations during the late 1960s. As a result, several students and faculty members entrusted him with their materials regarding this period. The collection covers the period 1962-1978, although the bulk of the materials are concentrated upon the period from 1965 through 1971. It is also important to note that while there are some materials from the University Heights campus in the collection, the bulk of the material is from the Washington Square campus.</p>
-      <p>The primary collection materials include: leaflets, organizational position papers, flyers, posters, handbills, public-relations pamphlets, university and student publications, newsletters, newspapers, analytical, financial, and strategic documents, and multiple analyses of the university's structure, officers, trustees, financial activity, professoriate, and curriculum. The collection also includes ephemera such as buttons and organizational membership cards. Included as well is 16mm film footage of a student and faculty protest against Dow Chemical Corporation recruiters on campus. This footage was filmed by NYU Campus Security. These materials exist as manuscript, typescript, mimeographic reproduction, printed matter and freehand drawings.</p>
-    </scopecontent>
-    <bioghist id="aspace_a206621a76f738611b7a50f897f2e637">
-      <head>Biographical Note</head>
-      <p>A member of the interdepartmental Albert Schweitzer Program in the Humanities for undergraduates at New York University, John G. Mason was active in the Students for a Democratic Society and other university student organizations of the 1960s-1970s. Like many other students of the period, Mason was involved in organizations which were funded and/or organized by the university, and also in organizations which were external to the university and self-funded.</p>
-      <p>Mason was strongly affected by his matriculation in the Schweitzer Program, which was established by New York State in 1965 and given an endowed chair. The Schweitzer Program was led by Dr. Conor Cruise O'Brien from 1965-1969. Dr. O'Brien, a Left-opposition politician in the Republic of Ireland (Eire), and a longtime contributing editor to the <emph render="italic">Atlantic Monthly</emph>, had a significant intellectual influence upon Mason and other members of his student leadership cohort (see the general history of NYU contained within the collection).</p>
-      <p>In his collected correspondence Mason also attributed a portion of his political views to his experiences in Paris, France, which he visited in 1968 in the aftermath of the "Paris Commune" and the national students' strike, which strongly affected French educational policy through the mid-1970's.</p>
-      <p>After his involvement with NYU and the student movement as an undergraduate, Mason went on to get a M.A. from NYU's Politics Department and then a Ph.D. from CUNY.</p>
-    </bioghist>
-    <processinfo id="aspace_380dfb47e5b475ff9c7e09b2c4e26b89">
-      <head>Processing Information</head>
-      <p>For conservation purposes oversize posters have been stored in flat file cases, newspapers have been copied and removed (some to the Tamiment/Wagner collections), non-annotated University publications have been discarded or separated to the general collection of University publications, and fragile materials have been copied. All photocopies have been made onto acid-free paper, and the collection has been processed in accordance with the NYU Archives' standard rules arrangement and description, and disposition.</p>
-      <p>The following newspapers were discarded from the collection:</p>
-      <p>Columbia Daily Spectator: March 23, 1970</p>
-      <p>New Left Notes: Vol. 2 No. 34, October 2, 1967; Vol. 3 No. 3, January 22, 1968</p>
-      <p>New Mobilizer: No. 3, October 8, 1970</p>
-      <p>NYU Alumni News: May 1974</p>
-      <p>The Ticker: April 14, 1970; November 18, 1970; December 9, 1970; September 20, 1971</p>
-      <p>Washington Square Journal: November 7, 1968; December 18, 1968, March 9, 1970; April 7, 1970; April 9, 1970; April 13, 1970; April 15, 1970; April 20, 1970; April 21, 1970; April 29, 1970; April 30, 1970; May 4, 1970; November 16, 1970</p>
-      <p>The Anti War Conference poster (1971) was reintegrated into the collection in November 2018.</p>
-    </processinfo>
-    <prefercite id="aspace_ee66c8e1e9a6226b3991411737baa0a6">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: Identification of item, date (if known); John G. Mason Papers; MC 88; box number; folder number; New York University Archives, New York University Libraries.</p>
-    </prefercite>
-    <userestrict id="aspace_1ae9d17c467de668913003be41f6671e">
-      <head>Use Restrictions</head>
-      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Please contact New York University Archives, (212) 998-2641, university-archives@nyu.edu.</p>
-    </userestrict>
-    <accessrestrict id="aspace_3a927118b30f301e10bccbc0ddc35787">
-      <head>Access Restrictions</head>
-      <p>Repository permission is required for access. Please contact New York University Archives, (212) 998-2641, university-archives@nyu.edu</p>
-    </accessrestrict>
-    <custodhist id="aspace_5ff89ffe619fbe2967601d78fbb4d17d">
-      <head>Provenance</head>
-      <p>The John G. Mason papers are a personal collection of records of NYU student activity and the student movement. John G. Mason personally arranged the collection and titled the folders. The collection is the result of selective recordkeeping and possibly selective culling.</p>
-      <p>The collection was partially accessioned by the University Archives in early 1978. Additional material was accessioned throughout 1978.</p>
-    </custodhist>
-    <controlaccess>
-      <genreform source="aat">Leaflets (printed works)</genreform>
-      <genreform source="aat">Fliers (printed matter)</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <subject source="lcsh">Civil rights movements -- United States.</subject>
-      <subject source="lcsh">Radicals -- New York (State) -- New York.</subject>
-      <subject source="lcsh">Students -- Political activity</subject>
-      <genreform source="aat">Newspapers.</genreform>
-      <subject source="lcsh">Student movements |z France.</subject>
-      <subject source="lcsh">Student movements -- New York (N.Y.)</subject>
-      <genreform source="aat">Newsletters.</genreform>
-      <subject source="local">Vietnamese Conflict, 1961-1975. -- Protest movements</subject>
-      <subject source="lcsh">Student-administrator relationships.</subject>
-      <genreform source="aat">Buttons (information artifacts).</genreform>
-      <genreform source="aat">Posters.</genreform>
-      <genreform source="aat">Financial records</genreform>
-      <genreform source="aat">Drawings (visual works)</genreform>
-      <genreform source="aat">Film.</genreform>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <genreform source="aat">Motion pictures (visual works)</genreform>
-      <genreform source="aat">Diaries</genreform>
-      <genreform source="aat">Publications (documents)</genreform>
-      <genreform source="aat">Membership cards.</genreform>
-      <corpname source="naf">Black Panther Party</corpname>
-      <persname rules="aacr" source="naf">O'Brien, Conor Cruise, 1917-2008</persname>
-      <corpname source="naf">New University Conference (U.S.)</corpname>
-      <persname source="naf">Mason, John, 1948</persname>
-      <corpname source="naf">New York University</corpname>
-      <persname source="naf">Nguyễn, Huệ Chi</persname>
-      <corpname source="naf">Peace and Freedom Party (U.S.)</corpname>
-      <persname rules="dacs" source="local">Reston, James, 1946-</persname>
-      <corpname source="naf">Students for a Democratic Society (U.S.)</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref20" level="series">
-        <did>
-          <unittitle>Series I: Historical Overviews, Personal Papers and Ephemera</unittitle>
-          <unitdate datechar="creation" normal="1969/1977" type="inclusive">1969-1977</unitdate>
-        </did>
-        <scopecontent id="aspace_58e0161f12b1b18dd23ebe594afe2c5b">
-          <head>Scope and Contents note</head>
-          <p>Arranged chronologically but preceded by Mason's graphical map of NYU student organizations (1963-1978), and a general history of the 1960s and 1970s at NYU co-authored by Mason. Series I includes various membership cards, buttons, and ephemera.</p>
-        </scopecontent>
-        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>General History and Information</unittitle>
-            <unitdate datechar="creation" normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e946879f27818d81f22043cab4a7d6d3" label="Mixed Materials [31142062999068]" type="Box">1</container>
-            <container id="aspace_41bfec9f8700507b6b154c4a24c5e8a1" parent="aspace_e946879f27818d81f22043cab4a7d6d3" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Buttons &amp; Organization Membership Cards</unittitle>
-            <unitdate datechar="creation">[196-] - [197-]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9b318c3c7f9b344c7e45a19046880827" label="Mixed Materials [31142062999068]" type="Box">1</container>
-            <container id="aspace_39904819df40b199528ced077ee9159f" parent="aspace_9b318c3c7f9b344c7e45a19046880827" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Untitled: notes poster collection location</unittitle>
-            <container altrender="Manuscript box - Legal" id="aspace_f55feb1fe6aec158c630790dfca757ad" label="Mixed Materials [31142062999068]" type="Box">1</container>
-            <container id="aspace_201cc2e2e7e6ca8fd6883a3096687953" parent="aspace_f55feb1fe6aec158c630790dfca757ad" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Mason Correspondence &amp; Diary</unittitle>
-            <unitdate datechar="creation" normal="1969/1973" type="inclusive">1969-1973</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7afef2cdeda7b5335ed4c7309e61890c" label="Mixed Materials [31142062999068]" type="Box">1</container>
-            <container id="aspace_41167b3733c562ac64888af9c194c804" parent="aspace_7afef2cdeda7b5335ed4c7309e61890c" type="Folder">4</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref27" level="series">
-        <did>
-          <unittitle>Series II: SDS Material, Chi-Reston Papers, SDS "Successors"</unittitle>
-          <unitdate datechar="creation" normal="1962/1974" type="inclusive">1962-1974</unitdate>
-        </did>
-        <scopecontent id="aspace_dd5d1e55bb27a2ff4bac9a128630e8f2">
-          <head>Scope and Contents note</head>
-          <p>Series II contains records regarding the creation of the Students for a Democratic Society (SDS) at NYU, materials on the SDS's Radical Education Project at NYU, records from both the student and administration's viewpoints regarding the SDS-led demonstration against Ambassador Chi and James Reston's pro-Vietnam War presentations, and materials on what Mason termed "SDS successor" organizations.</p>
-        </scopecontent>
-        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>SDS Period #1: Regional &amp; NYU Chapter</unittitle>
-            <unitdate datechar="creation" normal="1962/1966" type="inclusive">1962-1966</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7ae18b87ea2fb880763830a9808c6942" label="Mixed Materials [31142062999068]" type="Box">1</container>
-            <container id="aspace_122796241f4ef034034d327f9c4ac2be" parent="aspace_7ae18b87ea2fb880763830a9808c6942" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>SDS Period #1: Regional &amp; NYU Chapter</unittitle>
-            <unitdate datechar="creation" normal="1962/1966" type="inclusive">1962-1966</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5cba054f13bf6da399b016bdf39805d0" label="Mixed Materials [31142062999068]" type="Box">1</container>
-            <container id="aspace_5152ab5ae9f72640ce257741252f3daf" parent="aspace_5cba054f13bf6da399b016bdf39805d0" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>SDS Period #2: Regional &amp; NYU Chapter</unittitle>
-            <unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f9a544b79c407e62bc2ee32429025184" label="Mixed Materials [31142062999068]" type="Box">1</container>
-            <container id="aspace_a9adbdb144c5d5fd9211de72a5f120dc" parent="aspace_f9a544b79c407e62bc2ee32429025184" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>SDS Period #2: Regional &amp; NYU Chapter</unittitle>
-            <unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e033834d3188afd170d140197fbc003f" label="Mixed Materials [31142062999068]" type="Box">1</container>
-            <container id="aspace_d202bab1925c83fa4be34b0dd717a7c0" parent="aspace_e033834d3188afd170d140197fbc003f" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>SDS Radical Education Project:</unittitle>
-            <unitdate datechar="creation" normal="1965/1967" type="inclusive">1965-1967</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1e505888c6a04d304f597a35591ed0c1" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_66025b228fc4692b7bf70928726874d7" parent="aspace_1e505888c6a04d304f597a35591ed0c1" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Account of Chi-Reston Demonstration</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">[1970]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d8a6a3785818ee77d48e0bc03907133e" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_635c9d9a04d196baac80cbb55d859c8d" parent="aspace_d8a6a3785818ee77d48e0bc03907133e" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NYU Administration Response to Chi-Reston Demonstration and Aftermath</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7ac9118ffd3a484af2cd7deba6a247f6" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_fc69a436cbefc125683eca0d2734ace3" parent="aspace_7ac9118ffd3a484af2cd7deba6a247f6" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>SDS Successor Organizations</unittitle>
-            <unitdate datechar="creation" normal="1970/1974" type="inclusive">1970-1974</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_95c670d9f813d6410fcdeaba0c8fb526" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_155c2508534122a5082aaf80ef440daf" parent="aspace_95c670d9f813d6410fcdeaba0c8fb526" type="Folder">4</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref38" level="series">
-        <did>
-          <unittitle>Series III: New York University (NYU) Student Organization Activity</unittitle>
-          <unitdate datechar="creation" normal="1965/1975" type="inclusive">1965-1975</unitdate>
-        </did>
-        <scopecontent id="aspace_072e7740499fe649dab7679c973f3afd">
-          <head>Scope and Contents note</head>
-          <p>Series III contains various student publications from the Washington Square campus during 1968-1975, some records from the New Student Union of 1965 and, in general, a group of records from the Weinstein Residence Hall, Washington Square Campus-All Square Congress, Faculty of Arts and Sciences-Graduate Students Organization, and the NYU Student President's Conference.</p>
-        </scopecontent>
-        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New Student Union-New York University</unittitle>
-            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_191d9bd19c45a170d59df66d0d208053" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_773f92da43668d93ef3362e4216c7be0" parent="aspace_191d9bd19c45a170d59df66d0d208053" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Weinstein Residence &amp; Library Materials</unittitle>
-            <unitdate datechar="creation" normal="1965/1969" type="inclusive">1965-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4fd309a5340fb0f06b69afc16e8d9f20" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_2324c17ffe4e6ee32855ddc498946961" parent="aspace_4fd309a5340fb0f06b69afc16e8d9f20" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>All Square Congress-New York University</unittitle>
-            <unitdate datechar="creation" normal="1966/1969" type="inclusive">1966-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5f8355a79bc30400aa58c56cd34356e0" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_d920614b2822ee05736c623897ef1fe7" parent="aspace_5f8355a79bc30400aa58c56cd34356e0" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Graduate Student Organization Politics</unittitle>
-            <unitdate datechar="creation">1967-1972*</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_949d7bed1f9618323191af781f679210" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_e30370b3d6b4ad822f32d617c98d9f1a" parent="aspace_949d7bed1f9618323191af781f679210" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NYU Student President's Conference: Proposal for a more Democratic University</unittitle>
-            <unitdate datechar="creation">1968</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e4e8fe424b5c7934d8398cbed4a2178c" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_380974abedd47f393d40b704a2f40d4b" parent="aspace_e4e8fe424b5c7934d8398cbed4a2178c" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Vietnam Moratorium Duplicates: Graduate Student Organization, School of Education</unittitle>
-            <unitdate datechar="creation">??</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_38f3ed716fab4bf36b213670f23d22fa" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_b41d0ec574791fe5d8af65ca27e8ee9c" parent="aspace_38f3ed716fab4bf36b213670f23d22fa" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Homer Watt Lecture: The Writer &amp; the Power Structure</unittitle>
-            <unitdate datechar="creation">1966</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ec050bff11a7d27bc7ebc993a4a5449c" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_acc350a40ce92ced65b3a039cec2bd62" parent="aspace_ec050bff11a7d27bc7ebc993a4a5449c" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Various Student Publications</unittitle>
-            <unitdate datechar="creation">1968-1975</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_107f82bc73abdb7e663b57db38d767f6" label="Mixed Materials [31142062999076]" type="Box">2</container>
-            <container id="aspace_7b6c703dd34046a670cf0d4edb7c2b05" parent="aspace_107f82bc73abdb7e663b57db38d767f6" type="Folder">12</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref49" level="series">
-        <did>
-          <unittitle>Series IV: New University Conference (NUC) Materials</unittitle>
-          <unitdate datechar="creation" normal="1968/1975" type="inclusive">1968-1975</unitdate>
-        </did>
-        <scopecontent id="aspace_ed76d4c8b7f401897609bec9d05eb6f5">
-          <head>Scope and Contents note</head>
-          <p>Series IV deals with the New University Conference (NUC), an Ann Arbor-based and socialist-influenced organization which was led primarily by faculty. Students active in the Anti-War Movement also played a significant role in the organization. NUC-NYU's activities fully reflected the national organization's concerns with providing leftist education alternatives for undergraduate and graduate students. Some of the NUC-NYU projects documented in this series are: the publication of NYU Inc., a financial and social analysis of NYU's Trustees Council, endowment investments, Law School, and financial ties to war contractors and the South African government; the early research for and support of the "University Without Walls" program at Washington Square, and involvement in the creation of the Metropolitan Studies Program; and finally, the Ivan Bennett Affair, to name only a few of the more prominent examples of NUC's activities.</p>
-        </scopecontent>
-        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC: National &amp; Regional Materials I</unittitle>
-            <unitdate datechar="creation">1968-1971</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a6770d0842e3430b0c7d6d178abb3611" label="Mixed Materials [31142062999084]" type="Box">3</container>
-            <container id="aspace_5b18ae773f4fa72ff16f40bfb58fc36f" parent="aspace_a6770d0842e3430b0c7d6d178abb3611" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC: National &amp; Regional Materials I</unittitle>
-            <unitdate datechar="creation">1968-1971</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_195985f214d2e65dbe96798d7b568083" label="Mixed Materials [31142062999084]" type="Box">3</container>
-            <container id="aspace_bcdfe8b29131ce5eb8c8b0b1662f237e" parent="aspace_195985f214d2e65dbe96798d7b568083" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC: National &amp; Regional Materials II</unittitle>
-            <unitdate datechar="creation">1971</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_dae4736b1333e585c4b51e10faf4e408" label="Mixed Materials [31142062999084]" type="Box">3</container>
-            <container id="aspace_4a5c03dce728d86de6374d290ef77f40" parent="aspace_dae4736b1333e585c4b51e10faf4e408" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC: N.Y.U Chapter (NUC-NYU)</unittitle>
-            <unitdate datechar="creation">1968-1974</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2012cc85eb61b4b3577b69da26ed2636" label="Mixed Materials [31142062999084]" type="Box">3</container>
-            <container id="aspace_566de265d9de4af506cd5e8471e37884" parent="aspace_2012cc85eb61b4b3577b69da26ed2636" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC-NYU: Ivan Bennett Affair Papers</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a65c4e2992f719eb2f25ee9330e98240" label="Mixed Materials [31142062999084]" type="Box">3</container>
-            <container id="aspace_ea66afc23c4ea290608d0324d3c78621" parent="aspace_a65c4e2992f719eb2f25ee9330e98240" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC-NYU: Raw Data for NYU Inc. I</unittitle>
-            <unitdate datechar="creation" normal="1963/1978" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_68f99aa9bd1b037e4204c789cdb31b0e" label="Mixed Materials [31142062999084]" type="Box">3</container>
-            <container id="aspace_690c812da8f0ea452bf610e66b41cd27" parent="aspace_68f99aa9bd1b037e4204c789cdb31b0e" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC-NYU: Raw Data for N.U.U. Inc. II</unittitle>
-            <unitdate datechar="creation" normal="1963/1978" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3efa530ffcfc85acc4b4a2c3abc9743a" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_883e5435316d14c9c67187501d6d5f69" parent="aspace_3efa530ffcfc85acc4b4a2c3abc9743a" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC-NYU: Radical History Caucus</unittitle>
-            <unitdate datechar="creation">1971</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3d5db3f69c744169401a3ccce4e5a26b" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_e4c4d3b23ed53365a5c174e5689dc5e2" parent="aspace_3d5db3f69c744169401a3ccce4e5a26b" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC-NYU: Study Group</unittitle>
-            <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4efc0a9730d43d4f1d1bfb015b723706" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_6317dbab027a3ef1cb4a86a91642cb64" parent="aspace_4efc0a9730d43d4f1d1bfb015b723706" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NYU Center for Marxist Studies</unittitle>
-            <unitdate datechar="creation" normal="1975/1978" type="inclusive">1975-1978</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_121f74372bbfcede4e3eee91da376fd1" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_43b045230912a68a426b13fa0d95e058" parent="aspace_121f74372bbfcede4e3eee91da376fd1" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC Newsletters</unittitle>
-            <unitdate datechar="creation" normal="1969/1971" type="inclusive">1969-1971</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2b9e5006aa6d919fedb3bc8fa34a9d56" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_254afcf481fe72df0bf96ccb6583cb9e" parent="aspace_2b9e5006aa6d919fedb3bc8fa34a9d56" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NYU President's Urban Studies Report and Early Metropolitan Studies Program</unittitle>
-            <unitdate datechar="creation" normal="1969/1971" type="inclusive">1969-1971</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fbe60d05e1d354bcf5e3bafa71dd95ab" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_0a17579b6be6c3462a2247baa2a8f8fb" parent="aspace_fbe60d05e1d354bcf5e3bafa71dd95ab" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NYU Inc.: Posters Advertising Sale</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_dd72b603e26ead330c967f5c1cb22b69" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_fcf4178b5aeb6c3ee6f2e1250a66b648" parent="aspace_dd72b603e26ead330c967f5c1cb22b69" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>American Political Science Association Reprint from APSA Newsletter vol. II</unittitle>
-            <unitdate datechar="creation" normal="1969/1974" type="inclusive">1969, 1972-1974</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_52df169d5aa74141eb2c2c2933c679f5" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_4bb1e44d9ab033761733a3ba57416083" parent="aspace_52df169d5aa74141eb2c2c2933c679f5" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NUC &amp; Strike Coordinating Committee Materials</unittitle>
-            <unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f2665823816048237d133e731d2aebed" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_db861aa7a5b3f78b7b43fcfbf15d603a" parent="aspace_f2665823816048237d133e731d2aebed" type="Folder">9</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref67" level="series">
-        <did>
-          <unittitle>Series V: Library and Cafeteria Workers--National Students' Strike of 1970</unittitle>
-          <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
-        </did>
-        <scopecontent id="aspace_5bcdfd705d1f8d08acdae2234ee0cf80">
-          <head>Scope and Contents note</head>
-          <p>This series includes materials from the Library and Cafeteria Workers strike committees, records from the faculty-student strike coordinating committee for the academic side of the university, the participating departments, the coordinating committees of the buildings which students seized and occupied, and finally, a collection of student analyses of the strike which were written for Professor Fleming's class in the Politics Department. For an analysis of these events which is based primarily upon the records of the Cafeteria and Library workers' union local, and upon oral histories, see Peter Miller's video "Violets on the Picket Line." The video, as well as a research paper, are available for use at the Public History Program office in the NYU Department of History, 19 University Place, Fifth floor. Both the video and the paper are scheduled for accession by the University Archives.</p>
-        </scopecontent>
-        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Library &amp; Cafeteria Workers Strike</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_765abe1573e277b89423118a33dc4b1a" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_31d42e5d75c80a289f9aed262be2d9db" parent="aspace_765abe1573e277b89423118a33dc4b1a" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Worker--Student--University Issues</unittitle>
-            <unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b2451d59b64b6b3a08cfb2f9082cf156" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_4ee74225b1939f732e1621801ff04d52" parent="aspace_b2451d59b64b6b3a08cfb2f9082cf156" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike at NYU Diaries and Comments</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4757e722392a2f4b6be3b8230d18360c" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_c59fb72656a34a02a7fe6d4394efacda" parent="aspace_4757e722392a2f4b6be3b8230d18360c" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: Flyers, Demands, News and Newspaper</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1d4afe6a29494be29d9361194980cc41" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_bb29202dd3d1f079284537456c63ebc2" parent="aspace_1d4afe6a29494be29d9361194980cc41" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: Courant</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6a28749cd75d16b437e58860d57c47f4" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_b6782c4ab23728affbf1967ba9cc4dcc" parent="aspace_6a28749cd75d16b437e58860d57c47f4" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: N.Y.U Movement for a New Congress</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_607d283c85d2f218a720469cc94a18a0" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_4ed2c3a5687d66d2eacbe2749f94e944" parent="aspace_607d283c85d2f218a720469cc94a18a0" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: NYU Politics Department</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6e7cc2ba93d5919fab516655000e8142" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_8c1975d55c8a2ba2f9eb21adc7110102" parent="aspace_6e7cc2ba93d5919fab516655000e8142" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: NYU Psychology Department</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_00327d83d5bda6ca3c65ec3f7181bd1b" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_9917cb32153392850de8c84ceeab3f30" parent="aspace_00327d83d5bda6ca3c65ec3f7181bd1b" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: NYU Strike Coordinating Committee</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_728be4af2081b1c4976fa69d0f0ccec6" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_03c635ce3c3e586012b1111b18a5deaf" parent="aspace_728be4af2081b1c4976fa69d0f0ccec6" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: Kimball</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_57104aa2484d133cd834d267c0f8b403" label="Mixed Materials [31142062999092]" type="Box">4</container>
-            <container id="aspace_86bc48af22d726180e3432b338a9f3c1" parent="aspace_57104aa2484d133cd834d267c0f8b403" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Collective &amp; Transcendental Students</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_06d261974c46345a9e985bf43b265035" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_499b6f3dd49e60a64b23a55734c2e2ca" parent="aspace_06d261974c46345a9e985bf43b265035" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: Various Other NYU Groups and Departments</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7642fb604e1c20392fe01bd776ec2ab2" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_0f0cb3386084b9de909e5cf9a328a6b3" parent="aspace_7642fb604e1c20392fe01bd776ec2ab2" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: Various Strike Related Documents</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e1d4fb1a8dadea36484b6ddc4e93573f" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_fa4c991be158b15e2b0bef226bd2d084" parent="aspace_e1d4fb1a8dadea36484b6ddc4e93573f" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: General Press Releases and Publications</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_723791c2333a8c8947b6e3aa31424e03" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_a9e9cca1a93604fe384b6ba4ae7d2e68" parent="aspace_723791c2333a8c8947b6e3aa31424e03" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: Strike Issues of NYU Newspapers</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_db55370f8a1781a60e0f41cad439a60a" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_a38ac8a2000892a5544442d01d20b8f2" parent="aspace_db55370f8a1781a60e0f41cad439a60a" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: External Publications, Strike Issues</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_62e146c4f7d806cf2b4d1ee8b6b0c11f" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_f32d31971424ec7885c0655230ffd426" parent="aspace_62e146c4f7d806cf2b4d1ee8b6b0c11f" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>National Students Strike: Professor Fleming's Guide and Student Analyses</unittitle>
-            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f8b98b4b80de84b068388952d8e0a940" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_48a3c7f3ce288f50f8fc3d8cce845b0e" parent="aspace_f8b98b4b80de84b068388952d8e0a940" type="Folder">7</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref87" level="series">
-        <did>
-          <unittitle>Series VI: NYU Administrative Documents</unittitle>
-          <unitdate datechar="creation" normal="1964/1975" type="inclusive">1964-1975</unitdate>
-        </did>
-        <scopecontent id="aspace_8d50456658cd5875512e903c14f093c4">
-          <head>Scope and Contents note</head>
-          <p>This series contains three different classes of records which have been arranged chronologically by class: 1) those reports and press releases which indicated NYU's efforts to deal with specific problems in its student body that had been created by demographics, politics, economic circumstances, etc. (folder 49); 2) materials which presented NYU's long-range plans to the wider university community and the general public, and those internal reports and bulletins that fulfill the same purpose on a day to day level (folders 50-51); and finally, 3) a surveillance film from Campus Security which depicted a student-faculty demonstration in 1968, whose focus was the appearance of and pro-war speeches on campus by Ambassador Chi and James Reston (folder 52).</p>
-        </scopecontent>
-        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>The University Viewpoint</unittitle>
-            <unitdate datechar="creation" normal="1968/1972" type="inclusive">1968-1972</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b0d7433f5eb78146b2b331de8ffa8e0c" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_550c822ba7e8e16a6dda0fe55223f9a0" parent="aspace_b0d7433f5eb78146b2b331de8ffa8e0c" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NYU Capital Program</unittitle>
-            <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8fad33bd23c4517f5f583dac59ad586c" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_92bae033892170d848f2eb0328a1f90f" parent="aspace_8fad33bd23c4517f5f583dac59ad586c" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>University Reports &amp; Bulletins</unittitle>
-            <unitdate datechar="creation" normal="1969/1975" type="inclusive">1969-1975</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9c42f4ae96720813ba627eea7d496dd5" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_03e03ca69fed7a00687a4a4cb4907950" parent="aspace_9c42f4ae96720813ba627eea7d496dd5" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>NYU Surveillance Film of 3/6/68 Dow Chemical Demonstration</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_68cd99e2caed66772624fbd61e285671" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_ac99f275fb514e360a01b0738553f7a8" parent="aspace_68cd99e2caed66772624fbd61e285671" type="Folder">11</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref94" level="series">
-        <did>
-          <unittitle>Series VII: Student Movement Organizations</unittitle>
-          <unitdate datechar="creation" normal="1967/1971" type="inclusive">1967-1971</unitdate>
-        </did>
-        <scopecontent id="aspace_ec99b0d013895d08912c6a264d291d38">
-          <head>Scope and Contents note</head>
-          <p>Arranged chronologically by organization. These student groups arose out of the opposition to the Vietnam War, and included within their membership both students and non-university members.</p>
-        </scopecontent>
-        <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Peace and Freedom Party Materials</unittitle>
-            <unitdate datechar="creation" normal="1967/1970" type="inclusive">1967-1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_05c73e64cf2088255219e5fedc72fd84" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_8a6ec3b47cfa67ba6d0a25f5ebc9fb63" parent="aspace_05c73e64cf2088255219e5fedc72fd84" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Campus Voice--Committee to End the War in Vietnam Materials</unittitle>
-            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e1b465c3e6a4c483dd7d1409f635e8b6" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_d77f7c0d9d271bfdb4cce6a7d3c9467d" parent="aspace_e1b465c3e6a4c483dd7d1409f635e8b6" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>International Socialists: Regional Materials</unittitle>
-            <unitdate datechar="creation" normal="1968/1970" type="inclusive">1968-1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fe8d169aa4876401aa254d58186f01ce" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_53ac07148ee21433c304c0dde58da2a3" parent="aspace_fe8d169aa4876401aa254d58186f01ce" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Black Student Activities: NYU</unittitle>
-            <unitdate datechar="creation" normal="1968/1970" type="inclusive">1968-1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_54541fbf4e5ee7f7477a8a0aec3dbd16" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_67b60019014f9f71d3a45d53b808ea20" parent="aspace_54541fbf4e5ee7f7477a8a0aec3dbd16" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Black Panther Defense Materials</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_65cf363c9360090c16b110c2fb0f4c4e" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_5dcca19404a2d95ea145e8f51d32f8f8" parent="aspace_65cf363c9360090c16b110c2fb0f4c4e" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Gay Liberation Material</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d5528916bf279825951677c8afcc5139" label="Mixed Materials [31142062999100]" type="Box">5</container>
-            <container id="aspace_7f07f35a27f5b7eaeeed7dc19336bc16" parent="aspace_d5528916bf279825951677c8afcc5139" type="Folder">17</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref103" level="series">
-        <did>
-          <unittitle>Series VIII: Student Organization Posters</unittitle>
-          <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
-        </did>
-        <scopecontent id="aspace_b09492acc4e24269dc1183958f6fe7ac">
-          <head>Scope and Contents note</head>
-          <p>This series contains one Anti War Conference Poster dated 1971. Other posters (dated 1962-1978) in this collection have been separated to the University Archives' Poster Collection.</p>
-        </scopecontent>
-        <c id="aspace_d7cbc72656891fe49707644c934cc3dc" level="file">
-          <did>
-            <unittitle>Anti War Conference Poster</unittitle>
-            <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
-            <container altrender="Flat OS Box - 16.5" id="aspace_abc2cf96800990daac700557ee6f9337" label="Mixed Materials [31142046561893]" type="Box">Shared University Archives 004</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_88">mc_88</eadid><filedesc><titlestmt><titleproper>Guide to the Papers of John G. Mason <num>MC.88</num></titleproper><author>Peter Braunstein.</author></titlestmt><editionstmt><p>This version was derived from mason02KS.xml</p></editionstmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:38:54 -0500</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc><revisiondesc><change><date>June 2018</date><item>Finding aid revised by John Zarrillo</item></change><change><date>November 2018</date><item>Anti War Poster reintegrated into the collection by John Zarrillo</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>John G. Mason Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Mason, John G.</persname>
+    </origination>
+    <unitid>MC.88</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.75 Linear Feet</extent>
+      <extent altrender="carrier">in 5 manuscript boxes and 1 flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1963/1978" type="inclusive">1963-1978</unitdate>
+    <abstract id="aspace_c8305acee52055b365db6c8e734f0a30" label="Abstract">The John G. Mason Collection contain various records from many of the student and student faculty organizations active at NYU during the years 1962 to 1978. The primary focus of this collection is student and faculty opposition to the Vietnam War between the years 1965 and 1971. The records include organizational position papers, flyers, and posters. These materials are a representative sample of information on student activity and do not contain comprehensive documentation of all student groups.</abstract>
+    <langmaterial id="aspace_a073e582ccc8d4cbc98da9464be7a381">Materials are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_9f76a2a2a6d9b0ffac1f17f8eb272997">
+    <head>Arrangement</head>
+<p>Although the original order was noted and recorded, the collection has been reorganized so that the series are arranged chronologically by content (except where specially noted as exceptions), with the aim of facilitating research access. The collection consists of eight series, seven of which are boxed together; one of which is stored in the flat files. </p><p>The collection has been organized into eight series:</p>    <list type="ordered">
+      <item>Historical Overviews, Personal Papers and Ephemera</item>
+      <item>SDS Material, Chi-Reston Papers, SDS "Successors"</item>
+      <item>New York University (NYU) Student Organization Activity</item>
+      <item>New University Conference (NUC) Materials</item>
+      <item>Library and Cafeteria Workers--National Students' Strike of 1970</item>
+      <item>NYU Administrative Documents</item>
+      <item>Student Movement Organizations</item>
+      <item>Student Organization Posters</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_59578bbb5ea0a51e9090021c362b2bcd">
+    <head>Related Material at the New York University Archives         </head>
+<p>Other materials on the SDS, NYU student involvement, the Anti-War Movement, NYU's transformation of the 1960s and 1970s are contained within the University Archives, the Tamiment/Wagner Archives, and NYU's Bobst Library. A short list of the collateral sources would include:</p><p>Chancellor Heald's Administrative and Personal Papers Collection. New York University Archives, Bobst Library, New York University, New York.</p><p>Chancellor Hester's Administrative and Personal Papers Collection. New York University Archives, Bobst Library, New York University, New York.</p><p>Chancellor Sawhill's Administrative and Personal papers Collection. New York University Archives, Bobst Library, New York University, New York.</p><p>Minutes of the New York University Trustee Council, 1962-1976. New York University Archives, Bobst Library, New York University, New York.</p><p>Miller, Peter. "Violets on the Picket Line," Public History Records, NYU History Department, New York City, New York.</p><p>Myers, David R. <emph render="italic">Toward A History of the New Left: Essays From Within The Movement</emph>.</p><p>Photographic Records of Student Protests 1962-1978, New York University Archives Photographic Collection. University Archives, Bobst Library, New York University, New York.</p><p>Reports of the Chancellors of New York University, 1962-1976. New York University Archives, Bobst Library, New York University, New York.</p><p>Reports of the Secretary of New York University, 1962-1976. New York University Archives, Bobst Library, New York University, New York.</p><p>Reports of the Treasurer of New York University, 1962-1976. New York University Archives, Bobst Library, New York University, New York.</p><p>Still, Bayrd. Administrative Papers and Personal Records. New York University Archives, Bobst Library, New York University, New York.</p><p>Students For A Democratic Society (SDS) Records 1934-1966. Tamiment Library/Wagner Labor Archives, Bobst Library, New York University, New York.</p><p>Students for A Democratic Society: Alternative Education Project, Radical America.</p><p>Unger, Irwin. <emph render="italic">The Movement: A History of the American New Left, 1955-1977</emph>.</p><p>University Christian Foundation Records, 1906-1980. New York University Archives, Bobst Library, New York University, New York.</p>  </relatedmaterial>
+  <scopecontent id="aspace_3b2a1bd22afcea92925d0f9b5db4c9a5">
+    <head>Scope and Contents</head>
+<p>The John G. Mason Papers are a personal collection of records that document NYU student activity and the student movement. The collection is the result of selective recordkeeping on the part of the collection's creator and donor. Mason was an active or ex-officio member of many of NYU's student organizations during the late 1960s. As a result, several students and faculty members entrusted him with their materials regarding this period. The collection covers the period 1962-1978, although the bulk of the materials are concentrated upon the period from 1965 through 1971. It is also important to note that while there are some materials from the University Heights campus in the collection, the bulk of the material is from the Washington Square campus.</p><p>The primary collection materials include: leaflets, organizational position papers, flyers, posters, handbills, public-relations pamphlets, university and student publications, newsletters, newspapers, analytical, financial, and strategic documents, and multiple analyses of the university's structure, officers, trustees, financial activity, professoriate, and curriculum. The collection also includes ephemera such as buttons and organizational membership cards. Included as well is 16mm film footage of a student and faculty protest against Dow Chemical Corporation recruiters on campus. This footage was filmed by NYU Campus Security. These materials exist as manuscript, typescript, mimeographic reproduction, printed matter and freehand drawings.</p>  </scopecontent>
+  <bioghist id="aspace_a206621a76f738611b7a50f897f2e637">
+    <head>Biographical Note</head>
+<p>A member of the interdepartmental Albert Schweitzer Program in the Humanities for undergraduates at New York University, John G. Mason was active in the Students for a Democratic Society and other university student organizations of the 1960s-1970s. Like many other students of the period, Mason was involved in organizations which were funded and/or organized by the university, and also in organizations which were external to the university and self-funded.</p><p>Mason was strongly affected by his matriculation in the Schweitzer Program, which was established by New York State in 1965 and given an endowed chair. The Schweitzer Program was led by Dr. Conor Cruise O'Brien from 1965-1969. Dr. O'Brien, a Left-opposition politician in the Republic of Ireland (Eire), and a longtime contributing editor to the <emph render="italic">Atlantic Monthly</emph>, had a significant intellectual influence upon Mason and other members of his student leadership cohort (see the general history of NYU contained within the collection).</p><p>In his collected correspondence Mason also attributed a portion of his political views to his experiences in Paris, France, which he visited in 1968 in the aftermath of the "Paris Commune" and the national students' strike, which strongly affected French educational policy through the mid-1970's.</p><p>After his involvement with NYU and the student movement as an undergraduate, Mason went on to get a M.A. from NYU's Politics Department and then a Ph.D. from CUNY.</p>  </bioghist>
+  <processinfo id="aspace_380dfb47e5b475ff9c7e09b2c4e26b89">
+    <head>Processing Information</head>
+<p>For conservation purposes oversize posters have been stored in flat file cases, newspapers have been copied and removed (some to the Tamiment/Wagner collections), non-annotated University publications have been discarded or separated to the general collection of University publications, and fragile materials have been copied. All photocopies have been made onto acid-free paper, and the collection has been processed in accordance with the NYU Archives' standard rules arrangement and description, and disposition.</p><p>The following newspapers were discarded from the collection:</p><p>Columbia Daily Spectator: March 23, 1970</p><p>New Left Notes: Vol. 2 No. 34, October 2, 1967; Vol. 3 No. 3, January 22, 1968</p><p>New Mobilizer: No. 3, October 8, 1970</p><p>NYU Alumni News: May 1974</p><p>The Ticker: April 14, 1970; November 18, 1970; December 9, 1970; September 20, 1971</p><p>Washington Square Journal: November 7, 1968; December 18, 1968, March 9, 1970; April 7, 1970; April 9, 1970; April 13, 1970; April 15, 1970; April 20, 1970; April 21, 1970; April 29, 1970; April 30, 1970; May 4, 1970; November 16, 1970</p><p>The Anti War Conference poster (1971) was reintegrated into the collection in November 2018.</p>  </processinfo>
+  <prefercite id="aspace_ee66c8e1e9a6226b3991411737baa0a6">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: Identification of item, date (if known); John G. Mason Papers; MC 88; box number; folder number; New York University Archives, New York University Libraries.</p>  </prefercite>
+  <userestrict id="aspace_1ae9d17c467de668913003be41f6671e">
+    <head>Use Restrictions</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Please contact New York University Archives, (212) 998-2641, university-archives@nyu.edu.</p>  </userestrict>
+  <accessrestrict id="aspace_3a927118b30f301e10bccbc0ddc35787">
+    <head>Access Restrictions</head>
+<p>Repository permission is required for access. Please contact New York University Archives, (212) 998-2641, university-archives@nyu.edu</p>  </accessrestrict>
+  <custodhist id="aspace_5ff89ffe619fbe2967601d78fbb4d17d">
+    <head>Provenance</head>
+<p>The John G. Mason papers are a personal collection of records of NYU student activity and the student movement. John G. Mason personally arranged the collection and titled the folders. The collection is the result of selective recordkeeping and possibly selective culling.</p><p>The collection was partially accessioned by the University Archives in early 1978. Additional material was accessioned throughout 1978.</p>  </custodhist>
+  <controlaccess>
+    <genreform source="aat">Leaflets (printed works)</genreform>
+    <genreform source="aat">Fliers (printed matter)</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Civil rights movements -- United States.</subject>
+    <subject source="lcsh">Radicals -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Students -- Political activity</subject>
+    <genreform source="aat">Newspapers.</genreform>
+    <subject source="lcsh">Student movements |z France.</subject>
+    <subject source="lcsh">Student movements -- New York (N.Y.)</subject>
+    <genreform source="aat">Newsletters.</genreform>
+    <subject source="local">Vietnamese Conflict, 1961-1975. -- Protest movements</subject>
+    <subject source="lcsh">Student-administrator relationships.</subject>
+    <genreform source="aat">Buttons (information artifacts).</genreform>
+    <genreform source="aat">Posters.</genreform>
+    <genreform source="aat">Financial records</genreform>
+    <genreform source="aat">Drawings (visual works)</genreform>
+    <genreform source="aat">Film.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Motion pictures (visual works)</genreform>
+    <genreform source="aat">Diaries</genreform>
+    <genreform source="aat">Publications (documents)</genreform>
+    <genreform source="aat">Membership cards.</genreform>
+    <corpname authfilenumber="(lccn)n80095585" source="naf">Black Panther Party</corpname>
+    <persname rules="aacr" source="naf">O'Brien, Conor Cruise, 1917-2008</persname>
+    <corpname authfilenumber="(lccn)n87889891" source="naf">New University Conference (U.S.)</corpname>
+    <persname source="naf">Mason, John, 1948</persname>
+    <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
+    <persname source="naf">Nguyễn, Huệ Chi</persname>
+    <corpname authfilenumber="(lccn)n88120703" source="naf">Peace and Freedom Party (U.S.)</corpname>
+    <persname rules="dacs" source="local">Reston, James, 1946-</persname>
+    <corpname authfilenumber="(lccn)n50010551" source="naf">Students for a Democratic Society (U.S.)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref20" level="series"><did><unittitle>Series I: Historical Overviews, Personal Papers and Ephemera</unittitle><unitdate datechar="creation" normal="1969/1977" type="inclusive">1969-1977</unitdate></did><scopecontent id="aspace_58e0161f12b1b18dd23ebe594afe2c5b"><head>Scope and Contents note</head><p>Arranged chronologically but preceded by Mason's graphical map of NYU student organizations (1963-1978), and a general history of the 1960s and 1970s at NYU co-authored by Mason. Series I includes various membership cards, buttons, and ephemera.</p></scopecontent><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>General History and Information</unittitle><unitdate datechar="creation" normal="1971/1977" type="inclusive">1971-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_6d2257d038f727fca0675a5a08a95733" label="Mixed Materials [31142062999068]" type="Box">1</container><container id="aspace_aa6e678cde23d103921667244c806ac7" parent="aspace_6d2257d038f727fca0675a5a08a95733" type="Folder">1</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Buttons &amp; Organization Membership Cards</unittitle><unitdate datechar="creation">[196-] - [197-]</unitdate><container altrender="Manuscript box - Legal" id="aspace_aeb03454f5631d005f06fcbcece08cbf" label="Mixed Materials [31142062999068]" type="Box">1</container><container id="aspace_e0ddc3c1da3d4a0f6fb5347a8c00417d" parent="aspace_aeb03454f5631d005f06fcbcece08cbf" type="Folder">2</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Untitled: notes poster collection location</unittitle><container altrender="Manuscript box - Legal" id="aspace_a2823334e5ab91182c11754d8709d306" label="Mixed Materials [31142062999068]" type="Box">1</container><container id="aspace_937117dc9646887ca3678af3f280ad87" parent="aspace_a2823334e5ab91182c11754d8709d306" type="Folder">3</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Mason Correspondence &amp; Diary</unittitle><unitdate datechar="creation" normal="1969/1973" type="inclusive">1969-1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_7d4cb122c74a034f22c9c24eaeb7201d" label="Mixed Materials [31142062999068]" type="Box">1</container><container id="aspace_64cf87e6c6eb31d71390babe49ccef2b" parent="aspace_7d4cb122c74a034f22c9c24eaeb7201d" type="Folder">4</container></did></c></c><c id="aspace_ref27" level="series"><did><unittitle>Series II: SDS Material, Chi-Reston Papers, SDS "Successors"</unittitle><unitdate datechar="creation" normal="1962/1974" type="inclusive">1962-1974</unitdate></did><scopecontent id="aspace_dd5d1e55bb27a2ff4bac9a128630e8f2"><head>Scope and Contents note</head><p>Series II contains records regarding the creation of the Students for a Democratic Society (SDS) at NYU, materials on the SDS's Radical Education Project at NYU, records from both the student and administration's viewpoints regarding the SDS-led demonstration against Ambassador Chi and James Reston's pro-Vietnam War presentations, and materials on what Mason termed "SDS successor" organizations.</p></scopecontent><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>SDS Period #1: Regional &amp; NYU Chapter</unittitle><unitdate datechar="creation" normal="1962/1966" type="inclusive">1962-1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_53cb04e36d8f71b6a3f6a008bb302f3d" label="Mixed Materials [31142062999068]" type="Box">1</container><container id="aspace_8037fdb1962c08b8050068487acb0115" parent="aspace_53cb04e36d8f71b6a3f6a008bb302f3d" type="Folder">5</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>SDS Period #1: Regional &amp; NYU Chapter</unittitle><unitdate datechar="creation" normal="1962/1966" type="inclusive">1962-1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_93e50b2dcb9c2bf1846463395a439b4f" label="Mixed Materials [31142062999068]" type="Box">1</container><container id="aspace_8971a5a74cd727f9432fbb0b183d83ab" parent="aspace_93e50b2dcb9c2bf1846463395a439b4f" type="Folder">6</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>SDS Period #2: Regional &amp; NYU Chapter</unittitle><unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_63616c7e8ece7408aec4f9a8fe09db79" label="Mixed Materials [31142062999068]" type="Box">1</container><container id="aspace_f7ff8e00c08ff3c2af865826d02bdb70" parent="aspace_63616c7e8ece7408aec4f9a8fe09db79" type="Folder">7</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>SDS Period #2: Regional &amp; NYU Chapter</unittitle><unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_6cd003ebe2c754754430eb345ee829c7" label="Mixed Materials [31142062999068]" type="Box">1</container><container id="aspace_6b4a70e4cfcd271e6eec64f8da32046e" parent="aspace_6cd003ebe2c754754430eb345ee829c7" type="Folder">8</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>SDS Radical Education Project:</unittitle><unitdate datechar="creation" normal="1965/1967" type="inclusive">1965-1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_3ea45f7223ff72daeac2309d7f92b70c" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_4ab234966894e031b3e27887dafc3528" parent="aspace_3ea45f7223ff72daeac2309d7f92b70c" type="Folder">1</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Account of Chi-Reston Demonstration</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">[1970]</unitdate><container altrender="Manuscript box - Legal" id="aspace_c482bf15a86f3f74324fca113b980ce0" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_33b4b0d53d724ba8cbf0ea11fd462c75" parent="aspace_c482bf15a86f3f74324fca113b980ce0" type="Folder">2</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>NYU Administration Response to Chi-Reston Demonstration and Aftermath</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_bac0a0178e6f97911f410db12b068d14" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_bf7beb1bdefe49a3f0cde467bb3e4c50" parent="aspace_bac0a0178e6f97911f410db12b068d14" type="Folder">3</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>SDS Successor Organizations</unittitle><unitdate datechar="creation" normal="1970/1974" type="inclusive">1970-1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_f4a592453a31632db048652913db02a4" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_68c0189999909866cbc4a9af95550dcc" parent="aspace_f4a592453a31632db048652913db02a4" type="Folder">4</container></did></c></c><c id="aspace_ref38" level="series"><did><unittitle>Series III: New York University (NYU) Student Organization Activity</unittitle><unitdate datechar="creation" normal="1965/1975" type="inclusive">1965-1975</unitdate></did><scopecontent id="aspace_072e7740499fe649dab7679c973f3afd"><head>Scope and Contents note</head><p>Series III contains various student publications from the Washington Square campus during 1968-1975, some records from the New Student Union of 1965 and, in general, a group of records from the Weinstein Residence Hall, Washington Square Campus-All Square Congress, Faculty of Arts and Sciences-Graduate Students Organization, and the NYU Student President's Conference.</p></scopecontent><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>New Student Union-New York University</unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_6aa62c4caa588afbb5b366a64beaff2c" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_3d3a0084fdf307c29689d5cc711b1f34" parent="aspace_6aa62c4caa588afbb5b366a64beaff2c" type="Folder">5</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Weinstein Residence &amp; Library Materials</unittitle><unitdate datechar="creation" normal="1965/1969" type="inclusive">1965-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_540cef49652c49a4ee145c03d4ec4c5a" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_443ddbee02dd5a32eb01cdde9ac331f0" parent="aspace_540cef49652c49a4ee145c03d4ec4c5a" type="Folder">6</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>All Square Congress-New York University</unittitle><unitdate datechar="creation" normal="1966/1969" type="inclusive">1966-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_4780f142b378bb0de6d7061e222ed332" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_ca08706fd06a0c8c605a9d326b5705d7" parent="aspace_4780f142b378bb0de6d7061e222ed332" type="Folder">7</container></did></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Graduate Student Organization Politics</unittitle><unitdate datechar="creation">1967-1972*</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f9e2806f6b431b283515d6ec642eef3" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_809fdca3c2e60e659d5f76fc19d680de" parent="aspace_0f9e2806f6b431b283515d6ec642eef3" type="Folder">8</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>NYU Student President's Conference: Proposal for a more Democratic University</unittitle><unitdate datechar="creation">1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_48ede1b91e2cd8991107814dda2b6364" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_ac0cb0ce7982370784b94ce8f73ac8d5" parent="aspace_48ede1b91e2cd8991107814dda2b6364" type="Folder">9</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Vietnam Moratorium Duplicates: Graduate Student Organization, School of Education</unittitle><unitdate datechar="creation">??</unitdate><container altrender="Manuscript box - Legal" id="aspace_6ce05c8fb1ce375de88335a4c6118edc" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_d46117f1e0f52e5a33d8a374ec8a6688" parent="aspace_6ce05c8fb1ce375de88335a4c6118edc" type="Folder">10</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Homer Watt Lecture: The Writer &amp; the Power Structure</unittitle><unitdate datechar="creation">1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_b41afe747bcc7315bd19ba4c2f5cdaec" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_c33d2d7b118e0ac02542dbbd6d1a2ea9" parent="aspace_b41afe747bcc7315bd19ba4c2f5cdaec" type="Folder">11</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Various Student Publications</unittitle><unitdate datechar="creation">1968-1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_efac5966590fffe27044dff95fd705d7" label="Mixed Materials [31142062999076]" type="Box">2</container><container id="aspace_8bfa68308e56862aa4b63cc59fc204ac" parent="aspace_efac5966590fffe27044dff95fd705d7" type="Folder">12</container></did></c></c><c id="aspace_ref49" level="series"><did><unittitle>Series IV: New University Conference (NUC) Materials</unittitle><unitdate datechar="creation" normal="1968/1975" type="inclusive">1968-1975</unitdate></did><scopecontent id="aspace_ed76d4c8b7f401897609bec9d05eb6f5"><head>Scope and Contents note</head><p>Series IV deals with the New University Conference (NUC), an Ann Arbor-based and socialist-influenced organization which was led primarily by faculty. Students active in the Anti-War Movement also played a significant role in the organization. NUC-NYU's activities fully reflected the national organization's concerns with providing leftist education alternatives for undergraduate and graduate students. Some of the NUC-NYU projects documented in this series are: the publication of NYU Inc., a financial and social analysis of NYU's Trustees Council, endowment investments, Law School, and financial ties to war contractors and the South African government; the early research for and support of the "University Without Walls" program at Washington Square, and involvement in the creation of the Metropolitan Studies Program; and finally, the Ivan Bennett Affair, to name only a few of the more prominent examples of NUC's activities.</p></scopecontent><c id="aspace_ref50" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC: National &amp; Regional Materials I</unittitle><unitdate datechar="creation">1968-1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_8ccc17b76a91338e9f2ddc7a9753ba40" label="Mixed Materials [31142062999084]" type="Box">3</container><container id="aspace_2c96e2b20dae94a074a4472be4b54116" parent="aspace_8ccc17b76a91338e9f2ddc7a9753ba40" type="Folder">1</container></did></c><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC: National &amp; Regional Materials I</unittitle><unitdate datechar="creation">1968-1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_518f20b530db524610ca016a5b85445d" label="Mixed Materials [31142062999084]" type="Box">3</container><container id="aspace_e3428fd0c53c67c48b96aebd4a1785a3" parent="aspace_518f20b530db524610ca016a5b85445d" type="Folder">2</container></did></c><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC: National &amp; Regional Materials II</unittitle><unitdate datechar="creation">1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_f47f0729f21a92423524142f734ba611" label="Mixed Materials [31142062999084]" type="Box">3</container><container id="aspace_8d14cad11848a14d0fa06efd7978fcc2" parent="aspace_f47f0729f21a92423524142f734ba611" type="Folder">3</container></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC: N.Y.U Chapter (NUC-NYU)</unittitle><unitdate datechar="creation">1968-1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_900b7bc04e01417e862f66e8ca51d142" label="Mixed Materials [31142062999084]" type="Box">3</container><container id="aspace_5ebf43f092db3fe8673693f11a18b4f5" parent="aspace_900b7bc04e01417e862f66e8ca51d142" type="Folder">4</container></did></c><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC-NYU: Ivan Bennett Affair Papers</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_7756efc4ad93cf722abcc94bb43fb56b" label="Mixed Materials [31142062999084]" type="Box">3</container><container id="aspace_7e72a45b9ddc92b37fed6e302b33fae9" parent="aspace_7756efc4ad93cf722abcc94bb43fb56b" type="Folder">5</container></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC-NYU: Raw Data for NYU Inc. I</unittitle><unitdate datechar="creation" normal="1963/1978" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3ceb4301e27d2df44e268665207cbecd" label="Mixed Materials [31142062999084]" type="Box">3</container><container id="aspace_e6138b9139a7a28c4fea727ec5bf04c7" parent="aspace_3ceb4301e27d2df44e268665207cbecd" type="Folder">6</container></did></c><c id="aspace_ref56" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC-NYU: Raw Data for N.U.U. Inc. II</unittitle><unitdate datechar="creation" normal="1963/1978" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1de8e33db13098c449e0b7502e2c033c" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_f63dde5b04aee26c1d3e9b8abfe46e56" parent="aspace_1de8e33db13098c449e0b7502e2c033c" type="Folder">1</container></did></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC-NYU: Radical History Caucus</unittitle><unitdate datechar="creation">1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_f4ef524720a7f6fcde25501b996e129c" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_83297222eac8e70a583d01bf0f6e2eee" parent="aspace_f4ef524720a7f6fcde25501b996e129c" type="Folder">2</container></did></c><c id="aspace_ref58" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC-NYU: Study Group</unittitle><unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_a379f39ba9fa696f2c9f11feb4214736" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_f522006b48706f7cd807205a7ecfacbd" parent="aspace_a379f39ba9fa696f2c9f11feb4214736" type="Folder">3</container></did></c><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>NYU Center for Marxist Studies</unittitle><unitdate datechar="creation" normal="1975/1978" type="inclusive">1975-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_74e3395c1f00e73270417aba38002aab" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_23dc1ab6c06ec3898a6401461ae33292" parent="aspace_74e3395c1f00e73270417aba38002aab" type="Folder">4</container></did></c><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC Newsletters</unittitle><unitdate datechar="creation" normal="1969/1971" type="inclusive">1969-1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_615bfce5d0e571c600ca7a3de49db468" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_dbc6a734ad8ae6fba28b3c81b7a06518" parent="aspace_615bfce5d0e571c600ca7a3de49db468" type="Folder">5</container></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>NYU President's Urban Studies Report and Early Metropolitan Studies Program</unittitle><unitdate datechar="creation" normal="1969/1971" type="inclusive">1969-1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_a3046820a0dd9309b182003e92167135" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_1972bfe0709beb8ce3071b59ee66f850" parent="aspace_a3046820a0dd9309b182003e92167135" type="Folder">6</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>NYU Inc.: Posters Advertising Sale</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_fed84f225b7b72d51e6679a4ce1371ea" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_48cf425bffe7d44fcba8f4f130df7ab9" parent="aspace_fed84f225b7b72d51e6679a4ce1371ea" type="Folder">7</container></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Political Science Association Reprint from APSA Newsletter vol. II</unittitle><unitdate datechar="creation" normal="1969/1974" type="inclusive">1969, 1972-1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_77a06b0efa9547554415415882188ff2" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_d62e72e7ed3efecfad7bbabf3ddbc4d8" parent="aspace_77a06b0efa9547554415415882188ff2" type="Folder">8</container></did></c><c id="aspace_ref64" level="otherlevel" otherlevel="unspecified"><did><unittitle>NUC &amp; Strike Coordinating Committee Materials</unittitle><unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e585b124dadbcd18402a665c4e1a1d1" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_e89f4affe5cbcbcc2aa9b4acb6f6e2c7" parent="aspace_3e585b124dadbcd18402a665c4e1a1d1" type="Folder">9</container></did></c></c><c id="aspace_ref67" level="series"><did><unittitle>Series V: Library and Cafeteria Workers--National Students' Strike of 1970</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate></did><scopecontent id="aspace_5bcdfd705d1f8d08acdae2234ee0cf80"><head>Scope and Contents note</head><p>This series includes materials from the Library and Cafeteria Workers strike committees, records from the faculty-student strike coordinating committee for the academic side of the university, the participating departments, the coordinating committees of the buildings which students seized and occupied, and finally, a collection of student analyses of the strike which were written for Professor Fleming's class in the Politics Department. For an analysis of these events which is based primarily upon the records of the Cafeteria and Library workers' union local, and upon oral histories, see Peter Miller's video "Violets on the Picket Line." The video, as well as a research paper, are available for use at the Public History Program office in the NYU Department of History, 19 University Place, Fifth floor. Both the video and the paper are scheduled for accession by the University Archives.</p></scopecontent><c id="aspace_ref68" level="otherlevel" otherlevel="unspecified"><did><unittitle>Library &amp; Cafeteria Workers Strike</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_10bdd27256aeffb060b3d3c010fa50e0" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_925bb35577889ad7f66aca8a0f49972d" parent="aspace_10bdd27256aeffb060b3d3c010fa50e0" type="Folder">10</container></did></c><c id="aspace_ref69" level="otherlevel" otherlevel="unspecified"><did><unittitle>Worker--Student--University Issues</unittitle><unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_cfe62d8b7d64ed419f98414cff15ce8c" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_b7cd16d7cd29bae1d87a6012a3cd0829" parent="aspace_cfe62d8b7d64ed419f98414cff15ce8c" type="Folder">11</container></did></c><c id="aspace_ref70" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike at NYU Diaries and Comments</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_742cf045d1f7fdb8758418ae24c3f048" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_e757ccd25d1ceb1c07e12c3bfba75f2d" parent="aspace_742cf045d1f7fdb8758418ae24c3f048" type="Folder">12</container></did></c><c id="aspace_ref71" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: Flyers, Demands, News and Newspaper</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_60cd4beb44f03ffe089c986ec23d603a" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_dd9d44dcd6543a3938f94177196d1e82" parent="aspace_60cd4beb44f03ffe089c986ec23d603a" type="Folder">13</container></did></c><c id="aspace_ref72" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: Courant</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_fbabd11e3449b957b549e1884d1af9e0" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_4f6b38c271d1d2aadaadf0446cecbad1" parent="aspace_fbabd11e3449b957b549e1884d1af9e0" type="Folder">14</container></did></c><c id="aspace_ref73" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: N.Y.U Movement for a New Congress</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_5879570cdf4ce702b2c16ee5b359137e" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_1480c75504489ac6276ac02628e68d6e" parent="aspace_5879570cdf4ce702b2c16ee5b359137e" type="Folder">15</container></did></c><c id="aspace_ref74" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: NYU Politics Department</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_b2cdb86eaac8c2d2fa2a5c61f159c471" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_cb05838d27a6f244d2215c36162acccb" parent="aspace_b2cdb86eaac8c2d2fa2a5c61f159c471" type="Folder">16</container></did></c><c id="aspace_ref75" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: NYU Psychology Department</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_0502551e0fa0ac206d54962b81be8b4e" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_799f5050da2fa5d7975198b234d29408" parent="aspace_0502551e0fa0ac206d54962b81be8b4e" type="Folder">17</container></did></c><c id="aspace_ref76" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: NYU Strike Coordinating Committee</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_c187a887e71572317bb6e2f4136eb082" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_7ad3e95f60cf49cec4aa02abc22cc2bd" parent="aspace_c187a887e71572317bb6e2f4136eb082" type="Folder">18</container></did></c><c id="aspace_ref77" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: Kimball</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_06d372ff5c07fd38472f5d867b2c9dd0" label="Mixed Materials [31142062999092]" type="Box">4</container><container id="aspace_5f2c0833729c42779b7e8c79dc08e25b" parent="aspace_06d372ff5c07fd38472f5d867b2c9dd0" type="Folder">19</container></did></c><c id="aspace_ref78" level="otherlevel" otherlevel="unspecified"><did><unittitle>Collective &amp; Transcendental Students</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_4bdfd7229053d44188cc32f924e54361" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_67ac63dc4957aa9c8e02d65d5c0e7094" parent="aspace_4bdfd7229053d44188cc32f924e54361" type="Folder">1</container></did></c><c id="aspace_ref79" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: Various Other NYU Groups and Departments</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_00c6e9c03518133cc75a4793bed16db5" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_5ebdb5ebd910db5a85f4862ae4ed0926" parent="aspace_00c6e9c03518133cc75a4793bed16db5" type="Folder">2</container></did></c><c id="aspace_ref80" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: Various Strike Related Documents</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_ad8fe73458a9a0cca192f12deaf81fee" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_138993cf80ecff33858e3aa965e4dae9" parent="aspace_ad8fe73458a9a0cca192f12deaf81fee" type="Folder">3</container></did></c><c id="aspace_ref81" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: General Press Releases and Publications</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b21082c4d079d1228e095f6bee09d92" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_7510a47306e1f716d5826a7d50300f32" parent="aspace_9b21082c4d079d1228e095f6bee09d92" type="Folder">4</container></did></c><c id="aspace_ref82" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: Strike Issues of NYU Newspapers</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf3ea1586552c0410795ee99647d7222" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_3666c841aa0334a562f96a8e29d60cb3" parent="aspace_cf3ea1586552c0410795ee99647d7222" type="Folder">5</container></did></c><c id="aspace_ref83" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: External Publications, Strike Issues</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_16fbba83084f4e9b942b0e6ee418d256" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_508ee88fce841b572c945c34b3dfc31e" parent="aspace_16fbba83084f4e9b942b0e6ee418d256" type="Folder">6</container></did></c><c id="aspace_ref84" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Students Strike: Professor Fleming's Guide and Student Analyses</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Manuscript box - Legal" id="aspace_e26f598d54d051b3724f55efd233d184" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_644c33a4b61e4ce2bb28964a8abb58e4" parent="aspace_e26f598d54d051b3724f55efd233d184" type="Folder">7</container></did></c></c><c id="aspace_ref87" level="series"><did><unittitle>Series VI: NYU Administrative Documents</unittitle><unitdate datechar="creation" normal="1964/1975" type="inclusive">1964-1975</unitdate></did><scopecontent id="aspace_8d50456658cd5875512e903c14f093c4"><head>Scope and Contents note</head><p>This series contains three different classes of records which have been arranged chronologically by class: 1) those reports and press releases which indicated NYU's efforts to deal with specific problems in its student body that had been created by demographics, politics, economic circumstances, etc. (folder 49); 2) materials which presented NYU's long-range plans to the wider university community and the general public, and those internal reports and bulletins that fulfill the same purpose on a day to day level (folders 50-51); and finally, 3) a surveillance film from Campus Security which depicted a student-faculty demonstration in 1968, whose focus was the appearance of and pro-war speeches on campus by Ambassador Chi and James Reston (folder 52).</p></scopecontent><c id="aspace_ref88" level="otherlevel" otherlevel="unspecified"><did><unittitle>The University Viewpoint</unittitle><unitdate datechar="creation" normal="1968/1972" type="inclusive">1968-1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_a64ee6bd005683ee6503176cc50fbdb6" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_3248fe77ff2ce5b82733ed73ac23da71" parent="aspace_a64ee6bd005683ee6503176cc50fbdb6" type="Folder">8</container></did></c><c id="aspace_ref89" level="otherlevel" otherlevel="unspecified"><did><unittitle>NYU Capital Program</unittitle><unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_a54046993c1477a029807f95c9c793bc" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_4a584ce52518ebc94d2ddceb40f8e38b" parent="aspace_a54046993c1477a029807f95c9c793bc" type="Folder">9</container></did></c><c id="aspace_ref90" level="otherlevel" otherlevel="unspecified"><did><unittitle>University Reports &amp; Bulletins</unittitle><unitdate datechar="creation" normal="1969/1975" type="inclusive">1969-1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f450620353eca2e52507367a2faabe1" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_c3fc19185a47236d623d20d7b1a555d6" parent="aspace_9f450620353eca2e52507367a2faabe1" type="Folder">10</container></did></c><c id="aspace_ref91" level="otherlevel" otherlevel="unspecified"><did><unittitle>NYU Surveillance Film of 3/6/68 Dow Chemical Demonstration</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_4c4111bf166df6b3d2a4f7808be05450" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_3eff21488c25d62434fb87c779fb7bf1" parent="aspace_4c4111bf166df6b3d2a4f7808be05450" type="Folder">11</container></did></c></c><c id="aspace_ref94" level="series"><did><unittitle>Series VII: Student Movement Organizations</unittitle><unitdate datechar="creation" normal="1967/1971" type="inclusive">1967-1971</unitdate></did><scopecontent id="aspace_ec99b0d013895d08912c6a264d291d38"><head>Scope and Contents note</head><p>Arranged chronologically by organization. These student groups arose out of the opposition to the Vietnam War, and included within their membership both students and non-university members.</p></scopecontent><c id="aspace_ref95" level="otherlevel" otherlevel="unspecified"><did><unittitle>Peace and Freedom Party Materials</unittitle><unitdate datechar="creation" normal="1967/1970" type="inclusive">1967-1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_55e15beaded2040eb489bf9113f1279e" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_9eae176526f2b250c5e5a7c998bf37db" parent="aspace_55e15beaded2040eb489bf9113f1279e" type="Folder">12</container></did></c><c id="aspace_ref96" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campus Voice--Committee to End the War in Vietnam Materials</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b226290c8a7b80d9440733025e97b5a" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_51bfbdf153a45afb0d00c52f1a2d7f8d" parent="aspace_9b226290c8a7b80d9440733025e97b5a" type="Folder">13</container></did></c><c id="aspace_ref97" level="otherlevel" otherlevel="unspecified"><did><unittitle>International Socialists: Regional Materials</unittitle><unitdate datechar="creation" normal="1968/1970" type="inclusive">1968-1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_57d7fa4e3135c8eefe92e1b7b1e4bd0a" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_03f1f694af90d9424b9246d57e3f6009" parent="aspace_57d7fa4e3135c8eefe92e1b7b1e4bd0a" type="Folder">14</container></did></c><c id="aspace_ref98" level="otherlevel" otherlevel="unspecified"><did><unittitle>Black Student Activities: NYU</unittitle><unitdate datechar="creation" normal="1968/1970" type="inclusive">1968-1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_54737242d4bfea843fce918f1791aaf6" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_054f4eea36a1c998b4ca87a0627d21dc" parent="aspace_54737242d4bfea843fce918f1791aaf6" type="Folder">15</container></did></c><c id="aspace_ref99" level="otherlevel" otherlevel="unspecified"><did><unittitle>Black Panther Defense Materials</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_2fd024534a458e933b46fd20ceb72dd6" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_ca5aacf908f3aac30fcf5448b36adcb9" parent="aspace_2fd024534a458e933b46fd20ceb72dd6" type="Folder">16</container></did></c><c id="aspace_ref100" level="otherlevel" otherlevel="unspecified"><did><unittitle>Gay Liberation Material</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_e4adb990b895aaed88b9f1f47c501754" label="Mixed Materials [31142062999100]" type="Box">5</container><container id="aspace_6c128e003804715d9a0334d93afe7a06" parent="aspace_e4adb990b895aaed88b9f1f47c501754" type="Folder">17</container></did></c></c><c id="aspace_ref103" level="series"><did><unittitle>Series VIII: Student Organization Posters</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate></did><scopecontent id="aspace_b09492acc4e24269dc1183958f6fe7ac"><head>Scope and Contents note</head><p>This series contains one Anti War Conference Poster dated 1971. Other posters (dated 1962-1978) in this collection have been separated to the University Archives' Poster Collection.</p></scopecontent><c id="aspace_d7cbc72656891fe49707644c934cc3dc" level="file"><did><unittitle>Anti War Conference Poster</unittitle><unitdate datechar="creation" normal="1971/1971">1971</unitdate><container altrender="Flat OS Box - 16.5" id="aspace_f402952f69b624d78f539b97afc53193" label="Mixed Materials [31142046561893]" type="Box">Shared University Archives 004</container></did></c></c></dsc>
+</archdesc>
 </ead>

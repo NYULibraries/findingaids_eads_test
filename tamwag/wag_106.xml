@@ -1,839 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_106">wag_106</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Maurice Forge Papers <num>WAG.106</num></titleproper>
-        <author>Jill Vetter, 1988 and Wendy Scheir, 2005.</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from FORGE, Maurice WAG 106.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-      <notestmt>
-        <note>
-          <p>Finding Aid</p>
-        </note>
-      </notestmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:47:38 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Maurice Forge Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Forge, Maurice, 1902-1990</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Forge, Maurice, 1902-1990</persname>
-      </origination>
-      <unitid>WAG.106</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-        <extent altrender="carrier">in 1 record carton.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1936/1986" type="inclusive">1936-1986</unitdate>
-      <unitdate datechar="creation" normal="1940/1950" type="bulk">1940-1950</unitdate>
-      <abstract id="aspace_7e64355784ae59e86895daa772466816">Maurice Forge (1902-1990) was a New York bus driver who became an organizer, news editor, and ultimately a vice president of the Transport Workers Union (TWU). In the late 1930s, Forge began organizing the TWU's Airline Transport Division (ATD). A decade later, a union-wide effort to sever TWU ties with the Communist Party resulted in Forge's expulsion from the TWU. The Maurice Forge Papers include materials from Forge's TWU career, including union publicity materials, official correspondence, and transcripts of Forge's TWU hearing and of the government deportation hearing of TWU official John Santo.</abstract>
-      <langmaterial id="aspace_be7ba879a2a76cafd139b12db292dfd6">Materials are in English</langmaterial>
-    </did>
-    <acqinfo id="aspace_b9569b19f062643b153aa6e0b4ae1898">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Maurice Forge, 1986. The accession numbers associated with this gift are 1986.011 and 1986.025.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_f6f32f1b3b407941c97f638a2086d9e8">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <bioghist id="aspace_7429cdfa4a78a833ca373e5624377ec2">
-      <head>Historical/Biographical Note</head>
-      <p>Maurice Forge was born on October 6, 1902 in New York City. After losing his job as a commercial artist in 1930, Forge became a bus driver. Working at night, Forge began organizing by day for the fledgling Transport Workers Union (TWU). His union involvement deepened when he became editor of the <title render="italic">TWU Bulletin</title>. Forge, a Communist Party member, was hired as a full-time paid union organizer, and became the leading force behind the TWU's Publicity Department. In the late 1930s, Forge became a TWU vice-president and director of the union's new Air Transport Division (ATD). Airline organizing brought him into conflict with other CIO unions, as well as with powerful elements within the TWU who questioned the wisdom of investing union resources in this new venture. Despite some successes, Forge was discouraged about the lack of adequate support from the TWU establishment, leading him to champion the formation of a Committee for Air Transport Autonomy (CATA) after TWU's Biennial Convention in 1948. In the late 1940s, TWU president Michael Quill broke with the Communist Party, and union officials set about severing TWU's ties to the Party. Forge was tried before a union committee and, along with other influential TWU members, expelled from the union.</p>
-      <p>Forge went back to bus driving on Long Island, and continued to participate, unofficially, in the activities of TWU Local 252. Eventually he bought and ran the Crestwood Bus Company (he sold the company in 1970). Over the years, Forge maintained contact with many former colleagues from the ATD and from TWU Locals 100 and 252. He also remained close to Michael Quill, and, after many years lobbying to regain his TWU membership, Forge was granted reinstatement in 1984.</p>
-      <p>Forge died in Freeport, Long Island in February 1990.</p>
-    </bioghist>
-    <processinfo id="aspace_114b64735fb6536910a995f5805399b5">
-      <head>Processing Information</head>
-      <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Maurice Forge Photographs (PHOTOS 204). In 2014, the photograph collection was reincorporated into the Maurice Forge Papers.</p>
-    </processinfo>
-    <scopecontent id="aspace_466e9e803dbfe750ce22fc736c39c9fa">
-      <head>Scope and Content Note</head>
-      <p>The Maurice Forge Papers include materials from Forge's TWU career, including union publicity materials, official correspondence, and transcripts of Forge's TWU hearing and of the government deportation hearing of TWU official John Santo.</p>
-    </scopecontent>
-    <arrangement id="aspace_1de750ada9f64090bbc18490369d2e74">
-      <head>Arrangement</head>
-      <p>Series I is arranged chronologically. Series II is arranged alphabetically according to type of material; within these sections files are arranged chronologically.</p>
-      <p>Organized into two series:</p>
-      <list numeration="upperroman" type="ordered">
-        <head>Missing Title</head>
-        <item>General Files</item>
-        <item>Clippings, Credentials, Flyers, Pamphlets, Photographs</item>
-      </list>
-    </arrangement>
-    <relatedmaterial id="aspace_d8f29bbd9437c3bb4afdcec091bbd17f">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>For more information about the Transport Workers Union of America, see the Transport Workers Union of America Records (WAG 235).</p>
-      <p>The Transport Workers Union Oral History Collection (OH 11) includes an interview with Maurice Forge.</p>
-    </relatedmaterial>
-    <separatedmaterial id="aspace_3e9fd464b6a03920a0cd316f3b53ab2c">
-      <head>Separated Material</head>
-      <p>TWU newspapers, <title render="italic">Transport Workers Bulletin, Rank and File Newsletter</title> and the <title render="italic">Transit Bulletin</title> were transferred to the Tamiment Library newspaper collection.</p>
-    </separatedmaterial>
-    <userestrict id="aspace_399c8e3a67ed35ce39a09e59bf3ef65a">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Maurice Forge was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <prefercite id="aspace_ed894096fef746451d9745002ae75a65">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Maurice Forge Papers; WAG 106; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Articles.</genreform>
-      <subject source="lcsh">Labor leaders -- New York (State) -- New York.</subject>
-      <subject source="lcsh">Collective labor agreements -- Transport workers -- United States.</subject>
-      <subject source="lcsh">Transport workers -- Labor unions -- New York (State) -- New York -- History.</subject>
-      <subject source="lcsh">Transport workers -- Labor unions -- United States</subject>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
-      <subject source="lcsh">Airlines |x Employees |x Labor unions |z United States.</subject>
-      <genreform source="aat">Hearings (event)</genreform>
-      <subject source="lcsh">Bus drivers |z New York (State) |z New York.</subject>
-      <genreform source="aat">Reports.</genreform>
-      <subject source="lcsh">Airlines |x Employees |z United States.</subject>
-      <subject source="lcsh">Communists |z New York (State) |z New York.</subject>
-      <genreform source="aat">Minutes (administrative records)</genreform>
-      <subject source="lcsh">Collective bargaining -- Transport workers -- United States.</subject>
-      <subject source="lcsh">Collective bargaining -- United States.</subject>
-      <genreform source="aat">Leaflets (printed works)</genreform>
-      <persname source="naf">Santo, John, 1908-</persname>
-      <corpname source="naf">Brooklyn-Manhattan Transit Company</corpname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_106">wag_106</eadid><filedesc><titlestmt><titleproper>Guide to the Maurice Forge Papers <num>WAG.106</num></titleproper><author>Jill Vetter, 1988 and Wendy Scheir, 2005.</author></titlestmt><editionstmt><p>This version was derived from FORGE, Maurice WAG 106.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>Finding Aid</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:04:43 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Maurice Forge Papers</unittitle>
+    <origination label="Creator">
       <persname rules="dacs" source="local">Forge, Maurice, 1902-1990</persname>
-      <corpname source="naf">Transport Workers Union of America. Local 100</corpname>
-      <corpname source="local">Transport Workers Union of America. Air Transport Division</corpname>
-      <corpname source="local">Committee for Air Transport Autonomy</corpname>
-      <corpname source="naf">Transport Workers Union of America</corpname>
-      <corpname source="naf">Trans World Airlines</corpname>
-      <corpname source="naf">Interborough Rapid Transit Company</corpname>
-      <corpname source="local">Transport Workers Union of America. Local 252 (Westbury, N.Y.)</corpname>
-      <corpname source="local">Transport Workers Union of America. Local 234 (Philadelphia, Pa.)</corpname>
-      <corpname source="naf">Pan American Airways Corporation</corpname>
-      <persname source="naf">Quill, Mike, 1905-1966</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Forge, Maurice, 1902-1990</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref15" level="series">
-        <did>
-          <unittitle>Series I: General Files</unittitle>
-          <unitdate datechar="creation" normal="1936/1961" type="inclusive">1936-1961</unitdate>
-        </did>
-        <scopecontent id="aspace_154175a3a39d15bcd9c984e93205ed85">
-          <head>Scope and Content Note</head>
-          <p>Series I includes Forge's personal and official correspondence, TWU Executive Board minutes, trial transcripts, leaflets and ATD reports. Documents reflect Forge's activity in the TWU, especially from the late 1940s, when he came into conflict with TWU officials. Also in this series are materials reflecting Forge's involvement in the creation and development of the ATD and CATA. Correspondence includes letters to his wife, Bess, letters from TWU president Michael Quill and former TWU official John Santo after Santo's deportation to Hungary for being a non-citizen Communist Party activist; and letters with Charles Smolikoff, Armand Scala, and Fred Swick of the TWU about the progress of forming the ATD. Also included is a 1947 transcript of Santo's Department of Immigration trial, as well as a transcript of 1950 proceedings against Forge by the TWU.</p>
-        </scopecontent>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Administration: Executive Board members and correspondence</unittitle>
-            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
-            <container altrender="Record carton" id="aspace_813ff58a0c027f7073a7d81da40f9250" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_38741a301043d043e155140281831ee8" parent="aspace_813ff58a0c027f7073a7d81da40f9250" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Constitution</unittitle>
-            <unitdate datechar="creation" normal="1937/1948" type="inclusive">1937 , 1948</unitdate>
-            <container altrender="Record carton" id="aspace_22ff2a4e63f9d90ee7227a0e92ffc2fe" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_7f400b97f250b51ff082a07d17f7c468" parent="aspace_22ff2a4e63f9d90ee7227a0e92ffc2fe" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Administration: Fordham Bus Company Administration: Fordham Bus Company</unittitle>
-            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
-            <container altrender="Record carton" id="aspace_2befffd476b48d1bdbe2791ff9bc21a0" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_f32ff6e69b61c2b58e5bd2c35cb368a9" parent="aspace_2befffd476b48d1bdbe2791ff9bc21a0" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
-            <container altrender="Record carton" id="aspace_5b8a97d7e28989185cf7fc10584f9e0e" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_6023c9bb12c88ba4334144a0666391a3" parent="aspace_5b8a97d7e28989185cf7fc10584f9e0e" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
-            <container altrender="Record carton" id="aspace_395d43c3c8a1aca655abf9db78b66c21" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_b10f73655ca296aabfd8b851b9ada52a" parent="aspace_395d43c3c8a1aca655abf9db78b66c21" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Correspondence: Arthur S. Meyer to John Santo</unittitle>
-            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
-            <container altrender="Record carton" id="aspace_378067c53b486f66669e67a7a6d179f5" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_dd23b01840302b7e27b2e16bcc0d7ac5" parent="aspace_378067c53b486f66669e67a7a6d179f5" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
-            <container altrender="Record carton" id="aspace_1e9fa084723883149feea4ed505f9689" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_d15d980df4017146bdaadbc60805e013" parent="aspace_1e9fa084723883149feea4ed505f9689" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
-            <container altrender="Record carton" id="aspace_29d461d7bc93f8e1f45f69af25fbc203" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_d08238e4a027ca189065cc038bbda1c1" parent="aspace_29d461d7bc93f8e1f45f69af25fbc203" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
-            <container altrender="Record carton" id="aspace_622d7464882a905cfef84fcf6d70c8c9" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_cc5f5d71eb61f6f26c8c9806db04f3f8" parent="aspace_622d7464882a905cfef84fcf6d70c8c9" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Correspondence: M.F. to Bess Forge</unittitle>
-            <unitdate datechar="creation" normal="1945/1949" type="inclusive">1945-1949</unitdate>
-            <container altrender="Record carton" id="aspace_6cf3983dc438978b716f21e9f7bdd8e7" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_09aed44a6da0ec24fb5c1e88aa530f1f" parent="aspace_6cf3983dc438978b716f21e9f7bdd8e7" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Charges against John Santo (1)</unittitle>
-            <unitdate datechar="creation">Oct 1947</unitdate>
-            <container altrender="Record carton" id="aspace_5fd68f8de9e99ceaf09f237b2a9a27e1" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_82485cf2d5a633957b8de0586b52c43b" parent="aspace_5fd68f8de9e99ceaf09f237b2a9a27e1" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Charges against John Santo (2)</unittitle>
-            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
-            <container altrender="Record carton" id="aspace_258afc5f64b5b16170c77fe40c0bc104" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_e936358a8907851d99686147364e5201" parent="aspace_258afc5f64b5b16170c77fe40c0bc104" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Statement by John Santo</unittitle>
-            <unitdate datechar="creation" normal="1937/1957" type="inclusive">ca.1947</unitdate>
-            <container altrender="Record carton" id="aspace_08f79f8113f54937cea91e415d348e9d" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_a431319d29e78ad97d3d1aa13cbd6ea3" parent="aspace_08f79f8113f54937cea91e415d348e9d" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Administration: Minutes of the International Executive Board Meeting</unittitle>
-            <unitdate datechar="creation">Sep 1947</unitdate>
-            <container altrender="Record carton" id="aspace_9970d839fcc7377be31aaae20c816834" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_936a057e6b2acd5756df358062b3877d" parent="aspace_9970d839fcc7377be31aaae20c816834" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Air Transport Division: Arbitration Dispute with Pan American Airways, Inc.</unittitle>
-            <unitdate datechar="creation">May 1947</unitdate>
-            <container altrender="Record carton" id="aspace_a45d74062003d85aec6925258e1a5a2c" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_18ce0f503d040398c6c5193fe6fda101" parent="aspace_a45d74062003d85aec6925258e1a5a2c" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Air Transport Division: Statements from ATD, Flight Safety</unittitle>
-            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
-            <container altrender="Record carton" id="aspace_bc4185e189d9c47aa0005199fc4605e6" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_ad21369b5d979a2739dbc7f94f887309" parent="aspace_bc4185e189d9c47aa0005199fc4605e6" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence - Charles Smolikoff</unittitle>
-            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
-            <container altrender="Record carton" id="aspace_66bfde8bc7dea41792865d589ce344e4" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_4f0ae38214c77db581e23a846dafa23e" parent="aspace_66bfde8bc7dea41792865d589ce344e4" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>International Executive Board Meeting (1)</unittitle>
-            <unitdate datechar="creation">Nov 1948</unitdate>
-            <container altrender="Record carton" id="aspace_334e296836e84d302fa66338bc3f5b98" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_fe4ee5a3c63d69f31e1b68f3cf0e233f" parent="aspace_334e296836e84d302fa66338bc3f5b98" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>International Executive Board Meeting (2)</unittitle>
-            <unitdate datechar="creation">Nov 1948</unitdate>
-            <container altrender="Record carton" id="aspace_d973cbca3c5cae523ab24bf6637f037e" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_0d078bcdd3f2b07d7d29b661d416e5d7" parent="aspace_d973cbca3c5cae523ab24bf6637f037e" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Sixth Biennial Convention</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <container altrender="Record carton" id="aspace_0e2c35a6a861b1501dba39962333109e" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_feb9f8e0fb9982a027b8f03ae8a416d8" parent="aspace_0e2c35a6a861b1501dba39962333109e" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <container altrender="Record carton" id="aspace_9ea93bb655826f3a4c00f59e9135c511" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_1dbbed61592806a1f70eb4a4ec1e2cb8" parent="aspace_9ea93bb655826f3a4c00f59e9135c511" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Air Transport Division: Administration</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <container altrender="Record carton" id="aspace_6d2f52bde6b2c5f7e32937cae315f3c9" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_574f323b242db7af4526da9d81775658" parent="aspace_6d2f52bde6b2c5f7e32937cae315f3c9" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Air Transport Division: Committee for Air Transport Autonomy</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <container altrender="Record carton" id="aspace_a42d05d823398e05bc29155eba001c9f" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_3784f15f981feeff98221f1aa9054ad1" parent="aspace_a42d05d823398e05bc29155eba001c9f" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Air Transport Division: Arbitration with American Airlines (1)</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <container altrender="Record carton" id="aspace_977fbfaae6285d949ec745758aed2b67" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_618df8ba15aec44bd2c6d80a2346da62" parent="aspace_977fbfaae6285d949ec745758aed2b67" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Air Transport Division: Arbitration with American Airlines (2)</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <container altrender="Record carton" id="aspace_10691d82effae7275ae1e24d2cbad1ec" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_ade1cf98de1aaee0aae8036722e1119a" parent="aspace_10691d82effae7275ae1e24d2cbad1ec" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Charles Smolikoff</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <container altrender="Record carton" id="aspace_b3fcbff5098587d16f1b5a41a2590c3e" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_035e9ed817b4d4764c19f80f7575b804" parent="aspace_b3fcbff5098587d16f1b5a41a2590c3e" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>Proceedings of Airline Conference</unittitle>
-            <unitdate datechar="creation">Dec 1948</unitdate>
-            <container altrender="Record carton" id="aspace_11c8ecd9f74c2200fa9c2db2300f18e2" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_4dcf2952d7d41c341e6975f3123ced7b" parent="aspace_11c8ecd9f74c2200fa9c2db2300f18e2" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>Local 252</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <container altrender="Record carton" id="aspace_116c5674fb655c58bc12762bca6d682d" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_cbbf522d69dca04384bcb27ac4530d9a" parent="aspace_116c5674fb655c58bc12762bca6d682d" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>International Executive Board Meeting TWU Local 252</unittitle>
-            <unitdate datechar="creation">May 1949</unitdate>
-            <container altrender="Record carton" id="aspace_2c54674b80716eafedf7f72ce476dfb3" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_08fbd7ff3fc1c0e4a120fdd69a686e7d" parent="aspace_2c54674b80716eafedf7f72ce476dfb3" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Record carton" id="aspace_d023c218d39705a356d616fe8cbdf86b" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_4df150fbc3cf459d712af4a2361692c9" parent="aspace_d023c218d39705a356d616fe8cbdf86b" type="Folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Air Transport Division: Administration</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Record carton" id="aspace_8b83d78dac9ef304d378f48670fdda7e" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_d97332b699a170296cba875dc1d65296" parent="aspace_8b83d78dac9ef304d378f48670fdda7e" type="Folder">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>Air Transport Division: Committee for Air Transport Autonomy</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Record carton" id="aspace_2b8ca326805622de87857d4bec5594f0" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_01d18859d9f3d821521b59ad84bda320" parent="aspace_2b8ca326805622de87857d4bec5594f0" type="Folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Correspondence: Charles Smolikoff</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Record carton" id="aspace_43ea1bca1af7c4c7dde920c3d1fed320" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_67049643eb699ad2f66427cea60a9fcd" parent="aspace_43ea1bca1af7c4c7dde920c3d1fed320" type="Folder">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Armand Scala</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Record carton" id="aspace_6d41f11ee39bf8083a30fcefd4e5c329" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_51e9fe508adcb1357bf5c28944ce84d6" parent="aspace_6d41f11ee39bf8083a30fcefd4e5c329" type="Folder">34</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="file">
-          <did>
-            <unittitle>Correspondence: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Record carton" id="aspace_2a9a6525b4a127cddc13e9a7f73185ff" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_b401a257789a5049355535f282439ffa" parent="aspace_2a9a6525b4a127cddc13e9a7f73185ff" type="Folder">35</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="file">
-          <did>
-            <unittitle>TWO Local 252</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Record carton" id="aspace_c141a12581c789f477856847e9bbef45" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_74ce9db4ab0a75c440ba696e74101976" parent="aspace_c141a12581c789f477856847e9bbef45" type="Folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="file">
-          <did>
-            <unittitle>Personal; March of Labor, Inc.</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Record carton" id="aspace_bb934abdadb59b21cb06ec9adc4a3641" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_ea35c27214ba8589c471bcb8d6dbf36d" parent="aspace_bb934abdadb59b21cb06ec9adc4a3641" type="Folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="file">
-          <did>
-            <unittitle>Charges against M.F.</unittitle>
-            <unitdate datechar="creation">Mar 1950</unitdate>
-            <container altrender="Record carton" id="aspace_01858007b08b0091b3f8c9517b97d2f5" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_0bfa22aac114fec5654534f4aba1b5f2" parent="aspace_01858007b08b0091b3f8c9517b97d2f5" type="Folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref54" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <container altrender="Record carton" id="aspace_f371f2d850ffc1419419666df3811c5c" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_4ac5a662e0f07735316475be725b18d7" parent="aspace_f371f2d850ffc1419419666df3811c5c" type="Folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="file">
-          <did>
-            <unittitle>Airline Division: Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <container altrender="Record carton" id="aspace_fe655446506496b17fd2323f0c8436f6" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_3ebb3a7b92a03e493882b1c62e94d359" parent="aspace_fe655446506496b17fd2323f0c8436f6" type="Folder">40</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Charles Smolikoff</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <container altrender="Record carton" id="aspace_18939c1c3bed6f5c13edad553dc3f46d" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_a0b68f73a576e98592b123e0f27ca7bd" parent="aspace_18939c1c3bed6f5c13edad553dc3f46d" type="Folder">41</container>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Armand Scala</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <container altrender="Record carton" id="aspace_f94f2dfaec7a04b435743afd8cd08a2a" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_36c7be081aa3dfb0500cd3a9336ac399" parent="aspace_f94f2dfaec7a04b435743afd8cd08a2a" type="Folder">42</container>
-          </did>
-        </c>
-        <c id="aspace_ref58" level="file">
-          <did>
-            <unittitle>Air Transport Division: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <container altrender="Record carton" id="aspace_df711b9557a3f65b831283176aa9a8a9" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_37902e34999da0c236528d12381e1c11" parent="aspace_df711b9557a3f65b831283176aa9a8a9" type="Folder">43</container>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="file">
-          <did>
-            <unittitle>TWU Local 252</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <container altrender="Record carton" id="aspace_8ca5d484f66d87c74543f17319a6b916" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_ba56f1ffda9801805cf23c986bfde16d" parent="aspace_8ca5d484f66d87c74543f17319a6b916" type="Folder">44</container>
-          </did>
-        </c>
-        <c id="aspace_ref60" level="file">
-          <did>
-            <unittitle>TWU Local 100</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <container altrender="Record carton" id="aspace_e9bc7f2e07a8b1fa5243396075bcb8a9" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_683082d345433d5d9655620418b75850" parent="aspace_e9bc7f2e07a8b1fa5243396075bcb8a9" type="Folder">45</container>
-          </did>
-        </c>
-        <c id="aspace_ref61" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-            <container altrender="Record carton" id="aspace_26d71c3aae48dd9c95e01defa4f92bfe" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_7dd5b3a31dc08388d0da7b70ddf458b5" parent="aspace_26d71c3aae48dd9c95e01defa4f92bfe" type="Folder">46</container>
-          </did>
-        </c>
-        <c id="aspace_ref62" level="file">
-          <did>
-            <unittitle>Correspondence; Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-            <container altrender="Record carton" id="aspace_923e053e8a20289a4547199b39faca8c" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_49e862e2c62baac6d8d58429ef0cd7da" parent="aspace_923e053e8a20289a4547199b39faca8c" type="Folder">47</container>
-          </did>
-        </c>
-        <c id="aspace_ref63" level="file">
-          <did>
-            <unittitle>Air Transport Division: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
-            <container altrender="Record carton" id="aspace_76f78db0f54b90557752adcb44851e1c" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_e9fc6c7b5748dd919e225f42ed959b49" parent="aspace_76f78db0f54b90557752adcb44851e1c" type="Folder">48</container>
-          </did>
-        </c>
-        <c id="aspace_ref64" level="file">
-          <did>
-            <unittitle>TWU Local 252</unittitle>
-            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
-            <container altrender="Record carton" id="aspace_5abe9323874661850e64188ee44e0e72" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_a06df4e72337906ec27acfbbfb0326b3" parent="aspace_5abe9323874661850e64188ee44e0e72" type="Folder">49</container>
-          </did>
-        </c>
-        <c id="aspace_ref65" level="file">
-          <did>
-            <unittitle>Personal: Religion, Sacraments</unittitle>
-            <unitdate datechar="creation" normal="1942/1962" type="inclusive">ca.1952</unitdate>
-            <container altrender="Record carton" id="aspace_d72ab593127cd2862e824363fb5bf703" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_9e40dd30b12bae20eaa709b920c297bc" parent="aspace_d72ab593127cd2862e824363fb5bf703" type="Folder">50</container>
-          </did>
-        </c>
-        <c id="aspace_ref66" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
-            <container altrender="Record carton" id="aspace_1d14f8c21c34a133237fb046479331d6" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_ea55349c9a45e4c85edcb75dd0d1e926" parent="aspace_1d14f8c21c34a133237fb046479331d6" type="Folder">51</container>
-          </did>
-        </c>
-        <c id="aspace_ref67" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence; labor dispute of Pan American Airlines mechanics</unittitle>
-            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
-            <container altrender="Record carton" id="aspace_56de7374d6ede16818193062385160dd" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_a23acc123b26920b83ca51d0d95fe49f" parent="aspace_56de7374d6ede16818193062385160dd" type="Folder">52</container>
-          </did>
-        </c>
-        <c id="aspace_ref68" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
-            <container altrender="Record carton" id="aspace_da23ed080ec278997541280cc3c42887" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_2d31032b11f2cb54f63196f66af3a950" parent="aspace_da23ed080ec278997541280cc3c42887" type="Folder">53</container>
-          </did>
-        </c>
-        <c id="aspace_ref69" level="file">
-          <did>
-            <unittitle>TWU Local 252</unittitle>
-            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
-            <container altrender="Record carton" id="aspace_e75f93bc1fae84d5041c630463087717" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_fd15d943de29cc345329613bed38463a" parent="aspace_e75f93bc1fae84d5041c630463087717" type="Folder">54</container>
-          </did>
-        </c>
-        <c id="aspace_ref70" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <container altrender="Record carton" id="aspace_e2bbe6386c461ded4896fb8cfb2beb5a" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_cfecf7be7d2d6e43910c16308e8fedfc" parent="aspace_e2bbe6386c461ded4896fb8cfb2beb5a" type="Folder">55</container>
-          </did>
-        </c>
-        <c id="aspace_ref71" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <container altrender="Record carton" id="aspace_7c7b5945b665dcea81c3d6cefd663952" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_d8674d490ed965bee852a183f453a08f" parent="aspace_7c7b5945b665dcea81c3d6cefd663952" type="Folder">56</container>
-          </did>
-        </c>
-        <c id="aspace_ref72" level="file">
-          <did>
-            <unittitle>Personal: Correspondence: Crestwood Bus Service</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <container altrender="Record carton" id="aspace_6a5f294546f520d2259b19bfc2c8da03" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_d760f8f19f74189158beb8e8bf3d3724" parent="aspace_6a5f294546f520d2259b19bfc2c8da03" type="Folder">57</container>
-          </did>
-        </c>
-        <c id="aspace_ref73" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
-            <container altrender="Record carton" id="aspace_129e7fa91d5c4290aa6258ec5c06b1b3" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_203d31ad27a29756c765ea300a663b74" parent="aspace_129e7fa91d5c4290aa6258ec5c06b1b3" type="Folder">58</container>
-          </did>
-        </c>
-        <c id="aspace_ref74" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
-            <container altrender="Record carton" id="aspace_70851f558bf4b00f0831665d884a0654" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_1021c44503a8d9f37c3ff6efff222cb3" parent="aspace_70851f558bf4b00f0831665d884a0654" type="Folder">59</container>
-          </did>
-        </c>
-        <c id="aspace_ref75" level="file">
-          <did>
-            <unittitle>Correspondence: John Santo and Michael Quill</unittitle>
-            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
-            <container altrender="Record carton" id="aspace_52a98928f824a4911df7f1790c3fde21" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_557c9c799e120abbb67c793700e9c250" parent="aspace_52a98928f824a4911df7f1790c3fde21" type="Folder">60</container>
-          </did>
-        </c>
-        <c id="aspace_ref76" level="file">
-          <did>
-            <unittitle>Air Transport Division: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
-            <container altrender="Record carton" id="aspace_417da6da7b68208f45a4ed0ea9412c87" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_57d11805c6f49c4f0025c254baad291d" parent="aspace_417da6da7b68208f45a4ed0ea9412c87" type="Folder">61</container>
-          </did>
-        </c>
-        <c id="aspace_ref77" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence; M.L. Edwards to B.H. Diesen</unittitle>
-            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
-            <container altrender="Record carton" id="aspace_2f6e5426135ad466bcf7c4eed7e57d1d" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_4188b7d36c27954c94151d5640e7f373" parent="aspace_2f6e5426135ad466bcf7c4eed7e57d1d" type="Folder">62</container>
-          </did>
-        </c>
-        <c id="aspace_ref78" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
-            <container altrender="Record carton" id="aspace_f78642a8ca243936c54e86ff921233df" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_d89d85ba19b1aa148d27f929106b8960" parent="aspace_f78642a8ca243936c54e86ff921233df" type="Folder">63</container>
-          </did>
-        </c>
-        <c id="aspace_ref79" level="file">
-          <did>
-            <unittitle>TWU Local 252 Agreement</unittitle>
-            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
-            <container altrender="Record carton" id="aspace_b1b92116ed3c909713a9b2da6c1fc65d" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_30c318a47b73a53e78bb1815cb932fcf" parent="aspace_b1b92116ed3c909713a9b2da6c1fc65d" type="Folder">64</container>
-          </did>
-        </c>
-        <c id="aspace_ref80" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
-            <container altrender="Record carton" id="aspace_4447b74a757f526a44a0e2d819dc18b3" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_3847abf5f0cfa2c1befbce899f33fea0" parent="aspace_4447b74a757f526a44a0e2d819dc18b3" type="Folder">65</container>
-          </did>
-        </c>
-        <c id="aspace_ref81" level="file">
-          <did>
-            <unittitle>Air Transport Division: Flight Engineer Dispute</unittitle>
-            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-            <container altrender="Record carton" id="aspace_2846712f9c5d52c98c4e645048079e3b" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_6ada60f5bcba11f5f85e100506a6b7aa" parent="aspace_2846712f9c5d52c98c4e645048079e3b" type="Folder">66</container>
-          </did>
-        </c>
-        <c id="aspace_ref82" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-            <container altrender="Record carton" id="aspace_6c4c4043f579745743cf7978d3034c40" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_3cce11dafd7c24e847ac315dc9e10df1" parent="aspace_6c4c4043f579745743cf7978d3034c40" type="Folder">67</container>
-          </did>
-        </c>
-        <c id="aspace_ref83" level="file">
-          <did>
-            <unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Record carton" id="aspace_9c38773b647095de5455fa3ad0e62049" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_a33ce74280249d10dbac669745197d11" parent="aspace_9c38773b647095de5455fa3ad0e62049" type="Folder">68</container>
-          </did>
-        </c>
-        <c id="aspace_ref84" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1934/1986" type="inclusive">undated</unitdate>
-            <container altrender="Record carton" id="aspace_5f76ea9e83643bb9a5520a04f41603c0" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_cc38eabe64050d2bdcc8eea3989b00b3" parent="aspace_5f76ea9e83643bb9a5520a04f41603c0" type="Folder">69</container>
-          </did>
-        </c>
-        <c id="aspace_ref85" level="file">
-          <did>
-            <unittitle>Air Transport Division and Dave Lippert</unittitle>
-            <unitdate datechar="creation" normal="1934/1986" type="inclusive">undated</unitdate>
-            <container altrender="Record carton" id="aspace_9aa13bd204e982eb642f12e6ef50b82f" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_48592b0f8d3c3d0390804d9ca0771092" parent="aspace_9aa13bd204e982eb642f12e6ef50b82f" type="Folder">70</container>
-          </did>
-        </c>
-        <c id="aspace_ref86" level="file">
-          <did>
-            <unittitle>TWU Local 252</unittitle>
-            <unitdate datechar="creation" normal="1934/1986" type="inclusive">undated</unitdate>
-            <container altrender="Record carton" id="aspace_083fccb48122cf408bc4530cbbd9d289" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_d59a1fe091b300f10e244b7f38ed9124" parent="aspace_083fccb48122cf408bc4530cbbd9d289" type="Folder">71</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref87" level="series">
-        <did>
-          <unittitle>Series II: Clippings, Credentials, Flyers, Pamphlets, Photographs</unittitle>
-          <unitdate datechar="creation" normal="1937/1986" type="inclusive">1937-1986</unitdate>
-        </did>
-        <scopecontent id="aspace_d3c465e5ba37d79a8ccfac09a7e37420">
-          <head>Scope and Content Note</head>
-          <p>Series II includes clippings on TWU leaders and labor issues; flyers publicizing union activities; and pamphlets by and about the TWU and the ATD. Other materials include publicity by the House Un-American Activities Committee (HUAC) directed at TWU members and other government anti-Communist publications; a pamphlet, " <title>How the Milwaukee Sentinel Exposed Milwaukee Communists</title>"; and a HUAC publication of John Santo's trial transcript. Also in this series are photocopied clippings of editorials written by Forge in the 1970s and 1980s, a file of Forge's credentials and identification cards, and photographs.</p>
-        </scopecontent>
-        <c id="aspace_ref88" level="file">
-          <did>
-            <unittitle>Clippings: TWU</unittitle>
-            <unitdate datechar="creation" normal="1937/1951" type="inclusive">1937-1951</unitdate>
-            <container altrender="Record carton" id="aspace_2adbab0c210f37ebc27edae913a7f83c" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_a65633bcbb479295914512a45c6ef54e" parent="aspace_2adbab0c210f37ebc27edae913a7f83c" type="Folder">72</container>
-          </did>
-        </c>
-        <c id="aspace_ref89" level="file">
-          <did>
-            <unittitle>Clippings: Communism within TWU</unittitle>
-            <unitdate datechar="creation" normal="1937/1954" type="inclusive">1937-1954</unitdate>
-            <container altrender="Record carton" id="aspace_2f5cd6b7501bc9d1ded83395897a10a0" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_4ceabd69d13ce462cb05d44620f871b2" parent="aspace_2f5cd6b7501bc9d1ded83395897a10a0" type="Folder">73</container>
-          </did>
-        </c>
-        <c id="aspace_ref90" level="file">
-          <did>
-            <unittitle>Clippings: TWU Local 252 and bus strikes</unittitle>
-            <unitdate datechar="creation" normal="1939/1954" type="inclusive">1939-1954</unitdate>
-            <container altrender="Record carton" id="aspace_99f79d4ef2c1efa3a696c699a59415d4" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_e5a6e2671a09a884d487901be9b96984" parent="aspace_99f79d4ef2c1efa3a696c699a59415d4" type="Folder">74</container>
-          </did>
-        </c>
-        <c id="aspace_ref91" level="file">
-          <did>
-            <unittitle>Clippings: Michael Quill</unittitle>
-            <unitdate datechar="creation" normal="1948/1956" type="inclusive">1948-1956</unitdate>
-            <container altrender="Record carton" id="aspace_a9d451c3cd845d5715142df0b7cccb27" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_4932cc0ce79a44f4a40d2ae94bed39cd" parent="aspace_a9d451c3cd845d5715142df0b7cccb27" type="Folder">75</container>
-          </did>
-        </c>
-        <c id="aspace_ref92" level="file">
-          <did>
-            <unittitle>Clippings: John Santo</unittitle>
-            <unitdate datechar="creation" normal="1956/1957" type="inclusive">1956-1957</unitdate>
-            <container altrender="Record carton" id="aspace_b1247259bd69878e30d4757f8abbc213" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_0e25dd77000bd2e96bb9c874085619ab" parent="aspace_b1247259bd69878e30d4757f8abbc213" type="Folder">76</container>
-          </did>
-        </c>
-        <c id="aspace_ref93" level="file">
-          <did>
-            <unittitle>Clippings: M.F. Editorials</unittitle>
-            <unitdate datechar="creation" normal="1974/1986" type="inclusive">1974-1986</unitdate>
-            <container altrender="Record carton" id="aspace_81490c08d7c5111ed8aed0a2cc9b5392" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_398d7ede4160f31ea4d6ce9a5a3f58f8" parent="aspace_81490c08d7c5111ed8aed0a2cc9b5392" type="Folder">77</container>
-          </did>
-        </c>
-        <c id="aspace_ref94" level="file">
-          <did>
-            <unittitle>Credentials and invitation cards</unittitle>
-            <unitdate datechar="creation" normal="1939/1943" type="inclusive">1939-1943</unitdate>
-            <container altrender="Record carton" id="aspace_09a3db3573299d720538a3d655e3c664" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_db07789d5ce51fc35d443b60ff2ac826" parent="aspace_09a3db3573299d720538a3d655e3c664" type="Folder">78</container>
-          </did>
-        </c>
-        <c id="aspace_ref95" level="file">
-          <did>
-            <unittitle>Flyers: TWU</unittitle>
-            <unitdate datechar="creation" normal="1942/1955" type="inclusive">1942-1955</unitdate>
-            <container altrender="Record carton" id="aspace_f0597fa95dc47d4a7b20594e2fa95e83" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_d441cb3667e04e1322dc5614cd4df484" parent="aspace_f0597fa95dc47d4a7b20594e2fa95e83" type="Folder">79</container>
-          </did>
-        </c>
-        <c id="aspace_ref96" level="file">
-          <did>
-            <unittitle>Pamphlets: TWU</unittitle>
-            <unitdate datechar="creation" normal="1939/1946" type="inclusive">1939-1946</unitdate>
-            <container altrender="Record carton" id="aspace_3a70992c3aeb5cf3dae885613324b543" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_2c63f0c426614110f21e18134de88059" parent="aspace_3a70992c3aeb5cf3dae885613324b543" type="Folder">80</container>
-          </did>
-        </c>
-        <c id="aspace_ref97" level="file">
-          <did>
-            <unittitle>Pamphlets: "How the Milwaukee Sentinel Exposed Milwaukee Communists"</unittitle>
-            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
-            <container altrender="Record carton" id="aspace_95f290dc69106796e3e34bb2512a4aef" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_f5014f11b5e37d2bf794d619121621c6" parent="aspace_95f290dc69106796e3e34bb2512a4aef" type="Folder">81</container>
-          </did>
-        </c>
-        <c id="aspace_ref98" level="file">
-          <did>
-            <unittitle>Pamphlets: Anti-Communist</unittitle>
-            <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
-            <container altrender="Record carton" id="aspace_12ce1902a9c7907e667e844b716b444b" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_3ec2a59bc58880d679477051bec85ce9" parent="aspace_12ce1902a9c7907e667e844b716b444b" type="Folder">82</container>
-          </did>
-        </c>
-        <c id="aspace_ref99" level="file">
-          <did>
-            <unittitle>Pamphlets: HUAC, John Santo testimony</unittitle>
-            <unitdate datechar="creation">Mar 1963</unitdate>
-            <container altrender="Record carton" id="aspace_b93430145a2acc3b723a1742be754e6c" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_2a6a3d1824ba3cdd70d05dc5097c713c" parent="aspace_b93430145a2acc3b723a1742be754e6c" type="Folder">83</container>
-          </did>
-        </c>
-        <c id="aspace_ref102" level="file">
-          <did>
-            <unittitle>Photographs</unittitle>
-            <unitdate datechar="creation" normal="1934/1948" type="inclusive">circa 1934-1948</unitdate>
-            <container altrender="Record carton" id="aspace_847c292b744856e9586b1900eb462a0e" label="Mixed Materials [31142062721249]" type="Box">1</container>
-            <container id="aspace_329ee3b4038bd32d89d42537aebc179e" parent="aspace_847c292b744856e9586b1900eb462a0e" type="Folder">84</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>WAG.106</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 record carton.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1936/1986" type="inclusive">1936-1986</unitdate>
+    <unitdate datechar="creation" normal="1940/1950" type="bulk">1940-1950</unitdate>
+    <abstract id="aspace_7e64355784ae59e86895daa772466816" label="Abstract">Maurice Forge (1902-1990) was a New York bus driver who became an organizer, news editor, and ultimately a vice president of the Transport Workers Union (TWU). In the late 1930s, Forge began organizing the TWU's Airline Transport Division (ATD). A decade later, a union-wide effort to sever TWU ties with the Communist Party resulted in Forge's expulsion from the TWU. The Maurice Forge Papers include materials from Forge's TWU career, including union publicity materials, official correspondence, and transcripts of Forge's TWU hearing and of the government deportation hearing of TWU official John Santo.</abstract>
+    <langmaterial id="aspace_be7ba879a2a76cafd139b12db292dfd6">Materials are in English</langmaterial>
+  </did>
+  <acqinfo id="aspace_b9569b19f062643b153aa6e0b4ae1898">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Maurice Forge, 1986. The accession numbers associated with this gift are 1986.011 and 1986.025.</p>  </acqinfo>
+  <accessrestrict id="aspace_f6f32f1b3b407941c97f638a2086d9e8">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_7429cdfa4a78a833ca373e5624377ec2">
+    <head>Historical/Biographical Note</head>
+<p>Maurice Forge was born on October 6, 1902 in New York City. After losing his job as a commercial artist in 1930, Forge became a bus driver. Working at night, Forge began organizing by day for the fledgling Transport Workers Union (TWU). His union involvement deepened when he became editor of the <title render="italic">TWU Bulletin</title>. Forge, a Communist Party member, was hired as a full-time paid union organizer, and became the leading force behind the TWU's Publicity Department. In the late 1930s, Forge became a TWU vice-president and director of the union's new Air Transport Division (ATD). Airline organizing brought him into conflict with other CIO unions, as well as with powerful elements within the TWU who questioned the wisdom of investing union resources in this new venture. Despite some successes, Forge was discouraged about the lack of adequate support from the TWU establishment, leading him to champion the formation of a Committee for Air Transport Autonomy (CATA) after TWU's Biennial Convention in 1948. In the late 1940s, TWU president Michael Quill broke with the Communist Party, and union officials set about severing TWU's ties to the Party. Forge was tried before a union committee and, along with other influential TWU members, expelled from the union.</p><p>Forge went back to bus driving on Long Island, and continued to participate, unofficially, in the activities of TWU Local 252. Eventually he bought and ran the Crestwood Bus Company (he sold the company in 1970). Over the years, Forge maintained contact with many former colleagues from the ATD and from TWU Locals 100 and 252. He also remained close to Michael Quill, and, after many years lobbying to regain his TWU membership, Forge was granted reinstatement in 1984.</p><p>Forge died in Freeport, Long Island in February 1990.</p>  </bioghist>
+  <processinfo id="aspace_114b64735fb6536910a995f5805399b5">
+    <head>Processing Information</head>
+<p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Maurice Forge Photographs (PHOTOS 204). In 2014, the photograph collection was reincorporated into the Maurice Forge Papers.</p>  </processinfo>
+  <scopecontent id="aspace_466e9e803dbfe750ce22fc736c39c9fa">
+    <head>Scope and Content Note</head>
+<p>The Maurice Forge Papers include materials from Forge's TWU career, including union publicity materials, official correspondence, and transcripts of Forge's TWU hearing and of the government deportation hearing of TWU official John Santo.</p>  </scopecontent>
+  <arrangement id="aspace_1de750ada9f64090bbc18490369d2e74">
+    <head>Arrangement</head>
+<p>Series I is arranged chronologically. Series II is arranged alphabetically according to type of material; within these sections files are arranged chronologically.</p><p>Organized into two series:</p>    <list numeration="upperroman" type="ordered">
+      <head>Missing Title</head>
+      <item>General Files</item>
+      <item>Clippings, Credentials, Flyers, Pamphlets, Photographs</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_d8f29bbd9437c3bb4afdcec091bbd17f">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>For more information about the Transport Workers Union of America, see the Transport Workers Union of America Records (WAG 235).</p><p>The Transport Workers Union Oral History Collection (OH 11) includes an interview with Maurice Forge.</p>  </relatedmaterial>
+  <separatedmaterial id="aspace_3e9fd464b6a03920a0cd316f3b53ab2c">
+    <head>Separated Material</head>
+<p>TWU newspapers, <title render="italic">Transport Workers Bulletin, Rank and File Newsletter</title> and the <title render="italic">Transit Bulletin</title> were transferred to the Tamiment Library newspaper collection.</p>  </separatedmaterial>
+  <userestrict id="aspace_399c8e3a67ed35ce39a09e59bf3ef65a">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Maurice Forge was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <prefercite id="aspace_ed894096fef746451d9745002ae75a65">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Maurice Forge Papers; WAG 106; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Articles.</genreform>
+    <subject source="lcsh">Labor leaders -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Collective labor agreements -- Transport workers -- United States.</subject>
+    <subject source="lcsh">Transport workers -- Labor unions -- New York (State) -- New York -- History.</subject>
+    <subject source="lcsh">Transport workers -- Labor unions -- United States</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
+    <subject source="lcsh">Airlines |x Employees |x Labor unions |z United States.</subject>
+    <genreform source="aat">Hearings (event)</genreform>
+    <subject source="lcsh">Bus drivers |z New York (State) |z New York.</subject>
+    <genreform source="aat">Reports.</genreform>
+    <subject source="lcsh">Airlines |x Employees |z United States.</subject>
+    <subject source="lcsh">Communists |z New York (State) |z New York.</subject>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <subject source="lcsh">Collective bargaining -- Transport workers -- United States.</subject>
+    <subject source="lcsh">Collective bargaining -- United States.</subject>
+    <genreform source="aat">Leaflets (printed works)</genreform>
+    <persname source="naf">Santo, John, 1908-</persname>
+    <corpname authfilenumber="(lccn)n98079704" source="naf">Brooklyn-Manhattan Transit Company</corpname>
+    <persname rules="dacs" source="local">Forge, Maurice, 1902-1990</persname>
+    <corpname authfilenumber="(lccn)n93014355" source="naf">Transport Workers Union of America. Local 100</corpname>
+    <corpname source="local">Transport Workers Union of America. Air Transport Division</corpname>
+    <corpname source="local">Committee for Air Transport Autonomy</corpname>
+    <corpname authfilenumber="(lccn)n83147602" source="naf">Transport Workers Union of America</corpname>
+    <corpname authfilenumber="(lccn)n50080338" source="naf">Trans World Airlines</corpname>
+    <corpname authfilenumber="(lccn)nr95044401" source="naf">Interborough Rapid Transit Company</corpname>
+    <corpname source="local">Transport Workers Union of America. Local 252 (Westbury, N.Y.)</corpname>
+    <corpname source="local">Transport Workers Union of America. Local 234 (Philadelphia, Pa.)</corpname>
+    <corpname authfilenumber="(lccn)n81009271" source="naf">Pan American Airways Corporation</corpname>
+    <persname source="naf">Quill, Mike, 1905-1966</persname>
+    <persname role="dnr" rules="dacs" source="local">Forge, Maurice, 1902-1990</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: General Files</unittitle><unitdate datechar="creation" normal="1936/1961" type="inclusive">1936-1961</unitdate></did><scopecontent id="aspace_154175a3a39d15bcd9c984e93205ed85"><head>Scope and Content Note</head><p>Series I includes Forge's personal and official correspondence, TWU Executive Board minutes, trial transcripts, leaflets and ATD reports. Documents reflect Forge's activity in the TWU, especially from the late 1940s, when he came into conflict with TWU officials. Also in this series are materials reflecting Forge's involvement in the creation and development of the ATD and CATA. Correspondence includes letters to his wife, Bess, letters from TWU president Michael Quill and former TWU official John Santo after Santo's deportation to Hungary for being a non-citizen Communist Party activist; and letters with Charles Smolikoff, Armand Scala, and Fred Swick of the TWU about the progress of forming the ATD. Also included is a 1947 transcript of Santo's Department of Immigration trial, as well as a transcript of 1950 proceedings against Forge by the TWU.</p></scopecontent><c id="aspace_ref16" level="file"><did><unittitle>Administration: Executive Board members and correspondence</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Record carton" id="aspace_3073fd724486db58a60b03389a604d81" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_015fac20edee0116b3cf77d42d0eddae" parent="aspace_3073fd724486db58a60b03389a604d81" type="Folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Constitution</unittitle><unitdate datechar="creation" normal="1937/1948" type="inclusive">1937 , 1948</unitdate><container altrender="Record carton" id="aspace_868aef70fee1962b07d1aec3eb04d053" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_33a5f44ed8e403bb96b18628e54b8cab" parent="aspace_868aef70fee1962b07d1aec3eb04d053" type="Folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Administration: Fordham Bus Company Administration: Fordham Bus Company</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Record carton" id="aspace_81dfa9e36ea42a425ebff4028c3556d7" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_89ae67880c666242ff39badb55d31a91" parent="aspace_81dfa9e36ea42a425ebff4028c3556d7" type="Folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Record carton" id="aspace_1624da2ae96173df33d6b420095bd5cd" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_b1da20820ea41b3115619398c996fb46" parent="aspace_1624da2ae96173df33d6b420095bd5cd" type="Folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Record carton" id="aspace_6f0ebf4d1485584d309dbb1ae4d5e50f" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_3e49d69998109c11e2ff4dca3702e0a9" parent="aspace_6f0ebf4d1485584d309dbb1ae4d5e50f" type="Folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence: Arthur S. Meyer to John Santo</unittitle><unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate><container altrender="Record carton" id="aspace_df45f43d061b9e7eff4b0394d841ee6a" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_5c9f8f3195e4f1019246a899eca008c0" parent="aspace_df45f43d061b9e7eff4b0394d841ee6a" type="Folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate><container altrender="Record carton" id="aspace_f46efaa0bb6fafcce4bd485cc71f600a" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_093366b04deeffe3fd4ff746c6c05647" parent="aspace_f46efaa0bb6fafcce4bd485cc71f600a" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Record carton" id="aspace_bc1bb2c93868938fdb9a7405c2378e1e" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_69eb38cd62180c20f3272c7d089ad5e1" parent="aspace_bc1bb2c93868938fdb9a7405c2378e1e" type="Folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Record carton" id="aspace_47aa6da6db49c13277fcdc029c749015" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_757bfd41ca82dbd1a82add312d74b35f" parent="aspace_47aa6da6db49c13277fcdc029c749015" type="Folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence: M.F. to Bess Forge</unittitle><unitdate datechar="creation" normal="1945/1949" type="inclusive">1945-1949</unitdate><container altrender="Record carton" id="aspace_3b7bd1e07058e60fa5155455340d71dc" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_ad17109820e992ca59d626e33a813852" parent="aspace_3b7bd1e07058e60fa5155455340d71dc" type="Folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Charges against John Santo (1)</unittitle><unitdate datechar="creation">Oct 1947</unitdate><container altrender="Record carton" id="aspace_cb5ae50b66a48efb1da857e0a8ea7be8" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_3ca6144c5ce3a237e1e5e883ec5f2771" parent="aspace_cb5ae50b66a48efb1da857e0a8ea7be8" type="Folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Charges against John Santo (2)</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_57daeb5577a57b3c4d085d3d12d94806" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_b32b3fa3cd17ccdb0ef475599ec4ae77" parent="aspace_57daeb5577a57b3c4d085d3d12d94806" type="Folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Statement by John Santo</unittitle><unitdate datechar="creation" normal="1937/1957" type="inclusive">ca.1947</unitdate><container altrender="Record carton" id="aspace_b965dc34d4f997515b12a50e44f12324" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_af343d88c5ac1553344b66fdb38a7dd9" parent="aspace_b965dc34d4f997515b12a50e44f12324" type="Folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Administration: Minutes of the International Executive Board Meeting</unittitle><unitdate datechar="creation">Sep 1947</unitdate><container altrender="Record carton" id="aspace_165335b1b1aa9fdfc45ace8905a316cf" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_8f245ac7a9f06459cfb4c0769822231a" parent="aspace_165335b1b1aa9fdfc45ace8905a316cf" type="Folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Air Transport Division: Arbitration Dispute with Pan American Airways, Inc.</unittitle><unitdate datechar="creation">May 1947</unitdate><container altrender="Record carton" id="aspace_ea26009e1c6011796b54ae2902c0b717" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_dd71a7b34b52f45fc0837a3421cf32c1" parent="aspace_ea26009e1c6011796b54ae2902c0b717" type="Folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Air Transport Division: Statements from ATD, Flight Safety</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_a2494342c8e531fb4a4e591e7a7f4376" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_de901f483d095ab9b8ce519936d18c65" parent="aspace_a2494342c8e531fb4a4e591e7a7f4376" type="Folder">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Air Transport Division: Correspondence - Charles Smolikoff</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_9560f534c0ef1c8cd64ce174b42c1921" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_79959b69b903e8b2f4d4a23e5bf90f33" parent="aspace_9560f534c0ef1c8cd64ce174b42c1921" type="Folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>International Executive Board Meeting (1)</unittitle><unitdate datechar="creation">Nov 1948</unitdate><container altrender="Record carton" id="aspace_9bdfb9dbd01b5415a1fe0e0f1514ebf6" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_78de67f10ba18382fcb981c8331d4404" parent="aspace_9bdfb9dbd01b5415a1fe0e0f1514ebf6" type="Folder">18</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>International Executive Board Meeting (2)</unittitle><unitdate datechar="creation">Nov 1948</unitdate><container altrender="Record carton" id="aspace_a2e68d28e933933331bf054dadf27df5" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_7d23f5739c6c8786ab8d86596fb17ed9" parent="aspace_a2e68d28e933933331bf054dadf27df5" type="Folder">19</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Sixth Biennial Convention</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_d785ec645d5df281c0909a4dc7662dda" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_d03a7b8cc06cc75e24ea4ffab8fe9321" parent="aspace_d785ec645d5df281c0909a4dc7662dda" type="Folder">20</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_046cef431630f785024d0e66fa34ff2b" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_ed64028d45edc43c536eb0c4edd9b3a9" parent="aspace_046cef431630f785024d0e66fa34ff2b" type="Folder">21</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Air Transport Division: Administration</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_9f029ab0492e2168226a61c7581fcc12" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_a013648288c1750a19c33d4fd7f5feed" parent="aspace_9f029ab0492e2168226a61c7581fcc12" type="Folder">22</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Air Transport Division: Committee for Air Transport Autonomy</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_80742b38037de0fa0ea375e11c5cc122" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_487034a75ade2a476411aa0e654ac668" parent="aspace_80742b38037de0fa0ea375e11c5cc122" type="Folder">23</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Air Transport Division: Arbitration with American Airlines (1)</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_d6839bb6fad0f1fbfe1d8f7e544f4667" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_0871a751575589119033019eb1ed1220" parent="aspace_d6839bb6fad0f1fbfe1d8f7e544f4667" type="Folder">24</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Air Transport Division: Arbitration with American Airlines (2)</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_5cb281c6b9ba25606ecff0ec3e14b908" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_6d106eb359a1215763cf929e26535021" parent="aspace_5cb281c6b9ba25606ecff0ec3e14b908" type="Folder">25</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Air Transport Division: Correspondence: Charles Smolikoff</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_2a6f6963ce850c43449b711ba75516e2" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_6a87a431a3c6d23dc3cc1efe8a78d118" parent="aspace_2a6f6963ce850c43449b711ba75516e2" type="Folder">26</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Proceedings of Airline Conference</unittitle><unitdate datechar="creation">Dec 1948</unitdate><container altrender="Record carton" id="aspace_890d8aa116dee550ef9ebbd3f3f01a04" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_58c4f7cc970e75dc9116797d3f7ec9c9" parent="aspace_890d8aa116dee550ef9ebbd3f3f01a04" type="Folder">27</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Local 252</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_0eb3c96f3127f6523ce2cb5bff89e4af" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_5074a8e964a7e21b056236f69e61295e" parent="aspace_0eb3c96f3127f6523ce2cb5bff89e4af" type="Folder">28</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>International Executive Board Meeting TWU Local 252</unittitle><unitdate datechar="creation">May 1949</unitdate><container altrender="Record carton" id="aspace_dca1918f2976908da6dab11b00f7f0f6" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_ff5461ac37c8e8530872a2c206c480bf" parent="aspace_dca1918f2976908da6dab11b00f7f0f6" type="Folder">29</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Record carton" id="aspace_ada7e3f1d81e2597a013e2d5a7d8d81e" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_4089e4bb193a8f5f82bfd78d290c2da6" parent="aspace_ada7e3f1d81e2597a013e2d5a7d8d81e" type="Folder">30</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Air Transport Division: Administration</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Record carton" id="aspace_fcba30335727c050981d9e740924ecc4" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_f661a28e733f9b8b76f23a431fb9f3d3" parent="aspace_fcba30335727c050981d9e740924ecc4" type="Folder">31</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Air Transport Division: Committee for Air Transport Autonomy</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Record carton" id="aspace_f5f8b0fc7df0eeb905a4e9c6193e70f9" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_79c391ec0e3aa982ff40411a19053ed5" parent="aspace_f5f8b0fc7df0eeb905a4e9c6193e70f9" type="Folder">32</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Correspondence: Charles Smolikoff</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Record carton" id="aspace_5a51c7a665d84d474ff4d948e9ed7e48" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_c2b23f81671a5e26f3a2e553e2088d58" parent="aspace_5a51c7a665d84d474ff4d948e9ed7e48" type="Folder">33</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Air Transport Division: Correspondence: Armand Scala</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Record carton" id="aspace_605ffdbaea81ac71b077154f28380064" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_f139744471f9e56d93333bce74de827c" parent="aspace_605ffdbaea81ac71b077154f28380064" type="Folder">34</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Correspondence: Fred Swick</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Record carton" id="aspace_1144f94aaac6804857ea32fb1312b659" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_56c93639c9d52df95a61df9e144269b5" parent="aspace_1144f94aaac6804857ea32fb1312b659" type="Folder">35</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>TWO Local 252</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Record carton" id="aspace_11da2b6548857cd3e112f8af6f5f2aaa" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_66e0bc0abecaf1b6c5d44b50aeb91033" parent="aspace_11da2b6548857cd3e112f8af6f5f2aaa" type="Folder">36</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Personal; March of Labor, Inc.</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Record carton" id="aspace_c1fd9b635f9ddcce067a2ae77112fed8" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_ca233bd9aa61e1dfe121cfff9d69c03a" parent="aspace_c1fd9b635f9ddcce067a2ae77112fed8" type="Folder">37</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Charges against M.F.</unittitle><unitdate datechar="creation">Mar 1950</unitdate><container altrender="Record carton" id="aspace_5d59f9604b022cc65ccf14e71826354b" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_2acd3460ced93b7867c1038f61f2d60d" parent="aspace_5d59f9604b022cc65ccf14e71826354b" type="Folder">38</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Record carton" id="aspace_1173778a585a498e071753038b45e596" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_7e0a285f5009f6392343921dddaf9da3" parent="aspace_1173778a585a498e071753038b45e596" type="Folder">39</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Airline Division: Correspondence</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Record carton" id="aspace_03e48c0d31708ff03dc92abe272f44ea" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_0fa3aa481cbb515c8214cabc9f648773" parent="aspace_03e48c0d31708ff03dc92abe272f44ea" type="Folder">40</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Air Transport Division: Correspondence: Charles Smolikoff</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Record carton" id="aspace_a7f895181b1f0cc10a3ddf996f6630c0" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_0e8a3f52852659d125eee12d879cba75" parent="aspace_a7f895181b1f0cc10a3ddf996f6630c0" type="Folder">41</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Air Transport Division: Correspondence: Armand Scala</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Record carton" id="aspace_53f720f3678ec78855e79e9e5025089e" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_7844821e8e7c444ac9478bed0a14f2ea" parent="aspace_53f720f3678ec78855e79e9e5025089e" type="Folder">42</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Air Transport Division: Fred Swick</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Record carton" id="aspace_654996c148ab10ce01f8c8ee1256adb9" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_b073bdd24066cc9e6e8a81258d39b8a0" parent="aspace_654996c148ab10ce01f8c8ee1256adb9" type="Folder">43</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>TWU Local 252</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Record carton" id="aspace_1bd37cb90d2408d3098a55f5584f2505" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_b02208ee26a0c2d017dc6ee0bff3151d" parent="aspace_1bd37cb90d2408d3098a55f5584f2505" type="Folder">44</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>TWU Local 100</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Record carton" id="aspace_06ec506a98a6a144f2d71972e03844c7" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_6a54b67ed5c25f075a3a929b14c299ec" parent="aspace_06ec506a98a6a144f2d71972e03844c7" type="Folder">45</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Record carton" id="aspace_7af070fcfd19b80aacf105ad04dce3f7" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_85fe8631293d28d14323d6d69bc5de84" parent="aspace_7af070fcfd19b80aacf105ad04dce3f7" type="Folder">46</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Correspondence; Fred Swick</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Record carton" id="aspace_b21ac990e81e0eefd99af7f4de7d4870" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_a7e71276e98b1c9ac2a764a21cc123de" parent="aspace_b21ac990e81e0eefd99af7f4de7d4870" type="Folder">47</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Air Transport Division: Fred Swick</unittitle><unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate><container altrender="Record carton" id="aspace_79f9210f1d71c2f961884b9f57e5bc61" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_accd52a18fe5c14e65f4109532198a49" parent="aspace_79f9210f1d71c2f961884b9f57e5bc61" type="Folder">48</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>TWU Local 252</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Record carton" id="aspace_7bc8fbd8e3fa4cbefb14a566aff00774" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_20c4f1d5ba3cc901aef776db7636a7b3" parent="aspace_7bc8fbd8e3fa4cbefb14a566aff00774" type="Folder">49</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Personal: Religion, Sacraments</unittitle><unitdate datechar="creation" normal="1942/1962" type="inclusive">ca.1952</unitdate><container altrender="Record carton" id="aspace_b2389e4a110f6b6f1640888c99f7a895" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_59922630d981121b54fea4470a68f68a" parent="aspace_b2389e4a110f6b6f1640888c99f7a895" type="Folder">50</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Record carton" id="aspace_59039e84d210918da96b538fdf5af105" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_0b7156a020fb687ad50b62fb47bc35fd" parent="aspace_59039e84d210918da96b538fdf5af105" type="Folder">51</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Air Transport Division: Correspondence; labor dispute of Pan American Airlines mechanics</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Record carton" id="aspace_5d33554ad8fefffc20321841a69d38f3" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_eae9628612059b82b6b594abd99e4fa0" parent="aspace_5d33554ad8fefffc20321841a69d38f3" type="Folder">52</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Record carton" id="aspace_48bfad26e771f709f50fa85640c342c4" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_65841d77d65957fd5d9098d7650934a4" parent="aspace_48bfad26e771f709f50fa85640c342c4" type="Folder">53</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>TWU Local 252</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Record carton" id="aspace_f37acdd512aa2628919c23cfa7f7de65" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_c1763bd0e0992c15542cb2a988689da6" parent="aspace_f37acdd512aa2628919c23cfa7f7de65" type="Folder">54</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_7eb7c9197af786eb960885e1b11d37ba" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_3cd1f4f5bef8eb0a159e98741c9ac34b" parent="aspace_7eb7c9197af786eb960885e1b11d37ba" type="Folder">55</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Air Transport Division: Correspondence Fred Swick</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_fc146de2da21bc32df12461faf347e1b" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_fb09ad6b599c5d5db3d9e5410679d4f9" parent="aspace_fc146de2da21bc32df12461faf347e1b" type="Folder">56</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Personal: Correspondence: Crestwood Bus Service</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_3641599a287d2fcd86c452228c17a5fb" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_4201b43605163823b2657b01c6af74c1" parent="aspace_3641599a287d2fcd86c452228c17a5fb" type="Folder">57</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_7e4e02bc9f42dde584673a2ac33d0304" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_f6f4bdd5320e60b961fe4128f9a71850" parent="aspace_7e4e02bc9f42dde584673a2ac33d0304" type="Folder">58</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_e5922ad2364537d575d7250befbb3f67" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_cb9fa7b6fd1eb39a1e588221060fb7e8" parent="aspace_e5922ad2364537d575d7250befbb3f67" type="Folder">59</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Correspondence: John Santo and Michael Quill</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Record carton" id="aspace_5b01ec4a7374ebe44691ec1f443475fc" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_b8f4044daa98b408f8b48afc31881e70" parent="aspace_5b01ec4a7374ebe44691ec1f443475fc" type="Folder">60</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Air Transport Division: Fred Swick</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Record carton" id="aspace_56170f859ba52faf0318f5d485b18755" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_0aba1d149afaa71b52429530a1ea41b8" parent="aspace_56170f859ba52faf0318f5d485b18755" type="Folder">61</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Air Transport Division: Correspondence; M.L. Edwards to B.H. Diesen</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_be1758970cb7119c7cd1935df98ac0fc" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_f6a25b111247ff45a3adf0f0694d31f6" parent="aspace_be1758970cb7119c7cd1935df98ac0fc" type="Folder">62</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_9875c66cf42c5c97d04e86121e49c827" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_90bc0bb3aee95c8b0052f8ebf6fffb0e" parent="aspace_9875c66cf42c5c97d04e86121e49c827" type="Folder">63</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>TWU Local 252 Agreement</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_405c4e2bf6b38afd307db23f8555723c" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_557c39f0f5c6bae71d79f53675635618" parent="aspace_405c4e2bf6b38afd307db23f8555723c" type="Folder">64</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_47bf1dc3c6d6ce7d5888da58eaeffc8e" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_0c8b093b442142f391e0455e3f4e47d4" parent="aspace_47bf1dc3c6d6ce7d5888da58eaeffc8e" type="Folder">65</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Air Transport Division: Flight Engineer Dispute</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Record carton" id="aspace_b790306a11e4a7c5f1efa3c5f0742def" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_1de9fc16f97b501321474a35a9b821a4" parent="aspace_b790306a11e4a7c5f1efa3c5f0742def" type="Folder">66</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Record carton" id="aspace_96f194a0600d24f8a99cfa35b9bbc5e8" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_4103c417fb8dd593ecf571acf185dcfa" parent="aspace_96f194a0600d24f8a99cfa35b9bbc5e8" type="Folder">67</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Air Transport Division: Correspondence: Fred Swick</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Record carton" id="aspace_20438b519812796fa49f87ca0734a12f" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_5da502520ef1b4f25ce4aa1c3c5beb36" parent="aspace_20438b519812796fa49f87ca0734a12f" type="Folder">68</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1934/1986" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_eea038fb1b4a505a4b46a975f7d62c26" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_b05167a7694d0e9588ff15436bdecfc6" parent="aspace_eea038fb1b4a505a4b46a975f7d62c26" type="Folder">69</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Air Transport Division and Dave Lippert</unittitle><unitdate datechar="creation" normal="1934/1986" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_498d90811e9a1375035f87645b0ffb08" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_f14a4ae0961816829460e01d7d8baa88" parent="aspace_498d90811e9a1375035f87645b0ffb08" type="Folder">70</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>TWU Local 252</unittitle><unitdate datechar="creation" normal="1934/1986" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_fa68d317d2e84a5c09533c32e88efa2e" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_1992d086e35486f6ad4d79b77cabe8dd" parent="aspace_fa68d317d2e84a5c09533c32e88efa2e" type="Folder">71</container></did></c></c><c id="aspace_ref87" level="series"><did><unittitle>Series II: Clippings, Credentials, Flyers, Pamphlets, Photographs</unittitle><unitdate datechar="creation" normal="1937/1986" type="inclusive">1937-1986</unitdate></did><scopecontent id="aspace_d3c465e5ba37d79a8ccfac09a7e37420"><head>Scope and Content Note</head><p>Series II includes clippings on TWU leaders and labor issues; flyers publicizing union activities; and pamphlets by and about the TWU and the ATD. Other materials include publicity by the House Un-American Activities Committee (HUAC) directed at TWU members and other government anti-Communist publications; a pamphlet, " <title>How the Milwaukee Sentinel Exposed Milwaukee Communists</title>"; and a HUAC publication of John Santo's trial transcript. Also in this series are photocopied clippings of editorials written by Forge in the 1970s and 1980s, a file of Forge's credentials and identification cards, and photographs.</p></scopecontent><c id="aspace_ref88" level="file"><did><unittitle>Clippings: TWU</unittitle><unitdate datechar="creation" normal="1937/1951" type="inclusive">1937-1951</unitdate><container altrender="Record carton" id="aspace_4f7b09f3e243facb5ced82b478a18d89" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_3f38a5f2d9b30c84172592d8b588c849" parent="aspace_4f7b09f3e243facb5ced82b478a18d89" type="Folder">72</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Clippings: Communism within TWU</unittitle><unitdate datechar="creation" normal="1937/1954" type="inclusive">1937-1954</unitdate><container altrender="Record carton" id="aspace_ab86fe03113d83f94466ab5a45aec275" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_82e4e37a901ece01067ea8b2d18e54a7" parent="aspace_ab86fe03113d83f94466ab5a45aec275" type="Folder">73</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Clippings: TWU Local 252 and bus strikes</unittitle><unitdate datechar="creation" normal="1939/1954" type="inclusive">1939-1954</unitdate><container altrender="Record carton" id="aspace_fc202249366a802140779a4eebf2c71c" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_c0100b156910e1ba55bcefa80b1f7bca" parent="aspace_fc202249366a802140779a4eebf2c71c" type="Folder">74</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Clippings: Michael Quill</unittitle><unitdate datechar="creation" normal="1948/1956" type="inclusive">1948-1956</unitdate><container altrender="Record carton" id="aspace_114f66fd7128eaf4f49de71109757cca" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_7cda882c335515cda2296bbc2b8bb3c2" parent="aspace_114f66fd7128eaf4f49de71109757cca" type="Folder">75</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Clippings: John Santo</unittitle><unitdate datechar="creation" normal="1956/1957" type="inclusive">1956-1957</unitdate><container altrender="Record carton" id="aspace_a7f4cf270bb77507717ed8430d9bd216" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_c1a4b2dd27894f8753802c28184b579b" parent="aspace_a7f4cf270bb77507717ed8430d9bd216" type="Folder">76</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Clippings: M.F. Editorials</unittitle><unitdate datechar="creation" normal="1974/1986" type="inclusive">1974-1986</unitdate><container altrender="Record carton" id="aspace_d65a637ce10204d1379f841e2855ef4e" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_afd1b91cee9b65129877f74ee038ebf6" parent="aspace_d65a637ce10204d1379f841e2855ef4e" type="Folder">77</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Credentials and invitation cards</unittitle><unitdate datechar="creation" normal="1939/1943" type="inclusive">1939-1943</unitdate><container altrender="Record carton" id="aspace_873cce885672cdb3c414132aa22912a3" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_42385fc9912d8aca4bebf9e86fc1ce0c" parent="aspace_873cce885672cdb3c414132aa22912a3" type="Folder">78</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Flyers: TWU</unittitle><unitdate datechar="creation" normal="1942/1955" type="inclusive">1942-1955</unitdate><container altrender="Record carton" id="aspace_b910b1788d67387cc30970821bee15eb" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_db5f398bf4a71b19fc35a08665de296b" parent="aspace_b910b1788d67387cc30970821bee15eb" type="Folder">79</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Pamphlets: TWU</unittitle><unitdate datechar="creation" normal="1939/1946" type="inclusive">1939-1946</unitdate><container altrender="Record carton" id="aspace_834ef51c595c6d7abc10276a6aea32ae" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_1f7d0dab49d69edeb1a77cd5c5f37fbc" parent="aspace_834ef51c595c6d7abc10276a6aea32ae" type="Folder">80</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Pamphlets: "How the Milwaukee Sentinel Exposed Milwaukee Communists"</unittitle><unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate><container altrender="Record carton" id="aspace_cfa384cab8aac4d20f5796667292f469" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_81223dc84f5b16f85715876b7d1456b7" parent="aspace_cfa384cab8aac4d20f5796667292f469" type="Folder">81</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Pamphlets: Anti-Communist</unittitle><unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate><container altrender="Record carton" id="aspace_77cb6dd0cadc8ce6c45d894e7993a172" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_19497f3d9e0c410ee2066adaf4df4175" parent="aspace_77cb6dd0cadc8ce6c45d894e7993a172" type="Folder">82</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Pamphlets: HUAC, John Santo testimony</unittitle><unitdate datechar="creation">Mar 1963</unitdate><container altrender="Record carton" id="aspace_5d625647efd522040818801989b93ede" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_2dbab97979e711e07ab5990496f29910" parent="aspace_5d625647efd522040818801989b93ede" type="Folder">83</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation" normal="1934/1948" type="inclusive">circa 1934-1948</unitdate><container altrender="Record carton" id="aspace_db1f73ade30755f58618d62c53cf1929" label="Mixed Materials [31142062721249]" type="Box">1</container><container id="aspace_802e3a988215e52b27979d40ead5e44b" parent="aspace_db1f73ade30755f58618d62c53cf1929" type="Folder">84</container></did></c></c></dsc>
+</archdesc>
 </ead>

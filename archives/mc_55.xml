@@ -1,229 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_55">mc_55</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Jerome Allen Papers <num>MC.55</num></titleproper>
-        <author>Tom Frusciano, 1982.  Electronic version prepared by Marissa De Simone.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:34:34 -0500</date>.</creation>
-      <langusage>Finding aid written in English.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>January 2019</date>
-        <item>Edited by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>Jerome Allen Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Allen, Jerome, 1830-1894</persname>
-      </origination>
-      <unitid>MC.55</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-        <extent altrender="carrier">in one manuscript box and one half manuscript box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1867/1893" type="inclusive">1867-1893</unitdate>
-      <abstract id="aspace_6ee0d051152b262fa4f970d930807a15">Jerome Allen was a professor and dean at New York University's School of Pedogogy. This collection comprises a selection of his published writings, including essays, books, and lectures, from the years 1867-1893.</abstract>
-      <physloc id="aspace_93f522752542714f627b959282c39b42">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_55">mc_55</eadid><filedesc><titlestmt><titleproper>Guide to the Jerome Allen Papers <num>MC.55</num></titleproper><author>Tom Frusciano, 1982.  Electronic version prepared by Marissa De Simone.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:18:28 -0500</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2019</date><item>Edited by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Jerome Allen Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Allen, Jerome, 1830-1894</persname>
+    </origination>
+    <unitid>MC.55</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box and one half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1867/1893" type="inclusive">1867-1893</unitdate>
+    <abstract id="aspace_6ee0d051152b262fa4f970d930807a15" label="Abstract">Jerome Allen was a professor and dean at New York University's School of Pedogogy. This collection comprises a selection of his published writings, including essays, books, and lectures, from the years 1867-1893.</abstract>
+    <physloc id="aspace_93f522752542714f627b959282c39b42">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-    </did>
-    <bioghist id="aspace_152acd4dee3904d5817faae23d9aa9f1">
-      <head>Biographical Note</head>
-      <p>Jerome Allen was born in Westminster, Vermont, on July 17, 1830. He began teaching at age 17 and completed his first classes successfully, receiving high praise from the district selectman. Allen completed his undergraduate studies at Amherst College in 1851 and continued his education at Lenox College, receiving his Doctor of Philosophy degree in 1886. He acted as teacher and administrator at a number of educational institutions, including a time spent as the Superintendent of Schools in Monticello, Iowa.  He accepted a professorship in the Natural Sciences at the State Normal School in Genesco, New York, and the Presidency of the State Normal School in St. Cloud, Minnesota. He was appointed Professor of Pedagogy at New York University in 1887 and named dean of the newly formed School of Pedagogy in 1890. Over the course of his career, Allen published extensively on the topics of pedagogy and the state of educational institutions. He also created a number of manuals on academic subjects and teaching. He died on May 26, 1894.</p>
-    </bioghist>
-    <arrangement id="aspace_648345a30c8c953ef9290487e11c43e2">
-      <head>Arrangement</head>
-      <p>The files in this collection are arranged chronologically by publication date.</p>
-    </arrangement>
-    <scopecontent id="aspace_407237198c7f28905fcb86d8be4aae29">
-      <head>Scope and Contents</head>
-      <p>The collection contains the published books, essays, and lectures of Jerome Allen, written from 1867-1893.</p>
-    </scopecontent>
-    <accessrestrict id="aspace_b2c7c36c17be54f0c980fab90afe851e">
-      <head>Access Restrictions</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_f05cf8dbdb7e9eb2c4ea57862dd5ba5d">
-      <head>Use Restrictions</head>
-      <p>Materials in this collection, which were created 1867-1893, are in the public domain. Permission to publish or reproduce is not required.</p>
-    </userestrict>
-    <prefercite id="aspace_0d699823a315e5068dd0c2484ad15d83">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Jerome Allen Papers; MC 55; box number; folder number; University Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_280b1198a822d46efa39d04243e78bd0">
-      <head>Processing Information</head>
-      <p>Processing information before 2019 is unavailable.</p>
-    </processinfo>
-    <acqinfo id="aspace_3d85206585e1d992d318df51752f2892">
-      <head>Immediate Source of Acquisition</head>
-      <p>Transferred to University Archives at an unspecified date.</p>
-    </acqinfo>
-    <controlaccess>
-      <subject source="lcsh">Literature -- Study and teaching</subject>
-      <subject source="lcsh">Education -- Study and teaching -- United States</subject>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref2" level="file">
-        <did>
-          <unittitle>A Grammar and Analysis of the English Language</unittitle>
-          <unitdate datechar="creation" normal="1867/1867" type="inclusive">1867</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_c23ca7ec09f098c2f3672773c5ccfcf1" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_2d516c62eba2953c5eb6161560958840" parent="aspace_c23ca7ec09f098c2f3672773c5ccfcf1" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref4" level="file">
-        <did>
-          <unittitle>Methods for Teachers. Part I, Grammar</unittitle>
-          <unitdate datechar="creation" normal="1870/1870" type="inclusive">1870</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_75181776dd89424104c0caecef010723" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_533522e779382c03d996b4bb8ac5ff60" parent="aspace_75181776dd89424104c0caecef010723" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref5" level="file">
-        <did>
-          <unittitle>Hand Book of Experimental Chemistry for Laboratory </unittitle>
-          <unitdate datechar="creation" normal="1876/1876" type="inclusive">1876</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_3fbbba74cb159890dc443968a985f8a4" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_d7ba11555e5e2174a9eb9eb7cb99934f" parent="aspace_3fbbba74cb159890dc443968a985f8a4" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref8" level="file">
-        <did>
-          <unittitle>Short Studies in English </unittitle>
-          <unitdate datechar="creation" normal="1886/1886" type="inclusive">1886</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_be1e963f33c1566f0fdfad3c1bf99411" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_84e17833d48dddcbd395411d75f8ee8c" parent="aspace_be1e963f33c1566f0fdfad3c1bf99411" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref9" level="file">
-        <did>
-          <unittitle>Barnes' Picture Lessons in English or Short Stories Part I </unittitle>
-          <unitdate datechar="creation" normal="1886/1887" type="inclusive">1886-1887</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_05cc5c858e3d3be3e205aa22266323b4" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_52682ac495c05772d21d0a27bd2dd925" parent="aspace_05cc5c858e3d3be3e205aa22266323b4" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref6" level="file">
-        <did>
-          <unittitle>Mind Studies for Young Teachers</unittitle>
-          <unitdate datechar="creation" normal="1887/1887" type="inclusive">1887</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_f9143bddaec17662c2c0c629e0015051" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_67eff56cf7604ec4ae56ecb6cef7d446" parent="aspace_f9143bddaec17662c2c0c629e0015051" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>The Relation of Pedagogy to Christian Philosophy</unittitle>
-          <unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_4c587f34ebc63cdc0b75f0a0bed30b3a" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_9fdf487d76fbde15c7d42b642949c0af" parent="aspace_4c587f34ebc63cdc0b75f0a0bed30b3a" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>To What Extent and How Can Manual Training be Introduced into Ungraded Schools? </unittitle>
-          <unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_5ff94a87b0b58c180813ced59381c006" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_83b0b21448c7e75e978337de96fea826" parent="aspace_5ff94a87b0b58c180813ced59381c006" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>The Relation of Pedagogy to the University</unittitle>
-          <unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_cd5e22037384ef367ac026f63f7a663c" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_c35b246d0042262d4e13f3d05c5e3029" parent="aspace_cd5e22037384ef367ac026f63f7a663c" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref7" level="file">
-        <did>
-          <unittitle>Temperament In Education; Also Success in Teaching </unittitle>
-          <unitdate datechar="creation" normal="1890/1890" type="inclusive">1890</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_f5a54c2a32361f79b4efd602c471de28" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_8dca69b15e7fdb85462150cf0e34b9a4" parent="aspace_f5a54c2a32361f79b4efd602c471de28" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Lectures on the History of Education</unittitle>
-          <unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal" id="aspace_7e8085d05df0ad23c3ceae2e635a37cd" label="Books [31142062742385]" type="Box">1</container>
-          <container id="aspace_d1bc59b218b45dc9a77b78430b4c0868" parent="aspace_7e8085d05df0ad23c3ceae2e635a37cd" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Lectures on the History of Education(Copy 2) </unittitle>
-          <unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_097ab7f0c2d995470080c510e5cd0fd1" label="Books [31142062742377]" type="Box">2</container>
-          <container id="aspace_14020e648bcde74999205f8f805f15f4" parent="aspace_097ab7f0c2d995470080c510e5cd0fd1" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>The Training of Teachers in Scotland</unittitle>
-          <unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_e79d602c5866157bd4fd776931f4f05d" label="Books [31142062742377]" type="Box">2</container>
-          <container id="aspace_a5ee803545a9fba33328d56657f6162e" parent="aspace_e79d602c5866157bd4fd776931f4f05d" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Outlines of Educational History</unittitle>
-          <unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_8e8ad1183c15b0eaf4956c68e376bf98" label="Books [31142062742377]" type="Box">2</container>
-          <container id="aspace_b6be0c177251ca2def2218595aa28d8d" parent="aspace_8e8ad1183c15b0eaf4956c68e376bf98" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Motive in Teaching </unittitle>
-          <unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_b6881398876ce9a36537de594c21e4d8" label="Books [31142062742377]" type="Box">2</container>
-          <container id="aspace_559a1cb7ba011299b63f3c78bc19433f" parent="aspace_b6881398876ce9a36537de594c21e4d8" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Education of Teachers in the State of New York and a Brief History of Normal Schools </unittitle>
-          <unitdate datechar="creation">Undated</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_ee56a7b3b465028a3aa55b863d379430" label="Books [31142062742377]" type="Box">2</container>
-          <container id="aspace_64051f8faa995bc681190aa4185b939b" parent="aspace_ee56a7b3b465028a3aa55b863d379430" type="Folder">5</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+  </did>
+  <bioghist id="aspace_152acd4dee3904d5817faae23d9aa9f1">
+    <head>Biographical Note</head>
+<p>Jerome Allen was born in Westminster, Vermont, on July 17, 1830. He began teaching at age 17 and completed his first classes successfully, receiving high praise from the district selectman. Allen completed his undergraduate studies at Amherst College in 1851 and continued his education at Lenox College, receiving his Doctor of Philosophy degree in 1886. He acted as teacher and administrator at a number of educational institutions, including a time spent as the Superintendent of Schools in Monticello, Iowa.  He accepted a professorship in the Natural Sciences at the State Normal School in Genesco, New York, and the Presidency of the State Normal School in St. Cloud, Minnesota. He was appointed Professor of Pedagogy at New York University in 1887 and named dean of the newly formed School of Pedagogy in 1890. Over the course of his career, Allen published extensively on the topics of pedagogy and the state of educational institutions. He also created a number of manuals on academic subjects and teaching. He died on May 26, 1894.</p>  </bioghist>
+  <arrangement id="aspace_648345a30c8c953ef9290487e11c43e2">
+    <head>Arrangement</head>
+<p>The files in this collection are arranged chronologically by publication date.</p>  </arrangement>
+  <scopecontent id="aspace_407237198c7f28905fcb86d8be4aae29">
+    <head>Scope and Contents</head>
+<p>The collection contains the published books, essays, and lectures of Jerome Allen, written from 1867-1893.</p>  </scopecontent>
+  <accessrestrict id="aspace_b2c7c36c17be54f0c980fab90afe851e">
+    <head>Access Restrictions</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_f05cf8dbdb7e9eb2c4ea57862dd5ba5d">
+    <head>Use Restrictions</head>
+<p>Materials in this collection, which were created 1867-1893, are in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
+  <prefercite id="aspace_0d699823a315e5068dd0c2484ad15d83">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Jerome Allen Papers; MC 55; box number; folder number; University Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_280b1198a822d46efa39d04243e78bd0">
+    <head>Processing Information</head>
+<p>Processing information before 2019 is unavailable.</p>  </processinfo>
+  <acqinfo id="aspace_3d85206585e1d992d318df51752f2892">
+    <head>Immediate Source of Acquisition</head>
+<p>Transferred to University Archives at an unspecified date.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Literature -- Study and teaching</subject>
+    <subject source="lcsh">Education -- Study and teaching -- United States</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle>A Grammar and Analysis of the English Language</unittitle><unitdate datechar="creation" normal="1867/1867" type="inclusive">1867</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6d200bcff6e3c9b40a3ea5844451728e" label="Books [31142062742385]" type="Box">1</container><container id="aspace_f7d59300da1ab680eea39a5d8ac3b537" parent="aspace_6d200bcff6e3c9b40a3ea5844451728e" type="Folder">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Methods for Teachers. Part I, Grammar</unittitle><unitdate datechar="creation" normal="1870/1870" type="inclusive">1870</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_a058b999497b6dfd2c789726d77ba45e" label="Books [31142062742385]" type="Box">1</container><container id="aspace_64830f9086e60d695356dac5c2577f93" parent="aspace_a058b999497b6dfd2c789726d77ba45e" type="Folder">2</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Hand Book of Experimental Chemistry for Laboratory </unittitle><unitdate datechar="creation" normal="1876/1876" type="inclusive">1876</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_2b11f3f8a685840f593f6ec09779e9e8" label="Books [31142062742385]" type="Box">1</container><container id="aspace_56bb4d2c208b1ededc0d35de64097663" parent="aspace_2b11f3f8a685840f593f6ec09779e9e8" type="Folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Short Studies in English </unittitle><unitdate datechar="creation" normal="1886/1886" type="inclusive">1886</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4ac689fb1ab50d4d8c477b3b1f09976b" label="Books [31142062742385]" type="Box">1</container><container id="aspace_9f25aaf02f287ec86d5b22551262787c" parent="aspace_4ac689fb1ab50d4d8c477b3b1f09976b" type="Folder">4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Barnes' Picture Lessons in English or Short Stories Part I </unittitle><unitdate datechar="creation" normal="1886/1887" type="inclusive">1886-1887</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d50f6abf285c3b38a5ccc30eb4bce480" label="Books [31142062742385]" type="Box">1</container><container id="aspace_2741eecc1016354ce073e4cb612d3bfa" parent="aspace_d50f6abf285c3b38a5ccc30eb4bce480" type="Folder">5</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Mind Studies for Young Teachers</unittitle><unitdate datechar="creation" normal="1887/1887" type="inclusive">1887</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_61f7a174bb8bafd65510f8ad46e3dfca" label="Books [31142062742385]" type="Box">1</container><container id="aspace_0b6a19ff946d48bbda1f3678770ee368" parent="aspace_61f7a174bb8bafd65510f8ad46e3dfca" type="Folder">6</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>The Relation of Pedagogy to Christian Philosophy</unittitle><unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_28792f771f7f6426efdf98e3d94ce34f" label="Books [31142062742385]" type="Box">1</container><container id="aspace_a0814729a9a1756acba7dfd6a9ae6335" parent="aspace_28792f771f7f6426efdf98e3d94ce34f" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>To What Extent and How Can Manual Training be Introduced into Ungraded Schools? </unittitle><unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_2f1e0d3a232af216dd43e4df3680cb57" label="Books [31142062742385]" type="Box">1</container><container id="aspace_fbcb0d4eaf4df4fd7f4e153d577a52e4" parent="aspace_2f1e0d3a232af216dd43e4df3680cb57" type="Folder">8</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>The Relation of Pedagogy to the University</unittitle><unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_f1b1595b643988278076fb3db8de9c38" label="Books [31142062742385]" type="Box">1</container><container id="aspace_b4a35c8115537c3c495d9a2e36692d85" parent="aspace_f1b1595b643988278076fb3db8de9c38" type="Folder">9</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Temperament In Education; Also Success in Teaching </unittitle><unitdate datechar="creation" normal="1890/1890" type="inclusive">1890</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4ce0e542763db7947170180bda51234c" label="Books [31142062742385]" type="Box">1</container><container id="aspace_0547ddbbf0f3932d9892a955b4b47401" parent="aspace_4ce0e542763db7947170180bda51234c" type="Folder">10</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Lectures on the History of Education</unittitle><unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_fa473f9550c4172d3db75d090f93f81d" label="Books [31142062742385]" type="Box">1</container><container id="aspace_0ff30bb57b05215d3823cc29f0c54fc8" parent="aspace_fa473f9550c4172d3db75d090f93f81d" type="Folder">11</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Lectures on the History of Education(Copy 2) </unittitle><unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_ffef56f8f5e8af1334935a4a2daeb30d" label="Books [31142062742377]" type="Box">2</container><container id="aspace_87426af2661e4e2faf81643cc8b6da4b" parent="aspace_ffef56f8f5e8af1334935a4a2daeb30d" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>The Training of Teachers in Scotland</unittitle><unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_de57d6c249b317944ea74a181a42d1ed" label="Books [31142062742377]" type="Box">2</container><container id="aspace_8efd69b527e25e019e8b9d2a37f12164" parent="aspace_de57d6c249b317944ea74a181a42d1ed" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Outlines of Educational History</unittitle><unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_b9711763eabb21c33f8bfa4884b1a2c0" label="Books [31142062742377]" type="Box">2</container><container id="aspace_f3a10c93ac74b72acfa058ac5180ac36" parent="aspace_b9711763eabb21c33f8bfa4884b1a2c0" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Motive in Teaching </unittitle><unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_20a08a7b59b89b54c1e9d786e0400308" label="Books [31142062742377]" type="Box">2</container><container id="aspace_cf05881c5993eb301e496cd3bfd38590" parent="aspace_20a08a7b59b89b54c1e9d786e0400308" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Education of Teachers in the State of New York and a Brief History of Normal Schools </unittitle><unitdate datechar="creation">Undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_3c61d5850564dde31a5f0a0084a37da6" label="Books [31142062742377]" type="Box">2</container><container id="aspace_516c4e056a68462f3da51de8080cbf37" parent="aspace_3c61d5850564dde31a5f0a0084a37da6" type="Folder">5</container></did></c></dsc>
+</archdesc>
 </ead>
