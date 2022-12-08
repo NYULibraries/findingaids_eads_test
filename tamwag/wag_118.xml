@@ -1,730 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_118">wag_118</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the International Union of Bricklayers and Allied Craftsmen, Local 1 Records <num>WAG.118</num></titleproper>
-        <author>Hanan Ohayon</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:48:52 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>June 2019</date>
-        <item>Edited by Amy C. Vo and Megan O'Shea for compliance with DACS and ACM Required Elements for Archival Description</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>International Union of Bricklayers and Allied Craftsmen, Local 1 Records</unittitle>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 9 (Brooklyn, New York, N.Y.)</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 1 (Brooklyn, New York, N.Y.)</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 66</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 41 (Woodside, Queens, N.Y.)</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 21</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 34</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 30</corpname>
-      </origination>
-      <origination label="source">
-        <corpname role="dnr" rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 1 (Brooklyn, New York, N.Y.)</corpname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Lanzafame, Santo</persname>
-      </origination>
-      <unitid>WAG.118</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">51.5 Linear Feet</extent>
-        <extent altrender="carrier">in 40 record cartons, 17 manuscript boxes, 3 flat boxes, 2 custom boxes, and 1 card box</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">29 audiocassettes</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">1 websites</extent>
-        <extent altrender="carrier">in 1 archives website</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1880/2019" type="inclusive">1880-2019</unitdate>
-      <physloc id="aspace_ebb973ee53424ea5d4ac144b036d9db8">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <abstract id="aspace_5cbf571960962e32177d5449cef364fe">The International Union of Bricklayers and Allied Craftsmen, Local 1 was granted a charter by the National Union of Bricklayers of the U.S.A. on October 17, 1868 in Brooklyn, New York and is one of the oldest continuously-existing locals in New York City. The National Union of Bricklayers was one of the first unions to support the eight-hour work day. The collection consists of materials from Local 1, as well as Locals 9, 21, 34, 41, and 66 which merged with Local 1.  Materials include early ledgers, correspondence, ephemera, photographs, scrapbooks, audio recordings, and an archived version of Local 1's website. Physical materials date from the 1880s to the 1990s, and the archived website captures are ongoing since 2012.</abstract>
-      <langmaterial id="aspace_6f7f579530a1b0fad7e1869ff7ece961">Materials primarily in English, with some early ledger books in German.</langmaterial>
-    </did>
-    <arrangement id="aspace_cea6ea016e3d3bbf52e289d71129bf5a">
-      <head>Arrangement</head>
-      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <scopecontent id="aspace_54ab0a50d637c2bb39311949711fc9be">
-      <head>Scope and Contents</head>
-      <p>The collection consists of records of International Union of Bricklayers and Allied Craftsmen, Local 1 of Brooklyn, New York and other locals it merged with, including Local 9 of Brooklyn, Local 41 of Woodside, Queens, and locals 21, 30, 31, 34, 37,  66 and 84. Materials and documents date from the 1880s to the 1990s and include ledger books, minutes, contracts, correspondence, photographs, scrapbooks, ephemera and audio recordings of meetings and conventions. Early ledgers of Locals 1 and 9 date from the 1880s to the 1930s and include minutes, dues records, expense and benefits books and apprentice lists. The collection also contains the archived website of Local 1, with captures ongoing since 2012.  Photographs include portraits of individual members, union events, and group portraits of union members from the 1920s to the 1980s. A 1940s-era scrapbook from Local 41 includes head shots and group portraits of union members and related clippings. A photograph album that appears to date from the 1920s-1930s includes approximately 105 small black and white head shots of union members with names written in pencil under each.</p>
-    </scopecontent>
-    <prefercite id="aspace_bba090993354c3f4c93a76a1cb1f1431">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; International Union of Bricklayers and Allied Craftsmen, Local 1 Records; WAG 118; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <acqinfo id="aspace_8d150be31aa20a52d0b4f14c2aaade37">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by the International Union of Bricklayers and Allied Craftsmen, Local 1, in 1998. The accession numbers associated with this gift are 1998.020 and 1998.021.</p>
-      <p>The website was initially selected by curators and captured through the use of the California Digital Library's Web Archiving Service in 2012 as part of the Labor Unions and Organizations (U.S.) Web Archive. In 2015, these websites were migrated to Archive-It. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website.</p>
-    </acqinfo>
-    <processinfo id="aspace_2cbb039fe933eea738bd8f7dc03f38af">
-      <head>Processing Information</head>
-      <p>Photographs were separated from this collection in 1999 and were established as a separate collection, the International Union of Bricklayers and Allied Craftsmen, Local 0001 (Apprenticeship and Training Program) Photographs (PHOTOS 082). In 2013, the photograph collection was reincorporated into International Union of Bricklayers and Allied Craftsmen, Local 1 Records and Photographs WAG 118.</p>
-      <p>In 2014, the archived website was added as a series.</p>
-      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown. In 2019, materials were rehoused in new acid-free folders and boxes with spacers in preparation for offsite storage.  Material in the following boxes were rehoused into multiple boxes:  box 9 was split into boxes 9, 50, and 51; box 10 was split into boxes 10 and 52; box 13 was split into boxes 13 and 53; box 14 was split into boxes 14 and 54; box 27 was split into boxes 27, 56, and 57; box 38 was split into boxes 38, 58, and 59; box 40 was split into boxes 40 and 60; and box 47 was split into boxes 47 and 61.  In rehousing the collection, mold was found in some boxes and materials were quarantined as necessary.</p>
-      <p>Local 1's website was archived to the Internet Archive using the Archive-It service.  New York University Libraries follows professional standards and best 
-practices when imaging, ingesting, and processing born-digital material in order to 
-maintain the integrity of the content. </p>
-    </processinfo>
-    <phystech id="aspace_272d86253a900945e6375497edc277ca">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Due to the fragility of materials in Boxes 1 and 2, researchers must use the microfilm of the early minutes of Local 9 (microfilm collection number R7459). Also because of fragility, advance notice is required before using a 1920s-1930s-era photographs album in Box 48.</p>
-    </phystech>
-    <accessrestrict id="aspace_370194049aa78bd96657233fa72a56b2">
-      <head>Conditions Governing Access</head>
-      <p>Materials and archived websites are open to researchers without restrictions.</p>
-    </accessrestrict>
-    <bioghist id="aspace_023033cb81fa3763d07f07c05aafb9cb">
-      <head>Historical Note</head>
-      <p>The National Union of Bricklayers of the U.S.A. was organized on October 16, 1865 and granted a charter to Local No. 1 in Brooklyn, New York, on October 17, 1868, making Local 1 one of the oldest continuously-existing locals in New York City. The National Union of Bricklayers was one of the first unions to support the eight-hour work day, a priority for delegates from its New York locals to its 1869 Convention. In 1881, the National Union of Bricklayers became an international union. A reorganized charter was granted in 1910 when the International became Bricklayers, Masons, and Plasterers International Union of America. In 1916, the union became affiliated with the American Federation of Labor. From its beginnings the union emphasized apprenticeship training, wages, working conditions, and benefits for union members and their families. </p>
-      <p>The union's records illustrate the early dominance of Irish American and Irish immigrant members in the union -- many of them sons of bricklayers. In the 1930s and 1940s members from Irish and Italian ethnic backgrounds clashed, as Irish membership dwindled, and Italian members brought in more family members. By the mid-1980s, union operations were run at the district and international level, rather than at the local level, and local politics and power became less important. In 1986, Local 1 had 447 members, half of whom were African American and Latino, and the remainder were mostly of Italian origin. During the 1980s and 1990s, the International operated a federally-funded program called the Job Corps for Disadvantaged Youth, which trained female as well as male apprentices for Local 1.</p>
-      <p>Since its founding, Local 1 merged with several other locals, including locals 9, 21, 30, 31, 34, 37, 41, 66 and 84. Local 1's members have worked on New York City landmarks such as Grand Central Station, the Chrysler Building, the Metropolitan Life Building, the American Museum of Natural History, Lincoln Center, the Cloisters, the Frick Museum, the Metropolitan Museum of Art, and thousands of office and residential buildings.</p>
-      <p>
-        <emph render="bold">Sources:</emph>
-      </p>
-      <p>Bates, Harry. <emph render="italic">Bricklayers' Century of Craftsmanship: A History of the Bricklayers, Masons and Plasterers' International Union of America. </emph> Washington, D.C.: Bricklayers, Masons and Plasterers' International Union of America Washington, D.C., 1955.</p>
-      <p>Hommel, Claudia. New York City Labor Records Survey, Robert F. Wagner Labor Archives, 1986. </p>
-    </bioghist>
-    <userestrict id="aspace_12a7ea64bf789a5f540579c35ceba4a3">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Union of Bricklayers and Allied Craftsmen, Local 1, was not transferred to New York University. Permission to use materials must be secured from the copyright holder. </p>
-      <p>In 1998, Santo Lanzafame, the president of Local 1, transferred copyright of nonprint materials and two scrapbooks in this collection to New York University. Permission to publish or reproduce these materials must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>
-    </userestrict>
-    <custodhist id="aspace_6f4c12a6779910434b6e9add42b097bb">
-      <head>Custodial History</head>
-      <p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website.</p>
-    </custodhist>
-    <phystech id="aspace_7821771c811ae43fb49b1345f4de55ec">
-      <head>Audiovisual Access Policies and  Procedures</head>
-      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <accruals id="aspace_b5db0dccdf3bb80d87a4469ae7f12f5d">
-      <head>Accruals</head>
-      <p>New site crawls are accrued quarterly.</p>
-    </accruals>
-    <appraisal id="aspace_20516b816dd8562aee861aebe6a51059">
-      <head>Take Down Policy</head>
-      <p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p>
-      <p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p>
-      <p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to tamiment.wagner@nyu.edu.</p>
-      <p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>
-    </appraisal>
-    <controlaccess>
-      <genreform source="aat">Ledgers (account books)</genreform>
-      <subject source="lcsh">Building trades -- Employees -- Labor unions -- United States.</subject>
-      <occupation source="lcsh">Bricklayers -- Labor unions</occupation>
-      <subject source="lcsh">Labor unions -- New York (State)</subject>
-      <genreform source="aat">Photographs.</genreform>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_118">wag_118</eadid><filedesc><titlestmt><titleproper>Guide to the International Union of Bricklayers and Allied Craftsmen, Local 1 Records <num>WAG.118</num></titleproper><author>Hanan Ohayon</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:05:36 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>June 2019</date><item>Edited by Amy C. Vo and Megan O'Shea for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>International Union of Bricklayers and Allied Craftsmen, Local 1 Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 9 (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 1 (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 66</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 41 (Woodside, Queens, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 21</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 34</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 30</corpname>
+    </origination>
+    <origination label="source">
       <corpname role="dnr" rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 1 (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Lanzafame, Santo</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref3" level="file">
-        <did>
-          <unittitle>Local 9: Ledgers and Minutes</unittitle>
-          <unitdate datechar="creation" normal="1880/1985" type="inclusive">1880-1985</unitdate>
-          <container altrender="Record carton" id="aspace_f74cfe7897093c37eb514f3f34ad6ac9" label="Mixed Materials [31142063266210]" type="Box">1</container>
-          <container altrender="Record carton" id="aspace_de123c760cea7451717db8c418dd838f" label="Mixed Materials [31142063266228]" type="Box">2</container>
-          <container altrender="Record carton" id="aspace_d0ed9d3bbc0e5f29169d09d6abd5df9a" label="Mixed Materials [31142063266244]" type="Box">4</container>
-          <container altrender="Record carton" id="aspace_663d8e1a6c0a26ff3c24e7831527aec9" label="Mixed Materials [31142063266350]" type="Box">8</container>
-          <container altrender="Manuscript box - Legal" id="aspace_5ccc015f89681f3c83055db90d174d91" label="Mixed Materials [31142063354016]" type="Box">9</container>
-          <container altrender="Record carton" id="aspace_0f6c01d8269d57f423c8547804e1ed49" label="Mixed Materials [31142063266624]" type="Box">35</container>
-          <container altrender="Upright Volume 1.5&quot; wide (any dimensions up to 12&quot; x 16&quot;)" id="aspace_1a1902695cc257030baf7ba0ff6900ab" label="Mixed Materials [31142063354008]" type="Box">36</container>
-          <container altrender="Record carton" id="aspace_f81ebe23d099fa2b339a3ef093aac01c" label="Mixed Materials [31142063266632]" type="Box">37</container>
-          <container altrender="Record carton" id="aspace_a455ded8768d72fa60dbcb86583da093" label="Mixed Materials [31142063354180]" type="Box">39</container>
-          <container altrender="Record carton" id="aspace_f3cdcf95aa9c432f9a900252aef057f2" label="Mixed Materials [31142063354198]" type="Box">42</container>
-          <container altrender="Upright Volume 1.5&quot; wide (any dimensions up to 12&quot; x 16&quot;)" id="aspace_a66121ef6933118f93dac449e5b85056" label="Mixed Materials [31142063353992]" type="Box">49</container>
-          <container altrender="Manuscript box - Legal" id="aspace_67be5e0f2df237cafee6ab80af576a97" label="Mixed Materials [31142063354024]" type="Box">50</container>
-          <container altrender="Manuscript box - Legal" id="aspace_1ae0e3f674c1ec505f24e8e05b9cd57f" label="Mixed Materials [31142063354057]" type="Box">51</container>
-          <container altrender="Manuscript box - Legal" id="aspace_a9454f5b1af6b864148df303b9f09a79" label="Mixed Materials [31142063354206]" type="Box">43</container>
-          <container altrender="Manuscript box - Legal" id="aspace_2dabc6ae07d197c9188b79267d13b8ec" label="Mixed Materials [31142063354172]" type="Box">47</container>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_67bfa95093c7a3a56ead5e3dfea7cb26" label="Mixed Materials [31142063354156]" type="Box">61</container>
-        </did>
-      </c>
-      <c id="aspace_ref5" level="file">
-        <did>
-          <unittitle>Local 9: Candidates Books</unittitle>
-          <unitdate datechar="creation" normal="1923/1931" type="inclusive">1923-1931</unitdate>
-          <container altrender="Record carton" id="aspace_6f271aed2f6a65040b87bcdb736e3781" label="Mixed Materials [31142063266236]" type="Box">3</container>
-          <container altrender="Manuscript box - Legal" id="aspace_59fddfa7f1c4e5c9e9b15fbb6022bcee" label="Mixed Materials [31142063354206]" type="Box">43</container>
-        </did>
-      </c>
-      <c id="aspace_5cdbda1b6355db2e48570aa3196e7096" level="file">
-        <did>
-          <unittitle>Local 9:  Membership Address Books</unittitle>
-          <unitdate datechar="creation" normal="1923/1990" type="inclusive">1923-1990</unitdate>
-          <container altrender="Record carton" id="aspace_1f5d43044f0b1d56d00e8f86ae48dbd8" label="Mixed Materials [31142063266236]" type="Box">3</container>
-          <container altrender="Record carton" id="aspace_adad7aae35cf02b421dd3e70489ee750" label="Mixed Materials [31142063266244]" type="Box">4</container>
-          <container altrender="Manuscript box - Legal" id="aspace_4970384c4c68d13ab472c5cb25ed36a2" label="Mixed Materials [31142063354206]" type="Box">43</container>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>Local 41: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1962/1992" type="inclusive">1962-1992</unitdate>
-          <container altrender="Record carton" id="aspace_1c3da4944ed38ea4ffb2cfab8833d4f6" label="Mixed Materials [31142063266244]" type="Box">4</container>
-          <container altrender="Record carton" id="aspace_b3792787998b1e07e0bf1765ef571f04" label="Mixed Materials [31142063266251]" type="Box">5</container>
-          <container altrender="Record carton" id="aspace_44ea8d144a04299832ae66645ba41ec3" label="Mixed Materials [31142063266335]" type="Box">6</container>
-          <container altrender="Manuscript box - Letter - Half" id="aspace_fc4b6b52431659cb775c4c9349ef8d91" label="Mixed Materials [31142063354354]" type="Box">63</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Local 41: Contracts and Constitutions</unittitle>
-          <unitdate datechar="creation" normal="1952/1987" type="inclusive">1952-1987</unitdate>
-          <container altrender="Record carton" id="aspace_1092153339032b4962f70ac66a8ba284" label="Mixed Materials [31142063266335]" type="Box">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Local 1:  Photographs</unittitle>
-          <unitdate datechar="creation" normal="1990/1996" type="inclusive">undated</unitdate>
-          <container altrender="Record carton" id="aspace_25529a0abb1075015bb3feac8ab8de45" label="Mixed Materials [31142063266343]" type="Box">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Frank Alessi: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-          <container altrender="Record carton" id="aspace_95ba510f7c6f86da00a4119c7086514a" label="Mixed Materials [31142063266343]" type="Box">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>Photograph Plates</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_31bdcc9c8190a9c0704f85eb853f25a5" label="Mixed Materials [31142063266343]" type="Box">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Local 21: Correspondence and Monthly Dues Reports</unittitle>
-          <unitdate datechar="creation" normal="1980/1992" type="inclusive">1980-1992</unitdate>
-          <container altrender="Record carton" id="aspace_f3e32e85507f8bd691759c3b8806f3ec" label="Mixed Materials [31142063266376]" type="Box">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>Local 66: Apprentice, Journeyman, Transfer, and Reinstatement Forms</unittitle>
-          <unitdate datechar="creation" normal="1978/1984" type="inclusive">1978-1984</unitdate>
-          <container altrender="Record carton" id="aspace_5bcbc16b5273cd9080b2786d945607b6" label="Mixed Materials [31142063266376]" type="Box">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Local 34: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1957/1993" type="inclusive">1957-1993</unitdate>
-          <container altrender="Record carton" id="aspace_bae2ccdf5395d0c4f3db51910f5023f8" label="Mixed Materials [31142063266384]" type="Box">11</container>
-          <container altrender="Record carton" id="aspace_c21ba3d001c0f1efbb9ec3ff0a776ff0" label="Mixed Materials [31142067115983]" type="Box">12</container>
-          <container altrender="Record carton" id="aspace_7396f12d20a1c9109d267c9899fb7426" label="Mixed Materials [31142063354065]" type="Box">13</container>
-          <container altrender="Record carton" id="aspace_934f744c58ea9b4dfcc2c81249e745bf" label="Mixed Materials [31142063266418]" type="Box">14</container>
-          <container altrender="Record carton" id="aspace_3ded4b816c5db165a7dbf7c61ba69c1f" label="Mixed Materials [31142063266426]" type="Box">15</container>
-          <container altrender="Record carton" id="aspace_2528f355363e1d45ec0e29cfe018c9e7" label="Mixed Materials [31142063354073]" type="Box">16</container>
-          <container altrender="Record carton" id="aspace_d47192cf0475844f67cb9ef30903e000" label="Mixed Materials [31142063266442]" type="Box">17</container>
-          <container altrender="Record carton" id="aspace_1ebecff5f4a116a089ef09c065333ae8" label="Mixed Materials [31142063266459]" type="Box">18</container>
-          <container altrender="Record carton" id="aspace_2ae8a4e1577c80210aa868561633d1ad" label="Mixed Materials [31142063266467]" type="Box">19</container>
-          <container altrender="Record carton" id="aspace_d45d49a931f420d1b36783c9f4343b71" label="Mixed Materials [31142063266475]" type="Box">20</container>
-          <container altrender="Record carton" id="aspace_972c5fe5a074e803173ebb858a354b16" label="Mixed Materials [31142063354099]" type="Box">21</container>
-          <container altrender="Record carton" id="aspace_5c33efaccedbd216fd57bc493975a3f5" label="Mixed Materials [31142063354180]" type="Box">39</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>Local 1:  Deceased and Dropped Members Forms and Ledgers</unittitle>
-          <unitdate datechar="creation" normal="1915/1993" type="inclusive">1915-1993</unitdate>
-          <container altrender="Record carton" id="aspace_a244034efbd6bae1b87cbb5580dec4c5" label="Mixed Materials [31142063354065]" type="Box">13</container>
-          <container altrender="Record carton" id="aspace_2c0c945240782dfdc903f45a1ff2b031" label="Mixed Materials [31142063266418]" type="Box">14</container>
-          <container altrender="Manuscript box - Legal" id="aspace_3448c87825bedfe29c57b6c020a438a6" label="Mixed Materials [31142063354131]" type="Box">38</container>
-          <container altrender="Manuscript box - Legal" id="aspace_5263de6a18c8c67a5545035ae850b135" label="Mixed Materials [31142063354040]" type="Box">53</container>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_ddb320a84b522e11d307427b4973accd" label="Mixed Materials [31142063354032]" type="Box">54</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_1ff8501d28db00595e26062da352ec6b" label="Mixed Materials [31142063354255]" type="Box">59</container>
-          <container altrender="Record carton" id="aspace_e16ccf54b15cd810f2f8dae1520c4822" label="Mixed Materials [31142063266673]" type="Box">41</container>
-        </did>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle>Group Photographs</unittitle>
-          <unitdate datechar="creation" normal="1946/1952" type="inclusive">1946-1952</unitdate>
-          <container altrender="Record carton" id="aspace_8b19dbef84e275ef1095e6dba033c7b5" label="Mixed Materials [31142063354073]" type="Box">16</container>
-        </did>
-      </c>
-      <c id="aspace_ref32" level="file">
-        <did>
-          <unittitle>Locals 30 and 41: Legal Decisions</unittitle>
-          <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
-          <container altrender="Record carton" id="aspace_3327d32d67f3014bd801eae300c5a54d" label="Mixed Materials [31142063354073]" type="Box">16</container>
-        </did>
-      </c>
-      <c id="aspace_ref39" level="file">
-        <did>
-          <unittitle>Local 66: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1984/1993" type="inclusive">1984-1993</unitdate>
-          <container altrender="Record carton" id="aspace_446a8b0fa10df4dc2d0623ced891ce6a" label="Mixed Materials [31142063354099]" type="Box">21</container>
-          <container altrender="Record carton" id="aspace_66450fa7016d158770ea10153d798f96" label="Mixed Materials [31142063266491]" type="Box">22</container>
-          <container altrender="Record carton" id="aspace_f79ea6a692693a8c94c8170dc8c135cd" label="Mixed Materials [31142063266509]" type="Box">23</container>
-          <container altrender="Record carton" id="aspace_7a3c390b0e7d9a982a69f59ac02a4236" label="Mixed Materials [31142063266558]" type="Box">28</container>
-          <container altrender="Record carton" id="aspace_3314a897ea92179b41d426ce9b69c42b" label="Mixed Materials [31142063266566]" type="Box">29</container>
-          <container altrender="Record carton" id="aspace_0b7ff033833c4e33402bfc6cc44a3d3f" label="Mixed Materials [31142063266574]" type="Box">30</container>
-          <container altrender="Record carton" id="aspace_0e8b38842051160a52e75962e9c1c9c1" label="Mixed Materials [31142063266582]" type="Box">31</container>
-          <container altrender="Record carton" id="aspace_899dc1ea6bab47dfe18ce4a97a1f19e9" label="Mixed Materials [31142063266616]" type="Box">34</container>
-        </did>
-      </c>
-      <c id="aspace_ref40" level="file">
-        <did>
-          <unittitle>Local 66: Audio Recordings of Board Meetings</unittitle>
-          <unitdate datechar="creation">1990-1991</unitdate>
-          <container altrender="Record carton" id="aspace_1c44a3ad81d89d0f89a4dcf8ca221aee" label="Mixed Materials [31142063354099]" type="Box">21</container>
-        </did>
-      </c>
-      <c id="aspace_0464eea56fefea90ff29b85c9369924a" level="file">
-        <did>
-          <unittitle>Local 66: Contracts</unittitle>
-          <unitdate datechar="creation" normal="1975/1990" type="inclusive">1975-1990</unitdate>
-          <container altrender="Record carton" id="aspace_85deaa2f0f068279cdfcae393490f50f" label="Mixed Materials [31142063354099]" type="Box">21</container>
-          <container altrender="Record carton" id="aspace_47044b5d2c9d257f9e103cca4b545b59" label="Mixed Materials [31142063266616]" type="Box">34</container>
-        </did>
-      </c>
-      <c id="aspace_ref41" level="file">
-        <did>
-          <unittitle>Trade Agreements and Constitutions</unittitle>
-          <unitdate datechar="creation" normal="1926/1970" type="inclusive">1926-1970</unitdate>
-          <container altrender="Record carton" id="aspace_897e0f4e105b27eac8b58ec3c146f9a9" label="Mixed Materials [31142063354099]" type="Box">21</container>
-        </did>
-      </c>
-      <c id="aspace_59330e88c2b1568946ccb06c6926ac61" level="file">
-        <did>
-          <unittitle>Notices</unittitle>
-          <unitdate datechar="creation" normal="1927/1929" type="inclusive">1927-1929</unitdate>
-          <container altrender="Record carton" id="aspace_94e8fd5f1ba5f8a949ff206a07c3930d" label="Mixed Materials [31142063354099]" type="Box">21</container>
-        </did>
-      </c>
-      <c id="aspace_ref45" level="file">
-        <did>
-          <unittitle>Dropped and Deceased Members Book</unittitle>
-          <unitdate datechar="creation" normal="1949/1992" type="inclusive">1949-1992</unitdate>
-          <container altrender="Record carton" id="aspace_d52558ce6967c225293c1bdffae59e16" label="Mixed Materials [31142063266509]" type="Box">23</container>
-        </did>
-      </c>
-      <c id="aspace_ref46" level="file">
-        <did>
-          <unittitle>Dues Books</unittitle>
-          <unitdate datechar="creation" normal="1921/1995" type="inclusive">1921-1995</unitdate>
-          <container altrender="Record carton" id="aspace_45dbafdfb53e6aa5210b69938a5ba929" label="Mixed Materials [31142063266509]" type="Box">23</container>
-          <container altrender="Manuscript box - Legal" id="aspace_99b899593bc93295798f7811c887b4b4" label="Mixed Materials [31142063354131]" type="Box">38</container>
-        </did>
-      </c>
-      <c id="aspace_ref47" level="file">
-        <did>
-          <unittitle>Local 1: Photographs of Life Members</unittitle>
-          <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
-          <container altrender="Record carton" id="aspace_3478a1c826d2b80c4a8d4759d89005b8" label="Mixed Materials [31142063266509]" type="Box">23</container>
-        </did>
-      </c>
-      <c id="aspace_ref48" level="file">
-        <did>
-          <unittitle>Local 30: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1981/1993" type="inclusive">1981-1993</unitdate>
-          <container altrender="Record carton" id="aspace_3f88fe8d47cb2a9b7dbf6f18f53ad49f" label="Mixed Materials [31142063266509]" type="Box">23</container>
-          <container altrender="Record carton" id="aspace_9aeae97c5b8829d0f5acbe20567927a8" label="Mixed Materials [31142063266517]" type="Box">24</container>
-          <container altrender="Record carton" id="aspace_80b350374b60c1c9e57d8270c5116fc3" label="Mixed Materials [31142063266525]" type="Box">25</container>
-        </did>
-      </c>
-      <c id="aspace_ref50" level="file">
-        <did>
-          <unittitle>New York District Council Reports and Conference Materials</unittitle>
-          <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
-          <container altrender="Record carton" id="aspace_1b088344e19b71a079529f8854cdcddc" label="Mixed Materials [31142063266525]" type="Box">25</container>
-        </did>
-      </c>
-      <c id="aspace_ref52" level="file">
-        <did>
-          <unittitle>Local 34: Minutes</unittitle>
-          <unitdate datechar="creation" normal="1899/1971" type="inclusive">1899-1971</unitdate>
-          <container altrender="Record carton" id="aspace_ba9474e04797112eb59fb08087b505c5" label="Mixed Materials [31142063266533]" type="Box">26</container>
-          <container altrender="Manuscript box - Legal" id="aspace_91c927634bb78492b9fb56625ff7f32e" label="Mixed Materials [31142063354107]" type="Box">27</container>
-          <container altrender="Manuscript box - Legal" id="aspace_dea9270de7ab7cdac14a8b827960e080" label="Mixed Materials [31142063354115]" type="Box">56</container>
-          <container altrender="Manuscript box - Legal" id="aspace_ca46fabdf6073c61ed653c4ed7b81639" label="Mixed Materials [31142063354164]" type="Box">57</container>
-          <container altrender="Record carton" id="aspace_18ff0427ef8c8ffd17dc2fdc307f66ab" label="Mixed Materials [31142063266558]" type="Box">28</container>
-          <container altrender="Record carton" id="aspace_fb11207b9b0005779a4153e4fd480302" label="Mixed Materials [31142063354180]" type="Box">39</container>
-        </did>
-      </c>
-      <c id="aspace_ref53" level="file">
-        <did>
-          <unittitle>District Council Reports</unittitle>
-          <unitdate datechar="creation" normal="1984/1987" type="inclusive">1984-1987</unitdate>
-          <container altrender="Record carton" id="aspace_3f0df4a8ac27ed7f921be74ef9eee512" label="Mixed Materials [31142063266533]" type="Box">26</container>
-          <container altrender="Manuscript box - Letter - Half" id="aspace_ddfe1412f662a30d006e63bd68973108" label="Mixed Materials [31142063354354]" type="Box">63</container>
-        </did>
-      </c>
-      <c id="aspace_ref58" level="file">
-        <did>
-          <unittitle>Audio Recordings of Executive Committee, General, and Special Meetings</unittitle>
-          <unitdate datechar="creation" normal="1988/1991" type="inclusive">1988-1991</unitdate>
-          <container altrender="Record carton" id="aspace_b1f636d6efc14f3f6d03a78a0aef4a8f" label="Mixed Materials [31142063266574]" type="Box">30</container>
-        </did>
-      </c>
-      <c id="aspace_ref59" level="file">
-        <did>
-          <unittitle>Local 1: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1980/1987" type="inclusive">1980-1987</unitdate>
-          <container altrender="Record carton" id="aspace_618c4f2aefe256b1a2291c41b9693586" label="Mixed Materials [31142063266574]" type="Box">30</container>
-        </did>
-      </c>
-      <c id="aspace_2ab9be83909019f9a9cdd1d3075a7a07" level="file">
-        <did>
-          <unittitle>Local 9: Constitutions, Trade Agreements, and Dues Information</unittitle>
-          <unitdate datechar="creation" normal="1910/1992" type="inclusive">1910-1992</unitdate>
-          <container altrender="Record carton" id="aspace_53bce34d70b1de6922b2f02861d96508" label="Mixed Materials [31142063266590]" type="Box">32</container>
-          <container altrender="Manuscript box - Legal" id="aspace_0db8bcda2f0a10c26435c8285b636d19" label="Mixed Materials [31142063354123]" type="Box">33</container>
-        </did>
-      </c>
-      <c id="aspace_8f5382476834783bbfe6fa1d6cefd3e0" level="file">
-        <did>
-          <unittitle>Local 9:  Financial and Legal Documents</unittitle>
-          <unitdate datechar="creation" normal="1973/1993" type="inclusive">1973-1993</unitdate>
-          <container altrender="Record carton" id="aspace_28f3e0e11ad2e76dbb71f070a6443259" label="Mixed Materials [31142063266590]" type="Box">32</container>
-        </did>
-      </c>
-      <c id="aspace_ref65" level="file">
-        <did>
-          <unittitle>Local 9: Election Ballots</unittitle>
-          <unitdate datechar="creation" normal="1936/1989" type="inclusive">1936-1989</unitdate>
-          <container altrender="Record carton" id="aspace_495ecc017894ad8d8b74e476e30e4b2c" label="Mixed Materials [31142063266590]" type="Box">32</container>
-        </did>
-      </c>
-      <c id="aspace_ref67" level="file">
-        <did>
-          <unittitle>Local 9: Meeting Minutes and Reports</unittitle>
-          <unitdate datechar="creation" normal="1981/1991" type="inclusive">1981-1991</unitdate>
-          <container altrender="Record carton" id="aspace_b1aafc313b181d0eeff8ea6d65efdb7c" label="Mixed Materials [31142063266590]" type="Box">32</container>
-        </did>
-      </c>
-      <c id="aspace_ref69" level="file">
-        <did>
-          <unittitle>Local 9: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1982/1993" type="inclusive">1982-1993</unitdate>
-          <container altrender="Record carton" id="aspace_d829354c7a53d8ffc7a2536e04078913" label="Mixed Materials [31142063266590]" type="Box">32</container>
-        </did>
-      </c>
-      <c id="aspace_9e73bc16c0b3d3b7c8326609db154759" level="file">
-        <did>
-          <unittitle>Local 66: Picket Line Rosters</unittitle>
-          <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5a0080bd693d5054560ef0ed5f89ca0b" label="Mixed Materials [31142063354123]" type="Box">33</container>
-        </did>
-      </c>
-      <c id="aspace_3aa49b79ab559ef9c88b7f4fd6e02d4e" level="file">
-        <did>
-          <unittitle>Local 21: Meeting Minutes</unittitle>
-          <unitdate datechar="creation" normal="1958/1992" type="inclusive">1958-1992</unitdate>
-          <container altrender="Record carton" id="aspace_8445178e6515ca2e34b4e202d104cae9" label="Mixed Materials [31142063266616]" type="Box">34</container>
-        </did>
-      </c>
-      <c id="aspace_c3c6328ce3ce52a5a987144c45951975" level="file">
-        <did>
-          <unittitle>Local 21: Correspondence, Stationery, and Financial Documents</unittitle>
-          <unitdate datechar="creation" normal="1971/1988" type="inclusive">1971-1988</unitdate>
-          <container altrender="Record carton" id="aspace_3e917d770006d132222f1fe71351e2b8" label="Mixed Materials [31142063266616]" type="Box">34</container>
-        </did>
-      </c>
-      <c id="aspace_ref72" level="file">
-        <did>
-          <unittitle>Local 21: Member Address Book</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_fc76f508abc8b81ed35d156c07f27478" label="Mixed Materials [31142063266616]" type="Box">34</container>
-        </did>
-      </c>
-      <c id="aspace_ref77" level="file">
-        <did>
-          <unittitle>Local 1: Initiation Ledgers</unittitle>
-          <unitdate datechar="creation" normal="1916/1959" type="inclusive">1916-1959</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d44b4dc1846d16d9dac06e5590dbbe6e" label="Mixed Materials [31142063354248]" type="Box">58</container>
-        </did>
-      </c>
-      <c id="aspace_1ee20c8328a476b921c8e9248ac51200" level="file">
-        <did>
-          <unittitle>Local 1: Transfers In and Out Ledgers</unittitle>
-          <unitdate datechar="creation" normal="1916/1958" type="inclusive">1916-1958</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_3d8ded896e80559b55a0e74a0cfbd597" label="Mixed Materials [31142063354131]" type="Box">38</container>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cfa1507ec03d43a20439f42f6de12b2c" label="Mixed Materials [31142063354248]" type="Box">58</container>
-        </did>
-      </c>
-      <c id="aspace_57a1f953355e5d9e254ea53cdde1b514" level="file">
-        <did>
-          <unittitle>Local 34: Notes</unittitle>
-          <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
-          <container altrender="Record carton" id="aspace_2aed6534308c5309c7d0a28836df7feb" label="Mixed Materials [31142063354180]" type="Box">39</container>
-        </did>
-      </c>
-      <c id="aspace_ref79" level="file">
-        <did>
-          <unittitle>Local 34: Photographs</unittitle>
-          <unitdate datechar="creation" normal="1924/1924">1924</unitdate>
-          <container altrender="Record carton" id="aspace_41dde24b64b4924d3b6d214ce6e942a8" label="Mixed Materials [31142063354180]" type="Box">39</container>
-        </did>
-      </c>
-      <c id="aspace_ref80" level="file">
-        <did>
-          <unittitle>Local 34: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate>
-          <container altrender="Record carton" id="aspace_1d56be52b998ab9eb25ed69d00a9bd83" label="Mixed Materials [31142063354180]" type="Box">39</container>
-        </did>
-      </c>
-      <c id="aspace_3675cf1a582178304fa1d7d9c5762408" level="file">
-        <did>
-          <unittitle>Local 34: Member Lists</unittitle>
-          <unitdate datechar="creation" normal="1924/1937" type="inclusive">1924-1937</unitdate>
-          <container altrender="Record carton" id="aspace_06396d7f44c384097cbc59867b82a4a5" label="Mixed Materials [31142063354180]" type="Box">39</container>
-        </did>
-      </c>
-      <c id="aspace_ref81" level="file">
-        <did>
-          <unittitle>Local 66: General Files</unittitle>
-          <unitdate datechar="creation" normal="1942/1993" type="inclusive">1942-1993</unitdate>
-          <container altrender="Record carton" id="aspace_9de3edbd99a048ac890dd97a7c53fc92" label="Mixed Materials [31142063266574]" type="Box">30</container>
-          <container altrender="Record carton" id="aspace_4bb19335c0ed49a276b3a8132e148d49" label="Mixed Materials [31142063266582]" type="Box">31</container>
-          <container altrender="Record carton" id="aspace_2687fe74927d57520105d062649cb20a" label="Mixed Materials [31142063266665]" type="Box">40</container>
-          <container altrender="Manuscript box - Letter" id="aspace_a63d484186d4924c26765ae826e54a27" label="Mixed Materials [31142063354214]" type="Box">60</container>
-        </did>
-      </c>
-      <c id="aspace_ref82" level="file">
-        <did>
-          <unittitle>New York State Conference of Bricklayers and Allied Craftsman Annual Convention Proceedings and Audio Recordings</unittitle>
-          <unitdate datechar="creation" normal="1947/1987" type="inclusive">1947-1987</unitdate>
-          <container altrender="Record carton" id="aspace_313e876cb6102106104f382adb3053d5" label="Mixed Materials [31142063266665]" type="Box">40</container>
-          <container altrender="Manuscript box - Letter" id="aspace_db89e6a1ed680bb10e92c177df48a912" label="Mixed Materials [31142063354214]" type="Box">60</container>
-        </did>
-      </c>
-      <c id="aspace_ref85" level="file">
-        <did>
-          <unittitle>Local 66: Meeting Minutes</unittitle>
-          <unitdate datechar="creation" normal="1982/1993" type="inclusive">1982-1993</unitdate>
-          <container altrender="Record carton" id="aspace_f37211dfa56ac895a9bc5f0a4c118003" label="Mixed Materials [31142063266574]" type="Box">30</container>
-        </did>
-      </c>
-      <c id="aspace_21932275cad280d83b3a170e572b9b03" level="file">
-        <did>
-          <unittitle>Local 1: Financial Ledgers</unittitle>
-          <unitdate datechar="creation" normal="1959/1990" type="inclusive">1959-1990</unitdate>
-          <container altrender="Record carton" id="aspace_daeee4d7153876ba2c715b90b8ae66cc" label="Mixed Materials [31142063266673]" type="Box">41</container>
-        </did>
-      </c>
-      <c id="aspace_ref86" level="file">
-        <did>
-          <unittitle>Local 1: Minute Books</unittitle>
-          <unitdate datechar="creation" normal="1959/1990" type="inclusive">1959-1990</unitdate>
-          <container altrender="Record carton" id="aspace_22e089e8d942dc5164756de7db68c270" label="Mixed Materials [31142063266673]" type="Box">41</container>
-        </did>
-      </c>
-      <c id="aspace_ref87" level="file">
-        <did>
-          <unittitle>AFL-CIO Publications</unittitle>
-          <unitdate datechar="creation" normal="1977/1989" type="inclusive">1977-1989</unitdate>
-          <container altrender="Record carton" id="aspace_70710b5462e8b913416b4d7c16c2054a" label="Mixed Materials [31142063266673]" type="Box">41</container>
-          <container altrender="Record carton" id="aspace_3881d566d0d268f2349ac62f07ab61bd" label="Mixed Materials [31142063354347]" type="Box">45</container>
-        </did>
-      </c>
-      <c id="aspace_ref101" level="file">
-        <did>
-          <unittitle>Local 9: Dues Book</unittitle>
-          <unitdate datechar="creation" normal="1909/1910" type="inclusive">1909-1910</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_3aa5b1e97842a8c5ea8546c3182f927f" label="Mixed Materials [31142063354206]" type="Box">43</container>
-        </did>
-      </c>
-      <c id="aspace_ref102" level="file">
-        <did>
-          <unittitle>Local 9: Items Removed from Minutes</unittitle>
-          <unitdate datechar="creation" normal="1885/1973" type="inclusive">1885-1973</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_09adb23cac7320189bc3a52ce55be7c9" label="Mixed Materials [31142063354222]" type="Box">44</container>
-        </did>
-      </c>
-      <c id="aspace_ref104" level="file">
-        <did>
-          <unittitle>Local 1: Ledger; Local 9: Minutes</unittitle>
-          <unitdate datechar="creation">1896, 1929-1930</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_67583cdb7cccac35f846504140f3593e" label="Mixed Materials [31142067115777]" type="Box">46</container>
-        </did>
-      </c>
-      <c id="aspace_ref105" level="file">
-        <did>
-          <unittitle>Local 9: Ledgers and Membership Lists</unittitle>
-          <unitdate datechar="creation">1906-1930, 1957-1979</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_6cdfe63017d143d2d8d54eb8cfc2f7b2" label="Mixed Materials [31142063354172]" type="Box">47</container>
-        </did>
-      </c>
-      <c id="aspace_ref108" level="file">
-        <did>
-          <unittitle>Local 1: Apprenticeship Training Photographs</unittitle>
-          <unitdate datechar="creation">circa 1995-circa 1997</unitdate>
-          <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_070b50291026623f522dce85d8700081" label="Mixed Materials [31142062758233]" type="Box">48</container>
-        </did>
-      </c>
-      <c id="aspace_ref109" level="file">
-        <did>
-          <unittitle>Local 1: Photographs of Restoration of Building at 71st and Park</unittitle>
-          <unitdate datechar="creation">circa 1990</unitdate>
-          <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_981e390ff2f0f0df3ee2da87e7b4f69d" label="Mixed Materials [31142062758233]" type="Box">48</container>
-        </did>
-      </c>
-      <c id="aspace_ref110" level="file">
-        <did>
-          <unittitle>Local 41: Scrapbook [Includes Clippings and Photographs of Members]</unittitle>
-          <unitdate datechar="creation">circa 1940s</unitdate>
-          <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_3dbe0012b06fba87b8b1555d0ee32200" label="Mixed Materials [31142062758233]" type="Box">48</container>
-        </did>
-      </c>
-      <c id="aspace_ref111" level="file">
-        <did>
-          <unittitle>Scrapbook [Includes 105 black and white photographs; names written in pencil under each]</unittitle>
-          <unitdate datechar="creation">circa 1920s-circa 1930s</unitdate>
-          <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_04547635d18929d098a1ed27fe0807ec" label="Mixed Materials [31142062758233]" type="Box">48</container>
-        </did>
-      </c>
-      <c id="aspace_ref112" level="file">
-        <did>
-          <unittitle>Photographs of Union Officers and Events [Includes Group and Individual Portraits]</unittitle>
-          <unitdate datechar="creation">circa 1930s-circa 1980s</unitdate>
-          <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_c8ccaafcd8205b31a5a4354915b555e1" label="Mixed Materials [31142062758233]" type="Box">48</container>
-        </did>
-      </c>
-      <c id="aspace_ref113" level="file">
-        <did>
-          <unittitle>Head shots of Union Members </unittitle>
-          <unitdate datechar="creation">circa 1920s-circa 1930s</unitdate>
-          <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_006db3daa767971fa626d231b8d4f04e" label="Mixed Materials [31142062758233]" type="Box">48</container>
-        </did>
-      </c>
-      <c id="aspace_ref114" level="file">
-        <did>
-          <unittitle>Memorial Poster for Thomas F. Murphy</unittitle>
-          <unitdate datechar="creation">circa 1989</unitdate>
-          <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_917fc4b30bb36dcbfa35745f75de7019" label="Mixed Materials [31142062758233]" type="Box">48</container>
-        </did>
-      </c>
-      <c id="aspace_ref115" level="file">
-        <did>
-          <unittitle>Local 1: Photograph of 90th Anniversary</unittitle>
-          <unitdate datechar="creation">Nov 20, 1964</unitdate>
-          <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_1e843c0d8200d6d01e79a42457b6492e" label="Mixed Materials [31142062758233]" type="Box">48</container>
-        </did>
-      </c>
-      <c id="aspace_b45a657ead55c5ab361494159f778611" level="file">
-        <did>
-          <unittitle>Local 34: Financial Ledgers</unittitle>
-          <unitdate datechar="creation" normal="1933/1952" type="inclusive">1933-1952</unitdate>
-          <container altrender="Flat Box - 12 x 16" id="aspace_84dce04a00d5a18aecfb737fdf3ca0ea" label="Mixed Materials [31142063354149]" type="Box">55</container>
-          <container altrender="Manuscript box - Legal" id="aspace_e8b8be309da860baf588b7ed578173b1" label="Mixed Materials [31142063354115]" type="Box">56</container>
-          <container altrender="Manuscript box - Legal" id="aspace_0a0e4cb24ed5e9ef7dab41794d5c56d2" label="Mixed Materials [31142063354164]" type="Box">57</container>
-        </did>
-      </c>
-      <c id="aspace_510b2f5184d24ac05fa525230e0f7e77" level="file">
-        <did>
-          <unittitle>Local 37: Minute Book and Financial Ledger</unittitle>
-          <unitdate datechar="creation" normal="1972/1982" type="inclusive">1972-1982</unitdate>
-          <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_a6dcfe71245e6a838b3ef642561b9734" label="Mixed Materials [31142063354255]" type="Box">59</container>
-        </did>
-      </c>
-      <c id="aspace_200245ab48a12ec7e805d2b445fcb076" level="file">
-        <did>
-          <unittitle>Constitutions and By-laws</unittitle>
-          <unitdate datechar="creation" normal="1964/1985" type="inclusive">1964-1985</unitdate>
-          <container altrender="Record carton" id="aspace_bc67b56dc122431b39936d7c25b8ee3f" label="Mixed Materials [31142063266665]" type="Box">40</container>
-        </did>
-      </c>
-      <c id="aspace_79eb778b28b876b4e6059a80bd6babfe" level="file">
-        <did>
-          <unittitle>Local 21: Embossing Press</unittitle>
-          <unitdate datechar="creation" normal="1930/1999" type="inclusive">Undated</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_7fbc04fea8cb948f73e486314b8405be" label="Mixed Materials [31142063354230]" type="Box">52</container>
-        </did>
-      </c>
-      <c id="aspace_2e58aad0ad449779fa097df2cc3a94d0" level="file">
-        <did>
-          <unittitle>Local 3:  Dues Books</unittitle>
-          <unitdate datechar="creation" normal="1888/1909" type="inclusive">1888-1909</unitdate>
-          <container altrender="Record carton" id="aspace_2b36b98561b1c5b04507500a770475cf" label="Mixed Materials [31142063354347]" type="Box">45</container>
-        </did>
-      </c>
-      <c id="aspace_c9cf03d1929cc935a333badb18d8bbbd" level="file">
-        <did>
-          <unittitle>Local 1:  Welfare Fund Reports</unittitle>
-          <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
-          <container altrender="Record carton" id="aspace_0e3eadf2071f6305477334de2e6c28be" label="Mixed Materials [31142063354347]" type="Box">45</container>
-          <container altrender="Manuscript box - Letter - Half" id="aspace_0791f3bcd4db18d5cfad967f6d2704e8" label="Mixed Materials [31142063354354]" type="Box">63</container>
-        </did>
-      </c>
-      <c id="aspace_ref119" level="otherlevel" otherlevel="website">
-        <did>
-          <unittitle>Archived Website</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 websites</extent>
-            <extent altrender="carrier">in 1 archived website</extent>
-          </physdesc>
-          <unitdate datechar="Captured" normal="2012/2012">Dec 5, 2012-ongoing</unitdate>
-          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://bricklayersandalliedcraftworkerslocal1ny.org/" xlink:role="external-link" xlink:show="new" xlink:title="International Union of Bricklayers and Allied Craftsmen, Local 1" xlink:type="simple">
-            <daodesc>
-              <p>International Union of Bricklayers and Allied Craftsmen, Local 1: Dec 5, 2012-ongoing</p>
-            </daodesc>
-          </dao>
-        </did>
-        <scopecontent id="aspace_14864236cf146998480e34e6271b9486">
-          <head>Scope and Contents</head>
-          <p>The archived website of the International Union of Bricklayers and Allied Craftsmen, Local 1 contains information for members, the local's newsletter, information about and photographs of events, calendars for events and trainings, and news listings.</p>
-        </scopecontent>
-        <phystech id="aspace_e48dd0dedcc2f3fc2b49738f864970e1">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
-        </phystech>
-        <accruals id="aspace_7b7422a25785d46f17e4f7d030456f16">
-          <head>Accruals</head>
-          <p>New site crawls are accrued quarterly.</p>
-        </accruals>
-        <prefercite id="aspace_45594ddb70cb504eafba1210935071af">
-          <head>Preferred Citation</head>
-          <p>"Page Title." Archived month/day/year. International Union of Bricklayers and Allied Craftsmen, Local 1 Records, Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University. https://wayback.archive-it.org/6349/*/http://bricklayersandalliedcraftworkerslocal1ny.org/. (Accessed month/day/year).</p>
-        </prefercite>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>WAG.118</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">51.5 Linear Feet</extent>
+      <extent altrender="carrier">in 40 record cartons, 17 manuscript boxes, 3 flat boxes, 2 custom boxes, and 1 card box</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">29 audiocassettes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 websites</extent>
+      <extent altrender="carrier">in 1 archives website</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1880/2019" type="inclusive">1880-2019</unitdate>
+    <physloc id="aspace_ebb973ee53424ea5d4ac144b036d9db8">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <abstract id="aspace_5cbf571960962e32177d5449cef364fe">The International Union of Bricklayers and Allied Craftsmen, Local 1 was granted a charter by the National Union of Bricklayers of the U.S.A. on October 17, 1868 in Brooklyn, New York and is one of the oldest continuously-existing locals in New York City. The National Union of Bricklayers was one of the first unions to support the eight-hour work day. The collection consists of materials from Local 1, as well as Locals 9, 21, 34, 41, and 66 which merged with Local 1.  Materials include early ledgers, correspondence, ephemera, photographs, scrapbooks, audio recordings, and an archived version of Local 1's website. Physical materials date from the 1880s to the 1990s, and the archived website captures are ongoing since 2012.</abstract>
+    <langmaterial id="aspace_6f7f579530a1b0fad7e1869ff7ece961">Materials primarily in English, with some early ledger books in German.</langmaterial>
+  </did>
+  <arrangement id="aspace_cea6ea016e3d3bbf52e289d71129bf5a">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <scopecontent id="aspace_54ab0a50d637c2bb39311949711fc9be">
+    <head>Scope and Contents</head>
+<p>The collection consists of records of International Union of Bricklayers and Allied Craftsmen, Local 1 of Brooklyn, New York and other locals it merged with, including Local 9 of Brooklyn, Local 41 of Woodside, Queens, and locals 21, 30, 31, 34, 37,  66 and 84. Materials and documents date from the 1880s to the 1990s and include ledger books, minutes, contracts, correspondence, photographs, scrapbooks, ephemera and audio recordings of meetings and conventions. Early ledgers of Locals 1 and 9 date from the 1880s to the 1930s and include minutes, dues records, expense and benefits books and apprentice lists. The collection also contains the archived website of Local 1, with captures ongoing since 2012.  Photographs include portraits of individual members, union events, and group portraits of union members from the 1920s to the 1980s. A 1940s-era scrapbook from Local 41 includes head shots and group portraits of union members and related clippings. A photograph album that appears to date from the 1920s-1930s includes approximately 105 small black and white head shots of union members with names written in pencil under each.</p>  </scopecontent>
+  <prefercite id="aspace_bba090993354c3f4c93a76a1cb1f1431">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; International Union of Bricklayers and Allied Craftsmen, Local 1 Records; WAG 118; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <acqinfo id="aspace_8d150be31aa20a52d0b4f14c2aaade37">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by the International Union of Bricklayers and Allied Craftsmen, Local 1, in 1998. The accession numbers associated with this gift are 1998.020 and 1998.021.</p><p>The website was initially selected by curators and captured through the use of the California Digital Library's Web Archiving Service in 2012 as part of the Labor Unions and Organizations (U.S.) Web Archive. In 2015, these websites were migrated to Archive-It. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website.</p>  </acqinfo>
+  <processinfo id="aspace_2cbb039fe933eea738bd8f7dc03f38af">
+    <head>Processing Information</head>
+<p>Photographs were separated from this collection in 1999 and were established as a separate collection, the International Union of Bricklayers and Allied Craftsmen, Local 0001 (Apprenticeship and Training Program) Photographs (PHOTOS 082). In 2013, the photograph collection was reincorporated into International Union of Bricklayers and Allied Craftsmen, Local 1 Records and Photographs WAG 118.</p><p>In 2014, the archived website was added as a series.</p><p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown. In 2019, materials were rehoused in new acid-free folders and boxes with spacers in preparation for offsite storage.  Material in the following boxes were rehoused into multiple boxes:  box 9 was split into boxes 9, 50, and 51; box 10 was split into boxes 10 and 52; box 13 was split into boxes 13 and 53; box 14 was split into boxes 14 and 54; box 27 was split into boxes 27, 56, and 57; box 38 was split into boxes 38, 58, and 59; box 40 was split into boxes 40 and 60; and box 47 was split into boxes 47 and 61.  In rehousing the collection, mold was found in some boxes and materials were quarantined as necessary.</p><p>Local 1's website was archived to the Internet Archive using the Archive-It service.  New York University Libraries follows professional standards and best 
+practices when imaging, ingesting, and processing born-digital material in order to 
+maintain the integrity of the content. </p>  </processinfo>
+  <phystech id="aspace_272d86253a900945e6375497edc277ca">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Due to the fragility of materials in Boxes 1 and 2, researchers must use the microfilm of the early minutes of Local 9 (microfilm collection number R7459). Also because of fragility, advance notice is required before using a 1920s-1930s-era photographs album in Box 48.</p>  </phystech>
+  <accessrestrict id="aspace_370194049aa78bd96657233fa72a56b2">
+    <head>Conditions Governing Access</head>
+<p>Materials and archived websites are open to researchers without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_023033cb81fa3763d07f07c05aafb9cb">
+    <head>Historical Note</head>
+<p>The National Union of Bricklayers of the U.S.A. was organized on October 16, 1865 and granted a charter to Local No. 1 in Brooklyn, New York, on October 17, 1868, making Local 1 one of the oldest continuously-existing locals in New York City. The National Union of Bricklayers was one of the first unions to support the eight-hour work day, a priority for delegates from its New York locals to its 1869 Convention. In 1881, the National Union of Bricklayers became an international union. A reorganized charter was granted in 1910 when the International became Bricklayers, Masons, and Plasterers International Union of America. In 1916, the union became affiliated with the American Federation of Labor. From its beginnings the union emphasized apprenticeship training, wages, working conditions, and benefits for union members and their families. </p><p>The union's records illustrate the early dominance of Irish American and Irish immigrant members in the union -- many of them sons of bricklayers. In the 1930s and 1940s members from Irish and Italian ethnic backgrounds clashed, as Irish membership dwindled, and Italian members brought in more family members. By the mid-1980s, union operations were run at the district and international level, rather than at the local level, and local politics and power became less important. In 1986, Local 1 had 447 members, half of whom were African American and Latino, and the remainder were mostly of Italian origin. During the 1980s and 1990s, the International operated a federally-funded program called the Job Corps for Disadvantaged Youth, which trained female as well as male apprentices for Local 1.</p><p>Since its founding, Local 1 merged with several other locals, including locals 9, 21, 30, 31, 34, 37, 41, 66 and 84. Local 1's members have worked on New York City landmarks such as Grand Central Station, the Chrysler Building, the Metropolitan Life Building, the American Museum of Natural History, Lincoln Center, the Cloisters, the Frick Museum, the Metropolitan Museum of Art, and thousands of office and residential buildings.</p><p><emph render="bold">Sources:</emph></p><p>Bates, Harry. <emph render="italic">Bricklayers' Century of Craftsmanship: A History of the Bricklayers, Masons and Plasterers' International Union of America. </emph> Washington, D.C.: Bricklayers, Masons and Plasterers' International Union of America Washington, D.C., 1955.</p><p>Hommel, Claudia. New York City Labor Records Survey, Robert F. Wagner Labor Archives, 1986. </p>  </bioghist>
+  <userestrict id="aspace_12a7ea64bf789a5f540579c35ceba4a3">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Union of Bricklayers and Allied Craftsmen, Local 1, was not transferred to New York University. Permission to use materials must be secured from the copyright holder. </p><p>In 1998, Santo Lanzafame, the president of Local 1, transferred copyright of nonprint materials and two scrapbooks in this collection to New York University. Permission to publish or reproduce these materials must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
+  <custodhist id="aspace_6f4c12a6779910434b6e9add42b097bb">
+    <head>Custodial History</head>
+<p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website.</p>  </custodhist>
+  <phystech id="aspace_7821771c811ae43fb49b1345f4de55ec">
+    <head>Audiovisual Access Policies and  Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <accruals id="aspace_b5db0dccdf3bb80d87a4469ae7f12f5d">
+    <head>Accruals</head>
+<p>New site crawls are accrued quarterly.</p>  </accruals>
+  <appraisal id="aspace_20516b816dd8562aee861aebe6a51059">
+    <head>Take Down Policy</head>
+<p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p><p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p><p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to tamiment.wagner@nyu.edu.</p><p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>  </appraisal>
+  <controlaccess>
+    <genreform source="aat">Ledgers (account books)</genreform>
+    <subject source="lcsh">Building trades -- Employees -- Labor unions -- United States.</subject>
+    <occupation source="lcsh">Bricklayers -- Labor unions</occupation>
+    <subject source="lcsh">Labor unions -- New York (State)</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <corpname role="dnr" rules="dacs" source="local">International Union of Bricklayers and Allied Craftsmen. Local 1 (Brooklyn, New York, N.Y.)</corpname>
+    <persname role="dnr" rules="dacs" source="local">Lanzafame, Santo</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref3" level="file"><did><unittitle>Local 9: Ledgers and Minutes</unittitle><unitdate datechar="creation" normal="1880/1985" type="inclusive">1880-1985</unitdate><container altrender="Record carton" id="aspace_6887e6ce6cf9abf041e8c68356e1aa09" label="Mixed Materials [31142063266210]" type="Box">1</container><container altrender="Record carton" id="aspace_6d4181eaaa47ea7e1deb0b3fe2f6c618" label="Mixed Materials [31142063266228]" type="Box">2</container><container altrender="Record carton" id="aspace_ff601911041ac80e5c97bf0943680e1a" label="Mixed Materials [31142063266244]" type="Box">4</container><container altrender="Record carton" id="aspace_65560b3b72b3f335daf3b2e716981f62" label="Mixed Materials [31142063266350]" type="Box">8</container><container altrender="Manuscript box - Legal" id="aspace_c7d4f60dea189b74fd86422e5fc49dfe" label="Mixed Materials [31142063354016]" type="Box">9</container><container altrender="Record carton" id="aspace_2a3f0bacf12bc314f5866c0f27d3964d" label="Mixed Materials [31142063266624]" type="Box">35</container><container altrender="Upright Volume 1.5&quot; wide (any dimensions up to 12&quot; x 16&quot;)" id="aspace_8f9c95acb9af6dfd2f772cda208cf0f2" label="Mixed Materials [31142063354008]" type="Box">36</container><container altrender="Record carton" id="aspace_306b5ec13a109c70cb4eac1d26b03fbf" label="Mixed Materials [31142063266632]" type="Box">37</container><container altrender="Record carton" id="aspace_9040b4b9cac9268e8aea502590dc3913" label="Mixed Materials [31142063354180]" type="Box">39</container><container altrender="Record carton" id="aspace_744586c8ec8721c5c2a145e99a17e728" label="Mixed Materials [31142063354198]" type="Box">42</container><container altrender="Upright Volume 1.5&quot; wide (any dimensions up to 12&quot; x 16&quot;)" id="aspace_090639a35340231bbb68ae454698d832" label="Mixed Materials [31142063353992]" type="Box">49</container><container altrender="Manuscript box - Legal" id="aspace_55b132a7b6958cabe6684debeb5dc12c" label="Mixed Materials [31142063354024]" type="Box">50</container><container altrender="Manuscript box - Legal" id="aspace_195f4289a56b9fe978df214d01a267f4" label="Mixed Materials [31142063354057]" type="Box">51</container><container altrender="Manuscript box - Legal" id="aspace_9f44340a570d50e91dbb7a403159a5c0" label="Mixed Materials [31142063354206]" type="Box">43</container><container altrender="Manuscript box - Legal" id="aspace_41a78dc962b0dac9ea1ecd39567eac8b" label="Mixed Materials [31142063354172]" type="Box">47</container><container altrender="Manuscript box - Legal - Half" id="aspace_8fc68db33d4a513a0de7c8b8c9bd8a55" label="Mixed Materials [31142063354156]" type="Box">61</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Local 9: Candidates Books</unittitle><unitdate datechar="creation" normal="1923/1931" type="inclusive">1923-1931</unitdate><container altrender="Record carton" id="aspace_52349448a0da152777ee1634619fd176" label="Mixed Materials [31142063266236]" type="Box">3</container><container altrender="Manuscript box - Legal" id="aspace_39049bd7eff853bab4f3c4cc5c3d3b1d" label="Mixed Materials [31142063354206]" type="Box">43</container></did></c><c id="aspace_5cdbda1b6355db2e48570aa3196e7096" level="file"><did><unittitle>Local 9:  Membership Address Books</unittitle><unitdate datechar="creation" normal="1923/1990" type="inclusive">1923-1990</unitdate><container altrender="Record carton" id="aspace_7a05656c907fa5c75486183dfe99a6ac" label="Mixed Materials [31142063266236]" type="Box">3</container><container altrender="Record carton" id="aspace_d1728649beb110e95bb8cd850c383f04" label="Mixed Materials [31142063266244]" type="Box">4</container><container altrender="Manuscript box - Legal" id="aspace_52718012a368cdd54e879a9aa5eb1c43" label="Mixed Materials [31142063354206]" type="Box">43</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Local 41: Correspondence</unittitle><unitdate datechar="creation" normal="1962/1992" type="inclusive">1962-1992</unitdate><container altrender="Record carton" id="aspace_94d12aad6de6e7590556ba3588c97987" label="Mixed Materials [31142063266244]" type="Box">4</container><container altrender="Record carton" id="aspace_56dd4503c6279e6e36b96efff099bcc3" label="Mixed Materials [31142063266251]" type="Box">5</container><container altrender="Record carton" id="aspace_071184199346be8b98f56677cb729d85" label="Mixed Materials [31142063266335]" type="Box">6</container><container altrender="Manuscript box - Letter - Half" id="aspace_3de0088af4a3d180097bb0e4131d8114" label="Mixed Materials [31142063354354]" type="Box">63</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Local 41: Contracts and Constitutions</unittitle><unitdate datechar="creation" normal="1952/1987" type="inclusive">1952-1987</unitdate><container altrender="Record carton" id="aspace_9ac73d9dae8dc04fcf70551b35bfc8ac" label="Mixed Materials [31142063266335]" type="Box">6</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Local 1:  Photographs</unittitle><unitdate datechar="creation" normal="1990/1996" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_f9c2accbdfc87d2d66e218414f8d67fb" label="Mixed Materials [31142063266343]" type="Box">7</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Frank Alessi: Correspondence</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Record carton" id="aspace_027c4d6db7caf91a1960ef5eaca9c2f6" label="Mixed Materials [31142063266343]" type="Box">7</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Photograph Plates</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_5aa7d90df66a7332ffb33798f3a5b83b" label="Mixed Materials [31142063266343]" type="Box">7</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Local 21: Correspondence and Monthly Dues Reports</unittitle><unitdate datechar="creation" normal="1980/1992" type="inclusive">1980-1992</unitdate><container altrender="Record carton" id="aspace_dcdbf1ccd6adc0de4da81d88e074107f" label="Mixed Materials [31142063266376]" type="Box">10</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Local 66: Apprentice, Journeyman, Transfer, and Reinstatement Forms</unittitle><unitdate datechar="creation" normal="1978/1984" type="inclusive">1978-1984</unitdate><container altrender="Record carton" id="aspace_82072e0d30057bc84f2e011492a12cd4" label="Mixed Materials [31142063266376]" type="Box">10</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Local 34: Correspondence</unittitle><unitdate datechar="creation" normal="1957/1993" type="inclusive">1957-1993</unitdate><container altrender="Record carton" id="aspace_1528e5388ada9d7cc325f312a609cce8" label="Mixed Materials [31142063266384]" type="Box">11</container><container altrender="Record carton" id="aspace_3dc3d95f865b3971684243b089672fa3" label="Mixed Materials [31142067115983]" type="Box">12</container><container altrender="Record carton" id="aspace_f44e8ffc98383a6508ee04e8d55a9ec3" label="Mixed Materials [31142063354065]" type="Box">13</container><container altrender="Record carton" id="aspace_398e60d4ddcd16b7f776bb637126ded1" label="Mixed Materials [31142063266418]" type="Box">14</container><container altrender="Record carton" id="aspace_6b5c389152396b8287a8d957f48a9cbe" label="Mixed Materials [31142063266426]" type="Box">15</container><container altrender="Record carton" id="aspace_45317e8f069357d77eb69882a94d7ddf" label="Mixed Materials [31142063354073]" type="Box">16</container><container altrender="Record carton" id="aspace_01eee3bbd863731f8caa9f45cc021600" label="Mixed Materials [31142063266442]" type="Box">17</container><container altrender="Record carton" id="aspace_af51f06e6979e8100fe072a5819bb794" label="Mixed Materials [31142063266459]" type="Box">18</container><container altrender="Record carton" id="aspace_0395b06a6cfe488dd23c83f606297427" label="Mixed Materials [31142063266467]" type="Box">19</container><container altrender="Record carton" id="aspace_fdb8fadac36206d1b8e1bcb79d77abc2" label="Mixed Materials [31142063266475]" type="Box">20</container><container altrender="Record carton" id="aspace_349602616e22b63623e0d5d25382d3c7" label="Mixed Materials [31142063354099]" type="Box">21</container><container altrender="Record carton" id="aspace_16aedf13b6a0e729048d857688d57f0b" label="Mixed Materials [31142063354180]" type="Box">39</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Local 1:  Deceased and Dropped Members Forms and Ledgers</unittitle><unitdate datechar="creation" normal="1915/1993" type="inclusive">1915-1993</unitdate><container altrender="Record carton" id="aspace_bd8f1ad9e7b03dc29c4679885044dc75" label="Mixed Materials [31142063354065]" type="Box">13</container><container altrender="Record carton" id="aspace_73f535228ddb9031ea9028a28e312429" label="Mixed Materials [31142063266418]" type="Box">14</container><container altrender="Manuscript box - Legal" id="aspace_45b103f28fa305055ba296901026a6be" label="Mixed Materials [31142063354131]" type="Box">38</container><container altrender="Manuscript box - Legal" id="aspace_b368d6aac94567f72952eaf75bb4eb0d" label="Mixed Materials [31142063354040]" type="Box">53</container><container altrender="Manuscript box - Legal - Half" id="aspace_dfb4c16fceddd20642465a5ed486fa84" label="Mixed Materials [31142063354032]" type="Box">54</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_63a764274f2d6a42eb642cf668cc2b34" label="Mixed Materials [31142063354255]" type="Box">59</container><container altrender="Record carton" id="aspace_0119113be254a5ea8276f9c4f55ed33e" label="Mixed Materials [31142063266673]" type="Box">41</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Group Photographs</unittitle><unitdate datechar="creation" normal="1946/1952" type="inclusive">1946-1952</unitdate><container altrender="Record carton" id="aspace_17e9b03427bc5c72afdd794e74b7f8e0" label="Mixed Materials [31142063354073]" type="Box">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Locals 30 and 41: Legal Decisions</unittitle><unitdate datechar="creation" normal="1978/1978">1978</unitdate><container altrender="Record carton" id="aspace_371c603967bf54154a84e433b6d890b6" label="Mixed Materials [31142063354073]" type="Box">16</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Local 66: Correspondence</unittitle><unitdate datechar="creation" normal="1984/1993" type="inclusive">1984-1993</unitdate><container altrender="Record carton" id="aspace_7a03f7497687d04813a03f08d5f96131" label="Mixed Materials [31142063354099]" type="Box">21</container><container altrender="Record carton" id="aspace_d432904b196d3b4edf26e66946a400cf" label="Mixed Materials [31142063266491]" type="Box">22</container><container altrender="Record carton" id="aspace_4cff543107756c1b7113c92ca8125e7c" label="Mixed Materials [31142063266509]" type="Box">23</container><container altrender="Record carton" id="aspace_8dd8d615914fc283606cbe745d018079" label="Mixed Materials [31142063266558]" type="Box">28</container><container altrender="Record carton" id="aspace_f50632c7b38c40f6c49259cf560b08fa" label="Mixed Materials [31142063266566]" type="Box">29</container><container altrender="Record carton" id="aspace_6bb787188c8315e98d1caf2a47b72af1" label="Mixed Materials [31142063266574]" type="Box">30</container><container altrender="Record carton" id="aspace_e4d2969bb774d887719ba96895812c6d" label="Mixed Materials [31142063266582]" type="Box">31</container><container altrender="Record carton" id="aspace_fb640d14bbff3efed5f9ea76f618305c" label="Mixed Materials [31142063266616]" type="Box">34</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Local 66: Audio Recordings of Board Meetings</unittitle><unitdate datechar="creation">1990-1991</unitdate><container altrender="Record carton" id="aspace_6b9b1357b57dddbffc247d58aeaa806d" label="Mixed Materials [31142063354099]" type="Box">21</container></did></c><c id="aspace_0464eea56fefea90ff29b85c9369924a" level="file"><did><unittitle>Local 66: Contracts</unittitle><unitdate datechar="creation" normal="1975/1990" type="inclusive">1975-1990</unitdate><container altrender="Record carton" id="aspace_eda8601f9f757ecf1d3d320d061a4e84" label="Mixed Materials [31142063354099]" type="Box">21</container><container altrender="Record carton" id="aspace_10d3b50b43f182c8a3d699c3ea82a905" label="Mixed Materials [31142063266616]" type="Box">34</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Trade Agreements and Constitutions</unittitle><unitdate datechar="creation" normal="1926/1970" type="inclusive">1926-1970</unitdate><container altrender="Record carton" id="aspace_e5385ea7e6bffebac5f6732e53573574" label="Mixed Materials [31142063354099]" type="Box">21</container></did></c><c id="aspace_59330e88c2b1568946ccb06c6926ac61" level="file"><did><unittitle>Notices</unittitle><unitdate datechar="creation" normal="1927/1929" type="inclusive">1927-1929</unitdate><container altrender="Record carton" id="aspace_e4c2339a28405591e1c2c13439d910b0" label="Mixed Materials [31142063354099]" type="Box">21</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Dropped and Deceased Members Book</unittitle><unitdate datechar="creation" normal="1949/1992" type="inclusive">1949-1992</unitdate><container altrender="Record carton" id="aspace_2ba05c9ef96bd6cbb5bf3da9760ad45f" label="Mixed Materials [31142063266509]" type="Box">23</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Dues Books</unittitle><unitdate datechar="creation" normal="1921/1995" type="inclusive">1921-1995</unitdate><container altrender="Record carton" id="aspace_28987173db0ff238532404c33f15594d" label="Mixed Materials [31142063266509]" type="Box">23</container><container altrender="Manuscript box - Legal" id="aspace_a722246d5a148b0a21be53c265f70fe3" label="Mixed Materials [31142063354131]" type="Box">38</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Local 1: Photographs of Life Members</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_5201dcb8da8fb9e76cb11d35842058c7" label="Mixed Materials [31142063266509]" type="Box">23</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Local 30: Correspondence</unittitle><unitdate datechar="creation" normal="1981/1993" type="inclusive">1981-1993</unitdate><container altrender="Record carton" id="aspace_8305c3466167950f79b908ed553c1b29" label="Mixed Materials [31142063266509]" type="Box">23</container><container altrender="Record carton" id="aspace_e4f598030d67052127a107dec3de108e" label="Mixed Materials [31142063266517]" type="Box">24</container><container altrender="Record carton" id="aspace_b921b4bfffd28e0c5f7afd723e832408" label="Mixed Materials [31142063266525]" type="Box">25</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>New York District Council Reports and Conference Materials</unittitle><unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate><container altrender="Record carton" id="aspace_9624033903f176d32ca7fceca3e29bfe" label="Mixed Materials [31142063266525]" type="Box">25</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Local 34: Minutes</unittitle><unitdate datechar="creation" normal="1899/1971" type="inclusive">1899-1971</unitdate><container altrender="Record carton" id="aspace_4031cd1a2de4cf8a214d952a0b1d3d9d" label="Mixed Materials [31142063266533]" type="Box">26</container><container altrender="Manuscript box - Legal" id="aspace_a0f88d5ae7449b482b1cd03381e1f0de" label="Mixed Materials [31142063354107]" type="Box">27</container><container altrender="Manuscript box - Legal" id="aspace_354e005af97434b0116728f1f93d7176" label="Mixed Materials [31142063354115]" type="Box">56</container><container altrender="Manuscript box - Legal" id="aspace_e4e1871c5efc8ad451a3e7a6415109ae" label="Mixed Materials [31142063354164]" type="Box">57</container><container altrender="Record carton" id="aspace_681c3094030bc2af611d8613d982e9f1" label="Mixed Materials [31142063266558]" type="Box">28</container><container altrender="Record carton" id="aspace_edd9dc6c09e5802a54135a4b463a9212" label="Mixed Materials [31142063354180]" type="Box">39</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>District Council Reports</unittitle><unitdate datechar="creation" normal="1984/1987" type="inclusive">1984-1987</unitdate><container altrender="Record carton" id="aspace_fbff9392a3f4e64d1ea96365424be6e2" label="Mixed Materials [31142063266533]" type="Box">26</container><container altrender="Manuscript box - Letter - Half" id="aspace_104806330b9e5539dc10f951a123e320" label="Mixed Materials [31142063354354]" type="Box">63</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Audio Recordings of Executive Committee, General, and Special Meetings</unittitle><unitdate datechar="creation" normal="1988/1991" type="inclusive">1988-1991</unitdate><container altrender="Record carton" id="aspace_48977fffe72da52f8af0da2bda1f982f" label="Mixed Materials [31142063266574]" type="Box">30</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Local 1: Correspondence</unittitle><unitdate datechar="creation" normal="1980/1987" type="inclusive">1980-1987</unitdate><container altrender="Record carton" id="aspace_fad7d17f98fc38f16dd8d7eece8e1b46" label="Mixed Materials [31142063266574]" type="Box">30</container></did></c><c id="aspace_2ab9be83909019f9a9cdd1d3075a7a07" level="file"><did><unittitle>Local 9: Constitutions, Trade Agreements, and Dues Information</unittitle><unitdate datechar="creation" normal="1910/1992" type="inclusive">1910-1992</unitdate><container altrender="Record carton" id="aspace_3eca7e82a8557a1df1b26f82fabcd7c9" label="Mixed Materials [31142063266590]" type="Box">32</container><container altrender="Manuscript box - Legal" id="aspace_acb875dcb964316c92b074cdd879a0e2" label="Mixed Materials [31142063354123]" type="Box">33</container></did></c><c id="aspace_8f5382476834783bbfe6fa1d6cefd3e0" level="file"><did><unittitle>Local 9:  Financial and Legal Documents</unittitle><unitdate datechar="creation" normal="1973/1993" type="inclusive">1973-1993</unitdate><container altrender="Record carton" id="aspace_d1c902e89b258bdaac22fad5e0765ced" label="Mixed Materials [31142063266590]" type="Box">32</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Local 9: Election Ballots</unittitle><unitdate datechar="creation" normal="1936/1989" type="inclusive">1936-1989</unitdate><container altrender="Record carton" id="aspace_68a0f0598ac2d5333d9a890fcba276ed" label="Mixed Materials [31142063266590]" type="Box">32</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Local 9: Meeting Minutes and Reports</unittitle><unitdate datechar="creation" normal="1981/1991" type="inclusive">1981-1991</unitdate><container altrender="Record carton" id="aspace_3ae994aa510664bb5330aa5126c24bd1" label="Mixed Materials [31142063266590]" type="Box">32</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Local 9: Correspondence</unittitle><unitdate datechar="creation" normal="1982/1993" type="inclusive">1982-1993</unitdate><container altrender="Record carton" id="aspace_b356f112f28bc8db2bab65455b7b7bc8" label="Mixed Materials [31142063266590]" type="Box">32</container></did></c><c id="aspace_9e73bc16c0b3d3b7c8326609db154759" level="file"><did><unittitle>Local 66: Picket Line Rosters</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_97c91face67b2d6211fe33fbb6241677" label="Mixed Materials [31142063354123]" type="Box">33</container></did></c><c id="aspace_3aa49b79ab559ef9c88b7f4fd6e02d4e" level="file"><did><unittitle>Local 21: Meeting Minutes</unittitle><unitdate datechar="creation" normal="1958/1992" type="inclusive">1958-1992</unitdate><container altrender="Record carton" id="aspace_238f5e619a4e51808012419267f6dc00" label="Mixed Materials [31142063266616]" type="Box">34</container></did></c><c id="aspace_c3c6328ce3ce52a5a987144c45951975" level="file"><did><unittitle>Local 21: Correspondence, Stationery, and Financial Documents</unittitle><unitdate datechar="creation" normal="1971/1988" type="inclusive">1971-1988</unitdate><container altrender="Record carton" id="aspace_dca9c65656821bc8fd63a4363fd114f7" label="Mixed Materials [31142063266616]" type="Box">34</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Local 21: Member Address Book</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_9c739f59897eda3bf9408b7829204179" label="Mixed Materials [31142063266616]" type="Box">34</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Local 1: Initiation Ledgers</unittitle><unitdate datechar="creation" normal="1916/1959" type="inclusive">1916-1959</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_ef49b8f66434aeca493cbc712d225698" label="Mixed Materials [31142063354248]" type="Box">58</container></did></c><c id="aspace_1ee20c8328a476b921c8e9248ac51200" level="file"><did><unittitle>Local 1: Transfers In and Out Ledgers</unittitle><unitdate datechar="creation" normal="1916/1958" type="inclusive">1916-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_3c60ec08e5a97cd2085e31f0fca4950f" label="Mixed Materials [31142063354131]" type="Box">38</container><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_744b3ccfde66e6bad82cf8c9d830cd8e" label="Mixed Materials [31142063354248]" type="Box">58</container></did></c><c id="aspace_57a1f953355e5d9e254ea53cdde1b514" level="file"><did><unittitle>Local 34: Notes</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container altrender="Record carton" id="aspace_f406c330e6a7a167b590559ab759dd2a" label="Mixed Materials [31142063354180]" type="Box">39</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Local 34: Photographs</unittitle><unitdate datechar="creation" normal="1924/1924">1924</unitdate><container altrender="Record carton" id="aspace_53c6e37fe872de913fe0ae749a70a707" label="Mixed Materials [31142063354180]" type="Box">39</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Local 34: Correspondence</unittitle><unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate><container altrender="Record carton" id="aspace_01860b9df7b4d8c0101f941f0da8a9de" label="Mixed Materials [31142063354180]" type="Box">39</container></did></c><c id="aspace_3675cf1a582178304fa1d7d9c5762408" level="file"><did><unittitle>Local 34: Member Lists</unittitle><unitdate datechar="creation" normal="1924/1937" type="inclusive">1924-1937</unitdate><container altrender="Record carton" id="aspace_6c2333a7ff8868199c328d4a0ab4d207" label="Mixed Materials [31142063354180]" type="Box">39</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Local 66: General Files</unittitle><unitdate datechar="creation" normal="1942/1993" type="inclusive">1942-1993</unitdate><container altrender="Record carton" id="aspace_33cc444cddbb55862725eb85c37dc688" label="Mixed Materials [31142063266574]" type="Box">30</container><container altrender="Record carton" id="aspace_a06ce6bf35a0cc744d6f116dc0528dc6" label="Mixed Materials [31142063266582]" type="Box">31</container><container altrender="Record carton" id="aspace_05c94f6c82fc5cc156560ea674057f9f" label="Mixed Materials [31142063266665]" type="Box">40</container><container altrender="Manuscript box - Letter" id="aspace_3456a34a7ece0ccc777b8bbb4fc302ca" label="Mixed Materials [31142063354214]" type="Box">60</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>New York State Conference of Bricklayers and Allied Craftsman Annual Convention Proceedings and Audio Recordings</unittitle><unitdate datechar="creation" normal="1947/1987" type="inclusive">1947-1987</unitdate><container altrender="Record carton" id="aspace_1d0c7458374c01ccd7c729ec3059de2a" label="Mixed Materials [31142063266665]" type="Box">40</container><container altrender="Manuscript box - Letter" id="aspace_aca6dfc8107c57cf442b2bc838e0eab9" label="Mixed Materials [31142063354214]" type="Box">60</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Local 66: Meeting Minutes</unittitle><unitdate datechar="creation" normal="1982/1993" type="inclusive">1982-1993</unitdate><container altrender="Record carton" id="aspace_9bd8684dfa0155f47c248629a0147741" label="Mixed Materials [31142063266574]" type="Box">30</container></did></c><c id="aspace_21932275cad280d83b3a170e572b9b03" level="file"><did><unittitle>Local 1: Financial Ledgers</unittitle><unitdate datechar="creation" normal="1959/1990" type="inclusive">1959-1990</unitdate><container altrender="Record carton" id="aspace_ef208331ac19075cc881df73a4d34ed0" label="Mixed Materials [31142063266673]" type="Box">41</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Local 1: Minute Books</unittitle><unitdate datechar="creation" normal="1959/1990" type="inclusive">1959-1990</unitdate><container altrender="Record carton" id="aspace_6b67f7c66d96d4221ad8298d810643ad" label="Mixed Materials [31142063266673]" type="Box">41</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>AFL-CIO Publications</unittitle><unitdate datechar="creation" normal="1977/1989" type="inclusive">1977-1989</unitdate><container altrender="Record carton" id="aspace_9d264958994caf389eb035ae1f8c5a14" label="Mixed Materials [31142063266673]" type="Box">41</container><container altrender="Record carton" id="aspace_6148e173ecd8aafba78b86315c24db6f" label="Mixed Materials [31142063354347]" type="Box">45</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Local 9: Dues Book</unittitle><unitdate datechar="creation" normal="1909/1910" type="inclusive">1909-1910</unitdate><container altrender="Manuscript box - Legal" id="aspace_0025ff0ab0313ac8d6252d2bfab8d6f2" label="Mixed Materials [31142063354206]" type="Box">43</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Local 9: Items Removed from Minutes</unittitle><unitdate datechar="creation" normal="1885/1973" type="inclusive">1885-1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c69496e8685ff89927d487eec716a53d" label="Mixed Materials [31142063354222]" type="Box">44</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Local 1: Ledger; Local 9: Minutes</unittitle><unitdate datechar="creation">1896, 1929-1930</unitdate><container altrender="Manuscript box - Legal" id="aspace_62db8c905940eaab34f2e3a9711365d7" label="Mixed Materials [31142067115777]" type="Box">46</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Local 9: Ledgers and Membership Lists</unittitle><unitdate datechar="creation">1906-1930, 1957-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_c48c675c0d432ce118fb101a03d4171d" label="Mixed Materials [31142063354172]" type="Box">47</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Local 1: Apprenticeship Training Photographs</unittitle><unitdate datechar="creation">circa 1995-circa 1997</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_0592ebadd636948d4a56295d848e781e" label="Mixed Materials [31142062758233]" type="Box">48</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Local 1: Photographs of Restoration of Building at 71st and Park</unittitle><unitdate datechar="creation">circa 1990</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_c488f6ccd58c7cc0c49520aacb04023e" label="Mixed Materials [31142062758233]" type="Box">48</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Local 41: Scrapbook [Includes Clippings and Photographs of Members]</unittitle><unitdate datechar="creation">circa 1940s</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_37de749d49c539d66186b382014d4c1c" label="Mixed Materials [31142062758233]" type="Box">48</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Scrapbook [Includes 105 black and white photographs; names written in pencil under each]</unittitle><unitdate datechar="creation">circa 1920s-circa 1930s</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_60c13bb58891f2fad8c9fa25b545418e" label="Mixed Materials [31142062758233]" type="Box">48</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Photographs of Union Officers and Events [Includes Group and Individual Portraits]</unittitle><unitdate datechar="creation">circa 1930s-circa 1980s</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_5bd64117f2021e31c7159f53e51741b4" label="Mixed Materials [31142062758233]" type="Box">48</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Head shots of Union Members </unittitle><unitdate datechar="creation">circa 1920s-circa 1930s</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_b9a74fd652eda05530f15fc09983c06d" label="Mixed Materials [31142062758233]" type="Box">48</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Memorial Poster for Thomas F. Murphy</unittitle><unitdate datechar="creation">circa 1989</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_b4e19a180065b0679feac33f5e5a372b" label="Mixed Materials [31142062758233]" type="Box">48</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Local 1: Photograph of 90th Anniversary</unittitle><unitdate datechar="creation">Nov 20, 1964</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_5ff7af06d64d2a944990ef617c89e646" label="Mixed Materials [31142062758233]" type="Box">48</container></did></c><c id="aspace_b45a657ead55c5ab361494159f778611" level="file"><did><unittitle>Local 34: Financial Ledgers</unittitle><unitdate datechar="creation" normal="1933/1952" type="inclusive">1933-1952</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_f77df50bf88258d339dba878b1a7b952" label="Mixed Materials [31142063354149]" type="Box">55</container><container altrender="Manuscript box - Legal" id="aspace_36b9022a7b1b0863e47694d36bf9c5b7" label="Mixed Materials [31142063354115]" type="Box">56</container><container altrender="Manuscript box - Legal" id="aspace_c797041cc67eb0df4521111a780e21d5" label="Mixed Materials [31142063354164]" type="Box">57</container></did></c><c id="aspace_510b2f5184d24ac05fa525230e0f7e77" level="file"><did><unittitle>Local 37: Minute Book and Financial Ledger</unittitle><unitdate datechar="creation" normal="1972/1982" type="inclusive">1972-1982</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_606e90755fc75e1064be06a53965344e" label="Mixed Materials [31142063354255]" type="Box">59</container></did></c><c id="aspace_200245ab48a12ec7e805d2b445fcb076" level="file"><did><unittitle>Constitutions and By-laws</unittitle><unitdate datechar="creation" normal="1964/1985" type="inclusive">1964-1985</unitdate><container altrender="Record carton" id="aspace_411b394b7bf28aed435419498e300209" label="Mixed Materials [31142063266665]" type="Box">40</container></did></c><c id="aspace_79eb778b28b876b4e6059a80bd6babfe" level="file"><did><unittitle>Local 21: Embossing Press</unittitle><unitdate datechar="creation" normal="1930/1999" type="inclusive">Undated</unitdate><container altrender="Card Box 5.75" id="aspace_dada81c5a561693ddbfce81037770d6e" label="Mixed Materials [31142063354230]" type="Box">52</container></did></c><c id="aspace_2e58aad0ad449779fa097df2cc3a94d0" level="file"><did><unittitle>Local 3:  Dues Books</unittitle><unitdate datechar="creation" normal="1888/1909" type="inclusive">1888-1909</unitdate><container altrender="Record carton" id="aspace_5dde7f19f604b78886e98a9da6637847" label="Mixed Materials [31142063354347]" type="Box">45</container></did></c><c id="aspace_c9cf03d1929cc935a333badb18d8bbbd" level="file"><did><unittitle>Local 1:  Welfare Fund Reports</unittitle><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container altrender="Record carton" id="aspace_0536b52fa117290addd1e3c9564a64f4" label="Mixed Materials [31142063354347]" type="Box">45</container><container altrender="Manuscript box - Letter - Half" id="aspace_6f43fe85510ca96f2b3296767d60715d" label="Mixed Materials [31142063354354]" type="Box">63</container></did></c><c id="aspace_ref119" level="otherlevel" otherlevel="website"><did><unittitle>Archived Website</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 websites</extent><extent altrender="carrier">in 1 archived website</extent></physdesc><unitdate datechar="Captured" normal="2012/2012">Dec 5, 2012-ongoing</unitdate><dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://bricklayersandalliedcraftworkerslocal1ny.org/" xlink:role="external-link" xlink:show="new" xlink:title="International Union of Bricklayers and Allied Craftsmen, Local 1" xlink:type="simple"><daodesc><p>International Union of Bricklayers and Allied Craftsmen, Local 1: Dec 5, 2012-ongoing</p></daodesc></dao></did><scopecontent id="aspace_14864236cf146998480e34e6271b9486"><head>Scope and Contents</head><p>The archived website of the International Union of Bricklayers and Allied Craftsmen, Local 1 contains information for members, the local's newsletter, information about and photographs of events, calendars for events and trainings, and news listings.</p></scopecontent><phystech id="aspace_e48dd0dedcc2f3fc2b49738f864970e1"><head>Physical Characteristics and Technical Requirements</head><p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p></phystech><accruals id="aspace_7b7422a25785d46f17e4f7d030456f16"><head>Accruals</head><p>New site crawls are accrued quarterly.</p></accruals><prefercite id="aspace_45594ddb70cb504eafba1210935071af"><head>Preferred Citation</head><p>"Page Title." Archived month/day/year. International Union of Bricklayers and Allied Craftsmen, Local 1 Records, Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University. https://wayback.archive-it.org/6349/*/http://bricklayersandalliedcraftworkerslocal1ny.org/. (Accessed month/day/year).</p></prefercite></c></dsc>
+</archdesc>
 </ead>

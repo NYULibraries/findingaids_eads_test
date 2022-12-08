@@ -1,110 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_570">mss_570</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Frederieke S. Taylor Papers <num>MSS.570</num></titleproper>
-        <author>Stacey Flatt and Kate Fisher.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>October 2019</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:18:43 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>November 2019</date>
-        <item>Edited by Nicole Greenhouse to reflect additional administrative information and added archived websites</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Frederieke S. Taylor Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Taylor, Frederieke S.</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="naf">Halvorson-Taylor, Martien A.</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Taylor, D. Severn</persname>
-      </origination>
-      <unitid>MSS.570</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">13.65 Linear Feet</extent>
-        <extent altrender="carrier">in 22 manuscript boxes, 2 media boxes, and 2 small card boxes.</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">79.16 Gigabytes</extent>
-        <extent altrender="carrier">in 26,119 computer files.</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">8 videocassettes (vhs)</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">2 videocassettes (dvcam)</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">1 websites</extent>
-        <extent altrender="carrier">in one archived website.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1966/2019" type="inclusive">1966-2019</unitdate>
-      <unitdate datechar="creation" normal="1990/2018" type="bulk">1990s-2010s</unitdate>
-      <abstract id="aspace_5256e4cd72b4cb9c8b3853532546d4ce">Frederieke Taylor (1940-2018) was an art collector, curator, and New York City gallery owner. The Frederieke S. Taylor Papers primarily document the management of the Frederieke Taylor Gallery through paper and electronic files on artists, exhibitions, and administrative files. A significant portion of the paper collection is the gallery's artist information files dating from 1990 to 2010. This collection also includes chronological gallery exhibition material; administrative files; business contact cards; and appointment calendars from the 1970s to the mid-2010s. A small amount of material related to Taylor's early exhibition curating in the 1970s and images from her own personal art collection can also be found in this collection.</abstract>
-      <physloc id="aspace_5125172458ac198c1f0f5fd02af8c800">Most of the materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_843987ed395c3936c7512aff3d3a6469">Materials are in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_becdc34c537bea33ead31914b0d91484">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_a6e751fd3abe4448c1466fd4b78e8aa8">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Martien Halvorson-Taylor and D. Severn Taylor, October 2018. The accession number associated with this gift is 2019.013.</p>
-      <p>https://frederieketaylor.com/ was added to the web archive in April 2019. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website. THe accession number associated with this website is 2019.064.</p>
-    </acqinfo>
-    <appraisal id="aspace_e115be0d4f4268c352298701777d283f">
-      <head>Appraisal</head>
-      <p>13 discs were removed from the collection either because they were damaged or, after forensic imaging and analysis, determined to contained duplicate data. These discs were returned to the donor, 10/23/2019.</p>
-    </appraisal>
-    <arrangement id="aspace_6a62d6731ad245683240d882ca7b53b8">
-      <head>Arrangement</head>
-      <p>Artists' files are arranged alphabetically by last name. File entries are listed by ranges of artists' last name within each box. The remaining files in the collection are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <bioghist id="aspace_527582910a2c2d09f0bb8ab2ca3f5b53">
-      <head>Biographical Note</head>
-      <p>Frederieke Taylor (1940-2018) was an art collector, curator, and administrator who exhibited contemporary art at the gallery she co-founded in SoHo in 1993. In the 1960s, she immigrated from the Netherlands. Taylor worked as director for the MacDowell Colony in New Hampshire and directed the Skowhegan School for Painting and Sculpture. Taylor also curated and organized exhibitions, and coordinated "Deconstructivist Architecture" at the Museum of Modern Art in 1988. In 1993, Taylor opened TZ'Art, a gallery in SoHo, with a partner, Tom Zollner.  After five years, Taylor took over sole ownership and renamed it the Frederieke Taylor Gallery. The artists, sculptors, and architects exhibited at the gallery include Lisa Sigal, Thomas Zummer, Mel Chin, Raimund Abraham, Long-Bin Chen and Meredith Monk.</p>
-    </bioghist>
-    <phystech id="aspace_53baaedd088b942e61ba6e253f4499be">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact Fales Library and Special Collections with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <phystech id="aspace_7f1047528bfdb99fd5a6d7f0d3d98ea6">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Advance notice is required for the use of computer records. Original physical digital media is restricted. An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>
-    </phystech>
-    <prefercite id="aspace_8209c2906a7dc6d1925814fb025745b6">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Frederieke S. Taylor Papers; MSS 570; box number; folder number or item identifier; Fales Library and Special Collections, New York University.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_570">mss_570</eadid><filedesc><titlestmt><titleproper>Guide to the Frederieke S. Taylor Papers <num>MSS.570</num></titleproper><author>Stacey Flatt and Kate Fisher.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>October 2019</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:53:03 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2019</date><item>Edited by Nicole Greenhouse to reflect additional administrative information and added archived websites</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Frederieke S. Taylor Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Taylor, Frederieke S.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="naf">Halvorson-Taylor, Martien A.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Taylor, D. Severn</persname>
+    </origination>
+    <unitid>MSS.570</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">13.65 Linear Feet</extent>
+      <extent altrender="carrier">in 22 manuscript boxes, 2 media boxes, and 2 small card boxes.</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">79.16 Gigabytes</extent>
+      <extent altrender="carrier">in 26,119 computer files.</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">8 videocassettes (vhs)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 videocassettes (dvcam)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 websites</extent>
+      <extent altrender="carrier">in one archived website.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1966/2019" type="inclusive">1966-2019</unitdate>
+    <unitdate datechar="creation" normal="1990/2018" type="bulk">1990s-2010s</unitdate>
+    <abstract id="aspace_5256e4cd72b4cb9c8b3853532546d4ce">Frederieke Taylor (1940-2018) was an art collector, curator, and New York City gallery owner. The Frederieke S. Taylor Papers primarily document the management of the Frederieke Taylor Gallery through paper and electronic files on artists, exhibitions, and administrative files. A significant portion of the paper collection is the gallery's artist information files dating from 1990 to 2010. This collection also includes chronological gallery exhibition material; administrative files; business contact cards; and appointment calendars from the 1970s to the mid-2010s. A small amount of material related to Taylor's early exhibition curating in the 1970s and images from her own personal art collection can also be found in this collection.</abstract>
+    <physloc id="aspace_5125172458ac198c1f0f5fd02af8c800">Most of the materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_843987ed395c3936c7512aff3d3a6469">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_becdc34c537bea33ead31914b0d91484">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a6e751fd3abe4448c1466fd4b78e8aa8">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Martien Halvorson-Taylor and D. Severn Taylor, October 2018. The accession number associated with this gift is 2019.013.</p><p>https://frederieketaylor.com/ was added to the web archive in April 2019. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website. THe accession number associated with this website is 2019.064.</p>  </acqinfo>
+  <appraisal id="aspace_e115be0d4f4268c352298701777d283f">
+    <head>Appraisal</head>
+<p>13 discs were removed from the collection either because they were damaged or, after forensic imaging and analysis, determined to contained duplicate data. These discs were returned to the donor, 10/23/2019.</p>  </appraisal>
+  <arrangement id="aspace_6a62d6731ad245683240d882ca7b53b8">
+    <head>Arrangement</head>
+<p>Artists' files are arranged alphabetically by last name. File entries are listed by ranges of artists' last name within each box. The remaining files in the collection are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_527582910a2c2d09f0bb8ab2ca3f5b53">
+    <head>Biographical Note</head>
+<p>Frederieke Taylor (1940-2018) was an art collector, curator, and administrator who exhibited contemporary art at the gallery she co-founded in SoHo in 1993. In the 1960s, she immigrated from the Netherlands. Taylor worked as director for the MacDowell Colony in New Hampshire and directed the Skowhegan School for Painting and Sculpture. Taylor also curated and organized exhibitions, and coordinated "Deconstructivist Architecture" at the Museum of Modern Art in 1988. In 1993, Taylor opened TZ'Art, a gallery in SoHo, with a partner, Tom Zollner.  After five years, Taylor took over sole ownership and renamed it the Frederieke Taylor Gallery. The artists, sculptors, and architects exhibited at the gallery include Lisa Sigal, Thomas Zummer, Mel Chin, Raimund Abraham, Long-Bin Chen and Meredith Monk.</p>  </bioghist>
+  <phystech id="aspace_53baaedd088b942e61ba6e253f4499be">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact Fales Library and Special Collections with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <phystech id="aspace_7f1047528bfdb99fd5a6d7f0d3d98ea6">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Advance notice is required for the use of computer records. Original physical digital media is restricted. An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>  </phystech>
+  <prefercite id="aspace_8209c2906a7dc6d1925814fb025745b6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Frederieke S. Taylor Papers; MSS 570; box number; folder number or item identifier; Fales Library and Special Collections, New York University.
 <lb/>
 To cite the archived website in this collection:
-Identification of item, date;  Frederieke S. Taylor Papers; MSS 570; Wayback URL; Fales Library and Special Collections, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_f083d9cb90a9fc739873338f1fb627e2">
-      <head>Processing Information</head>
-      <p>Loose items were grouped and foldered together when necessary, while keeping original order. All material was reboxed into acid-free containers. 
+Identification of item, date;  Frederieke S. Taylor Papers; MSS 570; Wayback URL; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_f083d9cb90a9fc739873338f1fb627e2">
+    <head>Processing Information</head>
+<p>Loose items were grouped and foldered together when necessary, while keeping original order. All material was reboxed into acid-free containers. 
 <lb/>
 <lb/>
 Audiovisual material was removed from existing boxes and housed separately. Born-digital material was also separated from their original boxes, information was added into medialog, each item was assigned a number, and labeled. 
@@ -115,321 +79,37 @@ Binders containing artist and exhibition material within plastic sleeves were de
 Born-digital material was inventoried, labeled, and imaged. Discs were processed using Forensic Toolkit, and video and audio were imaged and uploaded to permanent storage. A portion of the discs were deaccessioned due to duplication, or too damaged to open. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.
 <lb/>
 <lb/>
-Archived website was added to the finding aid in 2019.</p>
-    </processinfo>
-    <scopecontent id="aspace_bb7b0ff55c8b61173f74ff71d2ac27f1">
-      <head>Scope and Contents</head>
-      <p>This collection contains paper and digital files, an archived website, and audiovisual recordings related to the Frederieke Taylor Gallery. The gallery represented artists, sculptors, and architects, including Lisa Sigal, Thomas Zummer, Mel Chin, Raimund Abraham, Long-Bin Chen, and Meredith Monk. A significant portion of the paper files in this collection contain artist material assembled by the gallery for those artists they represented. These binders date from the 1980s to mid-2010s and typically contain an artist's resume and statement; press clippings; and paper and digital images of their artwork. Similar artist material can also be found within the gallery's digital administrative files which contain gallery emails; client lists; art fair files; advertising; and content for the gallery's online blog. The small number of audiovisual materials within this collection were either provided by the artist to promote their work, or were used as part of a gallery exhibition. 
-The gallery also assembled binders containing material from their exhibitions, dating from 1993 to 2010 which includes lists of artworks, promotional material, catalogs, and press clippings. Gallery administrative material includes paper and digital files containing promotional material; exhibition catalogs; notebooks containing daily tasks and artist studio visit notes; images of the gallery space; exhibition guest books; business contact cards; and appointment calendars dating from 1974 to 2015. Files on Taylor's curatorial work in the late 1970s while working with the Institute of Architecture and Urban Studies are in this collection. This collection also contains digital images and supporting documentation for Taylor's personal art collection.</p>
-    </scopecontent>
-    <userestrict id="aspace_d7f6e8d3e73a4dcc9c61dec6561e1305">
-      <head>Conditions Governing Use</head>
-      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
-    </userestrict>
-    <appraisal id="aspace_4f7d8639722f383fe093e49591dfc061">
-      <head>Take Down Policy</head>
-      <p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p>
-      <p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p>
-      <p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to the special.collections@nyu.edu.</p>
-      <p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>
-    </appraisal>
-    <controlaccess>
-      <genreform source="aat">Slides (photographs)</genreform>
-      <genreform source="aat">Brochures.</genreform>
-      <genreform source="aat">Appointment books.</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <subject source="lcsh">Artists. -- New York (State) -- New York. -- 20th century</subject>
-      <subject source="lcsh">Art galleries, Commerical -- New York (State) -- New York</subject>
-      <subject source="lcsh">Art -- Exhibitions -- New York (State) -- New York.</subject>
-      <geogname source="lcsh">SoHo (New York, N.Y.) </geogname>
-      <persname role="dnr" rules="dacs" source="naf">Halvorson-Taylor, Martien A.</persname>
-      <persname role="dnr" rules="dacs" source="local">Taylor, D. Severn</persname>
-      <corpname rules="dacs" source="naf">Frederieke Taylor Gallery</corpname>
-      <corpname rules="dacs" source="naf">Frederieke Taylor/Tz'art Gallery</corpname>
-      <persname rules="dacs" source="naf">Abraham, Raimund, 1933-2010</persname>
-      <persname rules="dacs" source="naf">Chen, Long-Bin, 1964-</persname>
-      <persname rules="dacs" source="naf">Chin, Mel, 1951-</persname>
-      <persname rules="dacs" source="naf">Monk, Meredith</persname>
-      <persname rules="dacs" source="naf">Sigal, Lisa</persname>
-      <persname source="naf">Zummer, Thomas</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_bc96efbddd90628f58224ba0b2ac2f63" level="file">
-        <did>
-          <unittitle>Archived Website</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 websites</extent>
-            <extent altrender="carrier">in one archived website.</extent>
-          </physdesc>
-          <unitdate datechar="Captured" normal="2019-04-10/2019-04-10">April 2019</unitdate>
-          <container id="aspace_6193aa78cea0918db0cdd8b98ac8b509" label="electronic records" type="E-records">Electronic Records</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/12047/*/https://frederieketaylor.com/" xlink:role="external-link" xlink:show="new" xlink:title="Frederieke Taylor Gallery Archived Website" xlink:type="simple">
-            <daodesc>
-              <p>Frederieke Taylor Gallery Archived Website: April 2019</p>
-            </daodesc>
-          </dao>
-        </did>
-        <phystech id="aspace_df5025a0ea0bf989d333f78f0a178bf0">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text  searches of archived websites are available at https://archive-it.org/organizations/567.</p>
-        </phystech>
-        <appraisal id="aspace_a405e15c4ea0fe6392f7ae59579806ba">
-          <head>Appraisal</head>
-          <p>Crawl was limited to domains and subdomains of frederieketaylor.com in order to remain within the collection scope and data constraints.</p>
-        </appraisal>
-        <scopecontent id="aspace_98ff7cf33394f1e85ede45c346b975f2">
-          <head>Scope and Contents</head>
-          <p>The website of the Frederieke Taylor Gallery contains a history of the gallery and its former locations and names, as well as an exhibition history dating from 2000-2017, and artist webpages containing resumes, exhibitions, and images of selected works. Artists featured on the website include Antenna Design, Bejamin Britton, Barbara Broughel, Breaded Escalope, Long-Bin Chen, Mel Chin, [dNASAb], Jackie Ferrara, Peter Hutchinson, Raquel Maulwurf, Franco Mondini-Ruiz, Meredith Monk, Kristen Nelson, Christy Rupp, Christian Wassmann, Pauline Wiertz, Marion Wilson, and Thomas Zummer.</p>
-        </scopecontent>
-      </c>
-      <c id="aspace_87859388113a37f4ac375a966b184746" level="file">
-        <did>
-          <unittitle>Artists: Raimund Abraham -- Barbara Broughel</unittitle>
-          <unitdate datechar="creation" normal="1991/2013" type="inclusive">1991-2013</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_f7864ab421ea1e40d48e1a424eee82ea" label="Mixed Materials [31142063345584]" type="Box">1</container>
-          <container id="aspace_fd5dbca4185e1707f020d56be82085b4" parent="aspace_f7864ab421ea1e40d48e1a424eee82ea" type="Folder">1-6</container>
-          <container id="aspace_e8c90f9011feaaf13934412a00a58c52" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_725d38b101e84bfbc47ea7b3a789fb33" parent="aspace_e8c90f9011feaaf13934412a00a58c52" type="E-records">FA_MSS_570_ER_1</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Raimund Abraham -- Barbara Broughel" xlink:type="simple">
-            <daodesc>
-              <p>Artists: Raimund Abraham -- Barbara Broughel: 1998-2010</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_0f811ebcef9e4449c813eb5c84f16849" level="file">
-        <did>
-          <unittitle>Artists: Mary Ellen Carroll -- Winka Dubbledam</unittitle>
-          <unitdate datechar="creation" normal="1998/2017" type="inclusive">1998-2017</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_c637a57b435bf3689922c6b57ac6b4c2" label="Mixed Materials [31142063345592]" type="Box">2</container>
-          <container id="aspace_6e98d5bc5eb3ea78c61972a2ea4b59b4" parent="aspace_c637a57b435bf3689922c6b57ac6b4c2" type="Folder">1-6</container>
-          <container id="aspace_0ce5efa48b39f70d60ec7f5fd66cc48f" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_b9bc627fb88a9dc122a3c405ffba78ad" parent="aspace_0ce5efa48b39f70d60ec7f5fd66cc48f" type="E-records">FA_MSS_570_ER_2</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Mary Ellen Carroll -- Winka Dubbledam" xlink:type="simple">
-            <daodesc>
-              <p>Artists: Mary Ellen Carroll -- Winka Dubbledam: 1998-2009, undated</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_9db8693ecc5efe27b504734ed1827181" level="file">
-        <did>
-          <unittitle>Artists: Winka Dubbeldam -- Julie Langsam</unittitle>
-          <unitdate datechar="creation" normal="1970/2017" type="inclusive">1970-2017</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_7babc550cdaabf170dfb9ad10f94bfb4" label="Mixed Materials [31142063345600]" type="Box">3</container>
-          <container id="aspace_4f0a247799a8e85c78df039ba019e81b" parent="aspace_7babc550cdaabf170dfb9ad10f94bfb4" type="Folder">1-7</container>
-          <container id="aspace_910aa6a6c48ea30e011c669dd2a2d3a6" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_3f215ef0636276d22277348ceffffcf5" parent="aspace_910aa6a6c48ea30e011c669dd2a2d3a6" type="E-records">FA_MSS_570_ER_3</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Winka Dubbledam -- Julie Langsam" xlink:type="simple">
-            <daodesc>
-              <p>Artists: Winka Dubbledam -- Julie Langsam: 1970-2012</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_0bc4ce3287d19a9d417ed85d9b25fc63" level="file">
-        <did>
-          <unittitle>Artists: Mary Lum -- Franco Mondini-Ruiz</unittitle>
-          <unitdate datechar="creation" normal="1991/2015" type="inclusive">1991-2015</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_68227f635416b5f735006b7e9aec8697" label="Mixed Materials [31142063345618]" type="Box">4</container>
-          <container id="aspace_841c21e1f1149f14789cc9b29ab79751" parent="aspace_68227f635416b5f735006b7e9aec8697" type="Folder">1-6</container>
-          <container id="aspace_f378a640ab03af763b7d58cff53f5286" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_46f7cf5dc1bbeab90d288537d12db380" parent="aspace_f378a640ab03af763b7d58cff53f5286" type="E-records">FA_MSS_570_ER_4</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Mary Lum -- Franco Mondini-Ruiz" xlink:type="simple">
-            <daodesc>
-              <p>Artists: Mary Lum -- Franco Mondini-Ruiz: 2006-2010</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_005587b5bf1f72fa6c8efaaea7acf350" level="file">
-        <did>
-          <unittitle>Artists: Meredith Monk -- Christy Rupp</unittitle>
-          <unitdate datechar="creation" normal="1966/2010" type="inclusive">1966, 1981-2010</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_99dd670a0c1cc4ab238864ed115a7b3a" label="Mixed Materials [31142063345626]" type="Box">5</container>
-          <container id="aspace_120aa3c290f3287bd6514b0426d12696" parent="aspace_99dd670a0c1cc4ab238864ed115a7b3a" type="Folder">1-6</container>
-          <container id="aspace_b98468fdfd24f4ef7db9af9fecaf6ecf" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_702bde9d1f20e94b77e6c5c472479df1" parent="aspace_b98468fdfd24f4ef7db9af9fecaf6ecf" type="E-records">FA_MSS_570_ER_5</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Meredith Monk -- Christy Rupp" xlink:type="simple">
-            <daodesc>
-              <p>Artists: Meredith Monk -- Christy Rupp: 1966, 2004-2010</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_127a32cbdb43d15a014abbf2afed93ba" level="file">
-        <did>
-          <unittitle>Artists: Christy Rupp -- Ellen Zweig</unittitle>
-          <unitdate datechar="creation" normal="1981/2015" type="inclusive">1981-2015</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_cee6a50377ad8d898c752619d6d72de2" label="Mixed Materials [31142063345634]" type="Box">6</container>
-          <container id="aspace_c1777497e2981a769d6001f7640792c3" parent="aspace_cee6a50377ad8d898c752619d6d72de2" type="Folder">1-7</container>
-          <container id="aspace_b8c28a93a845cd57e769d83d0c31def4" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_89e118e2a4aa053126bfab3d4818c940" parent="aspace_b8c28a93a845cd57e769d83d0c31def4" type="E-records">FA_MSS_570_ER_6</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Christy Rupp -- Ellen Zweig" xlink:type="simple">
-            <daodesc>
-              <p>Artists: Christy Rupp -- Ellen Zweig: 2004-2013</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_637c3f296eafcde014c3bb53f25ee02d" level="file">
-        <did>
-          <unittitle>Artists: Thomas Zummer</unittitle>
-          <unitdate datechar="creation" normal="2002/2008" type="inclusive">2002-2008</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_9744f42055801d64a4c0049599d6d764" label="Mixed Materials [31142063345634]" type="Box">6</container>
-          <container id="aspace_4b411e87cb2ca2395ee672ae134595dc" parent="aspace_9744f42055801d64a4c0049599d6d764" type="Folder">8</container>
-          <container altrender="Manuscript box - Letter" id="aspace_bac6f1319f63865d6a5be8c1bb628f10" label="Mixed Materials [31142063345642]" type="Box">7</container>
-          <container id="aspace_3526310246780393376ab5c998597823" parent="aspace_bac6f1319f63865d6a5be8c1bb628f10" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_62eed5fcf13c1bb1fbbf68d1d6549cf9" level="file">
-        <did>
-          <unittitle>Artist and Exhibition Binder Material: Breaded Escalope and <emph render="italic">In the Viewing Room</emph></unittitle>
-          <unitdate datechar="creation" normal="1981/2017" type="inclusive">1981-2017</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_1071ec8bab9bddcd63ac3c6b09e79f13" label="Mixed Materials [31142063345642]" type="Box">7</container>
-          <container id="aspace_8c073b308357b915f0cda40f477536f5" parent="aspace_1071ec8bab9bddcd63ac3c6b09e79f13" type="Folder">2-5</container>
-        </did>
-      </c>
-      <c id="aspace_4d9554caa6d4130265d818750d02d866" level="file">
-        <did>
-          <unittitle>Artists' Audiovisual Material</unittitle>
-          <unitdate datechar="creation" normal="1966/2002" type="inclusive">1966, 1996-2002</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1436b4c65d16417c8e9a7ab1497c5fa8" label="Mixed Materials [31142067124522]" type="Box">24</container>
-        </did>
-      </c>
-      <c id="aspace_cf69a2ff750697f4094eee2c14b3731e" level="file">
-        <did>
-          <unittitle>Exhibitions</unittitle>
-          <unitdate datechar="creation" normal="1993/1998" type="inclusive">1993-1998</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_6d58ea895756cef36165aa45de27bff9" label="Mixed Materials [31142063345642]" type="Box">7</container>
-          <container id="aspace_f0531702c111b173f13e27061d99018b" parent="aspace_6d58ea895756cef36165aa45de27bff9" type="Folder">6</container>
-          <container altrender="Manuscript box - Letter" id="aspace_5cd18eb8bac5e9d8fd084e002b74ff1c" label="Mixed Materials [31142063345659]" type="Box">8</container>
-          <container id="aspace_48cb268c0722ccb0343915968db633e7" parent="aspace_5cd18eb8bac5e9d8fd084e002b74ff1c" type="Folder">1-3</container>
-        </did>
-      </c>
-      <c id="aspace_15e20fbaea26ae1905ccbc732a91d128" level="file">
-        <did>
-          <unittitle>Exhibitions</unittitle>
-          <unitdate datechar="creation" normal="1999/2002" type="inclusive">1999-2002</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_b24b96b1eea6601e4ce92f45713e8fd9" label="Mixed Materials [31142063345659]" type="Box">8</container>
-          <container id="aspace_2160a0b8afc4e8f25d88b139f36759bd" parent="aspace_b24b96b1eea6601e4ce92f45713e8fd9" type="Folder">4-5</container>
-          <container altrender="Manuscript box - Letter" id="aspace_257da1e0b717ecec73aa177a319c0830" label="Mixed Materials [31142063345667]" type="Box">9</container>
-          <container id="aspace_41c0cdf888b55e736c2f45b3ac272c3f" parent="aspace_257da1e0b717ecec73aa177a319c0830" type="Folder">1-2</container>
-        </did>
-      </c>
-      <c id="aspace_acf4bd9ce0db9a12c1f5ab1eed048f48" level="file">
-        <did>
-          <unittitle>Exhibitions</unittitle>
-          <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_f4e5ba84670ee8102cf46593a289a984" label="Mixed Materials [31142063345667]" type="Box">9</container>
-          <container id="aspace_eea878b414c6c737c00522005cf9d1fa" parent="aspace_f4e5ba84670ee8102cf46593a289a984" type="Folder">4-5</container>
-        </did>
-      </c>
-      <c id="aspace_d675317d1fc90301c0336b6acf233bcb" level="file">
-        <did>
-          <unittitle>Exhibitions</unittitle>
-          <unitdate datechar="creation" normal="2006/2010" type="inclusive">2006-2010</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_edfa9f3fe885f30ea980635632b709a3" label="Mixed Materials [31142067124555]" type="Box">10</container>
-          <container id="aspace_9ecde432b0fe69452135251d9312c5bd" parent="aspace_edfa9f3fe885f30ea980635632b709a3" type="Folder">1-5</container>
-        </did>
-      </c>
-      <c id="aspace_05ecae8bd3ef60788fc6fbe80c872a42" level="file">
-        <did>
-          <unittitle>Administrative Files</unittitle>
-          <unitdate datechar="creation" normal="1978/2017" type="inclusive">1978-2017</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1b4e2448ea6e4138a7b41aeac4510d55" label="Mixed Materials [31142063345675]" type="Box">11</container>
-          <container id="aspace_1c6075d47461ea806e3cd9df4644991a" parent="aspace_1b4e2448ea6e4138a7b41aeac4510d55" type="Folder">1-7</container>
-          <container altrender="Manuscript box - Legal" id="aspace_6f9d6b27b435f88166d992dc4739c96b" label="Mixed Materials [31142063345683]" type="Box">12</container>
-          <container id="aspace_0d03c8df8ce57fd0eb6eff675c152a10" parent="aspace_6f9d6b27b435f88166d992dc4739c96b" type="Folder">1-7</container>
-          <container altrender="Manuscript box - Legal" id="aspace_e0f65a1c13088d045e29f5ca49ba4256" label="Mixed Materials [31142063345691]" type="Box">13</container>
-          <container id="aspace_bb00c5284b36b21d2ed93d1c24479458" parent="aspace_e0f65a1c13088d045e29f5ca49ba4256" type="Folder">1-7</container>
-          <container altrender="Manuscript box - Legal" id="aspace_46a8bbecc683c012f05e855e4b036bd0" label="Mixed Materials [31142063345709]" type="Box">14</container>
-          <container id="aspace_f525c33c81493cea6f6b7b2b2bcb3981" parent="aspace_46a8bbecc683c012f05e855e4b036bd0" type="Folder">1-8</container>
-          <container altrender="Manuscript box - Legal" id="aspace_9025380c38647f8fea4ca7ca40b75137" label="Mixed Materials [31142063345717]" type="Box">15</container>
-          <container id="aspace_d64f7ab37219e042fe12d303e65282f2" parent="aspace_9025380c38647f8fea4ca7ca40b75137" type="Folder">1-5</container>
-          <container altrender="Manuscript box - Legal" id="aspace_1fc60da70ab10f70d8d5217c4b6b9d7c" label="Mixed Materials [31142063345774]" type="Box">21</container>
-          <container id="aspace_a901185254b2f19c4eb5921b253f4e39" parent="aspace_1fc60da70ab10f70d8d5217c4b6b9d7c" type="Folder">2-3</container>
-          <container id="aspace_9c53a54b8b1b538e86733b7552acf2c2" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_0ba431e052df9ed1089aa1390a8c6ca1" parent="aspace_9c53a54b8b1b538e86733b7552acf2c2" type="E-records">FA_MSS_570_ER_7</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Administrative Files" xlink:type="simple">
-            <daodesc>
-              <p>Administrative Files: 1998-2011</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_6279dd97eed71b84c5768ec157e49aa5" level="file">
-        <did>
-          <unittitle>Appointment Books</unittitle>
-          <unitdate datechar="creation" normal="1975/1979" type="inclusive">1975-1979</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_7c89f040a1bcc676cad0604d7f7e4a44" label="Mixed Materials [31142063345725]" type="Box">16</container>
-          <container id="aspace_24bc43f2dd96201a06662564c2cc0dba" parent="aspace_7c89f040a1bcc676cad0604d7f7e4a44" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_e1013bd5d1746621648cebd452bb1e13" level="file">
-        <did>
-          <unittitle>Appointment Books</unittitle>
-          <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5b268a58ed51a0f0052c17bdedb69788" label="Mixed Materials [31142063345733]" type="Box">17</container>
-          <container id="aspace_21e049b5e958b4156f11224fcd9690c3" parent="aspace_5b268a58ed51a0f0052c17bdedb69788" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_e0b0f2f666f26b2f83b5b8cae54af5cb" level="file">
-        <did>
-          <unittitle>Appointment Books</unittitle>
-          <unitdate datechar="creation" normal="1990/2000" type="inclusive">1990-2000</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_470bb8bab5d813a16dabbd9157d62e01" label="Mixed Materials [31142063345741]" type="Box">18</container>
-          <container id="aspace_8969da4307dd55f888ba0c43686f41c6" parent="aspace_470bb8bab5d813a16dabbd9157d62e01" type="Folder">1-3</container>
-          <container altrender="Manuscript box - Legal" id="aspace_9bb63e2eb50c6d5f17b37d3432bf3db3" label="Mixed Materials [31142063345758]" type="Box">19</container>
-          <container id="aspace_ae22d482f7a83b0da6fa591fb87d48b3" parent="aspace_9bb63e2eb50c6d5f17b37d3432bf3db3" type="Folder">1-2</container>
-        </did>
-      </c>
-      <c id="aspace_de6b70feb377f0f90137de1740c3f00f" level="file">
-        <did>
-          <unittitle>Appointment Books</unittitle>
-          <unitdate datechar="creation" normal="2001/2015" type="inclusive">2001-2015</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_609d92868d354048d7a43b6ad359b1a7" label="Mixed Materials [31142063345758]" type="Box">19</container>
-          <container id="aspace_bc6c551644ac1a9986fe0c508da30a9a" parent="aspace_609d92868d354048d7a43b6ad359b1a7" type="Folder">3-4</container>
-          <container altrender="Manuscript box - Legal" id="aspace_02904738de540883b98564cea1b72c43" label="Mixed Materials [31142063345766]" type="Box">20</container>
-          <container id="aspace_1b21f21bcc5f5492b8e7b95d16e8ff01" parent="aspace_02904738de540883b98564cea1b72c43" type="Folder">1-3</container>
-          <container altrender="Manuscript box - Legal" id="aspace_dcb6efddd870d7cfddc94c0af88cdf89" label="Mixed Materials [31142063345774]" type="Box">21</container>
-          <container id="aspace_d6ea3867a0c30aa9e0dd124eb289229d" parent="aspace_dcb6efddd870d7cfddc94c0af88cdf89" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_3af9a526ebf763cd7674cc84691739b3" level="file">
-        <did>
-          <unittitle>Rolodex and Business Contact Notecards</unittitle>
-          <unitdate datechar="creation" normal="1975/2017" type="inclusive">undated</unitdate>
-          <container altrender="Hollinger Cassette Box 5" id="aspace_d7e2e9deb99cbc15671bacbb047ccc44" label="Mixed Materials [31142063345782]" type="Box">22</container>
-          <container altrender="Hollinger Cassette Box 5" id="aspace_bfb2b07eb3a0fc62634f61a7f9e5f513" label="Mixed Materials [31142063345790]" type="Box">23</container>
-        </did>
-      </c>
-      <c id="aspace_897a70160c11041f09ced6225959602d" level="file">
-        <did>
-          <unittitle>Frederieke Taylor Art Collection</unittitle>
-          <unitdate datechar="creation" normal="2004/2013" type="inclusive">2004-2013</unitdate>
-          <container id="aspace_081977fdc6c86d547e77f344a241a5be" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_a139b876429490bd0e42c57e15ce7894" parent="aspace_081977fdc6c86d547e77f344a241a5be" type="E-records">FA_MSS_570_ER_8</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Frederieke Taylor Art Collection" xlink:type="simple">
-            <daodesc>
-              <p>Frederieke Taylor Art Collection: 2004-2013</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-      <c id="aspace_7781a7db8dd39c940a14c897b613d8c9" level="file">
-        <did>
-          <unittitle>Gallery Files Backup</unittitle>
-          <unitdate datechar="creation" normal="1996/2018" type="inclusive">1996-2018</unitdate>
-          <container id="aspace_28e98fc8a9e0d45f61f15d39d13d1608" label="electronic records" type="E-records">Electronic Records</container>
-          <container id="aspace_384382e7198c337b3861065d1b963590" parent="aspace_28e98fc8a9e0d45f61f15d39d13d1608" type="E-records">FA_MSS_570_ER_9</container>
-          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=%20http://dlib.nyu.edu/findingaids/ead/fales/mss_570.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Gallery Files Backup" xlink:type="simple">
-            <daodesc>
-              <p>Gallery Files Backup: 1996-2018</p>
-            </daodesc>
-          </dao>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+Archived website was added to the finding aid in 2019.</p>  </processinfo>
+  <scopecontent id="aspace_bb7b0ff55c8b61173f74ff71d2ac27f1">
+    <head>Scope and Contents</head>
+<p>This collection contains paper and digital files, an archived website, and audiovisual recordings related to the Frederieke Taylor Gallery. The gallery represented artists, sculptors, and architects, including Lisa Sigal, Thomas Zummer, Mel Chin, Raimund Abraham, Long-Bin Chen, and Meredith Monk. A significant portion of the paper files in this collection contain artist material assembled by the gallery for those artists they represented. These binders date from the 1980s to mid-2010s and typically contain an artist's resume and statement; press clippings; and paper and digital images of their artwork. Similar artist material can also be found within the gallery's digital administrative files which contain gallery emails; client lists; art fair files; advertising; and content for the gallery's online blog. The small number of audiovisual materials within this collection were either provided by the artist to promote their work, or were used as part of a gallery exhibition. 
+The gallery also assembled binders containing material from their exhibitions, dating from 1993 to 2010 which includes lists of artworks, promotional material, catalogs, and press clippings. Gallery administrative material includes paper and digital files containing promotional material; exhibition catalogs; notebooks containing daily tasks and artist studio visit notes; images of the gallery space; exhibition guest books; business contact cards; and appointment calendars dating from 1974 to 2015. Files on Taylor's curatorial work in the late 1970s while working with the Institute of Architecture and Urban Studies are in this collection. This collection also contains digital images and supporting documentation for Taylor's personal art collection.</p>  </scopecontent>
+  <userestrict id="aspace_d7f6e8d3e73a4dcc9c61dec6561e1305">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <appraisal id="aspace_4f7d8639722f383fe093e49591dfc061">
+    <head>Take Down Policy</head>
+<p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p><p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p><p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to the special.collections@nyu.edu.</p><p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>  </appraisal>
+  <controlaccess>
+    <genreform source="aat">Slides (photographs)</genreform>
+    <genreform source="aat">Brochures.</genreform>
+    <genreform source="aat">Appointment books.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Artists. -- New York (State) -- New York. -- 20th century</subject>
+    <subject source="lcsh">Art galleries, Commerical -- New York (State) -- New York</subject>
+    <subject source="lcsh">Art -- Exhibitions -- New York (State) -- New York.</subject>
+    <geogname source="lcsh">SoHo (New York, N.Y.) </geogname>
+    <persname role="dnr" rules="dacs" source="naf">Halvorson-Taylor, Martien A.</persname>
+    <persname role="dnr" rules="dacs" source="local">Taylor, D. Severn</persname>
+    <corpname authfilenumber="(lccn)nr2005029949" rules="dacs" source="naf">Frederieke Taylor Gallery</corpname>
+    <corpname authfilenumber="(lccn)nr99001994" rules="dacs" source="naf">Frederieke Taylor/Tz'art Gallery</corpname>
+    <persname rules="dacs" source="naf">Abraham, Raimund, 1933-2010</persname>
+    <persname rules="dacs" source="naf">Chen, Long-Bin, 1964-</persname>
+    <persname rules="dacs" source="naf">Chin, Mel, 1951-</persname>
+    <persname rules="dacs" source="naf">Monk, Meredith</persname>
+    <persname rules="dacs" source="naf">Sigal, Lisa</persname>
+    <persname source="naf">Zummer, Thomas</persname>
+  </controlaccess>
+  <dsc><c id="aspace_bc96efbddd90628f58224ba0b2ac2f63" level="file"><did><unittitle>Archived Website</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 websites</extent><extent altrender="carrier">in one archived website.</extent></physdesc><unitdate datechar="Captured" normal="2019-04-10/2019-04-10">April 2019</unitdate><container id="aspace_8b700389ce54bac53833e75694ac244e" label="electronic records" type="E-records">Electronic Records</container><dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/12047/*/https://frederieketaylor.com/" xlink:role="external-link" xlink:show="new" xlink:title="Frederieke Taylor Gallery Archived Website" xlink:type="simple"><daodesc><p>Frederieke Taylor Gallery Archived Website: April 2019</p></daodesc></dao></did><phystech id="aspace_df5025a0ea0bf989d333f78f0a178bf0"><head>Physical Characteristics and Technical Requirements</head><p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text  searches of archived websites are available at https://archive-it.org/organizations/567.</p></phystech><appraisal id="aspace_a405e15c4ea0fe6392f7ae59579806ba"><head>Appraisal</head><p>Crawl was limited to domains and subdomains of frederieketaylor.com in order to remain within the collection scope and data constraints.</p></appraisal><scopecontent id="aspace_98ff7cf33394f1e85ede45c346b975f2"><head>Scope and Contents</head><p>The website of the Frederieke Taylor Gallery contains a history of the gallery and its former locations and names, as well as an exhibition history dating from 2000-2017, and artist webpages containing resumes, exhibitions, and images of selected works. Artists featured on the website include Antenna Design, Bejamin Britton, Barbara Broughel, Breaded Escalope, Long-Bin Chen, Mel Chin, [dNASAb], Jackie Ferrara, Peter Hutchinson, Raquel Maulwurf, Franco Mondini-Ruiz, Meredith Monk, Kristen Nelson, Christy Rupp, Christian Wassmann, Pauline Wiertz, Marion Wilson, and Thomas Zummer.</p></scopecontent></c><c id="aspace_87859388113a37f4ac375a966b184746" level="file"><did><unittitle>Artists: Raimund Abraham -- Barbara Broughel</unittitle><unitid>cuid30338</unitid><unitdate datechar="creation" normal="1991/2013" type="inclusive">1991-2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_398ca16921ee850b43fb63b80b5cc05b" label="Mixed Materials [31142063345584]" type="Box">1</container><container id="aspace_5750133b5efdd1403708cc6cd2ab4133" parent="aspace_398ca16921ee850b43fb63b80b5cc05b" type="Folder">1-6</container><container id="aspace_35ae6c5d7b0eb1149767db7483d04e6f" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_bcc18244c70e89f987fde9203f45b266" parent="aspace_35ae6c5d7b0eb1149767db7483d04e6f" type="E-records">FA_MSS_570_ER_1</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Raimund Abraham -- Barbara Broughel" xlink:type="simple"><daodesc><p>Artists: Raimund Abraham -- Barbara Broughel: 1998-2010</p></daodesc></dao></did></c><c id="aspace_0f811ebcef9e4449c813eb5c84f16849" level="file"><did><unittitle>Artists: Mary Ellen Carroll -- Winka Dubbledam</unittitle><unitid>cuid30339</unitid><unitdate datechar="creation" normal="1998/2017" type="inclusive">1998-2017</unitdate><container altrender="Manuscript box - Letter" id="aspace_1b12b273d1a7a58619f049b4ce59d80b" label="Mixed Materials [31142063345592]" type="Box">2</container><container id="aspace_2f66293b6692421f674cfc4efd0835a4" parent="aspace_1b12b273d1a7a58619f049b4ce59d80b" type="Folder">1-6</container><container id="aspace_723c22a708951d1aa6f09e00f284ffdc" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_9273dad0d739b52d70a269a8182b5a7a" parent="aspace_723c22a708951d1aa6f09e00f284ffdc" type="E-records">FA_MSS_570_ER_2</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Mary Ellen Carroll -- Winka Dubbledam" xlink:type="simple"><daodesc><p>Artists: Mary Ellen Carroll -- Winka Dubbledam: 1998-2009, undated</p></daodesc></dao></did></c><c id="aspace_9db8693ecc5efe27b504734ed1827181" level="file"><did><unittitle>Artists: Winka Dubbeldam -- Julie Langsam</unittitle><unitid>cuid30340</unitid><unitdate datechar="creation" normal="1970/2017" type="inclusive">1970-2017</unitdate><container altrender="Manuscript box - Letter" id="aspace_da66ec5c4cc961465e426b14cfbf9ebd" label="Mixed Materials [31142063345600]" type="Box">3</container><container id="aspace_bf9144d8139f0aee21def7af2a3a1674" parent="aspace_da66ec5c4cc961465e426b14cfbf9ebd" type="Folder">1-7</container><container id="aspace_12f65839149fb83647cd77c297e2f22b" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_f064621f8c6b6b9acabd63acb114ce0c" parent="aspace_12f65839149fb83647cd77c297e2f22b" type="E-records">FA_MSS_570_ER_3</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Winka Dubbledam -- Julie Langsam" xlink:type="simple"><daodesc><p>Artists: Winka Dubbledam -- Julie Langsam: 1970-2012</p></daodesc></dao></did></c><c id="aspace_0bc4ce3287d19a9d417ed85d9b25fc63" level="file"><did><unittitle>Artists: Mary Lum -- Franco Mondini-Ruiz</unittitle><unitid>cuid30341</unitid><unitdate datechar="creation" normal="1991/2015" type="inclusive">1991-2015</unitdate><container altrender="Manuscript box - Letter" id="aspace_e14c011dba49aebc6be389174c44dea1" label="Mixed Materials [31142063345618]" type="Box">4</container><container id="aspace_56f9bd28bcf88d424c5189ba66a61d72" parent="aspace_e14c011dba49aebc6be389174c44dea1" type="Folder">1-6</container><container id="aspace_05a258c14e5a8c5a8a4ffed9f03199ba" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_2a2b95294cccf817f1857955697b66c1" parent="aspace_05a258c14e5a8c5a8a4ffed9f03199ba" type="E-records">FA_MSS_570_ER_4</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Mary Lum -- Franco Mondini-Ruiz" xlink:type="simple"><daodesc><p>Artists: Mary Lum -- Franco Mondini-Ruiz: 2006-2010</p></daodesc></dao></did></c><c id="aspace_005587b5bf1f72fa6c8efaaea7acf350" level="file"><did><unittitle>Artists: Meredith Monk -- Christy Rupp</unittitle><unitid>cuid30342</unitid><unitdate datechar="creation" normal="1966/2010" type="inclusive">1966, 1981-2010</unitdate><container altrender="Manuscript box - Letter" id="aspace_85715f52427a0860ad6fec31736bd73e" label="Mixed Materials [31142063345626]" type="Box">5</container><container id="aspace_8e1b23ae4af7af37e73b0d219c24c0f9" parent="aspace_85715f52427a0860ad6fec31736bd73e" type="Folder">1-6</container><container id="aspace_d4e949182cc9b18fda0940765452b780" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_c06110fd30314df2c4f11d778c6972d8" parent="aspace_d4e949182cc9b18fda0940765452b780" type="E-records">FA_MSS_570_ER_5</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Meredith Monk -- Christy Rupp" xlink:type="simple"><daodesc><p>Artists: Meredith Monk -- Christy Rupp: 1966, 2004-2010</p></daodesc></dao></did></c><c id="aspace_127a32cbdb43d15a014abbf2afed93ba" level="file"><did><unittitle>Artists: Christy Rupp -- Ellen Zweig</unittitle><unitid>cuid30343</unitid><unitdate datechar="creation" normal="1981/2015" type="inclusive">1981-2015</unitdate><container altrender="Manuscript box - Letter" id="aspace_f9279979479f023f6507730e196875d5" label="Mixed Materials [31142063345634]" type="Box">6</container><container id="aspace_3d41f3dcd530aab338c70299cb2ccbe8" parent="aspace_f9279979479f023f6507730e196875d5" type="Folder">1-7</container><container id="aspace_db9ab7efd173408a911fd88f6fc65823" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_938ad65c28e7b3b3b66933d49dc82910" parent="aspace_db9ab7efd173408a911fd88f6fc65823" type="E-records">FA_MSS_570_ER_6</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Artists: Christy Rupp -- Ellen Zweig" xlink:type="simple"><daodesc><p>Artists: Christy Rupp -- Ellen Zweig: 2004-2013</p></daodesc></dao></did></c><c id="aspace_637c3f296eafcde014c3bb53f25ee02d" level="file"><did><unittitle>Artists: Thomas Zummer</unittitle><unitdate datechar="creation" normal="2002/2008" type="inclusive">2002-2008</unitdate><container altrender="Manuscript box - Letter" id="aspace_8d3f619b26aafb3812077461b7a5d6cb" label="Mixed Materials [31142063345634]" type="Box">6</container><container id="aspace_b0038d1f2fbd9ec4527fe6b585c58c0d" parent="aspace_8d3f619b26aafb3812077461b7a5d6cb" type="Folder">8</container><container altrender="Manuscript box - Letter" id="aspace_472ba20ef10e10dd1c899a6f16500d21" label="Mixed Materials [31142063345642]" type="Box">7</container><container id="aspace_e8d0271db5612a12f195e06747daba4d" parent="aspace_472ba20ef10e10dd1c899a6f16500d21" type="Folder">1</container></did></c><c id="aspace_62eed5fcf13c1bb1fbbf68d1d6549cf9" level="file"><did><unittitle>Artist and Exhibition Binder Material: Breaded Escalope and <emph render="italic">In the Viewing Room</emph></unittitle><unitdate datechar="creation" normal="1981/2017" type="inclusive">1981-2017</unitdate><container altrender="Manuscript box - Letter" id="aspace_831de274c5b2324d7a516c9d598f2298" label="Mixed Materials [31142063345642]" type="Box">7</container><container id="aspace_f5341fdbb0bbe2e4a0831b4a17684944" parent="aspace_831de274c5b2324d7a516c9d598f2298" type="Folder">2-5</container></did></c><c id="aspace_4d9554caa6d4130265d818750d02d866" level="file"><did><unittitle>Artists' Audiovisual Material</unittitle><unitdate datechar="creation" normal="1966/2002" type="inclusive">1966, 1996-2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_29e481ade2d03641d43a3a9df06ae97c" label="Mixed Materials [31142067124522]" type="Box">24</container></did></c><c id="aspace_cf69a2ff750697f4094eee2c14b3731e" level="file"><did><unittitle>Exhibitions</unittitle><unitdate datechar="creation" normal="1993/1998" type="inclusive">1993-1998</unitdate><container altrender="Manuscript box - Letter" id="aspace_039a5a0e5e7c6a2dc93b290ec7b5125b" label="Mixed Materials [31142063345642]" type="Box">7</container><container id="aspace_febc82e99a30adcc2e9d7a18a2e2616d" parent="aspace_039a5a0e5e7c6a2dc93b290ec7b5125b" type="Folder">6</container><container altrender="Manuscript box - Letter" id="aspace_a02d88260ead2a163b09b7c329084c0f" label="Mixed Materials [31142063345659]" type="Box">8</container><container id="aspace_81529b4c5509533e14c2c0dad7866d59" parent="aspace_a02d88260ead2a163b09b7c329084c0f" type="Folder">1-3</container></did></c><c id="aspace_15e20fbaea26ae1905ccbc732a91d128" level="file"><did><unittitle>Exhibitions</unittitle><unitdate datechar="creation" normal="1999/2002" type="inclusive">1999-2002</unitdate><container altrender="Manuscript box - Letter" id="aspace_443546be80a8f9e382772efd017d12bd" label="Mixed Materials [31142063345659]" type="Box">8</container><container id="aspace_c1f36de32ea2716b61238b94ff7f1cba" parent="aspace_443546be80a8f9e382772efd017d12bd" type="Folder">4-5</container><container altrender="Manuscript box - Letter" id="aspace_54ddc6d2996b9d2eb9dbdc6100d83215" label="Mixed Materials [31142063345667]" type="Box">9</container><container id="aspace_79f17bc65bff00ac87a3405c4c9ccd67" parent="aspace_54ddc6d2996b9d2eb9dbdc6100d83215" type="Folder">1-2</container></did></c><c id="aspace_acf4bd9ce0db9a12c1f5ab1eed048f48" level="file"><did><unittitle>Exhibitions</unittitle><unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate><container altrender="Manuscript box - Letter" id="aspace_8f0c3ce4a2fc00bf8bb1cb235bca1a16" label="Mixed Materials [31142063345667]" type="Box">9</container><container id="aspace_7c13087139c6f3f7abebcdbe943b6efd" parent="aspace_8f0c3ce4a2fc00bf8bb1cb235bca1a16" type="Folder">4-5</container></did></c><c id="aspace_d675317d1fc90301c0336b6acf233bcb" level="file"><did><unittitle>Exhibitions</unittitle><unitdate datechar="creation" normal="2006/2010" type="inclusive">2006-2010</unitdate><container altrender="Manuscript box - Letter" id="aspace_a88b349e191e5850baf2d60d0ebbc9a1" label="Mixed Materials [31142067124555]" type="Box">10</container><container id="aspace_24a8440238297a4a27cab90ead8e23ea" parent="aspace_a88b349e191e5850baf2d60d0ebbc9a1" type="Folder">1-5</container></did></c><c id="aspace_05ecae8bd3ef60788fc6fbe80c872a42" level="file"><did><unittitle>Administrative Files</unittitle><unitid>cuid30337</unitid><unitdate datechar="creation" normal="1978/2017" type="inclusive">1978-2017</unitdate><container altrender="Manuscript box - Legal" id="aspace_6ce0226762b696b659525471645b9baa" label="Mixed Materials [31142063345675]" type="Box">11</container><container id="aspace_ee394b75d6b408cc8a5c3e2f846306b3" parent="aspace_6ce0226762b696b659525471645b9baa" type="Folder">1-7</container><container altrender="Manuscript box - Legal" id="aspace_0ef197e689e9ed01b2dd205e6b9bac96" label="Mixed Materials [31142063345683]" type="Box">12</container><container id="aspace_f0db015d084eca4bb2826c3680a22fa1" parent="aspace_0ef197e689e9ed01b2dd205e6b9bac96" type="Folder">1-7</container><container altrender="Manuscript box - Legal" id="aspace_f03addb73c2749a550de0de8485b8898" label="Mixed Materials [31142063345691]" type="Box">13</container><container id="aspace_8ea2e0f5bfc47b1249bb4adf1a4f7f6f" parent="aspace_f03addb73c2749a550de0de8485b8898" type="Folder">1-7</container><container altrender="Manuscript box - Legal" id="aspace_05ed5aa067c3ef9af41d5dcd56bf18e6" label="Mixed Materials [31142063345709]" type="Box">14</container><container id="aspace_142b4be760008e0d9de024f787fac53a" parent="aspace_05ed5aa067c3ef9af41d5dcd56bf18e6" type="Folder">1-8</container><container altrender="Manuscript box - Legal" id="aspace_b02dc2a8d14954842a6e0c96abd5d602" label="Mixed Materials [31142063345717]" type="Box">15</container><container id="aspace_4e5c7cde93084608e3cf5f6490eb85a9" parent="aspace_b02dc2a8d14954842a6e0c96abd5d602" type="Folder">1-5</container><container altrender="Manuscript box - Legal" id="aspace_a31e2a78f48844b623026ad7b37ce112" label="Mixed Materials [31142063345774]" type="Box">21</container><container id="aspace_694440b00ad4e4034b2cbf99e7926e03" parent="aspace_a31e2a78f48844b623026ad7b37ce112" type="Folder">2-3</container><container id="aspace_5f277e39133ee59f68e6d1177f9436b6" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_3b19500fd3b502bd09798f27e44f8af6" parent="aspace_5f277e39133ee59f68e6d1177f9436b6" type="E-records">FA_MSS_570_ER_7</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Administrative Files" xlink:type="simple"><daodesc><p>Administrative Files: 1998-2011</p></daodesc></dao></did></c><c id="aspace_6279dd97eed71b84c5768ec157e49aa5" level="file"><did><unittitle>Appointment Books</unittitle><unitdate datechar="creation" normal="1975/1979" type="inclusive">1975-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_a32621aedff026367426812d1687111a" label="Mixed Materials [31142063345725]" type="Box">16</container><container id="aspace_fce36a65dcf69bb4c36856dd258b9b11" parent="aspace_a32621aedff026367426812d1687111a" type="Folder">1-4</container></did></c><c id="aspace_e1013bd5d1746621648cebd452bb1e13" level="file"><did><unittitle>Appointment Books</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_e109e5ffc4135a3c8434f69ee6af350b" label="Mixed Materials [31142063345733]" type="Box">17</container><container id="aspace_ff522c93d4f8d1af35ba96b678a3218b" parent="aspace_e109e5ffc4135a3c8434f69ee6af350b" type="Folder">1-4</container></did></c><c id="aspace_e0b0f2f666f26b2f83b5b8cae54af5cb" level="file"><did><unittitle>Appointment Books</unittitle><unitdate datechar="creation" normal="1990/2000" type="inclusive">1990-2000</unitdate><container altrender="Manuscript box - Legal" id="aspace_86acde211abc48c11f928feedc83740e" label="Mixed Materials [31142063345741]" type="Box">18</container><container id="aspace_b1985425c3df2afeeebc414405362714" parent="aspace_86acde211abc48c11f928feedc83740e" type="Folder">1-3</container><container altrender="Manuscript box - Legal" id="aspace_f6b19ff00aaeca10b27b9a677a20a996" label="Mixed Materials [31142063345758]" type="Box">19</container><container id="aspace_87c1acc77a20b6455ee03b14392a7600" parent="aspace_f6b19ff00aaeca10b27b9a677a20a996" type="Folder">1-2</container></did></c><c id="aspace_de6b70feb377f0f90137de1740c3f00f" level="file"><did><unittitle>Appointment Books</unittitle><unitdate datechar="creation" normal="2001/2015" type="inclusive">2001-2015</unitdate><container altrender="Manuscript box - Legal" id="aspace_3079e390e10b550404191d5b756cc21a" label="Mixed Materials [31142063345758]" type="Box">19</container><container id="aspace_c3554083c839d1660361488e288b9deb" parent="aspace_3079e390e10b550404191d5b756cc21a" type="Folder">3-4</container><container altrender="Manuscript box - Legal" id="aspace_86a4a00de00e57c87083fcb47261df4c" label="Mixed Materials [31142063345766]" type="Box">20</container><container id="aspace_4113e514a0ae07cb1874cacca2939108" parent="aspace_86a4a00de00e57c87083fcb47261df4c" type="Folder">1-3</container><container altrender="Manuscript box - Legal" id="aspace_47e4d6aa2c35046701e903ff5962e3d6" label="Mixed Materials [31142063345774]" type="Box">21</container><container id="aspace_1699f3ec1125935bd3ffbd08e641046f" parent="aspace_47e4d6aa2c35046701e903ff5962e3d6" type="Folder">1</container></did></c><c id="aspace_3af9a526ebf763cd7674cc84691739b3" level="file"><did><unittitle>Rolodex and Business Contact Notecards</unittitle><unitdate datechar="creation" normal="1975/2017" type="inclusive">undated</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_ee803dbccfabe70fd152fd0886dae687" label="Mixed Materials [31142063345782]" type="Box">22</container><container altrender="Hollinger Cassette Box 5" id="aspace_9357a03cb4aac2f4107deacbe65a0bbf" label="Mixed Materials [31142063345790]" type="Box">23</container></did></c><c id="aspace_897a70160c11041f09ced6225959602d" level="file"><did><unittitle>Frederieke Taylor Art Collection</unittitle><unitid>cuid30344</unitid><unitdate datechar="creation" normal="2004/2013" type="inclusive">2004-2013</unitdate><container id="aspace_60e9b81e6d7dc7796ff778c6107eada7" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_355e82bbe3f8448177c7d10a354e6630" parent="aspace_60e9b81e6d7dc7796ff778c6107eada7" type="E-records">FA_MSS_570_ER_8</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Frederieke Taylor Art Collection" xlink:type="simple"><daodesc><p>Frederieke Taylor Art Collection: 2004-2013</p></daodesc></dao></did></c><c id="aspace_7781a7db8dd39c940a14c897b613d8c9" level="file"><did><unittitle>Gallery Files Backup</unittitle><unitid>cuid30345</unitid><unitdate datechar="creation" normal="1996/2018" type="inclusive">1996-2018</unitdate><container id="aspace_c79a41e5471e2e7aebd11044454a7843" label="electronic records" type="E-records">Electronic Records</container><container id="aspace_d94870903aa3dd9fe8fd1b7a60f382c4" parent="aspace_c79a41e5471e2e7aebd11044454a7843" type="E-records">FA_MSS_570_ER_9</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Gallery Files Backup" xlink:type="simple"><daodesc><p>Gallery Files Backup: 1996-2018</p></daodesc></dao></did></c></dsc>
+</archdesc>
 </ead>

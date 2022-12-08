@@ -1,194 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>tam_228</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Julian Chazin Papers <num>TAM.228</num></titleproper>
-        <author>Hillel Arnold</author>
-      </titlestmt>
-      <editionstmt>
-        <p>Chazin, Julian Tam 228.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:37:39 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Julian Chazin Papers</unittitle>
-      <origination label="Creator">
-        <persname role="dnr" source="local">Chazin, Julian</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" source="local">Chazin, Mildred</persname>
-      </origination>
-      <unitid>TAM.228</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1955/1989" type="inclusive">1955-1989 , (Bulk 1957-1962)</unitdate>
-      <unitdate datechar="creation" normal="1957/1962" type="bulk">1957-1962</unitdate>
-      <abstract id="aspace_8e31202a4b4825383cb016fd57003476">Julian Chazin was called to testify before the House Un-American Activities Committee (HUAC) in October 1957 in Buffalo, NY. He invoked his Fifth Amendment privileges when asked if he had ever been a member of the Communist Party. This led to his suspension and discharge from the Cold Strip Mill Department of the Lackawanna Plant of the Bethlehem Steel Company on the grounds that he had falsified his job application by omitting mention of his college degree, and that his HUAC testimony indicated that he was a security risk. Chazin contested his dismissal and won reinstatement in March 1958. The collection contains correspondence, legal documents and clippings relating to Chazin's dismissal from Bethlehem Steel, his appearances before HUAC, and his struggle for reinstatement. Also included is information on related cases as well as Chazin's correspondence with Representative John G. Dow (D-NY) and labor historian Philip Foner.</abstract>
-      <langmaterial><language langcode="eng">English</language>
-.    </langmaterial>
-    </did>
-    <accessrestrict id="aspace_dec61d05e5ba15377bc3e319faf0540e">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_8cfe41b7372a0731e4631d25e4c9a028">
-      <head>Immediate Source of Acquisition</head>
-      <p>Materials were donated by Julian and Mildred Chazin in 1999. The accession number associated with this gift is 1989.005.</p>
-    </acqinfo>
-    <arrangement id="aspace_1b4c4db4088652d9959428c775124e14">
-      <head>Arrangement</head>
-      <p>Folders are arranged alphabetically.</p>
-      <p>The files are grouped into 1 series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, General Files, 1955-1989.</item>
-      </list>
-    </arrangement>
-    <bioghist id="aspace_9eba57636504b90bafd52111fe5bf23c">
-      <head>Historical/Biographical Note</head>
-      <p>Born in 1928 in New York City, Julian Chazin earned a B.S. in Social Science from City College. In an effort to support his family, he moved to Buffalo and got a job in the Cold Strip Mill Department of the Lackawanna Plant of the Bethlehem Steel Company. In October 1957, he was called to testify before the House Un-American Activities Committee (HUAC) in Buffalo, where he invoked his Fifth Amendment privileges when asked if he had ever been a member of the Communist Party. This led first to his suspension, and later, on November 25th, his discharge from Bethlehem Steel on the grounds that he had falsified his job application by omitting mention of his college degree, and that his HUAC testimony indicated that he was a security risk. Chazin contested his dismissal through the grievance procedure of the United Steelworkers of America, Local 2604, of which he was a member. He won reinstatement in March 1958.</p>
-      <p>Chazin remained a progressive union activist, contesting anti-Communism in the USWA, and later opposing the Vietnam War.</p>
-    </bioghist>
-    <prefercite id="aspace_0d01d04a560228482b34e4a6d6dbad99">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <scopecontent id="aspace_fda1e8560512789ecbcd82a9fc938721">
-      <head>Scope and Content Note</head>
-      <p>The collection contains correspondence, legal documents and clippings relating to Chazin's dismissal from Bethlehem Steel, his appearances before HUAC, and his struggle for reinstatement. Also included is information on related cases, including the Bethlehem Steel's discharge of Miroslaw Zelman, Edward A. Wolkenstein and Everett Jones in 1957, and Paul E. Ault, Joseph A. Picucci and John Szabo in 1955. Correspondence between Chazin and Representative John G. Dow (D-NY) and labor historian Philip Foner is also present in the collection.</p>
-    </scopecontent>
-    <userestrict id="aspace_21fb6989ff5d14f3e8ebc67bb17f935b">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Julian Chazin was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Steel industry and trade |z United States.</subject>
-      <subject source="lcsh">Subversive activities -- United States.</subject>
-      <geogname source="lcsh">Buffalo (N.Y.)</geogname>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Legal documents.</genreform>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <subject source="lcsh">Communism -- United States.</subject>
-      <subject source="lcsh">Iron and steel workers -- Labor unions -- United States.</subject>
-      <subject source="lcsh">Iron and steel workers |z New York (State) |z Buffalo.</subject>
-      <persname source="naf">Dow, John G. (John Goodchild),  1905-2003</persname>
-      <corpname source="local">United Steelworkers of America. Local 2604 (Buffalo, N.Y.)</corpname>
-      <persname source="naf">Foner, Philip Sheldon, 1910-1994</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_228">tam_228</eadid><filedesc><titlestmt><titleproper>Guide to the Julian Chazin Papers <num>TAM.228</num></titleproper><author>Hillel Arnold</author></titlestmt><editionstmt><p>Chazin, Julian Tam 228.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:09:24 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Julian Chazin Papers</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" source="local">Chazin, Julian</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" source="local">Chazin, Mildred</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I: General Files, 1955-1989.</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Arbitration: Bethlehem Steel Company and United Steelworkers of America (discharge of Paul E. Ault, Joseph A . Picucci and John Szabo)</unittitle>
-            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_8dcdf5f0a2ccfdee471ed55bfbd0039b" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_6782abe5b6884222b0c61e796564bbec" parent="aspace_8dcdf5f0a2ccfdee471ed55bfbd0039b" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Arbitration: Republic Steel and H. Van Kleef</unittitle>
-            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_0dd20267f41d5979e2fcc1bb159f3464" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_86fd04e684f09d2c28208ffb5276753d" parent="aspace_0dd20267f41d5979e2fcc1bb159f3464" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Chazin, Julian: Bethlehem Steel and House Un-American Activities Committee (HUAC) case</unittitle>
-            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_fb89ba90bc4fdaa6539f5f293b25b89f" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_c3a5567f476381967126051b1ccb2250" parent="aspace_fb89ba90bc4fdaa6539f5f293b25b89f" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Chazin, Julian: Bethlehem Steel and House Un-American Activities Committee (HUAC) Case</unittitle>
-            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_fde8b3cd6f8bdd6ce688d676d8e6a3a9" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_62e910487786e4265f26585795403062" parent="aspace_fde8b3cd6f8bdd6ce688d676d8e6a3a9" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Chazin, Julian: Bethlehem Steel and House Un-American Activities Committee (HUAC) Case</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_04f980b6eb0ed71f406bb3d610c7e73f" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_7f4a2b1e307d67140b9e745bcf539719" parent="aspace_04f980b6eb0ed71f406bb3d610c7e73f" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Chazin, Julian: Bethlehem Steel and House Un-American Activities Committee (HUAC) Case - Chronology</unittitle>
-            <unitdate datechar="creation" normal="1955/1989" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5e63ae9f9e33e54ebd7cf4c82c3e889b" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_7cbb05ac78973760676abc08f994eae9" parent="aspace_5e63ae9f9e33e54ebd7cf4c82c3e889b" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Correspondence: Dow, John G. (D-NY)</unittitle>
-            <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4bcfaa3c9ef7f7a13e69abab425b8e7d" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_83f36382e3804ab5dcbb20af393770ff" parent="aspace_4bcfaa3c9ef7f7a13e69abab425b8e7d" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Correspondence: Foner, Philip</unittitle>
-            <unitdate datechar="creation" normal="1982/1989" type="inclusive">1982-1989</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_8305db20a8f52e662fecee83499ff9bd" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_308c3d500ba1516e1125278c3f57d7a5" parent="aspace_8305db20a8f52e662fecee83499ff9bd" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle><emph render="italic">Miroslaw Zelman, Edward A. Wolkenstein, Everett Jones v. Bethlehem Steel Company and United Steelworkers of America, AFL-CIO</emph>(United States District Court)</unittitle>
-            <unitdate datechar="creation" normal="1958/1962" type="inclusive">1958-1962</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_0a69ee0dadecc1094b10304fcffdfa4b" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_c8ea15ebca728a60af5c4ffb73667d62" parent="aspace_0a69ee0dadecc1094b10304fcffdfa4b" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Supplemental Unemployment Benefits</unittitle>
-            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c8590d7ae74d9225851a75fa1aa5d6a3" label="Mixed Materials [31142062884781]" type="Box">1</container>
-            <container id="aspace_473c0d72b386c6171bfa3803dc42cc41" parent="aspace_c8590d7ae74d9225851a75fa1aa5d6a3" type="Folder">10</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.228</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1955/1989" type="inclusive">1955-1989 , (Bulk 1957-1962)</unitdate>
+    <unitdate datechar="creation" normal="1957/1962" type="bulk">1957-1962</unitdate>
+    <abstract id="aspace_8e31202a4b4825383cb016fd57003476" label="Abstract">Julian Chazin was called to testify before the House Un-American Activities Committee (HUAC) in October 1957 in Buffalo, NY. He invoked his Fifth Amendment privileges when asked if he had ever been a member of the Communist Party. This led to his suspension and discharge from the Cold Strip Mill Department of the Lackawanna Plant of the Bethlehem Steel Company on the grounds that he had falsified his job application by omitting mention of his college degree, and that his HUAC testimony indicated that he was a security risk. Chazin contested his dismissal and won reinstatement in March 1958. The collection contains correspondence, legal documents and clippings relating to Chazin's dismissal from Bethlehem Steel, his appearances before HUAC, and his struggle for reinstatement. Also included is information on related cases as well as Chazin's correspondence with Representative John G. Dow (D-NY) and labor historian Philip Foner.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_dec61d05e5ba15377bc3e319faf0540e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_8cfe41b7372a0731e4631d25e4c9a028">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials were donated by Julian and Mildred Chazin in 1999. The accession number associated with this gift is 1989.005.</p>  </acqinfo>
+  <arrangement id="aspace_1b4c4db4088652d9959428c775124e14">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically.</p><p>The files are grouped into 1 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, General Files, 1955-1989.</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_9eba57636504b90bafd52111fe5bf23c">
+    <head>Historical/Biographical Note</head>
+<p>Born in 1928 in New York City, Julian Chazin earned a B.S. in Social Science from City College. In an effort to support his family, he moved to Buffalo and got a job in the Cold Strip Mill Department of the Lackawanna Plant of the Bethlehem Steel Company. In October 1957, he was called to testify before the House Un-American Activities Committee (HUAC) in Buffalo, where he invoked his Fifth Amendment privileges when asked if he had ever been a member of the Communist Party. This led first to his suspension, and later, on November 25th, his discharge from Bethlehem Steel on the grounds that he had falsified his job application by omitting mention of his college degree, and that his HUAC testimony indicated that he was a security risk. Chazin contested his dismissal through the grievance procedure of the United Steelworkers of America, Local 2604, of which he was a member. He won reinstatement in March 1958.</p><p>Chazin remained a progressive union activist, contesting anti-Communism in the USWA, and later opposing the Vietnam War.</p>  </bioghist>
+  <prefercite id="aspace_0d01d04a560228482b34e4a6d6dbad99">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <scopecontent id="aspace_fda1e8560512789ecbcd82a9fc938721">
+    <head>Scope and Content Note</head>
+<p>The collection contains correspondence, legal documents and clippings relating to Chazin's dismissal from Bethlehem Steel, his appearances before HUAC, and his struggle for reinstatement. Also included is information on related cases, including the Bethlehem Steel's discharge of Miroslaw Zelman, Edward A. Wolkenstein and Everett Jones in 1957, and Paul E. Ault, Joseph A. Picucci and John Szabo in 1955. Correspondence between Chazin and Representative John G. Dow (D-NY) and labor historian Philip Foner is also present in the collection.</p>  </scopecontent>
+  <userestrict id="aspace_21fb6989ff5d14f3e8ebc67bb17f935b">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Julian Chazin was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Steel industry and trade |z United States.</subject>
+    <subject source="lcsh">Subversive activities -- United States.</subject>
+    <geogname source="lcsh">Buffalo (N.Y.)</geogname>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Legal documents.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <subject source="lcsh">Communism -- United States.</subject>
+    <subject source="lcsh">Iron and steel workers -- Labor unions -- United States.</subject>
+    <subject source="lcsh">Iron and steel workers |z New York (State) |z Buffalo.</subject>
+    <persname source="naf">Dow, John G. (John Goodchild),  1905-2003</persname>
+    <corpname source="local">United Steelworkers of America. Local 2604 (Buffalo, N.Y.)</corpname>
+    <persname source="naf">Foner, Philip Sheldon, 1910-1994</persname>
+    <persname role="dnr" source="local">Chazin, Mildred</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: General Files, 1955-1989.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Arbitration: Bethlehem Steel Company and United Steelworkers of America (discharge of Paul E. Ault, Joseph A . Picucci and John Szabo)</unittitle><unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ad9081304e52994a9168e338ee133f97" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_e1956d582476c26564f3f34ddcf9d53a" parent="aspace_ad9081304e52994a9168e338ee133f97" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Arbitration: Republic Steel and H. Van Kleef</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_045f7d7977ee8456cc6cf0abb96226f5" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_1fc8ed40f28c7a02ffbafbccae3083d1" parent="aspace_045f7d7977ee8456cc6cf0abb96226f5" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Chazin, Julian: Bethlehem Steel and House Un-American Activities Committee (HUAC) case</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b4fc2646b30169c6ec62a5f00e93d265" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_9aaf7038ab46ed4f8996aba41e0dc36e" parent="aspace_b4fc2646b30169c6ec62a5f00e93d265" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Chazin, Julian: Bethlehem Steel and House Un-American Activities Committee (HUAC) Case</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_445eee3d08a24b14cdfbd64dcf4bf57e" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_80c8ffc6167a3f362d21bb8410eb6b2a" parent="aspace_445eee3d08a24b14cdfbd64dcf4bf57e" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Chazin, Julian: Bethlehem Steel and House Un-American Activities Committee (HUAC) Case</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ff393adf3d927ddd19fc0b9c0dc0c524" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_0267cd1b0acdf5128f08aac72bb7c440" parent="aspace_ff393adf3d927ddd19fc0b9c0dc0c524" type="Folder">5</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Chazin, Julian: Bethlehem Steel and House Un-American Activities Committee (HUAC) Case - Chronology</unittitle><unitdate datechar="creation" normal="1955/1989" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_23cf85c4ae1a86a2a875ad1f60120ff0" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_8b8c5236b1c3b9e428089d885c2fc310" parent="aspace_23cf85c4ae1a86a2a875ad1f60120ff0" type="Folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence: Dow, John G. (D-NY)</unittitle><unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_63b9c5e2491a4de15c784724d921c1b8" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_17efad0256f5f4f82f20907e261ede07" parent="aspace_63b9c5e2491a4de15c784724d921c1b8" type="Folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence: Foner, Philip</unittitle><unitdate datechar="creation" normal="1982/1989" type="inclusive">1982-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8eacb114a6bf91a016366fa549e8b486" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_dcc27841fa7188b2e4a57d15a68d8e98" parent="aspace_8eacb114a6bf91a016366fa549e8b486" type="Folder">8</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><emph render="italic">Miroslaw Zelman, Edward A. Wolkenstein, Everett Jones v. Bethlehem Steel Company and United Steelworkers of America, AFL-CIO</emph>(United States District Court)</unittitle><unitdate datechar="creation" normal="1958/1962" type="inclusive">1958-1962</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_55e91f2f3ccaffe4f2cc50885f5af441" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_56a64ea14e8111309c9e02a83ade00f1" parent="aspace_55e91f2f3ccaffe4f2cc50885f5af441" type="Folder">9</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Supplemental Unemployment Benefits</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9284f4bb18a753d1d7f785d57fb700a4" label="Mixed Materials [31142062884781]" type="Box">1</container><container id="aspace_c22476225b5249326c1c1655dc127e2e" parent="aspace_9284f4bb18a753d1d7f785d57fb700a4" type="Folder">10</container></did></c></c></dsc>
+</archdesc>
 </ead>

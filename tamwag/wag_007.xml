@@ -1,371 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_007">wag_007</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Albert Afterman collection on Local 10 Elections <num>WAG.007</num></titleproper>
-        <author>Daniel Soyer, 1983 and Daniel Michelson, 2010.</author>
-      </titlestmt>
-      <editionstmt>
-        <p>Afterman, Albert WAG 7.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:31:32 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Albert Afterman collection on Local 10 Elections</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Afterman, Albert</persname>
-      </origination>
-      <origination label="source">
-        <corpname role="dnr" source="naf">American Institute for Marxist Studies</corpname>
-      </origination>
-      <unitid>WAG.007</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1929/1974" type="inclusive">1929-1974</unitdate>
-      <abstract id="aspace_b924468ba77ff7d0bcdc6ecb514baf0b">Albert Afterman was a longtime rank-and-file activist in the Amalgamated Ladies' Garment Cutters' Union, Local 10 of the International Ladies' Garment Workers' Union. He first ran as a convention delegate in 1944, and thereafter ran for various union offices, including manager in 1953 and local president in 1959 and 1974. Local 10 has a reputation for being a strategic local in the affairs of the international union. It has provided three international presidents, David Dubinsky (1932-1966), Mortimer Julian (1907-1908), Louis Stulberg (1966-1975).  The local has also witnessed many conflicts between administration groups and rank-and-file groups. The collection consists primarily of material related to elections for officers in Local 10, including campaign flyers and other literature published by various factions within the local. Also included are notes for speeches and articles by Albert Afterman, correspondence and newspaper clippings.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_007">wag_007</eadid><filedesc><titlestmt><titleproper>Guide to the Albert Afterman collection on Local 10 Elections <num>WAG.007</num></titleproper><author>Daniel Soyer, 1983 and Daniel Michelson, 2010.</author></titlestmt><editionstmt><p>Afterman, Albert WAG 7.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:44:18 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Albert Afterman collection on Local 10 Elections</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Afterman, Albert</persname>
+    </origination>
+    <origination label="source">
+      <corpname authfilenumber="(lccn)n50000277" role="dnr" source="naf">American Institute for Marxist Studies</corpname>
+    </origination>
+    <unitid>WAG.007</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1929/1974" type="inclusive">1929-1974</unitdate>
+    <abstract id="aspace_b924468ba77ff7d0bcdc6ecb514baf0b" label="Abstract">Albert Afterman was a longtime rank-and-file activist in the Amalgamated Ladies' Garment Cutters' Union, Local 10 of the International Ladies' Garment Workers' Union. He first ran as a convention delegate in 1944, and thereafter ran for various union offices, including manager in 1953 and local president in 1959 and 1974. Local 10 has a reputation for being a strategic local in the affairs of the international union. It has provided three international presidents, David Dubinsky (1932-1966), Mortimer Julian (1907-1908), Louis Stulberg (1966-1975).  The local has also witnessed many conflicts between administration groups and rank-and-file groups. The collection consists primarily of material related to elections for officers in Local 10, including campaign flyers and other literature published by various factions within the local. Also included are notes for speeches and articles by Albert Afterman, correspondence and newspaper clippings.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-    </did>
-    <acqinfo id="aspace_b8f80de60b46425fb902e74934907b3c">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by the American Institute for Marxist Studies in 1982. The accession number associated with this gift is 1982.010.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_cdf93d9a4ad1287f06c1036a34f27d46">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <bioghist id="aspace_845ef305fb9ac49bb8f11754388e8ae7">
-      <head>Historical/Biographical Note</head>
-      <p>Albert Afterman was a longtime rank-and-file activist in the Amalgamated Ladies' Garment Cutters' Union, Local 10 of the International Ladies' Garment Workers' Union. He first ran as a convention delegate in 1944, and thereafter ran for various union offices, including manager in 1953 and local president in 1959 and 1974. Local 10 has a reputation for being a strategic local in the affairs of the international union. It has provided three international presidents, David Dubinsky (1932-1966), Mortimer Julian (1907-1908), Louis Stulberg (1966-1975).  The local has also witnessed many conflicts between administration groups and rank-and-file groups.</p>
-      <p>In the 1920s the ILGWU was wracked by bitter conflict between the Communists and the "right" (mainly supporters of the Socialist Party). While the Communists and their supporters succeeded in gaining control of a number of locals and the New York Joint Board, they never commanded the same degree of support in Local 10. The high point of Communist support came in 1924 when they succeeded in winning a vote against a dues increase in the local. However, Dubinsky, then manager of the local, managed to have that vote reversed shortly afterward.</p>
-      <p>In 1929-1930, the Communists attempted to form a Needle Trades Industrial Union affiliated with the Trade Union Unity League (1929-1935). They met with little success and evidently returned to the ILGWU by 1934.</p>
-      <p>By the late 1930s, the Communist supported Rank and File slate could still count on the support of 25-30% of Local 10 members. However, control remained firmly in the hands of the administration group. The 1939 elections provided what proved to be the last seriously contested election for quite some time, when the ILGWU leadership ousted former ally Samuel Pearlmutter from the managership after a series of allegations of corruption in the local. The winning candidate, Isadore Nagler, though known as a staunch anti-Communist, was supported by the Rank and File group (they also supported Stulberg for assistant manager, but fielded their own slate for other offices).</p>
-      <p>Thereafter, Rank and File support steadily declined. In 1944 several Rank and File candidates were ruled off the ballot by the administration and several Rank and File leaders were subsequently suspended from the union. The results of the election, and the suspensions, were unsuccessfully challenged by the oppositionists. By the mid-1950s support for the Rank and File slate dipped below 10% in the local elections. During that period the opposition caucus concentrated its fire against undemocratic practices in the union, and aside from basic economic issues, consistently called for the use of voting machines, outside supervision of elections, and mailing rights for opposition slates.</p>
-      <p>In the 1960s, changes were beginning to take place in the local membership which would eventually change the complexion of local politics. In 1961, the cutters' local was accused of discriminating against black applicants. During this period, however, blacks, and especially Latinos, became an important part of Local 10 membership.</p>
-      <p>In the 1968 elections a new force entered the contest for control of the union. The Independent Cutters, made up of younger members, made many of the same demands for union democracy as the Rank and File slate, but also concentrated on the deteriorating status of cutters compared to other trades. Some of the Independent Cutters' candidates were denied places on the ballot, and those who did run were denied slate status. They later appealed unsuccessfully to the International and to the Department of Labor.</p>
-      <p>In 1971 and 1974 the younger Independent Cutters and the older Rank and File forces ran a joint slate; in 1971 receiving over 35% of the vote.</p>
-      <p>Albert Afterman was a longtime rank-and-file activist in the Amalgamated Ladies' Garment Cutters' Union, Local 10 of the International Ladies' Garment Workers' Union. He first ran as a convention delegate in 1944, and thereafter ran for various union offices, including manager in 1953 and local president in 1959 and 1974. Local 10 has a reputation for being a strategic local in the affairs of the international union. It has provided three international presidents, David Dubinsky (1932-1966), Mortimer Julian (1907-1908), Louis Stulberg (1966-1975).  The local has also witnessed many conflicts between administration groups and rank-and-file groups.</p>
-      <p>In the 1920s the ILGWU was wracked by bitter conflict between the Communists and the "right" (mainly supporters of the Socialist Party). While the Communists and their supporters succeeded in gaining control of a number of locals and the New York Joint Board, they never commanded the same degree of support in Local 10. The high point of Communist support came in 1924 when they succeeded in winning a vote against a dues increase in the local. However, Dubinsky, then manager of the local, managed to have that vote reversed shortly afterward.</p>
-      <p>In 1929-1930, the Communists attempted to form a Needle Trades Industrial Union affiliated with the Trade Union Unity League (1929-1935). They met with little success and evidently returned to the ILGWU by 1934.</p>
-      <p>By the late 1930s, the Communist supported Rank and File slate could still count on the support of 25-30% of Local 10 members. However, control remained firmly in the hands of the administration group. The 1939 elections provided what proved to be the last seriously contested election for quite some time, when the ILGWU leadership ousted former ally Samuel Pearlmutter from the managership after a series of allegations of corruption in the local. The winning candidate, Isadore Nagler, though known as a staunch anti-Communist, was supported by the Rank and File group (they also supported Stulberg for assistant manager, but fielded their own slate for other offices).</p>
-      <p>Thereafter, Rank and File support steadily declined. In 1944 several Rank and File candidates were ruled off the ballot by the administration and several Rank and File leaders were subsequently suspended from the union. The results of the election, and the suspensions, were unsuccessfully challenged by the oppositionists. By the mid-1950s support for the Rank and File slate dipped below 10% in the local elections. During that period the opposition caucus concentrated its fire against undemocratic practices in the union, and aside from basic economic issues, consistently called for the use of voting machines, outside supervision of elections, and mailing rights for opposition slates.</p>
-      <p>In the 1960s, changes were beginning to take place in the local membership which would eventually change the complexion of local politics. In 1961, the cutters' local was accused of discriminating against black applicants. During this period, however, blacks, and especially Latinos, became an important part of Local 10 membership.</p>
-      <p>In the 1968 elections a new force entered the contest for control of the union. The Independent Cutters, made up of younger members, made many of the same demands for union democracy as the Rank and File slate, but also concentrated on the deteriorating status of cutters compared to other trades. Some of the Independent Cutters' candidates were denied places on the ballot, and those who did run were denied slate status. They later appealed unsuccessfully to the International and to the Department of Labor.</p>
-      <p>In 1971 and 1974 the younger Independent Cutters and the older Rank and File forces ran a joint slate; in 1971 receiving over 35% of the vote.</p>
-    </bioghist>
-    <scopecontent id="aspace_ca499bdbca353381597c95abefb85374">
-      <head>Scope and Content Note</head>
-      <p>The collection consists primarily of material related to elections for officers in Local 10, including campaign flyers and other literature published by various factions within the local. Also included are notes for speeches and articles by Albert Afterman, correspondence and newspaper clippings.</p>
-    </scopecontent>
-    <arrangement id="aspace_3ad8011e338609c55d117a6b19385eb5">
-      <head>Arrangement</head>
-      <p>Folders are arranged alphabetically.</p>
-      <p>The files are grouped into 1 series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, General Files, 1929-1974</item>
-      </list>
-    </arrangement>
-    <relatedmaterial id="aspace_6e4df81a0b98f57d269ec7c4bdcbba81">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>International Ladies' Garment Workers' Union, Local 64 Records (WAG 242)</p>
-    </relatedmaterial>
-    <userestrict id="aspace_7dea405f108770278de71c911d0f05c2">
-      <head>Conditions Governing Use</head>
-      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-    </userestrict>
-    <prefercite id="aspace_f13da7fdcc671701cbc814ac3f3c61de">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Albert Afterman collection on Local 10 Elections; WAG 007; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <controlaccess>
-      <genreform source="aat">Fliers (printed matter)</genreform>
-      <subject source="lcsh">Clothing workers -- Labor unions -- New York (State) -- New York.</subject>
-      <subject source="lcsh">Clothing workers |z United States.</subject>
-      <subject source="lcsh">Labor union democracy -- New York (State)</subject>
-      <genreform source="aat">Notes.</genreform>
-      <genreform source="aat">Reports.</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <geogname source="lcsh">New York (N.Y.).</geogname>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <corpname source="naf">International Ladies' Garment Workers' Union</corpname>
-      <corpname source="naf">Amalgamated Ladies' Garment Cutters' Union</corpname>
-      <corpname role="dnr" source="naf">American Institute for Marxist Studies</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref14" level="series">
-        <did>
-          <unittitle>General Files, 1929-1974.</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>Cloak Joint Board</unittitle>
-            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1f512667d4b456e5cec282cd77a8adbe" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_9c40f0be467c7d71e0e2eb5c9eea8c35" parent="aspace_1f512667d4b456e5cec282cd77a8adbe" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle><emph render="italic">Craftsman</emph> (Newsletter): Articles</unittitle>
-            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4fbf932685752b6408a2327a56abb6ee" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_eabe23914f319df0419dd0ac8600206f" parent="aspace_4fbf932685752b6408a2327a56abb6ee" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Furriers and Ladies Garment Dual Unions: Reports</unittitle>
-            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_92129bdcb5a05cdcb588d59c8952fddc" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_a4b8c100c36262f517c04a6ab3feb873" parent="aspace_92129bdcb5a05cdcb588d59c8952fddc" type="Folder">2a</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Independent Cutters</unittitle>
-            <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4f410877995b20cc0152d8072110bcb0" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_12aea48aea94e97b0e9d847934d31907" parent="aspace_4f410877995b20cc0152d8072110bcb0" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>International Ladies Garment Workers Union Convention: Election</unittitle>
-            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6192cac02a160764f1cb5133a82646f3" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_db9614ebe3d4634249b19245e60615b6" parent="aspace_6192cac02a160764f1cb5133a82646f3" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1934/1937" type="inclusive">1934 , 1937</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_57931312f839ba5f7420ce2dc24f0c9a" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_9810cbdef4fff412c2b52fb9b982b1ff" parent="aspace_57931312f839ba5f7420ce2dc24f0c9a" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Local 10 Elections: Independent Slate</unittitle>
-            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6fa029f3f1d82dcf225961ddfca6297c" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_29e6421e5e396acff8b637026d308204" parent="aspace_6fa029f3f1d82dcf225961ddfca6297c" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Local 10 Elections: Pearlmutter and Nagler Slates</unittitle>
-            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_77021d954c1c6d4ab90aca6350378f7b" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_961ea70dde79a57c8bce8fae2314b733" parent="aspace_77021d954c1c6d4ab90aca6350378f7b" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Local 10 Elections: Rank and File Slate</unittitle>
-            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_52aeab897fff88dfdaf970b910748f9f" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_16f798e9ebcb9f956ae691c4286642a3" parent="aspace_52aeab897fff88dfdaf970b910748f9f" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1941/1942" type="inclusive">1941-1942</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_217d659f4702c0e3448118e8705779f9" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_9220e6367fbae83a33faee5cf3247d74" parent="aspace_217d659f4702c0e3448118e8705779f9" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d735223930e38d0175ffc9db0d9e0144" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_ea4fc2d78b44ce74718db35c94ed006e" parent="aspace_d735223930e38d0175ffc9db0d9e0144" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0aef5b0f11d2086b9bc0243b80d9cb1d" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_6168e825f7121d5461d9e3741d5e6e4c" parent="aspace_0aef5b0f11d2086b9bc0243b80d9cb1d" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_965f25a455360c5d2f76fc1010bc8f03" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_6dc59db68460cca7331bdf7c465511de" parent="aspace_965f25a455360c5d2f76fc1010bc8f03" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_28e8be47ec3065192ac003dc73764f5b" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_e7f70bbfa9d60aea60c76cd408b8310d" parent="aspace_28e8be47ec3065192ac003dc73764f5b" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5b42631924ac89d372bce3c466f5fc88" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_a257f61c7acb48d1aa9f046b7af2d0ed" parent="aspace_5b42631924ac89d372bce3c466f5fc88" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5be01d0cabddfa9fca648822b7f32866" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_847e63b51ac9b918eb53984a8c61fd77" parent="aspace_5be01d0cabddfa9fca648822b7f32866" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8cf7d6fa21110ecf34ae4ded8a58908c" label="Mixed Materials [31142062765477]" type="Box">1</container>
-            <container id="aspace_18e015deb22c43217a93ac27ebcc1774" parent="aspace_8cf7d6fa21110ecf34ae4ded8a58908c" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1960/1962" type="inclusive">1960, 1962</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_6cd32e8a5b7991400233b42dd85fa7ca" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_3e8092a55c3537267b47d02189778fed" parent="aspace_6cd32e8a5b7991400233b42dd85fa7ca" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_1d4fcabcf8a82287d524b56c94fce9e7" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_a0331c282fcfea800c53e231f084b3e8" parent="aspace_1d4fcabcf8a82287d524b56c94fce9e7" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b87d4701a5eb8b462a1fdf2866ab619f" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_72ec5bced4c1bb0ebd84d31a978ed09b" parent="aspace_b87d4701a5eb8b462a1fdf2866ab619f" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_76c6d420129fb9d583a1d0f6ccfa4204" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_668c9032385b93bddffa37ec4ef2ef5d" parent="aspace_76c6d420129fb9d583a1d0f6ccfa4204" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle>
-            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_dfda198c05168dcefcddae104ed59171" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_937f09ca527386299b85832650c73e3e" parent="aspace_dfda198c05168dcefcddae104ed59171" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Local 10 Elections: Rank and File Platform</unittitle>
-            <unitdate datechar="creation">Post 1945</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c8b03645de59ecfcbcc5d24364c6f5e7" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_0ece5e5ac486f30cb74799e370f72f47" parent="aspace_c8b03645de59ecfcbcc5d24364c6f5e7" type="Folder">5a</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Local 10: Rank and File, Suspensions</unittitle>
-            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_22a2943c9f25fc8903ccc67501c7048b" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_810e6c04ddafe943db7fcf2383c61378" parent="aspace_22a2943c9f25fc8903ccc67501c7048b" type="Folder">5b</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>Nagler, Isadore</unittitle>
-            <unitdate datechar="creation" normal="1944/1946" type="inclusive">1944-1946</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_ecf6fdcb429abba7076225bd29b4c062" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_3fe4a2332e838c81fec01cdf6e1aca1f" parent="aspace_ecf6fdcb429abba7076225bd29b4c062" type="Folder">5c</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Newspaper Clippings, Mostly in Yiddish (<emph render="italic">Freiheit</emph>, <emph render="italic">Jewish Journal</emph>, <emph render="italic">The Day</emph>, <emph render="italic">Forward</emph>, <emph render="italic">Daily Worker</emph>)</unittitle>
-            <unitdate datechar="creation" normal="1944/1949" type="inclusive">1944-1949</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_9025340f9d69310f8c6f5e91dbff72b8" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_3ed27ff371e4a692a112e041e28caa93" parent="aspace_9025340f9d69310f8c6f5e91dbff72b8" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Newspaper Clippings, Some in Yiddish (<emph render="italic">Freiheit</emph>, <emph render="italic">Daily Mirror</emph>, <emph render="italic">Daily News</emph>, <emph render="italic">Daily Worker</emph>, <emph render="italic">Justice</emph>, <emph render="italic">Forward</emph>, <emph render="italic">NY Times</emph>, <emph render="italic">NY Herald Tribune</emph>, <emph render="italic">Women's Week</emph>)</unittitle>
-            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_67318f292dd2457d27ce2495cedccae4" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_df72032c59d53fbe6f6c52dc18a4bec9" parent="aspace_67318f292dd2457d27ce2495cedccae4" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Other Locals (Locals 84 and 155)</unittitle>
-            <unitdate datechar="creation" normal="1956/1959" type="inclusive">1956-1959</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c9bd855fb64bfa90c45522329a089a9d" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_f0f7dbc0f5c45b184d84910b4d7a07b8" parent="aspace_c9bd855fb64bfa90c45522329a089a9d" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Stein, Charles</unittitle>
-            <unitdate datechar="creation">Undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4eef0c54d07a2c7815d1d7a7dd3825fd" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_533d37799ded369e93b523b185efce98" parent="aspace_4eef0c54d07a2c7815d1d7a7dd3825fd" type="Folder">8a</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Voting Machines</unittitle>
-            <unitdate datechar="creation" normal="1952/1958" type="inclusive">1952-1958</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_1ede6cf9254005e58df01f7cf89013d4" label="Mixed Materials [31142062765485]" type="Box">2</container>
-            <container id="aspace_7bf4b4ab92efacd964a95b4634d7630d" parent="aspace_1ede6cf9254005e58df01f7cf89013d4" type="Folder">9</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+  </did>
+  <acqinfo id="aspace_b8f80de60b46425fb902e74934907b3c">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by the American Institute for Marxist Studies in 1982. The accession number associated with this gift is 1982.010.</p>  </acqinfo>
+  <accessrestrict id="aspace_cdf93d9a4ad1287f06c1036a34f27d46">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_845ef305fb9ac49bb8f11754388e8ae7">
+    <head>Historical/Biographical Note</head>
+<p>Albert Afterman was a longtime rank-and-file activist in the Amalgamated Ladies' Garment Cutters' Union, Local 10 of the International Ladies' Garment Workers' Union. He first ran as a convention delegate in 1944, and thereafter ran for various union offices, including manager in 1953 and local president in 1959 and 1974. Local 10 has a reputation for being a strategic local in the affairs of the international union. It has provided three international presidents, David Dubinsky (1932-1966), Mortimer Julian (1907-1908), Louis Stulberg (1966-1975).  The local has also witnessed many conflicts between administration groups and rank-and-file groups.</p><p>In the 1920s the ILGWU was wracked by bitter conflict between the Communists and the "right" (mainly supporters of the Socialist Party). While the Communists and their supporters succeeded in gaining control of a number of locals and the New York Joint Board, they never commanded the same degree of support in Local 10. The high point of Communist support came in 1924 when they succeeded in winning a vote against a dues increase in the local. However, Dubinsky, then manager of the local, managed to have that vote reversed shortly afterward.</p><p>In 1929-1930, the Communists attempted to form a Needle Trades Industrial Union affiliated with the Trade Union Unity League (1929-1935). They met with little success and evidently returned to the ILGWU by 1934.</p><p>By the late 1930s, the Communist supported Rank and File slate could still count on the support of 25-30% of Local 10 members. However, control remained firmly in the hands of the administration group. The 1939 elections provided what proved to be the last seriously contested election for quite some time, when the ILGWU leadership ousted former ally Samuel Pearlmutter from the managership after a series of allegations of corruption in the local. The winning candidate, Isadore Nagler, though known as a staunch anti-Communist, was supported by the Rank and File group (they also supported Stulberg for assistant manager, but fielded their own slate for other offices).</p><p>Thereafter, Rank and File support steadily declined. In 1944 several Rank and File candidates were ruled off the ballot by the administration and several Rank and File leaders were subsequently suspended from the union. The results of the election, and the suspensions, were unsuccessfully challenged by the oppositionists. By the mid-1950s support for the Rank and File slate dipped below 10% in the local elections. During that period the opposition caucus concentrated its fire against undemocratic practices in the union, and aside from basic economic issues, consistently called for the use of voting machines, outside supervision of elections, and mailing rights for opposition slates.</p><p>In the 1960s, changes were beginning to take place in the local membership which would eventually change the complexion of local politics. In 1961, the cutters' local was accused of discriminating against black applicants. During this period, however, blacks, and especially Latinos, became an important part of Local 10 membership.</p><p>In the 1968 elections a new force entered the contest for control of the union. The Independent Cutters, made up of younger members, made many of the same demands for union democracy as the Rank and File slate, but also concentrated on the deteriorating status of cutters compared to other trades. Some of the Independent Cutters' candidates were denied places on the ballot, and those who did run were denied slate status. They later appealed unsuccessfully to the International and to the Department of Labor.</p><p>In 1971 and 1974 the younger Independent Cutters and the older Rank and File forces ran a joint slate; in 1971 receiving over 35% of the vote.</p><p>Albert Afterman was a longtime rank-and-file activist in the Amalgamated Ladies' Garment Cutters' Union, Local 10 of the International Ladies' Garment Workers' Union. He first ran as a convention delegate in 1944, and thereafter ran for various union offices, including manager in 1953 and local president in 1959 and 1974. Local 10 has a reputation for being a strategic local in the affairs of the international union. It has provided three international presidents, David Dubinsky (1932-1966), Mortimer Julian (1907-1908), Louis Stulberg (1966-1975).  The local has also witnessed many conflicts between administration groups and rank-and-file groups.</p><p>In the 1920s the ILGWU was wracked by bitter conflict between the Communists and the "right" (mainly supporters of the Socialist Party). While the Communists and their supporters succeeded in gaining control of a number of locals and the New York Joint Board, they never commanded the same degree of support in Local 10. The high point of Communist support came in 1924 when they succeeded in winning a vote against a dues increase in the local. However, Dubinsky, then manager of the local, managed to have that vote reversed shortly afterward.</p><p>In 1929-1930, the Communists attempted to form a Needle Trades Industrial Union affiliated with the Trade Union Unity League (1929-1935). They met with little success and evidently returned to the ILGWU by 1934.</p><p>By the late 1930s, the Communist supported Rank and File slate could still count on the support of 25-30% of Local 10 members. However, control remained firmly in the hands of the administration group. The 1939 elections provided what proved to be the last seriously contested election for quite some time, when the ILGWU leadership ousted former ally Samuel Pearlmutter from the managership after a series of allegations of corruption in the local. The winning candidate, Isadore Nagler, though known as a staunch anti-Communist, was supported by the Rank and File group (they also supported Stulberg for assistant manager, but fielded their own slate for other offices).</p><p>Thereafter, Rank and File support steadily declined. In 1944 several Rank and File candidates were ruled off the ballot by the administration and several Rank and File leaders were subsequently suspended from the union. The results of the election, and the suspensions, were unsuccessfully challenged by the oppositionists. By the mid-1950s support for the Rank and File slate dipped below 10% in the local elections. During that period the opposition caucus concentrated its fire against undemocratic practices in the union, and aside from basic economic issues, consistently called for the use of voting machines, outside supervision of elections, and mailing rights for opposition slates.</p><p>In the 1960s, changes were beginning to take place in the local membership which would eventually change the complexion of local politics. In 1961, the cutters' local was accused of discriminating against black applicants. During this period, however, blacks, and especially Latinos, became an important part of Local 10 membership.</p><p>In the 1968 elections a new force entered the contest for control of the union. The Independent Cutters, made up of younger members, made many of the same demands for union democracy as the Rank and File slate, but also concentrated on the deteriorating status of cutters compared to other trades. Some of the Independent Cutters' candidates were denied places on the ballot, and those who did run were denied slate status. They later appealed unsuccessfully to the International and to the Department of Labor.</p><p>In 1971 and 1974 the younger Independent Cutters and the older Rank and File forces ran a joint slate; in 1971 receiving over 35% of the vote.</p>  </bioghist>
+  <scopecontent id="aspace_ca499bdbca353381597c95abefb85374">
+    <head>Scope and Content Note</head>
+<p>The collection consists primarily of material related to elections for officers in Local 10, including campaign flyers and other literature published by various factions within the local. Also included are notes for speeches and articles by Albert Afterman, correspondence and newspaper clippings.</p>  </scopecontent>
+  <arrangement id="aspace_3ad8011e338609c55d117a6b19385eb5">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically.</p><p>The files are grouped into 1 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, General Files, 1929-1974</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_6e4df81a0b98f57d269ec7c4bdcbba81">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>International Ladies' Garment Workers' Union, Local 64 Records (WAG 242)</p>  </relatedmaterial>
+  <userestrict id="aspace_7dea405f108770278de71c911d0f05c2">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <prefercite id="aspace_f13da7fdcc671701cbc814ac3f3c61de">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Albert Afterman collection on Local 10 Elections; WAG 007; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="aat">Fliers (printed matter)</genreform>
+    <subject source="lcsh">Clothing workers -- Labor unions -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Clothing workers |z United States.</subject>
+    <subject source="lcsh">Labor union democracy -- New York (State)</subject>
+    <genreform source="aat">Notes.</genreform>
+    <genreform source="aat">Reports.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <geogname source="lcsh">New York (N.Y.).</geogname>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <corpname authfilenumber="(lccn)n50060238" source="naf">International Ladies' Garment Workers' Union</corpname>
+    <corpname authfilenumber="(lccn)nr92008115" source="naf">Amalgamated Ladies' Garment Cutters' Union</corpname>
+    <corpname authfilenumber="(lccn)n50000277" role="dnr" source="naf">American Institute for Marxist Studies</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref14" level="series"><did><unittitle>General Files, 1929-1974.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref43" level="file"><did><unittitle>Cloak Joint Board</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_fe4100aa12dd026ccd2c06da2cbefa30" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_44733c8663a56641d19541ade38c2cec" parent="aspace_fe4100aa12dd026ccd2c06da2cbefa30" type="Folder">1</container></did></c><c id="aspace_ref44" level="file"><did><unittitle><emph render="italic">Craftsman</emph> (Newsletter): Articles</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_731c00a9c29cac8beffbc40be0bbfb08" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_fa9042e4f20ff3556a565563c31665b8" parent="aspace_731c00a9c29cac8beffbc40be0bbfb08" type="Folder">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Furriers and Ladies Garment Dual Unions: Reports</unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Manuscript box - Legal" id="aspace_a9079fb9d23a3d2b679034c4f207a153" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_fe556b5e4547f101b91c1b56440bf9a1" parent="aspace_a9079fb9d23a3d2b679034c4f207a153" type="Folder">2a</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Independent Cutters</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_48ea4d70416b7a27de7bbe326b253fb8" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_93754e3f6b97abc0199c6681417fb3da" parent="aspace_48ea4d70416b7a27de7bbe326b253fb8" type="Folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>International Ladies Garment Workers Union Convention: Election</unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_d7bc1de19da9c1a0b0cfe15303409147" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_a40307e117f0261a440132370b4bf889" parent="aspace_d7bc1de19da9c1a0b0cfe15303409147" type="Folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1934/1937" type="inclusive">1934 , 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_7f578779bb0573f3180f403dfb28a268" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_78425273de55fcce34ec1d8db2b3365f" parent="aspace_7f578779bb0573f3180f403dfb28a268" type="Folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Local 10 Elections: Independent Slate</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_9fd4916affa67cf97f244437a6f28aa3" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_9d990481398e1d727a4a1da056099b4f" parent="aspace_9fd4916affa67cf97f244437a6f28aa3" type="Folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Local 10 Elections: Pearlmutter and Nagler Slates</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_f64745cfb526b2035ae42013094aafd6" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_30619c9eeddd98cb29275100415aff6b" parent="aspace_f64745cfb526b2035ae42013094aafd6" type="Folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Local 10 Elections: Rank and File Slate</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_a5b3e1f62a4efe0617805a22b6392004" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_8164e7c4d332bfb65e8982b04aadec0b" parent="aspace_a5b3e1f62a4efe0617805a22b6392004" type="Folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1941/1942" type="inclusive">1941-1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_17c6e03f9afb7b5037463b4ca014c042" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_a17c65b6aad2ff15814529bb62a949ee" parent="aspace_17c6e03f9afb7b5037463b4ca014c042" type="Folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_99d59c125f7d3aee202a18cbbf2c4efe" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_a34cc3d39ed8755b9ceadb46289230ad" parent="aspace_99d59c125f7d3aee202a18cbbf2c4efe" type="Folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_b94748e313a9a955a069494e1db3d1c7" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_ad9e58080996056e031172bf59db77a2" parent="aspace_b94748e313a9a955a069494e1db3d1c7" type="Folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_aa19d63f854524319caef3e2fe39772c" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_3806760d9bb5b1de8ee7071a8f797f75" parent="aspace_aa19d63f854524319caef3e2fe39772c" type="Folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_34cfafc619293d11826a30a8bf84c5ec" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_7e92ff3124e0fcdf29980363e0a0e8cc" parent="aspace_34cfafc619293d11826a30a8bf84c5ec" type="Folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_b3564b61c1ee4785803a5ae3cb1dce6b" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_1770287c735a9b2e2193a9dd1877e05b" parent="aspace_b3564b61c1ee4785803a5ae3cb1dce6b" type="Folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_4505822d74941f3d561204852aca55fa" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_54dcac98eb56be6b0ada9f5cfc498e5c" parent="aspace_4505822d74941f3d561204852aca55fa" type="Folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_cacb16e907c369fb4ad8ee9a6b51a16e" label="Mixed Materials [31142062765477]" type="Box">1</container><container id="aspace_07422bf4d72de87d886b36bbbbf1f698" parent="aspace_cacb16e907c369fb4ad8ee9a6b51a16e" type="Folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1960/1962" type="inclusive">1960, 1962</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_85f415ed3912054f17540e4883d2921f" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_792fbcbc38f02310772c2046d32b30f5" parent="aspace_85f415ed3912054f17540e4883d2921f" type="Folder">1</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_cfbb9d8454fb3f2d3a624eca54d195cb" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_67662dc7a7c512e2d463f6931e0bd6a2" parent="aspace_cfbb9d8454fb3f2d3a624eca54d195cb" type="Folder">2</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b849ed409bcdf1681fac194d0c79bb6d" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_61d68ee6c8f57b54331864100234ad40" parent="aspace_b849ed409bcdf1681fac194d0c79bb6d" type="Folder">3</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f32efd8bae8d99b902cb860e6308b404" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_da2934db21e839611e8759eed6b1a06e" parent="aspace_f32efd8bae8d99b902cb860e6308b404" type="Folder">4</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Local 10 Elections (United Rank and File Cutters League, United Cutters Welfare League, Administration Group)</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_695cfbd6cd0a274fae7317a626483b59" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_9939454f16be58afe8cc48d9a0d50125" parent="aspace_695cfbd6cd0a274fae7317a626483b59" type="Folder">5</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Local 10 Elections: Rank and File Platform</unittitle><unitdate datechar="creation">Post 1945</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_864eef1afecba9ea8faa96224b496e39" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_f1c620fdbee1c44da7cb15f9a52d880f" parent="aspace_864eef1afecba9ea8faa96224b496e39" type="Folder">5a</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Local 10: Rank and File, Suspensions</unittitle><unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5b8faee25443a29e8dbcdcebf0cd9a1f" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_eb99050116c501c6b1a9a57226318d86" parent="aspace_5b8faee25443a29e8dbcdcebf0cd9a1f" type="Folder">5b</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Nagler, Isadore</unittitle><unitdate datechar="creation" normal="1944/1946" type="inclusive">1944-1946</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_52721639a46814c476e2cfe98e68e3b4" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_82cab57e4f0a6d9f7426ccae256d613c" parent="aspace_52721639a46814c476e2cfe98e68e3b4" type="Folder">5c</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Newspaper Clippings, Mostly in Yiddish (<emph render="italic">Freiheit</emph>, <emph render="italic">Jewish Journal</emph>, <emph render="italic">The Day</emph>, <emph render="italic">Forward</emph>, <emph render="italic">Daily Worker</emph>)</unittitle><unitdate datechar="creation" normal="1944/1949" type="inclusive">1944-1949</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b81b6fe544b62345ddb99759cc74656c" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_f249c3cbe05ad51cea36abaee48f9421" parent="aspace_b81b6fe544b62345ddb99759cc74656c" type="Folder">6</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Newspaper Clippings, Some in Yiddish (<emph render="italic">Freiheit</emph>, <emph render="italic">Daily Mirror</emph>, <emph render="italic">Daily News</emph>, <emph render="italic">Daily Worker</emph>, <emph render="italic">Justice</emph>, <emph render="italic">Forward</emph>, <emph render="italic">NY Times</emph>, <emph render="italic">NY Herald Tribune</emph>, <emph render="italic">Women's Week</emph>)</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ebc0592fcf73fd7a17f73099389d453e" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_8fc90d4ca58eb5426b057c8becff206e" parent="aspace_ebc0592fcf73fd7a17f73099389d453e" type="Folder">7</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Other Locals (Locals 84 and 155)</unittitle><unitdate datechar="creation" normal="1956/1959" type="inclusive">1956-1959</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2b6f0410ad01b63261417b0031d7af86" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_89e79dc7c12db96d37d9214eb7df14d1" parent="aspace_2b6f0410ad01b63261417b0031d7af86" type="Folder">8</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Stein, Charles</unittitle><unitdate datechar="creation">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9f5f6adba8c9089fdd8a687235f98a54" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_b6629f4e189dde72ac37b633625b5cea" parent="aspace_9f5f6adba8c9089fdd8a687235f98a54" type="Folder">8a</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Voting Machines</unittitle><unitdate datechar="creation" normal="1952/1958" type="inclusive">1952-1958</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c730a94cd704c40ecbbbe5266a78afcc" label="Mixed Materials [31142062765485]" type="Box">2</container><container id="aspace_e40dcda9a639160735ad14819330f8a5" parent="aspace_c730a94cd704c40ecbbbe5266a78afcc" type="Folder">9</container></did></c></c></dsc>
+</archdesc>
 </ead>

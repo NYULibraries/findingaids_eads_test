@@ -1,378 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_024</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Signal Archive<lb/><date>ca. 1963-1965 </date><lb/> <num>MSS.024</num></titleproper>
-        <author>Amber Creger in 1999. Finding aid created by Colin Wells, 2009.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:42:30 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Signal Archive</unittitle>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">Signal</corpname>
-      </origination>
-      <unitid>MSS.024</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1963/1965" type="inclusive">ca. 1963-1965</unitdate>
-      <abstract id="aspace_ad070af12413b916f199c12d0cef1943">The <emph render="italic">Signal</emph> Archive contains correspondence and manuscripts submitted to the journal's editor, Bret Rohmer.  <emph render="italic">Signal</emph> was a literary journal focused primarily on poetry.  Three issues were produced between 1963 and 1965.  Many of the authors are notable figures in Beat poetry, the New York School, and the Black Mountain poets.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <bioghist id="aspace_db53010796d0546d33c3b6c870b25eb5">
-      <head>Historical Note</head>
-      <p><emph render="italic">Signal: A Quarterly Review</emph> was a literary journal published by the Brownstone Press in New York focusing primarily on poetry.  Three issues were produced between 1963 and 1965.  Many of the authors are notable figures associated with Beat poetry, the New York School, and the Black Mountain poets.  Signal's chief editor was Bret Rohmer and the co-editors were Diane Di Prima and Paul Z. Panish.</p>
-    </bioghist>
-    <prefercite id="aspace_5150006b6f9681fce2842a93f9da4a70">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_024">mss_024</eadid><filedesc><titlestmt><titleproper>Guide to the Signal Archive<lb/><date>ca. 1963-1965 </date><lb/> <num>MSS.024</num></titleproper><author>Amber Creger in 1999. Finding aid created by Colin Wells, 2009.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2009</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 11:02:35 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Signal Archive</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Signal</corpname>
+    </origination>
+    <unitid>MSS.024</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1963/1965" type="inclusive">ca. 1963-1965</unitdate>
+    <abstract id="aspace_ad070af12413b916f199c12d0cef1943">The <emph render="italic">Signal</emph> Archive contains correspondence and manuscripts submitted to the journal's editor, Bret Rohmer.  <emph render="italic">Signal</emph> was a literary journal focused primarily on poetry.  Three issues were produced between 1963 and 1965.  Many of the authors are notable figures in Beat poetry, the New York School, and the Black Mountain poets.</abstract>
+    <langmaterial id="aspace_05073ef77b7aa204d9c8ccb6d1661233">Materials are in English</langmaterial>
+  </did>
+  <bioghist id="aspace_db53010796d0546d33c3b6c870b25eb5">
+    <head>Historical Note</head>
+<p><emph render="italic">Signal: A Quarterly Review</emph> was a literary journal published by the Brownstone Press in New York focusing primarily on poetry.  Three issues were produced between 1963 and 1965.  Many of the authors are notable figures associated with Beat poetry, the New York School, and the Black Mountain poets.  Signal's chief editor was Bret Rohmer and the co-editors were Diane Di Prima and Paul Z. Panish.</p>  </bioghist>
+  <prefercite id="aspace_5150006b6f9681fce2842a93f9da4a70">
+    <head>Preferred Citation</head>
+<p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); <emph render="italic">Signal</emph> Archive; MSS 024; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
-    </prefercite>
-    <accessrestrict id="aspace_ba62876bc9348eab25933bfa2d5f1e7c">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <arrangement id="aspace_f4df574bd1dbd161643b1d64717a267c">
-      <head>Arrangement</head>
-      <p>Corrsepondence from unidentified authors is arranged chronologically; all other correspondence and manuscripts are arranged by the author's last name.</p>
-      <list numeration="arabic" type="ordered">
-        <head>Missing Title</head>
-        <item>Series I: Correspondence</item>
-      </list>
-    </arrangement>
-    <scopecontent id="aspace_1008b428e0b35650e8667aee0d4342aa">
-      <head>Scope and Content note</head>
-      <p>The <emph render="italic">Signal</emph> Archive contains correspondence and manuscripts submitted to the journal's editor, Bret Rohmer.  Notable authors of manuscript submissions include Hart Crane, Diane Di Prima, Kirby Doyle, LeRoi Jones, Ron Loewinsohn, David Meltzer, W.S. Merwin, Frank O'Hara, Joel Oppenheimer, Michael Rumaker, John Thomas, John Wieners, and Paul Zweig.</p>
-    </scopecontent>
-    <userestrict id="aspace_e724d501c5e73fd594935fde40c85715">
-      <head>Use Restrictions</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Poetry |y 20th century |v Periodicals.</subject>
-      <subject source="lcsh">Poetry, Modern -- 20th century.</subject>
-      <subject source="lcsh">American poetry -- 20th century -- Periodicals</subject>
-      <subject source="lcsh">Beat generation.</subject>
-      <subject source="lcsh">Black Mountain school (Group of poets)</subject>
-      <subject source="lcsh">American literature -- 20th century.</subject>
-      <subject source="lcsh">American poetry -- 20th century.</subject>
-      <subject source="lcsh">Small presses -- New York (State) -- New York.</subject>
-      <subject source="local">Downtown writers.</subject>
-      <persname source="naf">Wieners, John, 1934-2002</persname>
-      <persname source="naf">Waring, James</persname>
-      <persname source="naf">Oppenheimer, Joel</persname>
-      <persname source="naf">Crane, Hart, 1899-1932</persname>
-      <persname source="naf">Dawson, Fielding, 1930-2002</persname>
-      <persname source="naf">Rohmer, Bret, 1934-</persname>
-      <persname source="naf">Di Prima, Diane</persname>
-      <persname source="naf">Zweig, Paul</persname>
-      <persname source="naf">Thomas, John, 1930-2002</persname>
-      <persname source="naf">Doyle, Kirby</persname>
-      <persname source="naf">Loewinsohn, Ron</persname>
-      <persname source="naf">Meltzer, David</persname>
-      <persname source="naf">Baraka, Amiri, 1934-2014</persname>
-      <persname source="naf">Merwin, W. S. (William Stanley), 1927-2019</persname>
-      <persname source="naf">O'Hara, Frank, 1926-1966</persname>
-      <persname source="naf">Rumaker, Michael, 1932-</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref1" level="series">
-        <did>
-          <unittitle>Correspondence</unittitle>
-        </did>
-        <scopecontent id="aspace_a0286908d17ef77a47f713bf3c78729c">
-          <head>Scope and Content</head>
-          <p>This series contains correspondence and manuscripts submitted to Bret Rohmer.</p>
-        </scopecontent>
-        <c id="aspace_ref4" level="file">
-          <did>
-            <unittitle>Correspondence from: Unidentified.
-</unittitle>
-            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_c5c6ea1a0c74c7b34aa189e5a801f668" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_323bf76283c5cebce67ebd7cc0fa51ae" parent="aspace_c5c6ea1a0c74c7b34aa189e5a801f668" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref5" level="file">
-          <did>
-            <unittitle>Manuscript: Ashley, L.R.N.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_3861ba4287940733532e9782bdc1deed" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_189e6e0ac2b29b49cfd3829809ff1413" parent="aspace_3861ba4287940733532e9782bdc1deed" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref6" level="file">
-          <did>
-            <unittitle>Manuscript: Basara, Bob.
-</unittitle>
-            <unitdate datechar="creation">1963</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_4bad17cd9ce16a18f93d76793c757d04" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_78554e53cd00af2f34c9c2bce35ef05a" parent="aspace_4bad17cd9ce16a18f93d76793c757d04" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>Manuscript: Crane, Hart.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_6024599a22e9a6d36739e56ae8dd2b3d" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_7017a2f417b49c0669273794a880f959" parent="aspace_6024599a22e9a6d36739e56ae8dd2b3d" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Manuscript: Dawson, Fielding.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_8c0e91686c026838448d3b5f9b36a31b" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_520de374e79558a53fc39d5c8d515d64" parent="aspace_8c0e91686c026838448d3b5f9b36a31b" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Manuscript: Di Prima, Diane.</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_18341468f733d6accd01f201fa01d1a3" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_70aa743377889731f1cd5a0be4bdc3a5" parent="aspace_18341468f733d6accd01f201fa01d1a3" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Manuscript: Doyle, Kirby.
-</unittitle>
-            <unitdate datechar="creation">1963</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_134cb5bcc3e989376bc0fd2d0a74141b" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_8f7d81c8d0faf842d80418b8fd64ff30" parent="aspace_134cb5bcc3e989376bc0fd2d0a74141b" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Manuscript: Insect Trust.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_ad48f953e904e46e69c96527c5e33608" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_4b4818cca65c8796cc3b79328242c5d3" parent="aspace_ad48f953e904e46e69c96527c5e33608" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Manuscript: Irwin, Jed.
-</unittitle>
-            <unitdate datechar="creation">1963</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_0f18b6c9ee3bedea94d45142cdac10c3" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_74712bb8001d40e9644cfe8e21f32809" parent="aspace_0f18b6c9ee3bedea94d45142cdac10c3" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Manuscript: Jonas, Steve.
-</unittitle>
-            <unitdate datechar="creation">1963</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_d6d0834a463ff008b19f396032245927" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_73debb91c582b81c6434af1d872fb099" parent="aspace_d6d0834a463ff008b19f396032245927" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Manuscript: Jones, LeRoi.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_2660c54592df5823080bc82eb7865811" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_f8bebdae11aa8969701b41340d0dcd1a" parent="aspace_2660c54592df5823080bc82eb7865811" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Manuscript: Kleinbard, David J.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_9aa05c7b4fe241bf02c30ebf7b470c7d" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_09a2c7701148723a20b3dbf7eb99cf99" parent="aspace_9aa05c7b4fe241bf02c30ebf7b470c7d" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Manuscript: Lansing, Gerrit.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_bfbb12612c3ef85009fa297893222669" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_8bc65746ef38c8d2ee73eea194f23cf4" parent="aspace_bfbb12612c3ef85009fa297893222669" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Manuscript: Levy, William J.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_1d946068fdc050670b4538f9c118a9a7" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_4956b66da7a5d17c72e0c94fd7765d29" parent="aspace_1d946068fdc050670b4538f9c118a9a7" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Manuscript: Lima, Frank.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_a8c5c802c9a69516763937bd02082ceb" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_8715e93fd0900be355194529219fb85f" parent="aspace_a8c5c802c9a69516763937bd02082ceb" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Manuscript: Loewinsohn, Ron.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_968aa65320fccc0956567818cfa7eec7" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_fa32bedf32220f619001938840f4dc14" parent="aspace_968aa65320fccc0956567818cfa7eec7" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Manuscript: Matson, Clive.
-</unittitle>
-            <unitdate datechar="creation">1963</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_a4563b0da7585809dda62106604e47e7" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_98391b954256b58bbea10ae116950eea" parent="aspace_a4563b0da7585809dda62106604e47e7" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Manuscript: Meltzer, David.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_a1207f5114bca00839496c98df27a523" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_3dff48cdf4f292712fc47881a97e1532" parent="aspace_a1207f5114bca00839496c98df27a523" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Manuscript: Merwin, W.S.
-</unittitle>
-            <unitdate datechar="creation">1963</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_662056f3c805b617cf596ee1b7661ac0" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_4ac1791fe0067b083e5a611010b83403" parent="aspace_662056f3c805b617cf596ee1b7661ac0" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Manuscript: O'Hara, Frank.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_eaa052a3bbed34f8ab0536e60f76b32f" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_16727c2ecad99618ac1ab8b6c60d657c" parent="aspace_eaa052a3bbed34f8ab0536e60f76b32f" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Manuscript: Oppenheimer, Joel.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_d0e0735f9e2c42542ede3f72cb8b12f5" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_4f145331d0b2b872a6003ccb5bf9886b" parent="aspace_d0e0735f9e2c42542ede3f72cb8b12f5" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Manuscript: Parish, Paul Z.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_2c4d81ac1d617278bc4b2421c2961a1a" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_6e435df16a654b1327ffd54359f91551" parent="aspace_2c4d81ac1d617278bc4b2421c2961a1a" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Manuscript: Passage, Charles.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_beedbf24a8335507f79a4c781f059a3d" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_c505640913258f840326165d1a0eea45" parent="aspace_beedbf24a8335507f79a4c781f059a3d" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Manuscript: Rohmer, Bret.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_bb8968ad2b5504249877890e0c5d49d3" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_dc06b5d5fc63f789f416393e4e98dfb7" parent="aspace_bb8968ad2b5504249877890e0c5d49d3" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Manuscript: Rumaker, Michael.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_1f02cc709bbcb889f5a9b211100beed0" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_81518848e1d3dcb4c47561ded6ab932e" parent="aspace_1f02cc709bbcb889f5a9b211100beed0" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Manuscript: Thomas, John.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_bcc7e6a02b56cb6ccb8d95c34d11b369" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_144c50987abaaf48c05910431b935707" parent="aspace_bcc7e6a02b56cb6ccb8d95c34d11b369" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Manuscript: Waring, James.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_c73ddc249952832dd6936e959c7eb856" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_326b4cd5db07fffcaf436bb991669826" parent="aspace_c73ddc249952832dd6936e959c7eb856" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Manuscript: Wieners, John.
-</unittitle>
-            <unitdate datechar="creation">1963</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_5f5a93e4022093a2ee62178843b7e1ed" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_ad9b01b5c910bdaf8208a293da755cfa" parent="aspace_5f5a93e4022093a2ee62178843b7e1ed" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Manuscript: Zuk, Raymond Williams.
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_e21a14d090896f5e2e4b534795063e5b" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_f075b0307e5112663f894194090df78e" parent="aspace_e21a14d090896f5e2e4b534795063e5b" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Manuscript: Zweig, Paul. 
-</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_63ec8108cb5a0c1b96bdb2852296f77a" label="Mixed Materials [31142054900306]" type="Box">1</container>
-            <container id="aspace_713b87084a8e48bc44d57498fd7b05e9" parent="aspace_63ec8108cb5a0c1b96bdb2852296f77a" type="Folder">30</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+Identification of item,  date (if known); <emph render="italic">Signal</emph> Archive; MSS 024; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <accessrestrict id="aspace_ba62876bc9348eab25933bfa2d5f1e7c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <arrangement id="aspace_f4df574bd1dbd161643b1d64717a267c">
+    <head>Arrangement</head>
+<p>Corrsepondence from unidentified authors is arranged chronologically; all other correspondence and manuscripts are arranged by the author's last name.</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Correspondence</item>
+    </list>
+  </arrangement>
+  <scopecontent id="aspace_1008b428e0b35650e8667aee0d4342aa">
+    <head>Scope and Content note</head>
+<p>The <emph render="italic">Signal</emph> Archive contains correspondence and manuscripts submitted to the journal's editor, Bret Rohmer.  Notable authors of manuscript submissions include Hart Crane, Diane Di Prima, Kirby Doyle, LeRoi Jones, Ron Loewinsohn, David Meltzer, W.S. Merwin, Frank O'Hara, Joel Oppenheimer, Michael Rumaker, John Thomas, John Wieners, and Paul Zweig.</p>  </scopecontent>
+  <userestrict id="aspace_e724d501c5e73fd594935fde40c85715">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Poetry |y 20th century |v Periodicals.</subject>
+    <subject source="lcsh">Poetry, Modern -- 20th century.</subject>
+    <subject source="lcsh">American poetry -- 20th century -- Periodicals</subject>
+    <subject source="lcsh">Beat generation.</subject>
+    <subject source="lcsh">Black Mountain school (Group of poets)</subject>
+    <subject source="lcsh">American literature -- 20th century.</subject>
+    <subject source="lcsh">American poetry -- 20th century.</subject>
+    <subject source="lcsh">Small presses -- New York (State) -- New York.</subject>
+    <subject source="local">Downtown writers.</subject>
+    <persname source="naf">Wieners, John, 1934-2002</persname>
+    <persname source="naf">Waring, James</persname>
+    <persname source="naf">Oppenheimer, Joel</persname>
+    <persname source="naf">Crane, Hart, 1899-1932</persname>
+    <persname source="naf">Dawson, Fielding, 1930-2002</persname>
+    <persname source="naf">Rohmer, Bret, 1934-</persname>
+    <persname source="naf">Di Prima, Diane</persname>
+    <persname source="naf">Zweig, Paul</persname>
+    <persname source="naf">Thomas, John, 1930-2002</persname>
+    <persname source="naf">Doyle, Kirby</persname>
+    <persname source="naf">Loewinsohn, Ron</persname>
+    <persname source="naf">Meltzer, David</persname>
+    <persname source="naf">Baraka, Amiri, 1934-2014</persname>
+    <persname source="naf">Merwin, W. S. (William Stanley), 1927-2019</persname>
+    <persname source="naf">O'Hara, Frank, 1926-1966</persname>
+    <persname source="naf">Rumaker, Michael, 1932-</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent id="aspace_a0286908d17ef77a47f713bf3c78729c"><head>Scope and Content</head><p>This series contains correspondence and manuscripts submitted to Bret Rohmer.</p></scopecontent><c id="aspace_ref4" level="file"><did><unittitle>Correspondence from: Unidentified.
+</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_befabe4ac4fa32dfb73959f8c5c6cfb2" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_630632ca9d24a1059b6324d583a0b732" parent="aspace_befabe4ac4fa32dfb73959f8c5c6cfb2" type="Folder">1</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Manuscript: Ashley, L.R.N.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d94ec9c37ab8bcdd05e224ec8eb95f61" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_7bfe99a526599e781e14c2771bf1ec0a" parent="aspace_d94ec9c37ab8bcdd05e224ec8eb95f61" type="Folder">2</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Manuscript: Basara, Bob.
+</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_77c2d24c73af11b43b7ed1df9f85bcb2" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_451de733c3efa0e8aa1deba80c85e362" parent="aspace_77c2d24c73af11b43b7ed1df9f85bcb2" type="Folder">3</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Manuscript: Crane, Hart.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_dd8456e2b99d7ee51ece85c7a73e5de9" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_216a8cfb6dfec334269a645b9ab42cf0" parent="aspace_dd8456e2b99d7ee51ece85c7a73e5de9" type="Folder">4</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Manuscript: Dawson, Fielding.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_3df6757eace54311b6e8c2f0d4485ba7" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_1056456618a99ed84a8bac533654835f" parent="aspace_3df6757eace54311b6e8c2f0d4485ba7" type="Folder">5</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Manuscript: Di Prima, Diane.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_840e4a5d06b377c8cd834fccc72a014c" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_9a7760fc17364de4ae296c47c52110fc" parent="aspace_840e4a5d06b377c8cd834fccc72a014c" type="Folder">6</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Manuscript: Doyle, Kirby.
+</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_a3821bc5736565b4eb6aac7f2a8e81e7" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_81fce03a122a0cc6c9513884ef46f0ac" parent="aspace_a3821bc5736565b4eb6aac7f2a8e81e7" type="Folder">7</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Manuscript: Insect Trust.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e24d57b6120c58ccd81a7d557aa3d0f7" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_fbefae8c9cca2ea33f81183b71e19f0c" parent="aspace_e24d57b6120c58ccd81a7d557aa3d0f7" type="Folder">8</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Manuscript: Irwin, Jed.
+</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_c18d2af624c6ac31b395678c3ba97015" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_283af8e41d543f09effaedc68af3a93b" parent="aspace_c18d2af624c6ac31b395678c3ba97015" type="Folder">9</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Manuscript: Jonas, Steve.
+</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_f8cbeead651471a26b0998cb55d69f36" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_894b4978077bbac0b910bbfbd25d9ee8" parent="aspace_f8cbeead651471a26b0998cb55d69f36" type="Folder">10</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Manuscript: Jones, LeRoi.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_9c4a95ca62fd4c3f789c3484af0a12fd" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_8c789dd60d290fbb907ede9c0789f0c1" parent="aspace_9c4a95ca62fd4c3f789c3484af0a12fd" type="Folder">11</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Manuscript: Kleinbard, David J.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d3e56a1ed6647dc068fd0ab944a503d0" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_da9b873de33ffebb6a4b5fa1b8672afb" parent="aspace_d3e56a1ed6647dc068fd0ab944a503d0" type="Folder">12</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Manuscript: Lansing, Gerrit.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d834f13281293b5e2b51939f8555cde4" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_95046477532c4ed8b6f76c1197434432" parent="aspace_d834f13281293b5e2b51939f8555cde4" type="Folder">13</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Manuscript: Levy, William J.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_93ead2b69bd2700b6773405ef1b03f3c" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_54dc0647f366727808ad11386354fa3f" parent="aspace_93ead2b69bd2700b6773405ef1b03f3c" type="Folder">14</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Manuscript: Lima, Frank.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4686a55c7ba3f80ecb7633399ca59da1" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_bf13eccb98d7a6d9585503a8d78a0926" parent="aspace_4686a55c7ba3f80ecb7633399ca59da1" type="Folder">15</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Manuscript: Loewinsohn, Ron.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_fa4d443ec4f43b6dc2a6cb514d6c5b53" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_e09cd946e20011366a7ab21c7c63a24b" parent="aspace_fa4d443ec4f43b6dc2a6cb514d6c5b53" type="Folder">16</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Manuscript: Matson, Clive.
+</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_75bd2afe3bf60104a5c462ced0526067" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_7aad64d82c35d4411154368f0aa25786" parent="aspace_75bd2afe3bf60104a5c462ced0526067" type="Folder">17</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Manuscript: Meltzer, David.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_581c7ef0e28668b2b34abb780f297c03" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_d43a0f4723b58ba248d93a0d20f316da" parent="aspace_581c7ef0e28668b2b34abb780f297c03" type="Folder">18</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Manuscript: Merwin, W.S.
+</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_bee09aa2e5565d2792110c977934a519" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_109fcb9b90f251e3e34b2de4e8312bc1" parent="aspace_bee09aa2e5565d2792110c977934a519" type="Folder">19</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Manuscript: O'Hara, Frank.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_8789daee6254ae31df4b4f058a551f5a" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_9ed10c11396f60a4066a8e1644b14f1e" parent="aspace_8789daee6254ae31df4b4f058a551f5a" type="Folder">20</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Manuscript: Oppenheimer, Joel.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_27d312da87a980438b39f734f8e1b10a" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_042cf1d6ae6d20620adae61c2fa6aacd" parent="aspace_27d312da87a980438b39f734f8e1b10a" type="Folder">21</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Manuscript: Parish, Paul Z.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_914bb852d3a802336c894469569ebbb2" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_21c055da7aa7cb75e2e37b62004382ff" parent="aspace_914bb852d3a802336c894469569ebbb2" type="Folder">22</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Manuscript: Passage, Charles.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_af0f04a9a22dc835d18e895917ce77d8" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_2d8c266419f09c3de0413f101a29bc0c" parent="aspace_af0f04a9a22dc835d18e895917ce77d8" type="Folder">23</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Manuscript: Rohmer, Bret.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_694fba5e783d4c4cdd1de59fee16d0b5" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_1d862012692f6e0a27d0dd75147783f7" parent="aspace_694fba5e783d4c4cdd1de59fee16d0b5" type="Folder">24</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Manuscript: Rumaker, Michael.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d2563d6238233f1dbca3ef2134c1db2a" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_2715f6d8c1d44e8105799283370d367a" parent="aspace_d2563d6238233f1dbca3ef2134c1db2a" type="Folder">25</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Manuscript: Thomas, John.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_c06078b3e411fbf8eff7009dc5e1e0a0" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_4adce912c9f831043d24d7ab9decf137" parent="aspace_c06078b3e411fbf8eff7009dc5e1e0a0" type="Folder">26</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Manuscript: Waring, James.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_ddab43eadf321ad8553903131d43b517" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_ca4ef782965472134560be0cb5c41553" parent="aspace_ddab43eadf321ad8553903131d43b517" type="Folder">27</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Manuscript: Wieners, John.
+</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e2f739a2b7634a69a28bfdff191e53be" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_3d9b3f421ba01d6c9b90ed6d049254e7" parent="aspace_e2f739a2b7634a69a28bfdff191e53be" type="Folder">28</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Manuscript: Zuk, Raymond Williams.
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1c41fb43a9425b130c6c8e6b9bc7f872" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_2035589c0aedad5d91f27e5a75c84a8a" parent="aspace_1c41fb43a9425b130c6c8e6b9bc7f872" type="Folder">29</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Manuscript: Zweig, Paul. 
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_6207f3ee1f41e6f1d7f0965594cb7112" label="Mixed Materials [31142054900306]" type="Box">1</container><container id="aspace_338bd950b39beb92e664b76cdf43de35" parent="aspace_6207f3ee1f41e6f1d7f0965594cb7112" type="Folder">30</container></did></c></c></dsc>
+</archdesc>
 </ead>

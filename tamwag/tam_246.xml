@@ -1,308 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_246">tam_246</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the American Veterans for Peace Records <num>TAM.246</num></titleproper>
-        <author>Tamiment staff</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from AVP Guide.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:40:12 -0500</date>.</creation>
-      <langusage>Finding aid is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>American Veterans for Peace Records</unittitle>
-      <origination label="Creator">
-        <corpname source="local">American Veterans for Peace</corpname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Turkel, Stanley</persname>
-      </origination>
-      <unitid>TAM.246</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-        <extent altrender="carrier">in 1 manuscript box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1945/1957" type="inclusive">1945-1957</unitdate>
-      <unitdate datechar="creation" normal="1951/1955" type="bulk">1951-1955</unitdate>
-      <abstract id="aspace_6d854c0fd5e0f1c67276d45ca6014742">American Veterans for Peace (AVP) was founded in 1951 to oppose American participation in the Korean War. The AVP opposed militarism and supported improved Soviet relations and a progressive social agenda. The group published <title render="italic">Progressive Veteran</title> (later <title render="italic">Vet's Voice</title>). The collection includes correspondence, ephemera, internal documents, petitions, public statements, and newsletters created by the AVP and other progressive organizations.</abstract>
-      <langmaterial id="aspace_ed1f99981a48142502380677986031a4">Materials are in English</langmaterial>
-    </did>
-    <accessrestrict id="aspace_f69071ee7de2a3a8405cdfbfa5d01918">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_c6bd916c86eece94bdba34437861d429">
-      <head>Immediate Source of Acquisition</head>
-      <p>Materials donated by Stanley Turkel in 2001. The accession numbers associated with this gift are 2001.081, 2002.013, NPA.2002.048, and NPA.2005.037.</p>
-    </acqinfo>
-    <arrangement id="aspace_eea55d4a70b3f28b215c916ed0cd608d">
-      <head>Arrangement</head>
-      <p>Folders are arranged alphabetically.</p>
-    </arrangement>
-    <bioghist id="aspace_67876cd54c05fb6acbde026baaeedf57">
-      <head>Historical/Biographical Note</head>
-      <p>American Veterans for Peace (AVP), officially founded in June 1951, was the result of a Communist Party-oriented initiative in the months following the outbreak of the Korean War that inspired the founding of several local Veterans for Peace organizations. The AVP published a monthly newsletter, first titled <title render="italic">Progressive Veteran</title> and then renamed <title render="italic">Vet's Voice</title> in 1950. While its main purpose was to oppose American participation in the Korean War, AVP also opposed militarism and supported improved relations with the Soviet Union and a progressive social agenda. Norman Wagner and Paul Green served as co-chairs of the New York chapter of AVP.</p>
-    </bioghist>
-    <prefercite id="aspace_2183af51e07242086a25381c1a8bcf26">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form:</p>
-      <p>Identification of item, date; American Veterans for Peace Records; TAM 246; Box number; Folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_e018c88879a8402967c5ac0076c07778">
-      <head>Processing Information</head>
-      <p>Photographs separated from this collection during processing were established as a separate collection, the American Veterans for Peace Photographs (PHOTOS 123). In 2013, the photograph collection was reincorporated into the American Veterans for Peace Records (TAM 246).</p>
-    </processinfo>
-    <relatedmaterial id="aspace_169915629820bd8b5ac1b2f3c16302b5">
-      <head>Related Archival Materials at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>American Veterans Committee: FOIA Files (TAM 213)</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_cefcb0b96bc6de0f9eb4d41a925c7f58">
-      <head>Scope and Content Note</head>
-      <p>The collection contains correspondence, primarily between New York chapter co-chairs Paul Green and Norman Wagner, as well as ephemera, internal documents, and petitions and public statements. It also includes AVP newsletters and the newsletters of other progressive organizations, including foreign veterans' organizations. There are files on two annual AVP events: Elbe River Day, commemorating the meeting of American and Soviet troops in 1945, and AVP's art show (the file includes several photographs). Other materials document the campaign against the 1951 film <title render="italic">Desert Fox</title>; the U.S. Post Office's suppression of <title render="italic">Vet's Voice</title>; the activities of an allied organization, the American Women for Peace (including copies of two issues of its monthly newsletter, <title render="italic">The Peacemaker</title>); and the activities of the Australian Legion of Ex-Servicemen and Women.</p>
-    </scopecontent>
-    <userestrict id="aspace_c702d1324d151fcb9363efaa56b17c32">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Stanley Turkel was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Korean War, 1950-1953 |x Veterans |z United States.</subject>
-      <subject source="lcsh">Communism -- United States.</subject>
-      <genreform source="aat">Petitions.</genreform>
-      <subject source="lcsh">Veterans |z United States |x Political activity |y 1945-1960.</subject>
-      <genreform source="aat">Photographs.</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <persname source="local">Wagner, Norman</persname>
-      <persname source="naf">Green, Paul, 1894-1981</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_246">tam_246</eadid><filedesc><titlestmt><titleproper>Guide to the American Veterans for Peace Records <num>TAM.246</num></titleproper><author>Tamiment staff</author></titlestmt><editionstmt><p>This version was derived from AVP Guide.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:10:39 -0500</date>.</creation><langusage>Finding aid is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>American Veterans for Peace Records</unittitle>
+    <origination label="Creator">
       <corpname source="local">American Veterans for Peace</corpname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Turkel, Stanley</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>American Labor Party</unittitle>
-          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a97ec33f290e605aad3e05712da31570" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_897375dccf61260d7d427dc11c09cfff" parent="aspace_a97ec33f290e605aad3e05712da31570" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>American Legion. Duncan-Paris Post</unittitle>
-          <unitdate datechar="creation" normal="1950/1953" type="inclusive">1950-1953</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8e9d71a63a46d47f0e3aaf5c46879cbb" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_b843a2bf5ee1ee434656354b0b97452b" parent="aspace_8e9d71a63a46d47f0e3aaf5c46879cbb" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>American Peace Crusade</unittitle>
-          <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_709c8816687b3b83711e303f7e3de7e1" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_25e6d47c2c3433791f23886497006222" parent="aspace_709c8816687b3b83711e303f7e3de7e1" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>American Veterans Committee</unittitle>
-          <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_be6480712bdd949e98a2ebfa4a3dac01" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_d9a8692c64756583279b00c6f793a4f7" parent="aspace_be6480712bdd949e98a2ebfa4a3dac01" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>American Veterans for Peace: National</unittitle>
-          <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_83ce9b596c01eacc782470f7595986dd" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_c7fbdb9528fd29da7c21f15f209ed03c" parent="aspace_83ce9b596c01eacc782470f7595986dd" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>American Veterans for Peace: Origins</unittitle>
-          <unitdate datechar="creation" normal="1950/1953" type="inclusive">1950-1953</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_d4c971f5500d42f04facdc6ba694db44" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_0a762423e63862302a5283d28edf1c39" parent="aspace_d4c971f5500d42f04facdc6ba694db44" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>American Women for Peace</unittitle>
-          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0630c7d2fb3d540a5226f8bfdf629d59" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_677bcc151a366791bf7802d1f5883688" parent="aspace_0630c7d2fb3d540a5226f8bfdf629d59" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>Art Shows</unittitle>
-          <unitdate datechar="creation" normal="1952/1954" type="inclusive">1952-1954</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f377982a88f7d88cae2ef594aae44e44" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_a57b79e21dbe3d2f3f7e036021f60a0e" parent="aspace_f377982a88f7d88cae2ef594aae44e44" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Australian Legion of Ex-Servicemen and Women</unittitle>
-          <unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_83f1968c934e789a1abad23a1b8cc4ca" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_734ef36aa50099bf7aae7a58c5522610" parent="aspace_83f1968c934e789a1abad23a1b8cc4ca" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Correspondence: Foreign and United Nations</unittitle>
-          <unitdate datechar="creation" normal="1951/1954" type="inclusive">1951-1954</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_00fc99665ef72bd4cdb33578d93febdf" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_07937f8f0d13433444104b000a17d5dc" parent="aspace_00fc99665ef72bd4cdb33578d93febdf" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>Correspondence: Outgoing</unittitle>
-          <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_2470c895befdba6e32ee36c3312ce249" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_3c0a95a5386a6b8e0ce3ed41cf95a514" parent="aspace_2470c895befdba6e32ee36c3312ce249" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>Correspondence: Received</unittitle>
-          <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ae2ad480dacc195321a7e57c57e3e498" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_b5b05a66ac555ee1ee6ceac2ecb4f7c0" parent="aspace_ae2ad480dacc195321a7e57c57e3e498" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref25" level="file">
-        <did>
-          <unittitle><emph render="italic">Desert Fox</emph> (movie) Campaign</unittitle>
-          <unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_30217b5bb37ccb485657064f2495fb44" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_bb2f70cf3279da32036d69dd257f3454" parent="aspace_30217b5bb37ccb485657064f2495fb44" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle>Elbe River Day</unittitle>
-          <unitdate datechar="creation" normal="1945/1955" type="inclusive">1945-1955</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_24ae5602c533c8d9e96db44260c896db" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_ebee417cf87c5a6325e2716f27e5f65e" parent="aspace_24ae5602c533c8d9e96db44260c896db" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle>Freedom's War Gum</unittitle>
-          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_2dbaef33dabd4de863640fbad0acb4b5" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_5b096f826b1a1c0e2333a439cf86dfdb" parent="aspace_2dbaef33dabd4de863640fbad0acb4b5" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle>Housing</unittitle>
-          <unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a45ea66272c603ebcea1265765495f44" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_85656cdefcaed869acddafaaccf5fe23" parent="aspace_a45ea66272c603ebcea1265765495f44" type="Folder">16</container>
-        </did>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle>Korean Veterans</unittitle>
-          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_741dc5ff02d57b8d94f1c50857d4abae" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_2b7344a9aa07a5265c7422db1324e00e" parent="aspace_741dc5ff02d57b8d94f1c50857d4abae" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_ref30" level="file">
-        <did>
-          <unittitle>Leaflets: Miscellaneous</unittitle>
-          <unitdate datechar="creation" normal="1950/1954" type="inclusive">1950-1954</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_e523ac59d787774d92bea91e8ba9096b" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_283a17da4784574c5d8425010d1bae72" parent="aspace_e523ac59d787774d92bea91e8ba9096b" type="Folder">18</container>
-        </did>
-      </c>
-      <c id="aspace_ref31" level="file">
-        <did>
-          <unittitle>New York Peace Institute</unittitle>
-          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_458620503bcb6f09d896831929731aea" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_2a5ba29c621f19f0d51a1aa672cf0022" parent="aspace_458620503bcb6f09d896831929731aea" type="Folder">19</container>
-        </did>
-      </c>
-      <c id="aspace_ref32" level="file">
-        <did>
-          <unittitle>New York Veterans for Peace</unittitle>
-          <unitdate datechar="creation" normal="1951/1955" type="inclusive">1951-1955</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_db94fcdc6fcadc826379dc5c5416a9cb" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_bbaaba700c4dcc94393fd8b727f8ff7c" parent="aspace_db94fcdc6fcadc826379dc5c5416a9cb" type="Folder">20</container>
-        </did>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>New York Veterans for Peace: Leaflets</unittitle>
-          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0c040196aaec15bc60106107a26d66e7" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_15d366321afe97a8e79ed231e00dfae1" parent="aspace_0c040196aaec15bc60106107a26d66e7" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_ref34" level="file">
-        <did>
-          <unittitle>Petitions</unittitle>
-          <unitdate datechar="creation" normal="1945/1957" type="inclusive">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_53b042b9f3be3b14d30297d16cd20cb1" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_dcf3f354edce3c24e14c7ccf6a1c3b99" parent="aspace_53b042b9f3be3b14d30297d16cd20cb1" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>Society for the Prevention of World War III</unittitle>
-          <unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_474573524e9419812433b59c0546fb86" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_18cdfce8c06ba58cc2d8a34c851b4617" parent="aspace_474573524e9419812433b59c0546fb86" type="Folder">23</container>
-        </did>
-      </c>
-      <c id="aspace_ref36" level="file">
-        <did>
-          <unittitle>Veterans' Organizations: Other</unittitle>
-          <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c02435f68cabbd7cc9a34216dd995717" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_8ce6b123be28341cd95940a61e3735c3" parent="aspace_c02435f68cabbd7cc9a34216dd995717" type="Folder">24</container>
-        </did>
-      </c>
-      <c id="aspace_ref37" level="file">
-        <did>
-          <unittitle><emph render="italic">Vet's Voice</emph>: Suppression of</unittitle>
-          <unitdate datechar="creation" normal="1953/1957" type="inclusive">1953-1957</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_026ba0aed16411aef257b41cf9eb32d5" label="Mixed Materials [31142062764090]" type="Box">1</container>
-          <container id="aspace_9897861e4a76ac6c7a692baf55c891aa" parent="aspace_026ba0aed16411aef257b41cf9eb32d5" type="Folder">25</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.246</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1945/1957" type="inclusive">1945-1957</unitdate>
+    <unitdate datechar="creation" normal="1951/1955" type="bulk">1951-1955</unitdate>
+    <abstract id="aspace_6d854c0fd5e0f1c67276d45ca6014742" label="Abstract">American Veterans for Peace (AVP) was founded in 1951 to oppose American participation in the Korean War. The AVP opposed militarism and supported improved Soviet relations and a progressive social agenda. The group published <title render="italic">Progressive Veteran</title> (later <title render="italic">Vet's Voice</title>). The collection includes correspondence, ephemera, internal documents, petitions, public statements, and newsletters created by the AVP and other progressive organizations.</abstract>
+    <langmaterial id="aspace_ed1f99981a48142502380677986031a4">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_f69071ee7de2a3a8405cdfbfa5d01918">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_c6bd916c86eece94bdba34437861d429">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials donated by Stanley Turkel in 2001. The accession numbers associated with this gift are 2001.081, 2002.013, NPA.2002.048, and NPA.2005.037.</p>  </acqinfo>
+  <arrangement id="aspace_eea55d4a70b3f28b215c916ed0cd608d">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically.</p>  </arrangement>
+  <bioghist id="aspace_67876cd54c05fb6acbde026baaeedf57">
+    <head>Historical/Biographical Note</head>
+<p>American Veterans for Peace (AVP), officially founded in June 1951, was the result of a Communist Party-oriented initiative in the months following the outbreak of the Korean War that inspired the founding of several local Veterans for Peace organizations. The AVP published a monthly newsletter, first titled <title render="italic">Progressive Veteran</title> and then renamed <title render="italic">Vet's Voice</title> in 1950. While its main purpose was to oppose American participation in the Korean War, AVP also opposed militarism and supported improved relations with the Soviet Union and a progressive social agenda. Norman Wagner and Paul Green served as co-chairs of the New York chapter of AVP.</p>  </bioghist>
+  <prefercite id="aspace_2183af51e07242086a25381c1a8bcf26">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form:</p><p>Identification of item, date; American Veterans for Peace Records; TAM 246; Box number; Folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_e018c88879a8402967c5ac0076c07778">
+    <head>Processing Information</head>
+<p>Photographs separated from this collection during processing were established as a separate collection, the American Veterans for Peace Photographs (PHOTOS 123). In 2013, the photograph collection was reincorporated into the American Veterans for Peace Records (TAM 246).</p>  </processinfo>
+  <relatedmaterial id="aspace_169915629820bd8b5ac1b2f3c16302b5">
+    <head>Related Archival Materials at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>American Veterans Committee: FOIA Files (TAM 213)</p>  </relatedmaterial>
+  <scopecontent id="aspace_cefcb0b96bc6de0f9eb4d41a925c7f58">
+    <head>Scope and Content Note</head>
+<p>The collection contains correspondence, primarily between New York chapter co-chairs Paul Green and Norman Wagner, as well as ephemera, internal documents, and petitions and public statements. It also includes AVP newsletters and the newsletters of other progressive organizations, including foreign veterans' organizations. There are files on two annual AVP events: Elbe River Day, commemorating the meeting of American and Soviet troops in 1945, and AVP's art show (the file includes several photographs). Other materials document the campaign against the 1951 film <title render="italic">Desert Fox</title>; the U.S. Post Office's suppression of <title render="italic">Vet's Voice</title>; the activities of an allied organization, the American Women for Peace (including copies of two issues of its monthly newsletter, <title render="italic">The Peacemaker</title>); and the activities of the Australian Legion of Ex-Servicemen and Women.</p>  </scopecontent>
+  <userestrict id="aspace_c702d1324d151fcb9363efaa56b17c32">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Stanley Turkel was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Korean War, 1950-1953 -- Veterans -- United States</subject>
+    <subject source="lcsh">Communism -- United States.</subject>
+    <genreform source="aat">Petitions.</genreform>
+    <subject source="lcsh">Veterans |z United States |x Political activity |y 1945-1960.</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <persname source="local">Wagner, Norman</persname>
+    <persname source="naf">Green, Paul, 1894-1981</persname>
+    <corpname source="local">American Veterans for Peace</corpname>
+    <persname role="dnr" rules="dacs" source="local">Turkel, Stanley</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="file"><did><unittitle>American Labor Party</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_d653a7a9b119f1749e38fcf62c084eff" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_5bf0765cc697a370bb52fc42f70a8550" parent="aspace_d653a7a9b119f1749e38fcf62c084eff" type="Folder">1</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>American Legion. Duncan-Paris Post</unittitle><unitdate datechar="creation" normal="1950/1953" type="inclusive">1950-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_aaf155ba0d84ef7c797cb0539b08ffb0" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_0b1b2ab2001597792d7917152a508a20" parent="aspace_aaf155ba0d84ef7c797cb0539b08ffb0" type="Folder">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>American Peace Crusade</unittitle><unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_e1efbaf24eb1cec4b46883083f96a546" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_51145bcb1443dd48372e53ab3b959759" parent="aspace_e1efbaf24eb1cec4b46883083f96a546" type="Folder">3</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>American Veterans Committee</unittitle><unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_a410f16e1c0b7d0e73389a796559ce18" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_5b45eaca855c8481042fdbb444382f18" parent="aspace_a410f16e1c0b7d0e73389a796559ce18" type="Folder">4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>American Veterans for Peace: National</unittitle><unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_fe5e65e4f29730e60b9bf963e96ea2fd" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_0fc766d7bd79fadd0972db7bd7beab9c" parent="aspace_fe5e65e4f29730e60b9bf963e96ea2fd" type="Folder">5</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>American Veterans for Peace: Origins</unittitle><unitdate datechar="creation" normal="1950/1953" type="inclusive">1950-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_aa969fa2b458a8e59d546262458b4163" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_d62bdcc813d092cd36d6a0480d231128" parent="aspace_aa969fa2b458a8e59d546262458b4163" type="Folder">6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>American Women for Peace</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_f9f5a71ae68c1cf4753e71fdc6003582" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_bee98d0d788ce7bb4c150e0ccd21e4df" parent="aspace_f9f5a71ae68c1cf4753e71fdc6003582" type="Folder">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Art Shows</unittitle><unitdate datechar="creation" normal="1952/1954" type="inclusive">1952-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_29e6a624459031777d3de49c4e2b14de" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_2ae63d155cdbd6bcb2ffdf2335e39889" parent="aspace_29e6a624459031777d3de49c4e2b14de" type="Folder">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Australian Legion of Ex-Servicemen and Women</unittitle><unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_e1eebbcb12df9b3e986f051df1225f7b" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_b3987bb1356f89f61cc12f04777d9da7" parent="aspace_e1eebbcb12df9b3e986f051df1225f7b" type="Folder">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence: Foreign and United Nations</unittitle><unitdate datechar="creation" normal="1951/1954" type="inclusive">1951-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b1986b20109eee84f83956c92bfb3e3" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_58fdc681b2419a8568a2587d87673af9" parent="aspace_0b1986b20109eee84f83956c92bfb3e3" type="Folder">10</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence: Outgoing</unittitle><unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_27f1f08b2f7442ced3af92c4d512a3e6" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_f9e89f0020d26404ded18d4c1266318b" parent="aspace_27f1f08b2f7442ced3af92c4d512a3e6" type="Folder">11</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence: Received</unittitle><unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_87d65753bad32f447d4859a8169ca4ec" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_2015f3195125e6ad0c396c8417f685a1" parent="aspace_87d65753bad32f447d4859a8169ca4ec" type="Folder">12</container></did></c><c id="aspace_ref25" level="file"><did><unittitle><emph render="italic">Desert Fox</emph> (movie) Campaign</unittitle><unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_14e8a7aca0b51847e6dbd3cd9c45abc4" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_624f73955cb1df3b041aa20e2bd24416" parent="aspace_14e8a7aca0b51847e6dbd3cd9c45abc4" type="Folder">13</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Elbe River Day</unittitle><unitdate datechar="creation" normal="1945/1955" type="inclusive">1945-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_544fba69f6a3f6cd09d0e4bb96a8c20e" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_898970868025c2758f87531cbc722b42" parent="aspace_544fba69f6a3f6cd09d0e4bb96a8c20e" type="Folder">14</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Freedom's War Gum</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_c1244950dd110e9a8b360cb72d1ccb3e" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_9a750ff9fd7c13e6486e197149af9ccc" parent="aspace_c1244950dd110e9a8b360cb72d1ccb3e" type="Folder">15</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Housing</unittitle><unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_02718191d50a8610797ac81a93fd5cd0" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_edde4b681d088dedd568ceaaf690a4d4" parent="aspace_02718191d50a8610797ac81a93fd5cd0" type="Folder">16</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Korean Veterans</unittitle><unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_cec53b6ed0d922a84db0c38203b4e3b0" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_a453785afbe2dcfef85dd3422362a4c5" parent="aspace_cec53b6ed0d922a84db0c38203b4e3b0" type="Folder">17</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Leaflets: Miscellaneous</unittitle><unitdate datechar="creation" normal="1950/1954" type="inclusive">1950-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_d5fb1dce8d329b3948c52bf2bef45d1f" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_a758ad7c28026b61934a4bdf27c11814" parent="aspace_d5fb1dce8d329b3948c52bf2bef45d1f" type="Folder">18</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>New York Peace Institute</unittitle><unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_4d26c5d816c9c11991b9b8dee722a9fb" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_27ee79741d361e2e39bb2ed2ca5743fa" parent="aspace_4d26c5d816c9c11991b9b8dee722a9fb" type="Folder">19</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>New York Veterans for Peace</unittitle><unitdate datechar="creation" normal="1951/1955" type="inclusive">1951-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_91880a12a07747adfcb101f855b8d8ca" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_b4feeb297e213d6f43d0915e24697901" parent="aspace_91880a12a07747adfcb101f855b8d8ca" type="Folder">20</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>New York Veterans for Peace: Leaflets</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0be457f32697b5943a2c68eddc64054" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_aadc8f55be1b5027362863b0e05ed0ef" parent="aspace_d0be457f32697b5943a2c68eddc64054" type="Folder">21</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Petitions</unittitle><unitdate datechar="creation" normal="1945/1957" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0a5aea7249909ca22885f50aeb778bd6" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_21b53fe60e702bf9cc9845163a28d2aa" parent="aspace_0a5aea7249909ca22885f50aeb778bd6" type="Folder">22</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Society for the Prevention of World War III</unittitle><unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_84d3e8ba13cb745725703280331189d8" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_ddea76dc7a84a5128e83760f39364cb8" parent="aspace_84d3e8ba13cb745725703280331189d8" type="Folder">23</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Veterans' Organizations: Other</unittitle><unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_7bebfbb5ee146921ff1013e92ab5a808" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_e8ce16ec7fe5ba5365e3d51f82531c5a" parent="aspace_7bebfbb5ee146921ff1013e92ab5a808" type="Folder">24</container></did></c><c id="aspace_ref37" level="file"><did><unittitle><emph render="italic">Vet's Voice</emph>: Suppression of</unittitle><unitdate datechar="creation" normal="1953/1957" type="inclusive">1953-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_bddf81dd4fd21bf34cc372d39c8815df" label="Mixed Materials [31142062764090]" type="Box">1</container><container id="aspace_d7c74663d78d56bbadd99dae0668167e" parent="aspace_bddf81dd4fd21bf34cc372d39c8815df" type="Folder">25</container></did></c></dsc>
+</archdesc>
 </ead>

@@ -1,344 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_025">tam_025</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the John Lyons Papers <num>TAM.025</num></titleproper>
-        <author>Tamiment staff, 2008</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from Lyons, John.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:56:37 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>John Lyons Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Lyons, John, 1881-1957</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Lyons, Mildred</persname>
-      </origination>
-      <unitid>TAM.025</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1905/1960" type="inclusive">1905-1960</unitdate>
-      <abstract id="aspace_75aad86c9e93ad55d9469a33a611a8b1">John Lyons (1881-1957), socialist and labor leader, was a co-founder of the Rand School, and the Executive Secretary of the National Association of Retail Tailors, Cleaners and Dyers (NART), a National Recovery Act labor-management trade association. The collection contains correspondence relating to NART and related organizations, collective labor agreements for New York City locals of the Laundry Workers International Union, the 1906 minutes of the Daily Call Fair Committee, which organized a fair, presumably to raise funds for the 1908 launching of the <emph render="italic">New York Call</emph>, a socialist daily newspaper, material on Workmen's Circle/Arbeter Ring Branch 400 E, correspondence and other materials relating to the Reunion of Old Timers, an association of veteran members of the labor movement, correspondence and notes from Lyons' radio program on WEVD, correspondence relating to public programs sponsored by the Tamiment Institute, correspondence with the Liberal Party of New York State and the Socialist Party-Social Democratic Federation, and newspaper clippings by Lyons or relating to his political interests.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <acqinfo id="aspace_fc129d307fed2b5a4d7932ec187e1a11">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Mildred Lyons, widow of John Lyons, in 1957. The collection was transferred to New York University with the rest of the manuscript collections in the Tamiment Institute Library in 1963. The accession number 1963.004 is associated with this collection.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_2b3229d7db3e1ba7182cefe37736d9b0">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <bioghist id="aspace_cda9598fabf200d135cbeb609919cb49">
-      <head>Historical/Biographical Note</head>
-      <p>John Lyons (1881-1957), socialist and labor leader, was a co-founder of the Rand School, director of the Social Democratic Radio Forum on station WEVD, the New York radio station that had been established by the Socialist Party, a Socialist Party candidate for the New York State Legislature several times during the 1920s, and manager of the Zetex Corporation, a branch of the American Car and Foundry Company. Lyons was executive secretary of Branch 400 of the Workmen's Circle/Arbeter Ring, a Jewish fraternal organization then associated with the socialist movement, an organizer of the International Brotherhood of Pulp, Sulphite and Paper Mill Workers, chairman of the stabilization and control board of the Cleaners and Dryers of New York and assistant regional director of the Textile Workers Organizing Committee of New Jersey. In the mid-1930s, Lyons was the Executive Secretary of the National Association of Retail Tailors, Cleaners and Dyers, a National Recovery Act labor-management trade association.</p>
-    </bioghist>
-    <scopecontent id="aspace_bde00c8d82ab6e97f0834419015c25bc">
-      <head>Scope and Content Note</head>
-      <p>The collection contains correspondence relating to the National Association of Retail Tailors, Cleaners and Dyers, the American Business Congress, the Independent Associated Service Industries, and the Service Trade League of New York, as well as collective labor agreements for New York City locals of the Laundry Workers International Union. Notable are the 1906 minutes of the Daily Call Fair Committee, which organized a fair, presumably to raise funds for the eventual 1908 launching of the <emph render="italic">New York Call</emph>, a socialist daily newspaper. In addition to minutes of Workmen's Circle/Arbeter Ring Branch 400 E, there is some correspondence and other material relating to the Reunion of Old Timers, an association of veteran members of the labor and social democratic movements; correspondence and notes from Lyon's radio program on WEVD; correspondence relating to public programs sponsored by the Tamiment Institute; correspondence with the Liberal Party of New York State and the Socialist Party-Social Democratic Federation; newspaper clippings by Lyons, including "Arrow Points," his column in <emph render="italic">The Social Democrat</emph>and clippings relating to his political interests.</p>
-    </scopecontent>
-    <arrangement id="aspace_2f2aea77a1a64bf938213c613e673382">
-      <head>Arrangement</head>
-      <p>The folders are arranged alphabetically.</p>
-      <p>The files are grouped into one series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, Records, 1905-1960.</item>
-      </list>
-    </arrangement>
-    <relatedmaterial id="aspace_0ee50f28e6cf9e34f8e27b60426289dc">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>Records of the Reunion of Old Timers (TAM 283)</p>
-    </relatedmaterial>
-    <userestrict id="aspace_da625373518ac62300de53802ffbcf8e">
-      <head>Conditions Governing Use</head>
-      <p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1905 to 1960, are expected to enter the public domain in 2028.</p>
-    </userestrict>
-    <prefercite id="aspace_500ebfd379d7ef67d58c72f347c5263b">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; John Lyons Papers; TAM 025; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <controlaccess>
-      <subject source="lcsh">Radio broadcasting |z United States.</subject>
-      <subject source="lcsh">Socialists -- New York (State) -- New York.</subject>
-      <subject source="lcsh">Laundry workers |x Labor unions |z New York (State) |z New York.</subject>
-      <subject source="lcsh">Laundry industry |z New York (State) |z New York.</subject>
-      <subject source="lcsh">Jews |z New York (State) |z New York |x Societies, etc.</subject>
-      <subject source="lcsh">Fraternal organizations |z New York (State) |z New York.</subject>
-      <subject source="lcsh">Dry cleaning industry |z New York (State)</subject>
-      <subject source="lcsh">Dry cleaning industry |x Employees |z United States.</subject>
-      <subject source="lcsh">Dry cleaning industry -- Employees -- New York (State)</subject>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Minutes (administrative records)</genreform>
-      <subject source="lcsh">Labor leaders -- New York (State)</subject>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <genreform source="aat">Collective labor agreements.</genreform>
-      <subject source="lcsh">Trade associations |z United States.</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_025">tam_025</eadid><filedesc><titlestmt><titleproper>Guide to the John Lyons Papers <num>TAM.025</num></titleproper><author>Tamiment staff, 2008</author></titlestmt><editionstmt><p>This version was derived from Lyons, John.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:08:06 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>John Lyons Papers</unittitle>
+    <origination label="Creator">
       <persname rules="dacs" source="local">Lyons, John, 1881-1957</persname>
-      <corpname source="naf">Socialist Party-Social Democratic Federation</corpname>
-      <corpname source="naf">Tamiment Institute</corpname>
-      <corpname source="naf">WEVD (Radio station) New York, N.Y.</corpname>
-      <corpname source="local">Workmen's Circle/Arbeter Ring. Branch 400-E, New York (N.Y.)</corpname>
-      <corpname source="naf">United States. National Recovery Administration</corpname>
-      <corpname source="local">National Association of Retail Tailors, Cleaners and Dyers</corpname>
-      <corpname source="local">Reunion of Old Timers</corpname>
-      <corpname source="local">Service Trade League of New York</corpname>
-      <corpname source="local">American Business Congress</corpname>
-      <corpname source="local">Associated Service Industries</corpname>
-      <corpname source="local">Cleaners and Dyers of New York</corpname>
-      <corpname source="local">Daily Call Fair Committee</corpname>
-      <corpname source="local">Independent Associated Service Industries</corpname>
-      <corpname source="naf">Laundry Workers International Union</corpname>
-      <corpname source="naf">Liberal Party of New York State</corpname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Lyons, Mildred</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref14" level="series">
-        <did>
-          <unittitle>Series I: Papers, 1905-1960.</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>American Business Congress: Clippings, Membership and Contacts Lists</unittitle>
-            <unitdate datechar="creation" normal="1905/1960" type="inclusive">1941-1960 , undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3a553a0e8284ce94021ab6e6dd0eb9b7" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_c76449db7886de4cad3963a600c6db32" parent="aspace_3a553a0e8284ce94021ab6e6dd0eb9b7" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>American Business Congress: Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1939/1942" type="inclusive">1939-1942</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f0144ebbf5f3794c87d683e3c69cbf86" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_0a77df64b71341f60f1e5f912dbc4e7b" parent="aspace_f0144ebbf5f3794c87d683e3c69cbf86" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Arrow Points: John Lyons Column in <emph render="italic">The Social Democrat</emph></unittitle>
-            <unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3d58954ff9969fbbf4406b95c9b4c073" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_d4634c3077e95c644e7b627675530a65" parent="aspace_3d58954ff9969fbbf4406b95c9b4c073" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Articles, Letters to Editors</unittitle>
-            <unitdate datechar="creation" normal="1930/1959" type="inclusive">1930s-1950s</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_71a0d0ba9d196fc08a59bcfeb0c161c9" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_e126f3282277d0511e83c047392ed499" parent="aspace_71a0d0ba9d196fc08a59bcfeb0c161c9" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Birthday, 70th</unittitle>
-            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_774a6c961add379abeeaa6e8ebdcd8f8" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_bc9c49a911d7f46fac1e70ed8dcbea57" parent="aspace_774a6c961add379abeeaa6e8ebdcd8f8" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Clippings: National Association of Retail Tailors, Cleaners and Dyers, Inc. [John Lyons, Executive Secretary]</unittitle>
-            <unitdate datechar="creation" normal="1932/1939" type="inclusive">1932-1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fbfc78b4c2ddd82bfa1563ce2496935b" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_4000f5af4e3b4384531a764e26ced864" parent="aspace_fbfc78b4c2ddd82bfa1563ce2496935b" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Columbia University Course Records</unittitle>
-            <unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e048ee70cf07b7e0b9262537dc012d23" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_8959eeb711ea55cc0479ba99751ef604" parent="aspace_e048ee70cf07b7e0b9262537dc012d23" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Correspondence: General, Personal</unittitle>
-            <unitdate datechar="creation" normal="1905/1960" type="inclusive">1922-1951 , undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c7054c2f6a365c0693343603493951b3" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_a27280e8a4932f8657633cd074637cce" parent="aspace_c7054c2f6a365c0693343603493951b3" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Daily Call Fair Committee Minutes</unittitle>
-            <unitdate datechar="creation" normal="1905/1906" type="inclusive">Dec 1905-May 1906</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e9efb94e9c3a3d4ea199af19bcdb71c5" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_5627e45d94653d02ff31875d024e1aaa" parent="aspace_e9efb94e9c3a3d4ea199af19bcdb71c5" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Laundry Workers' International Union.</unittitle>
-            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939[?]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c72b2f623fd8e8b3dca98dbb3be61048" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_09236f7ef38fc832e2a68b2669b8e90b" parent="aspace_c72b2f623fd8e8b3dca98dbb3be61048" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Liberal Party (New York State)</unittitle>
-            <unitdate datechar="creation" normal="1949/1957" type="inclusive">1949-1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fdeff0c209f01732d19fe618f3bcea82" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_b6b85a725d7be078945ccbb263194a7b" parent="aspace_fdeff0c209f01732d19fe618f3bcea82" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Miscellaneous</unittitle>
-            <unitdate datechar="creation" normal="1924/1940" type="inclusive">1924-1940</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7b4c10c70322cb2ccad833f4ae1ea469" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_9d51ceffd2cd0c029988f279806ed6a3" parent="aspace_7b4c10c70322cb2ccad833f4ae1ea469" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>National Association of Retail Tailors, Cleaners and Dyers, Inc.: Correspondence; Executive Board Minutes, Membership Lists</unittitle>
-            <unitdate datechar="creation" normal="1922/1934" type="inclusive">1922-1934</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_77ffeb6bcf5efe2841f0e748e6467353" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_a801522bfb8cde1e2a103982345e7b27" parent="aspace_77ffeb6bcf5efe2841f0e748e6467353" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle><emph render="italic">Old Age</emph>Magazine</unittitle>
-            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e08d99521609c0802e8e24946436c54f" label="Mixed Materials [31142062884625]" type="Box">1</container>
-            <container id="aspace_87d70bc63d128dce5727f9c24fae93cd" parent="aspace_e08d99521609c0802e8e24946436c54f" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Reunion of Old Timers: Lehman Dinner</unittitle>
-            <unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a7b3285e284f4d813859b9c9c232318e" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_96428272a4debbf2fc480661ea667c79" parent="aspace_a7b3285e284f4d813859b9c9c232318e" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Reunion of Old Timers: Miscellaneous</unittitle>
-            <unitdate datechar="creation" normal="1905/1960" type="inclusive">Undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_28f7430c445e1bb1a638170b8127eda3" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_7c53cbdca50133a4d0383ad6f5c43abf" parent="aspace_28f7430c445e1bb1a638170b8127eda3" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Reunion of Old Timers: Walter Reuther Dinner</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d833b502149ef9dbe17ee84bc74f2e9c" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_a807ecb484ecb460c72a562265bf7cd0" parent="aspace_d833b502149ef9dbe17ee84bc74f2e9c" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Roosevelt/Lehman Election Campaign [John Lyons, Democratic Party State Committee; New York State Service Industries Committee]</unittitle>
-            <unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_88bf53e41035dc920f53d7dd79793734" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_8622cfe94e101379bb2d4463e3282d91" parent="aspace_88bf53e41035dc920f53d7dd79793734" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Service Industries (New York State)</unittitle>
-            <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0507b1bfde564533167f2012172b65e6" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_e63661d4e1c7bb45eaf85102d5223121" parent="aspace_0507b1bfde564533167f2012172b65e6" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Socialist Party</unittitle>
-            <unitdate datechar="creation" normal="1951/1957" type="inclusive">1951 , 1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_03e1944f393b9f2e0a6ffeab2a177862" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_d724d5a76d718e75e93a17ba3f264b28" parent="aspace_03e1944f393b9f2e0a6ffeab2a177862" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Tamiment Institute</unittitle>
-            <unitdate datechar="creation" normal="1905/1960" type="inclusive">1935 , 1949 , undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_215b14111036110311c759a5aae21643" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_4addde369bd42bc16fc5fd405459de41" parent="aspace_215b14111036110311c759a5aae21643" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>WEVD (Eugene Victor Debs): Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4c84d3fe17aeeb0438a723a5da1d272e" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_b11926a8724a09e6d1ca65c6078086d6" parent="aspace_4c84d3fe17aeeb0438a723a5da1d272e" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>WEVD (Eugene Victor Debs): Notes for Programs</unittitle>
-            <unitdate datechar="creation" normal="1905/1960" type="inclusive">1952-1953 , undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0c4876ff0beab5cceb7e64ea3e5b7aed" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_29b6aaf0d989dfbd63a85a7bef667c1b" parent="aspace_0c4876ff0beab5cceb7e64ea3e5b7aed" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>WEVD (Eugene Victor Debs): Notes for Programs</unittitle>
-            <unitdate datechar="creation" normal="1954/1957" type="inclusive">1954-1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_788af9cb7df923ac66735ac2d5a2b509" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_d91b53b8e549f174d1b15f225298881b" parent="aspace_788af9cb7df923ac66735ac2d5a2b509" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Workmen's Circle: Correspondence and Golden Anniversary Jubilee</unittitle>
-            <unitdate datechar="creation" normal="1950/1956" type="inclusive">1950-1956</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8b023883ca2bd2413ef89fba59b6499d" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_777a0cafa98dc9bcab4067dbbd0c256e" parent="aspace_8b023883ca2bd2413ef89fba59b6499d" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Workmen's Circle: Branch 400-E: Minutes</unittitle>
-            <unitdate datechar="creation" normal="1952/1957" type="inclusive">1952-1957</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a02ed86ba8e3e4c66a24df95d0e9bf2f" label="Mixed Materials [31142062884633]" type="Box">2</container>
-            <container id="aspace_75eac1bd06602007395f7c04d4303224" parent="aspace_a02ed86ba8e3e4c66a24df95d0e9bf2f" type="Folder">12</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.025</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1905/1960" type="inclusive">1905-1960</unitdate>
+    <abstract id="aspace_75aad86c9e93ad55d9469a33a611a8b1" label="Abstract">John Lyons (1881-1957), socialist and labor leader, was a co-founder of the Rand School, and the Executive Secretary of the National Association of Retail Tailors, Cleaners and Dyers (NART), a National Recovery Act labor-management trade association. The collection contains correspondence relating to NART and related organizations, collective labor agreements for New York City locals of the Laundry Workers International Union, the 1906 minutes of the Daily Call Fair Committee, which organized a fair, presumably to raise funds for the 1908 launching of the <emph render="italic">New York Call</emph>, a socialist daily newspaper, material on Workmen's Circle/Arbeter Ring Branch 400 E, correspondence and other materials relating to the Reunion of Old Timers, an association of veteran members of the labor movement, correspondence and notes from Lyons' radio program on WEVD, correspondence relating to public programs sponsored by the Tamiment Institute, correspondence with the Liberal Party of New York State and the Socialist Party-Social Democratic Federation, and newspaper clippings by Lyons or relating to his political interests.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <acqinfo id="aspace_fc129d307fed2b5a4d7932ec187e1a11">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Mildred Lyons, widow of John Lyons, in 1957. The collection was transferred to New York University with the rest of the manuscript collections in the Tamiment Institute Library in 1963. The accession number 1963.004 is associated with this collection.</p>  </acqinfo>
+  <accessrestrict id="aspace_2b3229d7db3e1ba7182cefe37736d9b0">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_cda9598fabf200d135cbeb609919cb49">
+    <head>Historical/Biographical Note</head>
+<p>John Lyons (1881-1957), socialist and labor leader, was a co-founder of the Rand School, director of the Social Democratic Radio Forum on station WEVD, the New York radio station that had been established by the Socialist Party, a Socialist Party candidate for the New York State Legislature several times during the 1920s, and manager of the Zetex Corporation, a branch of the American Car and Foundry Company. Lyons was executive secretary of Branch 400 of the Workmen's Circle/Arbeter Ring, a Jewish fraternal organization then associated with the socialist movement, an organizer of the International Brotherhood of Pulp, Sulphite and Paper Mill Workers, chairman of the stabilization and control board of the Cleaners and Dryers of New York and assistant regional director of the Textile Workers Organizing Committee of New Jersey. In the mid-1930s, Lyons was the Executive Secretary of the National Association of Retail Tailors, Cleaners and Dyers, a National Recovery Act labor-management trade association.</p>  </bioghist>
+  <scopecontent id="aspace_bde00c8d82ab6e97f0834419015c25bc">
+    <head>Scope and Content Note</head>
+<p>The collection contains correspondence relating to the National Association of Retail Tailors, Cleaners and Dyers, the American Business Congress, the Independent Associated Service Industries, and the Service Trade League of New York, as well as collective labor agreements for New York City locals of the Laundry Workers International Union. Notable are the 1906 minutes of the Daily Call Fair Committee, which organized a fair, presumably to raise funds for the eventual 1908 launching of the <emph render="italic">New York Call</emph>, a socialist daily newspaper. In addition to minutes of Workmen's Circle/Arbeter Ring Branch 400 E, there is some correspondence and other material relating to the Reunion of Old Timers, an association of veteran members of the labor and social democratic movements; correspondence and notes from Lyon's radio program on WEVD; correspondence relating to public programs sponsored by the Tamiment Institute; correspondence with the Liberal Party of New York State and the Socialist Party-Social Democratic Federation; newspaper clippings by Lyons, including "Arrow Points," his column in <emph render="italic">The Social Democrat</emph>and clippings relating to his political interests.</p>  </scopecontent>
+  <arrangement id="aspace_2f2aea77a1a64bf938213c613e673382">
+    <head>Arrangement</head>
+<p>The folders are arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Records, 1905-1960.</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_0ee50f28e6cf9e34f8e27b60426289dc">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Records of the Reunion of Old Timers (TAM 283)</p>  </relatedmaterial>
+  <userestrict id="aspace_da625373518ac62300de53802ffbcf8e">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1905 to 1960, are expected to enter the public domain in 2028.</p>  </userestrict>
+  <prefercite id="aspace_500ebfd379d7ef67d58c72f347c5263b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; John Lyons Papers; TAM 025; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Radio broadcasting |z United States.</subject>
+    <subject source="lcsh">Socialists -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Laundry workers |x Labor unions |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Laundry industry |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Jews |z New York (State) |z New York |x Societies, etc.</subject>
+    <subject source="lcsh">Fraternal organizations |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Dry cleaning industry |z New York (State)</subject>
+    <subject source="lcsh">Dry cleaning industry |x Employees |z United States.</subject>
+    <subject source="lcsh">Dry cleaning industry -- Employees -- New York (State)</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <subject source="lcsh">Labor leaders -- New York (State)</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Collective labor agreements.</genreform>
+    <subject source="lcsh">Trade associations |z United States.</subject>
+    <persname rules="dacs" source="local">Lyons, John, 1881-1957</persname>
+    <corpname authfilenumber="(lccn)n80089533" source="naf">Socialist Party-Social Democratic Federation</corpname>
+    <corpname authfilenumber="(lccn)n50068361" source="naf">Tamiment Institute</corpname>
+    <corpname source="naf">WEVD (Radio station) New York, N.Y.</corpname>
+    <corpname source="local">Workmen's Circle/Arbeter Ring. Branch 400-E, New York (N.Y.)</corpname>
+    <corpname authfilenumber="(lccn)n50064788" source="naf">United States. National Recovery Administration</corpname>
+    <corpname source="local">National Association of Retail Tailors, Cleaners and Dyers</corpname>
+    <corpname source="local">Reunion of Old Timers</corpname>
+    <corpname source="local">Service Trade League of New York</corpname>
+    <corpname source="local">American Business Congress</corpname>
+    <corpname source="local">Associated Service Industries</corpname>
+    <corpname source="local">Cleaners and Dyers of New York</corpname>
+    <corpname source="local">Daily Call Fair Committee</corpname>
+    <corpname source="local">Independent Associated Service Industries</corpname>
+    <corpname authfilenumber="(lccn)n92078128" source="naf">Laundry Workers International Union</corpname>
+    <corpname authfilenumber="(lccn)n84209470" source="naf">Liberal Party of New York State</corpname>
+    <persname role="dnr" rules="dacs" source="local">Lyons, Mildred</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series I: Papers, 1905-1960.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>American Business Congress: Clippings, Membership and Contacts Lists</unittitle><unitdate datechar="creation" normal="1905/1960" type="inclusive">1941-1960 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_27ad8446c5a8eac699085190e832296e" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_ce08709c305c8338171560ea22e2ba09" parent="aspace_27ad8446c5a8eac699085190e832296e" type="Folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>American Business Congress: Correspondence</unittitle><unitdate datechar="creation" normal="1939/1942" type="inclusive">1939-1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_35a2174f4647473a45316010dd6c2477" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_60fe813d88e723abb1fcfc0de59182e8" parent="aspace_35a2174f4647473a45316010dd6c2477" type="Folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Arrow Points: John Lyons Column in <emph render="italic">The Social Democrat</emph></unittitle><unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_211213f9d839ff979e741ec7ca4d3344" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_3ffddf93cd803ee2f71e176cd60149ff" parent="aspace_211213f9d839ff979e741ec7ca4d3344" type="Folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Articles, Letters to Editors</unittitle><unitdate datechar="creation" normal="1930/1959" type="inclusive">1930s-1950s</unitdate><container altrender="Manuscript box - Legal" id="aspace_1c13f729413cc0c385586181c8020ae1" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_ae7f117642f863a15b3cd2cc126583bc" parent="aspace_1c13f729413cc0c385586181c8020ae1" type="Folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Birthday, 70th</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_d3909b1913a88c262e7682131ef34ef3" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_0f3b789e5bbe4ce1afb483d3d482d21c" parent="aspace_d3909b1913a88c262e7682131ef34ef3" type="Folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Clippings: National Association of Retail Tailors, Cleaners and Dyers, Inc. [John Lyons, Executive Secretary]</unittitle><unitdate datechar="creation" normal="1932/1939" type="inclusive">1932-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_3b9628368f69eb9a2e2f62b825e34ed0" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_1c17256f5f0220baf5f27b2571c95c27" parent="aspace_3b9628368f69eb9a2e2f62b825e34ed0" type="Folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Columbia University Course Records</unittitle><unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate><container altrender="Manuscript box - Legal" id="aspace_7295c002c1a826cfd96f213f6f6bd616" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_05858c6ab1a95a9c35c0fea128587424" parent="aspace_7295c002c1a826cfd96f213f6f6bd616" type="Folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence: General, Personal</unittitle><unitdate datechar="creation" normal="1905/1960" type="inclusive">1922-1951 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd8c5de23ec7a4b8900de67bd75ee871" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_167aef9e82a93f3556feab554b9708e1" parent="aspace_fd8c5de23ec7a4b8900de67bd75ee871" type="Folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Daily Call Fair Committee Minutes</unittitle><unitdate datechar="creation" normal="1905/1906" type="inclusive">Dec 1905-May 1906</unitdate><container altrender="Manuscript box - Legal" id="aspace_22a7e1b64a177aab8e97fd8e3e2535d7" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_db36eaede58aea844b363f86321d74ac" parent="aspace_22a7e1b64a177aab8e97fd8e3e2535d7" type="Folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Laundry Workers' International Union.</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939[?]</unitdate><container altrender="Manuscript box - Legal" id="aspace_65c5538a9ef8b4bae6379ea5864ed810" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_8fdae9709e2537896dff9ec40354cf7f" parent="aspace_65c5538a9ef8b4bae6379ea5864ed810" type="Folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Liberal Party (New York State)</unittitle><unitdate datechar="creation" normal="1949/1957" type="inclusive">1949-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_ce91fa463ab43f3f7851cc4b162a1f5b" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_d320cde488c08a13ae36a0a086c1ea65" parent="aspace_ce91fa463ab43f3f7851cc4b162a1f5b" type="Folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation" normal="1924/1940" type="inclusive">1924-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_31d35935287dbe5a5c9f481926461383" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_6a4fb5d9c3eb015db4f80fe4528c06d7" parent="aspace_31d35935287dbe5a5c9f481926461383" type="Folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>National Association of Retail Tailors, Cleaners and Dyers, Inc.: Correspondence; Executive Board Minutes, Membership Lists</unittitle><unitdate datechar="creation" normal="1922/1934" type="inclusive">1922-1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_aed1b4df38af88034cfe5d36895094f5" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_b3cfe1d9b67adad553c31419a74f4a12" parent="aspace_aed1b4df38af88034cfe5d36895094f5" type="Folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle><emph render="italic">Old Age</emph>Magazine</unittitle><unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_910944df384b7e8fe0751b06ef7c1118" label="Mixed Materials [31142062884625]" type="Box">1</container><container id="aspace_dcd5e2de2470c192a14d5266357127b0" parent="aspace_910944df384b7e8fe0751b06ef7c1118" type="Folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Reunion of Old Timers: Lehman Dinner</unittitle><unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_c6f2d05dc8dd15e5460257b5bdef99d5" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_f311a9834b837a603d7eb6cead6e4ce7" parent="aspace_c6f2d05dc8dd15e5460257b5bdef99d5" type="Folder">1</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Reunion of Old Timers: Miscellaneous</unittitle><unitdate datechar="creation" normal="1905/1960" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b9def4e41b0da6bd33dfe80f4a7c4aa2" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_09b48b011d692ef4b2238d6dfe0e218c" parent="aspace_b9def4e41b0da6bd33dfe80f4a7c4aa2" type="Folder">2</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Reunion of Old Timers: Walter Reuther Dinner</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_a13e39a3e9fe734c02b86c0c27354b24" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_d154bc4255db26d3e883df46ec5204fc" parent="aspace_a13e39a3e9fe734c02b86c0c27354b24" type="Folder">3</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Roosevelt/Lehman Election Campaign [John Lyons, Democratic Party State Committee; New York State Service Industries Committee]</unittitle><unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_68d3ac38e5bb38fac2224ad4c1c43cda" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_726d3d84523443bd66a2bbc030c18157" parent="aspace_68d3ac38e5bb38fac2224ad4c1c43cda" type="Folder">4</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Service Industries (New York State)</unittitle><unitdate datechar="creation" normal="1936/1938" type="inclusive">1936-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_77838bcb25f71ebb11e47b77030b94a0" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_f6acf8714515a05d32516a0f074db82c" parent="aspace_77838bcb25f71ebb11e47b77030b94a0" type="Folder">5</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Socialist Party</unittitle><unitdate datechar="creation" normal="1951/1957" type="inclusive">1951 , 1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_a5ececa5ed7515a13c14b9487e624652" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_d9a05832949f51ecd3f5aeab3e58bf12" parent="aspace_a5ececa5ed7515a13c14b9487e624652" type="Folder">6</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Tamiment Institute</unittitle><unitdate datechar="creation" normal="1905/1960" type="inclusive">1935 , 1949 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_245000345b8a123123ada6e291860110" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_ba927642c004dc48f332c6a41a9ccfb1" parent="aspace_245000345b8a123123ada6e291860110" type="Folder">7</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>WEVD (Eugene Victor Debs): Correspondence</unittitle><unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e8e02b9efed8553fe5df092d2b49507" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_2530694a8ced05ea1f08f0ec1f120e4c" parent="aspace_6e8e02b9efed8553fe5df092d2b49507" type="Folder">8</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>WEVD (Eugene Victor Debs): Notes for Programs</unittitle><unitdate datechar="creation" normal="1905/1960" type="inclusive">1952-1953 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b2808b387bdcef7552cb78bb47e78565" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_099678e4ceeeb4759b47b205ee29ffa7" parent="aspace_b2808b387bdcef7552cb78bb47e78565" type="Folder">9</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>WEVD (Eugene Victor Debs): Notes for Programs</unittitle><unitdate datechar="creation" normal="1954/1957" type="inclusive">1954-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf7afde9a2e392881ab3f3ee33024cc9" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_d02ba32f12a0ec350a46260559c727b5" parent="aspace_cf7afde9a2e392881ab3f3ee33024cc9" type="Folder">10</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Workmen's Circle: Correspondence and Golden Anniversary Jubilee</unittitle><unitdate datechar="creation" normal="1950/1956" type="inclusive">1950-1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_7b2eddd122260ab50ca9fd81ab6f07ea" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_d534ca00d5d4f229c9b9be56c900cadd" parent="aspace_7b2eddd122260ab50ca9fd81ab6f07ea" type="Folder">11</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Workmen's Circle: Branch 400-E: Minutes</unittitle><unitdate datechar="creation" normal="1952/1957" type="inclusive">1952-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_a32d48e48242ddbd991bfd1f6e895a6d" label="Mixed Materials [31142062884633]" type="Box">2</container><container id="aspace_e8c04441235a225eb518eda9a40060e7" parent="aspace_a32d48e48242ddbd991bfd1f6e895a6d" type="Folder">12</container></did></c></c></dsc>
+</archdesc>
 </ead>

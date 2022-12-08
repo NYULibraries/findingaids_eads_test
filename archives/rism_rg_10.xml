@@ -1,473 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/rism/rism_rg_10">rism_rg_10</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Records of the Census of Mental Hospitals in the Caribbean <num>RISM.RG.10</num></titleproper>
-        <author>Emilyn L. Brown.  Revision by Rebecca Robbins.  Inventory revised by Katie Ehrlich and Stephanie Schmeling, September 2010.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:20:32 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>Records of the Census of Mental Hospitals in the Caribbean</unittitle>
-      <origination label="Creator">
-        <corpname source="naf">Research Institute for the Study of Man</corpname>
-      </origination>
-      <unitid>RISM.RG.10</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1959/1971" type="inclusive">1959-1971</unitdate>
-      <unitdate datechar="creation" normal="1960/1963" type="bulk">1960-1963</unitdate>
-      <abstract id="aspace_a75f1d90f645a2ecd53e6508879676b0">On January 14, 1960, the Census of Mental Hospitals in the Caribbean was conducted by the Caribbean Federation for Mental Health (CFMH) under the supervision of the World Federation for Mental Health and the Research Institute for the Study of Man (RISM).  The first of its kind in the Caribbean, the comparative study explored local and regional patterns of mental illness and health through a number of influential factors, including migration, occupation, education, marital status, and family history.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rism_rg_10">rism_rg_10</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the Census of Mental Hospitals in the Caribbean <num>RISM.RG.10</num></titleproper><author>Emilyn L. Brown.  Revision by Rebecca Robbins.  Inventory revised by Katie Ehrlich and Stephanie Schmeling, September 2010.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:42:05 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Records of the Census of Mental Hospitals in the Caribbean</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n50070936" source="naf">Research Institute for the Study of Man</corpname>
+    </origination>
+    <unitid>RISM.RG.10</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1959/1971" type="inclusive">1959-1971</unitdate>
+    <unitdate datechar="creation" normal="1960/1963" type="bulk">1960-1963</unitdate>
+    <abstract id="aspace_a75f1d90f645a2ecd53e6508879676b0" label="Abstract">On January 14, 1960, the Census of Mental Hospitals in the Caribbean was conducted by the Caribbean Federation for Mental Health (CFMH) under the supervision of the World Federation for Mental Health and the Research Institute for the Study of Man (RISM).  The first of its kind in the Caribbean, the comparative study explored local and regional patterns of mental illness and health through a number of influential factors, including migration, occupation, education, marital status, and family history.
 
 Source: Records of Census of Mental Hospitals in the Caribbean, Series I, Folder 5
 Records of Census of Mental Hospitals in the Caribbean, Series IV, Folder 1</abstract>
-      <physloc id="aspace_64fcf6959800cab1a401f5ba42ff1bc9">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_ca0ab7c7362f74003b3e3c7b8321f866">Materials are primarily in English, with some materials in Dutch and French.</langmaterial>
-    </did>
-    <userestrict id="aspace_f7f7c230d665fd50e41ed2a2ab386caa">
-      <head>Use Restrictions</head>
-      <p>For permission to publish any materials from this collection, please contact:<lb/></p>
-      <p>New York University Archives<lb/>
+    <physloc id="aspace_64fcf6959800cab1a401f5ba42ff1bc9">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_ca0ab7c7362f74003b3e3c7b8321f866">Materials are primarily in English, with some materials in Dutch and French.</langmaterial>
+  </did>
+  <userestrict id="aspace_f7f7c230d665fd50e41ed2a2ab386caa">
+    <head>Conditions Governing Use</head>
+<p>For permission to publish any materials from this collection, please contact:<lb/></p><p>New York University Archives<lb/>
 Elmer Holmes Bobst Library<lb/>
 70 Washington Square South<lb/>
 New York, NY 10012<lb/>
 Phone: (212) 998-2641<lb/>
 Fax: (212) 995-4225<lb/>
-E-mail: university-archives@nyu.edu</p>
-    </userestrict>
-    <relatedmaterial id="aspace_22ef1d3bc0a3537205e62fe5889683f8">
-      <head>Related Archival Materials</head>
-      <p>Records of the RISM Medical School Attitude Questionnaire (MSAQ)
+E-mail: university-archives@nyu.edu</p>  </userestrict>
+  <relatedmaterial id="aspace_22ef1d3bc0a3537205e62fe5889683f8">
+    <head>Related Archival Materials</head>
+<p>Records of the RISM Medical School Attitude Questionnaire (MSAQ)
 Records of the RISM Bolivia Project
 Records of the Puerto Rico Study
 RISM Vertical Files
-Records of the Interuniversity Consortium</p>
-    </relatedmaterial>
-    <separatedmaterial id="aspace_7726deb8b39202f6da8959a21124e44d">
-      <head>Separated Materials</head>
-      <p>Statistical records associated with the research were analyzed by the Puerto Rican government and were retained by their National Archives.</p>
-    </separatedmaterial>
-    <custodhist id="aspace_66ab2fb9933c4ffee548bd1a2ebc8d55">
-      <head>Provenance</head>
-      <p>The Caribbean Mental Health Census was created by the Caribbean Federation for Mental Health (CFMH) under the supervision of the World Federation for Mental Health and the Research Institute for the Study of Man (RISM).</p>
-    </custodhist>
-    <prefercite id="aspace_1b341970b3bf2f4e218972bfa90c3648">
-      <head>Preferred Citation</head>
-      <p>[Identification of item, Date(s) if known]
+Records of the Interuniversity Consortium</p>  </relatedmaterial>
+  <separatedmaterial id="aspace_7726deb8b39202f6da8959a21124e44d">
+    <head>Separated Materials</head>
+<p>Statistical records associated with the research were analyzed by the Puerto Rican government and were retained by their National Archives.</p>  </separatedmaterial>
+  <custodhist id="aspace_66ab2fb9933c4ffee548bd1a2ebc8d55">
+    <head>Provenance</head>
+<p>The Caribbean Mental Health Census was created by the Caribbean Federation for Mental Health (CFMH) under the supervision of the World Federation for Mental Health and the Research Institute for the Study of Man (RISM).</p>  </custodhist>
+  <prefercite id="aspace_1b341970b3bf2f4e218972bfa90c3648">
+    <head>Preferred Citation</head>
+<p>[Identification of item, Date(s) if known]
 The Caribbean Mental Health Census
 RISM RG 10, Box and Folder Number(s)
 New York University Archives
-Elmer Holmes Bobst Library</p>
-    </prefercite>
-    <accessrestrict id="aspace_e1226edc56813a5cef4227fe3ca335e4">
-      <head>Access Restrictions</head>
-      <p>Some of the materials in this collection may be restricted.  Please contact the University Archives for details.</p>
-    </accessrestrict>
-    <arrangement id="aspace_acfb182c0981bb593aa85338d41c4003">
-      <head>Arrangement</head>
-      <p>The Records of the Census of Mental Hospitals have been organized in chronological order according to the following series:</p>
-      <p>Series I: Census Reports and Research Programs</p>
-      <p>Series II: Field Manuals and Questionnaires</p>
-      <p>Series III: Correspondence</p>
-      <p>Series IV: Conference Papers</p>
-    </arrangement>
-    <bioghist id="aspace_818de19f70d53f819b4e2fde38e28036">
-      <head>Historical Note</head>
-      <p>The Census of Mental Hospitals in the Caribbean was a comprehensive, one-day research project organized by the Caribbean Federation for Mental Health (CFMH).  Founded at the Second Caribbean Conference for Mental Health in April 1959, the CFMH conducted the project on January 14, 1960, under the supervision of the World Federation for Mental Health and the Research Institute for the Study of Man.</p>
-      <p>The census research project was the first systematic effort in the region to collect cross-cultural epidemiological data on the socio-psychiatric characteristics of mental patients.  Census research of this popuation also provided a comparative look at the local and regional patterns of mental illness.</p>
-      <p>Enumerators and hospital staff were provided with field instruction manuals and questionnaires in English, Dutch, Spanish, and French.  Approximately 9,000 patients in mental hospitals in Antigua, the Bahamas, Barbados, Guyana, Haiti, Jamaica, Martinique, Puerto Rico, Trinidad, and the U.S. Virgin Islands participated in the study.</p>
-      <p>The research findings, analyzed with the assistance of the Bureau of Registry and Statistics of Puerto Rico, provided information on a broad spectrum of variables in mental illness, including such contributing factors as migration, occupation, education, marital status, and family history.  The final report concluded that standardization was needed in treatment procedures, diagnostic criteria, and nomenclature.  Recommendations for institutional recordkeeping procedures, the development of in-training programs for mental health personnel, the exchange of information on administrative and technical problems, research on therapeutic measures, and release rates on familial and social factors in mental illness were also included in the report.</p>
-      <p>Source: Records of Census of Mental Hospitals in the Caribbean, Series I, Folder 5
-Records of Census of Mental Hospitals in the Caribbean, Series IV, Folder 1</p>
-    </bioghist>
-    <scopecontent id="aspace_1e203aebef97fb205bb2d2f226e1a966">
-      <head>Scope and Contents</head>
-      <p>The records of the Census of the Mental Hospitals in the Caribbean consists of 1.0 linear foot (2 AB) and spans the years 1960 to 1971 (plus undated material), with the bulk of the materials generated between 1960 and 1963.</p>
-      <p>The collection, which includes census reports, research programs, field manuals, questionnaires, correspondence, and conference papers, has been arranged in four series and organized chronologically within each series.  The four series are as follows: </p>
-      <p>Series I: Census Reports and Research Programs (1960-1963);</p>
-      <p>Series II: Field Manuals and Questionnaires (1961), which includes questionnaires in English, Dutch, and French;</p>
-      <p>Series III: Correspondence (1962-1971), including correspondence regarding board meetings, social work education, and requests for census reports; and</p>
-      <p>Series IV: Conference Papers (1961-1971; undated).</p>
-    </scopecontent>
-    <controlaccess>
-      <geogname source="lcsh">Trinidad and Tobago.</geogname>
-      <geogname source="lcsh">West Indies.</geogname>
-      <geogname source="lcsh">Barbados.</geogname>
-      <geogname source="lcsh">Curacao (Netherlands Antilles)</geogname>
-      <geogname source="lcsh">Guyana.</geogname>
-      <geogname source="lcsh">Virgin Islands.</geogname>
-      <geogname source="lcsh">Martinique.</geogname>
-      <geogname source="lcsh">Bahamas.</geogname>
-      <geogname source="lcsh">Guadeloupe.</geogname>
-      <geogname source="lcsh">Puerto Rico.</geogname>
-      <geogname source="lcsh">Aruba</geogname>
-      <subject source="lcsh">Mental health  -- Caribbean Area.</subject>
-      <subject source="lcsh">Mental health.</subject>
-      <geogname source="lcsh">Haiti</geogname>
-      <subject source="lcsh">Psychiatric hospitals.</subject>
-      <geogname source="lcsh">Jamaica.</geogname>
-      <persname rules="dacs" source="naf">Rubin, Vera D.</persname>
-      <corpname source="naf">Research Institute for the Study of Man</corpname>
-      <corpname source="naf">Caribbean Federation for Mental Health</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref12" level="series">
-        <did>
-          <unittitle>Series I: Census Reports and Research Programs</unittitle>
-          <unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Report on a Meeting Held on 27th to 31st October at UCWI to Discuss the Establishment of a Census Research Programme Based on the 1960 Population Census-original</unittitle>
-            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_9908301fd240bf9929342ea2acfb5e16" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_d08bf9426eacd21fed49e6245ae53340" parent="aspace_9908301fd240bf9929342ea2acfb5e16" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="item">
-          <did>
-            <unittitle>Research Programme Based on 1960 Census of West Indes- original</unittitle>
-            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_d3cfc388df522cce4d012c4ad3b9bf7f" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_4c2f887d40993d5f58c64807b6edfb34" parent="aspace_d3cfc388df522cce4d012c4ad3b9bf7f" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Research Programme Based on 1960 Census of the West Indes- fascimile</unittitle>
-            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_57e799f9654655e034dc0aaf21d64427" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_b6db93a9b9b5b2f429b0c38085f3fd8d" parent="aspace_57e799f9654655e034dc0aaf21d64427" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Draft Report [incomplete], final on the Census of Caribbean Mental Hospitals</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 August </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_fe28aed20e13a77022a840f1490fbed4" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_48553389caac2149ea8770ae440511ca" parent="aspace_fe28aed20e13a77022a840f1490fbed4" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Report on the Census of Caribbean Mental Hospitals [Draft]</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 August </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_19b41e1fe0035078106d18d4f572e77a" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_b3a8f9e6b4ce4b8d0d65d06894bd3ecb" parent="aspace_19b41e1fe0035078106d18d4f572e77a" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="item">
-          <did>
-            <unittitle>Report on the Meeting of the Advisory Committee on the Census Research Programme, held at UCWI</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 September </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_263ca42b8317bc19f97f0e875b609bfd" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_d1cb775b06afaf7c613ce3527f079002" parent="aspace_263ca42b8317bc19f97f0e875b609bfd" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Minutes of the N.Y. Association for the Caribbean Federation for Mental Health; CFMH Newsletter No. 1</unittitle>
-            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962 February-March </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_0ef3e650a7c2c6134664a79d5b437416" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_cd105b0abd55c537da9889dccab72463" parent="aspace_0ef3e650a7c2c6134664a79d5b437416" type="Folder">8</container>
-          </did>
-          <c id="aspace_ref13" level="file">
-            <did>
-              <unittitle>Report on a Meeting Held on 27th to 31st October at UCWI to Discuss the Establishment of a Census Research Programme Based on the 1960 Population Census- facsimile</unittitle>
-              <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_42f66540db79b167c73786afbae1bc05" label="Mixed Materials [31142042278245]" type="Box">1</container>
-              <container id="aspace_b43e7d15cadee3f1e02b54243fafdfc9" parent="aspace_42f66540db79b167c73786afbae1bc05" type="Folder">1</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Miscellaneous research papers, clippings, notes</unittitle>
-            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962 March, undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_992a2412dd39a94d314bfed8ce317f97" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_39746dbde14202d126805dbe4970d756" parent="aspace_992a2412dd39a94d314bfed8ce317f97" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Caribbean Project Report and Recommendations, Clara A. Kaiser, Unitarian Service Committee, Inc., Boston, Mass.</unittitle>
-            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 March </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_75251e34895ab5fb60185b6002900c75" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_082a9e142301b2ede0e15d0e960941f5" parent="aspace_75251e34895ab5fb60185b6002900c75" type="Folder">10</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref23" level="series">
-        <did>
-          <unittitle>Series II: Field Manuals and Questionnaires, 1961</unittitle>
-          <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Mental Hospital Census Field Manual [complete]</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_d6194806ec8b8e9c602293f0e88d13ad" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_198e9a5072fdad21fa8d25aec30bb116" parent="aspace_d6194806ec8b8e9c602293f0e88d13ad" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Mental Hospital Census Field Manual</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_5148fab1e5e70a3ff8b6bafebc5d7aca" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_c871032afe2e76c493d2d08ee92378f7" parent="aspace_5148fab1e5e70a3ff8b6bafebc5d7aca" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Questionnaires- English</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_29872d35a8fb3b638a758c9019d23fa8" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_c9f274b3c73ae5ace20aa9cf706f9adb" parent="aspace_29872d35a8fb3b638a758c9019d23fa8" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Questionnaires- Dutch</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_25c2d1e44af66c015ff78af75da8213e" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_65b2d9c5c5a4a872142f630a6e1b0b03" parent="aspace_25c2d1e44af66c015ff78af75da8213e" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Questionnaires- French</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_1cdc731b80898c90c9f3b011e4382612" label="Mixed Materials [31142042278245]" type="Box">1</container>
-            <container id="aspace_465ac753e0a655ba5ec0b15db4220510" parent="aspace_1cdc731b80898c90c9f3b011e4382612" type="Folder">15</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref29" level="series">
-        <did>
-          <unittitle>Series III: Correspondence</unittitle>
-          <unitdate datechar="creation" normal="1962/1971" type="inclusive">1962-1971</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962 March-December </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_31816585e57435a3ab152cdc60567e47" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_4eb00d6027a99087070c865df0a16cca" parent="aspace_31816585e57435a3ab152cdc60567e47" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 January-February </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_6072f5472718c2c4d441389bf5f4e9f0" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_ae3d71f099d160977c51857d24d76482" parent="aspace_6072f5472718c2c4d441389bf5f4e9f0" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965 September </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_49cdd316ab371b44dcc3d63495c0e29e" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_32f633501ee384fb66280857fecc2090" parent="aspace_49cdd316ab371b44dcc3d63495c0e29e" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966 August-September </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_b909e5f2826f505597fee649720a53d9" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_f5dc3b6fdd1914f039a46e7a63132f94" parent="aspace_b909e5f2826f505597fee649720a53d9" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966 October-November </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_d201296a4923f8cd25cd5f5105f66847" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_5aed7a94afdabd1d7ac6b8c28b61603f" parent="aspace_d201296a4923f8cd25cd5f5105f66847" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967 February-March </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_ad1b20755fe486c0240211fc8d81909b" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_99bd6952fd1c7f620432eb7a6f931f07" parent="aspace_ad1b20755fe486c0240211fc8d81909b" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967 April-May </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_063a5ca24528986840c62677343dd27c" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_eeddf2cac28edc43fcee6fb446fabeec" parent="aspace_063a5ca24528986840c62677343dd27c" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970 May-December </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_f9ca661c16f99e6f1349e1080e64fd5a" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_2e909ef8d5c06fe63657df73bc579ffc" parent="aspace_f9ca661c16f99e6f1349e1080e64fd5a" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971 March </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_43b0163a7858095294e7c43a635eb131" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_168a4f2dc14f1990d67a0e696df34fa6" parent="aspace_43b0163a7858095294e7c43a635eb131" type="Folder">9</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref39" level="series">
-        <did>
-          <unittitle>Series IV: Conference Papers</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Report on the Census of Mental Hospitals in the Caribbean: Working Paper for the 3rd Conference of the Caribbean Federation for Mental Health, Kingston, Jamaica</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 April </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_1df4e7e567872559d2767db8ee00d0d0" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_99df32f369769103c1cb4b7ae957507f" parent="aspace_1df4e7e567872559d2767db8ee00d0d0" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Mental Health in International Perspective</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <langmaterial><language langcode="fre">French</language>.</langmaterial>
-            <container id="aspace_1c579378b0932f5cb1e073d23dbb5efe" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_61f6fb5a96a443def0f52d4badbea106" parent="aspace_1c579378b0932f5cb1e073d23dbb5efe" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>National Services for Mental Illness and Mental Health, Conference Details</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 September </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_34a02dcd25297305ae1390260993c010" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_6f5ee447f2ea99e02cee908cfaeb2171" parent="aspace_34a02dcd25297305ae1390260993c010" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>Fourth Caribbean Conference for Mental Health: Report of Group A Training Facilities in the Mental Health Field</unittitle>
-            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 April </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_e4332fa4a50fd86ecc463a2a4d49b84c" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_00df1860e1206758915588937e89671f" parent="aspace_e4332fa4a50fd86ecc463a2a4d49b84c" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>Fourth Caribbean Conference for Mental Health: Mental Health Trainee Stipends in Social Work 1962-1963</unittitle>
-            <unitdate datechar="creation" normal="1962/1963" type="inclusive">1963 April </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_4a9f7d7fedab53c4df232b0e13b8d6d2" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_d7e1985eb4675a17713909bd1469cc80" parent="aspace_4a9f7d7fedab53c4df232b0e13b8d6d2" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Fourth Caribbean Conference for Mental Health: "Group Therapy among Alcoholics at the St. Ann's Hospital, Trinidad," Miss Heather Pinto</unittitle>
-            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 April </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_d72234ace1d0ccab351c01b9a82d1e91" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_4facf33757d7d4b3a1c1e86a55046e7d" parent="aspace_d72234ace1d0ccab351c01b9a82d1e91" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Correspondence, "Remarks on Community Health," by Marvin E. Perkins, M.D.</unittitle>
-            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 April-May </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_4983ff88b8851b5e01dca0b23244da1c" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_79b340080b6d5f3d603ab7b35aacb5df" parent="aspace_4983ff88b8851b5e01dca0b23244da1c" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>"Leadership and Survival" by Mottram Torre at the Third Annual Conference of the Congress of Scientists on Survival</unittitle>
-            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964 June </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_7df7706b681b78475a8ccae2d48a29e3" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_1e3b9727974d2fe846d6fa4f4a0e1b83" parent="aspace_7df7706b681b78475a8ccae2d48a29e3" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Program brochure, application for the Seventh Biennial Conference for Mental Health</unittitle>
-            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969 July-August </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_1b616d05cda092de4e0dcd266859ae24" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_e3b9d2675e43fdf400ad4ba6e7039bc9" parent="aspace_1b616d05cda092de4e0dcd266859ae24" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="file">
-          <did>
-            <unittitle>Bulletin, published by the World Federation for Mental Health, notes</unittitle>
-            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_f4d80e3441af9bf6369a06a9421dfc46" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_02504a51d89826579edd7e86564ead5b" parent="aspace_f4d80e3441af9bf6369a06a9421dfc46" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="file">
-          <did>
-            <unittitle>"Research Potentials in the Lesser Antilles," by Leo A. Estel [conference unknown]</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_94b49012f5506c7234295bf0bcae554e" label="Mixed Materials [31142042278252]" type="Box">2</container>
-            <container id="aspace_1c5afa9d9a509ae2f600a0df91ce747a" parent="aspace_94b49012f5506c7234295bf0bcae554e" type="Folder">20</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+Elmer Holmes Bobst Library</p>  </prefercite>
+  <accessrestrict id="aspace_e1226edc56813a5cef4227fe3ca335e4">
+    <head>Conditions Governing Access</head>
+<p>Some of the materials in this collection may be restricted.  Please contact the University Archives for details.</p>  </accessrestrict>
+  <arrangement id="aspace_acfb182c0981bb593aa85338d41c4003">
+    <head>Arrangement</head>
+<p>The Records of the Census of Mental Hospitals have been organized in chronological order according to the following series:</p><p>Series I: Census Reports and Research Programs</p><p>Series II: Field Manuals and Questionnaires</p><p>Series III: Correspondence</p><p>Series IV: Conference Papers</p>  </arrangement>
+  <bioghist id="aspace_818de19f70d53f819b4e2fde38e28036">
+    <head>Historical Note</head>
+<p>The Census of Mental Hospitals in the Caribbean was a comprehensive, one-day research project organized by the Caribbean Federation for Mental Health (CFMH).  Founded at the Second Caribbean Conference for Mental Health in April 1959, the CFMH conducted the project on January 14, 1960, under the supervision of the World Federation for Mental Health and the Research Institute for the Study of Man.</p><p>The census research project was the first systematic effort in the region to collect cross-cultural epidemiological data on the socio-psychiatric characteristics of mental patients.  Census research of this popuation also provided a comparative look at the local and regional patterns of mental illness.</p><p>Enumerators and hospital staff were provided with field instruction manuals and questionnaires in English, Dutch, Spanish, and French.  Approximately 9,000 patients in mental hospitals in Antigua, the Bahamas, Barbados, Guyana, Haiti, Jamaica, Martinique, Puerto Rico, Trinidad, and the U.S. Virgin Islands participated in the study.</p><p>The research findings, analyzed with the assistance of the Bureau of Registry and Statistics of Puerto Rico, provided information on a broad spectrum of variables in mental illness, including such contributing factors as migration, occupation, education, marital status, and family history.  The final report concluded that standardization was needed in treatment procedures, diagnostic criteria, and nomenclature.  Recommendations for institutional recordkeeping procedures, the development of in-training programs for mental health personnel, the exchange of information on administrative and technical problems, research on therapeutic measures, and release rates on familial and social factors in mental illness were also included in the report.</p><p>Source: Records of Census of Mental Hospitals in the Caribbean, Series I, Folder 5
+Records of Census of Mental Hospitals in the Caribbean, Series IV, Folder 1</p>  </bioghist>
+  <scopecontent id="aspace_1e203aebef97fb205bb2d2f226e1a966">
+    <head>Scope and Contents</head>
+<p>The records of the Census of the Mental Hospitals in the Caribbean consists of 1.0 linear foot (2 AB) and spans the years 1960 to 1971 (plus undated material), with the bulk of the materials generated between 1960 and 1963.</p><p>The collection, which includes census reports, research programs, field manuals, questionnaires, correspondence, and conference papers, has been arranged in four series and organized chronologically within each series.  The four series are as follows: </p><p>Series I: Census Reports and Research Programs (1960-1963);</p><p>Series II: Field Manuals and Questionnaires (1961), which includes questionnaires in English, Dutch, and French;</p><p>Series III: Correspondence (1962-1971), including correspondence regarding board meetings, social work education, and requests for census reports; and</p><p>Series IV: Conference Papers (1961-1971; undated).</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Trinidad and Tobago.</geogname>
+    <geogname source="lcsh">West Indies.</geogname>
+    <geogname source="lcsh">Barbados.</geogname>
+    <geogname source="lcsh">Curacao (Netherlands Antilles)</geogname>
+    <geogname source="lcsh">Guyana.</geogname>
+    <geogname source="lcsh">Virgin Islands.</geogname>
+    <geogname source="lcsh">Martinique.</geogname>
+    <geogname source="lcsh">Bahamas.</geogname>
+    <geogname source="lcsh">Guadeloupe.</geogname>
+    <geogname source="lcsh">Puerto Rico.</geogname>
+    <geogname source="lcsh">Aruba</geogname>
+    <subject source="lcsh">Mental health  -- Caribbean Area.</subject>
+    <subject source="lcsh">Mental health.</subject>
+    <geogname source="lcsh">Haiti</geogname>
+    <subject source="lcsh">Psychiatric hospitals.</subject>
+    <geogname source="lcsh">Jamaica.</geogname>
+    <persname rules="dacs" source="naf">Rubin, Vera D.</persname>
+    <corpname authfilenumber="(lccn)n50070936" source="naf">Research Institute for the Study of Man</corpname>
+    <corpname authfilenumber="(lccn)n94004277" source="naf">Caribbean Federation for Mental Health</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref12" level="series"><did><unittitle>Series I: Census Reports and Research Programs</unittitle><unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Report on a Meeting Held on 27th to 31st October at UCWI to Discuss the Establishment of a Census Research Programme Based on the 1960 Population Census-original</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e51d6d36b82f45c35167fd0ed958f796" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_1b31d5aa758e52124ee154190f738375" parent="aspace_e51d6d36b82f45c35167fd0ed958f796" type="Folder">2</container></did></c><c id="aspace_ref15" level="item"><did><unittitle>Research Programme Based on 1960 Census of West Indes- original</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_70856def6c7cda98b7afeb4fa2dad155" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_c258f0be732d42467a711fa0140f0639" parent="aspace_70856def6c7cda98b7afeb4fa2dad155" type="Folder">3</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Research Programme Based on 1960 Census of the West Indes- fascimile</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_76532bde1e0905dc27362bea072381ee" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_02b9f66237c2b32c1c5a7fe101efb34e" parent="aspace_76532bde1e0905dc27362bea072381ee" type="Folder">4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Draft Report [incomplete], final on the Census of Caribbean Mental Hospitals</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 August </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_679ae5ba166b283cf07ad4811fc5a489" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_92de3222d7b7b5a8d9a8ba827abe648f" parent="aspace_679ae5ba166b283cf07ad4811fc5a489" type="Folder">5</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Report on the Census of Caribbean Mental Hospitals [Draft]</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 August </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2e7d683ade8ce140af457e0fb9762e05" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_988d40857021f21392a5a754198403ae" parent="aspace_2e7d683ade8ce140af457e0fb9762e05" type="Folder">6</container></did></c><c id="aspace_ref19" level="item"><did><unittitle>Report on the Meeting of the Advisory Committee on the Census Research Programme, held at UCWI</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 September </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1a669d9db06f0923ddbcf3d66fc571ae" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_5805d68e90716b48c14946f055b5d9ff" parent="aspace_1a669d9db06f0923ddbcf3d66fc571ae" type="Folder">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Minutes of the N.Y. Association for the Caribbean Federation for Mental Health; CFMH Newsletter No. 1</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962 February-March </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_02c4f2e5617021be05dd58dc91d70cc9" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_f6005cff59ee6db7b30b53b400f5720a" parent="aspace_02c4f2e5617021be05dd58dc91d70cc9" type="Folder">8</container></did><c id="aspace_ref13" level="file"><did><unittitle>Report on a Meeting Held on 27th to 31st October at UCWI to Discuss the Establishment of a Census Research Programme Based on the 1960 Population Census- facsimile</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_60a654d115a7f2eba25d718d0374289c" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_228ebcaf84f70f3883edd5767a5885c0" parent="aspace_60a654d115a7f2eba25d718d0374289c" type="Folder">1</container></did></c></c><c id="aspace_ref21" level="file"><did><unittitle>Miscellaneous research papers, clippings, notes</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962 March, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_9043ee0daf1b5882f5df32a97de5f65b" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_11c6cfeba1942d81c1c939f400f591cf" parent="aspace_9043ee0daf1b5882f5df32a97de5f65b" type="Folder">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Caribbean Project Report and Recommendations, Clara A. Kaiser, Unitarian Service Committee, Inc., Boston, Mass.</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 March </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_095808336549a5d78782450b93c295e4" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_188c6a00d6b4792249611db17638b3b5" parent="aspace_095808336549a5d78782450b93c295e4" type="Folder">10</container></did></c></c><c id="aspace_ref23" level="series"><did><unittitle>Series II: Field Manuals and Questionnaires, 1961</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref24" level="file"><did><unittitle>Mental Hospital Census Field Manual [complete]</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_fbc3999e2260fbddc5e16cf93e4adba5" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_aa5c8512889624112cb4b8c9fdd9cff5" parent="aspace_fbc3999e2260fbddc5e16cf93e4adba5" type="Folder">11</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Mental Hospital Census Field Manual</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a27c0599b672704fa54e87cbd3f7de92" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_c911b76d4865aa54c12ca63f5c1bc4ba" parent="aspace_a27c0599b672704fa54e87cbd3f7de92" type="Folder">12</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Questionnaires- English</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_085e8d6d98a5e1a7dd38bde3d8c28e00" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_64de2bbaba12b519f62f469ad49b99dd" parent="aspace_085e8d6d98a5e1a7dd38bde3d8c28e00" type="Folder">13</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Questionnaires- Dutch</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_3dbd3903cd1efe8acb1ed098223e6e0f" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_e869f4f3cf361331631353128c187e29" parent="aspace_3dbd3903cd1efe8acb1ed098223e6e0f" type="Folder">14</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Questionnaires- French</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ebc048e0f5f7da7da6bffeda90ae5d37" label="Mixed Materials [31142042278245]" type="Box">1</container><container id="aspace_badd397a54d22c253aade87502edc600" parent="aspace_ebc048e0f5f7da7da6bffeda90ae5d37" type="Folder">15</container></did></c></c><c id="aspace_ref29" level="series"><did><unittitle>Series III: Correspondence</unittitle><unitdate datechar="creation" normal="1962/1971" type="inclusive">1962-1971</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref30" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962 March-December </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1ffd351400ba085e44eb8a54205d1c22" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_65eb8da4ca3fccb6d4b8aa7813bc87b6" parent="aspace_1ffd351400ba085e44eb8a54205d1c22" type="Folder">1</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 January-February </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_9df0234fe14365ba03265eae05270cf9" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_54e20713db6a918769056f35c0c3474d" parent="aspace_9df0234fe14365ba03265eae05270cf9" type="Folder">2</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">1965 September </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_708a48437e0599fc1353b2856e88c20a" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_2229e02dffc262ca9d5c75cdf93c60b8" parent="aspace_708a48437e0599fc1353b2856e88c20a" type="Folder">3</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">1966 August-September </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_0d581e8835b4ebf205ce5ed802a6308c" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_98e572cf63aa6f7c5c3be47818d5cd49" parent="aspace_0d581e8835b4ebf205ce5ed802a6308c" type="Folder">4</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">1966 October-November </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_fa978c36962f90bacd989bc86607df4a" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_d6beaa6b22b58d3538af07de4ead5f08" parent="aspace_fa978c36962f90bacd989bc86607df4a" type="Folder">5</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967 February-March </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b60b45dee1a488aa457fd043d9819f50" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_590366184895385677662c830db5368d" parent="aspace_b60b45dee1a488aa457fd043d9819f50" type="Folder">6</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967 April-May </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_703df68fb3d1dcf9716e860f939a4371" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_9d395de30cd432c9b9403c92cf6da9fb" parent="aspace_703df68fb3d1dcf9716e860f939a4371" type="Folder">7</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970 May-December </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e68f4ac980ba6effcb5314676b5c088c" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_d6b8f6099277c225a311048bd7bc8f88" parent="aspace_e68f4ac980ba6effcb5314676b5c088c" type="Folder">8</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971 March </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_698e9874d70f3e081d7214d9b208c90b" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_24ba2d14dc14fbd4d32a31975ac32216" parent="aspace_698e9874d70f3e081d7214d9b208c90b" type="Folder">9</container></did></c></c><c id="aspace_ref39" level="series"><did><unittitle>Series IV: Conference Papers</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref40" level="file"><did><unittitle>Report on the Census of Mental Hospitals in the Caribbean: Working Paper for the 3rd Conference of the Caribbean Federation for Mental Health, Kingston, Jamaica</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 April </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_9eeba94970a10a27801567e466c651dd" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_b2e69c79691e3afda368570f3200c4db" parent="aspace_9eeba94970a10a27801567e466c651dd" type="Folder">10</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Mental Health in International Perspective</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="fre">French</language>.</langmaterial><container id="aspace_e43fb2cdd06dde70485893c4049cf742" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_68f12496f421283b7e17d99b17c09443" parent="aspace_e43fb2cdd06dde70485893c4049cf742" type="Folder">11</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>National Services for Mental Illness and Mental Health, Conference Details</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 September </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ead4f58e6eea75b299299124de7b5a05" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_b64194380b0198f92628e34c46b6cbaf" parent="aspace_ead4f58e6eea75b299299124de7b5a05" type="Folder">12</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Fourth Caribbean Conference for Mental Health: Report of Group A Training Facilities in the Mental Health Field</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 April </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b2d278ca2835fa2bf1d6c7870de62706" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_5e47f12e83de0a4ff97cd19ef1de7236" parent="aspace_b2d278ca2835fa2bf1d6c7870de62706" type="Folder">13</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Fourth Caribbean Conference for Mental Health: Mental Health Trainee Stipends in Social Work 1962-1963</unittitle><unitdate datechar="creation" normal="1962/1963" type="inclusive">1963 April </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7c5439b4d8076947bc2adde8551195e5" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_2a881e0ec930cfc1c53abd0ebb504b5d" parent="aspace_7c5439b4d8076947bc2adde8551195e5" type="Folder">14</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Fourth Caribbean Conference for Mental Health: "Group Therapy among Alcoholics at the St. Ann's Hospital, Trinidad," Miss Heather Pinto</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 April </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5992afdd1353476f8e7a5a8cfc4786ea" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_c7d4a7da95b3983d8e93df015d3eab7d" parent="aspace_5992afdd1353476f8e7a5a8cfc4786ea" type="Folder">15</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Correspondence, "Remarks on Community Health," by Marvin E. Perkins, M.D.</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963 April-May </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7507c94ae33d49d6cf2b323daf15d58a" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_d89be3fd717fc7b0c2ed9c357aed643e" parent="aspace_7507c94ae33d49d6cf2b323daf15d58a" type="Folder">16</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>"Leadership and Survival" by Mottram Torre at the Third Annual Conference of the Congress of Scientists on Survival</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964 June </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b2b1e1a02881790e5f7fd17e876e9a56" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_3f41e8cdd87c1f99791fc72fa7d4e8b9" parent="aspace_b2b1e1a02881790e5f7fd17e876e9a56" type="Folder">17</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Program brochure, application for the Seventh Biennial Conference for Mental Health</unittitle><unitdate datechar="creation" normal="1969/1969" type="inclusive">1969 July-August </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_3dc51e8ce92bd3e593dd898ebe484c63" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_823be23d4528c1ab03de7d5f6b7da5bb" parent="aspace_3dc51e8ce92bd3e593dd898ebe484c63" type="Folder">18</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Bulletin, published by the World Federation for Mental Health, notes</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a5be025a3da2839d612c8878b9a624c3" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_078123805efe4e6544011e223671de77" parent="aspace_a5be025a3da2839d612c8878b9a624c3" type="Folder">19</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>"Research Potentials in the Lesser Antilles," by Leo A. Estel [conference unknown]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_abe9e8aeec808843c16a7d00f3ca7147" label="Mixed Materials [31142042278252]" type="Box">2</container><container id="aspace_1e37bbfce959d70fa8f3c61c97c21c3f" parent="aspace_abe9e8aeec808843c16a7d00f3ca7147" type="Folder">20</container></did></c></c></dsc>
+</archdesc>
 </ead>

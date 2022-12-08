@@ -1,611 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_393">mss_393</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Donald Dombowsky Papers <num>MSS.393</num></titleproper>
-        <author>Jasmine Larkin</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>July 2018</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:55:22 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Donald Dombowsky Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Dombowsky, Don</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" source="naf">Dombowsky, Don</persname>
-      </origination>
-      <unitid>MSS.393</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
-        <extent altrender="carrier">in 6 manuscript boxes, 2 card boxes, and 1 folder in a shared box.</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">9 audiocassettes</extent>
-      </physdesc>
-      <physdesc altrender="part">
-        <extent altrender="materialtype spaceoccupied">6 sound discs (cd)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1977/2011" type="inclusive">1977-2011</unitdate>
-      <abstract id="aspace_0590471711c872559670e60b341a5533">Don Dombowsky is a Friedrich Nietzsche scholar and poet who wrote and published poetry under the name Don David in New York City during the late 1980s-90s. The collection contains Dombowsky's correspondence with other writers and artists Dombowksy met during his time in New York. Materials also include manuscripts, publications, and audio recordings created by the writers and artists Dowmbowsky maintained contact with, as well as some of his own work. Materials date from 1977 to 2011.</abstract>
-      <physloc id="aspace_dcbdfe38f9ec3b6bed0c2382254bb98c">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_f54fba450f25addec048f0f6729bf140">Materials are in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_46325e421cdabf21a721908eda479266">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_59ce7f406383951de54d8fa35f227aa8">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Donald Dombowsky, 2014. The accession number associated with this gift is 2014.393</p>
-    </acqinfo>
-    <arrangement id="aspace_aac34c23bc9951949a763fdf8b7aec1f">
-      <head>Arrangement</head>
-      <p>Maintaining Dombowsky's order, materials are listed alphabetically by author or organization. Unarranged correspondence and unidentified audio recordings are listed at the end.</p>
-    </arrangement>
-    <bioghist id="aspace_1d7a992d1ce77f72374058983df87fc8">
-      <head>Biographical Note</head>
-      <p>Don Dombowsky is a Friedrich Nietzsche scholar and poet who wrote and published poetry under the name Don David in New York City during the late 1980s-90s. During this time he was very involved with the Lower East Side magazine <emph render="italic">Long News in the Short Century</emph> edited by Barbara Henning as well as writers and artists associated with <emph render="italic">Shiny</emph> magazine edited by Michael Friedman.</p>
-      <p>Originally from Canada, Dombowsky moved to NYC to study philosophy at the New School. He made contact with Dennis Cooper at St. Mark's who put him in touch with Leland Hickman and Kevin Killian who in turn brought him into contact with a range of fascinating poets, writers, publishers, and artists including Paul Buck.</p>
-      <p>Dombowsky works as an Assistant Professor at Bishop's University, teaching selected topics in the history of philosophy, politics and art.</p>
-    </bioghist>
-    <phystech id="aspace_720e0168055f342320e1ed207b2b5a8f">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <prefercite id="aspace_3de85b611131cb8e1a4ae3617a572a25">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Donald Dombowsky Papers; MSS 393; box number; folder number; Fales Library and Special Collections, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_aad17a9b4d2b73bfcfc4303721d42766">
-      <head>Processing Information</head>
-      <p>Materials placed in archival folders and boxes. In preparation for materials to be sent offsite, audio recordings were removed from their original boxes. The order in which the materials were received has been maintained.</p>
-    </processinfo>
-    <scopecontent id="aspace_251594bf133a8fccdf5da55232447b87">
-      <head>Scope and Contents</head>
-      <p>This collection contains the papers of Don Dombowsky. A majority of the collection contains Dombowsky's correspondence with writers and artists, including Terrence Sellers, Barbara Henning, and Paul Buck. The collection also contains manuscripts, publications, and audio recordings created by Dombowsky and other writers and artists whom Dombowsky maintained contact with. Materials date from 1977 to 2011.</p>
-    </scopecontent>
-    <userestrict id="aspace_9a3bc01027dea8066a323d2da92b50c1">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Donald Dombowsky was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Poets, Canadian.</subject>
-      <subject source="lcsh">Poets, American.</subject>
-      <subject source="lcsh">Authors, American.</subject>
-      <subject source="lcsh">Authors, Canadian.</subject>
-      <subject source="lcsh">Authors and artists.</subject>
-      <subject source="lcsh">Artists -- United States.</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_393">mss_393</eadid><filedesc><titlestmt><titleproper>Guide to the Donald Dombowsky Papers <num>MSS.393</num></titleproper><author>Jasmine Larkin</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>July 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:53:18 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Donald Dombowsky Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Dombowsky, Don</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" source="naf">Dombowsky, Don</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_c79a2122e60961bd66a45bffa7b91c09" level="file">
-        <did>
-          <unittitle>Acker, Kathy</unittitle>
-          <unitid>cuid21258</unitid>
-          <unitdate datechar="creation" normal="1984/1984">1984</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_5c9179ad73bdd1a968df9e4e8be58259" label="Mixed Materials [31142062728137]" type="Box">1</container>
-          <container id="aspace_ef0562986b70e267b76859f48d2282c9" parent="aspace_5c9179ad73bdd1a968df9e4e8be58259" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_06569019453fd1b6add48923c04f0805" level="file">
-        <did>
-          <unittitle>Barber, Stephen</unittitle>
-          <unitid>cuid21259</unitid>
-          <unitdate datechar="creation" normal="1993/1996" type="inclusive">1993-1996</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_8556efebe43db92a47bf1f63da09a2b7" label="Mixed Materials [31142062728137]" type="Box">1</container>
-          <container id="aspace_bec20b931dced081ce0166611e5e71e4" parent="aspace_8556efebe43db92a47bf1f63da09a2b7" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ee4019fed39e3b315a7a6c6e2367bf2e" level="file">
-        <did>
-          <unittitle>Barton, David</unittitle>
-          <unitid>cuid21260</unitid>
-          <unitdate datechar="creation" normal="1977/1997" type="inclusive">1977-1997</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_63a51f1756192ce441a9695dab37ae37" label="Mixed Materials [31142062728137]" type="Box">1</container>
-          <container id="aspace_c9b3e012259598277c35ee0c9fae0455" parent="aspace_63a51f1756192ce441a9695dab37ae37" type="Folder">3-6</container>
-        </did>
-      </c>
-      <c id="aspace_15bee898b30f1270505976f2e9be3372" level="file">
-        <did>
-          <unittitle>Buck, Paul</unittitle>
-          <unitid>cuid21261</unitid>
-          <unitdate datechar="creation" normal="1979/1995" type="inclusive">1979-1995</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_38fc0f1323ea68d2b441d5d314f754e1" label="Mixed Materials [31142062728137]" type="Box">1</container>
-          <container id="aspace_22f7b93eea0179af00ede004775171fa" parent="aspace_38fc0f1323ea68d2b441d5d314f754e1" type="Folder">7-10</container>
-        </did>
-      </c>
-      <c id="aspace_99d3e2f0f88033eacc302cfc18f08f06" level="file">
-        <did>
-          <unittitle>Buck, Paul: Paul Buck, Melinda Miel - audio recording</unittitle>
-          <unitid>cuid21262</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_88b4c0a76d0e45a3b052f9af57cc973a" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_1f87903b0d4f169934d78456b8ab97fe" level="file">
-        <did>
-          <unittitle>Buck, Paul: Paul Buck, Allen Fisher, Gilbert A. Dave, David Rushmer - audio recording</unittitle>
-          <unitid>cuid21263</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_841650904e4c93381754935e59274e60" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_182d8a15db5ff5c241b9000d163877c0" level="file">
-        <did>
-          <unittitle>Cole, Norma</unittitle>
-          <unitid>cuid21264</unitid>
-          <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_3d0a441782734b6a76d911d47184ae3f" label="Mixed Materials [31142062728137]" type="Box">1</container>
-          <container id="aspace_d4f3b9891746c9b81317d05e53eda377" parent="aspace_3d0a441782734b6a76d911d47184ae3f" type="Folder">11-12</container>
-        </did>
-      </c>
-      <c id="aspace_f71c028b6671e938895d59b041ea2c35" level="file">
-        <did>
-          <unittitle>Cussans, John</unittitle>
-          <unitid>cuid21265</unitid>
-          <unitdate datechar="creation" normal="1988/1998" type="inclusive">1988-1998</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8a2fa7cf44060094afb6708e519de1b8" label="Mixed Materials [31142062728145]" type="Box">2</container>
-          <container id="aspace_f874e461402dfbb02bbb78c829cec5ae" parent="aspace_8a2fa7cf44060094afb6708e519de1b8" type="Folder">1-2</container>
-        </did>
-      </c>
-      <c id="aspace_a3d51f4a6a8f1a7db6c2bd4189712acf" level="file">
-        <did>
-          <unittitle>Cussans, John: Frozen Tears, Cracking the Glitch - audio recording</unittitle>
-          <unitid>cuid21266</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
-          </physdesc>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="CD Box - 6  x 15" id="aspace_f4b0919060db0ddfe10ca4d42f509207" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container>
-        </did>
-      </c>
-      <c id="aspace_7422cd93d8a039e4b9d4f4449f38781b" level="file">
-        <did>
-          <unittitle>Custer, Chris</unittitle>
-          <unitid>cuid21267</unitid>
-          <unitdate datechar="creation" normal="1989/1996" type="inclusive">1989-1996</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c13e38753c93715ff18a5021c3729e3c" label="Mixed Materials [31142062728145]" type="Box">2</container>
-          <container id="aspace_e94f2022e1113d24807bf72d3deaa9d1" parent="aspace_c13e38753c93715ff18a5021c3729e3c" type="Folder">3-4</container>
-          <container altrender="Flat OS Box 17" id="aspace_2b701a5391ce258a5fd741e71ab05438" label="Mixed Materials [31142062732568]" type="Box">Shared Fales 011</container>
-          <container id="aspace_3f79a2891733959c254723800ea3c8f5" parent="aspace_2b701a5391ce258a5fd741e71ab05438" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_15f1014f6e1335436189611ede62218b" level="file">
-        <did>
-          <unittitle>Don David (Dombowsky)</unittitle>
-          <unitid>cuid21268</unitid>
-          <unitdate datechar="creation" normal="1985/2006" type="inclusive">1985-2006</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_08bbde6d045d577bffec3042e884dcd7" label="Mixed Materials [31142062728145]" type="Box">2</container>
-          <container id="aspace_21960ceb216c366f5a38292d47bf0229" parent="aspace_08bbde6d045d577bffec3042e884dcd7" type="Folder">5-6</container>
-        </did>
-      </c>
-      <c id="aspace_2155bb7b516f8fd264913299a9cf280d" level="file">
-        <did>
-          <unittitle>Don David (Dombowsky): The Template, The Forgotten Door - audio recording</unittitle>
-          <unitid>cuid21269</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
-          </physdesc>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="CD Box - 6  x 15" id="aspace_34bdea12861f2d6568c511cb170dd4af" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container>
-        </did>
-      </c>
-      <c id="aspace_f1aac1eff5782d4c2892a75172c52391" level="file">
-        <did>
-          <unittitle>Don David (Dombowsky): RE:USE - audio recording</unittitle>
-          <unitid>cuid21270</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
-          <container altrender="CD Box - 6  x 15" id="aspace_8b662f2a7563d7f3eeeac1acb8e10ebb" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container>
-        </did>
-      </c>
-      <c id="aspace_ddbf00b1702c4b468912dc76f44891e3" level="file">
-        <did>
-          <unittitle>Duvier, Francoise</unittitle>
-          <unitid>cuid21271</unitid>
-          <unitdate datechar="creation" normal="1992/2011" type="inclusive">1992-2011</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_60ecdc709068afb604c771bd210b0abf" label="Mixed Materials [31142062728145]" type="Box">2</container>
-          <container id="aspace_397dfe93e58a1b5282fea58254fc34ec" parent="aspace_60ecdc709068afb604c771bd210b0abf" type="Folder">7-12</container>
-          <container altrender="Manuscript box - Legal" id="aspace_0ecff9eea3d987311d9622a0c10fd1af" label="Mixed Materials [31142062728152]" type="Box">3</container>
-          <container id="aspace_04cf25d2238ed0ed2512e40e2a425d23" parent="aspace_0ecff9eea3d987311d9622a0c10fd1af" type="Folder">1-3</container>
-        </did>
-      </c>
-      <c id="aspace_75e9b79c43f5625d80aae6bffe538421" level="file">
-        <did>
-          <unittitle>Duvier, Francoise: Dive Images - audio recording</unittitle>
-          <unitid>cuid21272</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
-          <container altrender="CD Box - 6  x 15" id="aspace_3b943f4e384d4ada549151d7900dd476" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container>
-        </did>
-      </c>
-      <c id="aspace_879c5736293196eb4dbbed1f278eee16" level="file">
-        <did>
-          <unittitle>Duvier, Francoise: Unbecoming An International Compilation - audio recording</unittitle>
-          <unitid>cuid21273</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
-          <container altrender="CD Box - 6  x 15" id="aspace_252ca0ee9db0985615b3b35f6d843d5c" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container>
-        </did>
-      </c>
-      <c id="aspace_759c38f1b488d6fec080f3b34a4cd828" level="file">
-        <did>
-          <unittitle>Edwards, Ken</unittitle>
-          <unitid>cuid21274</unitid>
-          <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a720d340c4d878334ed3d57f0770f39e" label="Mixed Materials [31142062728152]" type="Box">3</container>
-          <container id="aspace_e6237c4e2ea524213018c0245f35bca0" parent="aspace_a720d340c4d878334ed3d57f0770f39e" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_97173b5c5627992a9d1642b445cfbda1" level="file">
-        <did>
-          <unittitle>Green, Paul</unittitle>
-          <unitid>cuid21275</unitid>
-          <unitdate datechar="creation" normal="1984/1994" type="inclusive">1984-1994</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_20f3e6554bbcb2c005049b85ece82441" label="Mixed Materials [31142062728152]" type="Box">3</container>
-          <container id="aspace_3833a5a1447f7b48f6f2e4ba1871a916" parent="aspace_20f3e6554bbcb2c005049b85ece82441" type="Folder">5-7</container>
-        </did>
-      </c>
-      <c id="aspace_3bcbaa45eea4e568e547a2eb0002c34c" level="file">
-        <did>
-          <unittitle>Hall, Steven</unittitle>
-          <unitid>cuid21276</unitid>
-          <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b7a91a8f00ee9448af5b3aa0921f67e3" label="Mixed Materials [31142062728152]" type="Box">3</container>
-          <container id="aspace_65ea2f61b75882839e1e3a04b0026424" parent="aspace_b7a91a8f00ee9448af5b3aa0921f67e3" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_d608dc55513c16919d5d920c7769a343" level="file">
-        <did>
-          <unittitle>Henning, Barbara</unittitle>
-          <unitid>cuid21277</unitid>
-          <unitdate datechar="creation" normal="1988/2006" type="inclusive">1988-2006</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b7a53359b871b00ecb1e0c03532061fc" label="Mixed Materials [31142062728152]" type="Box">3</container>
-          <container id="aspace_f03627e9a2c0b120809bb50320e76af8" parent="aspace_b7a53359b871b00ecb1e0c03532061fc" type="Folder">9-11</container>
-          <container altrender="Manuscript box - Letter" id="aspace_c82fd6cd265fe5eb9cdc18321baf4eda" label="Mixed Materials [31142062728160]" type="Box">4</container>
-          <container id="aspace_6c0c0305255134587b884aead3a8e95d" parent="aspace_c82fd6cd265fe5eb9cdc18321baf4eda" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_190dfbd739b19c0b43e70fa5c90488e2" level="file">
-        <did>
-          <unittitle>Hickman, Leland</unittitle>
-          <unitid>cuid21278</unitid>
-          <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_26517653ae090424bb9918078ef1660c" label="Mixed Materials [31142062728160]" type="Box">4</container>
-          <container id="aspace_ded7e4b8ef5fe8f0831857d81b16c748" parent="aspace_26517653ae090424bb9918078ef1660c" type="Folder">5-6</container>
-        </did>
-      </c>
-      <c id="aspace_c0c4ee87166f09eb2fbde14420cf13f5" level="file">
-        <did>
-          <unittitle>Karasick, Adeena</unittitle>
-          <unitid>cuid21279</unitid>
-          <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_4f03ef99e86accc72208ab0c072283fd" label="Mixed Materials [31142062728160]" type="Box">4</container>
-          <container id="aspace_d43fe3c8d2d0725417f6651bed93ddc3" parent="aspace_4f03ef99e86accc72208ab0c072283fd" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_e38b5092881e72a3c68c054cbdeb2fdd" level="file">
-        <did>
-          <unittitle>Keating, Neil</unittitle>
-          <unitid>cuid21280</unitid>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_0b93d058f04bcc72687c4b9c2b2135d4" label="Mixed Materials [31142062728160]" type="Box">4</container>
-          <container id="aspace_97bc1f2c2b9b5c281acce13f0316198a" parent="aspace_0b93d058f04bcc72687c4b9c2b2135d4" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_72fc0abab3ae42530b51fb7498231f89" level="file">
-        <did>
-          <unittitle>Killian, Kevin</unittitle>
-          <unitid>cuid21281</unitid>
-          <unitdate datechar="creation" normal="1988/1996" type="inclusive">1988-1996</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_c281c3590e3239dab3cc97e79736a0b8" label="Mixed Materials [31142062728160]" type="Box">4</container>
-          <container id="aspace_f4376597f8092c5d27ca9de242d9f6b5" parent="aspace_c281c3590e3239dab3cc97e79736a0b8" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_3d58ec74ea5c9216ec4d03a7f34b1f16" level="file">
-        <did>
-          <unittitle>McKeown, Adam</unittitle>
-          <unitid>cuid21282</unitid>
-          <unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_53c403b3d903ed035c3f49898203276d" label="Mixed Materials [31142062728160]" type="Box">4</container>
-          <container id="aspace_64a211da93a542d579f1deea5e8887b1" parent="aspace_53c403b3d903ed035c3f49898203276d" type="Folder">10-12</container>
-        </did>
-      </c>
-      <c id="aspace_05f04eb17e591975f7d72353ca833284" level="file">
-        <did>
-          <unittitle>McKeown, Adam: We Drink Our Father's Teeth - audio recording</unittitle>
-          <unitid>cuid21283</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1983-07-10/1983-07-10">1983-07-10</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_bbc732a2aff8cfca61ec7d9ebdc3aafd" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_53eb55b1a410d5c012a806c750294526" level="file">
-        <did>
-          <unittitle>McKeown, Adam: To Kneel Slowly, About Fucking Cows - audio recording</unittitle>
-          <unitid>cuid21284</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_4442c5d11e0510b34a90001f3041f8af" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_a9d13d62532d4f1f88944766a5bf0f0b" level="file">
-        <did>
-          <unittitle>Mor, Barbara</unittitle>
-          <unitid>cuid21285</unitid>
-          <unitdate datechar="creation" normal="1992/2006" type="inclusive">1992-2006</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_d9880489bb4a469080e9e0fe45a3f1b6" label="Mixed Materials [31142062728178]" type="Box">5</container>
-          <container id="aspace_22fdf72f643c71c9f80e237aeebca44d" parent="aspace_d9880489bb4a469080e9e0fe45a3f1b6" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_dc019274a32ec2a85b7f564661c226f1" level="file">
-        <did>
-          <unittitle>Mott, Glenn</unittitle>
-          <unitid>cuid21286</unitid>
-          <unitdate datechar="creation" normal="1991/1991">1991</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_9af189dd9b264c0613742d81d1dbbf9f" label="Mixed Materials [31142062728178]" type="Box">5</container>
-          <container id="aspace_a4cea554ac57c57f06301f79dfdcea4b" parent="aspace_9af189dd9b264c0613742d81d1dbbf9f" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_f71292dc92479898c004a075d2fbd5b8" level="file">
-        <did>
-          <unittitle>P-Orridge, Genesis</unittitle>
-          <unitid>cuid21287</unitid>
-          <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_c7fb514532c0e4f4304b6cab8087ccf1" label="Mixed Materials [31142062728178]" type="Box">5</container>
-          <container id="aspace_6ce9fa10114ee507aee2541f83a254a7" parent="aspace_c7fb514532c0e4f4304b6cab8087ccf1" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_9259c5894e2234c6c7d3c2231df2cc67" level="file">
-        <did>
-          <unittitle>P-Orridge, Paula</unittitle>
-          <unitid>cuid21288</unitid>
-          <unitdate datechar="creation" normal="1990/2002" type="inclusive">1990-2002</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_42b2f3f0dbf47c76c98a15b667c90721" label="Mixed Materials [31142062728178]" type="Box">5</container>
-          <container id="aspace_e431231e0a9d4a527a0ab361777d9851" parent="aspace_42b2f3f0dbf47c76c98a15b667c90721" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_307e8af00097774ddb7c8fdc5723143e" level="file">
-        <did>
-          <unittitle>P-Orridge, Paula: Alaura, Sacred Dreams - audio recording</unittitle>
-          <unitid>cuid21289</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent>
-          </physdesc>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="CD Box - 6  x 15" id="aspace_6d1af89d9a74615c3afc15a94f9877d7" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container>
-        </did>
-      </c>
-      <c id="aspace_f8c7cdb6e51dca659f7ff94bf5ed48c1" level="file">
-        <did>
-          <unittitle>P-Orridge, Paula: Luvzya, Mistress Mix - audio recording</unittitle>
-          <unitid>cuid21290</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_7de48760726a05d91bd6b47b2be2c9f3" label="Audio [31142062728129]" type="Box">Shared Fales 013</container>
-          <container id="aspace_4bbaa27f7f1ee260798ec12329244c22" parent="aspace_7de48760726a05d91bd6b47b2be2c9f3" type="Cassette">cuid21290</container>
-          <container id="aspace_224edbdaae193486845f0b9fa5d1fb80" label="digital_access_copy" type="E-records">fales_mss393</container>
-          <container id="aspace_908bd36e3b4d04e965dc234b9f8112e9" parent="aspace_224edbdaae193486845f0b9fa5d1fb80" type="E-records">cuid21290</container>
-        </did>
-        <scopecontent id="aspace_a7311721edb93ec4f2fa36506f7010e8">
-          <head>Scope and Contents</head>
-          <p>A mix of commercial music made by Paula P-Orridge.</p>
-        </scopecontent>
-        <phystech id="aspace_4421bc309921247367279696e9670ef6">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 92 minutes</p>
-        </phystech>
-      </c>
-      <c id="aspace_261b64aa225c119e157742ad39727454" level="file">
-        <did>
-          <unittitle>Prevallet, Kristin</unittitle>
-          <unitid>cuid21291</unitid>
-          <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_736eca3429ac7114a64d5dd767088423" label="Mixed Materials [31142062728178]" type="Box">5</container>
-          <container id="aspace_bb96a1c3488e735923cde89266ceba26" parent="aspace_736eca3429ac7114a64d5dd767088423" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_2840182c2840cba4f4d649aa563397b0" level="file">
-        <did>
-          <unittitle>Ramraid Extraordinaire</unittitle>
-          <unitid>cuid21292</unitid>
-          <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_4cc03b3e7933a3152b8f4167cd386740" label="Mixed Materials [31142062728178]" type="Box">5</container>
-          <container id="aspace_eccf3d13e46ed709b68c52ff76c3d0bf" parent="aspace_4cc03b3e7933a3152b8f4167cd386740" type="Folder">6-7</container>
-        </did>
-      </c>
-      <c id="aspace_817319bf0b0978bf12f2b634eb5eb5f7" level="file">
-        <did>
-          <unittitle>Rushmer, David</unittitle>
-          <unitid>cuid21293</unitid>
-          <unitdate datechar="creation" normal="1987/2008" type="inclusive">1987-2008</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_c97d23b7eaba7bd1efc011a5d069ea63" label="Mixed Materials [31142062728178]" type="Box">5</container>
-          <container id="aspace_423c47eb894bb1f8fa47804bb8562111" parent="aspace_c97d23b7eaba7bd1efc011a5d069ea63" type="Folder">8-12</container>
-        </did>
-      </c>
-      <c id="aspace_15a1fbaf786c1457f4fc11f4e5f039a3" level="file">
-        <did>
-          <unittitle>Rushmer, David: Absence, etc. - audio recording</unittitle>
-          <unitid>cuid21294</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_7b971b6bd663d843e4dfc209b9b6a7b1" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_6b687bdf82038b651e12bd2a8b57c526" level="file">
-        <did>
-          <unittitle>Selby, Spencer</unittitle>
-          <unitid>cuid21295</unitid>
-          <unitdate datechar="creation" normal="1988/2003" type="inclusive">1988-2003</unitdate>
-          <container altrender="Manuscript box - Letter" id="aspace_326b70fdd04c9ef61f5c74a1beaa212b" label="Mixed Materials [31142062728178]" type="Box">5</container>
-          <container id="aspace_c750c0f505fdbf31597ec7bf53ccb07f" parent="aspace_326b70fdd04c9ef61f5c74a1beaa212b" type="Folder">13-14</container>
-          <container altrender="Manuscript box - Legal" id="aspace_c7edff9047023914af115c549844207b" label="Mixed Materials [31142062728186]" type="Box">6</container>
-          <container id="aspace_aa38bbf638e548b146a98163f06c80b1" parent="aspace_c7edff9047023914af115c549844207b" type="Folder">1-2</container>
-        </did>
-      </c>
-      <c id="aspace_57326a4bf2ef96713f41b0683ccd46c5" level="file">
-        <did>
-          <unittitle>Sellers, Terence</unittitle>
-          <unitid>cuid21296</unitid>
-          <unitdate datechar="creation" normal="1990/1995" type="inclusive">1990-1995</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_7c0ec791f536dd72ddaef06565b81a51" label="Mixed Materials [31142062728186]" type="Box">6</container>
-          <container id="aspace_7083374c0dd6ac7c37d35243435a6a2b" parent="aspace_7c0ec791f536dd72ddaef06565b81a51" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_24e85b18c5a6441b354d04844b97e863" level="file">
-        <did>
-          <unittitle>Shiny International</unittitle>
-          <unitid>cuid21297</unitid>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_490bd6b3dff48e3efd24e78c572f4833" label="Mixed Materials [31142062728186]" type="Box">6</container>
-          <container id="aspace_e6fa5821b5769f3f26d613af72a5d388" parent="aspace_490bd6b3dff48e3efd24e78c572f4833" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_21d81429922a8e7e75d2062b534a1f85" level="file">
-        <did>
-          <unittitle>Silverberg, Ira</unittitle>
-          <unitid>cuid21298</unitid>
-          <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c1d9e97853dfd7a9fb10d837ab1a186e" label="Mixed Materials [31142062728186]" type="Box">6</container>
-          <container id="aspace_4de6bb873c1ccd46146e129613d79ac1" parent="aspace_c1d9e97853dfd7a9fb10d837ab1a186e" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_945efb98bafddb9cf9004c4d7a2e7e85" level="file">
-        <did>
-          <unittitle>Sullivan, Gary</unittitle>
-          <unitid>cuid21299</unitid>
-          <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a7286561b72db7786273bcf365dbaeca" label="Mixed Materials [31142062728186]" type="Box">6</container>
-          <container id="aspace_55f983f1584d893e9bd4bb48f1807ea4" parent="aspace_a7286561b72db7786273bcf365dbaeca" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_27f2a0556a723b3d2daf94e082fa2a58" level="file">
-        <did>
-          <unittitle>Taylor, Ian</unittitle>
-          <unitid>cuid21300</unitid>
-          <unitdate datechar="creation" normal="1993/2002" type="inclusive">1993-2002</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_fb3025c4ad2f11923ae55d96e42800e7" label="Mixed Materials [31142062728186]" type="Box">6</container>
-          <container id="aspace_0799248a197242e3629a6e8671907666" parent="aspace_fb3025c4ad2f11923ae55d96e42800e7" type="Folder">7-11</container>
-        </did>
-      </c>
-      <c id="aspace_73768cdc0bc65bdb260f9f07340c6128" level="file">
-        <did>
-          <unittitle>Taylor, Ian: Despite the Vicissitudes of Fate - audio recording</unittitle>
-          <unitid>cuid21301</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_2637b04027148b7835c7e9e34836fe5a" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_059d8152570d52c4c76adb24802034fc" level="file">
-        <did>
-          <unittitle>Taylor, Ian: Inarticulate - audio recording</unittitle>
-          <unitid>cuid21302</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_2efe8e96b931f49582e479f062ec692c" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_8c0d7c125fb02b9f2c7b4e6d720f2264" level="file">
-        <did>
-          <unittitle>Taylor, Ian: September-November - audio recording</unittitle>
-          <unitid>cuid21303</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1982/1995" type="inclusive">1982-1995</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_eea5536c126612e6548e5e15c9faaddb" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_9a19a98a0e24a07d4a0c8f9215fac4b1" level="file">
-        <did>
-          <unittitle>Waid, Mark</unittitle>
-          <unitid>cuid21304</unitid>
-          <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c23fb598ef0270b4ffad582479ffad18" label="Mixed Materials [31142062728186]" type="Box">6</container>
-          <container id="aspace_fc6aafe37183cac677fea0dfe811520e" parent="aspace_c23fb598ef0270b4ffad582479ffad18" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_582c7a5bca4b724555853fd1e74d1244" level="file">
-        <did>
-          <unittitle>Unarranged correspondence</unittitle>
-          <unitid>cuid21305</unitid>
-          <unitdate datechar="creation" normal="1988/1993" type="inclusive">1988-1993</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1f9315d8f68a0bd13f02035427e2cf90" label="Mixed Materials [31142062728186]" type="Box">6</container>
-          <container id="aspace_66bf8a877a7c38724bdb01b4b8152266" parent="aspace_1f9315d8f68a0bd13f02035427e2cf90" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_39461d353d51b0bf0e2908eabe18f388" level="file">
-        <did>
-          <unittitle>Unidentified: A Skin Book - audio recording</unittitle>
-          <unitid>cuid21306</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_2564fa590fba34428a24637c65cf42dd" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container>
-        </did>
-      </c>
-      <c id="aspace_21ea35b1ed3ec1e431ee4818ba6b0e6b" level="file">
-        <did>
-          <unittitle>Unidentified: The Oral Persecution - audio recording</unittitle>
-          <unitid>cuid21307</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
-          </physdesc>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Card Box 5.75" id="aspace_c73dbcbb6a64167a24cbac3ed4bd1a50" label="Audio [31142062728129]" type="Box">Shared Fales 013</container>
-          <container id="aspace_ef552696a9fb53e8b4ca60d443bb24ab" parent="aspace_c73dbcbb6a64167a24cbac3ed4bd1a50" type="Cassette">cuid21307</container>
-          <container id="aspace_6dd6b0cb88c6b3405fab6551e9052ad8" label="digital_access_copy" type="E-records">fales_mss393</container>
-          <container id="aspace_d189f7500b1164910abb8c94c2cad3e0" parent="aspace_6dd6b0cb88c6b3405fab6551e9052ad8" type="E-records">cuid21307</container>
-        </did>
-        <phystech id="aspace_9a28b551ad2e30513e609b960025d158">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Format: 1/8" audiocassette, Duration: 38 min., Preservation note: "Side 1 signal-to-noise ratio is very low, with high background noise. Side 2 is blank (ambient sound only)."</p>
-        </phystech>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>MSS.393</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      <extent altrender="carrier">in 6 manuscript boxes, 2 card boxes, and 1 folder in a shared box.</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">9 audiocassettes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">6 sound discs (cd)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1977/2011" type="inclusive">1977-2011</unitdate>
+    <abstract id="aspace_0590471711c872559670e60b341a5533">Don Dombowsky is a Friedrich Nietzsche scholar and poet who wrote and published poetry under the name Don David in New York City during the late 1980s-90s. The collection contains Dombowsky's correspondence with other writers and artists Dombowksy met during his time in New York. Materials also include manuscripts, publications, and audio recordings created by the writers and artists Dowmbowsky maintained contact with, as well as some of his own work. Materials date from 1977 to 2011.</abstract>
+    <physloc id="aspace_dcbdfe38f9ec3b6bed0c2382254bb98c">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_f54fba450f25addec048f0f6729bf140">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_46325e421cdabf21a721908eda479266">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_59ce7f406383951de54d8fa35f227aa8">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Donald Dombowsky, 2014. The accession number associated with this gift is 2014.393</p>  </acqinfo>
+  <arrangement id="aspace_aac34c23bc9951949a763fdf8b7aec1f">
+    <head>Arrangement</head>
+<p>Maintaining Dombowsky's order, materials are listed alphabetically by author or organization. Unarranged correspondence and unidentified audio recordings are listed at the end.</p>  </arrangement>
+  <bioghist id="aspace_1d7a992d1ce77f72374058983df87fc8">
+    <head>Biographical Note</head>
+<p>Don Dombowsky is a Friedrich Nietzsche scholar and poet who wrote and published poetry under the name Don David in New York City during the late 1980s-90s. During this time he was very involved with the Lower East Side magazine <emph render="italic">Long News in the Short Century</emph> edited by Barbara Henning as well as writers and artists associated with <emph render="italic">Shiny</emph> magazine edited by Michael Friedman.</p><p>Originally from Canada, Dombowsky moved to NYC to study philosophy at the New School. He made contact with Dennis Cooper at St. Mark's who put him in touch with Leland Hickman and Kevin Killian who in turn brought him into contact with a range of fascinating poets, writers, publishers, and artists including Paul Buck.</p><p>Dombowsky works as an Assistant Professor at Bishop's University, teaching selected topics in the history of philosophy, politics and art.</p>  </bioghist>
+  <phystech id="aspace_720e0168055f342320e1ed207b2b5a8f">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <prefercite id="aspace_3de85b611131cb8e1a4ae3617a572a25">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Donald Dombowsky Papers; MSS 393; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_aad17a9b4d2b73bfcfc4303721d42766">
+    <head>Processing Information</head>
+<p>Materials placed in archival folders and boxes. In preparation for materials to be sent offsite, audio recordings were removed from their original boxes. The order in which the materials were received has been maintained.</p>  </processinfo>
+  <scopecontent id="aspace_251594bf133a8fccdf5da55232447b87">
+    <head>Scope and Contents</head>
+<p>This collection contains the papers of Don Dombowsky. A majority of the collection contains Dombowsky's correspondence with writers and artists, including Terrence Sellers, Barbara Henning, and Paul Buck. The collection also contains manuscripts, publications, and audio recordings created by Dombowsky and other writers and artists whom Dombowsky maintained contact with. Materials date from 1977 to 2011.</p>  </scopecontent>
+  <userestrict id="aspace_9a3bc01027dea8066a323d2da92b50c1">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Donald Dombowsky was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Poets, Canadian.</subject>
+    <subject source="lcsh">Poets, American.</subject>
+    <subject source="lcsh">Authors, American.</subject>
+    <subject source="lcsh">Authors, Canadian.</subject>
+    <subject source="lcsh">Authors and artists.</subject>
+    <subject source="lcsh">Artists -- United States.</subject>
+    <persname role="dnr" source="naf">Dombowsky, Don</persname>
+  </controlaccess>
+  <dsc><c id="aspace_c79a2122e60961bd66a45bffa7b91c09" level="file"><did><unittitle>Acker, Kathy</unittitle><unitid>cuid21258</unitid><unitdate datechar="creation" normal="1984/1984">1984</unitdate><container altrender="Manuscript box - Letter" id="aspace_f7ff92b33291505c7dabb1349ee68c7e" label="Mixed Materials [31142062728137]" type="Box">1</container><container id="aspace_319186d46d9b13a02de7b2ed382e0104" parent="aspace_f7ff92b33291505c7dabb1349ee68c7e" type="Folder">1</container></did></c><c id="aspace_06569019453fd1b6add48923c04f0805" level="file"><did><unittitle>Barber, Stephen</unittitle><unitid>cuid21259</unitid><unitdate datechar="creation" normal="1993/1996" type="inclusive">1993-1996</unitdate><container altrender="Manuscript box - Letter" id="aspace_fe07acfa301e50d46d0db0c9811e0cc1" label="Mixed Materials [31142062728137]" type="Box">1</container><container id="aspace_e53ca52fe66c84df9da280cd79bd1def" parent="aspace_fe07acfa301e50d46d0db0c9811e0cc1" type="Folder">2</container></did></c><c id="aspace_ee4019fed39e3b315a7a6c6e2367bf2e" level="file"><did><unittitle>Barton, David</unittitle><unitid>cuid21260</unitid><unitdate datechar="creation" normal="1977/1997" type="inclusive">1977-1997</unitdate><container altrender="Manuscript box - Letter" id="aspace_1ac511a125a3d7c0c428e8eaeff5e9d1" label="Mixed Materials [31142062728137]" type="Box">1</container><container id="aspace_7f5882c6cd97c63705eefbf0acb6177a" parent="aspace_1ac511a125a3d7c0c428e8eaeff5e9d1" type="Folder">3-6</container></did></c><c id="aspace_15bee898b30f1270505976f2e9be3372" level="file"><did><unittitle>Buck, Paul</unittitle><unitid>cuid21261</unitid><unitdate datechar="creation" normal="1979/1995" type="inclusive">1979-1995</unitdate><container altrender="Manuscript box - Letter" id="aspace_4667e374c0e519153c585dd68485b215" label="Mixed Materials [31142062728137]" type="Box">1</container><container id="aspace_e1ddb47a8a5548784f341a7fe27d6d5b" parent="aspace_4667e374c0e519153c585dd68485b215" type="Folder">7-10</container></did></c><c id="aspace_99d3e2f0f88033eacc302cfc18f08f06" level="file"><did><unittitle>Buck, Paul: Paul Buck, Melinda Miel - audio recording</unittitle><unitid>cuid21262</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container altrender="Card Box 5.75" id="aspace_a195d6514d881f7b05e17e18be83f6bd" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_1f87903b0d4f169934d78456b8ab97fe" level="file"><did><unittitle>Buck, Paul: Paul Buck, Allen Fisher, Gilbert A. Dave, David Rushmer - audio recording</unittitle><unitid>cuid21263</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_bc0450808f57b974ddd99f13416e21df" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_182d8a15db5ff5c241b9000d163877c0" level="file"><did><unittitle>Cole, Norma</unittitle><unitid>cuid21264</unitid><unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate><container altrender="Manuscript box - Letter" id="aspace_7c9c894e2e50ff0817ff30ec8ddbaeae" label="Mixed Materials [31142062728137]" type="Box">1</container><container id="aspace_9b1fc4f6b09aa79cb960b4941775e8cc" parent="aspace_7c9c894e2e50ff0817ff30ec8ddbaeae" type="Folder">11-12</container></did></c><c id="aspace_f71c028b6671e938895d59b041ea2c35" level="file"><did><unittitle>Cussans, John</unittitle><unitid>cuid21265</unitid><unitdate datechar="creation" normal="1988/1998" type="inclusive">1988-1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_01ab325cf34b4700f8edfa8e106774bd" label="Mixed Materials [31142062728145]" type="Box">2</container><container id="aspace_e83fed1331362e8cb687e6e45c1864b6" parent="aspace_01ab325cf34b4700f8edfa8e106774bd" type="Folder">1-2</container></did></c><c id="aspace_a3d51f4a6a8f1a7db6c2bd4189712acf" level="file"><did><unittitle>Cussans, John: Frozen Tears, Cracking the Glitch - audio recording</unittitle><unitid>cuid21266</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent></physdesc><unitdate datechar="creation">undated</unitdate><container altrender="CD Box - 6  x 15" id="aspace_670e95ed918a9dd0f116cb67a9be956f" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container></did></c><c id="aspace_7422cd93d8a039e4b9d4f4449f38781b" level="file"><did><unittitle>Custer, Chris</unittitle><unitid>cuid21267</unitid><unitdate datechar="creation" normal="1989/1996" type="inclusive">1989-1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_735e9c5d141c667c103b2a3e23804b01" label="Mixed Materials [31142062728145]" type="Box">2</container><container id="aspace_e3443f1d2d7a4e18496ae6059a1a09d4" parent="aspace_735e9c5d141c667c103b2a3e23804b01" type="Folder">3-4</container><container altrender="Flat OS Box 17" id="aspace_e51ab41b8d7368bdba59576443bebdb1" label="Mixed Materials [31142062732568]" type="Box">Shared Fales 011</container><container id="aspace_7535a5cbfcc80d4f039d3e386c7ce6b8" parent="aspace_e51ab41b8d7368bdba59576443bebdb1" type="Folder">2</container></did></c><c id="aspace_15f1014f6e1335436189611ede62218b" level="file"><did><unittitle>Don David (Dombowsky)</unittitle><unitid>cuid21268</unitid><unitdate datechar="creation" normal="1985/2006" type="inclusive">1985-2006</unitdate><container altrender="Manuscript box - Legal" id="aspace_7b6eb971697c17619e6eb8c8e273596e" label="Mixed Materials [31142062728145]" type="Box">2</container><container id="aspace_991913c503e31f4fdc25307dc916c328" parent="aspace_7b6eb971697c17619e6eb8c8e273596e" type="Folder">5-6</container></did></c><c id="aspace_2155bb7b516f8fd264913299a9cf280d" level="file"><did><unittitle>Don David (Dombowsky): The Template, The Forgotten Door - audio recording</unittitle><unitid>cuid21269</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent></physdesc><unitdate datechar="creation">undated</unitdate><container altrender="CD Box - 6  x 15" id="aspace_4116edc3ed838050e40bbc897b51c619" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container></did></c><c id="aspace_f1aac1eff5782d4c2892a75172c52391" level="file"><did><unittitle>Don David (Dombowsky): RE:USE - audio recording</unittitle><unitid>cuid21270</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent></physdesc><unitdate datechar="creation" normal="2002/2002">2002</unitdate><container altrender="CD Box - 6  x 15" id="aspace_04c4d93c5715b3dde5287ba18c4f7670" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container></did></c><c id="aspace_ddbf00b1702c4b468912dc76f44891e3" level="file"><did><unittitle>Duvier, Francoise</unittitle><unitid>cuid21271</unitid><unitdate datechar="creation" normal="1992/2011" type="inclusive">1992-2011</unitdate><container altrender="Manuscript box - Legal" id="aspace_786021b9403a0d3a2df421384948fd0e" label="Mixed Materials [31142062728145]" type="Box">2</container><container id="aspace_0347eea3b0a0fb4108480e05250b0a93" parent="aspace_786021b9403a0d3a2df421384948fd0e" type="Folder">7-12</container><container altrender="Manuscript box - Legal" id="aspace_aa2610acc057dff85286ebb6918e3535" label="Mixed Materials [31142062728152]" type="Box">3</container><container id="aspace_15d1fbfc0a1dfef26ea6ce092d47e232" parent="aspace_aa2610acc057dff85286ebb6918e3535" type="Folder">1-3</container></did></c><c id="aspace_75e9b79c43f5625d80aae6bffe538421" level="file"><did><unittitle>Duvier, Francoise: Dive Images - audio recording</unittitle><unitid>cuid21272</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent></physdesc><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container altrender="CD Box - 6  x 15" id="aspace_9deed0c01e2c0dde388cc625dafd2e78" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container></did></c><c id="aspace_879c5736293196eb4dbbed1f278eee16" level="file"><did><unittitle>Duvier, Francoise: Unbecoming An International Compilation - audio recording</unittitle><unitid>cuid21273</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent></physdesc><unitdate datechar="creation" normal="1993/1993">1993</unitdate><container altrender="CD Box - 6  x 15" id="aspace_42073663805b773e8bcf65c3a192d7fd" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container></did></c><c id="aspace_759c38f1b488d6fec080f3b34a4cd828" level="file"><did><unittitle>Edwards, Ken</unittitle><unitid>cuid21274</unitid><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_f90004000132173dc3d9ad8c4e9544a6" label="Mixed Materials [31142062728152]" type="Box">3</container><container id="aspace_8a76b067fd542a6edb2b4910e2afea2e" parent="aspace_f90004000132173dc3d9ad8c4e9544a6" type="Folder">4</container></did></c><c id="aspace_97173b5c5627992a9d1642b445cfbda1" level="file"><did><unittitle>Green, Paul</unittitle><unitid>cuid21275</unitid><unitdate datechar="creation" normal="1984/1994" type="inclusive">1984-1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_00e1209ffed9a4f0672a78b866df028b" label="Mixed Materials [31142062728152]" type="Box">3</container><container id="aspace_44d3e6984cc0b1ff0fc1d57b2d686c93" parent="aspace_00e1209ffed9a4f0672a78b866df028b" type="Folder">5-7</container></did></c><c id="aspace_3bcbaa45eea4e568e547a2eb0002c34c" level="file"><did><unittitle>Hall, Steven</unittitle><unitid>cuid21276</unitid><unitdate datechar="creation" normal="1987/1987">1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_a932707944c1c2d97ce8fb4cf96c1632" label="Mixed Materials [31142062728152]" type="Box">3</container><container id="aspace_01c5bc32cc0c5ee886a0f0123b1b160d" parent="aspace_a932707944c1c2d97ce8fb4cf96c1632" type="Folder">8</container></did></c><c id="aspace_d608dc55513c16919d5d920c7769a343" level="file"><did><unittitle>Henning, Barbara</unittitle><unitid>cuid21277</unitid><unitdate datechar="creation" normal="1988/2006" type="inclusive">1988-2006</unitdate><container altrender="Manuscript box - Legal" id="aspace_65b62551ea46ca447d0d13824c7f2648" label="Mixed Materials [31142062728152]" type="Box">3</container><container id="aspace_86cd86d64665af8660d2af76194bde7c" parent="aspace_65b62551ea46ca447d0d13824c7f2648" type="Folder">9-11</container><container altrender="Manuscript box - Letter" id="aspace_9e7f5d6a4cc000b4a2a0b1a31a069dd9" label="Mixed Materials [31142062728160]" type="Box">4</container><container id="aspace_f2cc89737b1f1c1fb37610c71a9e9173" parent="aspace_9e7f5d6a4cc000b4a2a0b1a31a069dd9" type="Folder">1-4</container></did></c><c id="aspace_190dfbd739b19c0b43e70fa5c90488e2" level="file"><did><unittitle>Hickman, Leland</unittitle><unitid>cuid21278</unitid><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Manuscript box - Letter" id="aspace_078e7b8c231c6c74fce26c7fa97c5187" label="Mixed Materials [31142062728160]" type="Box">4</container><container id="aspace_008323ce50ba5029d7b0db8d47d2c5eb" parent="aspace_078e7b8c231c6c74fce26c7fa97c5187" type="Folder">5-6</container></did></c><c id="aspace_c0c4ee87166f09eb2fbde14420cf13f5" level="file"><did><unittitle>Karasick, Adeena</unittitle><unitid>cuid21279</unitid><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container altrender="Manuscript box - Letter" id="aspace_d706f1bcb34b27b20a60c02c5bac3907" label="Mixed Materials [31142062728160]" type="Box">4</container><container id="aspace_d3a79126c1096eb747d8a5327a1d0516" parent="aspace_d706f1bcb34b27b20a60c02c5bac3907" type="Folder">7</container></did></c><c id="aspace_e38b5092881e72a3c68c054cbdeb2fdd" level="file"><did><unittitle>Keating, Neil</unittitle><unitid>cuid21280</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_edced70b652bcd0d2fa781b40e56456b" label="Mixed Materials [31142062728160]" type="Box">4</container><container id="aspace_b1e05bf8b46af5f1af38504761127447" parent="aspace_edced70b652bcd0d2fa781b40e56456b" type="Folder">8</container></did></c><c id="aspace_72fc0abab3ae42530b51fb7498231f89" level="file"><did><unittitle>Killian, Kevin</unittitle><unitid>cuid21281</unitid><unitdate datechar="creation" normal="1988/1996" type="inclusive">1988-1996</unitdate><container altrender="Manuscript box - Letter" id="aspace_38f162ae942516bd2a8c6f52e05f9490" label="Mixed Materials [31142062728160]" type="Box">4</container><container id="aspace_45050df947ff051ba5c2caaab097012b" parent="aspace_38f162ae942516bd2a8c6f52e05f9490" type="Folder">9</container></did></c><c id="aspace_3d58ec74ea5c9216ec4d03a7f34b1f16" level="file"><did><unittitle>McKeown, Adam</unittitle><unitid>cuid21282</unitid><unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate><container altrender="Manuscript box - Letter" id="aspace_b33cd53b35a0f191b15bbd8767ba5933" label="Mixed Materials [31142062728160]" type="Box">4</container><container id="aspace_bec74fb0f715355fae59509f5a80cbeb" parent="aspace_b33cd53b35a0f191b15bbd8767ba5933" type="Folder">10-12</container></did></c><c id="aspace_05f04eb17e591975f7d72353ca833284" level="file"><did><unittitle>McKeown, Adam: We Drink Our Father's Teeth - audio recording</unittitle><unitid>cuid21283</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation" normal="1983-07-10/1983-07-10">1983-07-10</unitdate><container altrender="Card Box 5.75" id="aspace_2acd9f87567b630786509c10d63b92b9" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_53eb55b1a410d5c012a806c750294526" level="file"><did><unittitle>McKeown, Adam: To Kneel Slowly, About Fucking Cows - audio recording</unittitle><unitid>cuid21284</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_f477982404db41f36196344630a01e14" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_a9d13d62532d4f1f88944766a5bf0f0b" level="file"><did><unittitle>Mor, Barbara</unittitle><unitid>cuid21285</unitid><unitdate datechar="creation" normal="1992/2006" type="inclusive">1992-2006</unitdate><container altrender="Manuscript box - Letter" id="aspace_409f5060519cf641b24e61229a034b07" label="Mixed Materials [31142062728178]" type="Box">5</container><container id="aspace_0c0e42ab5ff220c9ffe5c623f535dcc4" parent="aspace_409f5060519cf641b24e61229a034b07" type="Folder">1</container></did></c><c id="aspace_dc019274a32ec2a85b7f564661c226f1" level="file"><did><unittitle>Mott, Glenn</unittitle><unitid>cuid21286</unitid><unitdate datechar="creation" normal="1991/1991">1991</unitdate><container altrender="Manuscript box - Letter" id="aspace_725351e8064bfe1640d5f575811ea352" label="Mixed Materials [31142062728178]" type="Box">5</container><container id="aspace_7c91f0c1e9a3d1c7eb972ce8e6673897" parent="aspace_725351e8064bfe1640d5f575811ea352" type="Folder">2</container></did></c><c id="aspace_f71292dc92479898c004a075d2fbd5b8" level="file"><did><unittitle>P-Orridge, Genesis</unittitle><unitid>cuid21287</unitid><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container altrender="Manuscript box - Letter" id="aspace_e0a4cdecce1eef2fd374d054fe59f0e7" label="Mixed Materials [31142062728178]" type="Box">5</container><container id="aspace_98e0778fe94cd4f0f34a7d9f05cd2d94" parent="aspace_e0a4cdecce1eef2fd374d054fe59f0e7" type="Folder">3</container></did></c><c id="aspace_9259c5894e2234c6c7d3c2231df2cc67" level="file"><did><unittitle>P-Orridge, Paula</unittitle><unitid>cuid21288</unitid><unitdate datechar="creation" normal="1990/2002" type="inclusive">1990-2002</unitdate><container altrender="Manuscript box - Letter" id="aspace_a484c0193e27ae9c4cede4dcf03c4971" label="Mixed Materials [31142062728178]" type="Box">5</container><container id="aspace_11b8defbb38b8dccc13ea94572a8b95e" parent="aspace_a484c0193e27ae9c4cede4dcf03c4971" type="Folder">4</container></did></c><c id="aspace_307e8af00097774ddb7c8fdc5723143e" level="file"><did><unittitle>P-Orridge, Paula: Alaura, Sacred Dreams - audio recording</unittitle><unitid>cuid21289</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 sound disc (cd)</extent></physdesc><unitdate datechar="creation">undated</unitdate><container altrender="CD Box - 6  x 15" id="aspace_25b414d71b77a4e70297423ec0519ae9" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container></did></c><c id="aspace_f8c7cdb6e51dca659f7ff94bf5ed48c1" level="file"><did><unittitle>P-Orridge, Paula: Luvzya, Mistress Mix - audio recording</unittitle><unitid>cuid21290</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_8b9af59874dcdca7d9ed93a030cbc177" label="Audio [31142062728129]" type="Box">Shared Fales 013</container><container id="aspace_ae5ebe8716c17d17da414f789b2dde42" parent="aspace_8b9af59874dcdca7d9ed93a030cbc177" type="Cassette">cuid21290</container><container id="aspace_7fa65fb5fe5c2102cc17352ab09c8a63" label="electronic records" type="E-records">fales_mss393</container><container id="aspace_c1b936db24a5c75460a1faeeba6c8757" parent="aspace_7fa65fb5fe5c2102cc17352ab09c8a63" type="E-records">cuid21290</container></did><scopecontent id="aspace_a7311721edb93ec4f2fa36506f7010e8"><head>Scope and Contents</head><p>A mix of commercial music made by Paula P-Orridge.</p></scopecontent><phystech id="aspace_4421bc309921247367279696e9670ef6"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 92 minutes</p></phystech></c><c id="aspace_261b64aa225c119e157742ad39727454" level="file"><did><unittitle>Prevallet, Kristin</unittitle><unitid>cuid21291</unitid><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container altrender="Manuscript box - Letter" id="aspace_766ab4481499e37d0407997757c2d252" label="Mixed Materials [31142062728178]" type="Box">5</container><container id="aspace_599e68f3eb56f08aa326937c50f1961e" parent="aspace_766ab4481499e37d0407997757c2d252" type="Folder">5</container></did></c><c id="aspace_2840182c2840cba4f4d649aa563397b0" level="file"><did><unittitle>Ramraid Extraordinaire</unittitle><unitid>cuid21292</unitid><unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate><container altrender="Manuscript box - Letter" id="aspace_5f3efe02032fadb804b85c9c53eadf29" label="Mixed Materials [31142062728178]" type="Box">5</container><container id="aspace_d2912bc40aced0b79afa04667ea07d8a" parent="aspace_5f3efe02032fadb804b85c9c53eadf29" type="Folder">6-7</container></did></c><c id="aspace_817319bf0b0978bf12f2b634eb5eb5f7" level="file"><did><unittitle>Rushmer, David</unittitle><unitid>cuid21293</unitid><unitdate datechar="creation" normal="1987/2008" type="inclusive">1987-2008</unitdate><container altrender="Manuscript box - Letter" id="aspace_c0173e6815c0ba38d83b7c87fa7b138a" label="Mixed Materials [31142062728178]" type="Box">5</container><container id="aspace_024f0620414245def13490c5b042e4c2" parent="aspace_c0173e6815c0ba38d83b7c87fa7b138a" type="Folder">8-12</container></did></c><c id="aspace_15a1fbaf786c1457f4fc11f4e5f039a3" level="file"><did><unittitle>Rushmer, David: Absence, etc. - audio recording</unittitle><unitid>cuid21294</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation" normal="1990/1990">1990</unitdate><container altrender="Card Box 5.75" id="aspace_916f53f3067eaf10db451e94f308a76e" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_6b687bdf82038b651e12bd2a8b57c526" level="file"><did><unittitle>Selby, Spencer</unittitle><unitid>cuid21295</unitid><unitdate datechar="creation" normal="1988/2003" type="inclusive">1988-2003</unitdate><container altrender="Manuscript box - Letter" id="aspace_bd3b854f0c78cf78caa1acdb142d6a0f" label="Mixed Materials [31142062728178]" type="Box">5</container><container id="aspace_b92bbf5785d4b3a980f7a409fbfbe6ac" parent="aspace_bd3b854f0c78cf78caa1acdb142d6a0f" type="Folder">13-14</container><container altrender="Manuscript box - Legal" id="aspace_6988096814b900b66c068ccebcdc575d" label="Mixed Materials [31142062728186]" type="Box">6</container><container id="aspace_c05594b51395f9253e4788cbac30f052" parent="aspace_6988096814b900b66c068ccebcdc575d" type="Folder">1-2</container></did></c><c id="aspace_57326a4bf2ef96713f41b0683ccd46c5" level="file"><did><unittitle>Sellers, Terence</unittitle><unitid>cuid21296</unitid><unitdate datechar="creation" normal="1990/1995" type="inclusive">1990-1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_055fcdf0c7a6e29cfe1ad57452b4e228" label="Mixed Materials [31142062728186]" type="Box">6</container><container id="aspace_422612297ffb82dbc0ac839dbf4697fc" parent="aspace_055fcdf0c7a6e29cfe1ad57452b4e228" type="Folder">3</container></did></c><c id="aspace_24e85b18c5a6441b354d04844b97e863" level="file"><did><unittitle>Shiny International</unittitle><unitid>cuid21297</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_387b1ab6b106e2f09d4c607a5d7511d8" label="Mixed Materials [31142062728186]" type="Box">6</container><container id="aspace_ebaf5bb944f98ebb5414054aba0e3f41" parent="aspace_387b1ab6b106e2f09d4c607a5d7511d8" type="Folder">4</container></did></c><c id="aspace_21d81429922a8e7e75d2062b534a1f85" level="file"><did><unittitle>Silverberg, Ira</unittitle><unitid>cuid21298</unitid><unitdate datechar="creation" normal="1986/1986">1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_a1dc72c056003e541eae0a6ac16aacd5" label="Mixed Materials [31142062728186]" type="Box">6</container><container id="aspace_7b5ae4dcd7c3476363af278ad33a1876" parent="aspace_a1dc72c056003e541eae0a6ac16aacd5" type="Folder">5</container></did></c><c id="aspace_945efb98bafddb9cf9004c4d7a2e7e85" level="file"><did><unittitle>Sullivan, Gary</unittitle><unitid>cuid21299</unitid><unitdate datechar="creation" normal="1994/1994">1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_e6c45c4f24980863e59f3bc36bbc2823" label="Mixed Materials [31142062728186]" type="Box">6</container><container id="aspace_7f42a0db51184b286c84be02c504eaf9" parent="aspace_e6c45c4f24980863e59f3bc36bbc2823" type="Folder">6</container></did></c><c id="aspace_27f2a0556a723b3d2daf94e082fa2a58" level="file"><did><unittitle>Taylor, Ian</unittitle><unitid>cuid21300</unitid><unitdate datechar="creation" normal="1993/2002" type="inclusive">1993-2002</unitdate><container altrender="Manuscript box - Legal" id="aspace_904f3cdb1593f838d70dcda4430c1dc6" label="Mixed Materials [31142062728186]" type="Box">6</container><container id="aspace_9cac4ad9269bf00fa90b5007e9a3fc40" parent="aspace_904f3cdb1593f838d70dcda4430c1dc6" type="Folder">7-11</container></did></c><c id="aspace_73768cdc0bc65bdb260f9f07340c6128" level="file"><did><unittitle>Taylor, Ian: Despite the Vicissitudes of Fate - audio recording</unittitle><unitid>cuid21301</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container altrender="Card Box 5.75" id="aspace_b8ae6093f6645391339f60295e890e9a" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_059d8152570d52c4c76adb24802034fc" level="file"><did><unittitle>Taylor, Ian: Inarticulate - audio recording</unittitle><unitid>cuid21302</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation" normal="1996/1996">1996</unitdate><container altrender="Card Box 5.75" id="aspace_a8e121f881061282d8d8e91664ed3936" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_8c0d7c125fb02b9f2c7b4e6d720f2264" level="file"><did><unittitle>Taylor, Ian: September-November - audio recording</unittitle><unitid>cuid21303</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation" normal="1982/1995" type="inclusive">1982-1995</unitdate><container altrender="Card Box 5.75" id="aspace_85d5c5269b8d77fc7bb6792d831fdf85" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_9a19a98a0e24a07d4a0c8f9215fac4b1" level="file"><did><unittitle>Waid, Mark</unittitle><unitid>cuid21304</unitid><unitdate datechar="creation" normal="1989/1989">1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_381d0436b8c9c2eacae3d34f007f53d2" label="Mixed Materials [31142062728186]" type="Box">6</container><container id="aspace_9547da01d7c4449484bd37d930f6b257" parent="aspace_381d0436b8c9c2eacae3d34f007f53d2" type="Folder">12</container></did></c><c id="aspace_582c7a5bca4b724555853fd1e74d1244" level="file"><did><unittitle>Unarranged correspondence</unittitle><unitid>cuid21305</unitid><unitdate datechar="creation" normal="1988/1993" type="inclusive">1988-1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_cc124d2d391c9eec0abb6ab659404c69" label="Mixed Materials [31142062728186]" type="Box">6</container><container id="aspace_91b8f2f5e3f9e49a93e263bbdc51153d" parent="aspace_cc124d2d391c9eec0abb6ab659404c69" type="Folder">13</container></did></c><c id="aspace_39461d353d51b0bf0e2908eabe18f388" level="file"><did><unittitle>Unidentified: A Skin Book - audio recording</unittitle><unitid>cuid21306</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_14072fce558f59a9c2609b07cecb720b" label="Mixed Materials [31142062728129]" type="Box">Shared Fales 013</container></did></c><c id="aspace_21ea35b1ed3ec1e431ee4818ba6b0e6b" level="file"><did><unittitle>Unidentified: The Oral Persecution - audio recording</unittitle><unitid>cuid21307</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 audiocassette</extent></physdesc><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_165740c7c2f6e2782cdc73adabafe72e" label="Audio [31142062728129]" type="Box">Shared Fales 013</container><container id="aspace_6e7235d27c28a9b4aa5419425991a1dd" parent="aspace_165740c7c2f6e2782cdc73adabafe72e" type="Cassette">cuid21307</container><container id="aspace_d85167dc21fc155ad9c7846a395e049b" label="electronic records" type="E-records">fales_mss393</container><container id="aspace_396dc234ea568a14a79ba6a57d03319e" parent="aspace_d85167dc21fc155ad9c7846a395e049b" type="E-records">cuid21307</container></did><phystech id="aspace_9a28b551ad2e30513e609b960025d158"><head>Physical Characteristics and Technical Requirements</head><p>Format: 1/8" audiocassette, Duration: 38 min., Preservation note: "Side 1 signal-to-noise ratio is very low, with high background noise. Side 2 is blank (ambient sound only)."</p></phystech></c></dsc>
+</archdesc>
 </ead>

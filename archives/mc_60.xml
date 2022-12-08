@@ -1,426 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_60">mc_60</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Miguel A. de Capriles Papers <num>MC.60</num></titleproper>
-        <author>Lindsay Dumas</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-        <p>
-          <date>10-24-2008</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:34:48 -0500</date>.</creation>
-      <langusage>Finding aid written in English.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>January 2019</date>
-        <item>Edited by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>Miguel A. de Capriles Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Capriles, Miguel Angel de</persname>
-      </origination>
-      <unitid>MC.60</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.25 Linear Feet</extent>
-        <extent altrender="carrier">in 6 manuscript boxes and one half manuscript box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1920/1972" type="inclusive">1920-1972</unitdate>
-      <abstract id="aspace_fe9403cc3e625ed5662cb76198fb040f">Miguel A. de Capriles received his B.A., M.A. and J.D. from New York University (NYU) and served in various positions within the University from 1935-1976, including Law Professor, Director of the Office of Institutional Research and Educational Planning, Dean of the School of Law, Vice President and General Counsel of the University. This collection contains his personal diaries from 1920 to 1972, and papers for conferences pertaining to corporate law.</abstract>
-      <physloc id="aspace_e90a6907e5716043cf66f903e30e311b">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_bf6341a604aa9f24a2bd77c95661182b">Materials are in English, with some in Spanish.</langmaterial>
-    </did>
-    <arrangement id="aspace_dbeb147f1c459a787358bcbf93435b53">
-      <head>Arrangement</head>
-      <p>Folders are arranged chronologically. The files are grouped into 2 series:
-I.	Diaries
-II.	Academic Papers</p>
-    </arrangement>
-    <bioghist id="aspace_e98248c3e4460ca01156472244aa7a32">
-      <head>Biographical Note</head>
-      <p>Miguel (Mike) Angel de Capriles was born on November 30, 1906, in Mexico City. His family moved to the United States in 1920, and he graduated from the High School of Commerce in New York City in 1924. In 1924 de Capriles enrolled as an undergraduate at Washington Square College. His long and prolific association with New York University (NYU) lasted until 1974. Graduating <emph render="italic">cum laude</emph> with a B.S. in 1927, he became an Administrative Officer and an instructor in the Economics Department following his graduation. In 1931 de Capriles received an M.A. in Economics, and in 1935 he received a J.D. from the School of Law. He married Dorothy W. Hafner, a fellow fencer and NYU School of Law graduate, in 1938.</p>
-      <p>Except for a brief hiatus from NYU during World War II, when he worked in Washington, D.C. for the Department of Justice, de Capriles served in numerous administrative offices and as a law professor, specializing in corporate law and finance, from 1935 until his retirement in 1974. Among his many positions at the University, he founded the Inter-American Law Institute at NYU in 1947, served as the director of the Office of Institutional Research and Educational Planning from 1953-63, was the Dean of the NYU School of Law from 1964-67, and served as the Vice President and General Counsel of NYU from 1967-74. In 1974, de Capriles was named Distinguished Professor of Law at Hastings College, University of California, San Francisco. He died in San Francisco in 1981 at the age of 75.</p>
-      <p>De Capriles was also a world-renowned fencer, having taken up the sport as an undergraduate at NYU. Ranked consistently as one of the top ten fencers in the US from 1935-51, de Capriles won 10 national individual fencing titles during his career. He was also a member of the US Olympic Fencing Team from 1932-52, winning two bronze metals (1932 in epée and 1948 in saber). He continued to be actively involved in fencing after his retirement from competition in 1952, serving as president of the International Fencing Federation and working with the U.S. Olympic Committee. He is a member of the NYU Sports Hall of Fame.</p>
-    </bioghist>
-    <scopecontent id="aspace_e2ef598ac8049e79801deee9932d97cc">
-      <head>Scope and Contents</head>
-      <p>Series I: Contains address books and diaries from 1920, when de Capriles arrived in the US, until 1972, two years before his retirement from NYU. The documents contain both personal and professional information regarding events, appointments, brief notes, and the names and addresses of friends and colleagues. </p>
-      <p>Series II: Consists of three academic papers on corporate law published or presented in the late 1960s and early 1970s.</p>
-    </scopecontent>
-    <prefercite id="aspace_5fef18138eda536718e9742327f1ede9">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date (if known); Miguel A. de Capriles Papers; MC 60; box number; folder number; New York University Archives, New York University Libraries.</p>
-    </prefercite>
-    <userestrict id="aspace_bb5996fb4d4b0334f79c1e6c8d43873f">
-      <head>Use Restrictions</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>
-    </userestrict>
-    <accessrestrict id="aspace_e5c437708c242b8650405c25b261adf3">
-      <head>Access Restrictions</head>
-      <p>Administrative records and unpublished reports of New York University are closed for a period of 20 years from the date of their creation. Access to files spanning multiple years will be opened to researchers based on the date of the most recent materials. Board of Trustees records are closed for 35 years from the date of creation.  Materials related to personnel, grievances, job and fellowship searches and applications, and all files that fall under the federal Family Educational Rights and Privacy Act (FERPA) are permanently restricted.  Additional restrictions may apply to other materials in this collection.  For questions regarding specific restrictions, please contact the University Archives.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_ad018dbb2ba67ecdc4e133d8cb9cd88f">
-      <head>Immediate Source of Acquisition</head>
-      <p>Materials were transferred to University Archives at an unspecified date.</p>
-    </acqinfo>
-    <controlaccess>
-      <subject source="lcsh">Fencing.</subject>
-      <subject source="lcsh">Corporation law.</subject>
-      <genreform source="aat">Diaries</genreform>
-      <corpname source="naf">United States Olympic Association</corpname>
-      <corpname source="naf">New York University. Faculty of Arts and Science</corpname>
-      <corpname source="naf">New York University -- Administration</corpname>
-      <corpname source="naf">New York University. School of Law</corpname>
-      <corpname rules="dacs" source="local">New York University. Athletics Department</corpname>
-      <corpname rules="dacs" source="local">New York University. Inter-American Law Institute</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref1" level="series">
-        <did>
-          <unittitle>Diaries</unittitle>
-          <unitdate datechar="creation" normal="1920/1972" type="inclusive">1920-1972</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref3" level="file">
-          <did>
-            <unittitle>Address Book</unittitle>
-            <unitdate datechar="creation" normal="1920/1921" type="inclusive">1920-1921</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_5db862123e374e54cb1c16ca8689488b" label="Mixed Materials [31142062742278]" type="Box">1</container>
-            <container id="aspace_10f147ed9eb8ad7285e0ee47a80845e1" parent="aspace_5db862123e374e54cb1c16ca8689488b" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>Address Books</unittitle>
-            <unitdate datechar="creation">no date</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_58ada45082b6d6a9e440f60f39cb2382" label="Mixed Materials [31142062742278]" type="Box">1</container>
-            <container id="aspace_7db4262883c19c88cbd0a1a6c38b73bc" parent="aspace_58ada45082b6d6a9e440f60f39cb2382" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_b2cc47ba6bf828c2c9129166020554cf" label="Mixed Materials [31142062742278]" type="Box">1</container>
-            <container id="aspace_e5cdeda0081a7bbcc97ddef3dc04e1f0" parent="aspace_b2cc47ba6bf828c2c9129166020554cf" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_e25725ccc6c31afa0b51c2d30448cb0b" label="Mixed Materials [31142062742278]" type="Box">1</container>
-            <container id="aspace_545a1096190eb1de689320b30d3a04e8" parent="aspace_e25725ccc6c31afa0b51c2d30448cb0b" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref10" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_11a4e75084d95dd5cb9f5305609f3c5c" label="Mixed Materials [31142062742278]" type="Box">1</container>
-            <container id="aspace_19320e0368505f3869f2d75f26feb506" parent="aspace_11a4e75084d95dd5cb9f5305609f3c5c" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref11" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1930/1932" type="inclusive">1930-1932</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_b724858d84d36a00deca58397f2ea242" label="Mixed Materials [31142062742278]" type="Box">1</container>
-            <container id="aspace_016a088851ca8f4a055aea2303b72a62" parent="aspace_b724858d84d36a00deca58397f2ea242" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_156c561216720f6f29bc35c0919489d1" label="Mixed Materials [31142062742278]" type="Box">1</container>
-            <container id="aspace_c623627dbb3719a60aa6c2a3bbd32a88" parent="aspace_156c561216720f6f29bc35c0919489d1" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_1fbcd7d0fb1e40292b46487c379e8eec" label="Mixed Materials [31142062742278]" type="Box">1</container>
-            <container id="aspace_3ceb76c80326abb63171df1adb08a086" parent="aspace_1fbcd7d0fb1e40292b46487c379e8eec" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_de7e73c2bd4712555df14665ebe51cdf" label="Mixed Materials [31142062742286]" type="Box">2</container>
-            <container id="aspace_eef7f4a552fbf825a047a9a53720f9cc" parent="aspace_de7e73c2bd4712555df14665ebe51cdf" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_e17b2237b45d077fc90f23438e41ad3d" label="Mixed Materials [31142062742286]" type="Box">2</container>
-            <container id="aspace_e6cfbf07c2e98fb166d08df76eeeec0b" parent="aspace_e17b2237b45d077fc90f23438e41ad3d" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_5b7d99de97bfaf7dabc6c6e09cfa11cf" label="Mixed Materials [31142062742286]" type="Box">2</container>
-            <container id="aspace_2a56ba2a959abbfb685c51a37065fc65" parent="aspace_5b7d99de97bfaf7dabc6c6e09cfa11cf" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_b25eed75da957e45904ab7c3d974a06f" label="Mixed Materials [31142062742286]" type="Box">2</container>
-            <container id="aspace_8c091649cd123b147639feac6277f918" parent="aspace_b25eed75da957e45904ab7c3d974a06f" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_28558ef05a14ade791dc18d7c8b5fc23" label="Mixed Materials [31142062742294]" type="Box">3</container>
-            <container id="aspace_3947c4ad7ee3972f4cc06beb791148f2" parent="aspace_28558ef05a14ade791dc18d7c8b5fc23" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_e73aee4e9756f90675c46d4f6e38122a" label="Mixed Materials [31142062742294]" type="Box">3</container>
-            <container id="aspace_12241e89525549abb48290989037e041" parent="aspace_e73aee4e9756f90675c46d4f6e38122a" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_454225faaca8e59b5d22372052f80a48" label="Mixed Materials [31142062742294]" type="Box">3</container>
-            <container id="aspace_c6e5bbc7c06ed305d574c3926c111001" parent="aspace_454225faaca8e59b5d22372052f80a48" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_43dd7a02bcb79efb788ee2f6f027f608" label="Mixed Materials [31142062742294]" type="Box">3</container>
-            <container id="aspace_0da1f6074d951cc11c5e5eb097ca0ee2" parent="aspace_43dd7a02bcb79efb788ee2f6f027f608" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_91fb8dd4010a4861b5ba10aa4a54f078" label="Mixed Materials [31142062742302]" type="Box">4</container>
-            <container id="aspace_0bdd5c4f613f1ed1339c21a808f0c1f8" parent="aspace_91fb8dd4010a4861b5ba10aa4a54f078" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_e1332d431ca3903c14cc9c5fd03f10a1" label="Mixed Materials [31142062742302]" type="Box">4</container>
-            <container id="aspace_e93fbf1362715c981310306e4fc5f590" parent="aspace_e1332d431ca3903c14cc9c5fd03f10a1" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_42e005a5b6b0ef3d1eb573cfecd27df7" label="Mixed Materials [31142062742302]" type="Box">4</container>
-            <container id="aspace_ce4bce07efe35a58ce4b6ead86648aff" parent="aspace_42e005a5b6b0ef3d1eb573cfecd27df7" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_b4de290d507c1ad24c168e78bc332464" label="Mixed Materials [31142062742302]" type="Box">4</container>
-            <container id="aspace_6e721928faf3ac391b111fa29bda19bc" parent="aspace_b4de290d507c1ad24c168e78bc332464" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_853424b23c76117913ee0c424072721c" label="Mixed Materials [31142062742310]" type="Box">5</container>
-            <container id="aspace_92e8eda1b60a5b9a7ece396940fb9156" parent="aspace_853424b23c76117913ee0c424072721c" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_3c661c1c1f766b929c789361993ec205" label="Mixed Materials [31142062742310]" type="Box">5</container>
-            <container id="aspace_3b99226f4d4226b228063988f11ccd6c" parent="aspace_3c661c1c1f766b929c789361993ec205" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_83b36591fac479b1dce579259ca4cb9b" label="Mixed Materials [31142062742310]" type="Box">5</container>
-            <container id="aspace_fc488b88624dc3ece8744f097aaf3947" parent="aspace_83b36591fac479b1dce579259ca4cb9b" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_649e462c0924c9035a0e8e963757ab52" label="Mixed Materials [31142062742310]" type="Box">5</container>
-            <container id="aspace_e521d526cd90b4c7568dbbcc4aeeaabf" parent="aspace_649e462c0924c9035a0e8e963757ab52" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_ab8f0983358158f49611148a4f445925" label="Mixed Materials [31142062742328]" type="Box">6</container>
-            <container id="aspace_9043bb67f10a501155460aeb678766aa" parent="aspace_ab8f0983358158f49611148a4f445925" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_c9e37460dfe43c6d2b954bc1bac93f79" label="Mixed Materials [31142062742328]" type="Box">6</container>
-            <container id="aspace_c01b19be165a58b667a06ac8a1b1fbcd" parent="aspace_c9e37460dfe43c6d2b954bc1bac93f79" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_5cdf30da784c46d355935dfe75e0acb6" label="Mixed Materials [31142062742328]" type="Box">6</container>
-            <container id="aspace_48cacf5e1be0f5ad590ede7376725ed7" parent="aspace_5cdf30da784c46d355935dfe75e0acb6" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_185a80ee554199bcd034b09220193b0d" label="Mixed Materials [31142062742328]" type="Box">6</container>
-            <container id="aspace_ca6234ebcd742f3b9f2b389be6bae0d4" parent="aspace_185a80ee554199bcd034b09220193b0d" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_678dc57fb77eb1a9049b65bb897c20f6" label="Mixed Materials [31142062742328]" type="Box">6</container>
-            <container id="aspace_d686745dd807ece584458b37ff685e02" parent="aspace_678dc57fb77eb1a9049b65bb897c20f6" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_6e0bff69f239e6475aaf3c06bab74180" label="Mixed Materials [31142062742328]" type="Box">6</container>
-            <container id="aspace_95366b88f0364db1a5acf92d6a22574f" parent="aspace_6e0bff69f239e6475aaf3c06bab74180" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_98782a438676e03c53c623faeba57d99" label="Mixed Materials [31142062742328]" type="Box">6</container>
-            <container id="aspace_7bd88907d70a13084886eecc1021bac4" parent="aspace_98782a438676e03c53c623faeba57d99" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Diary</unittitle>
-            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_5c09b9b028cd9b31366db256e65e3d09" label="Mixed Materials [31142062742328]" type="Box">6</container>
-            <container id="aspace_002be8572a7ea31d1e100cca47b4b223" parent="aspace_5c09b9b028cd9b31366db256e65e3d09" type="Folder">8</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref2" level="series">
-        <did>
-          <unittitle>Academic Papers</unittitle>
-          <origination label="Creator">
-            <persname role="aut" source="local">DeCapriles, Miguel</persname>
-          </origination>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Paper on Judge Fuld</unittitle>
-            <unitdate datechar="creation" normal="1946/1970" type="inclusive">1946-1970</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_dc499197929a6bc697205aecb1465a42" label="Mixed Materials [31142062742336]" type="Box">7</container>
-            <container id="aspace_787252a88e58b7835ef8e46294262ebb" parent="aspace_dc499197929a6bc697205aecb1465a42" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Paper on Business Corporations</unittitle>
-            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_ed9b2ebfdc395bc2e1566c5e35575a22" label="Mixed Materials [31142062742336]" type="Box">7</container>
-            <container id="aspace_6bdea17a6169649d975d7ab5e0d9e7c4" parent="aspace_ed9b2ebfdc395bc2e1566c5e35575a22" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Paper on Corporate Management</unittitle>
-            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Letter - Half" id="aspace_012f583a1064c0292170c08abec4c433" label="Mixed Materials [31142062742336]" type="Box">7</container>
-            <container id="aspace_2af10208ee5aa3b3eb1c802eb27f1570" parent="aspace_012f583a1064c0292170c08abec4c433" type="Folder">3</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_60">mc_60</eadid><filedesc><titlestmt><titleproper>Guide to the Miguel A. de Capriles Papers <num>MC.60</num></titleproper><author>Lindsay Dumas</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>10-24-2008</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:19:10 -0500</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2019</date><item>Edited by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Miguel A. de Capriles Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Capriles, Miguel Angel de</persname>
+    </origination>
+    <unitid>MC.60</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.25 Linear Feet</extent>
+      <extent altrender="carrier">in 6 manuscript boxes and one half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1920/1972" type="inclusive">1920-1972</unitdate>
+    <abstract id="aspace_fe9403cc3e625ed5662cb76198fb040f" label="Abstract">Miguel A. de Capriles received his B.A., M.A. and J.D. from New York University (NYU) and served in various positions within the University from 1935-1976, including Law Professor, Director of the Office of Institutional Research and Educational Planning, Dean of the School of Law, Vice President and General Counsel of the University. This collection contains his personal diaries from 1920 to 1972, and papers for conferences pertaining to corporate law.</abstract>
+    <physloc id="aspace_e90a6907e5716043cf66f903e30e311b">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_bf6341a604aa9f24a2bd77c95661182b">Materials are in English, with some in Spanish.</langmaterial>
+  </did>
+  <arrangement id="aspace_dbeb147f1c459a787358bcbf93435b53">
+    <head>Arrangement</head>
+<p>Folders are arranged chronologically. The files are grouped into 2 series:
+I. Diaries
+II. Academic Papers</p>  </arrangement>
+  <bioghist id="aspace_e98248c3e4460ca01156472244aa7a32">
+    <head>Biographical Note</head>
+<p>Miguel (Mike) Angel de Capriles was born on November 30, 1906, in Mexico City. His family moved to the United States in 1920, and he graduated from the High School of Commerce in New York City in 1924. In 1924 de Capriles enrolled as an undergraduate at Washington Square College. His long and prolific association with New York University (NYU) lasted until 1974. Graduating <emph render="italic">cum laude</emph> with a B.S. in 1927, he became an Administrative Officer and an instructor in the Economics Department following his graduation. In 1931 de Capriles received an M.A. in Economics, and in 1935 he received a J.D. from the School of Law. He married Dorothy W. Hafner, a fellow fencer and NYU School of Law graduate, in 1938.</p><p>Except for a brief hiatus from NYU during World War II, when he worked in Washington, D.C. for the Department of Justice, de Capriles served in numerous administrative offices and as a law professor, specializing in corporate law and finance, from 1935 until his retirement in 1974. Among his many positions at the University, he founded the Inter-American Law Institute at NYU in 1947, served as the director of the Office of Institutional Research and Educational Planning from 1953-63, was the Dean of the NYU School of Law from 1964-67, and served as the Vice President and General Counsel of NYU from 1967-74. In 1974, de Capriles was named Distinguished Professor of Law at Hastings College, University of California, San Francisco. He died in San Francisco in 1981 at the age of 75.</p><p>De Capriles was also a world-renowned fencer, having taken up the sport as an undergraduate at NYU. Ranked consistently as one of the top ten fencers in the US from 1935-51, de Capriles won 10 national individual fencing titles during his career. He was also a member of the US Olympic Fencing Team from 1932-52, winning two bronze metals (1932 in epée and 1948 in saber). He continued to be actively involved in fencing after his retirement from competition in 1952, serving as president of the International Fencing Federation and working with the U.S. Olympic Committee. He is a member of the NYU Sports Hall of Fame.</p>  </bioghist>
+  <scopecontent id="aspace_e2ef598ac8049e79801deee9932d97cc">
+    <head>Scope and Contents</head>
+<p>Series I: Contains address books and diaries from 1920, when de Capriles arrived in the US, until 1972, two years before his retirement from NYU. The documents contain both personal and professional information regarding events, appointments, brief notes, and the names and addresses of friends and colleagues. </p><p>Series II: Consists of three academic papers on corporate law published or presented in the late 1960s and early 1970s.</p>  </scopecontent>
+  <prefercite id="aspace_5fef18138eda536718e9742327f1ede9">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Miguel A. de Capriles Papers; MC 60; box number; folder number; New York University Archives, New York University Libraries.</p>  </prefercite>
+  <userestrict id="aspace_bb5996fb4d4b0334f79c1e6c8d43873f">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>  </userestrict>
+  <accessrestrict id="aspace_e5c437708c242b8650405c25b261adf3">
+    <head>Access Restrictions</head>
+<p>Administrative records and unpublished reports of New York University are closed for a period of 20 years from the date of their creation. Access to files spanning multiple years will be opened to researchers based on the date of the most recent materials. Board of Trustees records are closed for 35 years from the date of creation.  Materials related to personnel, grievances, job and fellowship searches and applications, and all files that fall under the federal Family Educational Rights and Privacy Act (FERPA) are permanently restricted.  Additional restrictions may apply to other materials in this collection.  For questions regarding specific restrictions, please contact the University Archives.</p>  </accessrestrict>
+  <acqinfo id="aspace_ad018dbb2ba67ecdc4e133d8cb9cd88f">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials were transferred to University Archives at an unspecified date.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Fencing.</subject>
+    <subject source="lcsh">Corporation law.</subject>
+    <genreform source="aat">Diaries</genreform>
+    <corpname authfilenumber="(lccn)n84016987" source="naf">United States Olympic Association</corpname>
+    <corpname authfilenumber="(lccn)n79052591" source="naf">New York University. Faculty of Arts and Science</corpname>
+    <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Administration</corpname>
+    <corpname authfilenumber="(lccn)n81013381" source="naf">New York University. School of Law</corpname>
+    <corpname rules="dacs" source="local">New York University. Athletics Department</corpname>
+    <corpname rules="dacs" source="local">New York University. Inter-American Law Institute</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Diaries</unittitle><unitdate datechar="creation" normal="1920/1972" type="inclusive">1920-1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref3" level="file"><did><unittitle>Address Book</unittitle><unitdate datechar="creation" normal="1920/1921" type="inclusive">1920-1921</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_133e488856d1d302d39282e1a13f22d3" label="Mixed Materials [31142062742278]" type="Box">1</container><container id="aspace_f4da864c70d7ea50dfaec8747d91a059" parent="aspace_133e488856d1d302d39282e1a13f22d3" type="Folder">1</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Address Books</unittitle><unitdate datechar="creation">no date</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_c778b912c854d784f108391f152b166e" label="Mixed Materials [31142062742278]" type="Box">1</container><container id="aspace_7837ba9a6589ee7f00eb98cf54bf7b02" parent="aspace_c778b912c854d784f108391f152b166e" type="Folder">2</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_f765fee6721fd208c2b7357e412f51be" label="Mixed Materials [31142062742278]" type="Box">1</container><container id="aspace_2addfe71bb3471b4bb55d9332b634da0" parent="aspace_f765fee6721fd208c2b7357e412f51be" type="Folder">3</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_10586c2e274545589fc46668bcc147cd" label="Mixed Materials [31142062742278]" type="Box">1</container><container id="aspace_1a7163eb200a428fce4ec9ebdf5e7cbf" parent="aspace_10586c2e274545589fc46668bcc147cd" type="Folder">4</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_193328cd4a899cc7cd89adb24ac07a64" label="Mixed Materials [31142062742278]" type="Box">1</container><container id="aspace_2f360cad8ee792d4d81ead2a1541f9f7" parent="aspace_193328cd4a899cc7cd89adb24ac07a64" type="Folder">5</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1930/1932" type="inclusive">1930-1932</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6e80fe55faa7b6f7a7a0ed9be7f61659" label="Mixed Materials [31142062742278]" type="Box">1</container><container id="aspace_d31ee518733ee0b24ce703a3d36294d7" parent="aspace_6e80fe55faa7b6f7a7a0ed9be7f61659" type="Folder">6</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_b8257a00bbfe10f3bceee12eca41bbc1" label="Mixed Materials [31142062742278]" type="Box">1</container><container id="aspace_f99d09f88a8f6c4c77c0c42bc90bf642" parent="aspace_b8257a00bbfe10f3bceee12eca41bbc1" type="Folder">7</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_f6c06ac473e99e0cfc8c81b518ee61bd" label="Mixed Materials [31142062742278]" type="Box">1</container><container id="aspace_ef5f92279f91aa546cb810d8badd449d" parent="aspace_f6c06ac473e99e0cfc8c81b518ee61bd" type="Folder">8</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_70786a9fa5fa35e41861adc6a53269b7" label="Mixed Materials [31142062742286]" type="Box">2</container><container id="aspace_28372d44b6dac7df4143ca76a75c695a" parent="aspace_70786a9fa5fa35e41861adc6a53269b7" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_da0dd1fbe0c1664cb24d1d57789a65bc" label="Mixed Materials [31142062742286]" type="Box">2</container><container id="aspace_8694c47ed1b839d98726bc988af9cf46" parent="aspace_da0dd1fbe0c1664cb24d1d57789a65bc" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_1f4f61c3d5d98b97e5d67960bae248d7" label="Mixed Materials [31142062742286]" type="Box">2</container><container id="aspace_07055e7c47736cf93458c785f6bc2426" parent="aspace_1f4f61c3d5d98b97e5d67960bae248d7" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_c107562dfc059d20690fd869bed7bdc1" label="Mixed Materials [31142062742286]" type="Box">2</container><container id="aspace_3b15171fb7e8d833c526321d7f2f4dc3" parent="aspace_c107562dfc059d20690fd869bed7bdc1" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_8d6d2159c200cc7cac6c2e259e47e750" label="Mixed Materials [31142062742294]" type="Box">3</container><container id="aspace_adf2fabf844f838e626afc5b8b27f909" parent="aspace_8d6d2159c200cc7cac6c2e259e47e750" type="Folder">1</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_66f5c08551831ac3acadadba7ab94c51" label="Mixed Materials [31142062742294]" type="Box">3</container><container id="aspace_330ddd322c4e8bcdf706057e9fac4899" parent="aspace_66f5c08551831ac3acadadba7ab94c51" type="Folder">2</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_a2976dfbbe0d3a80c7d553e4191525b4" label="Mixed Materials [31142062742294]" type="Box">3</container><container id="aspace_547e04c077d85c3b8563b54011ab6271" parent="aspace_a2976dfbbe0d3a80c7d553e4191525b4" type="Folder">3</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d5f0f3adfd02aabb5b6eef2cd0504c3e" label="Mixed Materials [31142062742294]" type="Box">3</container><container id="aspace_e588a38645bc5b03fa70d737c3144e54" parent="aspace_d5f0f3adfd02aabb5b6eef2cd0504c3e" type="Folder">4</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_ac5290144458190596f65c744dcf37eb" label="Mixed Materials [31142062742302]" type="Box">4</container><container id="aspace_ad99af3e5ff9902e4df5bef6e80f7480" parent="aspace_ac5290144458190596f65c744dcf37eb" type="Folder">1</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_dd0b54f18d1b0693688be3da0d8eea40" label="Mixed Materials [31142062742302]" type="Box">4</container><container id="aspace_9bec36dc48b277a60f00735ea0cb9aa8" parent="aspace_dd0b54f18d1b0693688be3da0d8eea40" type="Folder">2</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_1ddd7d8828e86866c7d45b397261de6a" label="Mixed Materials [31142062742302]" type="Box">4</container><container id="aspace_4404a68f05239e4b5e056c1753ea8387" parent="aspace_1ddd7d8828e86866c7d45b397261de6a" type="Folder">3</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_2b4c29ddd41a3d870a403ccd31d1bd41" label="Mixed Materials [31142062742302]" type="Box">4</container><container id="aspace_cc0e96641185f630c8f17bae6c57e462" parent="aspace_2b4c29ddd41a3d870a403ccd31d1bd41" type="Folder">4</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_a514c3b28fb79224c6ade54e6fe318e1" label="Mixed Materials [31142062742310]" type="Box">5</container><container id="aspace_1a7a8c074d9e9769472e401c38909e1a" parent="aspace_a514c3b28fb79224c6ade54e6fe318e1" type="Folder">1</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_b651d34dd4ee0242416b3e4aee2abb64" label="Mixed Materials [31142062742310]" type="Box">5</container><container id="aspace_2439ac9e9cafb1f3d4ebf17d269fd5fb" parent="aspace_b651d34dd4ee0242416b3e4aee2abb64" type="Folder">2</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_30aa4bb9ade2d80e4ce4f8aa933dc3f0" label="Mixed Materials [31142062742310]" type="Box">5</container><container id="aspace_ee0df7b4c260831a84f801c069a43f4a" parent="aspace_30aa4bb9ade2d80e4ce4f8aa933dc3f0" type="Folder">3</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4de938e11bc91a76f48e0395a1033903" label="Mixed Materials [31142062742310]" type="Box">5</container><container id="aspace_06716df4017798c650f7fed98d3c9efc" parent="aspace_4de938e11bc91a76f48e0395a1033903" type="Folder">4</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_642bbacece6fd107cdbc84312d2613c3" label="Mixed Materials [31142062742328]" type="Box">6</container><container id="aspace_c87587007243d408f9f3ff9fe86eca93" parent="aspace_642bbacece6fd107cdbc84312d2613c3" type="Folder">1</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6578fe969f28e3a19786c0dae020c97c" label="Mixed Materials [31142062742328]" type="Box">6</container><container id="aspace_d912e8df4919a486e24c2fc6ac555a57" parent="aspace_6578fe969f28e3a19786c0dae020c97c" type="Folder">2</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_54214194ec8a0e3b067f0aecf8b946d3" label="Mixed Materials [31142062742328]" type="Box">6</container><container id="aspace_ce9d4facdfd2e663606aedaffa0ce59d" parent="aspace_54214194ec8a0e3b067f0aecf8b946d3" type="Folder">3</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_bf8caca3df2e516069ae5c45fe5ec30e" label="Mixed Materials [31142062742328]" type="Box">6</container><container id="aspace_0ceb051c08ee880f315d85b85657a8c4" parent="aspace_bf8caca3df2e516069ae5c45fe5ec30e" type="Folder">4</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_15860d1f06d38a6b5406aaf74889c6a4" label="Mixed Materials [31142062742328]" type="Box">6</container><container id="aspace_7b6312b20d22578428b73c9034fcee1f" parent="aspace_15860d1f06d38a6b5406aaf74889c6a4" type="Folder">5</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_0ab3d808f8a9c76c5998c892dbd67344" label="Mixed Materials [31142062742328]" type="Box">6</container><container id="aspace_0a6b570096e537a4ce2cab061e8ce558" parent="aspace_0ab3d808f8a9c76c5998c892dbd67344" type="Folder">6</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_2a34ece03721da3ddd5c623d76784b70" label="Mixed Materials [31142062742328]" type="Box">6</container><container id="aspace_dc10cb828cb1deef0552b37d259f8c91" parent="aspace_2a34ece03721da3ddd5c623d76784b70" type="Folder">7</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Diary</unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d67eb3b5437a560d70d28d7de36bb87a" label="Mixed Materials [31142062742328]" type="Box">6</container><container id="aspace_9887feccd7686785e23204121964eb39" parent="aspace_d67eb3b5437a560d70d28d7de36bb87a" type="Folder">8</container></did></c></c><c id="aspace_ref2" level="series"><did><unittitle>Academic Papers</unittitle><origination label="Creator"><persname role="aut" source="local">DeCapriles, Miguel</persname></origination><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref38" level="file"><did><unittitle>Paper on Judge Fuld</unittitle><unitdate datechar="creation" normal="1946/1970" type="inclusive">1946-1970</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_669e6ed303ebe5c380360df778980636" label="Mixed Materials [31142062742336]" type="Box">7</container><container id="aspace_9258e4c2f3248717dbbefa8a4da4880c" parent="aspace_669e6ed303ebe5c380360df778980636" type="Folder">1</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Paper on Business Corporations</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_4e51c27114d5b3d491fe9b07a332cff5" label="Mixed Materials [31142062742336]" type="Box">7</container><container id="aspace_9222dcfc107f40be854d5bdcd87b65fd" parent="aspace_4e51c27114d5b3d491fe9b07a332cff5" type="Folder">2</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Paper on Corporate Management</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_ae38e914c418f3f17f2ef2cb0a332e54" label="Mixed Materials [31142062742336]" type="Box">7</container><container id="aspace_b11ab0d32e570e70e1627a6a321933df" parent="aspace_ae38e914c418f3f17f2ef2cb0a332e54" type="Folder">3</container></did></c></c></dsc>
+</archdesc>
 </ead>

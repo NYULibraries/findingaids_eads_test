@@ -1,228 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_30">mc_30</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to Cyrus Mason Correspondence <num>MC.30</num></titleproper>
-        <author>Shannon McDonald and Claire Wolford.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:33:32 -0500</date>.</creation>
-      <langusage>Finding aid written in English.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>January 2019</date>
-        <item>Edited by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>Cyrus Mason Letters</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="naf">Mason, Cyrus, 1798-1865</persname>
-      </origination>
-      <unitid>MC.30</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-        <extent altrender="carrier">in one half manuscript box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
-      <abstract id="aspace_cfbcbf40f6b2e1e27cee0c66d7c2e9cc">This collection contains the personal correspondence of Cyrus Mason, 1798-1865. The letters mainly cover personal matters such as religion, the birth of a daughter, and finances.</abstract>
-      <physloc id="aspace_1b9c6aa3b56d743271b893fe1a268b1e">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_ca69414b176b60785f9163e911e6cce9">Materials are in English.</langmaterial>
-    </did>
-    <bioghist id="aspace_5d852d955886182958ea482b035d0b34">
-      <head>Biography of Cyrus Mason</head>
-      <p>Born July 19, 1798, near Nassau, New York, Cyrus Mason served as the pastor of the Cedar Street Presbyterian Church in New York City (forerunner of the Fifth Avenue Presbyterian Church). Mason was a member of the original Council of New York University (NYU), then called the University of the City of New York. In 1836 Mason became Professor of the Evidences of Revealed Religion at NYU, and in 1843, he took on additional teaching duties in political economy. He also served as rector of the University Grammar School. Mason resigned from the University in January 1850. He died of typhoid fever on May 29, 1865, in New York City.</p>
-    </bioghist>
-    <scopecontent id="aspace_794666d6a62df70fb9d18b2fa2b8fcb6">
-      <head>Scope and Contents</head>
-      <p>This collection contains correspondence of Cyrus Mason, dating from 1843 and mainly concerning finances and personal matters. Topics include religious life, the birth of a daughter to Susan Hilleron, a subscription fund for Union College, and the debts of Mason's brother, James.</p>
-    </scopecontent>
-    <accessrestrict id="aspace_5850c1e1f38c7edbf7072b2238afcbd1">
-      <head>Access Restrictions</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_9d7578b3d2acf5f686fb5e07418a90bd">
-      <head>Use Restrictions </head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>
-    </userestrict>
-    <prefercite id="aspace_81e04442d6c45b2f0851b77145b56444">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date (if known); Cyrus Mason Correspondence; MC 30; box number; folder number; New York University Archives, New York University Libraries</p>
-    </prefercite>
-    <arrangement id="aspace_28b5d1cefca35cdb83e09efe9d714fe4">
-      <head>Arrangement</head>
-      <p>Arranged in original order.</p>
-    </arrangement>
-    <processinfo id="aspace_9bd273eef63a29d92c2105af74f34912">
-      <head>Processing Information</head>
-      <p>Materials are in an archival box and folders. Processing information before January 2019 is unavailable.</p>
-    </processinfo>
-    <acqinfo id="aspace_b79c48d74120a5e63d3de6304300b51b">
-      <head>Immediate Source of Acquisition</head>
-      <p>Found in repository.</p>
-    </acqinfo>
-    <controlaccess>
-      <genreform source="aat">Correspondence.</genreform>
-      <subject source="lcsh">Religion</subject>
-      <corpname rules="dacs" source="naf">University of the City of New York</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref5" level="file">
-        <did>
-          <unittitle>Barney, Hiram</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843 </unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_050fb37c50453e982314f0eee2fc4fa2" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_64cc97c4b3155e3eab4a7c59d07d63d6" parent="aspace_050fb37c50453e982314f0eee2fc4fa2" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>Bisher, J.</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843 </unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_442318d3da961c64255400270b3b265e" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_8186d4a539362a53fe06e3369c7f2f7f" parent="aspace_442318d3da961c64255400270b3b265e" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle>Brown, Mortimor</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_fb24725fdbccc2eb70a5e5f1db05aade" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_d7dccf1654c3c952b6b4af3cd3ce21f4" parent="aspace_fb24725fdbccc2eb70a5e5f1db05aade" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Brown, Sarah</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_b8fa1b7a91e77256eb9b1157605e2a79" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_3883321366ea8c193b0fc6d5d0eb059c" parent="aspace_b8fa1b7a91e77256eb9b1157605e2a79" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Cushing, Thomas P.</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_ec89ddbc61bbb43d39da2852494aac30" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_40e35d2ce5a51793206adc55bd008c53" parent="aspace_ec89ddbc61bbb43d39da2852494aac30" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Cook, R.S.</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_3c66740bfe06e2fe56146e3404627f3a" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_d8cc7eaff65d1aa3750a1c286c1028d4" parent="aspace_3c66740bfe06e2fe56146e3404627f3a" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>Donan, P.</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_c8e5dcc58755f0825dc0564cbd8892d9" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_90061f8de60af048178a28699820c3ef" parent="aspace_c8e5dcc58755f0825dc0564cbd8892d9" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Hilleron, C.</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_f0ce2ac6118ca093846201b3edb269a9" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_d685ed30d2d30e8e80f9c88b2a2d94f5" parent="aspace_f0ce2ac6118ca093846201b3edb269a9" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Mackey, James R.</unittitle>
-          <unitdate datechar="creation">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_a1691e19488eb375fb22e5f6ace90107" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_b342c64e69595fbfafbe6f9cd550e983" parent="aspace_a1691e19488eb375fb22e5f6ace90107" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Marton, A.</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_9395e1e7837cc58c36f86e367fe12554" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_32a0c71fd06b154275807d62195b60d7" parent="aspace_9395e1e7837cc58c36f86e367fe12554" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>Mason, James</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_0ee147cd50e115f967ff31fea1cc7ed1" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_a34c9916722f4de5922b0cb8f6d92b02" parent="aspace_0ee147cd50e115f967ff31fea1cc7ed1" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>Masters, A.</unittitle>
-          <unitdate datechar="creation">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_f693aa7f9866ab446b99b506dc4a6699" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_30b6196a42b157778f42610afadf8cd6" parent="aspace_f693aa7f9866ab446b99b506dc4a6699" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Norris, A.</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_92e36a351c0c56ad85033c1d838b6712" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_5ebfcf359afa860fdff30ca879a70f4e" parent="aspace_92e36a351c0c56ad85033c1d838b6712" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Thorne, R.</unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_21c6df0f4dff56cab5766b994041e08a" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_9e3a8e340a707bcae2233eae92333013" parent="aspace_21c6df0f4dff56cab5766b994041e08a" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>Waterbury, Silvester </unittitle>
-          <unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_70f51e805cb13ffb98fdc697e9d87368" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_7d474fb0cbb9293a04f113a41f3ddba9" parent="aspace_70f51e805cb13ffb98fdc697e9d87368" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_c56db7438b84b667e360ab887279f234" level="file">
-        <did>
-          <unittitle>Wilkinson, A.</unittitle>
-          <unitdate datechar="creation" normal="1843-10/1843-10">1843-10</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_f7559b934f51da30b07d3dfec1b8285b" label="Mixed Materials [31142062742518]" type="Box">1</container>
-          <container id="aspace_cfbc7ede33c00710a16c42fd95c2cb24" parent="aspace_f7559b934f51da30b07d3dfec1b8285b" type="Folder">16</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_30">mc_30</eadid><filedesc><titlestmt><titleproper>Guide to Cyrus Mason Correspondence <num>MC.30</num></titleproper><author>Shannon McDonald and Claire Wolford.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:41:17 -0500</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2019</date><item>Edited by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Cyrus Mason Letters</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Mason, Cyrus, 1798-1865</persname>
+    </origination>
+    <unitid>MC.30</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one half manuscript box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1843/1843">1843</unitdate>
+    <abstract id="aspace_cfbcbf40f6b2e1e27cee0c66d7c2e9cc" label="Abstract">This collection contains the personal correspondence of Cyrus Mason, 1798-1865. The letters mainly cover personal matters such as religion, the birth of a daughter, and finances.</abstract>
+    <physloc id="aspace_1b9c6aa3b56d743271b893fe1a268b1e">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_ca69414b176b60785f9163e911e6cce9">Materials are in English.</langmaterial>
+  </did>
+  <bioghist id="aspace_5d852d955886182958ea482b035d0b34">
+    <head>Biography of Cyrus Mason</head>
+<p>Born July 19, 1798, near Nassau, New York, Cyrus Mason served as the pastor of the Cedar Street Presbyterian Church in New York City (forerunner of the Fifth Avenue Presbyterian Church). Mason was a member of the original Council of New York University (NYU), then called the University of the City of New York. In 1836 Mason became Professor of the Evidences of Revealed Religion at NYU, and in 1843, he took on additional teaching duties in political economy. He also served as rector of the University Grammar School. Mason resigned from the University in January 1850. He died of typhoid fever on May 29, 1865, in New York City.</p>  </bioghist>
+  <scopecontent id="aspace_794666d6a62df70fb9d18b2fa2b8fcb6">
+    <head>Scope and Contents</head>
+<p>This collection contains correspondence of Cyrus Mason, dating from 1843 and mainly concerning finances and personal matters. Topics include religious life, the birth of a daughter to Susan Hilleron, a subscription fund for Union College, and the debts of Mason's brother, James.</p>  </scopecontent>
+  <accessrestrict id="aspace_5850c1e1f38c7edbf7072b2238afcbd1">
+    <head>Access Restrictions</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_9d7578b3d2acf5f686fb5e07418a90bd">
+    <head>Use Restrictions </head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>  </userestrict>
+  <prefercite id="aspace_81e04442d6c45b2f0851b77145b56444">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Cyrus Mason Correspondence; MC 30; box number; folder number; New York University Archives, New York University Libraries</p>  </prefercite>
+  <arrangement id="aspace_28b5d1cefca35cdb83e09efe9d714fe4">
+    <head>Arrangement</head>
+<p>Arranged in original order.</p>  </arrangement>
+  <processinfo id="aspace_9bd273eef63a29d92c2105af74f34912">
+    <head>Processing Information</head>
+<p>Materials are in an archival box and folders. Processing information before January 2019 is unavailable.</p>  </processinfo>
+  <acqinfo id="aspace_b79c48d74120a5e63d3de6304300b51b">
+    <head>Immediate Source of Acquisition</head>
+<p>Found in repository.</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Religion</subject>
+    <corpname authfilenumber="(lccn)n86125329" rules="dacs" source="naf">University of the City of New York</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref5" level="file"><did><unittitle>Barney, Hiram</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843 </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_ae19aa95f0628a71d9b94a17c1f2ceec" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_ba20f13375db824bf30f8b8d09f7bf54" parent="aspace_ae19aa95f0628a71d9b94a17c1f2ceec" type="Folder">1</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Bisher, J.</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843 </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_ca2d1123228d662e757d027d10cbacfb" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_b9bc2b62fd4e785b75c23f187431c553" parent="aspace_ca2d1123228d662e757d027d10cbacfb" type="Folder">2</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Brown, Mortimor</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_e10a7d5fa17be3dc64dadc69992d462d" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_be009eee3c1becbccc168172589e6e44" parent="aspace_e10a7d5fa17be3dc64dadc69992d462d" type="Folder">3</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Brown, Sarah</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_3cc6ca750b9d77228166d5a701ff52a7" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_12808d3b830c727e01f53293779500ec" parent="aspace_3cc6ca750b9d77228166d5a701ff52a7" type="Folder">4</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Cushing, Thomas P.</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_0d9595d90616f55bb69a7efb9ba796db" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_f88569a45bf7c964811377d5662731ed" parent="aspace_0d9595d90616f55bb69a7efb9ba796db" type="Folder">5</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Cook, R.S.</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_f73d51340f7831f89c5fc411caaa8d07" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_33fb3d7f8e83f96d87666a562481e991" parent="aspace_f73d51340f7831f89c5fc411caaa8d07" type="Folder">6</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Donan, P.</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_6c7b2b7bf19d2f3f633b303d9ffde433" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_7f20d21f6534e11eb267451960ff8149" parent="aspace_6c7b2b7bf19d2f3f633b303d9ffde433" type="Folder">7</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Hilleron, C.</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_ae6141ba9094b565b3609e70efa4163a" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_44517f93c22d9c12819c30f337b2afd9" parent="aspace_ae6141ba9094b565b3609e70efa4163a" type="Folder">8</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Mackey, James R.</unittitle><unitdate datechar="creation">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_79a4dc099f2273f8dac0b174935cbc84" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_b370b8c5e8be96a8710e09513293d5ef" parent="aspace_79a4dc099f2273f8dac0b174935cbc84" type="Folder">9</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Marton, A.</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_b2432d79e5cc10eca608e96bb2064752" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_724c402468fb1b1668a70490dbb3d453" parent="aspace_b2432d79e5cc10eca608e96bb2064752" type="Folder">10</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Mason, James</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_2b55b8641e0025bdb1776c44300bc86e" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_9c22b0c3b3862eee983c41a7856654ac" parent="aspace_2b55b8641e0025bdb1776c44300bc86e" type="Folder">11</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Masters, A.</unittitle><unitdate datechar="creation">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_1068905bd5794ce3a161b0a84336f961" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_771802bd593ed8e111a53b9c6b620477" parent="aspace_1068905bd5794ce3a161b0a84336f961" type="Folder">12</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Norris, A.</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_820fab6bfa021f72638790355fc2855a" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_3fe983b711a35e3b9de91a441a05bed6" parent="aspace_820fab6bfa021f72638790355fc2855a" type="Folder">13</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Thorne, R.</unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_19497c03b6b72b9c9abc694d12e7815e" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_18d80a0c8be20a97e717a20b9fa83848" parent="aspace_19497c03b6b72b9c9abc694d12e7815e" type="Folder">14</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Waterbury, Silvester </unittitle><unitdate datechar="creation" normal="1843/1843" type="inclusive">1843</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_e0beb966d47f6463e9968deac1303861" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_fea755997c2161e91a33fe9ab410147f" parent="aspace_e0beb966d47f6463e9968deac1303861" type="Folder">15</container></did></c><c id="aspace_c56db7438b84b667e360ab887279f234" level="file"><did><unittitle>Wilkinson, A.</unittitle><unitdate datechar="creation" normal="1843-10/1843-10">1843-10</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_be7db325b83f26e30cb0da3b332a9d80" label="Mixed Materials [31142062742518]" type="Box">1</container><container id="aspace_11de14241f975fcefb6d7365075ee98d" parent="aspace_be7db325b83f26e30cb0da3b332a9d80" type="Folder">16</container></did></c></dsc>
+</archdesc>
 </ead>

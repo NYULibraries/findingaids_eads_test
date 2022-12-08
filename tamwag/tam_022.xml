@@ -1,262 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_022">tam_022</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Mendel V. Halushka Papers <num>TAM.022</num></titleproper>
-        <author>Tamiment Staff</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from Halushka.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:56:14 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Mendel V. Halushka Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Halushka, Mendel V., 1904-1958</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Halushka, Sally</persname>
-      </origination>
-      <unitid>TAM.022</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-        <extent altrender="carrier">(3 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1919/1958" type="inclusive">1919-1958</unitdate>
-      <abstract id="aspace_c7707ab17b15012a4ed555463ac01040">Chicago Socialist, compiler of list of Socialist publications, 1900-1950. The papers contain correspondence including letters from socialist notables, material relating to the Young People's Socialist League; a scrapbook of articles by Halushka and others; a scrapbook relating to the Young Circle League; and survey forms and charts relating to Halushka's research on Socialist mayors and Socialist newspapers.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <acqinfo id="aspace_eadaebc66525525bc8348d27126e3cc0">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Sally Halushka, widow of Mendel V. Halushka, 1959. The accession number associated with this gift is 1959.001.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_1366766eff3cdbc18d0b6cfb7277c894">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <bioghist id="aspace_73e594e9c16eb5c7ca14286bd527240e">
-      <head>Historical/Biographical Note</head>
-      <p>Chicago Socialist, compiler of list of Socialist publications, 1900-1950.</p>
-    </bioghist>
-    <scopecontent id="aspace_48b94d899c719eec42b4b28e449fdad4">
-      <head>Scope and Content Note</head>
-      <p>The papers contain original manuscripts and printed sources; correspondence concerning routine office, subscription and publication matters; several letters of interest from such socialist figures as William E. Bohn, Theodore Debs, Harry Laidler, Alfred Baker Lewis, Lena Morrow Lewis, James Oneal, Fred D. Warren and John M. Work; other correspondence and scrapbooks concerning socialist youth movements, particularly Young People's Socialist League and Young Circle League (Youth Clubs of Workmen's Circle); also contains responses and compilations from hundreds of form letters, personal letters, and questionnaires sent out to establish definitive historical records of all socialist newspapers (1900-1950) and mayoralties in the United States.</p>
-    </scopecontent>
-    <arrangement id="aspace_654548777cfba944b9d19e44fe16da2d">
-      <head>Arrangement</head>
-      <p>Folders are arranged alphabetically.</p>
-      <p>The files are grouped into one series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, Subject Files</item>
-      </list>
-    </arrangement>
-    <userestrict id="aspace_ea0c5b66baefc45b481d23db28f98187">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Mendel Halushka was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <prefercite id="aspace_df701118f5a518f6478a6679a6c4e17c">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Mendel V. Halushka Papers; TAM 022; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <controlaccess>
-      <genreform source="aat">Scrapbooks.</genreform>
-      <subject source="lcsh">Mayors |z United States.</subject>
-      <subject source="lcsh">Newspaper publishing -- United States.</subject>
-      <subject source="lcsh">Socialism -- United States.</subject>
-      <genreform source="aat">Questionnaires.</genreform>
-      <persname source="naf">Lewis, Alfred Baker, 1897-</persname>
-      <persname source="naf">Work, John M. (John McClelland), 1869-1961</persname>
-      <persname source="naf">Oneal, James, 1875-1962</persname>
-      <corpname source="naf">Workmen's Circle/Arbeter Ring</corpname>
-      <persname source="naf">Debs, Theodore, 1864-1945</persname>
-      <persname source="naf">Laidler, Harry W. (Harry Wellington), 1884-1970</persname>
-      <corpname source="naf">Socialist Party (U.S.)</corpname>
-      <persname source="naf">Lewis, Lena Morrow</persname>
-      <persname source="naf">Warren, Fred B.</persname>
-      <persname source="local">Bohn, William E.</persname>
-      <corpname source="naf">Young People's Socialist League</corpname>
-      <corpname source="naf">Young Circle League of America</corpname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_022">tam_022</eadid><filedesc><titlestmt><titleproper>Guide to the Mendel V. Halushka Papers <num>TAM.022</num></titleproper><author>Tamiment Staff</author></titlestmt><editionstmt><p>This version was derived from Halushka.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:07:47 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Mendel V. Halushka Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Halushka, Mendel V., 1904-1958</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Halushka, Sally</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I: Subject Files</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Circulars from Publications</unittitle>
-            <unitdate datechar="creation" normal="1930/1959" type="inclusive">1930s-1950s</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9d4d7689a9ec1a7ccf7a0940bd8fcb1f" label="Mixed Materials [31142062884591]" type="Box">1</container>
-            <container id="aspace_af3bfb6fb65fe763fb2afa6df2027c04" parent="aspace_9d4d7689a9ec1a7ccf7a0940bd8fcb1f" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1919/1925" type="inclusive">1919-1925</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c78be83439db0644754750a7bc5b3476" label="Mixed Materials [31142062884591]" type="Box">1</container>
-            <container id="aspace_5203fc601c0ceb0230ba303215e2f8d8" parent="aspace_c78be83439db0644754750a7bc5b3476" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1926/1929" type="inclusive">1926-1929</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_27fb86f35823ecc124eff01af306744c" label="Mixed Materials [31142062884591]" type="Box">1</container>
-            <container id="aspace_4b735ad4a40fa7b32b78b6a863db904f" parent="aspace_27fb86f35823ecc124eff01af306744c" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_36ca6ee118f29f00582371287503a11d" label="Mixed Materials [31142062884591]" type="Box">1</container>
-            <container id="aspace_64a572b3b04604582e6c98f56ccf14e0" parent="aspace_36ca6ee118f29f00582371287503a11d" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1940/1958" type="inclusive">1940-1958</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_275ff3deb2f45f9031ff714133a43e81" label="Mixed Materials [31142062884591]" type="Box">1</container>
-            <container id="aspace_8d110d7031fa1c8d1215e12d076ac58d" parent="aspace_275ff3deb2f45f9031ff714133a43e81" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Foreign Language Newspapers Survey Forms</unittitle>
-            <unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3b19b5f1ca1b6f2f720b8ee4b11f2270" label="Mixed Materials [31142062884591]" type="Box">1</container>
-            <container id="aspace_139e0528ef946cf96b7013f60e944c50" parent="aspace_3b19b5f1ca1b6f2f720b8ee4b11f2270" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Miscellaneous</unittitle>
-            <unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f96456543fb2053ca6a0c2cef221ead5" label="Mixed Materials [31142062884591]" type="Box">1</container>
-            <container id="aspace_1ae411fcb862bfc75f5d63f0196f843e" parent="aspace_f96456543fb2053ca6a0c2cef221ead5" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Scrapbook: Clippings (Halushka articles, others)</unittitle>
-            <unitdate datechar="creation" normal="1925/1954" type="inclusive">1925-1954</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_eaf1d8c110efdf506e82352f77388697" label="Mixed Materials [31142062884609]" type="Box">2</container>
-            <container id="aspace_f72a7cc85a3714493853b7422187d491" parent="aspace_eaf1d8c110efdf506e82352f77388697" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Socialist Mayors; Charts on</unittitle>
-            <unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_09dc6eb78d13d45e59db775558a4b362" label="Mixed Materials [31142062884609]" type="Box">2</container>
-            <container id="aspace_f6b2ae4ec44ef5830d77163776738d59" parent="aspace_09dc6eb78d13d45e59db775558a4b362" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Socialist Mayors Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_eca344e09e2d5989edbf4196d05a19de" label="Mixed Materials [31142062884609]" type="Box">2</container>
-            <container id="aspace_73418cc4c37a759a5b6208388d64e640" parent="aspace_eca344e09e2d5989edbf4196d05a19de" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Socialist Mayors Individual Data Forms</unittitle>
-            <unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_869d2dd5896930719a98a2411250f314" label="Mixed Materials [31142062884609]" type="Box">2</container>
-            <container id="aspace_292aa51f39397f6a30052c2f57a69d92" parent="aspace_869d2dd5896930719a98a2411250f314" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Socialist Newspapers Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1948/1958" type="inclusive">1948-1958</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c445c017d798ddcb6fe03881921ae22b" label="Mixed Materials [31142062884609]" type="Box">2</container>
-            <container id="aspace_a70b6d2cb3bc622e923b91fd673a6140" parent="aspace_c445c017d798ddcb6fe03881921ae22b" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Socialist Newspapers Survey Forms &amp; Miscellaneous Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1919/1958" type="inclusive">1953-1958 , undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c6b324cb51754d58b0fb9a9f3abb1ed8" label="Mixed Materials [31142062884609]" type="Box">2</container>
-            <container id="aspace_488ec9545bf4f2aae2a14ab98195fa5f" parent="aspace_c6b324cb51754d58b0fb9a9f3abb1ed8" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Socialist Newspapers Survey Forms: Alabama - Michigan</unittitle>
-            <unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9b9a11ff96a443a8b056e923f5bafc5c" label="Mixed Materials [31142062884617]" type="Box">3</container>
-            <container id="aspace_4480887fe0f221d247b944b74c97e6ac" parent="aspace_9b9a11ff96a443a8b056e923f5bafc5c" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Socialist Newspapers Survey Forms: Minnesota - Pennsylvania</unittitle>
-            <unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_94e58c9b48bfca2a76b2f0ea0bd06e64" label="Mixed Materials [31142062884617]" type="Box">3</container>
-            <container id="aspace_e13588a4d77063fe9d51b176d1a8d271" parent="aspace_94e58c9b48bfca2a76b2f0ea0bd06e64" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Socialist Newspapers Survey Forms: Rhode Island - Wyoming</unittitle>
-            <unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_56e3d7e11eee4d2fbe824ec5a9828d68" label="Mixed Materials [31142062884617]" type="Box">3</container>
-            <container id="aspace_3ecb93cddf354fd8eb79d5e6d9ba1a63" parent="aspace_56e3d7e11eee4d2fbe824ec5a9828d68" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Young Circle League Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1929/1933" type="inclusive">1929-1933</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5491867433e3e106bdd9db4434bfe5db" label="Mixed Materials [31142062884617]" type="Box">3</container>
-            <container id="aspace_5634c03bbe3b090f43edca88c19962b9" parent="aspace_5491867433e3e106bdd9db4434bfe5db" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Young Circle League Scrapbook</unittitle>
-            <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1abe73543a12e8120f1987bae1a04fee" label="Mixed Materials [31142062884617]" type="Box">3</container>
-            <container id="aspace_d3584ae1fe9e4e664238a8f68afb2d37" parent="aspace_1abe73543a12e8120f1987bae1a04fee" type="Folder">5</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.022</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">(3 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1919/1958" type="inclusive">1919-1958</unitdate>
+    <abstract id="aspace_c7707ab17b15012a4ed555463ac01040" label="Abstract">Chicago Socialist, compiler of list of Socialist publications, 1900-1950. The papers contain correspondence including letters from socialist notables, material relating to the Young People's Socialist League; a scrapbook of articles by Halushka and others; a scrapbook relating to the Young Circle League; and survey forms and charts relating to Halushka's research on Socialist mayors and Socialist newspapers.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <acqinfo id="aspace_eadaebc66525525bc8348d27126e3cc0">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Sally Halushka, widow of Mendel V. Halushka, 1959. The accession number associated with this gift is 1959.001.</p>  </acqinfo>
+  <accessrestrict id="aspace_1366766eff3cdbc18d0b6cfb7277c894">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_73e594e9c16eb5c7ca14286bd527240e">
+    <head>Historical/Biographical Note</head>
+<p>Chicago Socialist, compiler of list of Socialist publications, 1900-1950.</p>  </bioghist>
+  <scopecontent id="aspace_48b94d899c719eec42b4b28e449fdad4">
+    <head>Scope and Content Note</head>
+<p>The papers contain original manuscripts and printed sources; correspondence concerning routine office, subscription and publication matters; several letters of interest from such socialist figures as William E. Bohn, Theodore Debs, Harry Laidler, Alfred Baker Lewis, Lena Morrow Lewis, James Oneal, Fred D. Warren and John M. Work; other correspondence and scrapbooks concerning socialist youth movements, particularly Young People's Socialist League and Young Circle League (Youth Clubs of Workmen's Circle); also contains responses and compilations from hundreds of form letters, personal letters, and questionnaires sent out to establish definitive historical records of all socialist newspapers (1900-1950) and mayoralties in the United States.</p>  </scopecontent>
+  <arrangement id="aspace_654548777cfba944b9d19e44fe16da2d">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Subject Files</item>
+    </list>
+  </arrangement>
+  <userestrict id="aspace_ea0c5b66baefc45b481d23db28f98187">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Mendel Halushka was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <prefercite id="aspace_df701118f5a518f6478a6679a6c4e17c">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Mendel V. Halushka Papers; TAM 022; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <subject source="lcsh">Mayors |z United States.</subject>
+    <subject source="lcsh">Newspaper publishing -- United States.</subject>
+    <subject source="lcsh">Socialism -- United States.</subject>
+    <genreform source="aat">Questionnaires.</genreform>
+    <persname source="naf">Lewis, Alfred Baker, 1897-</persname>
+    <persname source="naf">Work, John M. (John McClelland), 1869-1961</persname>
+    <persname source="naf">Oneal, James, 1875-1962</persname>
+    <corpname authfilenumber="(lccn)n83182913" source="naf">Workmen's Circle/Arbeter Ring</corpname>
+    <persname source="naf">Debs, Theodore, 1864-1945</persname>
+    <persname source="naf">Laidler, Harry W. (Harry Wellington), 1884-1970</persname>
+    <corpname authfilenumber="(lccn)n80089534" source="naf">Socialist Party (U.S.)</corpname>
+    <persname source="naf">Lewis, Lena Morrow</persname>
+    <persname source="naf">Warren, Fred B.</persname>
+    <persname source="local">Bohn, William E.</persname>
+    <corpname authfilenumber="(lccn)n88057383" source="naf">Young People's Socialist League</corpname>
+    <corpname authfilenumber="(lccn)nr93045346" source="naf">Young Circle League of America</corpname>
+    <persname role="dnr" rules="dacs" source="local">Halushka, Sally</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Subject Files</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Circulars from Publications</unittitle><unitdate datechar="creation" normal="1930/1959" type="inclusive">1930s-1950s</unitdate><container altrender="Manuscript box - Legal" id="aspace_1134771c798bf039cc5616bd23d8cc27" label="Mixed Materials [31142062884591]" type="Box">1</container><container id="aspace_59412222e04525ef24686beaa46d0374" parent="aspace_1134771c798bf039cc5616bd23d8cc27" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1919/1925" type="inclusive">1919-1925</unitdate><container altrender="Manuscript box - Legal" id="aspace_932790e4a2f6d06f1d7eda05fe307b81" label="Mixed Materials [31142062884591]" type="Box">1</container><container id="aspace_93ff54a196aa2e5eec29a3969331b669" parent="aspace_932790e4a2f6d06f1d7eda05fe307b81" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1926/1929" type="inclusive">1926-1929</unitdate><container altrender="Manuscript box - Legal" id="aspace_3af2a69279edf24d483f6154781868b9" label="Mixed Materials [31142062884591]" type="Box">1</container><container id="aspace_c0c054447be5b81b0de8e178b8bbaa27" parent="aspace_3af2a69279edf24d483f6154781868b9" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_e58b3dc976b24fcdad968d36e5acb9a0" label="Mixed Materials [31142062884591]" type="Box">1</container><container id="aspace_3c544d2c6fcd01386d7c04ca5eacea57" parent="aspace_e58b3dc976b24fcdad968d36e5acb9a0" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1940/1958" type="inclusive">1940-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_f0a0856ed4477fd37f2db81755ba4511" label="Mixed Materials [31142062884591]" type="Box">1</container><container id="aspace_6403efcb285942a0b51fbe31e3fc36cc" parent="aspace_f0a0856ed4477fd37f2db81755ba4511" type="Folder">5</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Foreign Language Newspapers Survey Forms</unittitle><unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_23573a66bb7a549122320c13928c2ede" label="Mixed Materials [31142062884591]" type="Box">1</container><container id="aspace_4f0eff72956d0da228fcee342a77ade6" parent="aspace_23573a66bb7a549122320c13928c2ede" type="Folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4f18fbbc923977ff59330db6f2f8a70e" label="Mixed Materials [31142062884591]" type="Box">1</container><container id="aspace_cbc902e926382432b488072d8359e297" parent="aspace_4f18fbbc923977ff59330db6f2f8a70e" type="Folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Scrapbook: Clippings (Halushka articles, others)</unittitle><unitdate datechar="creation" normal="1925/1954" type="inclusive">1925-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_a7bafc61cdad85608dcc5d45ae72d835" label="Mixed Materials [31142062884609]" type="Box">2</container><container id="aspace_213562d1a626402171467e8a516ddf24" parent="aspace_a7bafc61cdad85608dcc5d45ae72d835" type="Folder">1</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Socialist Mayors; Charts on</unittitle><unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ce7874b4973394927d456e710bf66815" label="Mixed Materials [31142062884609]" type="Box">2</container><container id="aspace_483d97b13671a119b4c2c6c5e4ce2851" parent="aspace_ce7874b4973394927d456e710bf66815" type="Folder">2</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Socialist Mayors Correspondence</unittitle><unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_aa7788fcce674a15a774b5e27e631412" label="Mixed Materials [31142062884609]" type="Box">2</container><container id="aspace_7e03074096a57cc66e98e0296fcc269a" parent="aspace_aa7788fcce674a15a774b5e27e631412" type="Folder">3</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Socialist Mayors Individual Data Forms</unittitle><unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e571891eaa8b126bcf7c8a644bdba028" label="Mixed Materials [31142062884609]" type="Box">2</container><container id="aspace_c258d9d449fc1fab79dd7b2227be3e2c" parent="aspace_e571891eaa8b126bcf7c8a644bdba028" type="Folder">4</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Socialist Newspapers Correspondence</unittitle><unitdate datechar="creation" normal="1948/1958" type="inclusive">1948-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b79082ffd43e71fa5dab039f11f9676" label="Mixed Materials [31142062884609]" type="Box">2</container><container id="aspace_e19252d2cbc4b13d7744577762da6d43" parent="aspace_0b79082ffd43e71fa5dab039f11f9676" type="Folder">5</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Socialist Newspapers Survey Forms &amp; Miscellaneous Correspondence</unittitle><unitdate datechar="creation" normal="1919/1958" type="inclusive">1953-1958 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_10498671ff46d3c90d5ea2226b5fb2b1" label="Mixed Materials [31142062884609]" type="Box">2</container><container id="aspace_b3c9167717a4bab691cdcedbc23f950c" parent="aspace_10498671ff46d3c90d5ea2226b5fb2b1" type="Folder">6</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Socialist Newspapers Survey Forms: Alabama - Michigan</unittitle><unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e144156e6ea9f91e3b1609a3e42c5268" label="Mixed Materials [31142062884617]" type="Box">3</container><container id="aspace_0a8965318e38eb9615fb540bc954075e" parent="aspace_e144156e6ea9f91e3b1609a3e42c5268" type="Folder">1</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Socialist Newspapers Survey Forms: Minnesota - Pennsylvania</unittitle><unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_22d7b11975e0fd809c50c237bdc98740" label="Mixed Materials [31142062884617]" type="Box">3</container><container id="aspace_a59b21614d9dca36abb48dfb590801e8" parent="aspace_22d7b11975e0fd809c50c237bdc98740" type="Folder">2</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Socialist Newspapers Survey Forms: Rhode Island - Wyoming</unittitle><unitdate datechar="creation" normal="1919/1958" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_97fc226a03fe1fe3a9ae914e09388817" label="Mixed Materials [31142062884617]" type="Box">3</container><container id="aspace_5b475c2a922f080cc3f66b730ddfd1cb" parent="aspace_97fc226a03fe1fe3a9ae914e09388817" type="Folder">3</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Young Circle League Correspondence</unittitle><unitdate datechar="creation" normal="1929/1933" type="inclusive">1929-1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_d062971e236a5f55cfc05f129a8cbc4f" label="Mixed Materials [31142062884617]" type="Box">3</container><container id="aspace_95d1feb9b448c3a7f082d4f51c8f31a2" parent="aspace_d062971e236a5f55cfc05f129a8cbc4f" type="Folder">4</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Young Circle League Scrapbook</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate><container altrender="Manuscript box - Legal" id="aspace_99710d55bc8a514812cee8d86933eb4a" label="Mixed Materials [31142062884617]" type="Box">3</container><container id="aspace_7f2dc8f8889535e2b72b7513562790c6" parent="aspace_99710d55bc8a514812cee8d86933eb4a" type="Folder">5</container></did></c></c></dsc>
+</archdesc>
 </ead>

@@ -1,591 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_041/">aia_041</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Archives of Irish America Material Culture Collection <num>AIA.041</num></titleproper>
-        <author>Rebecca Altermatt and Kaitlyn Medley</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>06/20/2010</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:24:46 -0500</date>.</creation>
-      <langusage>Finding aid is in English</langusage>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>September 2019</date>
-        <item>Record updated by Rachel Searcy to reflect 2019 accretion.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Archives of Irish America Material Culture and Ephemera Collection</unittitle>
-      <origination label="Creator">
-        <corpname source="local">Archives of Irish America</corpname>
-      </origination>
-      <unitid>AIA.041</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">10 Linear Feet</extent>
-        <extent altrender="carrier">in 2 record cartons, 1 manuscript box, 6 flat boxes, and 2 objects</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1915/2005" type="inclusive">1915-2005</unitdate>
-      <abstract id="aspace_7e0a7c89be0dba4f31d49dfc553ab3cb">The Archives of Irish America Material Culture collection is a conglomeration of objects individually donated or found in collections and removed.</abstract>
-      <langmaterial id="aspace_07180b040590993b1406450e75f6000d">Materials are in English</langmaterial>
-    </did>
-    <arrangement id="aspace_20db85e890c5fc45ed06a559ee4f2df7">
-      <head>Arrangement</head>
-      <p>Items are arranged alphabetically.</p>
-    </arrangement>
-    <scopecontent id="aspace_770943c736e535700dbae52ad1108af7">
-      <head>Scope and Contents</head>
-      <p>The collection consists of a variety of items such as buttons, bumper stickers, hats, tickets, membership cards, pens, pins, and t-shirts -- many of them related to Irish organizations.  Contents of the collection came in as individual accessions or as part of larger accessions, including the Dorothy Hayden Cudahy Irish Memories Collection, and were organized together into this artificial collection.</p>
-    </scopecontent>
-    <bioghist id="aspace_6fb6cd84b9d54eb9287cc29732943535">
-      <head>Historical Note</head>
-      <p>The Material Culture collection compliments the entire Archives of Irish America in that its contents provides information on many topics and individuals not formally represented in the other collections. The unique format of many of the materials - hats, t-shirts, bumper stickers - provide insight to scholars and researchers in the methods used to convey information within the Irish American community.</p>
-    </bioghist>
-    <accessrestrict id="aspace_d43c41c3e01228bca67d0bf2a8ea3050">
-      <head>Conditions Governing Access</head>
-      <p>Open for research without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_ff70ed17349e0619816b5c38f08793c8">
-      <head>Conditions Governing Use</head>
-      <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2125. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-    </userestrict>
-    <prefercite id="aspace_4641ca746be971fcf5835e70bf260834">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Archives of Irish America, Tamiment Library <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <acqinfo id="aspace_5e40b28f719783b373a25d82689eb794">
-      <head>Immediate Source of Acquisition</head>
-      <p>The collection was created via active collection by staff, contributions from donors and from material removed from collections in the Archives.  The accession numbers associated with this collection are 1997.023, 2012.037, and 2019.114.</p>
-    </acqinfo>
-    <custodhist id="aspace_1faa56b8528b8caaba06a2ceb4bfab3c">
-      <head>Custodial History</head>
-      <p>Items in the Material Culture collection were donated, purchased or found in other collections of the Archives.</p>
-    </custodhist>
-    <controlaccess>
-      <genreform source="aat">Footballs (balls for sports).</genreform>
-      <genreform source="aat">Hats.</genreform>
-      <genreform source="aat">Memorabilia.</genreform>
-      <genreform source="aat">Cigar boxes.</genreform>
-      <genreform source="aat">Plaques (flat objects)</genreform>
-      <genreform source="aat">T-shirts</genreform>
-      <genreform source="aat">Bumper stickers.</genreform>
-      <genreform source="aat">Stationery.</genreform>
-      <subject source="lcsh">Irish Americans.</subject>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref36" level="file">
-        <did>
-          <unittitle>Armband: "Formation"</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_fc846809fa17f7c791d5551a47a52878" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_1e062fafa5e87622fed1f9ea843191be" parent="aspace_fc846809fa17f7c791d5551a47a52878" type="object">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref37" level="file">
-        <did>
-          <unittitle>Armbands: "Frank Stagg, RIP" (IRA hunger strike)
-</unittitle>
-          <unitdate datechar="creation">c. 1970s</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_9309693e53c5883464d39ae8674cd8c4" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_2e9dd9341331bc9b971ea1393f078ce8" parent="aspace_9309693e53c5883464d39ae8674cd8c4" type="object">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref32" level="file">
-        <did>
-          <unittitle>Ashtray: "Ireland" / Made in the Republic of 
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_041">aia_041</eadid><filedesc><titlestmt><titleproper>Guide to the Archives of Irish America Material Culture Collection <num>AIA.041</num></titleproper><author>Rebecca Altermatt and Kaitlyn Medley</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>06/20/2010</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:47:15 -0500</date>.</creation><langusage>Finding aid is in English</langusage></profiledesc><revisiondesc><change><date>September 2019</date><item>Record updated by Rachel Searcy to reflect 2019 accretion.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Archives of Irish America Material Culture and Ephemera Collection</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Archives of Irish America</corpname>
+    </origination>
+    <unitid>AIA.041</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">10 Linear Feet</extent>
+      <extent altrender="carrier">in 2 record cartons, 1 manuscript box, 6 flat boxes, and 2 objects</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1915/2005" type="inclusive">1915-2005</unitdate>
+    <abstract id="aspace_7e0a7c89be0dba4f31d49dfc553ab3cb">The Archives of Irish America Material Culture collection is a conglomeration of objects individually donated or found in collections and removed.</abstract>
+    <langmaterial id="aspace_07180b040590993b1406450e75f6000d">Materials are in English</langmaterial>
+  </did>
+  <arrangement id="aspace_20db85e890c5fc45ed06a559ee4f2df7">
+    <head>Arrangement</head>
+<p>Items are arranged alphabetically.</p>  </arrangement>
+  <scopecontent id="aspace_770943c736e535700dbae52ad1108af7">
+    <head>Scope and Contents</head>
+<p>The collection consists of a variety of items such as buttons, bumper stickers, hats, tickets, membership cards, pens, pins, and t-shirts -- many of them related to Irish organizations.  Contents of the collection came in as individual accessions or as part of larger accessions, including the Dorothy Hayden Cudahy Irish Memories Collection, and were organized together into this artificial collection.</p>  </scopecontent>
+  <bioghist id="aspace_6fb6cd84b9d54eb9287cc29732943535">
+    <head>Historical Note</head>
+<p>The Material Culture collection compliments the entire Archives of Irish America in that its contents provides information on many topics and individuals not formally represented in the other collections. The unique format of many of the materials - hats, t-shirts, bumper stickers - provide insight to scholars and researchers in the methods used to convey information within the Irish American community.</p>  </bioghist>
+  <accessrestrict id="aspace_d43c41c3e01228bca67d0bf2a8ea3050">
+    <head>Conditions Governing Access</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_ff70ed17349e0619816b5c38f08793c8">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2125. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <prefercite id="aspace_4641ca746be971fcf5835e70bf260834">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Archives of Irish America, Tamiment Library <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <acqinfo id="aspace_5e40b28f719783b373a25d82689eb794">
+    <head>Immediate Source of Acquisition</head>
+<p>The collection was created via active collection by staff, contributions from donors and from material removed from collections in the Archives.  The accession numbers associated with this collection are 1997.023, 2012.037, and 2019.114.</p>  </acqinfo>
+  <custodhist id="aspace_1faa56b8528b8caaba06a2ceb4bfab3c">
+    <head>Custodial History</head>
+<p>Items in the Material Culture collection were donated, purchased or found in other collections of the Archives.</p>  </custodhist>
+  <controlaccess>
+    <genreform source="aat">Footballs (balls for sports).</genreform>
+    <genreform source="aat">Hats.</genreform>
+    <genreform source="aat">Memorabilia.</genreform>
+    <genreform source="aat">Cigar boxes.</genreform>
+    <genreform source="aat">Plaques (flat objects)</genreform>
+    <genreform source="aat">T-shirts</genreform>
+    <genreform source="aat">Bumper stickers.</genreform>
+    <genreform source="aat">Stationery.</genreform>
+    <subject source="lcsh">Irish Americans.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref36" level="file"><did><unittitle>Armband: "Formation"</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3d11c01f89a4a8a00d7dc54d0f188876" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_19298795db795dc8ccbe601510528f2b" parent="aspace_3d11c01f89a4a8a00d7dc54d0f188876" type="object">6</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Armbands: "Frank Stagg, RIP" (IRA hunger strike)
+</unittitle><unitdate datechar="creation">c. 1970s</unitdate><container altrender="Manuscript box - Legal" id="aspace_b45c0c873d2a4346d179e948c20d0929" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_164930451aebc53cfb36afbb540617f6" parent="aspace_b45c0c873d2a4346d179e948c20d0929" type="object">5</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Ashtray: "Ireland" / Made in the Republic of 
 Ireland by N.B.C. Ltd.
-</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1a087fcf995a50608e553e999862fc21" label="Mixed Materials [31142063414059]" type="Box">4</container>
-          <container id="aspace_9b5b9fc1011325d990e815a5941f3ee9" parent="aspace_1a087fcf995a50608e553e999862fc21" type="object">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref63" level="file">
-        <did>
-          <unittitle>Badges, Name Tags, &amp; Ribbons</unittitle>
-          <unitdate datechar="creation" normal="1945/1992" type="inclusive">1945-1992</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f1a9b0e0f779d2cb6ca988c7e6df3d3b" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_698ad179ec24abec24252108249b45ae" parent="aspace_f1a9b0e0f779d2cb6ca988c7e6df3d3b" type="object">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref71" level="file">
-        <did>
-          <unittitle>Banner: Brehon Law Society</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Box 13 x 13.5" id="aspace_f366a048ce8b839e7fbbbb9bd0fff003" label="Mixed Materials [31142063414000]" type="Box">8</container>
-        </did>
-      </c>
-      <c id="aspace_aa4be748357623b8a11374f288d104f7" level="file">
-        <did>
-          <unittitle>Banner:  Irish American Heritage Committee of the New York City Department of Education</unittitle>
-          <container altrender="Flat OS Box 17" id="aspace_4f6fedde978e0c335091a80695646820" label="Mixed Materials [31142063577756]" type="Box">14</container>
-        </did>
-      </c>
-      <c id="aspace_ref6" level="file">
-        <did>
-          <unittitle>Baseball cap with image of Irish flag</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_609d3da8b8d20d6227b1af159038cff2" label="Mixed Materials [31142063414067]" type="Box">1</container>
-          <container id="aspace_9600600e27aa6118fc529c1d24a7d149" parent="aspace_609d3da8b8d20d6227b1af159038cff2" type="object">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref7" level="file">
-        <did>
-          <unittitle>Baseball cap with "N.Y. State Convention 
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_591b0c0261f7ac855b9ae1487bebbb4e" label="Mixed Materials [31142063414059]" type="Box">4</container><container id="aspace_9916a326810eee2f36d4174116f57d92" parent="aspace_591b0c0261f7ac855b9ae1487bebbb4e" type="object">3</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Badges, Name Tags, &amp; Ribbons</unittitle><unitdate datechar="creation" normal="1945/1992" type="inclusive">1945-1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_b566ed9530d8dc693db2fc1485f5836a" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_f4d3553f6dc95eab49cdeb5f6fc48ea1" parent="aspace_b566ed9530d8dc693db2fc1485f5836a" type="object">4</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Banner: Brehon Law Society</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box 13 x 13.5" id="aspace_7a228cb239a29bcbd4c587f38a2e35a4" label="Mixed Materials [31142063414000]" type="Box">8</container></did></c><c id="aspace_aa4be748357623b8a11374f288d104f7" level="file"><did><unittitle>Banner:  Irish American Heritage Committee of the New York City Department of Education</unittitle><container altrender="Flat OS Box 17" id="aspace_9628ce0412645d06ff75207ce07003f2" label="Mixed Materials [31142063577756]" type="Box">14</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Baseball cap with image of Irish flag</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_07772ddb7dd65ee48711238ea86bacc0" label="Mixed Materials [31142063414067]" type="Box">1</container><container id="aspace_b0ba6a8ec57e29bdacf7bd3b107bb3e6" parent="aspace_07772ddb7dd65ee48711238ea86bacc0" type="object">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Baseball cap with "N.Y. State Convention 
 A.O.H. Niagra Falls 1987 Albany, N.Y. in '89" Silkscreen
-</unittitle>
-          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_438a81161f74a4f1c0e361d4c13ab61d" label="Mixed Materials [31142063414067]" type="Box">1</container>
-          <container id="aspace_afa908c9d1da3d7bea84e58fa7cb9ab8" parent="aspace_438a81161f74a4f1c0e361d4c13ab61d" type="object">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref56" level="file">
-        <did>
-          <unittitle>Bookmark: "An Olde Irish Toast" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1244579adfbce76113a42408de4dad77" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_2ad3783c9bc945495034497dd0a864e8" parent="aspace_1244579adfbce76113a42408de4dad77" type="object">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref65" level="file">
-        <did>
-          <unittitle>Bookmark with copper pence: Bank of Ireland</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_95b1b46fa4da7fe2f47fe9cf47d68e30" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_942ed80fce8340dd09b9545e03153e39" parent="aspace_95b1b46fa4da7fe2f47fe9cf47d68e30" type="object">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref38" level="file">
-        <did>
-          <unittitle>Bumper Sticker: "The Irish Will Remember in November" 
+</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_69584337bbef765d02d11190839aab1c" label="Mixed Materials [31142063414067]" type="Box">1</container><container id="aspace_d5750b56e8c4834d745affcd5e01d8e2" parent="aspace_69584337bbef765d02d11190839aab1c" type="object">6</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Bookmark: "An Olde Irish Toast" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8d057800b7b84ecdfb75a2567d21fed9" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_abaa4ed978558355d2daf193c85f1d40" parent="aspace_8d057800b7b84ecdfb75a2567d21fed9" type="object">8</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Bookmark with copper pence: Bank of Ireland</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dac88562040e7944766de6515cc64b7f" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_79ad9e69e776243d84dc2fe2b72cc399" parent="aspace_dac88562040e7944766de6515cc64b7f" type="object">12</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Bumper Sticker: "The Irish Will Remember in November" 
 
-</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0e19beac7d788588695d4e176c1d7a10" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_6bef0d6a3de6a3bd68b2e8753ecfced9" parent="aspace_0e19beac7d788588695d4e176c1d7a10" type="object">3</container>
-        </did>
-        <controlaccess>
-          <genreform source="aat">Memorabilia.</genreform>
-          <genreform source="aat">Hats.</genreform>
-        </controlaccess>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Bumper Sticker: "Save the Leprechaun" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_e509cc96dc395613297719df4832f956" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_b4a1b43fad58659aed2d5161f3b429f6" parent="aspace_e509cc96dc395613297719df4832f956" type="object">14</container>
-        </did>
-      </c>
-      <c id="aspace_ref30" level="file">
-        <did>
-          <unittitle>Bumper Sticker: "Strip Search the Queen" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_43f711131d6caa1230aee3f86e12c70a" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_42050bca6d622b2e7c80f82731345311" parent="aspace_43f711131d6caa1230aee3f86e12c70a" type="object">15</container>
-        </did>
-      </c>
-      <c id="aspace_ref39" level="file">
-        <did>
-          <unittitle>Bumper sticker: "There's every reason to buy Irish" 
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_08efd5d7a022cd4d03f76cf4dab21f8c" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_ff8a755e21c613b5a854061718b169c6" parent="aspace_08efd5d7a022cd4d03f76cf4dab21f8c" type="object">3</container></did><controlaccess><genreform source="aat">Memorabilia.</genreform><genreform source="aat">Hats.</genreform></controlaccess></c><c id="aspace_ref22" level="file"><did><unittitle>Bumper Sticker: "Save the Leprechaun" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5d668430232e1119430336dda9262ab1" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_38be163e129d94fa8e77a9a326ea0588" parent="aspace_5d668430232e1119430336dda9262ab1" type="object">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Bumper Sticker: "Strip Search the Queen" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_97c4904fc2db581a43940c5d618d4cbd" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_564ae71508de5e4054c41ee872dd9bf1" parent="aspace_97c4904fc2db581a43940c5d618d4cbd" type="object">15</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Bumper sticker: "There's every reason to buy Irish" 
 
-</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_89aaab1ef3c3e7b1f1510f5080a4ca11" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_8886d75282464d33d4442a4c4ce6ce94" parent="aspace_89aaab1ef3c3e7b1f1510f5080a4ca11" type="object">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref64" level="file">
-        <did>
-          <unittitle>Buttons and Pins</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f1fb945a69f2bb29afb5aac57c403082" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_919d27258b9431d960fbce0152fc4048" parent="aspace_f1fb945a69f2bb29afb5aac57c403082" type="object">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref34" level="file">
-        <did>
-          <unittitle>Calendar (magnet): Kathleen's of Donegal Irish Imports </unittitle>
-          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_892b9761b32a743399ea812b0fa59ba1" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_15c2d62995e8f258ea1ecd10a5f03dd5" parent="aspace_892b9761b32a743399ea812b0fa59ba1" type="object">13</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Calendar: shape of shamrock </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_162db060ac669ef2e0a876efddc9039a" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_d50bc27279d170538d93b9562e633337" parent="aspace_162db060ac669ef2e0a876efddc9039a" type="object">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref44" level="file">
-        <did>
-          <unittitle>Cigar Box: "Irish Molly O" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c7ab60cb80d3f83ab3ea3f66a69e01e2" label="Mixed Materials [31142063414059]" type="Box">4</container>
-          <container id="aspace_14eb003f4c9480884d421dea1122eae5" parent="aspace_c7ab60cb80d3f83ab3ea3f66a69e01e2" type="object">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref66" level="file">
-        <did>
-          <unittitle>Cigarette Card: Frank Riley, Irish American Athletic Club (member of 1908 American Olympic Team)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-        </did>
-      </c>
-      <c id="aspace_ref31" level="file">
-        <did>
-          <unittitle>Coasters (4): Harp, Guinness, Bank of Ireland</unittitle>
-          <unitdate datechar="creation" normal="1998/1998" type="inclusive">undated, 1998</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_d2cc928dce22845c9523bc33831a7847" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_c340c70784da87b26c47a18bd56d33a2" parent="aspace_d2cc928dce22845c9523bc33831a7847" type="object">7</container>
-        </did>
-      </c>
-      <c id="aspace_5dde481863a15b5fc964157e6d594626" level="file">
-        <did>
-          <unittitle>Concertina</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_37e16293d4e88f97aac16352628fa515" label="Mixed Materials [31142063287877]" type="Box">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref40" level="file">
-        <did>
-          <unittitle>Flags: U.S.A. and Republic of Ireland (small)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="OS Flat Box 12" id="aspace_082743e34943d847f34b34c508617885" label="Mixed Materials [31142063414018]" type="Box">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle>Game Passes, Polo Grounds: Gaelic Games</unittitle>
-          <unitdate datechar="creation" normal="1954/1958" type="inclusive">1954-1958</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c7dd9a65a085e2e2c2476cfb95360b5e" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_67b7a795deec2c5737f29d0c79d8d329" parent="aspace_c7dd9a65a085e2e2c2476cfb95360b5e" type="object">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref72" level="file">
-        <did>
-          <unittitle>Handkerchief with embroidered green flower</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="OS Flat Box 12" id="aspace_9cf9851df7079befbcbad2a6ca51dc88" label="Mixed Materials [31142063414018]" type="Box">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle>Hurling Ball, leather</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_4e4018d38df055148af143761f9dd40b" label="Mixed Materials [31142063414059]" type="Box">4</container>
-          <container id="aspace_ea9c980adbcd4bdb5911725415b556c8" parent="aspace_4e4018d38df055148af143761f9dd40b" type="object">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref62" level="file">
-        <did>
-          <unittitle>Keychain: <emph render="italic">Irish Voice</emph></unittitle>
-          <container altrender="Manuscript box - Legal" id="aspace_3b0566377956f3aa2c2a29386c9b17bd" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_e6b62969a95f986415be3100ae192cde" parent="aspace_3b0566377956f3aa2c2a29386c9b17bd" type="object">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>Lottery tickets: Irish Hospitals' Sweepstakes (John J. Cudahy)</unittitle>
-          <unitdate datechar="creation" normal="1985/1985" type="inclusive">Oct 1985</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_fb96239be40cd1023ba8707426309a83" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_3c8659315cae0495563622c92bcbc41a" parent="aspace_fb96239be40cd1023ba8707426309a83" type="object">10</container>
-        </did>
-      </c>
-      <c id="aspace_4c2a9e806e6ae20856be699dda8b8d06" level="file">
-        <did>
-          <unittitle>Moore Centenary Association of Newark, New Jersey</unittitle>
-          <unitdate datechar="creation" normal="1879-05-28/1879-05-28">1879-05-28</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a8a2709157d61a69604122e896cb1a0b" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container>
-          <container id="aspace_f3b10d39f77fe26c8e6de90003d77297" parent="aspace_a8a2709157d61a69604122e896cb1a0b" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_ref9" level="file">
-        <did>
-          <unittitle>Mouse pad: <emph render="italic">Irish Echo</emph> </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ad1d9e314eda750b598e3da8396adffb" label="Mixed Materials [31142063414067]" type="Box">1</container>
-          <container id="aspace_ee8c77422ff5e61d9357d96b19dd1154" parent="aspace_ad1d9e314eda750b598e3da8396adffb" type="object">7</container>
-        </did>
-      </c>
-      <c id="aspace_796f8a2d64bcc0b2058eb72e06628ec3" level="file">
-        <did>
-          <unittitle>New York World's Fair Booklet</unittitle>
-          <unitdate datechar="creation" normal="1939/1939">1939</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_abcdc9eb368cfc21104a793f918f7059" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container>
-          <container id="aspace_8b6dff27c89cd4d565bee55727dd0afa" parent="aspace_abcdc9eb368cfc21104a793f918f7059" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>Paperweight: "Moynihan for Senate" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ac995204b7fc8b3d2b36c69b3e29fc93" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_fb925443f038a9b9e26efbc54146a542" parent="aspace_ac995204b7fc8b3d2b36c69b3e29fc93" type="object">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref3" level="file">
-        <did>
-          <unittitle>Plaque: "An Old Irish Benediction" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c9a960ab479835a7371191af794e73a4" label="Mixed Materials [31142063414067]" type="Box">1</container>
-          <container id="aspace_f12d78a4b18c4866e804ff8ecdd47cd9" parent="aspace_c9a960ab479835a7371191af794e73a4" type="object">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref60" level="file">
-        <did>
-          <unittitle>Plaque: County Clare P.B. &amp; S. Association; to Michael Mahoney</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c4101b84551ff3e49fd346851ad0b7a9" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_7121a265ddb9371d1dc3d73ef2ab71ae" parent="aspace_c4101b84551ff3e49fd346851ad0b7a9" type="object">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref55" level="file">
-        <did>
-          <unittitle>Plaque: "Ireland Unfree Shall Never Be At Peace - 1916 - Patrick Pearse" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="OS Flat Box - 15x19x3" id="aspace_387bf02de8888e5332df375f4691be0b" label="Mixed Materials [31142063414026]" type="Box">5</container>
-          <container id="aspace_e8de514130485696ce080bf1b418137d" parent="aspace_387bf02de8888e5332df375f4691be0b" type="object">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref61" level="file">
-        <did>
-          <unittitle>Plaque: Irish American Cultural Institute, "The Irish Way Program"</unittitle>
-          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
-          <container altrender="OS Flat Box - 15x19x3" id="aspace_13d9571d87c0b252f242cbd9f103a44e" label="Mixed Materials [31142063414026]" type="Box">5</container>
-          <container id="aspace_02156235d9101be8e01cc177f976b075" parent="aspace_13d9571d87c0b252f242cbd9f103a44e" type="object">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref2" level="file">
-        <did>
-          <unittitle>Plaque: "Irish American Heritage Museum Charter 
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_465c9089107a744edcbf6677e5ca67b0" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_a73328eada8bc9606827209a5d09ac89" parent="aspace_465c9089107a744edcbf6677e5ca67b0" type="object">3</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Buttons and Pins</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8464ccb0b3723e3c25deafc2b49ebeb1" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_0bdf749cfd6505d662469fe8dee04144" parent="aspace_8464ccb0b3723e3c25deafc2b49ebeb1" type="object">3</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Calendar (magnet): Kathleen's of Donegal Irish Imports </unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ce4562a7d76b704f079cd9426f3f7b7" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_0dc39bd21f7dbb23d081196a5b7c7e97" parent="aspace_2ce4562a7d76b704f079cd9426f3f7b7" type="object">13</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Calendar: shape of shamrock </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bb1757449efe638ce2a7b5c0e5344f6c" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_15e0dfbeb159b29f5b00f2cd1ae4e499" parent="aspace_bb1757449efe638ce2a7b5c0e5344f6c" type="object">6</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Cigar Box: "Irish Molly O" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dbd541d4af9ed9081b0525d66650c7a0" label="Mixed Materials [31142063414059]" type="Box">4</container><container id="aspace_4f026381e3ce3fcf54f2b43eccb15d1f" parent="aspace_dbd541d4af9ed9081b0525d66650c7a0" type="object">2</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Cigarette Card: Frank Riley, Irish American Athletic Club (member of 1908 American Olympic Team)</unittitle><unitdate datechar="creation">undated</unitdate></did></c><c id="aspace_ref31" level="file"><did><unittitle>Coasters (4): Harp, Guinness, Bank of Ireland</unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">undated, 1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_55f9b3c1d53b35dfb84f22897f8cd7a1" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_ef692a8dfbe985ca1f827bf5a1701bb4" parent="aspace_55f9b3c1d53b35dfb84f22897f8cd7a1" type="object">7</container></did></c><c id="aspace_5dde481863a15b5fc964157e6d594626" level="file"><did><unittitle>Concertina</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_760d159920016f76cc86644435388faa" label="Mixed Materials [31142063287877]" type="Box">12</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Flags: U.S.A. and Republic of Ireland (small)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box 12" id="aspace_2e0ce18efb248c3e9932c04f58c3dad5" label="Mixed Materials [31142063414018]" type="Box">7</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Game Passes, Polo Grounds: Gaelic Games</unittitle><unitdate datechar="creation" normal="1954/1958" type="inclusive">1954-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_331dc6dc8dcbdf7d722850a9fa872a1b" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_a326fd929190a7a9a53c98d7d3d84009" parent="aspace_331dc6dc8dcbdf7d722850a9fa872a1b" type="object">2</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Handkerchief with embroidered green flower</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box 12" id="aspace_37225723dfaa06578bd283206133c93c" label="Mixed Materials [31142063414018]" type="Box">7</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Hurling Ball, leather</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c9f0eb453a16789728feedbf52c7ed5e" label="Mixed Materials [31142063414059]" type="Box">4</container><container id="aspace_55e02a1a839feef8ff19f59f78de7be0" parent="aspace_c9f0eb453a16789728feedbf52c7ed5e" type="object">1</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Keychain: <emph render="italic">Irish Voice</emph></unittitle><container altrender="Manuscript box - Legal" id="aspace_c3bf756d8bfcbf05ba69a19360514950" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_e3d9570505b432d171cde76e652a5025" parent="aspace_c3bf756d8bfcbf05ba69a19360514950" type="object">5</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Lottery tickets: Irish Hospitals' Sweepstakes (John J. Cudahy)</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">Oct 1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_7934dc2cc1a19dfd2ef466cb57fe1d7a" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_a5e0e6dbffbfe8c94f9fac10b63a16fc" parent="aspace_7934dc2cc1a19dfd2ef466cb57fe1d7a" type="object">10</container></did></c><c id="aspace_4c2a9e806e6ae20856be699dda8b8d06" level="file"><did><unittitle>Moore Centenary Association of Newark, New Jersey</unittitle><unitdate datechar="creation" normal="1879-05-28/1879-05-28">1879-05-28</unitdate><container altrender="Manuscript box - Legal" id="aspace_14f4898f741e496a17d45da70ec2c5b5" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container><container id="aspace_6b726daaa3daf71e61791f382d607985" parent="aspace_14f4898f741e496a17d45da70ec2c5b5" type="Folder">21</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Mouse pad: <emph render="italic">Irish Echo</emph> </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4d6c698609fcd8f4576183d686a480ed" label="Mixed Materials [31142063414067]" type="Box">1</container><container id="aspace_fd01d107973d7915ae7eaac9adea9782" parent="aspace_4d6c698609fcd8f4576183d686a480ed" type="object">7</container></did></c><c id="aspace_796f8a2d64bcc0b2058eb72e06628ec3" level="file"><did><unittitle>New York World's Fair Booklet</unittitle><unitdate datechar="creation" normal="1939/1939">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_4e192891234234e736989c98acaceec7" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container><container id="aspace_9f858acc99a091cf9e62c9694a0ccce9" parent="aspace_4e192891234234e736989c98acaceec7" type="Folder">22</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Paperweight: "Moynihan for Senate" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9bda2cc1540548fbed057b5854353f6b" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_a25e70f90a775823f108f43e14031710" parent="aspace_9bda2cc1540548fbed057b5854353f6b" type="object">7</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Plaque: "An Old Irish Benediction" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_67eb28e06230320914dac03f3b9edd61" label="Mixed Materials [31142063414067]" type="Box">1</container><container id="aspace_a4d9534eb89b59e48ecf2ccc65dfa054" parent="aspace_67eb28e06230320914dac03f3b9edd61" type="object">2</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Plaque: County Clare P.B. &amp; S. Association; to Michael Mahoney</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_24823c8d9275d37d388e562f810ffa45" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_d2f059d942b5b6e456b1104db00ad49f" parent="aspace_24823c8d9275d37d388e562f810ffa45" type="object">11</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Plaque: "Ireland Unfree Shall Never Be At Peace - 1916 - Patrick Pearse" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_827384fbbebfaddf2005f97a65ae36cb" label="Mixed Materials [31142063414026]" type="Box">5</container><container id="aspace_ea27d78331f91f3e1fb000d1f611a1a6" parent="aspace_827384fbbebfaddf2005f97a65ae36cb" type="object">3</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Plaque: Irish American Cultural Institute, "The Irish Way Program"</unittitle><unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_e624e201b69454269862adc6c141659e" label="Mixed Materials [31142063414026]" type="Box">5</container><container id="aspace_57ca0ec28ab856024d72aac04b5b4d13" parent="aspace_e624e201b69454269862adc6c141659e" type="object">2</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Plaque: "Irish American Heritage Museum Charter 
 Member" 
-</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ebd40e4591521cc07beea52fe2cf05ec" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_c6d11a806fc97f7f5a93e1e9deaa86fb" parent="aspace_ebd40e4591521cc07beea52fe2cf05ec" type="object">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref25" level="file">
-        <did>
-          <unittitle>Photo on wood block: Dorothy Hayden Cudahy</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_eb7d82e0bd85f43db30c0cf3315070e1" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_f6b803bf84e2afc5c4f6a32cf374fae5" parent="aspace_eb7d82e0bd85f43db30c0cf3315070e1" type="object">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref57" level="file">
-        <did>
-          <unittitle>Record Album: "The Irish Uprising, 1916-1922"</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="OS Flat Box - 15x19x3" id="aspace_65d6e645c8bc263953f1a7f552729e6b" label="Mixed Materials [31142063414026]" type="Box">5</container>
-          <container id="aspace_698efe7dbdc9de36e215c6426338421d" parent="aspace_65d6e645c8bc263953f1a7f552729e6b" type="object">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref53" level="file">
-        <did>
-          <unittitle>Ribbon: Irish American Athletic Association Member: " Nothing too Good for the Irish-Americans" Banquet</unittitle>
-          <unitdate datechar="creation">30 Oct 1911</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_e3c6b68616c9431b6bf96d5386e39bc8" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_9e7fd02de9b2e50de6944af747351cf9" parent="aspace_e3c6b68616c9431b6bf96d5386e39bc8" type="object">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>Rosary</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a99a483242957fdcb92749dad315359a" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_8a8f0839bb7e31f7a4c77e50841a13d8" parent="aspace_a99a483242957fdcb92749dad315359a" type="object">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>Ruler: Bank of Ireland</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5cc1d776ea74888b278746f4946ef3ee" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_9d590e55772e1b2f74e8aba157fd1900" parent="aspace_5cc1d776ea74888b278746f4946ef3ee" type="object">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref4" level="file">
-        <did>
-          <unittitle>Scally cap with "Hibernians/Budweiser" Patch</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_4cb4952e2939cbf91792401202a35629" label="Mixed Materials [31142063414067]" type="Box">1</container>
-          <container id="aspace_fcc957d021c41da0e94070532ce92ef1" parent="aspace_4cb4952e2939cbf91792401202a35629" type="object">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle>Stamp: Bank of Ireland, Deposits</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_44cf2428c2426a6025578f1490ddf2aa" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_0af620f28ff12352f99a357d460c8b75" parent="aspace_44cf2428c2426a6025578f1490ddf2aa" type="object">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>Stamp: Doran Film Distribution: U.S. Distribution and Sales; wood and rubber </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_435a1d5ab06c830a3e8a858ee85abb0d" label="Mixed Materials [31142063414042]" type="Box">3</container>
-          <container id="aspace_f751f59845b09c2ca9543ecc0dbdc537" parent="aspace_435a1d5ab06c830a3e8a858ee85abb0d" type="object">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref5" level="file">
-        <did>
-          <unittitle>Stationery pad: Ladies Ancient Order of Hibernians </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1f2d83634bd6e77d76e1763112a11305" label="Mixed Materials [31142063414067]" type="Box">1</container>
-          <container id="aspace_cc179ad53ebe03c4b9df39d4a9eb2813" parent="aspace_1f2d83634bd6e77d76e1763112a11305" type="object">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref8" level="file">
-        <did>
-          <unittitle>Stationery Sets (3): Aer Lingus 1st Class </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_3b24140b3536f77ac9ecdd242bab4102" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_9586474abc39781610702936f2dd3bb8" parent="aspace_3b24140b3536f77ac9ecdd242bab4102" type="object">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle>Shoelaces with shamrocks</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_64a26c49be5333630e921d0644b681a1" label="Mixed Materials [31142062765253]" type="Box">2</container>
-          <container id="aspace_5147dee65646c16d725367b640049b0e" parent="aspace_64a26c49be5333630e921d0644b681a1" type="object">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref67" level="file">
-        <did>
-          <unittitle>T-Shirt: 22nd Annual Washington Irish Folk Festival, Montgomery County Fairgrounds [MD}, </unittitle>
-          <unitdate datechar="creation" normal="1998/1998" type="inclusive">Sep 5 1998-Sep 6 1998</unitdate>
-          <container altrender="Record carton" id="aspace_7f11dbcef377b2177da40bd446e93210" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_b015e22aaa120cc1f34a4d0dc60121b3" parent="aspace_7f11dbcef377b2177da40bd446e93210" type="object">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>T-Shirt: "Conradh na Gailge – Craobh Baile Phit" 
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_53aaf705db32c73d9792c8fc1295c697" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_4b83626135595789c2be3996a18a4244" parent="aspace_53aaf705db32c73d9792c8fc1295c697" type="object">4</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Photo on wood block: Dorothy Hayden Cudahy</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ea8aabbf8c9c2fbfca4811a8ea3ac577" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_51f36b6d5033e0ca9b94a8e52da521d9" parent="aspace_ea8aabbf8c9c2fbfca4811a8ea3ac577" type="object">1</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Record Album: "The Irish Uprising, 1916-1922"</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_8b3e2d7ff28dbba2fbc1c4275635420c" label="Mixed Materials [31142063414026]" type="Box">5</container><container id="aspace_fb84eac355367f88147d2edaa07b859e" parent="aspace_8b3e2d7ff28dbba2fbc1c4275635420c" type="object">1</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Ribbon: Irish American Athletic Association Member: " Nothing too Good for the Irish-Americans" Banquet</unittitle><unitdate datechar="creation">30 Oct 1911</unitdate><container altrender="Manuscript box - Legal" id="aspace_2fa6892c1a47eafbfe17ca1f395df06c" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_0c2d588b42c610a6947e0ee1bd6a9997" parent="aspace_2fa6892c1a47eafbfe17ca1f395df06c" type="object">10</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Rosary</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a60c1e738a766fb56c47e0b23cb163e9" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_548219796c18886584604796255521e0" parent="aspace_a60c1e738a766fb56c47e0b23cb163e9" type="object">5</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Ruler: Bank of Ireland</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d8e5484b8ef1f6be87a3eed110c71315" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_4930ecaf7dc84b167c30e2ccd90adfd3" parent="aspace_d8e5484b8ef1f6be87a3eed110c71315" type="object">11</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Scally cap with "Hibernians/Budweiser" Patch</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf1f693b05bfaaea9cc24616650bb045" label="Mixed Materials [31142063414067]" type="Box">1</container><container id="aspace_c673414f16a00432703ae420b53d9286" parent="aspace_cf1f693b05bfaaea9cc24616650bb045" type="object">3</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Stamp: Bank of Ireland, Deposits</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_47d34fa4719fe599e5fd7c47216cf6c4" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_8d262a59c5c7119560c93dbb3c9996d1" parent="aspace_47d34fa4719fe599e5fd7c47216cf6c4" type="object">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Stamp: Doran Film Distribution: U.S. Distribution and Sales; wood and rubber </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_41253e4cf31d279b04e5154b660eda8c" label="Mixed Materials [31142063414042]" type="Box">3</container><container id="aspace_6f52e494cc1317f41c18b4afb248aadf" parent="aspace_41253e4cf31d279b04e5154b660eda8c" type="object">9</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Stationery pad: Ladies Ancient Order of Hibernians </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e1e7cb96eb6b408b979efbc1fc651045" label="Mixed Materials [31142063414067]" type="Box">1</container><container id="aspace_9b385d26a0f2f0d96eb0db1beb5150d0" parent="aspace_e1e7cb96eb6b408b979efbc1fc651045" type="object">4</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Stationery Sets (3): Aer Lingus 1st Class </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dd23d76571a04a4c92dc1f0d13fe481b" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_5ceebd9e427808ff20a8b90e0586edc6" parent="aspace_dd23d76571a04a4c92dc1f0d13fe481b" type="object">1</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Shoelaces with shamrocks</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_09602ba53f01c337a65e36d62b129050" label="Mixed Materials [31142062765253]" type="Box">2</container><container id="aspace_42424715845e0348acdcf1260fe59424" parent="aspace_09602ba53f01c337a65e36d62b129050" type="object">9</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>T-Shirt: 22nd Annual Washington Irish Folk Festival, Montgomery County Fairgrounds [MD}, </unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">Sep 5 1998-Sep 6 1998</unitdate><container altrender="Record carton" id="aspace_5aaf35754e44f58447759e96282c7ccf" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_b0f5e46e8bdac288de23869a81516cea" parent="aspace_5aaf35754e44f58447759e96282c7ccf" type="object">10</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>T-Shirt: "Conradh na Gailge – Craobh Baile Phit" 
 
-</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_cef3ba400199299eab206b776001a5eb" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_b43fe7f50a23a0f2bc1d86418e766acb" parent="aspace_cef3ba400199299eab206b776001a5eb" type="object">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref68" level="item">
-        <did>
-          <unittitle>T-Shirt: Coogan Salsa Blues and Shamrocks, NYC "Remember Captain Frederick Ill, FDNY</unittitle>
-          <unitdate datechar="creation" normal="2003/2003" type="inclusive">Mar 2, 2003</unitdate>
-          <container altrender="Record carton" id="aspace_45bd2af800166d7bbb7fa3aa3a3cdaa7" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_1e5916c2a068b75777f6910a4ee072e7" parent="aspace_45bd2af800166d7bbb7fa3aa3a3cdaa7" type="object">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle>T-Shirt: "Free Jim Barr – Irish Political Prisoner in America" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_44898abb729ebf07d63d02fc2c673628" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_e38b8591032a28894f885cc90e4c2ee9" parent="aspace_44898abb729ebf07d63d02fc2c673628" type="object">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref41" level="file">
-        <did>
-          <unittitle>T-Shirt: "The Great Hunger" </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_1ef707d2b99e22916544bdf9af0b8794" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_421495e5654ae0b659fe4f435abc4e8d" parent="aspace_1ef707d2b99e22916544bdf9af0b8794" type="object">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref43" level="file">
-        <did>
-          <unittitle>T-Shirt: Ireland Worldcup 1994 </unittitle>
-          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
-          <container altrender="Record carton" id="aspace_92ab3c0636cc8dedbbb2eb53934b3d74" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_c0b76d007b229dfc9d80f33ad6bed952" parent="aspace_92ab3c0636cc8dedbbb2eb53934b3d74" type="object">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>T-Shirt: "Irish Emigrant Vote Campaign, ©IEVC '91"</unittitle>
-          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
-          <container altrender="Record carton" id="aspace_60f7615d8a7bfd263e94a03acc4ead0d" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_16423eb308f728b69e638e5c2b326c16" parent="aspace_60f7615d8a7bfd263e94a03acc4ead0d" type="object">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>T-Shirt: "Republic of Ireland, World Cup '94"</unittitle>
-          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
-          <container altrender="Record carton" id="aspace_d01b2d5a6dd7cdae3c921432075a5d8d" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_baacd061f2ac690b99311b6a67e9aa32" parent="aspace_d01b2d5a6dd7cdae3c921432075a5d8d" type="object">6</container>
-        </did>
-      </c>
-      <c id="aspace_3fe5249baae5ebbabb0798fdd26213f2" level="file">
-        <did>
-          <unittitle>T-Shirt:  "Riverdance"</unittitle>
-          <unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate>
-          <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_bbfe2be09947dd11eec8783ffdb4f9fe" label="Mixed Materials [31142063577509]" type="Box">15</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>T-Shirt: "Scannān '92: A Festival of Modern Irish Film"</unittitle>
-          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
-          <container altrender="Record carton" id="aspace_bf4bf18b44706dc4a1238df19cdec2f4" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_5dd036eb3cac677f90a9605bb8c6d409" parent="aspace_bf4bf18b44706dc4a1238df19cdec2f4" type="object">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref10" level="file">
-        <did>
-          <unittitle>T-Shirt: "Support Irish Political Prisoners • H-Block and Armagh Comm." </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_093f82d30cf5b503b4ee97e87e5f6b42" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_399517cb47723235bef3b2349eaf9c13" parent="aspace_093f82d30cf5b503b4ee97e87e5f6b42" type="object">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref42" level="file">
-        <did>
-          <unittitle>T-Shirt: "Ulysses S. Grant and the Irish" - Wildgeese.com </unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Record carton" id="aspace_203d48a771d666685506dd2d59ca9ca7" label="Mixed Materials [31142063414075]" type="Box">6</container>
-          <container id="aspace_3e13cd57083aa01717e6f2c3c8dec71b" parent="aspace_203d48a771d666685506dd2d59ca9ca7" type="object">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref70" level="file">
-        <did>
-          <unittitle>Tea Towel: "County Roscomman" (linen)</unittitle>
-          <container altrender="OS Flat Box 12" id="aspace_2fdccdd039084fd2d562f1ab710e8569" label="Mixed Materials [31142063414018]" type="Box">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref69" level="file">
-        <did>
-          <unittitle>Tea Towel: "Famous Irish Americans" (linen/cotton)</unittitle>
-          <container altrender="OS Flat Box 12" id="aspace_5a9dd32a85a61d28e2480125c9ca40e2" label="Mixed Materials [31142063414018]" type="Box">7</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_7384f0482f07a9c002807c54393f8af5" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_c8466bf1c12375257216ab58c30ae484" parent="aspace_7384f0482f07a9c002807c54393f8af5" type="object">1</container></did></c><c id="aspace_ref68" level="item"><did><unittitle>T-Shirt: Coogan Salsa Blues and Shamrocks, NYC "Remember Captain Frederick Ill, FDNY</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">Mar 2, 2003</unitdate><container altrender="Record carton" id="aspace_513d46cf5ade30b0e4311efe24c12da2" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_7c294f9ac0a7f44ed097ed2e8da37829" parent="aspace_513d46cf5ade30b0e4311efe24c12da2" type="object">11</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>T-Shirt: "Free Jim Barr – Irish Political Prisoner in America" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_9945e98aaada5045a2534681d14ca98d" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_899dd549233bfee04700fc1a09823438" parent="aspace_9945e98aaada5045a2534681d14ca98d" type="object">2</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>T-Shirt: "The Great Hunger" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_16f3c63feeb33aab23dcfe2bc536752a" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_219ed184d458f330b34f8990a57b7725" parent="aspace_16f3c63feeb33aab23dcfe2bc536752a" type="object">3</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>T-Shirt: Ireland Worldcup 1994 </unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Record carton" id="aspace_973f76c6357237310534ff37680d2fc9" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_85577ea81e0fd5d7c3e1b99f4dcbf857" parent="aspace_973f76c6357237310534ff37680d2fc9" type="object">4</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>T-Shirt: "Irish Emigrant Vote Campaign, ©IEVC '91"</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_41780423ff172118c7bb499ea74150b4" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_e979cc0b03b56e9f391faf5bbba86f13" parent="aspace_41780423ff172118c7bb499ea74150b4" type="object">5</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>T-Shirt: "Republic of Ireland, World Cup '94"</unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Record carton" id="aspace_cda3bee60df639a3e2a83a9c05e1fb6a" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_2f0b421d2fce96ebc7fed4cf8060ec10" parent="aspace_cda3bee60df639a3e2a83a9c05e1fb6a" type="object">6</container></did></c><c id="aspace_3fe5249baae5ebbabb0798fdd26213f2" level="file"><did><unittitle>T-Shirt:  "Riverdance"</unittitle><unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate><container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_7a8843a4cdf47e7b7edd728ea4b262b8" label="Mixed Materials [31142063577509]" type="Box">15</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>T-Shirt: "Scannān '92: A Festival of Modern Irish Film"</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Record carton" id="aspace_fee22196d4c23ae4030912a2722bdad0" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_9a83330199b00947296bf17129592779" parent="aspace_fee22196d4c23ae4030912a2722bdad0" type="object">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>T-Shirt: "Support Irish Political Prisoners • H-Block and Armagh Comm." </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_e7d6ad518a0a86389bb6e40c3fb1e086" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_56adeb01f9a98074a5a7c4f0f08603e0" parent="aspace_e7d6ad518a0a86389bb6e40c3fb1e086" type="object">8</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>T-Shirt: "Ulysses S. Grant and the Irish" - Wildgeese.com </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_028e61fa99efc1c75ff3d8371db5fb83" label="Mixed Materials [31142063414075]" type="Box">6</container><container id="aspace_24fc389586fa48c8de8bd4e275008a8a" parent="aspace_028e61fa99efc1c75ff3d8371db5fb83" type="object">9</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Tea Towel: "County Roscomman" (linen)</unittitle><container altrender="OS Flat Box 12" id="aspace_b6e29016887bdc3edd613505662fcd76" label="Mixed Materials [31142063414018]" type="Box">7</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Tea Towel: "Famous Irish Americans" (linen/cotton)</unittitle><container altrender="OS Flat Box 12" id="aspace_fc7b804abeb7abfc56390d094e1883f2" label="Mixed Materials [31142063414018]" type="Box">7</container></did></c></dsc>
+</archdesc>
 </ead>

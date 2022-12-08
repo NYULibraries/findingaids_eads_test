@@ -1,800 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_012">photos_012</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Civil Service Technical Guild Photograph Collection  <num>PHOTOS.012</num></titleproper>
-        <author>Anthonia Mattheou and Rob Dishon, 1987; Erika Gottfried, 2003. Revised by Erika Gottfried to reflect a change in location for oversized materials, July 2014. </author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from NP12 Civil Service Technical Guild.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:32:51 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Civil Service Technical Guild Photographs</unittitle>
-      <origination label="Creator">
-        <corpname source="naf">Civil Service Technical Guild</corpname>
-      </origination>
-      <unitid>PHOTOS.012</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1922/1987" type="inclusive">1922-1987</unitdate>
-      <unitdate datechar="creation" normal="1960/1979" type="bulk">1960-1979</unitdate>
-      <abstract id="aspace_117082aac875eaff2bf387551fc2a09e">The Civil Service Technical Guild, established in 1937 to represent engineers and architects employed by the City of New York; was founded by three engineers: Henry F. Cunningham, William F. Elliot, and George Ellenoff. In 1956 it merged with American Federation of State, County and Municipal Employees, District 37, as that organization's Local 375. By the 1960s the Guild had won the right of collective bargaining and over the years won for its members improved salaries, medical and dental benefits, Social Security and long-term disability insurance. Spanning the years 1922 to 1980, the collection of ca. 400 black and white photographs represents every aspect of the Guild's existence and activities. Most are of routine gatherings such as banquets and meetings, and these include portraits and posed group photographs with Guild presidents Louis Albano, Philip Brueck, Joseph Collins, Richard Izzo, and Alexander Lurkis,, but a few are less formal and provide more information on the material culture and the social lives of the early union members. In addition, some photographs document subway construction at several different time periods and different locations. Some of the photographers/photographic studios whose work is included in this collection are: John Adams Davis; Drunker, Hilbert Co.; Roland Harvey; Photographic Unit of the New York City Transit Authority; Sam Reiss; A.G. Schoenfeld; Ed Sheenan; Vincent Stibler; and Whitestone Photos.</abstract>
-      <physdesc id="aspace_70d852acf21b2f7eb367fb062c2c061b" label="General Physical Description note">(ca. 400 items); 3x5, 5x7,8x10; b&amp;w</physdesc>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_012">photos_012</eadid><filedesc><titlestmt><titleproper>Guide to the Civil Service Technical Guild Photograph Collection  <num>PHOTOS.012</num></titleproper><author>Anthonia Mattheou and Rob Dishon, 1987; Erika Gottfried, 2003. Revised by Erika Gottfried to reflect a change in location for oversized materials, July 2014. </author></titlestmt><editionstmt><p>This version was derived from NP12 Civil Service Technical Guild.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:37:42 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Civil Service Technical Guild Photographs</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n88200214" source="naf">Civil Service Technical Guild</corpname>
+    </origination>
+    <unitid>PHOTOS.012</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1922/1987" type="inclusive">1922-1987</unitdate>
+    <unitdate datechar="creation" normal="1960/1979" type="bulk">1960-1979</unitdate>
+    <abstract id="aspace_117082aac875eaff2bf387551fc2a09e" label="Abstract">The Civil Service Technical Guild, established in 1937 to represent engineers and architects employed by the City of New York; was founded by three engineers: Henry F. Cunningham, William F. Elliot, and George Ellenoff. In 1956 it merged with American Federation of State, County and Municipal Employees, District 37, as that organization's Local 375. By the 1960s the Guild had won the right of collective bargaining and over the years won for its members improved salaries, medical and dental benefits, Social Security and long-term disability insurance. Spanning the years 1922 to 1980, the collection of ca. 400 black and white photographs represents every aspect of the Guild's existence and activities. Most are of routine gatherings such as banquets and meetings, and these include portraits and posed group photographs with Guild presidents Louis Albano, Philip Brueck, Joseph Collins, Richard Izzo, and Alexander Lurkis,, but a few are less formal and provide more information on the material culture and the social lives of the early union members. In addition, some photographs document subway construction at several different time periods and different locations. Some of the photographers/photographic studios whose work is included in this collection are: John Adams Davis; Drunker, Hilbert Co.; Roland Harvey; Photographic Unit of the New York City Transit Authority; Sam Reiss; A.G. Schoenfeld; Ed Sheenan; Vincent Stibler; and Whitestone Photos.</abstract>
+    <physdesc id="aspace_70d852acf21b2f7eb367fb062c2c061b" label="General Physical Description note">(ca. 400 items); 3x5, 5x7,8x10; b&amp;w</physdesc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-    </did>
-    <accessrestrict id="aspace_8251cba8d695f29776c333d96eec966a">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_9b63751dc02116e5ea6b6b1a5346b455">
-      <head>Immediate Source of Acquisition</head>
-      <p>Photographs in this collection were separated from the Civil Service Technical Guild Records WAG.024, and established as their own collection, the Civil Service Technical Guild Photographs PHOTOS.011. The accession number associated with these materials is 1984.007. Over the years, there have been a number of additions made to this collection. The accession numbers associated with this collection are NPA.2004.069, NPA.2004.076, NPA.2004.086, NPA.2005.031, NPA.2006.022, NPA.2006.082, 2011.092, and NPA.2005.031.</p>
-    </acqinfo>
-    <arrangement id="aspace_6073b263142c0f07139ada468929d5f4">
-      <head>Arrangement</head>
-      <p>Arrangement is topical within series, with the exception of Series VI, which is arranged chronologically.</p>
-      <p>Organized into 8 series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I. Activities, Unofficial</item>
-        <item>II. Activities, Official</item>
-        <item>III. Administrative</item>
-        <item>IV. Construction</item>
-        <item>V. Oversize</item>
-        <item>VI. Chronological</item>
-        <item>VII. Negatives and Contact Sheets</item>
-        <item>VIII. Unprocessed</item>
-      </list>
-    </arrangement>
-    <bioghist id="aspace_431f2431ad8e495d0b290e188b6d5134">
-      <head>Historical/Biographical Note</head>
-      <p>The Civil Service Technical Guild was established in 1937 to represent engineers and architects employed by the City of New York. It began as Council 6 of the Civil Service Forum by three engineers, Henry F. Cunningham, William F. Elliot, and George Ellenoff. The first activity of the organization was a protest against the contracting out of public works by the City to private firms. The union mobilized 300 engineers who went to the state capitol to lobby for the passage of the Buckley Law, which proposed repealing from the New York City charter a provision which actually required contracting out of large projects. After the passage of the Buckley Law, the Guild's membership increased by approximately 2,000 new members, representing 25 city departments (adding chemists and technical inspectors, among others).</p>
-      <p>In 1948 the Guild disaffiliated from the Civil Service Forum and was independent until 1951 when it merged with the Government and Civic Employees Organizing Committee (GCEOC) of the CIO, and finally with the American Federation of State, County and Municipal Employees, District 37 after the AFL-CIO merger in 1956. One of the key figures in the founding of the Guild was Philip Brueck, who was elected its President in 1938 and held that post for almost twenty years. Building upon the passage of the Buckley Law, Brueck's political strategy for the Guild was to lobby for legislation rather than to use strikes. By the 1960s the Guild had won the right of collective bargaining and over the years won for its members improved salaries, medical and dental benefits, Social Security and long-term disability insurance.</p>
-    </bioghist>
-    <custodhist id="aspace_e2157af03035b9b31c994b6df728b97f">
-      <head>Provenance</head>
-      <p>The records of the Civil Service Technical Guild were assembled by the union in cooperation with the Robert F. Wagner Labor Archives, NYU during an oral history project initiated in 1984 in preparation for the Guild`s fiftieth anniversary. In the absence of a body of official union records, items were donated from the private collections of the following officers and members: Philip Brueck, President 1938-1955, Alexander Lurkis, President 1956-1958, Bill Goldsborough, William Malloy, Joseph Collins, President 1958-1972, Louis Albano, President 1981-1998, David Jacobson, James Parker, Eleanor Eastman, David Sedacca, and Harold Haldorsen.</p>
-    </custodhist>
-    <prefercite id="aspace_235489c75b1ef5c61989a5a84057e4d6">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Civil Service Technical Guild Photographs; PHOTOS 012; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <relatedmaterial id="aspace_f06655555f3f5c3bd33a935a1f19fd1d">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>Records of the American Federation of State, County, and Municipal Employees, District Council 37, Local 375, Civil Service Technical Guild (Wagner 24).</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_ffd69198e824b737b8bd97c246749184">
-      <head>Scope and Content Note</head>
-      <p>This collection of black and white photographs spans the years 1922 to 1980 and represents every aspect of the Guild's existence and activities. It is organized into seven series, and within the series, mostly by subject. The subjects include: dinners, meetings, elections, demonstrations, rallies, subway construction, portraits, and hearings. In some cases photographs were not entirely identified or dated.</p>
-      <p>Some of the most interesting photographs in the collection are those that show subway construction at several different time periods and many different locations, including an album completed by the Transit Commission in 1922 showing subway construction to Queens.</p>
-      <p>While most of the photographs are of routine gatherings such as banquets and meetings, many in formal poses, a few images are less formal and provide more information on the material culture and the social lives of the early union members. These include the staff of the Brooklyn Borough President's office at work and at play (at the beach) and lively snapshots of CSTG'ers alternately posing and clowning outdoors at early conventions. Also pictured, in portraits and group photographs are Civil Service Technical Guild presidents, including Louis Albano, Philip Brueck, Joseph Collins, Richard Izzo, and Alexander Lurkis.</p>
-      <p>Some of the photographers/photographic studios whose work is included in this collection are: John Adams Davis; Drunker, Hilbert Co.; Roland Harvey; Photographic Unit of the New York City Transit Authority; Sam Reiss; A.G. Schoenfeld; Ed Sheenan; Vincent Stibler; and Whitestone Photos.</p>
-    </scopecontent>
-    <userestrict id="aspace_fe2a1ec22b881855eaaecea0f9baabce">
-      <head>Conditions Governing Use</head>
-      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library and Robert F. Wagner Labor Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Labor union meetings |z New York (State) |z New York |v Pictorial works.</subject>
-      <subject source="lcsh">Civil engineers |z New York (State) |z New York |v Portraits.</subject>
-      <subject source="lcsh">Public works |x Law and legislation |z New York (State) |z New York.</subject>
-      <subject source="lcsh">Architects |z New York (State) |z New York |v Portraits.</subject>
-      <subject source="lcsh">White collar workers |x Labor unions |z New York (State) |z New York.</subject>
-      <genreform source="aat">Negatives (photographic)</genreform>
-      <subject source="lcsh">Demonstrations |z New York (State) |z New York |v Pictorial works.</subject>
-      <subject source="lcsh">Collective bargaining |z New York (State) |z New York |v Pictorial works.</subject>
-      <geogname source="lcsh">New York (N.Y.) |x Officials and employees |v Portraits.</geogname>
-      <genreform source="aat">Black-and-white photographs.</genreform>
-      <corpname source="local">Congress of Industrial Organizations (U.S.). Government and Civic Employees Organizing Committee</corpname>
-      <persname rules="dacs" source="local">Izzo, Richard -- Portraits.</persname>
-      <persname rules="dacs" source="local">Lurkis, Alexander -- Portraits.</persname>
-      <persname rules="dacs" source="local">Davis, John Adams</persname>
-      <corpname source="naf">AFSCME. District Council 37 (New York, N.Y.)</corpname>
-      <persname source="naf">Harvey, Roland</persname>
-      <persname rules="dacs" source="local">Reiss, Sam</persname>
-      <persname rules="dacs" source="local">Schoenfeld, A. G.</persname>
-      <persname rules="dacs" source="local">Sheenan, Ed</persname>
-      <corpname source="local">Civil Service Forum (New York, N.Y.)</corpname>
-      <persname rules="dacs" source="local">Stibler, Vincent</persname>
-      <persname rules="dacs" source="local">Albano, Lou -- Portraits.</persname>
-      <persname source="local">Brueck, Philip -- Portraits.</persname>
-      <corpname source="naf">Civil Service Technical Guild</corpname>
-      <corpname source="local">Whitestone Photos</corpname>
-      <persname rules="dacs" source="local">Collins, Joseph -- Portraits.</persname>
-      <corpname source="local">New York City Transit Authority. Photographic Unit</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I: Activities
-</unittitle>
-        </did>
-        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Anniversary, 25th</unittitle>
-            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_09a5657ac47cadbed0a4badc2b8075f7" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_9a4bc9191c74e3b1105a31ba6182a9e5" parent="aspace_09a5657ac47cadbed0a4badc2b8075f7" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Anniversary, 40th</unittitle>
-            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1ddb1dc1bd5027d91d07ea6880cc8d67" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_de7ff423b0cf986b7432d05fcb9d7b8e" parent="aspace_1ddb1dc1bd5027d91d07ea6880cc8d67" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Brueck, Phil - Misc. dinners after retirement</unittitle>
-            <unitdate datechar="creation" normal="1963/1980" type="inclusive">1963-1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9047e132f3b7eb9782806c180c09af37" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_04a316ec537c771fe828672e7d7f37e8" parent="aspace_9047e132f3b7eb9782806c180c09af37" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Brueck, Phil - Retirement Dinner</unittitle>
-            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fbd03d29db108b3e5db5910121bd3083" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_387c85c0cf74acc6d861944230e65767" parent="aspace_fbd03d29db108b3e5db5910121bd3083" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>City Hall Outing</unittitle>
-            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fe8516f7c7602b0f8de592a235a52045" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_bbd987dafec9c73d6dab8fb4892a5fdf" parent="aspace_fe8516f7c7602b0f8de592a235a52045" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Collins, Joe. - Retirement Dinner</unittitle>
-            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1b8a20b41666d7b69f713c15eec0e475" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_cf700e2d9bdfb38f749583f108c469a7" parent="aspace_1b8a20b41666d7b69f713c15eec0e475" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dinner, 1940s-1949</unittitle>
-            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940-1949</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7bdacd4c675c994e816c10a90d12df30" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_dfad68c922da35e53edb752eef87f13d" parent="aspace_7bdacd4c675c994e816c10a90d12df30" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dinners, 1950 - 1959</unittitle>
-            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_04cef9a5cfd6fcd59336f9d2c1fc2836" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_760198c3305f336662d166175eb15ae5" parent="aspace_04cef9a5cfd6fcd59336f9d2c1fc2836" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dinners, 1960 - 1969</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3e28d3008d71d42573345266ca4762d9" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_5809f0cbad6f120167e2699981a24e31" parent="aspace_3e28d3008d71d42573345266ca4762d9" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dinners, 1970 - 1978</unittitle>
-            <unitdate datechar="creation" normal="1970/1978" type="inclusive">1970-1978</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ec4e5d096e5f3ca1fc900a5863d16c80" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_3cff868ba93eb99d1aba1354bad576ee" parent="aspace_ec4e5d096e5f3ca1fc900a5863d16c80" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Issacs, Helen - Retirement Party, Dinner</unittitle>
-            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1ce196a97ee99baf3a4c75af39d2afd6" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_7a737e68d42a16c37eade9252c63cf67" parent="aspace_1ce196a97ee99baf3a4c75af39d2afd6" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Samowitz, Charles - Retirement Party</unittitle>
-            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a92879df7912afac4e65ba1f4ca4f3df" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_3b0df31d70942fb91eb5a487527f928a" parent="aspace_a92879df7912afac4e65ba1f4ca4f3df" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Zuckerman - Retirement Party</unittitle>
-            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_eca4756fb7256514089d6c211587372b" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_8a0be6f7b60261109ad694aae7970063" parent="aspace_eca4756fb7256514089d6c211587372b" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Staff of the (Brooklyn) Borough President's office--1930s- 1940s</unittitle>
-            <unitdate datechar="creation" normal="1930/1949" type="inclusive">ca.1930-1949</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d25eae05e9376d02fa8ea30917ffa6d7" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_2846496983b9750148d618d8e222a82d" parent="aspace_d25eae05e9376d02fa8ea30917ffa6d7" type="Folder">14</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref28" level="series">
-        <did>
-          <unittitle>Series II: Activities, Official</unittitle>
-        </did>
-        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>AFL-CIO - State Convention</unittitle>
-            <unitdate datechar="creation" normal="1967/1972" type="inclusive">1967-1972</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9848d8e0509079e7c0429db3b56d6ff8" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_fa55f4cc05fec352b02f8dcf723bc85f" parent="aspace_9848d8e0509079e7c0429db3b56d6ff8" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>AFSCME Meeting with Ted Kennedy</unittitle>
-            <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9a2ad4279089e5b0e562e27c5d5c3b24" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_727d3dd945c70455ca69576b7d32d1ea" parent="aspace_9a2ad4279089e5b0e562e27c5d5c3b24" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Agency Shop Bill Signing</unittitle>
-            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_dde9470aed3ad06d328c73d3fa638ea3" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_0a4d6eece0ca008d71c1b6127b8bfaf2" parent="aspace_dde9470aed3ad06d328c73d3fa638ea3" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Awards and Presentations – 1970s</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_934c9f7f271b4ffa2fc6b467681b672c" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_a8069a2973b20ea27074f63ef222bdb1" parent="aspace_934c9f7f271b4ffa2fc6b467681b672c" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Beame, Mayor - Endorsement of 1970s</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_638ea53c2a57621d3e3a230495c3d06d" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_517afa0f6573bc92fa462c95484d09b5" parent="aspace_638ea53c2a57621d3e3a230495c3d06d" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Buckley, Bill</unittitle>
-            <unitdate datechar="creation" normal="1922/1987" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_295bad831ed70b3f06d92e9814282223" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_f4f9f05721ca76e38c6bd50c66f1efad" parent="aspace_295bad831ed70b3f06d92e9814282223" type="Folder">19.1</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Carey, Governor - Endorsement of 1970s</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9ee8b64d755e8e71bf64a32ba07db8f4" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_f5e5eeab688efa21d3c7a8e4c8019e36" parent="aspace_9ee8b64d755e8e71bf64a32ba07db8f4" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Carter, President - Meeting with 1980</unittitle>
-            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_b855f0d194dbbac9f97ababe801b8a40" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_2431a362d848dd748ae9a031529b5e7e" parent="aspace_b855f0d194dbbac9f97ababe801b8a40" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>City Council, Presentation to 1945 – 1946, 1950s</unittitle>
-            <unitdate datechar="creation" normal="1945/1959" type="inclusive">1945-1946 , 1950-1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_eca07e0ac4778810eaa49b1bd07796f2" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_cab91c888e1b446bf1a2f63e298384dd" parent="aspace_eca07e0ac4778810eaa49b1bd07796f2" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Civil Service Association Convention 1939,40,42,46,47</unittitle>
-            <unitdate datechar="creation" normal="1939/1947" type="inclusive">1939-1940 , 1942 , 1946-1947</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_630d88c95c1a3c713cbbac66de05177c" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_7f2970e21f306fe2c06ef86a2387d563" parent="aspace_630d88c95c1a3c713cbbac66de05177c" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>CPM Class 1980</unittitle>
-            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_eedae1338f5c34f44d99d26c07621342" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_3500ed596b71c4c6afcd5a90299a4d3f" parent="aspace_eedae1338f5c34f44d99d26c07621342" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Demonstrations--1970s</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e14a522cb6c442dc3704f163c3f92a20" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_c98dbb40ad2b4dfdb6426ea6b1f7e387" parent="aspace_e14a522cb6c442dc3704f163c3f92a20" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Education—1960s</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fb392efc9ca8a7f2c4071d587e949482" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_443dac5266d7325c3f8f2b172da32ece" parent="aspace_fb392efc9ca8a7f2c4071d587e949482" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Election Meetings--1979</unittitle>
-            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c771783d3182c81c607e41fa5333bede" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_d4c4fe92303b0b8da43e12294b747aeb" parent="aspace_c771783d3182c81c607e41fa5333bede" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Financial Control Board--1979</unittitle>
-            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_12fb21a7529d74370a3222d2ad87c86a" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_ba326ab71ccc0c19b83a5fea535388f8" parent="aspace_12fb21a7529d74370a3222d2ad87c86a" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Guild Chemist Seminar--1979</unittitle>
-            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_cef4ccb4d885f14610d950c9d80b1c7e" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_e28cf960ac0fed81e9c41ac0db2243a9" parent="aspace_cef4ccb4d885f14610d950c9d80b1c7e" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Hearings, 1945-1980</unittitle>
-            <unitdate datechar="creation" normal="1945/1980" type="inclusive">1945-1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e587f67cb171e77524ef009e0fa24a3d" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_1381ca1716581792cfe30d76b19daf7d" parent="aspace_e587f67cb171e77524ef009e0fa24a3d" type="Folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Hospital Rally--1979</unittitle>
-            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f91e075b84e5aec6974667efbf2f5295" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_a9b4b1007d59d08676d0f9622b930c61" parent="aspace_f91e075b84e5aec6974667efbf2f5295" type="Folder">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Housing Unit Contract, Signing of 1980</unittitle>
-            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4193a12038c8f8af44fbadbcbe105acc" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_72017eee6b8d1ee8a9848bf125158528" parent="aspace_4193a12038c8f8af44fbadbcbe105acc" type="Folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Installations, 1952 - 1980</unittitle>
-            <unitdate datechar="creation" normal="1952/1980" type="inclusive">1952-1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ea12f9ce822902fef621cd3fb1a8d010" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_fa1fac9c7741f5074754b97cd99b9830" parent="aspace_ea12f9ce822902fef621cd3fb1a8d010" type="Folder">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Low Jones Education Commission--1960s</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_20dd46d0fc7e4c54919cc47d3ef8bcd4" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_c5bb4a5d438a16bd68e2d6ca43be4f56" parent="aspace_20dd46d0fc7e4c54919cc47d3ef8bcd4" type="Folder">34</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Meetings--1930s</unittitle>
-            <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c17b98e76fff554021949dd09ef0993e" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_af305a2e54bc96188871f1a3c4d5a33f" parent="aspace_c17b98e76fff554021949dd09ef0993e" type="Folder">35</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Meetings, 1950-1959</unittitle>
-            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_684037cf8fc539ca114f8662b10e5b82" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_bdef082b6809e82e6793f301b82947a9" parent="aspace_684037cf8fc539ca114f8662b10e5b82" type="Folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Meeting, 1970-1978</unittitle>
-            <unitdate datechar="creation" normal="1970/1978" type="inclusive">1970-1978</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_098f7badcf363055b6e4a380b81b7684" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_c3c12436a895ae1aece3a0630c844ff8" parent="aspace_098f7badcf363055b6e4a380b81b7684" type="Folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Meetings--1980</unittitle>
-            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_446cea9f28042fbca2ac639048ce2e02" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_e3c7dc4b8c70ade4a00d2074f70b8d84" parent="aspace_446cea9f28042fbca2ac639048ce2e02" type="Folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Official Signings--1960s</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8c3b65564cb15034b629f9fc502623bb" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_733735ad1c8fb2cedb1b26b276a28ae8" parent="aspace_8c3b65564cb15034b629f9fc502623bb" type="Folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Project Coordinator - Prep Course</unittitle>
-            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_231262be8f352c306d96c69f2a8c8066" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_92691c769277f6aac60466f00178c959" parent="aspace_231262be8f352c306d96c69f2a8c8066" type="Folder">40</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>School Board--1970 - 1976</unittitle>
-            <unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f91ae25493187556be07e3ee19dfceb8" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_e768dee792fa3adee1b48d430efbfea6" parent="aspace_f91ae25493187556be07e3ee19dfceb8" type="Folder">41</container>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Tamiment/Wagner Presentation--1984</unittitle>
-            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0056b65209a6b9e607f3c7fb301cf353" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_7f62981408e0a1c206bc17b8aef164d8" parent="aspace_0056b65209a6b9e607f3c7fb301cf353" type="Folder">42</container>
-          </did>
-        </c>
-        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Trips--1967</unittitle>
-            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_37c8ee044aaad11d914916c4f66ef63c" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_dceab7bfaaeb8b8cae3e16c71e822154" parent="aspace_37c8ee044aaad11d914916c4f66ef63c" type="Folder">43</container>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Women's Division--1950s</unittitle>
-            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4b08b6e8042699139605a737895ca188" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_604b9648910b36254ff5683c568d9f9b" parent="aspace_4b08b6e8042699139605a737895ca188" type="Folder">44</container>
-          </did>
-        </c>
-        <c id="aspace_b2c3f35290ab37288e83a1ab8c040173" level="file">
-          <did>
-            <unittitle>Exhibit materials, anniversary celebration</unittitle>
-            <unitdate datechar="creation">1980s</unitdate>
-            <container altrender="Flat Box - 12 x 15.25" id="aspace_9dea2cfdb476ebceed9e4980f9e61fee" label="Mixed Materials [31142062881936]" type="Box">Shared Tamiment 005</container>
-            <container id="aspace_40d12d7d48f5522d6429b1e6ac0670f1" parent="aspace_9dea2cfdb476ebceed9e4980f9e61fee" type="Folder">13</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref60" level="series">
-        <did>
-          <unittitle>Series III: Administrative</unittitle>
-        </did>
-        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Brueck, Phil – Portraits--1920s- 1970s</unittitle>
-            <unitdate datechar="creation" normal="1920/1979" type="inclusive">1920-1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2b3210fde61e75e5c2085987ac95c224" label="Mixed Materials [31142062667871]" type="Box">1</container>
-            <container id="aspace_6e3a3af0d3167c06d618493ac73ee608" parent="aspace_2b3210fde61e75e5c2085987ac95c224" type="Folder">45</container>
-          </did>
-        </c>
-        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Collins, Joe--1960s</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_2e333b011cdef0fb56cb16dd3bc6bdad" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_d4fead152070f95baecc520c342997fa" parent="aspace_2e333b011cdef0fb56cb16dd3bc6bdad" type="Folder">46</container>
-          </did>
-        </c>
-        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Freidland, Harvey</unittitle>
-            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_1e427c95af0fc68c756d4b61f2b6c436" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_d36d39e0f877e102ad17814d236e785a" parent="aspace_1e427c95af0fc68c756d4b61f2b6c436" type="Folder">47</container>
-          </did>
-        </c>
-        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>General Service Lab</unittitle>
-            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d19b3dc2655d1d11e0a1cda7ab73b6a6" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_4388005cc8ef8bc84320aaa173f42b2b" parent="aspace_d19b3dc2655d1d11e0a1cda7ab73b6a6" type="Folder">48</container>
-          </did>
-        </c>
-        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Guild Insigni—n.d.</unittitle>
-            <unitdate datechar="creation" normal="1922/1987" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_745da21ce1cbd05b467f7f4145f08abb" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_79e4e40e54dc196c00e7e0403205e316" parent="aspace_745da21ce1cbd05b467f7f4145f08abb" type="Folder">49</container>
-          </did>
-        </c>
-        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Izzo, Richard C.</unittitle>
-            <unitdate datechar="creation" normal="1962/1979" type="inclusive">1962-1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_bcd7a037eee45f40902a102a0e603e53" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_dabc3466b686345bed0218f053a08c22" parent="aspace_bcd7a037eee45f40902a102a0e603e53" type="Folder">50</container>
-          </did>
-        </c>
-        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Miscellaneous Group Shots (at unidentified gatherings)</unittitle>
-            <unitdate datechar="creation" normal="1939/1987" type="inclusive">1939-1987</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9f22661bedea12c60d52fe8ea723aaae" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_389b9ffc13593dfef609dbbc30ffcb5b" parent="aspace_9f22661bedea12c60d52fe8ea723aaae" type="Folder">51</container>
-          </did>
-        </c>
-        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Office Photographs--1940s-1967</unittitle>
-            <unitdate datechar="creation" normal="1940/1967" type="inclusive">1940-1967</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_69a018d8caa4663ac85814571527d6fa" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_4d51cb6ba498feb87f24830f5d55e135" parent="aspace_69a018d8caa4663ac85814571527d6fa" type="Folder">52</container>
-          </did>
-        </c>
-        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Portraits, Non-Guild Staff</unittitle>
-            <unitdate datechar="creation" normal="1930/1980" type="inclusive">1930-1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_73ead28c14ff85e3acdf84f1b08c96e1" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_5ba62a04ebd639e2b8329f8a87414324" parent="aspace_73ead28c14ff85e3acdf84f1b08c96e1" type="Folder">53</container>
-          </did>
-        </c>
-        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Staff Photographs</unittitle>
-            <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7584a142bb5a5f5dd7e1430fda330d6d" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_3134432076fb9c5fcc1941865f2194a6" parent="aspace_7584a142bb5a5f5dd7e1430fda330d6d" type="Folder">54</container>
-          </did>
-        </c>
-        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Union Officers-- 1960s</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d67e3e6090dbd331bc33b1d885720609" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_9920fc3776fe95f8f0cc7cfa935f22fc" parent="aspace_d67e3e6090dbd331bc33b1d885720609" type="Folder">55</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref72" level="series">
-        <did>
-          <unittitle>Series IV: Construction</unittitle>
-        </did>
-        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Work Photographs--Subways (album)</unittitle>
-            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_88e71c9fea6f12616715ab9eae7e0153" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_a5661e37c24ee31b56e0d3d0772b5112" parent="aspace_88e71c9fea6f12616715ab9eae7e0153" type="Folder">56</container>
-          </did>
-        </c>
-        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Flood Control Gates</unittitle>
-            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4c152c33c15a9f501976fadef13d2918" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_3bb7db137716b6eb243c69cc3b68fe22" parent="aspace_4c152c33c15a9f501976fadef13d2918" type="Folder">57</container>
-          </did>
-        </c>
-        <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Power Plant Model</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e212148271604c0ac626214e408dc94f" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_1284b8acaaf2d0edfd74c561e6522669" parent="aspace_e212148271604c0ac626214e408dc94f" type="Folder">58</container>
-          </did>
-        </c>
-        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Subway Expansion - 6th Avenue &amp; 13th Street</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4a53e2003567b0414f767cc379f84d29" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_a29faa47e669ebca23b5c81313d7f368" parent="aspace_4a53e2003567b0414f767cc379f84d29" type="Folder">59</container>
-          </did>
-        </c>
-        <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Photographs shot for the Transit Commission of New York City, showing construction of the Rapid Transit Subway and Elevated Lines of New York City</unittitle>
-            <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a815a6c449de0dfb3e9c82b24d201f74" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_d252a536fe5f8089dbd4cc1d4c3c9f2f" parent="aspace_a815a6c449de0dfb3e9c82b24d201f74" type="Folder">60</container>
-          </did>
-        </c>
-        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Photographs shot for the Transit Commission of New York City, showing construction of the Rapid Transit Subway and Elevated Lines of New York City</unittitle>
-            <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_fa86b5da1816620d59ecd1c91e0ef445" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_aa77f90dc4096d9626fd3061cd72bb53" parent="aspace_fa86b5da1816620d59ecd1c91e0ef445" type="Folder">61</container>
-          </did>
-        </c>
-        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Tunnel Construction</unittitle>
-            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_45775fd806324bdb56d090b2b2844e3f" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_ed6c2e2c7b25697cd537c34a7dabf990" parent="aspace_45775fd806324bdb56d090b2b2844e3f" type="Folder">62</container>
-          </did>
-        </c>
-        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>City public works designed or worked on by CSTG members</unittitle>
-            <unitdate datechar="creation" normal="1922/1987" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_489b5f6cab625bfcc50f58a27f0b6258" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_a82ba8c37d24e879851e1ee9ad444185" parent="aspace_489b5f6cab625bfcc50f58a27f0b6258" type="Folder">63</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref81" level="series">
-        <did>
-          <unittitle>Series V: Oversize</unittitle>
-        </did>
-        <scopecontent id="aspace_0d16dbf71b1ed6495871682066dcbe4b">
-          <head>Scope and Contents note</head>
-          <p>Contains panoramic photos from banquets, and from the CSTG Women's Division (including exhibit: "Global Women in Non-Traditional Jobs") .</p>
-        </scopecontent>
-        <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Oversize Photographs</unittitle>
-            <container altrender="Oversize Folder - 37.25 x 9.75" id="aspace_bf5b9915b2c375a0d633a493a3fc1df6" label="photographs [31142062665255]" type="Flat-File-Folder">5, Tray 3</container>
-            <container altrender="Oversize Folder - 37.25 x 9.75" id="aspace_6e0da0d93b8ae866407e07d93d012d35" label="photographs [31142062665248]" type="Flat-File-Folder">5, Tray 4</container>
-          </did>
-        </c>
-        <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Testimonial Dinners and Luncheon Held for Harry Jolles, John Daly, William Daly, and Colonel S. H. Bingham on the Occasions of their Retirement from the New York City Transit Authority</unittitle>
-            <unitdate datechar="creation" normal="1950/1965" type="inclusive">circa 1960</unitdate>
-            <container altrender="Flat OS 21" id="aspace_ce96e56813d6d1bdbd42896eeb1a8128" label="photographs [31142062760239]" type="Box">Tamiment Shared XOS001</container>
-          </did>
-        </c>
-        <c id="aspace_f44b3b30866ee7787ae7287ce52d9168" level="file">
-          <did>
-            <unittitle>Third Annual Exhibition of CSTG, Local 375 Women's Organizing Committee: "Global Women in Non-Traditional Jobs"</unittitle>
-            <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
-            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_86aaa5a8407438ad402d53a3c7223426" label="Mixed Materials [31142062882249]" type="Box">8</container>
-            <container id="aspace_b500c5a87aa30f8974595893fcc3a623" parent="aspace_86aaa5a8407438ad402d53a3c7223426" type="Folder">1-8</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref83" level="series">
-        <did>
-          <unittitle>Series VI: Chronological</unittitle>
-        </did>
-        <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>1950s</unittitle>
-            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_835f70326331667aaa284ffb48c69909" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_2a2c02f7a29a2cf27ef6151bc469cc48" parent="aspace_835f70326331667aaa284ffb48c69909" type="Folder">64</container>
-          </did>
-        </c>
-        <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>1950s?</unittitle>
-            <unitdate datechar="creation" normal="1940/1960" type="inclusive">[1950-1959]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_3a1c5796614c6c8e601d201c5bce057f" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_e3903a97de1abfe5991271c4ff633cb7" parent="aspace_3a1c5796614c6c8e601d201c5bce057f" type="Folder">65</container>
-          </did>
-        </c>
-        <c id="aspace_ref86" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>1960s</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_61656172112c01b042188ec1ab70e125" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_31402da901a632c1c8efcdbd7674849c" parent="aspace_61656172112c01b042188ec1ab70e125" type="Folder">66</container>
-          </did>
-        </c>
-        <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>1960s?</unittitle>
-            <unitdate datechar="creation" normal="1950/1970" type="inclusive">[1960-1969]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8edbc2cb0a77624d6e34fc9a5efbec32" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_00e794250e985cf6a4bae67e6ee001ed" parent="aspace_8edbc2cb0a77624d6e34fc9a5efbec32" type="Folder">67</container>
-          </did>
-        </c>
-        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>1970s</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_329e21558fc052139b5c01ad513e811b" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_09a97e7a233c3ebe58aa1ff78969835d" parent="aspace_329e21558fc052139b5c01ad513e811b" type="Folder">68</container>
-          </did>
-        </c>
-        <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>1970s?</unittitle>
-            <unitdate datechar="creation" normal="1960/1980" type="inclusive">[1970-1979]</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c12a5bcac0fb85251ec12942f24e80db" label="Mixed Materials [31142062667889]" type="Box">2</container>
-            <container id="aspace_2db1c4ea9132d1e7788074d1e4ebe183" parent="aspace_c12a5bcac0fb85251ec12942f24e80db" type="Folder">69</container>
-          </did>
-        </c>
-        <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>1980s</unittitle>
-            <unitdate datechar="creation" normal="1970/1990" type="inclusive">1980-1989</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b9b36b3b6d20f19ca687bef8f33e1cfc" label="Mixed Materials [31142062667897]" type="Box">3</container>
-            <container id="aspace_6f497d5c445705bdacb850357694eafb" parent="aspace_b9b36b3b6d20f19ca687bef8f33e1cfc" type="Folder">70</container>
-          </did>
-        </c>
-        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>1980s?</unittitle>
-            <unitdate datechar="creation" normal="1970/1990" type="inclusive">[1980-1989]</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_e11f2de30d9bca17270cf12cd0163929" label="Mixed Materials [31142062667897]" type="Box">3</container>
-            <container id="aspace_8ad909641701ba2be801024778463f59" parent="aspace_e11f2de30d9bca17270cf12cd0163929" type="Folder">71</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref92" level="series">
-        <did>
-          <unittitle>Series VII: Negatives and Contact Sheets</unittitle>
-        </did>
-        <c id="aspace_ref93" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Contact sheets—Late 1970s-1980s</unittitle>
-            <unitdate datechar="creation" normal="1970/1990" type="inclusive">1970-1989</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c93a32d8753aa0d55a3c8309b21e1d3f" label="Mixed Materials [31142062667897]" type="Box">3</container>
-            <container id="aspace_c2e59ef227b4421830af5ed9447e3d78" parent="aspace_c93a32d8753aa0d55a3c8309b21e1d3f" type="Folder">72</container>
-          </did>
-        </c>
-        <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Negatives--Late 1970s-1980s</unittitle>
-            <unitdate datechar="creation" normal="1970/1990" type="inclusive">1970-1989</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4bc2fb12de3a7dbc5f4f40843b08867f" label="Mixed Materials [31142062667897]" type="Box">3</container>
-            <container id="aspace_171152f4545036281695c786e47a2633" parent="aspace_4bc2fb12de3a7dbc5f4f40843b08867f" type="Folder">73</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+  </did>
+  <accessrestrict id="aspace_8251cba8d695f29776c333d96eec966a">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_9b63751dc02116e5ea6b6b1a5346b455">
+    <head>Immediate Source of Acquisition</head>
+<p>Photographs in this collection were separated from the Civil Service Technical Guild Records WAG.024, and established as their own collection, the Civil Service Technical Guild Photographs PHOTOS.011. The accession number associated with these materials is 1984.007. Over the years, there have been a number of additions made to this collection. The accession numbers associated with this collection are NPA.2004.069, NPA.2004.076, NPA.2004.086, NPA.2005.031, NPA.2006.022, NPA.2006.082, 2011.092, and NPA.2005.031.</p>  </acqinfo>
+  <arrangement id="aspace_6073b263142c0f07139ada468929d5f4">
+    <head>Arrangement</head>
+<p>Arrangement is topical within series, with the exception of Series VI, which is arranged chronologically.</p><p>Organized into 8 series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I. Activities, Unofficial</item>
+      <item>II. Activities, Official</item>
+      <item>III. Administrative</item>
+      <item>IV. Construction</item>
+      <item>V. Oversize</item>
+      <item>VI. Chronological</item>
+      <item>VII. Negatives and Contact Sheets</item>
+      <item>VIII. Unprocessed</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_431f2431ad8e495d0b290e188b6d5134">
+    <head>Historical/Biographical Note</head>
+<p>The Civil Service Technical Guild was established in 1937 to represent engineers and architects employed by the City of New York. It began as Council 6 of the Civil Service Forum by three engineers, Henry F. Cunningham, William F. Elliot, and George Ellenoff. The first activity of the organization was a protest against the contracting out of public works by the City to private firms. The union mobilized 300 engineers who went to the state capitol to lobby for the passage of the Buckley Law, which proposed repealing from the New York City charter a provision which actually required contracting out of large projects. After the passage of the Buckley Law, the Guild's membership increased by approximately 2,000 new members, representing 25 city departments (adding chemists and technical inspectors, among others).</p><p>In 1948 the Guild disaffiliated from the Civil Service Forum and was independent until 1951 when it merged with the Government and Civic Employees Organizing Committee (GCEOC) of the CIO, and finally with the American Federation of State, County and Municipal Employees, District 37 after the AFL-CIO merger in 1956. One of the key figures in the founding of the Guild was Philip Brueck, who was elected its President in 1938 and held that post for almost twenty years. Building upon the passage of the Buckley Law, Brueck's political strategy for the Guild was to lobby for legislation rather than to use strikes. By the 1960s the Guild had won the right of collective bargaining and over the years won for its members improved salaries, medical and dental benefits, Social Security and long-term disability insurance.</p>  </bioghist>
+  <custodhist id="aspace_e2157af03035b9b31c994b6df728b97f">
+    <head>Provenance</head>
+<p>The records of the Civil Service Technical Guild were assembled by the union in cooperation with the Robert F. Wagner Labor Archives, NYU during an oral history project initiated in 1984 in preparation for the Guild`s fiftieth anniversary. In the absence of a body of official union records, items were donated from the private collections of the following officers and members: Philip Brueck, President 1938-1955, Alexander Lurkis, President 1956-1958, Bill Goldsborough, William Malloy, Joseph Collins, President 1958-1972, Louis Albano, President 1981-1998, David Jacobson, James Parker, Eleanor Eastman, David Sedacca, and Harold Haldorsen.</p>  </custodhist>
+  <prefercite id="aspace_235489c75b1ef5c61989a5a84057e4d6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Civil Service Technical Guild Photographs; PHOTOS 012; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_f06655555f3f5c3bd33a935a1f19fd1d">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Records of the American Federation of State, County, and Municipal Employees, District Council 37, Local 375, Civil Service Technical Guild (Wagner 24).</p>  </relatedmaterial>
+  <scopecontent id="aspace_ffd69198e824b737b8bd97c246749184">
+    <head>Scope and Content Note</head>
+<p>This collection of black and white photographs spans the years 1922 to 1980 and represents every aspect of the Guild's existence and activities. It is organized into seven series, and within the series, mostly by subject. The subjects include: dinners, meetings, elections, demonstrations, rallies, subway construction, portraits, and hearings. In some cases photographs were not entirely identified or dated.</p><p>Some of the most interesting photographs in the collection are those that show subway construction at several different time periods and many different locations, including an album completed by the Transit Commission in 1922 showing subway construction to Queens.</p><p>While most of the photographs are of routine gatherings such as banquets and meetings, many in formal poses, a few images are less formal and provide more information on the material culture and the social lives of the early union members. These include the staff of the Brooklyn Borough President's office at work and at play (at the beach) and lively snapshots of CSTG'ers alternately posing and clowning outdoors at early conventions. Also pictured, in portraits and group photographs are Civil Service Technical Guild presidents, including Louis Albano, Philip Brueck, Joseph Collins, Richard Izzo, and Alexander Lurkis.</p><p>Some of the photographers/photographic studios whose work is included in this collection are: John Adams Davis; Drunker, Hilbert Co.; Roland Harvey; Photographic Unit of the New York City Transit Authority; Sam Reiss; A.G. Schoenfeld; Ed Sheenan; Vincent Stibler; and Whitestone Photos.</p>  </scopecontent>
+  <userestrict id="aspace_fe2a1ec22b881855eaaecea0f9baabce">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library and Robert F. Wagner Labor Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Labor union meetings |z New York (State) |z New York |v Pictorial works.</subject>
+    <subject source="lcsh">Civil engineers |z New York (State) |z New York |v Portraits.</subject>
+    <subject source="lcsh">Public works |x Law and legislation |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Architects |z New York (State) |z New York |v Portraits.</subject>
+    <subject source="lcsh">White collar workers |x Labor unions |z New York (State) |z New York.</subject>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <subject source="lcsh">Demonstrations |z New York (State) |z New York |v Pictorial works.</subject>
+    <subject source="lcsh">Collective bargaining |z New York (State) |z New York |v Pictorial works.</subject>
+    <geogname source="lcsh">New York (N.Y.) |x Officials and employees |v Portraits.</geogname>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <corpname source="local">Congress of Industrial Organizations (U.S.). Government and Civic Employees Organizing Committee</corpname>
+    <persname rules="dacs" source="local">Izzo, Richard -- Portraits.</persname>
+    <persname rules="dacs" source="local">Lurkis, Alexander -- Portraits.</persname>
+    <persname rules="dacs" source="local">Davis, John Adams</persname>
+    <corpname authfilenumber="(lccn)n50060174" source="naf">AFSCME. District Council 37 (New York, N.Y.)</corpname>
+    <persname source="naf">Harvey, Roland</persname>
+    <persname rules="dacs" source="local">Reiss, Sam</persname>
+    <persname rules="dacs" source="local">Schoenfeld, A. G.</persname>
+    <persname rules="dacs" source="local">Sheenan, Ed</persname>
+    <corpname source="local">Civil Service Forum (New York, N.Y.)</corpname>
+    <persname rules="dacs" source="local">Stibler, Vincent</persname>
+    <persname rules="dacs" source="local">Albano, Lou -- Portraits.</persname>
+    <persname source="local">Brueck, Philip -- Portraits.</persname>
+    <corpname authfilenumber="(lccn)n88200214" source="naf">Civil Service Technical Guild</corpname>
+    <corpname source="local">Whitestone Photos</corpname>
+    <persname rules="dacs" source="local">Collins, Joseph -- Portraits.</persname>
+    <corpname source="local">New York City Transit Authority. Photographic Unit</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Activities
+</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Anniversary, 25th</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_8150e2408f9ce608f7598c7350f809c6" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_1e3ffc6456bc95f4c7c38875d4508643" parent="aspace_8150e2408f9ce608f7598c7350f809c6" type="Folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Anniversary, 40th</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_0cfda0edbe8c4c81c5c4f3ae10e0faaa" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_2220e82855b73a563c877fb47f0689c0" parent="aspace_0cfda0edbe8c4c81c5c4f3ae10e0faaa" type="Folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Brueck, Phil - Misc. dinners after retirement</unittitle><unitdate datechar="creation" normal="1963/1980" type="inclusive">1963-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_dd58f8b36154708a72c9d34b70aefab4" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_c2820f290e10835e7597b2cf4ed5c07a" parent="aspace_dd58f8b36154708a72c9d34b70aefab4" type="Folder">3</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Brueck, Phil - Retirement Dinner</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_735de418b06d3da78c6d921b9833e588" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_d8163bf11a3ab87c9c795495f94d1a77" parent="aspace_735de418b06d3da78c6d921b9833e588" type="Folder">4</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Hall Outing</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_41031cd8e8aac2af7fa36aaccb195aec" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_cbf6e852d7ad057683b75365a3283493" parent="aspace_41031cd8e8aac2af7fa36aaccb195aec" type="Folder">5</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Collins, Joe. - Retirement Dinner</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_6efe84e32b5fd91e288faf69f618569b" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_aa2e1ba618e3bec8622ee2d874570466" parent="aspace_6efe84e32b5fd91e288faf69f618569b" type="Folder">6</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dinner, 1940s-1949</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">1940-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_953e3df9e21027df1673402f929d1f1a" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_a8214ab657f7ab633ab6245504f30b27" parent="aspace_953e3df9e21027df1673402f929d1f1a" type="Folder">7</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dinners, 1950 - 1959</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_01bcf1862edccd0dbb18ce4bafae814d" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_cecd93a6ca58a57af2608f0e6fa7ca91" parent="aspace_01bcf1862edccd0dbb18ce4bafae814d" type="Folder">8</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dinners, 1960 - 1969</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd22b218ec8d8b0c7315f7b01247eae7" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_81095df6efc5e39258acc2da57284a05" parent="aspace_fd22b218ec8d8b0c7315f7b01247eae7" type="Folder">9</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dinners, 1970 - 1978</unittitle><unitdate datechar="creation" normal="1970/1978" type="inclusive">1970-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_910abd375371a961e0b9eee891d677c6" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_aa0ae409192022f499807afbc0f7c227" parent="aspace_910abd375371a961e0b9eee891d677c6" type="Folder">10</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Issacs, Helen - Retirement Party, Dinner</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_d782960886311ec28d8bf0c9a3e57e1c" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_3690ccbac6afbf99538967543f8aa84d" parent="aspace_d782960886311ec28d8bf0c9a3e57e1c" type="Folder">11</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Samowitz, Charles - Retirement Party</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_7770f753a70758f25ac6847f39b52b5d" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_8421504c9b140b0c2c16fbf32cfc25cd" parent="aspace_7770f753a70758f25ac6847f39b52b5d" type="Folder">12</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Zuckerman - Retirement Party</unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_e74df97667aa7fc0a683391c799f6787" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_98aaf717c41a14c73438a6479b7ae734" parent="aspace_e74df97667aa7fc0a683391c799f6787" type="Folder">13</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Staff of the (Brooklyn) Borough President's office--1930s- 1940s</unittitle><unitdate datechar="creation" normal="1930/1949" type="inclusive">ca.1930-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_563ecc4f0db26cabacd42b2962df90cc" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_60748741ff989e9e7fa447a71d8e93d4" parent="aspace_563ecc4f0db26cabacd42b2962df90cc" type="Folder">14</container></did></c></c><c id="aspace_ref28" level="series"><did><unittitle>Series II: Activities, Official</unittitle></did><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>AFL-CIO - State Convention</unittitle><unitdate datechar="creation" normal="1967/1972" type="inclusive">1967-1972</unitdate><container altrender="Manuscript box - Legal" id="aspace_38fb2f14a9bfadd9b86f06a8e4127f23" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_91f1d8e88194d9c5d3260b0c3a2e9ccd" parent="aspace_38fb2f14a9bfadd9b86f06a8e4127f23" type="Folder">15</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>AFSCME Meeting with Ted Kennedy</unittitle><unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_fe2892e40c78566def0a8e248742cf28" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_991c47bcb15be96cbf244c3f96e76826" parent="aspace_fe2892e40c78566def0a8e248742cf28" type="Folder">16</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Agency Shop Bill Signing</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_95759cb37508ea4e110118682157007c" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_e76765b7211b69d170e912667c99d6fb" parent="aspace_95759cb37508ea4e110118682157007c" type="Folder">17</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Awards and Presentations – 1970s</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_a8fc89dda1006764e34cdfab1a430216" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_1a2b36c98a6e8958b937ffe752b1e119" parent="aspace_a8fc89dda1006764e34cdfab1a430216" type="Folder">18</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Beame, Mayor - Endorsement of 1970s</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_7ae9c5d703e438bf1bafa56593b99b0e" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_4868d0da5f521025e820e30927a18ec6" parent="aspace_7ae9c5d703e438bf1bafa56593b99b0e" type="Folder">19</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Buckley, Bill</unittitle><unitdate datechar="creation" normal="1922/1987" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d27ee7cd25b05286d7c59e995118b216" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_40602908a8930e4f4780ef009149bf40" parent="aspace_d27ee7cd25b05286d7c59e995118b216" type="Folder">19.1</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>Carey, Governor - Endorsement of 1970s</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_4a35cca406a83ab109ed79d04d09f1ac" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_3192b4e5af3b1865e9846b8755626d4d" parent="aspace_4a35cca406a83ab109ed79d04d09f1ac" type="Folder">20</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Carter, President - Meeting with 1980</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_175655aeff9d19a2458d4460cc4c484a" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_36afbf911d12ed67c9c8e5524c34b941" parent="aspace_175655aeff9d19a2458d4460cc4c484a" type="Folder">21</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>City Council, Presentation to 1945 – 1946, 1950s</unittitle><unitdate datechar="creation" normal="1945/1959" type="inclusive">1945-1946 , 1950-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_481d94f7777c0f3df1881e0edd7350bf" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_2dfeb52768fd1805ca6e60535932ec17" parent="aspace_481d94f7777c0f3df1881e0edd7350bf" type="Folder">22</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Civil Service Association Convention 1939,40,42,46,47</unittitle><unitdate datechar="creation" normal="1939/1947" type="inclusive">1939-1940 , 1942 , 1946-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_4e51589c77941376cc9853328255d17d" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_c9ef42089c875f3a376241d0760ce684" parent="aspace_4e51589c77941376cc9853328255d17d" type="Folder">23</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>CPM Class 1980</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_b60d650a2323fca012d1d1a5a4474dcc" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_145fed951515a8a70e43844cae8876aa" parent="aspace_b60d650a2323fca012d1d1a5a4474dcc" type="Folder">24</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Demonstrations--1970s</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a95e57efecb304afcc2e3f2b6a2cfa6" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_1a916a52c9cac68eeccb9d8642efb691" parent="aspace_5a95e57efecb304afcc2e3f2b6a2cfa6" type="Folder">25</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Education—1960s</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_7912494ae57261ce41e01be28bff1ac7" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_34af08f5aae9c0fd16d03e16c7d9f1c8" parent="aspace_7912494ae57261ce41e01be28bff1ac7" type="Folder">26</container></did></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Election Meetings--1979</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_b8bc00cf38126c885e7b6d19e48eff3e" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_f0e18f192169d2b784dba1931989a9a3" parent="aspace_b8bc00cf38126c885e7b6d19e48eff3e" type="Folder">27</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Control Board--1979</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_2cd3b91e7d91c580be7a48dbe7003c0d" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_038a5851d659e8757490aa753a3acaf0" parent="aspace_2cd3b91e7d91c580be7a48dbe7003c0d" type="Folder">28</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Guild Chemist Seminar--1979</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_42ac6df27a5e15489850d38c7cadd94a" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_ffce0dbb1eb69bff4466699243b318f2" parent="aspace_42ac6df27a5e15489850d38c7cadd94a" type="Folder">29</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Hearings, 1945-1980</unittitle><unitdate datechar="creation" normal="1945/1980" type="inclusive">1945-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_5823b118bdab074940beeab7753d5095" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_700561dc1742117c994cefacf1178434" parent="aspace_5823b118bdab074940beeab7753d5095" type="Folder">30</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Hospital Rally--1979</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_2f27acf2d5d52046ccf06cceb5b8f011" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_ec1cf8a410ed142743eb4ab8106084df" parent="aspace_2f27acf2d5d52046ccf06cceb5b8f011" type="Folder">31</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Housing Unit Contract, Signing of 1980</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_d4cfb9dab0e99550e4fcb717f9352f96" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_8f8a6f1b6d6cafeab759d7a330c6dc3c" parent="aspace_d4cfb9dab0e99550e4fcb717f9352f96" type="Folder">32</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Installations, 1952 - 1980</unittitle><unitdate datechar="creation" normal="1952/1980" type="inclusive">1952-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_dbac7514b3b800b9ed49bc836f1afa91" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_cb9b293f3374385945fe434adba1ebde" parent="aspace_dbac7514b3b800b9ed49bc836f1afa91" type="Folder">33</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Low Jones Education Commission--1960s</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_37239ce3a0167641197cf5867244d10e" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_5ff1b1866a2a0d8c35996a6d7b07112c" parent="aspace_37239ce3a0167641197cf5867244d10e" type="Folder">34</container></did></c><c id="aspace_ref50" level="otherlevel" otherlevel="unspecified"><did><unittitle>Meetings--1930s</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_751f1586eec798aabbc6c3ba618a27a6" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_63bd160602262e0046d1436b410920a4" parent="aspace_751f1586eec798aabbc6c3ba618a27a6" type="Folder">35</container></did></c><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>Meetings, 1950-1959</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_fa6982cac877706a4dc09660029a68d2" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_ee5c4e0894e1c7c5f702623581822129" parent="aspace_fa6982cac877706a4dc09660029a68d2" type="Folder">36</container></did></c><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle>Meeting, 1970-1978</unittitle><unitdate datechar="creation" normal="1970/1978" type="inclusive">1970-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_c73d8634f14f12223a2a8c55ff036efe" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_e6a66784a09c656a948a5ffa2ad9276b" parent="aspace_c73d8634f14f12223a2a8c55ff036efe" type="Folder">37</container></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>Meetings--1980</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_49850273238239d2035344d4be27577f" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_649b37cd3eb93b9afa504599893d581b" parent="aspace_49850273238239d2035344d4be27577f" type="Folder">38</container></did></c><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>Official Signings--1960s</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_420e663956ebc644e71d5c9ea6a3dc7a" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_7f3322f9ace1b39dc0a04dc0aaab9d50" parent="aspace_420e663956ebc644e71d5c9ea6a3dc7a" type="Folder">39</container></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>Project Coordinator - Prep Course</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_7bebe1147357336dd362bd3837b73bea" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_de6d612dc28eb2facdb3460091ec4185" parent="aspace_7bebe1147357336dd362bd3837b73bea" type="Folder">40</container></did></c><c id="aspace_ref56" level="otherlevel" otherlevel="unspecified"><did><unittitle>School Board--1970 - 1976</unittitle><unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_206ff86b6eadbc37a86917f7549d3243" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_596b9a69949ab749b1650a0cb59e5e40" parent="aspace_206ff86b6eadbc37a86917f7549d3243" type="Folder">41</container></did></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Tamiment/Wagner Presentation--1984</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_487731231b6ff04b4790e1f36b4ab79b" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_030fb909ab32951f031e6eb7beb23dbf" parent="aspace_487731231b6ff04b4790e1f36b4ab79b" type="Folder">42</container></did></c><c id="aspace_ref58" level="otherlevel" otherlevel="unspecified"><did><unittitle>Trips--1967</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_c1ba47854ebfdf9f0a141135e8240a31" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_18a79128077fdfb3ebc8398908250d99" parent="aspace_c1ba47854ebfdf9f0a141135e8240a31" type="Folder">43</container></did></c><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>Women's Division--1950s</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_04ca5213016b8f4a202e1886a5624211" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_55d4b040c1f0f3bf27c7d79d6dc07984" parent="aspace_04ca5213016b8f4a202e1886a5624211" type="Folder">44</container></did></c><c id="aspace_b2c3f35290ab37288e83a1ab8c040173" level="file"><did><unittitle>Exhibit materials, anniversary celebration</unittitle><unitdate datechar="creation">1980s</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_87eee6644e9b8edd5ccd7bab75953801" label="Mixed Materials [31142062881936]" type="Box">Shared Tamiment 005</container><container id="aspace_b37ab72b778b15411bbc276d247fdcd0" parent="aspace_87eee6644e9b8edd5ccd7bab75953801" type="Folder">13</container></did></c></c><c id="aspace_ref60" level="series"><did><unittitle>Series III: Administrative</unittitle></did><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>Brueck, Phil – Portraits--1920s- 1970s</unittitle><unitdate datechar="creation" normal="1920/1979" type="inclusive">1920-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_e5001c521795aa51b3f816df66a6732f" label="Mixed Materials [31142062667871]" type="Box">1</container><container id="aspace_95b878a4bd24286eab6ea16dfb22c687" parent="aspace_e5001c521795aa51b3f816df66a6732f" type="Folder">45</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>Collins, Joe--1960s</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_a1c32768954359dab60a61867213afeb" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_705a0d8c1a0ff0e11c82425c3d72a54a" parent="aspace_a1c32768954359dab60a61867213afeb" type="Folder">46</container></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>Freidland, Harvey</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_94eb64909ca1ce422260b09ddfecd1f4" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_81a14bc608581a710cf8ab7860a832a0" parent="aspace_94eb64909ca1ce422260b09ddfecd1f4" type="Folder">47</container></did></c><c id="aspace_ref64" level="otherlevel" otherlevel="unspecified"><did><unittitle>General Service Lab</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_7813f8d27200dcea2e1676c13a4b1ddb" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_e773344f8e6930aa409869477b95f769" parent="aspace_7813f8d27200dcea2e1676c13a4b1ddb" type="Folder">48</container></did></c><c id="aspace_ref65" level="otherlevel" otherlevel="unspecified"><did><unittitle>Guild Insigni—n.d.</unittitle><unitdate datechar="creation" normal="1922/1987" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_02befc180ce04963ef9059ca0e66fc3d" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_c7b771b7c923ac53dfac7c8dc260254d" parent="aspace_02befc180ce04963ef9059ca0e66fc3d" type="Folder">49</container></did></c><c id="aspace_ref66" level="otherlevel" otherlevel="unspecified"><did><unittitle>Izzo, Richard C.</unittitle><unitdate datechar="creation" normal="1962/1979" type="inclusive">1962-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_72b141ed8b8c8e8931acde4f96fe2bc1" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_28476fe97cdde140599a1e2d698da66b" parent="aspace_72b141ed8b8c8e8931acde4f96fe2bc1" type="Folder">50</container></did></c><c id="aspace_ref67" level="otherlevel" otherlevel="unspecified"><did><unittitle>Miscellaneous Group Shots (at unidentified gatherings)</unittitle><unitdate datechar="creation" normal="1939/1987" type="inclusive">1939-1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_8557bfdb8986f809879945eb9152795f" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_c58193ad3d75ef43bdca1d61abc91816" parent="aspace_8557bfdb8986f809879945eb9152795f" type="Folder">51</container></did></c><c id="aspace_ref68" level="otherlevel" otherlevel="unspecified"><did><unittitle>Office Photographs--1940s-1967</unittitle><unitdate datechar="creation" normal="1940/1967" type="inclusive">1940-1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd01075ec4652012534d86dfdcdceed7" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_93ff258d8ee69c0cf1eb02e5ffce9c7a" parent="aspace_fd01075ec4652012534d86dfdcdceed7" type="Folder">52</container></did></c><c id="aspace_ref69" level="otherlevel" otherlevel="unspecified"><did><unittitle>Portraits, Non-Guild Staff</unittitle><unitdate datechar="creation" normal="1930/1980" type="inclusive">1930-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_773c31ebdb7b89cef111190ed48f070d" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_2cc075d9bf3e75e4cbb19352a747aee7" parent="aspace_773c31ebdb7b89cef111190ed48f070d" type="Folder">53</container></did></c><c id="aspace_ref70" level="otherlevel" otherlevel="unspecified"><did><unittitle>Staff Photographs</unittitle><unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_02069f371c76dc658bea6a9745188e9f" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_47dafa772ca7807c12d8af7354ed34bb" parent="aspace_02069f371c76dc658bea6a9745188e9f" type="Folder">54</container></did></c><c id="aspace_ref71" level="otherlevel" otherlevel="unspecified"><did><unittitle>Union Officers-- 1960s</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_1079603ffbbfc31ebf5d0b567804078e" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_bc62bfe883f3f015a2632744c821c6d9" parent="aspace_1079603ffbbfc31ebf5d0b567804078e" type="Folder">55</container></did></c></c><c id="aspace_ref72" level="series"><did><unittitle>Series IV: Construction</unittitle></did><c id="aspace_ref73" level="otherlevel" otherlevel="unspecified"><did><unittitle>Work Photographs--Subways (album)</unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Manuscript box - Legal" id="aspace_6542253e304b6776d985f5e02f1f27c0" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_b3a5a15a35180b4127a301e05c59dc37" parent="aspace_6542253e304b6776d985f5e02f1f27c0" type="Folder">56</container></did></c><c id="aspace_ref74" level="otherlevel" otherlevel="unspecified"><did><unittitle>Flood Control Gates</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_c32ad3f7b57abfe3d651de31fa58d082" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_bc1d8d04fa288090997c3736a3d6688b" parent="aspace_c32ad3f7b57abfe3d651de31fa58d082" type="Folder">57</container></did></c><c id="aspace_ref75" level="otherlevel" otherlevel="unspecified"><did><unittitle>Power Plant Model</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_d6ec81848bd2445b80fdf65556ab4f60" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_ff1221d4dc98b17f1aaaf9827a6df58f" parent="aspace_d6ec81848bd2445b80fdf65556ab4f60" type="Folder">58</container></did></c><c id="aspace_ref76" level="otherlevel" otherlevel="unspecified"><did><unittitle>Subway Expansion - 6th Avenue &amp; 13th Street</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_5ccfa81902b3c42b5b642b4ce10a9736" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_782b387830b6fc2dd3eae98a832bd059" parent="aspace_5ccfa81902b3c42b5b642b4ce10a9736" type="Folder">59</container></did></c><c id="aspace_ref77" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs shot for the Transit Commission of New York City, showing construction of the Rapid Transit Subway and Elevated Lines of New York City</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Manuscript box - Legal" id="aspace_7703dcacdbe829549d97d0fcde4f60de" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_d9091c167e2abcfc71309c96eb9fcf18" parent="aspace_7703dcacdbe829549d97d0fcde4f60de" type="Folder">60</container></did></c><c id="aspace_ref78" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs shot for the Transit Commission of New York City, showing construction of the Rapid Transit Subway and Elevated Lines of New York City</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Manuscript box - Legal" id="aspace_28568c7ea2e7acd4c064fa0b32ac06dc" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_a260cfdc7bd0d8f4ecb4133bf0d28802" parent="aspace_28568c7ea2e7acd4c064fa0b32ac06dc" type="Folder">61</container></did></c><c id="aspace_ref79" level="otherlevel" otherlevel="unspecified"><did><unittitle>Tunnel Construction</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_d542a5c2a3db6906034a7a6778ba180b" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_eae839ebfb8671347027b12f7557ac27" parent="aspace_d542a5c2a3db6906034a7a6778ba180b" type="Folder">62</container></did></c><c id="aspace_ref80" level="otherlevel" otherlevel="unspecified"><did><unittitle>City public works designed or worked on by CSTG members</unittitle><unitdate datechar="creation" normal="1922/1987" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f92a64cf3716fbb5db362c81fba11372" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_575175e7ee0131bfee2ef94c532428ec" parent="aspace_f92a64cf3716fbb5db362c81fba11372" type="Folder">63</container></did></c></c><c id="aspace_ref81" level="series"><did><unittitle>Series V: Oversize</unittitle></did><scopecontent id="aspace_0d16dbf71b1ed6495871682066dcbe4b"><head>Scope and Contents note</head><p>Contains panoramic photos from banquets, and from the CSTG Women's Division (including exhibit: "Global Women in Non-Traditional Jobs") .</p></scopecontent><c id="aspace_ref103" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oversize Photographs</unittitle><container altrender="Oversize Folder - 37.25 x 9.75" id="aspace_c5bd996b6f7f7f33a5c0f0a9b5abee57" label="Mixed Materials [31142062665255]" type="Flat-File-Folder">5, Tray 3</container><container altrender="Oversize Folder - 37.25 x 9.75" id="aspace_afda3e993af47d727ba4f3a1bf5188d7" label="Mixed Materials [31142062665248]" type="Flat-File-Folder">5, Tray 4</container></did></c><c id="aspace_ref105" level="otherlevel" otherlevel="unspecified"><did><unittitle>Testimonial Dinners and Luncheon Held for Harry Jolles, John Daly, William Daly, and Colonel S. H. Bingham on the Occasions of their Retirement from the New York City Transit Authority</unittitle><unitdate datechar="creation" normal="1950/1965" type="inclusive">circa 1960</unitdate><container altrender="Flat OS 21" id="aspace_b983e25817c3a0f4ea6f0e85ae79b44c" label="Mixed Materials [31142062760239]" type="Box">Shared Tamiment XOS001</container></did></c><c id="aspace_f44b3b30866ee7787ae7287ce52d9168" level="file"><did><unittitle>Third Annual Exhibition of CSTG, Local 375 Women's Organizing Committee: "Global Women in Non-Traditional Jobs"</unittitle><unitdate datechar="creation" normal="1989/1989">1989</unitdate><container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_d2c12646b9d655b992a9d3b2d73d9c05" label="Mixed Materials [31142062882249]" type="Box">8</container><container id="aspace_aeea38bce670d39b6c2baceb51732fdf" parent="aspace_d2c12646b9d655b992a9d3b2d73d9c05" type="Folder">1-8</container></did></c></c><c id="aspace_ref83" level="series"><did><unittitle>Series VI: Chronological</unittitle></did><c id="aspace_ref84" level="otherlevel" otherlevel="unspecified"><did><unittitle>1950s</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_20702033bdf771c8d6956a0996cebc46" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_e06a3bb5ae74452e775708d15f229b7e" parent="aspace_20702033bdf771c8d6956a0996cebc46" type="Folder">64</container></did></c><c id="aspace_ref85" level="otherlevel" otherlevel="unspecified"><did><unittitle>1950s?</unittitle><unitdate datechar="creation" normal="1940/1960" type="inclusive">[1950-1959]</unitdate><container altrender="Manuscript box - Legal" id="aspace_9a5a124a9f825ec887eed6ce21cf3586" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_6bb5f745e2a225b9c3f7beb7bad85351" parent="aspace_9a5a124a9f825ec887eed6ce21cf3586" type="Folder">65</container></did></c><c id="aspace_ref86" level="otherlevel" otherlevel="unspecified"><did><unittitle>1960s</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_cc57d3b272d5fcdcbbb65f86f7e43ce5" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_b556c193a1aef3035b6b49c6051a7330" parent="aspace_cc57d3b272d5fcdcbbb65f86f7e43ce5" type="Folder">66</container></did></c><c id="aspace_ref87" level="otherlevel" otherlevel="unspecified"><did><unittitle>1960s?</unittitle><unitdate datechar="creation" normal="1950/1970" type="inclusive">[1960-1969]</unitdate><container altrender="Manuscript box - Legal" id="aspace_1088b11954f9b7c1c2e977f1eaed52b0" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_ea93d925f0086dba9ba3a88aa04274e5" parent="aspace_1088b11954f9b7c1c2e977f1eaed52b0" type="Folder">67</container></did></c><c id="aspace_ref88" level="otherlevel" otherlevel="unspecified"><did><unittitle>1970s</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_91061a581839f90c12692d526c10e70e" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_26714f1029114538d66cd21d370d4c20" parent="aspace_91061a581839f90c12692d526c10e70e" type="Folder">68</container></did></c><c id="aspace_ref89" level="otherlevel" otherlevel="unspecified"><did><unittitle>1970s?</unittitle><unitdate datechar="creation" normal="1960/1980" type="inclusive">[1970-1979]</unitdate><container altrender="Manuscript box - Legal" id="aspace_e01238700dec3521fbce5aa7693d2be1" label="Mixed Materials [31142062667889]" type="Box">2</container><container id="aspace_8cb14704f627b6cbbfa08ebadebea443" parent="aspace_e01238700dec3521fbce5aa7693d2be1" type="Folder">69</container></did></c><c id="aspace_ref90" level="otherlevel" otherlevel="unspecified"><did><unittitle>1980s</unittitle><unitdate datechar="creation" normal="1970/1990" type="inclusive">1980-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a7c80f7273c952f62da2fb6b931feabc" label="Mixed Materials [31142062667897]" type="Box">3</container><container id="aspace_2ea0363f4b7bba951f3ae3cde13fdd65" parent="aspace_a7c80f7273c952f62da2fb6b931feabc" type="Folder">70</container></did></c><c id="aspace_ref91" level="otherlevel" otherlevel="unspecified"><did><unittitle>1980s?</unittitle><unitdate datechar="creation" normal="1970/1990" type="inclusive">[1980-1989]</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ac2886eab919a79cf7f5c463bbbed4ff" label="Mixed Materials [31142062667897]" type="Box">3</container><container id="aspace_0df6b803919e643d6b5c935cbc6e121d" parent="aspace_ac2886eab919a79cf7f5c463bbbed4ff" type="Folder">71</container></did></c></c><c id="aspace_ref92" level="series"><did><unittitle>Series VII: Negatives and Contact Sheets</unittitle></did><c id="aspace_ref93" level="otherlevel" otherlevel="unspecified"><did><unittitle>Contact sheets—Late 1970s-1980s</unittitle><unitdate datechar="creation" normal="1970/1990" type="inclusive">1970-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3fac52288df2bf116191e0dfade2f28d" label="Mixed Materials [31142062667897]" type="Box">3</container><container id="aspace_d26a73e00631dee8627d4dda96986ccd" parent="aspace_3fac52288df2bf116191e0dfade2f28d" type="Folder">72</container></did></c><c id="aspace_ref94" level="otherlevel" otherlevel="unspecified"><did><unittitle>Negatives--Late 1970s-1980s</unittitle><unitdate datechar="creation" normal="1970/1990" type="inclusive">1970-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3787af9c2837680cbb40657d2cad0cfd" label="Mixed Materials [31142062667897]" type="Box">3</container><container id="aspace_c8aebf65a397d77002faee3ddbf17636" parent="aspace_3787af9c2837680cbb40657d2cad0cfd" type="Folder">73</container></did></c></c></dsc>
+</archdesc>
 </ead>

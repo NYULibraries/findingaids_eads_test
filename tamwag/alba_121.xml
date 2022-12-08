@@ -1,231 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_121">alba_121</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Seymour Herman Workoff Papers <num>ALBA.121</num></titleproper>
-        <author>Susan Tofte</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from workoff.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:35:46 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Seymour Herman Workoff Papers</unittitle>
-      <origination label="Creator">
-        <persname source="local">Workoff, Seymour Herman, 1917-1937</persname>
-      </origination>
-      <unitid>ALBA.121</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1937/1937">1937</unitdate>
-      <abstract id="aspace_b2f48e7d4a404f9f5da31ac94bb27c71">Seymour Herman Workoff volunteered in the Spanish Civil War as part of the Washington Battalion and later with the Abraham Lincoln Brigade. He died in the battle of Belchite, Hijar Del Pueblo, Spain in September 1937. Workoff was born in October 1917 and worked as an apprentice ship-fitter. The collection contains correspondence from Seymour to his brother Irving for the period of time of his service in the Spanish Civil War. The collection also contains a passport photograph of Seymour.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <custodhist id="aspace_6fcf215b02e1124ca456fac1bbb85c06">
-      <head>Provenance</head>
-      <p>The Seymour Herman Workoff Collection was donated to the Abraham Lincoln Brigade Archives by Irving Workoff, in 1975. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
-    </custodhist>
-    <accessrestrict id="aspace_569ff1dc153e86966f553ac58a299795">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </accessrestrict>
-    <bioghist id="aspace_f83326e4341712f987684d5680c2e21e">
-      <head>Historical/Biographical Note</head>
-      <p>Seymour Herman Workoff was born in New York City in October 1917. He was an apprentice ship-fitter living in the Bronx prior to his enrollment in the International Brigade. Workoff sailed to France on March 12, 1937 aboard the S.S. Ile de France. In late March, Workoff, along with 24 other American men, was stopped by the French police on a boat destined for Spain. The men were charged with trying to enter Spain to enlist in the army and were sentenced to 20 days in prison. After spending 3 weeks in prison in a small town near the border between France and Spain, Workoff successfully made it across the border into Spain. A story about the men's arrest appeared in the New York Times on April 1, 1937.</p>
-      <p>In Spain, Workoff became a member of the George Washington Battalion. He was a sergeant in a machine-gun company and fought along the Jarama front near Madrid. In July 1937, his battalion merged into the Abraham Lincoln battalion. Workoff died in September 1937 in the Battle of Belchite, Hijar Del Pueblo, Spain.</p>
-    </bioghist>
-    <scopecontent id="aspace_69b71d066648ee09f06dd9337ef00980">
-      <head>Scope and Content Note</head>
-      <p><emph render="bold">Series I: Correspondence, 1937</emph>, contains letters written by Seymour Workoff to his brother Irving for the period of his service in the Spanish Civil War up until his death. He writes detailed accounts of battles fought and of soldier life. The letters also document his three-week prison term in France before arriving in Spain. He addresses the letters to "George," a cover name he used for his brother.</p>
-      <p><emph render="bold">Series II: Subject File, 1975</emph>, contains a Spanish Civil War Biographical Register filled out by Workoff's brother when the papers were accessioned by Brandeis University. The questionnaire contains a passport photograph of Seymour.</p>
-    </scopecontent>
-    <arrangement id="aspace_6cbc61b376261a78f61fc115a5b5d8fc">
-      <head>Arrangement</head>
-      <p>Folders are arranged Arranged chronologically within each series</p>
-      <p>The files are grouped into two series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, Correspondence</item>
-        <item>II, Subject File</item>
-      </list>
-    </arrangement>
-    <relatedmaterial id="aspace_e3416f67a791cf091532b1824e18a454">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>ALBA collections at the Tamiment Library.</p>
-    </relatedmaterial>
-    <userestrict id="aspace_6f8b89665e5ca8668c9644ede135573d">
-      <head>Use Restrictions</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </userestrict>
-    <prefercite id="aspace_a4f1fbfab195ce451d486cd47724f37b">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
-      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Atrocities.</geogname>
-      <geogname source="lcsh">Madrid (Spain)</geogname>
-      <genreform source="aat">Correspondence.</genreform>
-      <geogname source="lcsh">Belchite (Spain) -- History -- Siege, 1937.</geogname>
-      <genreform source="aat">Biography files.</genreform>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_121">alba_121</eadid><filedesc><titlestmt><titleproper>Guide to the Seymour Herman Workoff Papers <num>ALBA.121</num></titleproper><author>Susan Tofte</author></titlestmt><editionstmt><p>This version was derived from workoff.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:03:43 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Seymour Herman Workoff Papers</unittitle>
+    <origination label="Creator">
       <persname source="local">Workoff, Seymour Herman, 1917-1937</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref15" level="series">
-        <did>
-          <unittitle>Series I: Correspondence, 1937</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Apr 3, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b190deb33e12701983c3192c3789f929" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_9f1b5177cd116f2f3c337af4260b1330" parent="aspace_b190deb33e12701983c3192c3789f929" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Apr 11, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_2f7980b9d8aef54545c1569541cf11c5" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_8bf614e4bd0e361e7ca44f93ae33070b" parent="aspace_2f7980b9d8aef54545c1569541cf11c5" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Apr 17, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_341ebd03632740bf50a11dc607955e1b" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_f01bd1ec1ba0ae87cab622a5c8d05712" parent="aspace_341ebd03632740bf50a11dc607955e1b" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Apr 19, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_96df945ed8ded9e48ca1629ae2f609d8" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_f6df1b9188ac2207705b85e4c9665d4e" parent="aspace_96df945ed8ded9e48ca1629ae2f609d8" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Apr 25, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_a5e73db80ca5bbe2d3b4025b98f4468f" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_9b2713193220ff0cb786e94d998a9361" parent="aspace_a5e73db80ca5bbe2d3b4025b98f4468f" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Apr 1, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c054df47911d78bb29900bb79d87384f" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_c080db517a16b1331994b35e443f4084" parent="aspace_c054df47911d78bb29900bb79d87384f" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Jun 14, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_f1aa9f5c0667a985ad1e29b93c31495c" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_8cdaa95defe49cc3f1f737579fe59649" parent="aspace_f1aa9f5c0667a985ad1e29b93c31495c" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Jun 21, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_0fcf3ed8706f6291febdacb97df4a4cd" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_3303234f0a59793edceab2a13609eafa" parent="aspace_0fcf3ed8706f6291febdacb97df4a4cd" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Jun 24, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c983eacf665971a0788c4242f7b0b3ea" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_e5bff55e84dcbf94df9fa5e7ef483c85" parent="aspace_c983eacf665971a0788c4242f7b0b3ea" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Jul 15, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b38a72d335dc4f967dd59d80807c429b" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_73587ee859f4bc00134da9fa352aed08" parent="aspace_b38a72d335dc4f967dd59d80807c429b" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Jul 24, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_3ad9c4a748d8a1160374aa4ed0f0032a" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_d93b72d2f62ef16bae2cf8189f984fec" parent="aspace_3ad9c4a748d8a1160374aa4ed0f0032a" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Aug 5, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_13877736e52236fb060cb8afd9c9e094" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_56ee8e493dc07960c0241769ec518d68" parent="aspace_13877736e52236fb060cb8afd9c9e094" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Workoff, Seymour to Irving Workoff</unittitle>
-            <unitdate datechar="creation">Aug 22, 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b3f881755f0120598a4bdb76620c1bf8" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_f508c342dbedcc9360d91e3855487c49" parent="aspace_b3f881755f0120598a4bdb76620c1bf8" type="Folder">13</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref29" level="series">
-        <did>
-          <unittitle>Series II: Subject Files</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Spanish Civil War Biographical Register</unittitle>
-            <unitdate datechar="creation" normal="1975/1975" type="inclusive">May 28, 1905</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4901058a9219c8dd99e90d209f6dcd22" label="Mixed Materials [31142062756385]" type="Box">1</container>
-            <container id="aspace_a090196186c9007b35cd064ec0031f96" parent="aspace_4901058a9219c8dd99e90d209f6dcd22" type="Folder">14</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>ALBA.121</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1937">1937</unitdate>
+    <abstract id="aspace_b2f48e7d4a404f9f5da31ac94bb27c71" label="Abstract">Seymour Herman Workoff volunteered in the Spanish Civil War as part of the Washington Battalion and later with the Abraham Lincoln Brigade. He died in the battle of Belchite, Hijar Del Pueblo, Spain in September 1937. Workoff was born in October 1917 and worked as an apprentice ship-fitter. The collection contains correspondence from Seymour to his brother Irving for the period of time of his service in the Spanish Civil War. The collection also contains a passport photograph of Seymour.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <custodhist id="aspace_6fcf215b02e1124ca456fac1bbb85c06">
+    <head>Provenance</head>
+<p>The Seymour Herman Workoff Collection was donated to the Abraham Lincoln Brigade Archives by Irving Workoff, in 1975. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <accessrestrict id="aspace_569ff1dc153e86966f553ac58a299795">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <bioghist id="aspace_f83326e4341712f987684d5680c2e21e">
+    <head>Historical/Biographical Note</head>
+<p>Seymour Herman Workoff was born in New York City in October 1917. He was an apprentice ship-fitter living in the Bronx prior to his enrollment in the International Brigade. Workoff sailed to France on March 12, 1937 aboard the S.S. Ile de France. In late March, Workoff, along with 24 other American men, was stopped by the French police on a boat destined for Spain. The men were charged with trying to enter Spain to enlist in the army and were sentenced to 20 days in prison. After spending 3 weeks in prison in a small town near the border between France and Spain, Workoff successfully made it across the border into Spain. A story about the men's arrest appeared in the New York Times on April 1, 1937.</p><p>In Spain, Workoff became a member of the George Washington Battalion. He was a sergeant in a machine-gun company and fought along the Jarama front near Madrid. In July 1937, his battalion merged into the Abraham Lincoln battalion. Workoff died in September 1937 in the Battle of Belchite, Hijar Del Pueblo, Spain.</p>  </bioghist>
+  <scopecontent id="aspace_69b71d066648ee09f06dd9337ef00980">
+    <head>Scope and Content Note</head>
+<p><emph render="bold">Series I: Correspondence, 1937</emph>, contains letters written by Seymour Workoff to his brother Irving for the period of his service in the Spanish Civil War up until his death. He writes detailed accounts of battles fought and of soldier life. The letters also document his three-week prison term in France before arriving in Spain. He addresses the letters to "George," a cover name he used for his brother.</p><p><emph render="bold">Series II: Subject File, 1975</emph>, contains a Spanish Civil War Biographical Register filled out by Workoff's brother when the papers were accessioned by Brandeis University. The questionnaire contains a passport photograph of Seymour.</p>  </scopecontent>
+  <arrangement id="aspace_6cbc61b376261a78f61fc115a5b5d8fc">
+    <head>Arrangement</head>
+<p>Folders are arranged Arranged chronologically within each series</p><p>The files are grouped into two series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Correspondence</item>
+      <item>II, Subject File</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_e3416f67a791cf091532b1824e18a454">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>ALBA collections at the Tamiment Library.</p>  </relatedmaterial>
+  <userestrict id="aspace_6f8b89665e5ca8668c9644ede135573d">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <prefercite id="aspace_a4f1fbfab195ce451d486cd47724f37b">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
+    <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Atrocities.</geogname>
+    <geogname source="lcsh">Madrid (Spain)</geogname>
+    <genreform source="aat">Correspondence.</genreform>
+    <geogname source="lcsh">Belchite (Spain) -- History -- Siege, 1937.</geogname>
+    <genreform source="aat">Biography files.</genreform>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+    <persname source="local">Workoff, Seymour Herman, 1917-1937</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: Correspondence, 1937</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Apr 3, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c0f60bda80532813056dc0abddcba966" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_16ef42afec63730641199b4bf72a11c4" parent="aspace_c0f60bda80532813056dc0abddcba966" type="Folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Apr 11, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_263a2b9937f880ea04fe3a1b986bafcf" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_7d89b57c7aec16164af1a63d31978c91" parent="aspace_263a2b9937f880ea04fe3a1b986bafcf" type="Folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Apr 17, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8c6385226792571a16da35a1da1681d9" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_bb68a3f0ceb3d963b8ccbc0e7644957e" parent="aspace_8c6385226792571a16da35a1da1681d9" type="Folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Apr 19, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3f7cec36df05c284d746be9d0986d188" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_c63d504ea86468df385f1c411befd5a4" parent="aspace_3f7cec36df05c284d746be9d0986d188" type="Folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Apr 25, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_597459244931e0e4177b954271e2836a" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_9b394a66178c63c0326cb6f339c114f4" parent="aspace_597459244931e0e4177b954271e2836a" type="Folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Apr 1, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2d5ad62b32089f44e23c15236182c096" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_a232a8957d55fa468b5630f089b78fcf" parent="aspace_2d5ad62b32089f44e23c15236182c096" type="Folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Jun 14, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_68e7207dfe0887a9c2832c2ac8a4dfe0" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_93a9fb11e77ca91c3ebea611646f2187" parent="aspace_68e7207dfe0887a9c2832c2ac8a4dfe0" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Jun 21, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c65b32d5f30baaf3f7a2727bce31d835" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_0caf105f916a82758900a7782fb7efe8" parent="aspace_c65b32d5f30baaf3f7a2727bce31d835" type="Folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Jun 24, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a3a41e890d2b9982e3ee1ba8ef62804b" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_14dc21d0b8d99892d74dc4c6b3f141dd" parent="aspace_a3a41e890d2b9982e3ee1ba8ef62804b" type="Folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Jul 15, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0156786296558402904ee4f077b16cce" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_abb9640f148cc83d2feb47742be50baa" parent="aspace_0156786296558402904ee4f077b16cce" type="Folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Jul 24, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5c518be59840e030632cd21251fe07c8" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_ffcd0f0ec3f425a3181ac0bcb344fb78" parent="aspace_5c518be59840e030632cd21251fe07c8" type="Folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Aug 5, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2c2a26a92d0e5d16e1d7575c6f5a4fbb" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_d864aec61e2a61856ac3ee9abbfdd073" parent="aspace_2c2a26a92d0e5d16e1d7575c6f5a4fbb" type="Folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Workoff, Seymour to Irving Workoff</unittitle><unitdate datechar="creation">Aug 22, 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_40afd497520cf6d9836e35d89b97ca50" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_39bbd6cfb4e11b3b7c1dc24400064f94" parent="aspace_40afd497520cf6d9836e35d89b97ca50" type="Folder">13</container></did></c></c><c id="aspace_ref29" level="series"><did><unittitle>Series II: Subject Files</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref30" level="file"><did><unittitle>Spanish Civil War Biographical Register</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">May 28, 1905</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_fbdb4831987b0e0391b6999d2f90f7ee" label="Mixed Materials [31142062756385]" type="Box">1</container><container id="aspace_739bf0d498a6278a97fe1a8de25e8c23" parent="aspace_fbdb4831987b0e0391b6999d2f90f7ee" type="Folder">14</container></did></c></c></dsc>
+</archdesc>
 </ead>

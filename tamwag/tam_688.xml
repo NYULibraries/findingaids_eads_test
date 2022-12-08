@@ -1,507 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_688">tam_688</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Tamiment Library &amp; Robert F. Wagner Labor Archives Collection of Japanese American Newspapers <num>TAM.688</num></titleproper>
-        <author>Mark Simon Haydn</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>September 2016</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:26:23 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Tamiment Library &amp; Robert F. Wagner Labor Archives Collection of Japanese American Newspapers</unittitle>
-      <origination label="source">
-        <persname role="dnr" source="local">Kida, Isaku, 1905-1996</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" source="local">Kida, Emi, 1908-2001</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" source="local">Wada, Takako, 1921-2016</persname>
-      </origination>
-      <origination label="Creator">
-        <corpname source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </origination>
-      <unitid>TAM.688</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">18.6 Linear Feet</extent>
-        <extent altrender="carrier">in 33 flat boxes</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1946/2014" type="inclusive">1946-2014</unitdate>
-      <abstract id="aspace_1116313b17753e4e438504162a7eccb9">This collection groups 15 Japanese American newspaper titles originally contained within archival collections held at the Tamiment Library. Holdings include incomplete runs of publications dating from 1946 to 2014, published in New York, California, Colorado, Washington, and in Japan, with coverage chronicling responses to current events and highlighting progressive causes and cultural movements in the Japanese American community. The collection includes issues of <emph>Hokubai Shimpo</emph> and the <emph>New York Nichibei</emph> published between 1946 and 1993, and issues of <emph>Rafu Shimpo</emph> from the 2010s.</abstract>
-      <physloc id="aspace_40015c25415ac92ab3a002662fcfd497">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <accessrestrict id="aspace_378c8156720e543ac99188ed507cd613">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_fbd9d661ad98b80caa6d6e609953771d">
-      <head>Immediate Source of Acquisition</head>
-      <p>Assembled from donations to the Tamiment Library from Susan J. Onuma, executor of the estate of Emi Kida, in 2004, and from Takako Wada in 2016. The accession number related to this gift is 2007.028.</p>
-    </acqinfo>
-    <arrangement id="aspace_2e7b814c5794f6736b3391be72b49185">
-      <head>Arrangement</head>
-      <p>Titles are arranged in alphabetical order by publication title. Issues of each publication are organized chronologically.</p>
-    </arrangement>
-    <bioghist id="aspace_6991ae715a09669048b2fc36ce7222eb">
-      <head>Historical Note</head>
-      <p>The <emph>New York Nichibei</emph> and its earlier incarnation, <emph>Hokubei Shimpo</emph>, served as a resource for news and opinion within the Japanese American community. The newspaper documented political developments in New York's Asian American Movement, born in Chinatown in the late 1960s and 1970s, the Asian American arts movement, and the redress movement of the 1970s and 1980s. The title also acted as an important outlet for Asian American writers. Regular contributors included Karl Akiya, Yuri Kochiyama, Kazu Ijima, Chris Ijima, and Fay Chiang, with stories otherwise gathered from mainstream newspapers, or submitted by members of the community. A range of progressive causes, from civil rights to women's and gay rights, were discussed within its pages. By 1980, a staff of four was printing 1,500 copies of <emph>New York Nichibei</emph>, approximately 80% for readers in the greater New York area and 20% for readers along the Eastern Seaboard and in California. The paper ended publication in 1993.</p>
-    </bioghist>
-    <custodhist id="aspace_53e34ea8a013d3de9adba20cdf42686a">
-      <head>Custodial History</head>
-      <p>Individual titles are drawn from existing collections received by the Tamiment Library; further acquisition information regarding the parent collection is detailed in the Finding Aid for the Isaku Kida and Emi Kida Papers (TAM 165). Additional material was donated by Takako Wada and Japanese American Social Services Inc. (JASSI) in 2016.</p>
-    </custodhist>
-    <prefercite id="aspace_54b876c9b12e1618715235d8b2a1f156">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Tamiment Library &amp; Robert F. Wagner Labor Archives Collection of Japanese American Newspapers; TAM.688; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_14d9f31efed6f7b6779ed2109b768d59">
-      <head>Processing Information</head>
-      <p>Materials in the collection were drawn from two donations to Tamiment Library. Copies of individual publications were combined and duplicate issues were deaccessioned. The collection has been stabilized and rehoused at the Barbara Goldsmith Conservation Laboratory.</p>
-    </processinfo>
-    <relatedmaterial id="aspace_b70dfb10d309a48f4b3a2491c5c0fc53">
-      <head>Related Materials</head>
-      <p>Isaku Kida and Emi Kida Papers; TAM 165; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-      <p>Karl Ichiro Akiya Papers; TAM 236; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-      <p>George Yuzawa Papers; TAM 442; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-      <p>Yoshio Kishi and Irene Yah-Ling Sun Collection; MSS 292; Fales Library and Special Collections, New York University Libraries.</p>
-      <p><emph>The Tokyo Observer: a collection of columns from the New York Nichibei newspaper</emph>, DS822.5 .W55 1988; NYU Elmer Holmes Bobst Library Main Collection, New York University.</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_e1a9ec8698519a5119dbc9c43559457c">
-      <head>Scope and Contents</head>
-      <p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Japanese American Newspapers assembles issues of 15 newspapers intended for a Japanese American audience, published between 1946 and 2014 in New York, California, Colorado, Washington, and Japan. The collection is comprised of incomplete runs of daily and weekly newspapers extracted from archival collections, and from materials donated to Tamiment. The newspapers offer a contemporaneous account of life in Japanese American communities in the 20th century, and highlight a range of progressive causes in news stories and editorials, from civil rights to women's and gay rights. The collection includes extended runs of <emph>Hokubei Shimpo</emph> and <emph>New York Nichibei</emph> and short runs of regional newspapers from New York, Colorado, and Washington, chronicling community life in the 1980s, alongside international editions of Japanese newspapers documenting broader changes through the 1990s and early 2000s. These include <emph>Nisei Weekender</emph>; <emph>Yomiuri Shimbun</emph>; <emph>Pacific Citizen</emph>; <emph>New York Journal</emph>; <emph>Rocky Mountain Jiho</emph>; <emph>Asahi Shimbun International Edition</emph>; <emph>California Mainichi Shimbun</emph>; <emph>U.S. Japan Business News</emph>; <emph>OCS News</emph>; and <emph>Nichi Bei jiji</emph>. Recent issues of <emph>Rafu Shimpo</emph>, <emph>Nichi Bei Weekly</emph>, and <emph>North American Post</emph> provide insight into activities within different regional Japanese American communities in the early 21st century. No complete runs of publications are contained herein, and in some cases only the English-language pages of the newspaper are present.</p>
-    </scopecontent>
-    <userestrict id="aspace_f7b600d16967308da2247eb599440607">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Susan J. Onuma, was not transferred to New York University. Permission to use materials must be secured from the copyright holder</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Japanese American newspapers.</subject>
-      <subject source="lcsh">Japanese Americans -- Social conditions.</subject>
-      <subject source="lcsh">Japanese Americans -- Civil rights</subject>
-      <subject source="lcsh">Japanese Americans -- History -- 20th century.</subject>
-      <title source="local">Nisei Weekender.</title>
-      <title source="local">Pacific Citizen.</title>
-      <title source="local">North American Post.</title>
-      <title source="local">Nichi Bei Weekly.</title>
-      <title source="local">Rafu Shimpo.</title>
-      <title source="local">U.S. Japan Business News.</title>
-      <title source="local">New York Journal.</title>
-      <title source="local">Rocky Mountain Jiho.</title>
-      <title source="local">Yomiuri Shimbun.</title>
-      <title source="local">Asahi Shimbun International Satellite Edition.</title>
-      <title source="local">California Mainichi Shimbun.</title>
-      <title source="local">OCS News.</title>
-      <title source="local">Nichi Bei jiji.</title>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_688">tam_688</eadid><filedesc><titlestmt><titleproper>Guide to the Tamiment Library &amp; Robert F. Wagner Labor Archives Collection of Japanese American Newspapers <num>TAM.688</num></titleproper><author>Mark Simon Haydn</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>September 2016</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:02:56 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Tamiment Library &amp; Robert F. Wagner Labor Archives Collection of Japanese American Newspapers</unittitle>
+    <origination label="source">
       <persname role="dnr" source="local">Kida, Isaku, 1905-1996</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" source="local">Kida, Emi, 1908-2001</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" source="local">Wada, Takako, 1921-2016</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_820713808ba86606d491abd25e8a2ca9" level="file">
-        <did>
-          <unittitle>
-            <emph>Asahi Shimbun International Satellite Edition</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_214865533d3555f9875e0eff003c12ad" label="Mixed Materials [31142054877942]" type="Box">33</container>
-          <container id="aspace_3368ee0e78ae1c3c9b4f5f7ebb32a5e5" parent="aspace_214865533d3555f9875e0eff003c12ad" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_7e154e636d05d2f977913c7dd8d57b0f" level="file">
-        <did>
-          <unittitle>
-            <emph>California Mainichi Shimbun</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992, undated</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_a76b66c7e3a65205fab87a80300611e2" label="Mixed Materials [31142054877942]" type="Box">33</container>
-          <container id="aspace_bb7614126cba0847fe6dd4d0d2c6a0c3" parent="aspace_a76b66c7e3a65205fab87a80300611e2" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_b16ca2d7c1c68d1a7253873d7a0cfc38" level="file">
-        <did>
-          <unittitle>
-            <emph>Hokubai Shimpo</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1946/1962" type="inclusive">1946, 1954, 1960-1962</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_5c37b95d77b5feae0d19802fe02ed4ec" label="Mixed Materials [31142054877975]" type="Box">1</container>
-          <container id="aspace_1ca8de387af0a7e28709b49694681fcf" parent="aspace_5c37b95d77b5feae0d19802fe02ed4ec" type="Folder">5-6</container>
-        </did>
-      </c>
-      <c id="aspace_012b007d1648a51267095593f2c05f09" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Journal</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1980/1982" type="inclusive">1980-1982</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_a047929e7238579576890983e2728248" label="Mixed Materials [31142054877942]" type="Box">33</container>
-          <container id="aspace_233f483dd2261f51cf2d718fd76bf8b5" parent="aspace_a047929e7238579576890983e2728248" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_8b49591c78c6a87ac16b7499a9290018" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_5d375452f3ed0f5ea1371c028b72741a" label="Mixed Materials [31142054877975]" type="Box">1</container>
-          <container id="aspace_9d8b27d1d4fa6e70faa59a02a15d21cb" parent="aspace_5d375452f3ed0f5ea1371c028b72741a" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_2f04aa7fb9eaf017a446792c84b53d16" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1963/1965" type="inclusive">1963-1965</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_ed1b1baffac6e8833a14784b802c11dc" label="Mixed Materials [31142054877983]" type="Box">2</container>
-          <container id="aspace_1e350d4627f1daf203f28da91b77d0e5" parent="aspace_ed1b1baffac6e8833a14784b802c11dc" type="Folder">1-5</container>
-        </did>
-      </c>
-      <c id="aspace_f40517fffe9aa89fe0f7388ecbfc5853" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_868c3c707f69cf35506780ec27802e4c" label="Mixed Materials [31142054877991]" type="Box">3</container>
-          <container id="aspace_da87a33647318c8553e816b9f0afd02d" parent="aspace_868c3c707f69cf35506780ec27802e4c" type="Folder">1-5</container>
-        </did>
-      </c>
-      <c id="aspace_cee7b713e66043d36df17a9cb941a6cb" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1967/1971" type="inclusive">1967-1971</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_813945ab5eaa4525e99234b30b52e82f" label="Mixed Materials [31142054878023]" type="Box">4</container>
-          <container id="aspace_2615e6eeee054d1844c24d1ed3d8b46e" parent="aspace_813945ab5eaa4525e99234b30b52e82f" type="Folder">1-6</container>
-        </did>
-      </c>
-      <c id="aspace_879ed65b1c536cd53d3a00fcccaf65f6" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_41afa9c84b4adb6a3ebb6a15ea086add" label="Mixed Materials [31142054878015]" type="Box">5</container>
-          <container id="aspace_bf20d6527a306cd78d11e6860711feeb" parent="aspace_41afa9c84b4adb6a3ebb6a15ea086add" type="Folder">1-5</container>
-        </did>
-      </c>
-      <c id="aspace_7d1e24340bfecabdb901411b676a9d17" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_0df479ce94c6b3541b1c21fdc5a522c1" label="Mixed Materials [31142054878007]" type="Box">6</container>
-          <container id="aspace_c51b389c2984bf0711c32495fdb5f5f7" parent="aspace_0df479ce94c6b3541b1c21fdc5a522c1" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_9f187a40d3b061ab1fcf7ea5ef1acc64" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_96269fa2699067e3eacef109de35175c" label="Mixed Materials [31142054878056]" type="Box">7</container>
-          <container id="aspace_dd580dc0d9d5f26fda3871f69e59587e" parent="aspace_96269fa2699067e3eacef109de35175c" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_5ffc947278c6cf4ac0be9c7fd20ef406" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_3cc09c5092456efff1922ece78bfb7eb" label="Mixed Materials [31142054878049]" type="Box">8</container>
-          <container id="aspace_8aab582e15166cae9dceeb2f72a0deb7" parent="aspace_3cc09c5092456efff1922ece78bfb7eb" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_3a37d144e3291b24d83f40fd86a0c75c" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1979/1981" type="inclusive">1979-1981</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_5bc0f1c031e8fdcfdcc3c0f382375102" label="Mixed Materials [31142054878031]" type="Box">9</container>
-          <container id="aspace_5b0b0a536385913a982fe7087173346a" parent="aspace_5bc0f1c031e8fdcfdcc3c0f382375102" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_3869ca1677bdd8acf44c927835304b86" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_1c8188517072d2522cf53ec57765d0e5" label="Mixed Materials [31142054878080]" type="Box">10</container>
-          <container id="aspace_741e8412cfb2a866a0fd8bd0b8dccd03" parent="aspace_1c8188517072d2522cf53ec57765d0e5" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_7b260350b848351b077cacc5481cdcf5" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_d7884c83bf45492fe07215ba9878550b" label="Mixed Materials [31142054878072]" type="Box">11</container>
-          <container id="aspace_18945e544aadf836fddfd3ab82f19319" parent="aspace_d7884c83bf45492fe07215ba9878550b" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_47ed241265fc6dcd5b74c551f231a89a" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_ec5ea8262fd236d0c2edc4368a3547ce" label="Mixed Materials [31142054878064]" type="Box">12</container>
-          <container id="aspace_4baaab3be581ed0a0b8c58b43fa8230e" parent="aspace_ec5ea8262fd236d0c2edc4368a3547ce" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_820f3da832bf22fb71bf109f8794fbc5" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_c4c6d9facecba491bbe095ef53518dba" label="Mixed Materials [31142054877785]" type="Box">13</container>
-          <container id="aspace_579e696d6d2a322a1222e5db03e8cac3" parent="aspace_c4c6d9facecba491bbe095ef53518dba" type="Folder">1-5</container>
-        </did>
-      </c>
-      <c id="aspace_68a87af0bd9e1c7649704c38bdcb6936" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_c205d7733ac9338f6c8fb8051279b2f4" label="Mixed Materials [31142054877777]" type="Box">14</container>
-          <container id="aspace_d544e1160c39f15fe69189055b860a38" parent="aspace_c205d7733ac9338f6c8fb8051279b2f4" type="Folder">1-5</container>
-        </did>
-      </c>
-      <c id="aspace_6e60d83ddfb34c55c179352d9e5672ff" level="file">
-        <did>
-          <unittitle>
-            <emph>New York Nichibei</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_457ae3510af04c34c60cde88585971d9" label="Mixed Materials [31142054877769]" type="Box">15</container>
-          <container id="aspace_65d8c5d1b64554f6bb6a2e0eedad872e" parent="aspace_457ae3510af04c34c60cde88585971d9" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_6faa3a76d7a2db75280026e631908cda" level="file">
-        <did>
-          <unittitle>
-            <emph>Nichi Bei jiji</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_9e5d74f4e99f4a4e575861b6b0d4b48b" label="Mixed Materials [31142054877942]" type="Box">33</container>
-          <container id="aspace_39959fb7d5b78fbd2c3bbd8c3cee95e8" parent="aspace_9e5d74f4e99f4a4e575861b6b0d4b48b" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_256c60dc14e94adcadd1bfe9da3d6a63" level="file">
-        <did>
-          <unittitle>
-            <emph>Nichi Bei Weekly</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="2006/2011" type="inclusive">2006-2011</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_9bbc69870522e4147df1c13c8398b6d5" label="Mixed Materials [31142054877769]" type="Box">15</container>
-          <container id="aspace_4b9e2453fbcbee34a8d2abf881bb873f" parent="aspace_9bbc69870522e4147df1c13c8398b6d5" type="Folder">4-5</container>
-        </did>
-      </c>
-      <c id="aspace_1341b005549dd754b36d2bf43e1d4aa9" level="file">
-        <did>
-          <unittitle>
-            <emph>Nichi Bei Weekly</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="2012/2014" type="inclusive">2012-2014</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_b028ecf2f036ff36875c87878dd3b538" label="Mixed Materials [31142054877793]" type="Box">16</container>
-          <container id="aspace_12b4b111adcc245b8998e795db4b49a8" parent="aspace_b028ecf2f036ff36875c87878dd3b538" type="Folder">1-5</container>
-        </did>
-      </c>
-      <c id="aspace_d9e1a0a86b354d25f30254a507c1fc6a" level="file">
-        <did>
-          <unittitle>
-            <emph>Nisei Weekender</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_a0d4a6af1d7edac6e7f711a580bccee1" label="Mixed Materials [31142054877975]" type="Box">1</container>
-          <container id="aspace_bee73e9e9d812092798a1830099f12ef" parent="aspace_a0d4a6af1d7edac6e7f711a580bccee1" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_cc2189fd10240dc68737d987bb2331e7" level="file">
-        <did>
-          <unittitle>
-            <emph>North American Post</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1993/2014" type="inclusive">1993, 2001, 2014</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_1c59497bbb35505f81fce9fcefb62d58" label="Mixed Materials [31142054877769]" type="Box">15</container>
-          <container id="aspace_8393696bccf189f1726fc4dc8ee2b845" parent="aspace_1c59497bbb35505f81fce9fcefb62d58" type="Folder">2-3</container>
-        </did>
-      </c>
-      <c id="aspace_746c1e1c379eb8dbf949763e3df1b655" level="file">
-        <did>
-          <unittitle>
-            <emph>OCS News</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1981/1996" type="inclusive">1981, 1996</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_3f885f7f9eb1d5926d9c673eb8bfdb72" label="Mixed Materials [31142054877942]" type="Box">33</container>
-          <container id="aspace_1263dd9e28630a79e9dfd3c69f8091f5" parent="aspace_3f885f7f9eb1d5926d9c673eb8bfdb72" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_23cc3e10aaf41e0f2051264d6192b0b7" level="file">
-        <did>
-          <unittitle>
-            <emph>Pacific Citizen</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1986/2007" type="inclusive">1986-1987, 1994, 2005-2007</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_5bec50aa48ec325ca62dab85800abf49" label="Mixed Materials [31142054877975]" type="Box">1</container>
-          <container id="aspace_7f5a7cdd83c8c9b7fb7c270054baa1a0" parent="aspace_5bec50aa48ec325ca62dab85800abf49" type="Folder">2-4</container>
-        </did>
-      </c>
-      <c id="aspace_9fba8c1445eac08026c60b98549d8bc1" level="file">
-        <did>
-          <unittitle>
-            <emph>Rafu Shimpo</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_90532f7e0598042c1b77c458e6b78a7e" label="Mixed Materials [31142054877801]" type="Box">17</container>
-          <container id="aspace_111946be2ce15f2451a846910e1fe479" parent="aspace_90532f7e0598042c1b77c458e6b78a7e" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_33e6efd6211233c20bbbb68eacb38951" level="file">
-        <did>
-          <unittitle>
-            <emph>Rafu Shimpo</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_cbf43e9f2f81a7cbd1b157aad6249dc4" label="Mixed Materials [31142054877801]" type="Box">17</container>
-          <container id="aspace_2dd75d61ad2b32dc8fd9aac3e40e238b" parent="aspace_cbf43e9f2f81a7cbd1b157aad6249dc4" type="Folder">2-5</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_3fd37ecdaaaec19bd7fbd25c6102df0f" label="Mixed Materials [31142054877819]" type="Box">18</container>
-          <container id="aspace_bb34b9adf6d1a9375e242de416d7ac12" parent="aspace_3fd37ecdaaaec19bd7fbd25c6102df0f" type="Folder">1-3</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_cd47da33778635a15765b737416a5243" label="Mixed Materials [31142054877827]" type="Box">19</container>
-          <container id="aspace_3f5bc430908867ee9dd08ec20514e99e" parent="aspace_cd47da33778635a15765b737416a5243" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_29c94461c5b016e0739b56d045232705" level="file">
-        <did>
-          <unittitle>
-            <emph>Rafu Shimpo</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_51baf074e2b798d2610426350d787f6a" label="Mixed Materials [31142054877827]" type="Box">19</container>
-          <container id="aspace_fc8ef5df7198498208c6b2e3c5ef4d34" parent="aspace_51baf074e2b798d2610426350d787f6a" type="Folder">2-4</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_6846f6308e7ecec7d92b9945d4cfe84e" label="Mixed Materials [31142054877835]" type="Box">20</container>
-          <container id="aspace_f74ca560611413935651d58b7cd8fbc3" parent="aspace_6846f6308e7ecec7d92b9945d4cfe84e" type="Folder">1-4</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_08f18e4cdde1ffa4ccf98779a07dde37" label="Mixed Materials [31142054877843]" type="Box">21</container>
-          <container id="aspace_39b2130e35718022f5a5b9aa5e444520" parent="aspace_08f18e4cdde1ffa4ccf98779a07dde37" type="Folder">1-4</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_bf08c6f725da9ca1420783c60e52a3c5" label="Mixed Materials [31142054877850]" type="Box">22</container>
-          <container id="aspace_332a00a082b70ae13b457b57295742a5" parent="aspace_bf08c6f725da9ca1420783c60e52a3c5" type="Folder">1-3</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_eb121caf0c2bc1ceee31389f7c484d49" label="Mixed Materials [31142054877868]" type="Box">23</container>
-          <container id="aspace_365aa30a16e4dbe220637828afa280c1" parent="aspace_eb121caf0c2bc1ceee31389f7c484d49" type="Folder">1-3</container>
-        </did>
-      </c>
-      <c id="aspace_eafd74c4a70a44886931f6fdade8635c" level="file">
-        <did>
-          <unittitle>
-            <emph>Rafu Shimpo</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_e316455bc981f34b0d3a7ecd3e66b5eb" label="Mixed Materials [31142054877868]" type="Box">23</container>
-          <container id="aspace_2b06012b4e429864a563b3cdb60032f2" parent="aspace_e316455bc981f34b0d3a7ecd3e66b5eb" type="Folder">4</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_e2857839b8e4ea899809f0dbe1a6f134" label="Mixed Materials [31142054877876]" type="Box">24</container>
-          <container id="aspace_81ee020a0f1810fd3bde41152e740756" parent="aspace_e2857839b8e4ea899809f0dbe1a6f134" type="Folder">1-3</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_a66b40e02802be0faaa3ec83276dd9b2" label="Mixed Materials [31142054877884]" type="Box">25</container>
-          <container id="aspace_ac93fbc6fefd2e26d2534de605d021f3" parent="aspace_a66b40e02802be0faaa3ec83276dd9b2" type="Folder">1-4</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_5de9c4aa95a4d075ce3fe8bf5aa114b7" label="Mixed Materials [31142054877892]" type="Box">26</container>
-          <container id="aspace_3a67f995d2b1e728351d4f054b4994f5" parent="aspace_5de9c4aa95a4d075ce3fe8bf5aa114b7" type="Folder">1-4</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_940290e92ac08d830da99e1574d003b1" label="Mixed Materials [31142054877900]" type="Box">27</container>
-          <container id="aspace_0e368382d8ac61ad370c610381f2566d" parent="aspace_940290e92ac08d830da99e1574d003b1" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_4bfe6b6513ca03e8c7b9a7bac5393d7d" level="file">
-        <did>
-          <unittitle>
-            <emph>Rafu Shimpo</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_fc95fc6f2c20aa6bd8a0df4e944d7983" label="Mixed Materials [31142054877900]" type="Box">27</container>
-          <container id="aspace_2f1dc6dc2b308789634415c458e17870" parent="aspace_fc95fc6f2c20aa6bd8a0df4e944d7983" type="Folder">2-4</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_49f087a94dd277392c5a468340a1862a" label="Mixed Materials [31142054877934]" type="Box">28</container>
-          <container id="aspace_c072bcc3c85b128b7c14f2e117550421" parent="aspace_49f087a94dd277392c5a468340a1862a" type="Folder">1-3</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_ba699af26690671a8eaff1473776d8f4" label="Mixed Materials [31142054877926]" type="Box">29</container>
-          <container id="aspace_c18428791e3103bbf77d34ce1b5d35e0" parent="aspace_ba699af26690671a8eaff1473776d8f4" type="Folder">1-4</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_5d732854fb9fe807331dbc5a6b3244cc" label="Mixed Materials [31142054877918]" type="Box">30</container>
-          <container id="aspace_561d1a5400a54afafcee9d3ec56d86b1" parent="aspace_5d732854fb9fe807331dbc5a6b3244cc" type="Folder">1-6</container>
-        </did>
-      </c>
-      <c id="aspace_ef0109acbe03e4516b9234a16092d5a2" level="file">
-        <did>
-          <unittitle>
-            <emph>Rafu Shimpo</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="2014/2014" type="inclusive">2014</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_641fb550d9c67596af06b2fb41f2db63" label="Mixed Materials [31142054877959]" type="Box">31</container>
-          <container id="aspace_1a43d0930fa6fa39f9255f858d5d1617" parent="aspace_641fb550d9c67596af06b2fb41f2db63" type="Folder">1-5</container>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_edf850c57aca60b616fbd36ce32240b5" label="Mixed Materials [31142054877967]" type="Box">32</container>
-          <container id="aspace_f2e213748a80903a83084a3850a1b462" parent="aspace_edf850c57aca60b616fbd36ce32240b5" type="Folder">1-4</container>
-        </did>
-      </c>
-      <c id="aspace_cd7a27ad58f200415e8d727b4048086d" level="file">
-        <did>
-          <unittitle>
-            <emph>Rocky Mountain Jiho</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_3423aed526ed14913d593897b12c44f5" label="Mixed Materials [31142054877942]" type="Box">33</container>
-          <container id="aspace_80fa85c452fcd0fef7be292c93fe7ee3" parent="aspace_3423aed526ed14913d593897b12c44f5" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_74c5fe4155a238127e23b7877d935f49" level="file">
-        <did>
-          <unittitle>
-            <emph>U.S. Japan Business News</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_3881c4400a1bca3ba7252e82f1e7148c" label="Mixed Materials [31142054877942]" type="Box">33</container>
-          <container id="aspace_a41a669329d1ce1161a7ca54d34b1430" parent="aspace_3881c4400a1bca3ba7252e82f1e7148c" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_f925b86e3fe915ca21686ad2fc5668e9" level="file">
-        <did>
-          <unittitle>
-            <emph>Yomiuri Shimbun</emph>
-          </unittitle>
-          <unitdate datechar="creation" normal="1993/2001" type="inclusive">1993, 2001</unitdate>
-          <container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_479f8ddffac15a7526318e9776d0c4a0" label="Mixed Materials [31142054877942]" type="Box">33</container>
-          <container id="aspace_2054f2b734e4d9532f962ebc74f65e00" parent="aspace_479f8ddffac15a7526318e9776d0c4a0" type="Folder">4</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </origination>
+    <unitid>TAM.688</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">18.6 Linear Feet</extent>
+      <extent altrender="carrier">in 33 flat boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1946/2014" type="inclusive">1946-2014</unitdate>
+    <abstract id="aspace_1116313b17753e4e438504162a7eccb9">This collection groups 15 Japanese American newspaper titles originally contained within archival collections held at the Tamiment Library. Holdings include incomplete runs of publications dating from 1946 to 2014, published in New York, California, Colorado, Washington, and in Japan, with coverage chronicling responses to current events and highlighting progressive causes and cultural movements in the Japanese American community. The collection includes issues of <emph>Hokubai Shimpo</emph> and the <emph>New York Nichibei</emph> published between 1946 and 1993, and issues of <emph>Rafu Shimpo</emph> from the 2010s.</abstract>
+    <physloc id="aspace_40015c25415ac92ab3a002662fcfd497">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_378c8156720e543ac99188ed507cd613">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_fbd9d661ad98b80caa6d6e609953771d">
+    <head>Immediate Source of Acquisition</head>
+<p>Assembled from donations to the Tamiment Library from Susan J. Onuma, executor of the estate of Emi Kida, in 2004, and from Takako Wada in 2016. The accession number related to this gift is 2007.028.</p>  </acqinfo>
+  <arrangement id="aspace_2e7b814c5794f6736b3391be72b49185">
+    <head>Arrangement</head>
+<p>Titles are arranged in alphabetical order by publication title. Issues of each publication are organized chronologically.</p>  </arrangement>
+  <bioghist id="aspace_6991ae715a09669048b2fc36ce7222eb">
+    <head>Historical Note</head>
+<p>The <emph>New York Nichibei</emph> and its earlier incarnation, <emph>Hokubei Shimpo</emph>, served as a resource for news and opinion within the Japanese American community. The newspaper documented political developments in New York's Asian American Movement, born in Chinatown in the late 1960s and 1970s, the Asian American arts movement, and the redress movement of the 1970s and 1980s. The title also acted as an important outlet for Asian American writers. Regular contributors included Karl Akiya, Yuri Kochiyama, Kazu Ijima, Chris Ijima, and Fay Chiang, with stories otherwise gathered from mainstream newspapers, or submitted by members of the community. A range of progressive causes, from civil rights to women's and gay rights, were discussed within its pages. By 1980, a staff of four was printing 1,500 copies of <emph>New York Nichibei</emph>, approximately 80% for readers in the greater New York area and 20% for readers along the Eastern Seaboard and in California. The paper ended publication in 1993.</p>  </bioghist>
+  <custodhist id="aspace_53e34ea8a013d3de9adba20cdf42686a">
+    <head>Custodial History</head>
+<p>Individual titles are drawn from existing collections received by the Tamiment Library; further acquisition information regarding the parent collection is detailed in the Finding Aid for the Isaku Kida and Emi Kida Papers (TAM 165). Additional material was donated by Takako Wada and Japanese American Social Services Inc. (JASSI) in 2016.</p>  </custodhist>
+  <prefercite id="aspace_54b876c9b12e1618715235d8b2a1f156">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Tamiment Library &amp; Robert F. Wagner Labor Archives Collection of Japanese American Newspapers; TAM.688; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_14d9f31efed6f7b6779ed2109b768d59">
+    <head>Processing Information</head>
+<p>Materials in the collection were drawn from two donations to Tamiment Library. Copies of individual publications were combined and duplicate issues were deaccessioned. The collection has been stabilized and rehoused at the Barbara Goldsmith Conservation Laboratory.</p>  </processinfo>
+  <relatedmaterial id="aspace_b70dfb10d309a48f4b3a2491c5c0fc53">
+    <head>Related Materials</head>
+<p>Isaku Kida and Emi Kida Papers; TAM 165; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p><p>Karl Ichiro Akiya Papers; TAM 236; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p><p>George Yuzawa Papers; TAM 442; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p><p>Yoshio Kishi and Irene Yah-Ling Sun Collection; MSS 292; Fales Library and Special Collections, New York University Libraries.</p><p><emph>The Tokyo Observer: a collection of columns from the New York Nichibei newspaper</emph>, DS822.5 .W55 1988; NYU Elmer Holmes Bobst Library Main Collection, New York University.</p>  </relatedmaterial>
+  <scopecontent id="aspace_e1a9ec8698519a5119dbc9c43559457c">
+    <head>Scope and Contents</head>
+<p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Japanese American Newspapers assembles issues of 15 newspapers intended for a Japanese American audience, published between 1946 and 2014 in New York, California, Colorado, Washington, and Japan. The collection is comprised of incomplete runs of daily and weekly newspapers extracted from archival collections, and from materials donated to Tamiment. The newspapers offer a contemporaneous account of life in Japanese American communities in the 20th century, and highlight a range of progressive causes in news stories and editorials, from civil rights to women's and gay rights. The collection includes extended runs of <emph>Hokubei Shimpo</emph> and <emph>New York Nichibei</emph> and short runs of regional newspapers from New York, Colorado, and Washington, chronicling community life in the 1980s, alongside international editions of Japanese newspapers documenting broader changes through the 1990s and early 2000s. These include <emph>Nisei Weekender</emph>; <emph>Yomiuri Shimbun</emph>; <emph>Pacific Citizen</emph>; <emph>New York Journal</emph>; <emph>Rocky Mountain Jiho</emph>; <emph>Asahi Shimbun International Edition</emph>; <emph>California Mainichi Shimbun</emph>; <emph>U.S. Japan Business News</emph>; <emph>OCS News</emph>; and <emph>Nichi Bei jiji</emph>. Recent issues of <emph>Rafu Shimpo</emph>, <emph>Nichi Bei Weekly</emph>, and <emph>North American Post</emph> provide insight into activities within different regional Japanese American communities in the early 21st century. No complete runs of publications are contained herein, and in some cases only the English-language pages of the newspaper are present.</p>  </scopecontent>
+  <userestrict id="aspace_f7b600d16967308da2247eb599440607">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Susan J. Onuma, was not transferred to New York University. Permission to use materials must be secured from the copyright holder</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Japanese American newspapers.</subject>
+    <subject source="lcsh">Japanese Americans -- Social conditions.</subject>
+    <subject source="lcsh">Japanese Americans -- Civil rights</subject>
+    <subject source="lcsh">Japanese Americans -- History -- 20th century.</subject>
+    <title source="local">Nisei Weekender.</title>
+    <title source="local">Pacific Citizen.</title>
+    <title source="local">North American Post.</title>
+    <title source="local">Nichi Bei Weekly.</title>
+    <title source="local">Rafu Shimpo.</title>
+    <title source="local">U.S. Japan Business News.</title>
+    <title source="local">New York Journal.</title>
+    <title source="local">Rocky Mountain Jiho.</title>
+    <title source="local">Yomiuri Shimbun.</title>
+    <title source="local">Asahi Shimbun International Satellite Edition.</title>
+    <title source="local">California Mainichi Shimbun.</title>
+    <title source="local">OCS News.</title>
+    <title source="local">Nichi Bei jiji.</title>
+    <persname role="dnr" source="local">Kida, Isaku, 1905-1996</persname>
+    <persname role="dnr" source="local">Kida, Emi, 1908-2001</persname>
+    <persname role="dnr" source="local">Wada, Takako, 1921-2016</persname>
+  </controlaccess>
+  <dsc><c id="aspace_820713808ba86606d491abd25e8a2ca9" level="file"><did><unittitle><emph>Asahi Shimbun International Satellite Edition</emph></unittitle><unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_4c90a82b342def034b08e773e6aae113" label="Mixed Materials [31142054877942]" type="Box">33</container><container id="aspace_98af85d5ab761b2c975186de5363deb2" parent="aspace_4c90a82b342def034b08e773e6aae113" type="Folder">5</container></did></c><c id="aspace_7e154e636d05d2f977913c7dd8d57b0f" level="file"><did><unittitle><emph>California Mainichi Shimbun</emph></unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992, undated</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_05c8d72db955e6e162e0c019d4ee60b3" label="Mixed Materials [31142054877942]" type="Box">33</container><container id="aspace_2719fa7b8b2641ea2e7825bfa8a3e6f1" parent="aspace_05c8d72db955e6e162e0c019d4ee60b3" type="Folder">6</container></did></c><c id="aspace_b16ca2d7c1c68d1a7253873d7a0cfc38" level="file"><did><unittitle><emph>Hokubai Shimpo</emph></unittitle><unitdate datechar="creation" normal="1946/1962" type="inclusive">1946, 1954, 1960-1962</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_9cc1ff336647ada5d925bf9b891eec05" label="Mixed Materials [31142054877975]" type="Box">1</container><container id="aspace_ce9dc58e9e70e09ec94ae2b3e2f1b2e9" parent="aspace_9cc1ff336647ada5d925bf9b891eec05" type="Folder">5-6</container></did></c><c id="aspace_012b007d1648a51267095593f2c05f09" level="file"><did><unittitle><emph>New York Journal</emph></unittitle><unitdate datechar="creation" normal="1980/1982" type="inclusive">1980-1982</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_fe7b170465fe2ccbd7d67f8804b8ec00" label="Mixed Materials [31142054877942]" type="Box">33</container><container id="aspace_351ad89c89c80c2d1b431cd08d83f8df" parent="aspace_fe7b170465fe2ccbd7d67f8804b8ec00" type="Folder">2</container></did></c><c id="aspace_8b49591c78c6a87ac16b7499a9290018" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_2f304a485f7afc5ceb5dd63cce70d1d0" label="Mixed Materials [31142054877975]" type="Box">1</container><container id="aspace_5f3ad6cde8dab67f8e90ba3aa0134e06" parent="aspace_2f304a485f7afc5ceb5dd63cce70d1d0" type="Folder">7</container></did></c><c id="aspace_2f04aa7fb9eaf017a446792c84b53d16" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1963/1965" type="inclusive">1963-1965</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_84614828f02cee0002784e8bd4fcd182" label="Mixed Materials [31142054877983]" type="Box">2</container><container id="aspace_e23a20a59c0009a8f38a86cb958c4f19" parent="aspace_84614828f02cee0002784e8bd4fcd182" type="Folder">1-5</container></did></c><c id="aspace_f40517fffe9aa89fe0f7388ecbfc5853" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_0bb7365fd1f7721abe0cedcb0bd4c682" label="Mixed Materials [31142054877991]" type="Box">3</container><container id="aspace_9a0a2008941f8eb409655412cffbf3ac" parent="aspace_0bb7365fd1f7721abe0cedcb0bd4c682" type="Folder">1-5</container></did></c><c id="aspace_cee7b713e66043d36df17a9cb941a6cb" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1967/1971" type="inclusive">1967-1971</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_d01f1a9dcf5f86337db9b0c0e20fb099" label="Mixed Materials [31142054878023]" type="Box">4</container><container id="aspace_4db1b77a0aa7bdc07d7bd896458fa54b" parent="aspace_d01f1a9dcf5f86337db9b0c0e20fb099" type="Folder">1-6</container></did></c><c id="aspace_879ed65b1c536cd53d3a00fcccaf65f6" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_a73485ef30fcf9c1a31a7e884daed603" label="Mixed Materials [31142054878015]" type="Box">5</container><container id="aspace_c5f956d8bd9f75214fad1d8cdd1b9a7e" parent="aspace_a73485ef30fcf9c1a31a7e884daed603" type="Folder">1-5</container></did></c><c id="aspace_7d1e24340bfecabdb901411b676a9d17" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_0753fbe90ced5817742cfc47b41f6990" label="Mixed Materials [31142054878007]" type="Box">6</container><container id="aspace_575c37287f69be81d163486785250c10" parent="aspace_0753fbe90ced5817742cfc47b41f6990" type="Folder">1-4</container></did></c><c id="aspace_9f187a40d3b061ab1fcf7ea5ef1acc64" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_1a87c4bb2210f94917f92c0788f303bf" label="Mixed Materials [31142054878056]" type="Box">7</container><container id="aspace_9b9c41127719bf6bb4c81690637b58da" parent="aspace_1a87c4bb2210f94917f92c0788f303bf" type="Folder">1-4</container></did></c><c id="aspace_5ffc947278c6cf4ac0be9c7fd20ef406" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_6dfd478decf93aea72d8807287c55546" label="Mixed Materials [31142054878049]" type="Box">8</container><container id="aspace_076bdbafd2ed3d4f09de7aa40600941e" parent="aspace_6dfd478decf93aea72d8807287c55546" type="Folder">1-4</container></did></c><c id="aspace_3a37d144e3291b24d83f40fd86a0c75c" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1979/1981" type="inclusive">1979-1981</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_c42d40b4bad9deaf2a62454219cf51b8" label="Mixed Materials [31142054878031]" type="Box">9</container><container id="aspace_e7e3729bf7fbf8f667c6eeaa42dd9598" parent="aspace_c42d40b4bad9deaf2a62454219cf51b8" type="Folder">1-4</container></did></c><c id="aspace_3869ca1677bdd8acf44c927835304b86" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_0d524ac51e7b8734c351014471035e53" label="Mixed Materials [31142054878080]" type="Box">10</container><container id="aspace_0511697d8da6941ca828cf9c6e78377c" parent="aspace_0d524ac51e7b8734c351014471035e53" type="Folder">1-4</container></did></c><c id="aspace_7b260350b848351b077cacc5481cdcf5" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_827a85a7f5f5e80029484f12f2ccf4ab" label="Mixed Materials [31142054878072]" type="Box">11</container><container id="aspace_d40c8fb6caac93f5a45716f9f5254997" parent="aspace_827a85a7f5f5e80029484f12f2ccf4ab" type="Folder">1-4</container></did></c><c id="aspace_47ed241265fc6dcd5b74c551f231a89a" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_caddcba23a42cb6b8f7b5015027f0819" label="Mixed Materials [31142054878064]" type="Box">12</container><container id="aspace_66327014d98986bc6924561fd5ffba4e" parent="aspace_caddcba23a42cb6b8f7b5015027f0819" type="Folder">1-4</container></did></c><c id="aspace_820f3da832bf22fb71bf109f8794fbc5" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_6188b7853eae40ed4ece0120004f3ab6" label="Mixed Materials [31142054877785]" type="Box">13</container><container id="aspace_ed6841656ed7fe41702e1a9c37653225" parent="aspace_6188b7853eae40ed4ece0120004f3ab6" type="Folder">1-5</container></did></c><c id="aspace_68a87af0bd9e1c7649704c38bdcb6936" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_4d2f998c43ab7275278664032ed90adf" label="Mixed Materials [31142054877777]" type="Box">14</container><container id="aspace_466f74aec2dae8baa5ca5f9c60554153" parent="aspace_4d2f998c43ab7275278664032ed90adf" type="Folder">1-5</container></did></c><c id="aspace_6e60d83ddfb34c55c179352d9e5672ff" level="file"><did><unittitle><emph>New York Nichibei</emph></unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_5fbaa6b1a13aea4e5cbf6588bf83fbec" label="Mixed Materials [31142054877769]" type="Box">15</container><container id="aspace_888d7e259cc3dfbd11f1cb11587f8e9a" parent="aspace_5fbaa6b1a13aea4e5cbf6588bf83fbec" type="Folder">1</container></did></c><c id="aspace_6faa3a76d7a2db75280026e631908cda" level="file"><did><unittitle><emph>Nichi Bei jiji</emph></unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_d05bde7bba1e334029d79bfcd8c2dd47" label="Mixed Materials [31142054877942]" type="Box">33</container><container id="aspace_dcd6113bac7ce56d16b0d86ac873840c" parent="aspace_d05bde7bba1e334029d79bfcd8c2dd47" type="Folder">8</container></did></c><c id="aspace_256c60dc14e94adcadd1bfe9da3d6a63" level="file"><did><unittitle><emph>Nichi Bei Weekly</emph></unittitle><unitdate datechar="creation" normal="2006/2011" type="inclusive">2006-2011</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_e48cad0249cb559c04884426c402b152" label="Mixed Materials [31142054877769]" type="Box">15</container><container id="aspace_f94bc0e2b24d8c1317a737e754a55877" parent="aspace_e48cad0249cb559c04884426c402b152" type="Folder">4-5</container></did></c><c id="aspace_1341b005549dd754b36d2bf43e1d4aa9" level="file"><did><unittitle><emph>Nichi Bei Weekly</emph></unittitle><unitdate datechar="creation" normal="2012/2014" type="inclusive">2012-2014</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_7ad3d3c1703a19513a2b4542bc651939" label="Mixed Materials [31142054877793]" type="Box">16</container><container id="aspace_3901c95744456bf72ff3267cadde75b3" parent="aspace_7ad3d3c1703a19513a2b4542bc651939" type="Folder">1-5</container></did></c><c id="aspace_d9e1a0a86b354d25f30254a507c1fc6a" level="file"><did><unittitle><emph>Nisei Weekender</emph></unittitle><unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_fbd4bf3ce9dbad8c6a15264929762134" label="Mixed Materials [31142054877975]" type="Box">1</container><container id="aspace_52a2cec610d2fb72b881b2eda52f9111" parent="aspace_fbd4bf3ce9dbad8c6a15264929762134" type="Folder">1</container></did></c><c id="aspace_cc2189fd10240dc68737d987bb2331e7" level="file"><did><unittitle><emph>North American Post</emph></unittitle><unitdate datechar="creation" normal="1993/2014" type="inclusive">1993, 2001, 2014</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_3e87c2c164b77a2c130952fbd9de822a" label="Mixed Materials [31142054877769]" type="Box">15</container><container id="aspace_2240fcaa0736e5c4b1167a2888e370a6" parent="aspace_3e87c2c164b77a2c130952fbd9de822a" type="Folder">2-3</container></did></c><c id="aspace_746c1e1c379eb8dbf949763e3df1b655" level="file"><did><unittitle><emph>OCS News</emph></unittitle><unitdate datechar="creation" normal="1981/1996" type="inclusive">1981, 1996</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_d45f393cb1c4ab21ebe1c711706e7fbc" label="Mixed Materials [31142054877942]" type="Box">33</container><container id="aspace_ec5c5c9a1bb40d7df5ee7c7c49aa026f" parent="aspace_d45f393cb1c4ab21ebe1c711706e7fbc" type="Folder">7</container></did></c><c id="aspace_23cc3e10aaf41e0f2051264d6192b0b7" level="file"><did><unittitle><emph>Pacific Citizen</emph></unittitle><unitdate datechar="creation" normal="1986/2007" type="inclusive">1986-1987, 1994, 2005-2007</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_8c222131bf2b1e3fb391daacedda77a5" label="Mixed Materials [31142054877975]" type="Box">1</container><container id="aspace_c34bc8f002b6a6c84bfe184bc0fb2b47" parent="aspace_8c222131bf2b1e3fb391daacedda77a5" type="Folder">2-4</container></did></c><c id="aspace_9fba8c1445eac08026c60b98549d8bc1" level="file"><did><unittitle><emph>Rafu Shimpo</emph></unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_c5978111401f33f274726bb43a5242e9" label="Mixed Materials [31142054877801]" type="Box">17</container><container id="aspace_aea424737ed67a9e6b2f810cf65be196" parent="aspace_c5978111401f33f274726bb43a5242e9" type="Folder">1</container></did></c><c id="aspace_33e6efd6211233c20bbbb68eacb38951" level="file"><did><unittitle><emph>Rafu Shimpo</emph></unittitle><unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_eb299567ce0eeffa93cf222b88460762" label="Mixed Materials [31142054877801]" type="Box">17</container><container id="aspace_00d27d6dff03b409c2ebcfab0db11cf2" parent="aspace_eb299567ce0eeffa93cf222b88460762" type="Folder">2-5</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_d4d269ef2f46c0e00110825120ccda28" label="Mixed Materials [31142054877819]" type="Box">18</container><container id="aspace_7696642271e85b0e75b545984716e777" parent="aspace_d4d269ef2f46c0e00110825120ccda28" type="Folder">1-3</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_f7387ac36c6b11759afd813fc2bb0554" label="Mixed Materials [31142054877827]" type="Box">19</container><container id="aspace_8a82aa3693885cc3281554ec90abbad3" parent="aspace_f7387ac36c6b11759afd813fc2bb0554" type="Folder">1</container></did></c><c id="aspace_29c94461c5b016e0739b56d045232705" level="file"><did><unittitle><emph>Rafu Shimpo</emph></unittitle><unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_e495dee6c2c5f013ef6ced06096a9ee3" label="Mixed Materials [31142054877827]" type="Box">19</container><container id="aspace_3744d3223a2ddf1354800cce9f9a471d" parent="aspace_e495dee6c2c5f013ef6ced06096a9ee3" type="Folder">2-4</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_1d8845948592295f8e040361a01b7a34" label="Mixed Materials [31142054877835]" type="Box">20</container><container id="aspace_f79685f39aa6a5aafb6b74a8fb15c450" parent="aspace_1d8845948592295f8e040361a01b7a34" type="Folder">1-4</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_e2b4ea0537c5d90591ae73a07b7f3a96" label="Mixed Materials [31142054877843]" type="Box">21</container><container id="aspace_e816ffbe2436b9f397aa65ff686c892b" parent="aspace_e2b4ea0537c5d90591ae73a07b7f3a96" type="Folder">1-4</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_eaeecbb19b758fbc1fe85792b190cf1b" label="Mixed Materials [31142054877850]" type="Box">22</container><container id="aspace_a103f299262cf5b1fedb444a78a62505" parent="aspace_eaeecbb19b758fbc1fe85792b190cf1b" type="Folder">1-3</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_b795b8df087d2dde7690ed52d6fc3fb6" label="Mixed Materials [31142054877868]" type="Box">23</container><container id="aspace_ae53ac5d62907e25434f21bb14275842" parent="aspace_b795b8df087d2dde7690ed52d6fc3fb6" type="Folder">1-3</container></did></c><c id="aspace_eafd74c4a70a44886931f6fdade8635c" level="file"><did><unittitle><emph>Rafu Shimpo</emph></unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_6ff8d7088afe8a6e970feedb81c0fa1f" label="Mixed Materials [31142054877868]" type="Box">23</container><container id="aspace_9251c84e3a3f858a119c4883e731c90d" parent="aspace_6ff8d7088afe8a6e970feedb81c0fa1f" type="Folder">4</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_0f5c67e1079d341b3684258c18dc6f43" label="Mixed Materials [31142054877876]" type="Box">24</container><container id="aspace_abbf6dee83f6c5747863411d80fa7cac" parent="aspace_0f5c67e1079d341b3684258c18dc6f43" type="Folder">1-3</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_ffb0cdb162259e5bc6dd1c9e68221b31" label="Mixed Materials [31142054877884]" type="Box">25</container><container id="aspace_7de68056681556ac3842d0296f2957d2" parent="aspace_ffb0cdb162259e5bc6dd1c9e68221b31" type="Folder">1-4</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_f87911a5d83b8e4bdd934b515289b758" label="Mixed Materials [31142054877892]" type="Box">26</container><container id="aspace_0a00c9f55746ca6e247e1eb31505ee3a" parent="aspace_f87911a5d83b8e4bdd934b515289b758" type="Folder">1-4</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_601fbad4b063f520b6aa8316d5a6fc31" label="Mixed Materials [31142054877900]" type="Box">27</container><container id="aspace_1f5a6f67645eedf7cc91e64e78684e90" parent="aspace_601fbad4b063f520b6aa8316d5a6fc31" type="Folder">1</container></did></c><c id="aspace_4bfe6b6513ca03e8c7b9a7bac5393d7d" level="file"><did><unittitle><emph>Rafu Shimpo</emph></unittitle><unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_a1c5a118de457502c280a7b28304be50" label="Mixed Materials [31142054877900]" type="Box">27</container><container id="aspace_c406f864e07086c4a0445291a6fa682c" parent="aspace_a1c5a118de457502c280a7b28304be50" type="Folder">2-4</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_fedb943414683ed7631ca0e5b4148fd7" label="Mixed Materials [31142054877934]" type="Box">28</container><container id="aspace_5e39d25dd4b08c38ffbe7e5d12e08aaf" parent="aspace_fedb943414683ed7631ca0e5b4148fd7" type="Folder">1-3</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_ed6f5072130037e4018eef17fecf183d" label="Mixed Materials [31142054877926]" type="Box">29</container><container id="aspace_1e1101cd6a27620e8cb8b1acc50c9aa6" parent="aspace_ed6f5072130037e4018eef17fecf183d" type="Folder">1-4</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_1f30830b3401c26fa13a408df5de93f0" label="Mixed Materials [31142054877918]" type="Box">30</container><container id="aspace_6351267fe8c4ad71d81bbbfb53ccc38a" parent="aspace_1f30830b3401c26fa13a408df5de93f0" type="Folder">1-6</container></did></c><c id="aspace_ef0109acbe03e4516b9234a16092d5a2" level="file"><did><unittitle><emph>Rafu Shimpo</emph></unittitle><unitdate datechar="creation" normal="2014/2014" type="inclusive">2014</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_dd8f56fce6bf107e6bca41830964c339" label="Mixed Materials [31142054877959]" type="Box">31</container><container id="aspace_03b00cdc6df03c4f9970d8dbc1d58b9a" parent="aspace_dd8f56fce6bf107e6bca41830964c339" type="Folder">1-5</container><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_dbe5fb71b0974e851e792d1b2dfa67ac" label="Mixed Materials [31142054877967]" type="Box">32</container><container id="aspace_b514b2d87060d612706e885d4084c67d" parent="aspace_dbe5fb71b0974e851e792d1b2dfa67ac" type="Folder">1-4</container></did></c><c id="aspace_cd7a27ad58f200415e8d727b4048086d" level="file"><did><unittitle><emph>Rocky Mountain Jiho</emph></unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_5a1bbed0945ffde5f822e31440278978" label="Mixed Materials [31142054877942]" type="Box">33</container><container id="aspace_a53f86ae3eabddd719d71838c70180ce" parent="aspace_5a1bbed0945ffde5f822e31440278978" type="Folder">3</container></did></c><c id="aspace_74c5fe4155a238127e23b7877d935f49" level="file"><did><unittitle><emph>U.S. Japan Business News</emph></unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_e941cc8c2024a06d7dd82585bb232bd0" label="Mixed Materials [31142054877942]" type="Box">33</container><container id="aspace_a72886537330f646ba7de04bea0f97d3" parent="aspace_e941cc8c2024a06d7dd82585bb232bd0" type="Folder">1</container></did></c><c id="aspace_f925b86e3fe915ca21686ad2fc5668e9" level="file"><did><unittitle><emph>Yomiuri Shimbun</emph></unittitle><unitdate datechar="creation" normal="1993/2001" type="inclusive">1993, 2001</unitdate><container altrender="Custom Newspaper Flat Box 14.2 - lengthwise" id="aspace_eb74cd4ea0f36d328efb5ea8a1410b46" label="Mixed Materials [31142054877942]" type="Box">33</container><container id="aspace_2571f53aedce4e425e823382feeda187" parent="aspace_eb74cd4ea0f36d328efb5ea8a1410b46" type="Folder">4</container></did></c></dsc>
+</archdesc>
 </ead>

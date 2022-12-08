@@ -1,171 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_012">oh_012</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Stewardesses for Women's Rights Oral History Collection <num>OH.012</num></titleproper>
-        <author>Unattributed NYU Libraries staff and David A. Olson</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2013</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:19:33 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Stewardesses for Women's Rights Oral History Collection</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Rapport, Sarah</persname>
-      </origination>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Parnes, Brenda</persname>
-      </origination>
-      <unitid>OH.012</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-        <extent altrender="carrier">in 1 compact disk box.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
-      <abstract id="aspace_1533d8bef2d1e3427d33717569b2fddf">In 1972, two Eastern Airlines flight attendants, Sandra Jarrell and Jan Fulsom, took Eastern to court on charges of discriminatory weight and grooming regulations. They decided to band together with other women to fight discrimination and sexism throughout the industry. They founded Stewardesses for Women's Rights in 1973. Great progress was made in the next few years toward better working conditions, equal treatment with male co-workers, and removing hazardous cargo from passenger flights. By 1976, many SFWR members had become involved in their airlines' respective unions, and the SFWR ended due to declining membership and lack of funding.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/oh_012">oh_012</eadid><filedesc><titlestmt><titleproper>Guide to the Stewardesses for Women's Rights Oral History Collection <num>OH.012</num></titleproper><author>Unattributed NYU Libraries staff and David A. Olson</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2013</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:43:07 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Stewardesses for Women's Rights Oral History Collection</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Rapport, Sarah</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Parnes, Brenda</persname>
+    </origination>
+    <unitid>OH.012</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 compact disk box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+    <abstract id="aspace_1533d8bef2d1e3427d33717569b2fddf">In 1972, two Eastern Airlines flight attendants, Sandra Jarrell and Jan Fulsom, took Eastern to court on charges of discriminatory weight and grooming regulations. They decided to band together with other women to fight discrimination and sexism throughout the industry. They founded Stewardesses for Women's Rights in 1973. Great progress was made in the next few years toward better working conditions, equal treatment with male co-workers, and removing hazardous cargo from passenger flights. By 1976, many SFWR members had become involved in their airlines' respective unions, and the SFWR ended due to declining membership and lack of funding.
 
 The collection is comprised of two oral history interviews of former SFWR members taken by Sarah Rapport, the recording an event regarding SFWR, a recording of a SFWR commercial, a recording of a slideshow on labor rights for women flight attendants, and recording of an SFWR meeting.</abstract>
-      <langmaterial id="aspace_f1eba87a91c7f77be20f8cc41762f587">Materials are in English</langmaterial>
-    </did>
-    <accessrestrict id="aspace_0825aef4fdb07c6317d2cbffe4b68953">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_9ac79d949f6c9913052709a4fb1155c1">
-      <head>Immediate Source of Acquisition</head>
-      <p>Materials donated by Sarah Rapport or collected by the Robert F. Wagner Labor Archives from former Stewardesses for Women's Rights members, dates unknown. The accession numbers associated with this collection are 1987.019, 1987.020, and 1987.021.</p>
-    </acqinfo>
-    <arrangement id="aspace_f3c92b3b283ea24141657ec823658d0d">
-      <head>Arrangement</head>
-      <p>Access compact disks are arranged alphabetically. Master cassettes are arranged by an archivist-devised numbering scheme that appears to represent the order that the repository received the materials.</p>
-    </arrangement>
-    <bioghist id="aspace_54a8a05dc1436bc704bd642d2db4dd9c">
-      <head>Historical/Biographical Note</head>
-      <p>In 1972, two Eastern Airlines flight attendants, Sandra Jarrell and Jan Fulsom, took Eastern to court on charges of discriminatory weight and grooming regulations. They decided to band together with other women and fight discrimination and sexism throughout the industry, and Stewardesses for Women's Rights was founded. In March of 1973, they organized their first national conference held in New York City, hosted by Gloria Steinem. In June 1973, the Stern Family Fund granted the SFWR $25,000, which enabled them to open a national office in Rockefeller Center, New York City. Great progress was made in the next few years toward better working conditions, equal treatment with male co-workers, and removing hazardous cargo from passenger flights. Through their involvement with SFWR, many flight attendants became interested and active in their own unions, and thus drifted away from involvement with SFWR. Due to declining membership and lack of funding, SFWR closed its doors in the spring of 1976.</p>
-    </bioghist>
-    <prefercite id="aspace_b103e2ca0b637431ca961643e3093db7">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Stewardesses for Women's Rights Oral History Collection; OH 012; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_aa7a8c1e6f4ecdecad9c73cf2b188164">
-      <head>Processing Information</head>
-      <p>In 2013, the majority of the collection was digitized, and a full finding aid was written. The first tape of the SFWR reunion and second tape of the Kathleen Heenan interview were not digitized at this time due to tape degradation.</p>
-    </processinfo>
-    <relatedmaterial id="aspace_5d9e7cc76cbabf52a0d4a05ca51355d2">
-      <head>Related Archival Materials</head>
-      <p>Stewardesses for Women's Rights Collection (WAG 061)</p>
-      <p><title render="italic">Stewardesses for Women's Rights: A Silver Lining</title>, a video by Mary Lennon, is available through the Avery Fisher Center at Bobst Library. (VCA 2623)</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_8fff8c7ff7c6b0e6f6253401b2493b0d">
-      <head>Scope and Content Note</head>
-      <p>The collection is comprised of two oral history interviews taken by Sarah Rapport, the recording an event regarding Stewardesses for Women's Rights, a recording of a SFWR commercial, a recording of a slideshow on labor rights for women flight attendants, and recording of an SFWR meeting.</p>
-      <p>Rapport's interviews are with Kathleen Heenan and Cindy Hounsell. She took them in 1985 while preparing her dissertation on the SFWR. The interviews include discussions of the fight for gender equality in the workplace, airline policies regarding appearance and personal lives, training, the nature of the work, and life as a flight attendant. Additional topics are the activities of the SFWR, the union's internal politics, and the role of feminism for SFWR members.</p>
-    </scopecontent>
-    <phystech id="aspace_2aa5b6a098b372eadeb7524158550bcf">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <userestrict id="aspace_254e81246982c0478dfa470fc3f052ff">
-      <head>Conditions Governing Use</head>
-      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Any rights (including copyright and related rights to publicity and privacy) held by creator name are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact tamiment.wagner@nyu.edu.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Sex discrimination against women -- United States.</subject>
-      <subject source="lcsh">Sex discrimination in employment |z United States</subject>
-      <subject source="lcsh">Flight attendants |z United States.</subject>
-      <subject source="lcsh">Flight attendants |z United States |v Interviews</subject>
-      <subject source="lcsh">Airlines |x Employees |z United States.</subject>
-      <subject source="lcsh">Airlines |x Employees |x Labor unions |z United States.</subject>
-      <subject source="lcsh">Eastern Air Lines, inc |x Employees |v Interviews</subject>
-      <persname rules="dacs" source="local">Fulsom, Jan</persname>
-      <persname rules="dacs" source="local">Jarrell, Sandra</persname>
-      <corpname source="local">Stewardesses for Women's Rights</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref2" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">Eve of Change</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
-          <container altrender="Black CD box" id="aspace_e4feb2d531c3c89b949d4eece2770da7" label="master cassette [31142062759066]" type="Box">1</container>
-          <container id="aspace_d5af8cdbc76a5ca0c8c06368369c6757" parent="aspace_e4feb2d531c3c89b949d4eece2770da7" type="Cassette">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref3" level="file">
-        <did>
-          <unittitle>Kathleen Heenan</unittitle>
-          <unitdate datechar="creation" normal="1985/1985" type="inclusive">Nov 21, 1985</unitdate>
-          <container altrender="Black CD box" id="aspace_299b3dc03029aa0efcfdfd9b626537a0" label="master cassette [31142062759066]" type="Box">1</container>
-          <container id="aspace_0208d35cf2d305d5560b073a6bef87d6" parent="aspace_299b3dc03029aa0efcfdfd9b626537a0" type="Cassette">1A-B</container>
-          <container altrender="Black CD box" id="aspace_9101def84e620f8403c8ecd30db13831" label="access cd [31142062759066]" type="Box">1</container>
-          <container id="aspace_56502b5b5155df99fde5c286b4b6b09d" parent="aspace_9101def84e620f8403c8ecd30db13831" type="CD">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref4" level="file">
-        <did>
-          <unittitle>Cindy Hounsell</unittitle>
-          <unitdate datechar="creation" normal="1985/1985" type="inclusive">Nov 25, 1985</unitdate>
-          <container altrender="Black CD box" id="aspace_54e5185f7a918391eb673b121d178892" label="master cassette [31142062759066]" type="Box">1</container>
-          <container id="aspace_3622e22e04a3a79ee853ad62ac0acb04" parent="aspace_54e5185f7a918391eb673b121d178892" type="Cassette">2</container>
-          <container altrender="Black CD box" id="aspace_f9624116491bfd9398def8b75beb93e4" label="access cd [31142062759066]" type="Box">1</container>
-          <container id="aspace_1b99bf85070677cf6eaf04f801644655" parent="aspace_f9624116491bfd9398def8b75beb93e4" type="CD">3-4</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>SFWR Commercial</unittitle>
-          <unitdate datechar="creation" normal="1974/1975" type="inclusive">Circa 1974-1975</unitdate>
-          <container altrender="Black CD box" id="aspace_d06982b7ba7f930192cd5aaae9253e33" label="access cd [31142062759066]" type="Box">1</container>
-          <container id="aspace_fbc9d6826f227a81bfb0bc8f4281068f" parent="aspace_d06982b7ba7f930192cd5aaae9253e33" type="CD">5</container>
-          <container altrender="Black CD box" id="aspace_80a202ffdc85ded7e6bbd7d493a9c992" label="master cassette [31142062759066]" type="Box">1</container>
-          <container id="aspace_5086f4dbc1e4381f75019d2a32652588" parent="aspace_80a202ffdc85ded7e6bbd7d493a9c992" type="Cassette">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref6" level="file">
-        <did>
-          <unittitle>SFWR Organizational Meeting (Washington DC)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Black CD box" id="aspace_9ea53581e0002ae49783336261dba18f" label="master cassette [31142062759066]" type="Box">1</container>
-          <container id="aspace_0ec917e672948aeea49dab060cfe32ee" parent="aspace_9ea53581e0002ae49783336261dba18f" type="Cassette">7</container>
-          <container altrender="Black CD box" id="aspace_11c0f718ccee6a5dc1946a532daab842" label="access cd [31142062759066]" type="Box">1</container>
-          <container id="aspace_45144c928df0903968e6ce7d6288f54f" parent="aspace_11c0f718ccee6a5dc1946a532daab842" type="CD">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>SFWR Reunion</unittitle>
-          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Apr 22, 1987</unitdate>
-          <container altrender="Black CD box" id="aspace_333c75071176d4fdeb13842c0be00f78" label="master cassette [31142062759066]" type="Box">1</container>
-          <container id="aspace_a7a6d15b5659762fb0466308961ebeea" parent="aspace_333c75071176d4fdeb13842c0be00f78" type="Cassette">4A-B</container>
-          <container altrender="Black CD box" id="aspace_a2809b5f7b20d72f3cbf1b18bbd338d5" label="access cd [31142062759066]" type="Box">1</container>
-          <container id="aspace_2b7db0071b821c76b087a1b4a9d232fb" parent="aspace_a2809b5f7b20d72f3cbf1b18bbd338d5" type="CD">7</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    <langmaterial id="aspace_f1eba87a91c7f77be20f8cc41762f587">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_0825aef4fdb07c6317d2cbffe4b68953">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_9ac79d949f6c9913052709a4fb1155c1">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials donated by Sarah Rapport or collected by the Robert F. Wagner Labor Archives from former Stewardesses for Women's Rights members, dates unknown. The accession numbers associated with this collection are 1987.019, 1987.020, and 1987.021.</p>  </acqinfo>
+  <arrangement id="aspace_f3c92b3b283ea24141657ec823658d0d">
+    <head>Arrangement</head>
+<p>Access compact disks are arranged alphabetically. Master cassettes are arranged by an archivist-devised numbering scheme that appears to represent the order that the repository received the materials.</p>  </arrangement>
+  <bioghist id="aspace_54a8a05dc1436bc704bd642d2db4dd9c">
+    <head>Historical/Biographical Note</head>
+<p>In 1972, two Eastern Airlines flight attendants, Sandra Jarrell and Jan Fulsom, took Eastern to court on charges of discriminatory weight and grooming regulations. They decided to band together with other women and fight discrimination and sexism throughout the industry, and Stewardesses for Women's Rights was founded. In March of 1973, they organized their first national conference held in New York City, hosted by Gloria Steinem. In June 1973, the Stern Family Fund granted the SFWR $25,000, which enabled them to open a national office in Rockefeller Center, New York City. Great progress was made in the next few years toward better working conditions, equal treatment with male co-workers, and removing hazardous cargo from passenger flights. Through their involvement with SFWR, many flight attendants became interested and active in their own unions, and thus drifted away from involvement with SFWR. Due to declining membership and lack of funding, SFWR closed its doors in the spring of 1976.</p>  </bioghist>
+  <prefercite id="aspace_b103e2ca0b637431ca961643e3093db7">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Stewardesses for Women's Rights Oral History Collection; OH 012; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_aa7a8c1e6f4ecdecad9c73cf2b188164">
+    <head>Processing Information</head>
+<p>In 2013, the majority of the collection was digitized, and a full finding aid was written. The first tape of the SFWR reunion and second tape of the Kathleen Heenan interview were not digitized at this time due to tape degradation.</p>  </processinfo>
+  <relatedmaterial id="aspace_5d9e7cc76cbabf52a0d4a05ca51355d2">
+    <head>Related Archival Materials</head>
+<p>Stewardesses for Women's Rights Collection (WAG 061)</p><p><title render="italic">Stewardesses for Women's Rights: A Silver Lining</title>, a video by Mary Lennon, is available through the Avery Fisher Center at Bobst Library. (VCA 2623)</p>  </relatedmaterial>
+  <scopecontent id="aspace_8fff8c7ff7c6b0e6f6253401b2493b0d">
+    <head>Scope and Content Note</head>
+<p>The collection is comprised of two oral history interviews taken by Sarah Rapport, the recording an event regarding Stewardesses for Women's Rights, a recording of a SFWR commercial, a recording of a slideshow on labor rights for women flight attendants, and recording of an SFWR meeting.</p><p>Rapport's interviews are with Kathleen Heenan and Cindy Hounsell. She took them in 1985 while preparing her dissertation on the SFWR. The interviews include discussions of the fight for gender equality in the workplace, airline policies regarding appearance and personal lives, training, the nature of the work, and life as a flight attendant. Additional topics are the activities of the SFWR, the union's internal politics, and the role of feminism for SFWR members.</p>  </scopecontent>
+  <phystech id="aspace_2aa5b6a098b372eadeb7524158550bcf">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_254e81246982c0478dfa470fc3f052ff">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Any rights (including copyright and related rights to publicity and privacy) held by creator name are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Sex discrimination against women -- United States.</subject>
+    <subject source="lcsh">Sex discrimination in employment |z United States</subject>
+    <subject source="lcsh">Flight attendants |z United States.</subject>
+    <subject source="lcsh">Flight attendants |z United States |v Interviews</subject>
+    <subject source="lcsh">Airlines |x Employees |z United States.</subject>
+    <subject source="lcsh">Airlines |x Employees |x Labor unions |z United States.</subject>
+    <subject source="lcsh">Eastern Air Lines, inc |x Employees |v Interviews</subject>
+    <persname rules="dacs" source="local">Fulsom, Jan</persname>
+    <persname rules="dacs" source="local">Jarrell, Sandra</persname>
+    <corpname source="local">Stewardesses for Women's Rights</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle><title render="italic">Eve of Change</title></unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Black CD box" id="aspace_bc59eb74d13eab85427499833c6388de" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_c7b04f362786898be0bdcf4cb8683190" parent="aspace_bc59eb74d13eab85427499833c6388de" type="Cassette">3</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Kathleen Heenan</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">Nov 21, 1985</unitdate><container altrender="Black CD box" id="aspace_6212bb925c49934f66233ac684899c04" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_4d72b84713b7800edbfe92c95d7784f6" parent="aspace_6212bb925c49934f66233ac684899c04" type="Cassette">1A-B</container><container altrender="Black CD box" id="aspace_d6a2213cbb3dc80d4893f560577c9335" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_dfe90a447913cd787f9c75053c9a6ce3" parent="aspace_d6a2213cbb3dc80d4893f560577c9335" type="CD">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Cindy Hounsell</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">Nov 25, 1985</unitdate><container altrender="Black CD box" id="aspace_417bb775f2a9bfa97b031d6661c6a688" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_acd22f695fd98c9dbf982cf2643a005a" parent="aspace_417bb775f2a9bfa97b031d6661c6a688" type="Cassette">2</container><container altrender="Black CD box" id="aspace_f6efd0a74b31d866c3f97b77b9629761" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_ceac7a60d7d8bd05e75abba89ed4ad20" parent="aspace_f6efd0a74b31d866c3f97b77b9629761" type="CD">3-4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>SFWR Commercial</unittitle><unitdate datechar="creation" normal="1974/1975" type="inclusive">Circa 1974-1975</unitdate><container altrender="Black CD box" id="aspace_771e1976e1d82ca002bb6c73659236e0" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_9bfd1aed9a0a9843d9158602022b67aa" parent="aspace_771e1976e1d82ca002bb6c73659236e0" type="CD">5</container><container altrender="Black CD box" id="aspace_0f158ed32e34082423a44195c7d18c23" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_2d352878c209bbe9ada1bcc9f4bbf36d" parent="aspace_0f158ed32e34082423a44195c7d18c23" type="Cassette">6</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>SFWR Organizational Meeting (Washington DC)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Black CD box" id="aspace_5185c6559857dfea09d0fa054e8abbda" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_35df9647937e8f4b7db60d1829d859ce" parent="aspace_5185c6559857dfea09d0fa054e8abbda" type="Cassette">7</container><container altrender="Black CD box" id="aspace_590fc6697646869b12986254437060b4" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_5d15979a9c2fcb57f9b0cdf7f65800ff" parent="aspace_590fc6697646869b12986254437060b4" type="CD">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>SFWR Reunion</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Apr 22, 1987</unitdate><container altrender="Black CD box" id="aspace_439d9e5ebd9dc26b69c635c6cf135fb5" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_bdd5fcf07f7d8ed12d2c497e75f5dc79" parent="aspace_439d9e5ebd9dc26b69c635c6cf135fb5" type="Cassette">4A-B</container><container altrender="Black CD box" id="aspace_1f7c6aa18e28b3359ede900a520008d2" label="Audio [31142062759066]" type="Box">1</container><container id="aspace_4bd74d87966d76cc6bedeff1a04a37d6" parent="aspace_1f7c6aa18e28b3359ede900a520008d2" type="CD">7</container></did></c></dsc>
+</archdesc>
 </ead>

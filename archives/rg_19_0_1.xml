@@ -1,165 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/rg_19_0_1">rg_19_0_1</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Records of the Office of the Assistant Dean of Washington Square College (Henry Noss) <num>RG.19.0.1</num></titleproper>
-        <author>Connor Gaudet.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:40:15 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>Records of the Office of the Assistant Dean of Washington Square College (Henry Noss)</unittitle>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">Washington Square College. Office of the Assistant Dean</corpname>
-      </origination>
-      <unitid>RG.19.0.1</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
-      <abstract id="aspace_879267cdecc65c0b24b3fa6dadf50bf7">The Records of the Office of the Assistant Dean of Washington Square College is comprised of correspondence, memoranda, and publications created and/or collected by Assistant Dean Henry Noss primarily during his 1966-68 tenure in that office. The collection in its entirety spans from 1956 to 1972. Collection materials deal mostly with programs instituted for the purpose of academic and financial student assistance/encouragement, such as Career Guidance (Box 1, Folder 1), College Scholarship Service (Box 1, Folder 5), and the Educational Opportunity Grant (Box 1, Folders 7-8).</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <scopecontent id="aspace_966ba4ddf6629853f02d38d8292a7aa2">
-      <head>Scope and Contents</head>
-      <p>The Records of the Office of the Assistant Dean of Washington Square College (Henry Noss) primarily consists of correspondence, memoranda and reports relating generally to the the various programs and activities of the Office. These programs have mostly to do with student affairs, such as the Center for International Studies (Box 1, Folder 3), College Bound Programs (Box 1, Folder 4), Educational Opportunity Grants (Box 1, Folders 7-8), College Work Study (Box 1, Folder 6), College Scholarship programs (Box 1, Folder 5) and Evening Classes/Adult Education (Box 1, Folder 10). There are news articles and correspondence dealing with the controversy over the appointment of John Hatchett to a post within the University (Box 1, Folder 11).</p>
-    </scopecontent>
-    <arrangement id="aspace_f07b0046ceab9a183ba0007e85309421">
-      <head>Arrangement</head>
-      <p>Current arrangement is alphabetical by category in a single series. Upon receipt for processing in 2013, the collection materials were foldered categorically, but appeared to be in no discernable order otherwise.</p>
-    </arrangement>
-    <processinfo id="aspace_a246df92ad83096d93f8d07b546ccbd9">
-      <head>Processing Note</head>
-      <p>The collection was accessioned, as denoted by John Wilgrosso, on September 20, 1979. It was processed by Connor Gaudet on August 27, 2013.</p>
-    </processinfo>
-    <userestrict id="aspace_4f34a262a526980d4f6882f680297d27">
-      <head>Use Restrictions</head>
-      <p>Some materials may be restricted. Permission to publish materials must be obtained in writing from the:<lb/>New York University Archives<lb/> Elmer Holmes Bobst Library<lb/> 70 Washington Square South<lb/> New York, NY 10012<lb/> Phone: (212) 998-2641<lb/>Fax: (212) 995-4225<lb/>E-mail: university-archives@nyu.edu<lb/></p>
-    </userestrict>
-    <bioghist id="aspace_c286a74a8c8d411e1222ceec1f54b770">
-      <head>Biography of Henry H. B. Noss</head>
-      <p>Henry Noss received a B.A. from Franklin &amp; Marshall College in 1926, an M.A. from Princeton University in 1929, and a Ph.D. from Princeton in 1960. He came to New York University in 1930 as an instructor. He achieved the rank of Assistant Professor sometime in the 1940s and Associate Professor in the 1950s. He was named Assistant Dean in 1962 and became a full professor in 1963. Noss was interested in the relations between science and the arts and lectured frequently on topics dealing with the intersection of the two. In 1947 he introduced an interdepartmental course on the history of science as a Visiting Lecturer at Smith College. He was also a student of ancient metallurgy and wrote a monograph entitled <emph render="italic">The Mystery of Native Copper in the Ancient World</emph>.</p>
-    </bioghist>
-    <controlaccess>
-      <persname source="naf">Hatchett, John F.</persname>
-      <persname source="naf">Stoddard, George Dinsmore, 1897-1981</persname>
-      <corpname rules="dacs" source="local">James Buell Munn Scholarship Fund</corpname>
-      <persname rules="aacr" source="naf">Hester, James M., 1924-</persname>
-      <persname source="local">Noss, Henry</persname>
-      <persname source="naf">Buckler, William E. (William Earl), 1924-1990</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref19" level="series">
-        <did>
-          <unittitle>Series I: Records of the Office of the Assistant Dean of Washington Square College (Henry Noss)</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Career Guidance</unittitle>
-            <unitdate datechar="creation">1960 - 1963</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_b0a952f755e4abb6de06edc4588b4eb0" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_52db1ffaa32fc5662890c737c15ccc34" parent="aspace_b0a952f755e4abb6de06edc4588b4eb0" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Center for International Affairs and Development</unittitle>
-            <unitdate datechar="creation">1959 - 1966</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_36a197014abed5eac7580241b1ee4852" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_b7ff8492bfb42ef94c9f8f54bc50d989" parent="aspace_36a197014abed5eac7580241b1ee4852" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref4" level="file">
-          <did>
-            <unittitle>Center for International Studies</unittitle>
-            <unitdate datechar="creation">1968 - 1972</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_89e0df33d1dd4c99efe088c3d4d7ac6a" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_7202f3aa4ebcc6f1e1c092ad2c035111" parent="aspace_89e0df33d1dd4c99efe088c3d4d7ac6a" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>College Bound Program</unittitle>
-            <unitdate datechar="creation">1966 - 1968</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_9f01b8e3ac210eb33866cc058650ad54" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_1a53d43a39916c3f068a6921e142295e" parent="aspace_9f01b8e3ac210eb33866cc058650ad54" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref11" level="file">
-          <did>
-            <unittitle>College Scholarship Service</unittitle>
-            <unitdate datechar="creation">1963 - 1972</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_72fea25842dfebb8ef752bb01fe94273" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_44b9751a7263d4e7077bff241c9df127" parent="aspace_72fea25842dfebb8ef752bb01fe94273" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>College Work Study Program</unittitle>
-            <unitdate datechar="creation">1969 </unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_790105dfe65af10f25875109f8c1c9db" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_db46c1f4af768b5adda0a9f9d4d74132" parent="aspace_790105dfe65af10f25875109f8c1c9db" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Educational Support Program (ESP) Curriculum</unittitle>
-            <unitdate datechar="creation">1970</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_272d3bf122f547b79a015a77a5279266" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_6984a091860ac7b041672ad05a084a65" parent="aspace_272d3bf122f547b79a015a77a5279266" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Evening Classes/Adult Education</unittitle>
-            <unitdate datechar="creation">1963 -1965</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_e8b0bc06b610ba9795d9e63270479ee9" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_45cb1c33a4fa047e1f13512f1b4ec3bf" parent="aspace_e8b0bc06b610ba9795d9e63270479ee9" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref2" level="file">
-          <did>
-            <unittitle>Hatchett Controversy</unittitle>
-            <unitdate datechar="creation">1968</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_dc3eb74ca4e1167e7842e357daac0cdf" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_e4580de4e6f4ae060176f182dbf55f2e" parent="aspace_dc3eb74ca4e1167e7842e357daac0cdf" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref3" level="file">
-          <did>
-            <unittitle>President Hester (Memoranda)</unittitle>
-            <unitdate datechar="creation">1963 - 1969</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_28eaeb9fe3fab84ee57ae868c9575bf5" label="Text [31142063000841]" type="Box">1</container>
-            <container id="aspace_ad5cc3f6f7a088dfe2d11330e470b4d0" parent="aspace_28eaeb9fe3fab84ee57ae868c9575bf5" type="Folder">13</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_19_0_1">rg_19_0_1</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the Office of the Assistant Dean of Washington Square College (Henry Noss) <num>RG.19.0.1</num></titleproper><author>Connor Gaudet.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:18:12 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Records of the Office of the Assistant Dean of Washington Square College (Henry Noss)</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Washington Square College. Office of the Assistant Dean</corpname>
+    </origination>
+    <unitid>RG.19.0.1</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+    <abstract id="aspace_879267cdecc65c0b24b3fa6dadf50bf7" label="Abstract">The Records of the Office of the Assistant Dean of Washington Square College is comprised of correspondence, memoranda, and publications created and/or collected by Assistant Dean Henry Noss primarily during his 1966-68 tenure in that office. The collection in its entirety spans from 1956 to 1972. Collection materials deal mostly with programs instituted for the purpose of academic and financial student assistance/encouragement, such as Career Guidance (Box 1, Folder 1), College Scholarship Service (Box 1, Folder 5), and the Educational Opportunity Grant (Box 1, Folders 7-8).</abstract>
+    <langmaterial id="aspace_45bf3c78a371a3f9289e05282ef24ea3">Materials are primarily in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_966ba4ddf6629853f02d38d8292a7aa2">
+    <head>Scope and Contents</head>
+<p>The Records of the Office of the Assistant Dean of Washington Square College (Henry Noss) primarily consists of correspondence, memoranda and reports relating generally to the the various programs and activities of the Office. These programs have mostly to do with student affairs, such as the Center for International Studies (Box 1, Folder 3), College Bound Programs (Box 1, Folder 4), Educational Opportunity Grants (Box 1, Folders 7-8), College Work Study (Box 1, Folder 6), College Scholarship programs (Box 1, Folder 5) and Evening Classes/Adult Education (Box 1, Folder 10). There are news articles and correspondence dealing with the controversy over the appointment of John Hatchett to a post within the University (Box 1, Folder 11).</p>  </scopecontent>
+  <arrangement id="aspace_f07b0046ceab9a183ba0007e85309421">
+    <head>Arrangement</head>
+<p>Current arrangement is alphabetical by category in a single series. Upon receipt for processing in 2013, the collection materials were foldered categorically, but appeared to be in no discernable order otherwise.</p>  </arrangement>
+  <processinfo id="aspace_a246df92ad83096d93f8d07b546ccbd9">
+    <head>Processing Note</head>
+<p>The collection was accessioned, as denoted by John Wilgrosso, on September 20, 1979. It was processed by Connor Gaudet on August 27, 2013.</p>  </processinfo>
+  <userestrict id="aspace_4f34a262a526980d4f6882f680297d27">
+    <head>Use Restrictions</head>
+<p>Some materials may be restricted. Permission to publish materials must be obtained in writing from the:<lb/>New York University Archives<lb/> Elmer Holmes Bobst Library<lb/> 70 Washington Square South<lb/> New York, NY 10012<lb/> Phone: (212) 998-2641<lb/>Fax: (212) 995-4225<lb/>E-mail: university-archives@nyu.edu<lb/></p>  </userestrict>
+  <bioghist id="aspace_c286a74a8c8d411e1222ceec1f54b770">
+    <head>Biography of Henry H. B. Noss</head>
+<p>Henry Noss received a B.A. from Franklin &amp; Marshall College in 1926, an M.A. from Princeton University in 1929, and a Ph.D. from Princeton in 1960. He came to New York University in 1930 as an instructor. He achieved the rank of Assistant Professor sometime in the 1940s and Associate Professor in the 1950s. He was named Assistant Dean in 1962 and became a full professor in 1963. Noss was interested in the relations between science and the arts and lectured frequently on topics dealing with the intersection of the two. In 1947 he introduced an interdepartmental course on the history of science as a Visiting Lecturer at Smith College. He was also a student of ancient metallurgy and wrote a monograph entitled <emph render="italic">The Mystery of Native Copper in the Ancient World</emph>.</p>  </bioghist>
+  <controlaccess>
+    <persname source="naf">Hatchett, John F.</persname>
+    <persname source="naf">Stoddard, George Dinsmore, 1897-1981</persname>
+    <corpname rules="dacs" source="local">James Buell Munn Scholarship Fund</corpname>
+    <persname rules="aacr" source="naf">Hester, James M., 1924-</persname>
+    <persname source="local">Noss, Henry</persname>
+    <persname source="naf">Buckler, William E. (William Earl), 1924-1990</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref19" level="series"><did><unittitle>Series I: Records of the Office of the Assistant Dean of Washington Square College (Henry Noss)</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>Career Guidance</unittitle><unitdate datechar="creation">1960 - 1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_7e1618fc2c910862ed665d03af174248" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_eff7b8f267c552810312e9717a336ab7" parent="aspace_7e1618fc2c910862ed665d03af174248" type="Folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Center for International Affairs and Development</unittitle><unitdate datechar="creation">1959 - 1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_ea346d3bb555bf073b3b359ec7bf09dd" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_2a4d186f14242f9a1b30ee08b49e8bd0" parent="aspace_ea346d3bb555bf073b3b359ec7bf09dd" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Center for International Studies</unittitle><unitdate datechar="creation">1968 - 1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_3fe415eaeacc759ab3401c25010dbcf3" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_dc50735e93eac80a25d8c5e2e1346caa" parent="aspace_3fe415eaeacc759ab3401c25010dbcf3" type="Folder">3</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>College Bound Program</unittitle><unitdate datechar="creation">1966 - 1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_3f34c802325639eaec1342cf93d6b5fe" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_3d7519f9ac92e479fdef2632e6a244de" parent="aspace_3f34c802325639eaec1342cf93d6b5fe" type="Folder">4</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>College Scholarship Service</unittitle><unitdate datechar="creation">1963 - 1972</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_bdc3e2c571d30e12510adc5cc2b499ec" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_1886ef252ff28cb029a05268321a4959" parent="aspace_bdc3e2c571d30e12510adc5cc2b499ec" type="Folder">5</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>College Work Study Program</unittitle><unitdate datechar="creation">1969 </unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_cf25da103b085af48db17476252bc008" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_89a07be6dc3aaf6d1e58c1d99cfd1508" parent="aspace_cf25da103b085af48db17476252bc008" type="Folder">6</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Educational Support Program (ESP) Curriculum</unittitle><unitdate datechar="creation">1970</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_98d9b071344112c416070429cb25a138" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_b7b81fdb3a22327526aa8b068c500290" parent="aspace_98d9b071344112c416070429cb25a138" type="Folder">9</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Evening Classes/Adult Education</unittitle><unitdate datechar="creation">1963 -1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d9cbfe722e49167b453c8e4b6eb22e00" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_b5ce0afb420ff9242eb87735318d0847" parent="aspace_d9cbfe722e49167b453c8e4b6eb22e00" type="Folder">10</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Hatchett Controversy</unittitle><unitdate datechar="creation">1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_cb07296908a984befaa5cdc00e7892a1" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_2e31a4aba8f7021cba95e2e9b6eda39b" parent="aspace_cb07296908a984befaa5cdc00e7892a1" type="Folder">11</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>President Hester (Memoranda)</unittitle><unitdate datechar="creation">1963 - 1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_572b6fbf946adc47e93059e5eccd6c02" label="Mixed Materials [31142063000841]" type="Box">1</container><container id="aspace_8ae13ab5a26d60446fd0b49aadfa4ce5" parent="aspace_572b6fbf946adc47e93059e5eccd6c02" type="Folder">13</container></did></c></c></dsc>
+</archdesc>
 </ead>

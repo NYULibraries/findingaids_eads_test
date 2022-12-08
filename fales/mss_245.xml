@@ -1,121 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_245">mss_245</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Cover Magazine Archive<lb/>ca. 1986-1999<lb/> <num>MSS.245</num></titleproper>
-        <author>Luke Martin</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:34:57 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Cover Magazine</unittitle>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">Cover Magazine</corpname>
-      </origination>
-      <unitid>MSS.245</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-        <extent altrender="carrier">in 1 box.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1980/2000" type="inclusive">circa 1986-1999</unitdate>
-      <abstract id="aspace_5acc99cfc12a9c4469930d5ca787a47c"><emph render="italic">Cover Magazine</emph> was a New York arts monthly publication that existed from the late 80's through the 90's. Its stated mission was to be a comprehensive arts magazine--"to cover all the arts in every issue"--which included eclectic music and literary features alongside coverage of film, sculpture, dance, photography, and other visual arts. Press, promotional material, and advertiser information, including flyers, invitations, advertising rates, venue regulations, and other miscellaneous files from the magazine's publishing life, may be found in the archive.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <accessrestrict id="aspace_60949e5df47e66f0fda13e899470caa7">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_3c4802bcddeba82d18e2c4f0622a1187">
-      <head>Immediate Source of Acquisition</head>
-      <p>Materials found in collection; provenance is unknown.</p>
-    </acqinfo>
-    <bioghist id="aspace_69dd0e5cd7ca46f9440b98e6d0610f53">
-      <head>Historical Note</head>
-      <p><emph render="italic">Cover Magazine</emph> was a New York arts monthly publication that existed from the late 80's through the 90's. Its stated mission was to be a comprehensive arts magazine--"to cover all the arts in every issue"--which included eclectic music and literary features alongside coverage of film, sculpture, dance, photography, and other visual arts. A strong cadre of arts and culture contributors and editors worked alongside Publisher/Editor Jeffrey Cyphers Wright, including John Yau, Robert C. Morgan, Judd Tully, Anthony Bozza, A.D. Coleman, Timothy Greenfield-Sanders, and many others. <emph render="italic">Cover</emph> regularly hosted events at Webster Hall and other venues throughout New York City. These included live music concerts, artist discussions, arts and fashion shows, literary readings, and other arts-related events.</p>
-    </bioghist>
-    <odd id="aspace_27b46125e622e496b17ec56c5cb1d3fa">
-      <head>Location Note</head>
-      <p>The collection is held in one legal-sized document case with the exception of one poster, which is located in the map cases.</p>
-    </odd>
-    <prefercite id="aspace_e9eed438b6d3f7cdb3df214f62df5ca3">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_245">mss_245</eadid><filedesc><titlestmt><titleproper>Guide to the Cover Magazine Archive<lb/>ca. 1986-1999<lb/> <num>MSS.245</num></titleproper><author>Luke Martin</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2009</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:59:51 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Cover Magazine</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Cover Magazine</corpname>
+    </origination>
+    <unitid>MSS.245</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1980/2000" type="inclusive">circa 1986-1999</unitdate>
+    <abstract id="aspace_5acc99cfc12a9c4469930d5ca787a47c"><emph render="italic">Cover Magazine</emph> was a New York arts monthly publication that existed from the late 80's through the 90's. Its stated mission was to be a comprehensive arts magazine--"to cover all the arts in every issue"--which included eclectic music and literary features alongside coverage of film, sculpture, dance, photography, and other visual arts. Press, promotional material, and advertiser information, including flyers, invitations, advertising rates, venue regulations, and other miscellaneous files from the magazine's publishing life, may be found in the archive.</abstract>
+    <langmaterial id="aspace_3ef0f33844df2a755fcc7ae57379fcec">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_60949e5df47e66f0fda13e899470caa7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <acqinfo id="aspace_3c4802bcddeba82d18e2c4f0622a1187">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown.</p>  </acqinfo>
+  <bioghist id="aspace_69dd0e5cd7ca46f9440b98e6d0610f53">
+    <head>Historical Note</head>
+<p><emph render="italic">Cover Magazine</emph> was a New York arts monthly publication that existed from the late 80's through the 90's. Its stated mission was to be a comprehensive arts magazine--"to cover all the arts in every issue"--which included eclectic music and literary features alongside coverage of film, sculpture, dance, photography, and other visual arts. A strong cadre of arts and culture contributors and editors worked alongside Publisher/Editor Jeffrey Cyphers Wright, including John Yau, Robert C. Morgan, Judd Tully, Anthony Bozza, A.D. Coleman, Timothy Greenfield-Sanders, and many others. <emph render="italic">Cover</emph> regularly hosted events at Webster Hall and other venues throughout New York City. These included live music concerts, artist discussions, arts and fashion shows, literary readings, and other arts-related events.</p>  </bioghist>
+  <odd id="aspace_27b46125e622e496b17ec56c5cb1d3fa">
+    <head>Location Note</head>
+<p>The collection is held in one legal-sized document case with the exception of one poster, which is located in the map cases.</p>  </odd>
+  <prefercite id="aspace_e9eed438b6d3f7cdb3df214f62df5ca3">
+    <head>Preferred Citation</head>
+<p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); Cover Magazine Archive; MSS 245; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
-    </prefercite>
-    <scopecontent id="aspace_872001a003dd14eee00669e4ccafc588">
-      <head>Scope and Content note</head>
-      <p>The collection of materials pertaining to <emph render="italic">Cover Magazine</emph> consists mostly of press, promo, and advertiser information, including flyers, invitations, advetising rates, venue regulations, and other miscellaneous files.</p>
-    </scopecontent>
-    <userestrict id="aspace_766247dc2b255c362c7cc7a16ab297ff">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </userestrict>
-    <dsc>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>Press, promotional material, and other magazine related files</unittitle>
-          <unitdate datechar="creation">N/A</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ea4c5cffa3b71e3e17f7a97f43202ca5" label="Mixed Materials [31142054900264]" type="Box">1</container>
-          <container id="aspace_39f525a2a182d4042cc16340c269fd35" parent="aspace_ea4c5cffa3b71e3e17f7a97f43202ca5" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Phone message book</unittitle>
-          <unitdate datechar="creation">N/A</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f1b184164bad0a0a111574692a1bc0f6" label="Mixed Materials [31142054900264]" type="Box">1</container>
-          <container id="aspace_42cbe0c5ae456255511bc66d2c89f71f" parent="aspace_f1b184164bad0a0a111574692a1bc0f6" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Event flyers</unittitle>
-          <unitdate datechar="creation">N/A</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_3369d742b9760e777035693a34414596" label="Mixed Materials [31142054900264]" type="Box">1</container>
-          <container id="aspace_7c645c6635cf96d9f2057fe5ea0a2ed3" parent="aspace_3369d742b9760e777035693a34414596" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Gerald Burns artwork, writings, and correspondence</unittitle>
-          <unitdate datechar="creation">1995</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_63ea3118bcceeafc91d07118a4250720" label="Mixed Materials [31142054900264]" type="Box">1</container>
-          <container id="aspace_c4474f8b0d7d0ec346044bb9dc72b1b4" parent="aspace_63ea3118bcceeafc91d07118a4250720" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref11" level="file">
-        <did>
-          <unittitle><emph render="italic">Words To Go</emph>, anthology of creative writing from the Cultural Council Foundation Artists Project</unittitle>
-          <unitdate datechar="creation">1980</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_dfe15f6fe8c8fd7782f7e8dcbb2d832c" label="Mixed Materials [31142054900264]" type="Box">1</container>
-          <container id="aspace_818e105ee837196027ef8580e9c0ad9f" parent="aspace_dfe15f6fe8c8fd7782f7e8dcbb2d832c" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_7cd3bf3d7de408c0046b142e2d54e0be" level="file">
-        <did>
-          <unittitle>Posters</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Oversize Folder - Half Case" id="aspace_f1b1d97b85558b4d9addcddd3ebd1865" label="Mixed Materials [31142062893246]" type="Folder">5 Right</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+Identification of item,  date (if known); Cover Magazine Archive; MSS 245; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <scopecontent id="aspace_872001a003dd14eee00669e4ccafc588">
+    <head>Scope and Content note</head>
+<p>The collection of materials pertaining to <emph render="italic">Cover Magazine</emph> consists mostly of press, promo, and advertiser information, including flyers, invitations, advetising rates, venue regulations, and other miscellaneous files.</p>  </scopecontent>
+  <userestrict id="aspace_766247dc2b255c362c7cc7a16ab297ff">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <dsc><c id="aspace_ref19" level="file"><did><unittitle>Press, promotional material, and other magazine related files</unittitle><unitdate datechar="creation">N/A</unitdate><container altrender="Manuscript box - Legal" id="aspace_f67e9f6872a17849a1cd3b1f47573272" label="Mixed Materials [31142054900264]" type="Box">1</container><container id="aspace_b05c1830a3aa79a2ed987eca8ca9230b" parent="aspace_f67e9f6872a17849a1cd3b1f47573272" type="Folder">1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Phone message book</unittitle><unitdate datechar="creation">N/A</unitdate><container altrender="Manuscript box - Legal" id="aspace_6bc1f64ca228bfff118587c76b83408b" label="Mixed Materials [31142054900264]" type="Box">1</container><container id="aspace_067f540705b56b524e8b3a86e6fc1ffe" parent="aspace_6bc1f64ca228bfff118587c76b83408b" type="Folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Event flyers</unittitle><unitdate datechar="creation">N/A</unitdate><container altrender="Manuscript box - Legal" id="aspace_5408320c3ed501787b01755007183757" label="Mixed Materials [31142054900264]" type="Box">1</container><container id="aspace_d15455263cb364a0b7f0a5db0f3c5c33" parent="aspace_5408320c3ed501787b01755007183757" type="Folder">3</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Gerald Burns artwork, writings, and correspondence</unittitle><unitdate datechar="creation">1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_6bb71ebac93b4196c5999a6d830dd5a8" label="Mixed Materials [31142054900264]" type="Box">1</container><container id="aspace_add86970a36b71c34bcd93568988bbb0" parent="aspace_6bb71ebac93b4196c5999a6d830dd5a8" type="Folder">4</container></did></c><c id="aspace_ref11" level="file"><did><unittitle><emph render="italic">Words To Go</emph>, anthology of creative writing from the Cultural Council Foundation Artists Project</unittitle><unitdate datechar="creation">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_f627942b5d700a64516eaf45d0660bf4" label="Mixed Materials [31142054900264]" type="Box">1</container><container id="aspace_c1629b0c1c2c4d30b655c68411823caa" parent="aspace_f627942b5d700a64516eaf45d0660bf4" type="Folder">5</container></did></c><c id="aspace_7cd3bf3d7de408c0046b142e2d54e0be" level="file"><did><unittitle>Posters</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS 21" id="aspace_4d7cf2c52413696456e60a27230e56ab" label="Mixed Materials [31142067177066]" type="Box">Shared Fales 078</container><container id="aspace_7d6ca65c227c9a0f5c156a7a2730a7a4" parent="aspace_4d7cf2c52413696456e60a27230e56ab" type="Folder">6</container></did></c></dsc>
+</archdesc>
 </ead>

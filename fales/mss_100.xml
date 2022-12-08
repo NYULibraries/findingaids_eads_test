@@ -1,558 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_100">mss_100</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Mendez Mural Community Garden Archive <num>MSS.100</num></titleproper>
-        <author>Marvin Taylor/Alyssa Shirley in May 2000. Accretion processed by Luke Martin, 2009.</author>
-      </titlestmt>
-      <editionstmt>
-        <p>Mendez Mural Community Garden Finding Aid.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>2000</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:55:30 -0500</date>.</creation>
-      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Mendez Mural Community Garden Archive</unittitle>
-      <origination label="Creator">
-        <persname role="dnr" rules="dacs" source="naf">Wright, Jeffery C. (Jeffrey Cyphers)</persname>
-      </origination>
-      <unitid>MSS.100</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
-        <extent altrender="carrier">(4 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate>
-      <abstract id="aspace_4ca673071c306c96d251c8337994c594">The East Village's Mendez Mural Community Garden grew outside of city support but became a fixture in the community and was widely utilized. In 1997, the city decided to sell the land to real-estate developers creating a community uproar and protest. On New Years Eve, 1997 the land was bulldozed for condominiums. The collection documents the struggle to save the garden.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <custodhist id="aspace_53b963dc761a878c50c4b7b0823faca3">
-      <head>Provenance</head>
-      <p>The Mendez Mural Community Garden Archive was a gift of Jeff Wright, given to Fales Library in May 2000.</p>
-    </custodhist>
-    <accessrestrict id="aspace_da98781c4bdb5e10f6a83809f548831a">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Series II and 2008 Accretion have been digitized, and files are available to view by clicking on links in this finding aid - please click on Series II on the sidebar to see the links. If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material while University Counsel looks into your claim. You can read more about our Take Down Policy here. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <userestrict id="aspace_c07cb816ec1a036b35818d11d9fa4a3a">
-      <head>Use Restrictions</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </userestrict>
-    <prefercite id="aspace_23edf4150d1639b81e68a7875a1d7469">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form:<lb/><lb/>Identification of item, date (if known); Mendez Mural Community Garden Collection; MSS 100; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address>, New York University Libraries.</p>
-    </prefercite>
-    <bioghist id="aspace_8807ffab334379c75a1ee69c49307b0c">
-      <head>Historical Note</head>
-      <p>The East Village's Mendez Mural Community Garden(11th Street between Avenues A and B), which had been a vacant lot since the early 1970's, was brought into existence in the early 1990's partly through the work of sculptor, Ken Hiratsuka, and muralist, 'Chico' who brought trees, plants and art to the space. The park grew outside of city support in a neighborhood that had suffered in previous years from drug-crime and violence. It became a fixture in the community and was widely utilized. In 1997, the city exercised their claim of ownership on the land, and when then Mayor Guiliani decided to sell the land to real-estate developers, a community uproar and protest followed. In the end, the bid to save the garden was unsuccessful, and on New Years Eve, 1997 the land was bulldozed for condominiums.</p>
-    </bioghist>
-    <scopecontent id="aspace_fea5cf3ef20eea62aeb914b1548d5e3e">
-      <head>Scope and Content Note</head>
-      <p>The Mendez Mural Community Garden Archive  documents the lawsuit brought by several artists involved in the creation of the Mendez Mural Garden against the Partnership Housing Development Fund Company, Inc. of the City of New York. It also contains articles, correspondence, 'zines, photos, maps, flyers, and posters relating to the Mendez controversy and other battles over garden space on the Lower East Side, dating from 1996 through 2000.</p>
-      <p>
-        <emph render="bold">SERIES DESCRIPTION</emph>
-      </p>
-      <p><emph render="bold">Series 1: Legal Materials:</emph> contains one box of materials relating to the legal case over the Mendez Mural Community Garden, including legal documents and supporting materials such as petitions, photos, and letters of support from the community.</p>
-      <p><emph render="bold">Series 2: Materials relating to Mendez Garden and other Lower East Side garden controversies:</emph> contains articles, correspondence, zines, photos, maps, flyers and posters relating to the Mendez controversy and other battles over garden space on the Lower East Side, dating from 1996 through 2000. Folders 9-9d contain miscellaneous materials removed from their original non-archival 3-ring binders; they have been stored in their original order.</p>
-      <p><emph render="bold">Accretions 2008:</emph> includes material related to Jeffrey Wright's community garden activism from 1997-2000. The bulk of material pertains to the activity and events of the 11th Street Garden (Chico West). Photographs, legal documents, press clippings, and other records are contained within this accretion. </p>
-    </scopecontent>
-    <arrangement id="aspace_1f340b8c00771d918883e6de7f208a28">
-      <head>Arrangement</head>
-      <p>Materials are organized by subject and document type.</p>
-      <p>The files are grouped into two series.</p>
-      <list numeration="arabic" type="ordered">
-        <head>Missing Title</head>
-        <item>Series I: Legal Materials</item>
-        <item>Series II: Mendez Garden and Other Lower East Side Garden Controversies</item>
-      </list>
-    </arrangement>
-    <separatedmaterial id="aspace_67dfd8907f5758162d733fcb9b9d2317">
-      <head>Separated Material</head>
-      <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
-    </separatedmaterial>
-    <controlaccess>
-      <genreform source="aat">Petitions.</genreform>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <subject source="lcsh">Urban renewal -- Citizen participation.</subject>
-      <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
-      <subject source="lcsh">Vacant lands.</subject>
-      <geogname source="local">Mendez Mural Community Garden (New York, N.Y.)</geogname>
-      <subject source="lcsh">Community development, Urban</subject>
-      <genreform source="aat">Briefs (legal documents)</genreform>
-      <subject source="lcsh">Community gardens |z New York (State) |z New York.</subject>
-      <genreform source="aat">Fliers (printed matter)</genreform>
-      <genreform source="aat">Photographs.</genreform>
-      <persname source="naf">Chico</persname>
-      <persname source="local">Hiratsuka, Ken</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref11" level="series">
-        <did>
-          <unittitle>Series I: Legal Materials</unittitle>
-        </did>
-        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Form letters sent</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_bf9b36669382f33dcecfadfa30b2b751">offsite</physloc>
-            <container id="aspace_9ba3d0816631046df676c2bfbb169df9" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_75db458af91e9b39244a67de0a13d11e" parent="aspace_9ba3d0816631046df676c2bfbb169df9" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Form letters sent, have ribbons</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_88d56a43ec98beec638d4fd4aedc2da9">offsite</physloc>
-            <container id="aspace_22d53a4964b81abaa9fca3c6f565e4a4" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_89d72b6d8f6b898ea9fd90073f46fd00" parent="aspace_22d53a4964b81abaa9fca3c6f565e4a4" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Original letters, ribbons done</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_df45aac0706fc3c91fa31ea9d8649f6b">offsite</physloc>
-            <container id="aspace_b8cb4beb3adae6cf8703f7a175fe81cc" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_0991e27948fba82ed2fa8a7fa95d980b" parent="aspace_b8cb4beb3adae6cf8703f7a175fe81cc" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Copies of postcard backs</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_600c247c3b371c3b2b88af4d86650e64">offsite</physloc>
-            <container id="aspace_9760132bff3f826ece7cee4a5ef80603" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_4ec1abe3bdcf52f4ca6c66e9bdb73843" parent="aspace_9760132bff3f826ece7cee4a5ef80603" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Copies of postcard backs, cont'd.</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_6bfdc9c13df181f57115bf59e9ec316d">offsite</physloc>
-            <container id="aspace_7d2f484a221966e4cf5b49a3874ae498" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_18fc8132d80a1bfcd6ebb0f72858eda7" parent="aspace_7d2f484a221966e4cf5b49a3874ae498" type="Folder">4a.</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Petitions</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_4d463645fee9b617215455455a541511">offsite</physloc>
-            <container id="aspace_06c691cbdea94ea46638039b1430feb3" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_d5a810bd041b42a2ab24ceed158f3a2e" parent="aspace_06c691cbdea94ea46638039b1430feb3" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Legal statements, info re: Mendez Garden</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_4c3e1e1b1616d1743abcede82d2972e6">offsite</physloc>
-            <container id="aspace_3fa34be218a43f5a92640b9df420c9ef" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_3abcb72b700ed8616f4537bf3c298896" parent="aspace_3fa34be218a43f5a92640b9df420c9ef" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Legal photos</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_928c8917814510e6d6bd9df0ca20f649">offsite</physloc>
-            <container id="aspace_94668892ddd7f1593bd010f0128aa3b2" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_f565af64d7a1746583ee1941ef521460" parent="aspace_94668892ddd7f1593bd010f0128aa3b2" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Trial documents</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_de0fda8c1dff7228feec33f8756a1f5c">offsite</physloc>
-            <container id="aspace_1f058a555910dc5dfe700c050461cc25" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_e76d002bf7401d633103ebde8cf20858" parent="aspace_1f058a555910dc5dfe700c050461cc25" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Trial documents, cont'd.</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_b0be13d1b3c0bba6dc65f5c1ab5ae6ff">offsite</physloc>
-            <container id="aspace_13cc47d1f896a98b2498ac6647a4f700" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_2174727b7a2aac917426083eeeef4ac7" parent="aspace_13cc47d1f896a98b2498ac6647a4f700" type="Folder">8a.</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Trial documents, cont'd.</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_e9cb5249fec6a11bbddc8ae4fb98256b">offsite</physloc>
-            <container id="aspace_6f86b1b762afa00f58ef7708344f80b5" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_c9aa790748b82ecd7e5d415ec271051c" parent="aspace_6f86b1b762afa00f58ef7708344f80b5" type="Folder">8b.</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Trial documents, cont'd.</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_a413c035bf08113b020ff798792f7db5">offsite</physloc>
-            <container id="aspace_dcb5e0d2facece145e5459b97a26cf30" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_045029aadba5cd62d896bacb0a5842c0" parent="aspace_dcb5e0d2facece145e5459b97a26cf30" type="Folder">8c.</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Trial documents, cont'd.</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_6ed654ddc5d5802e62226beeb15ad817">offsite</physloc>
-            <container id="aspace_6d261167daf1058dd8b8b47606b034e4" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_0dec7c3c33098c65a378c0e3ef0a1189" parent="aspace_6d261167daf1058dd8b8b47606b034e4" type="Folder">8d.</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Trial documents, cont'd.</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_65d3b6f35dbdf189f97256c07367ee07">offsite</physloc>
-            <container id="aspace_45e0d14d2b94de8870dc6e303094b989" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_68556b92fe7f5c4d6e587e60464408fe" parent="aspace_45e0d14d2b94de8870dc6e303094b989" type="Folder">8e.</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Trial documents, cont'd.</unittitle>
-            <unitid>31142040617196</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_e9ce3b75593d743b6d400ea4f4d7888e">offsite</physloc>
-            <container id="aspace_8438924a52cc67a3a8c202d45e936d1e" label="Mixed Materials [31142040617196]" type="Box">1</container>
-            <container id="aspace_1d05fb7f9315eab2b3699addd735283c" parent="aspace_8438924a52cc67a3a8c202d45e936d1e" type="Folder">8f.</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref42" level="series">
-        <did>
-          <unittitle>Series II: Mendez Garden and other Lower East Side garden controversies</unittitle>
-        </did>
-        <accessrestrict id="aspace_cc175ed83e85b4797c9938ffebad7444">
-          <head>Conditions Governing Access</head>
-          <p>Series II has been digitized and files are available to view by clicking on links. If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material while University Counsel looks into your claim. You can read more about our Take Down Policy</p>
-        </accessrestrict>
-        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Letters about uses of public space for gardens (some relating to legal case)</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_00cfcac98803ae3303a8c4d277599d1a">offsite</physloc>
-            <container id="aspace_9153a7c32a35e211b6cbf093bf1068d0" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_aae239fae6f450fd1825dfebea0b4b69" parent="aspace_9153a7c32a35e211b6cbf093bf1068d0" type="Folder">1</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/prr4xjk3" xlink:role="image-service" xlink:show="new" xlink:title="Letters about uses of public space for gardens (some relating to legal case)" xlink:type="simple">
-              <daodesc>
-                <p>Letters about uses of public space for gardens (some relating to legal case): undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Garden monographs &amp; zines</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_32b3e91ae87421f013c6e52d9584c80a">offsite</physloc>
-            <container id="aspace_784afa0c074809f2584532b5cf77a5df" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_9e978b9de53c6ff4c9ec5913062d1f7c" parent="aspace_784afa0c074809f2584532b5cf77a5df" type="Folder">2</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/k0p2nj37" xlink:role="image-service" xlink:show="new" xlink:title="Garden monographs &amp; zines" xlink:type="simple">
-              <daodesc>
-                <p>Garden monographs &amp; zines: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Photos &amp; slides: general</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_cfff5d8201db75bd87bf457c43b32df8">offsite</physloc>
-            <container id="aspace_8c4f9c6c0245d388d430f23cacbc0e26" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_dd6c7d38de908ef91ba96ec04b42d348" parent="aspace_8c4f9c6c0245d388d430f23cacbc0e26" type="Folder">3</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/f7m0chkw" xlink:role="image-service" xlink:show="new" xlink:title="Photos &amp; slides: general" xlink:type="simple">
-              <daodesc>
-                <p>Photos &amp; slides: general: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Garden maps &amp; government documents</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_c39b34cf9b10062925aeb7e3d49a3c33">offsite</physloc>
-            <container id="aspace_0318203586ca24a50aad32aecd82113c" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_208c107b093410b85f90fe867b9c96f0" parent="aspace_0318203586ca24a50aad32aecd82113c" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Press packets</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_986569e358b8dca926dae7964a58997c">offsite</physloc>
-            <container id="aspace_6d6a7f1962a7a87168f55f03fc7bf827" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_3b6004b519d47769dc7764fbf33bc898" parent="aspace_6d6a7f1962a7a87168f55f03fc7bf827" type="Folder">5</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/9ghx3h1d" xlink:role="image-service" xlink:show="new" xlink:title="Press packets" xlink:type="simple">
-              <daodesc>
-                <p>Press packets: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Press tearsheets</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_aaa0f4941b309bdd78f7e96fd49851c3">offsite</physloc>
-            <container id="aspace_2c820a940d071cf33a739f641003ddf3" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_340603130c693c5a01e13b545dbdb20d" parent="aspace_2c820a940d071cf33a739f641003ddf3" type="Folder">6</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/5qfttghx" xlink:role="image-service" xlink:show="new" xlink:title="Press tearsheets" xlink:type="simple">
-              <daodesc>
-                <p>Press tearsheets: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Press tearsheets cont'd.</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_181265741b5f3a0257d28069b5889d32">offsite</physloc>
-            <container id="aspace_f74340ef64fc7a28a1890eff21ee8794" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_9d613bbbc3f6aee22cca8df8b19ecb8c" parent="aspace_f74340ef64fc7a28a1890eff21ee8794" type="Folder">6a.</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/1zcrjg11" xlink:role="image-service" xlink:show="new" xlink:title="Press tearsheets cont'd." xlink:type="simple">
-              <daodesc>
-                <p>Press tearsheets cont'd.: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Flyers &amp; announcements</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_cf76570920c520bcf2b52ab45726b710">offsite</physloc>
-            <container id="aspace_711ae5a1a7397525145ad38a68ad1563" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_ab9493e7e0f930e929a3360c1cefd640" parent="aspace_711ae5a1a7397525145ad38a68ad1563" type="Folder">7</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/x69p8fq5" xlink:role="image-service" xlink:show="new" xlink:title="Flyers &amp; announcements" xlink:type="simple">
-              <daodesc>
-                <p>Flyers &amp; announcements: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Internet information</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_c132f960b1d52ec4fcfab60c9d2f24ab">offsite</physloc>
-            <container id="aspace_030851d1e960baa1253a4e3cfa721954" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_63f2c5a94e6a55f719e49a316ffe54a2" parent="aspace_030851d1e960baa1253a4e3cfa721954" type="Folder">8</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/sj3txbwh" xlink:role="image-service" xlink:show="new" xlink:title="Internet information" xlink:type="simple">
-              <daodesc>
-                <p>Internet information: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Materials previously contained in 3-ring binders (binder 1)-Binders contained articles, correspondence, flyers, photos, and other printed materials relating to the Mendez garden and other garden controversies; these materials have been kept in their original order.</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_7268e5b4a6c55dcbf9d31a2a17c438fa">offsite</physloc>
-            <container id="aspace_d2eefa1cf28f56aeb601e0a1f1546f40" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_ae39770e51b9b4beaddcb560b19d822f" parent="aspace_d2eefa1cf28f56aeb601e0a1f1546f40" type="Folder">9</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/ns1rnbdm" xlink:role="image-service" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 1)-Binders contained articles, correspondence, flyers, photos, and other printed materials relating to the Mendez garden and other garden controversies; these materials have been kept in their original order." xlink:type="simple">
-              <daodesc>
-                <p>Materials previously contained in 3-ring binders (binder 1)-Binders contained articles, correspondence, flyers, photos, and other printed materials relating to the Mendez garden and other garden controversies; these materials have been kept in their original order.: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Materials previously contained in 3-ring binders (binder 1 cont'd.)</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_6bae645eed10b702577098e3f1485ed4">offsite</physloc>
-            <container id="aspace_fb770cc460332523446a328c058d66c0" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_5a228483b1f8b0e6c86c48a425bddeb2" parent="aspace_fb770cc460332523446a328c058d66c0" type="Folder">9a.</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/j0zpc9w7" xlink:role="image-service" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 1 cont'd.)" xlink:type="simple">
-              <daodesc>
-                <p>Materials previously contained in 3-ring binders (binder 1 cont'd.): undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Materials previously contained in 3-ring binders (binder 1 cont'd.)</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_9090bc13ed01c4b0670f8b9470119d00">offsite</physloc>
-            <container id="aspace_5623d3ed114f55a568f3cf37285b77fe" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_3d9c68ad30c937d76e5006c3501574f9" parent="aspace_5623d3ed114f55a568f3cf37285b77fe" type="Folder">9b.</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/d7wm39bv" xlink:role="image-service" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 1 cont'd.)" xlink:type="simple">
-              <daodesc>
-                <p>Materials previously contained in 3-ring binders (binder 1 cont'd.): undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Materials previously contained in 3-ring binders (binder 2)</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_a51e4ccaf13b172569a7ab519a906398">offsite</physloc>
-            <container id="aspace_6db1043954d746d9e6f61b704b70c299" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_79b15e41321752eaf775630477911735" parent="aspace_6db1043954d746d9e6f61b704b70c299" type="Folder">9c.</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/8gtht8tc" xlink:role="image-service" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 2)" xlink:type="simple">
-              <daodesc>
-                <p>Materials previously contained in 3-ring binders (binder 2): undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Materials previously contained in 3-ring binders (binder 2 cont'd.)</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_a5fd3c98ed7b2f93753e39cb0d21ff10">offsite</physloc>
-            <container id="aspace_d83ed14720d0d8cac64228e39b4c59d0" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_8ed89800e7f7986e66e48157fbc4a10c" parent="aspace_d83ed14720d0d8cac64228e39b4c59d0" type="Folder">9d.</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/4qrfj897" xlink:role="image-service" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 2 cont'd.)" xlink:type="simple">
-              <daodesc>
-                <p>Materials previously contained in 3-ring binders (binder 2 cont'd.): undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Printed ephemera</unittitle>
-            <unitid>31142040617204</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <physloc id="aspace_71f8edc976a9ea59a36101a96842f9c9">offsite</physloc>
-            <container id="aspace_57040f16cbe39416188fa76330246e9e" label="Mixed Materials [31142040617204]" type="Box">2</container>
-            <container id="aspace_55409975a96ed3da913207a90fa29a33" parent="aspace_57040f16cbe39416188fa76330246e9e" type="Folder">10</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/0zpc87t4" xlink:role="image-service" xlink:show="new" xlink:title="Printed ephemera" xlink:type="simple">
-              <daodesc>
-                <p>Printed ephemera: undated</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Newspapers re: N.Y.C.</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_3db6a6aa8c3fd3708f3295766e14d0ab" label="Mixed Materials [31142063397973]" type="Box">3 (flat) </container>
-            <container id="aspace_381936d6fcbe35dd887f2afc95db755f" parent="aspace_3db6a6aa8c3fd3708f3295766e14d0ab" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Posters</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4502dc74838327ffa817abcf877a8ff8" label="Mixed Materials [31142063397973]" type="Box">3 (flat) </container>
-            <container id="aspace_d75b8c2cb03a5702e03923f96c192b43" parent="aspace_4502dc74838327ffa817abcf877a8ff8" type="Folder">12</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref77" level="series">
-        <did>
-          <unittitle>2008 Accretion</unittitle>
-        </did>
-        <c id="aspace_ref78" level="file">
-          <did>
-            <unittitle>Community gardens </unittitle>
-            <unitdate datechar="creation">1997-2000</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_88c76acbf1a1fe9ccfbfc0dff992aa30" label="Mixed Materials [31142063600376]" type="Box">3</container>
-            <container id="aspace_bebdff7667b18acd2229d11192553400" parent="aspace_88c76acbf1a1fe9ccfbfc0dff992aa30" type="Folder">1</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/w9ghx55x" xlink:role="image-service" xlink:show="new" xlink:title="Community gardens " xlink:type="simple">
-              <daodesc>
-                <p>Community gardens : 1997-2000</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref79" level="file">
-          <did>
-            <unittitle>Community gardens</unittitle>
-            <unitdate datechar="creation">1999-2000</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_732503f59b263abe3500cd0deb170eaf" label="Mixed Materials [31142063600376]" type="Box">3</container>
-            <container id="aspace_5cf42fedafab2f9eacaae359736b7544" parent="aspace_732503f59b263abe3500cd0deb170eaf" type="Folder">2</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/rjdfn4pt" xlink:role="image-service" xlink:show="new" xlink:title="Community gardens" xlink:type="simple">
-              <daodesc>
-                <p>Community gardens: 1999-2000</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref80" level="file">
-          <did>
-            <unittitle>Community gardens</unittitle>
-            <unitdate datechar="creation">1999-2000</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5efd297994a4e1e35fbaf3662559741d" label="Mixed Materials [31142063600376]" type="Box">3</container>
-            <container id="aspace_abffe05fdfefbe495ef8d67b558dd0a7" parent="aspace_5efd297994a4e1e35fbaf3662559741d" type="Folder">3</container>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/msbcc45p" xlink:role="image-service" xlink:show="new" xlink:title="Community gardens" xlink:type="simple">
-              <daodesc>
-                <p>Community gardens: 1999-2000</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref81" level="file">
-          <did>
-            <unittitle>Community gardens</unittitle>
-            <unitdate datechar="creation">1999-2000</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d7655687f26fb44499269812859af15f" label="Mixed Materials [31142063600376]" type="Box">3</container>
-            <container id="aspace_fb2d279cd6e61836d02ab7affc26111f" parent="aspace_d7655687f26fb44499269812859af15f" type="Folder">4</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_100">mss_100</eadid><filedesc><titlestmt><titleproper>Guide to the Mendez Mural Community Garden Archive <num>MSS.100</num></titleproper><author>Marvin Taylor/Alyssa Shirley in May 2000. Accretion processed by Luke Martin, 2009.</author></titlestmt><editionstmt><p>Mendez Mural Community Garden Finding Aid.doc</p></editionstmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2000</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 11:11:32 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Mendez Mural Community Garden Archive</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" rules="dacs" source="naf">Wright, Jeffery C. (Jeffrey Cyphers)</persname>
+    </origination>
+    <unitid>MSS.100</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      <extent altrender="carrier">in 4 boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate>
+    <abstract id="aspace_4ca673071c306c96d251c8337994c594" label="Abstract">The East Village's Mendez Mural Community Garden grew outside of city support but became a fixture in the community and was widely utilized. In 1997, the city decided to sell the land to real-estate developers creating a community uproar and protest. On New Years Eve, 1997 the land was bulldozed for condominiums. The collection documents the struggle to save the garden.</abstract>
+    <langmaterial id="aspace_e88cace63759fafdb8b43dec755ce216">Materials are in English.</langmaterial>
+  </did>
+  <custodhist id="aspace_53b963dc761a878c50c4b7b0823faca3">
+    <head>Provenance</head>
+<p>The Mendez Mural Community Garden Archive was a gift of Jeff Wright, given to Fales Library in May 2000.</p>  </custodhist>
+  <accessrestrict id="aspace_da98781c4bdb5e10f6a83809f548831a">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Series II and 2008 Accretion have been digitized, and files are available to view by clicking on links in this finding aid - please click on Series II on the sidebar to see the links. If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material while University Counsel looks into your claim. You can read more about our Take Down Policy here. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <userestrict id="aspace_c07cb816ec1a036b35818d11d9fa4a3a">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <prefercite id="aspace_23edf4150d1639b81e68a7875a1d7469">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form:<lb/><lb/>Identification of item, date (if known); Mendez Mural Community Garden Collection; MSS 100; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address>, New York University Libraries.</p>  </prefercite>
+  <bioghist id="aspace_8807ffab334379c75a1ee69c49307b0c">
+    <head>Historical Note</head>
+<p>The East Village's Mendez Mural Community Garden(11th Street between Avenues A and B), which had been a vacant lot since the early 1970's, was brought into existence in the early 1990's partly through the work of sculptor, Ken Hiratsuka, and muralist, 'Chico' who brought trees, plants and art to the space. The park grew outside of city support in a neighborhood that had suffered in previous years from drug-crime and violence. It became a fixture in the community and was widely utilized. In 1997, the city exercised their claim of ownership on the land, and when then Mayor Guiliani decided to sell the land to real-estate developers, a community uproar and protest followed. In the end, the bid to save the garden was unsuccessful, and on New Years Eve, 1997 the land was bulldozed for condominiums.</p>  </bioghist>
+  <scopecontent id="aspace_fea5cf3ef20eea62aeb914b1548d5e3e">
+    <head>Scope and Contents</head>
+<p>The Mendez Mural Community Garden Archive  documents the lawsuit brought by several artists involved in the creation of the Mendez Mural Garden against the Partnership Housing Development Fund Company, Inc. of the City of New York. It also contains articles, correspondence, 'zines, photos, maps, flyers, and posters relating to the Mendez controversy and other battles over garden space on the Lower East Side, dating from 1996 through 2000.</p><p><emph render="bold">SERIES DESCRIPTION</emph> </p><p><emph render="bold">Series 1: Legal Materials:</emph> contains one box of materials relating to the legal case over the Mendez Mural Community Garden, including legal documents and supporting materials such as petitions, photos, and letters of support from the community.</p><p><emph render="bold">Series 2: Materials relating to Mendez Garden and other Lower East Side garden controversies:</emph> contains articles, correspondence, zines, photos, maps, flyers and posters relating to the Mendez controversy and other battles over garden space on the Lower East Side, dating from 1996 through 2000. Folders 9-9d contain miscellaneous materials removed from their original non-archival 3-ring binders; they have been stored in their original order.</p><p><emph render="bold">Accretions 2008:</emph> includes material related to Jeffrey Wright's community garden activism from 1997-2000. The bulk of material pertains to the activity and events of the 11th Street Garden (Chico West). Photographs, legal documents, press clippings, and other records are contained within this accretion. </p>  </scopecontent>
+  <arrangement id="aspace_1f340b8c00771d918883e6de7f208a28">
+    <head>Arrangement</head>
+<p>Materials are organized by subject and document type.</p><p>The files are grouped into two series.</p>    <list numeration="arabic" type="ordered">
+      <item>Series I: Legal Materials</item>
+      <item>Series II: Mendez Garden and Other Lower East Side Garden Controversies</item>
+    </list>
+  </arrangement>
+  <separatedmaterial id="aspace_67dfd8907f5758162d733fcb9b9d2317">
+    <head>Separated Material</head>
+<p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>  </separatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Petitions.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <subject source="lcsh">Urban renewal -- Citizen participation.</subject>
+    <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
+    <subject source="lcsh">Vacant lands.</subject>
+    <geogname source="local">Mendez Mural Community Garden (New York, N.Y.)</geogname>
+    <subject source="lcsh">Community development, Urban</subject>
+    <genreform source="aat">Briefs (legal documents)</genreform>
+    <subject source="lcsh">Community gardens |z New York (State) |z New York.</subject>
+    <genreform source="aat">Fliers (printed matter)</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <persname source="naf">Chico</persname>
+    <persname source="local">Hiratsuka, Ken</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Legal Materials</unittitle></did><c id="aspace_ref12" level="otherlevel" otherlevel="unspecified"><did><unittitle>Form letters sent</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_bf9b36669382f33dcecfadfa30b2b751">offsite</physloc><container id="aspace_785deddbbc072c30d5a11b26d327ef4f" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_17e4b6071d70a34c289215082c26fdaf" parent="aspace_785deddbbc072c30d5a11b26d327ef4f" type="Folder">1</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Form letters sent, have ribbons</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_88d56a43ec98beec638d4fd4aedc2da9">offsite</physloc><container id="aspace_6cf51478cb1f094ed04c1dd279be7dd4" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_6b535fdc73f819300a934011fec9ffef" parent="aspace_6cf51478cb1f094ed04c1dd279be7dd4" type="Folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Original letters, ribbons done</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_df45aac0706fc3c91fa31ea9d8649f6b">offsite</physloc><container id="aspace_a25d9242beb8aab3ba2a71c8387f85c9" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_772f3a504d523163eb6c388c9775b414" parent="aspace_a25d9242beb8aab3ba2a71c8387f85c9" type="Folder">3</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Copies of postcard backs</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_600c247c3b371c3b2b88af4d86650e64">offsite</physloc><container id="aspace_ce68455f1ed304c05b5c5a81721593cf" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_fbceaf6a5b584cafa575109fe5a8022e" parent="aspace_ce68455f1ed304c05b5c5a81721593cf" type="Folder">4</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Copies of postcard backs, cont'd.</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_6bfdc9c13df181f57115bf59e9ec316d">offsite</physloc><container id="aspace_75cda730df2db4882f6d96fffe20d999" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_baf2fcf6b6b30f5051c110e4e51a97fa" parent="aspace_75cda730df2db4882f6d96fffe20d999" type="Folder">4a.</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Petitions</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_4d463645fee9b617215455455a541511">offsite</physloc><container id="aspace_0dfbc8d43cf8db75168ec8f36c9384df" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_164366d73af4d7a71db14d8b3daa2443" parent="aspace_0dfbc8d43cf8db75168ec8f36c9384df" type="Folder">5</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal statements, info re: Mendez Garden</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_4c3e1e1b1616d1743abcede82d2972e6">offsite</physloc><container id="aspace_7ffe3f577054934bc6e8d3ac9d8bf1a3" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_71b6c8a0efb8afba539e7f8f77b1ba5d" parent="aspace_7ffe3f577054934bc6e8d3ac9d8bf1a3" type="Folder">6</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal photos</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_928c8917814510e6d6bd9df0ca20f649">offsite</physloc><container id="aspace_388b92f67908c7c5f7063a878f17f4c3" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_2d0c4e766c395e96ed7d57618ff9e708" parent="aspace_388b92f67908c7c5f7063a878f17f4c3" type="Folder">7</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Trial documents</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_de0fda8c1dff7228feec33f8756a1f5c">offsite</physloc><container id="aspace_0b9a973396543ff833092985ba5e0b59" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_ea114641d2e295e57b093cf7ea7e25ba" parent="aspace_0b9a973396543ff833092985ba5e0b59" type="Folder">8</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>Trial documents, cont'd.</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_b0be13d1b3c0bba6dc65f5c1ab5ae6ff">offsite</physloc><container id="aspace_0f4b7adcd88ead8774a11f9b86c5f428" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_897e875c57285ef653e48396c5ca440e" parent="aspace_0f4b7adcd88ead8774a11f9b86c5f428" type="Folder">8a.</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Trial documents, cont'd.</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_e9cb5249fec6a11bbddc8ae4fb98256b">offsite</physloc><container id="aspace_d551b42976dddb64f495204f3e474965" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_2feebf4c7b4123aa275a0a8655d41967" parent="aspace_d551b42976dddb64f495204f3e474965" type="Folder">8b.</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Trial documents, cont'd.</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_a413c035bf08113b020ff798792f7db5">offsite</physloc><container id="aspace_af2990235a57c2de31abc6cc49a1c0bc" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_430efdc0fd0252ca18985ea3c88e4f66" parent="aspace_af2990235a57c2de31abc6cc49a1c0bc" type="Folder">8c.</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Trial documents, cont'd.</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_6ed654ddc5d5802e62226beeb15ad817">offsite</physloc><container id="aspace_5fa854f35795d6870ea31e1aec8bed1e" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_34d4615d7014160e4a87e7fe9ee43213" parent="aspace_5fa854f35795d6870ea31e1aec8bed1e" type="Folder">8d.</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Trial documents, cont'd.</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_65d3b6f35dbdf189f97256c07367ee07">offsite</physloc><container id="aspace_5280712ec8d6740072db9ba2ebd340c8" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_2e943b4d5af9f1f98eeb1711eeeefffb" parent="aspace_5280712ec8d6740072db9ba2ebd340c8" type="Folder">8e.</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Trial documents, cont'd.</unittitle><unitid>31142040617196</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_e9ce3b75593d743b6d400ea4f4d7888e">offsite</physloc><container id="aspace_5d9a6b8f5deb02b0c5d17ac49e345452" label="Mixed Materials [31142040617196]" type="Box">1</container><container id="aspace_7e6487ee7b5a6532420d9b37cf65c89d" parent="aspace_5d9a6b8f5deb02b0c5d17ac49e345452" type="Folder">8f.</container></did></c></c><c id="aspace_ref42" level="series"><did><unittitle>Series II: Mendez Garden and other Lower East Side garden controversies</unittitle></did><accessrestrict id="aspace_cc175ed83e85b4797c9938ffebad7444"><head>Conditions Governing Access</head><p>Series II has been digitized and files are available to view by clicking on links. If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material while University Counsel looks into your claim. You can read more about our Take Down Policy</p></accessrestrict><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters about uses of public space for gardens (some relating to legal case)</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_00cfcac98803ae3303a8c4d277599d1a">offsite</physloc><container id="aspace_0b5fe007e1c2cd9494ba0b2400e3866c" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_62f21274f5cde36d5cf79ece7da7cfdf" parent="aspace_0b5fe007e1c2cd9494ba0b2400e3866c" type="Folder">1</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref43.1" xlink:show="new" xlink:title="Letters about uses of public space for gardens (some relating to legal case)" xlink:type="simple"><daodesc><p>Letters about uses of public space for gardens (some relating to legal case): undated</p></daodesc></dao></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Garden monographs &amp; zines</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_32b3e91ae87421f013c6e52d9584c80a">offsite</physloc><container id="aspace_d800ab016675714084f7ead435e1a7ed" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_04a105fb6a09524a1d55d8db1aae9553" parent="aspace_d800ab016675714084f7ead435e1a7ed" type="Folder">2</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref45.1" xlink:show="new" xlink:title="Garden monographs &amp; zines" xlink:type="simple"><daodesc><p>Garden monographs &amp; zines: undated</p></daodesc></dao></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photos &amp; slides: general</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_cfff5d8201db75bd87bf457c43b32df8">offsite</physloc><container id="aspace_2b3aaab4198bd61f0ed5494e60baeb74" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_987d7f1092e08a539a622a3a7e4e961a" parent="aspace_2b3aaab4198bd61f0ed5494e60baeb74" type="Folder">3</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref47.1" xlink:show="new" xlink:title="Photos &amp; slides: general" xlink:type="simple"><daodesc><p>Photos &amp; slides: general: undated</p></daodesc></dao></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Garden maps &amp; government documents</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_c39b34cf9b10062925aeb7e3d49a3c33">offsite</physloc><container id="aspace_9fd3221110b0489d02171f4deaa3a8aa" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_1d29405fbae9eafc3fffd76ecb6f99e8" parent="aspace_9fd3221110b0489d02171f4deaa3a8aa" type="Folder">4</container></did></c><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>Press packets</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_986569e358b8dca926dae7964a58997c">offsite</physloc><container id="aspace_89f5b0c78898e1e5fc14a39f169be1d8" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_b9b048fbe830bed8c4b828e309c13c10" parent="aspace_89f5b0c78898e1e5fc14a39f169be1d8" type="Folder">5</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref51.1" xlink:show="new" xlink:title="Press packets" xlink:type="simple"><daodesc><p>Press packets: undated</p></daodesc></dao></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>Press tearsheets</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_aaa0f4941b309bdd78f7e96fd49851c3">offsite</physloc><container id="aspace_a7ac6dca8d9b5b1e9d838fd8a9137dbb" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_1a2511ade2845e3c344c1dddc39cd8c5" parent="aspace_a7ac6dca8d9b5b1e9d838fd8a9137dbb" type="Folder">6</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref53.1" xlink:show="new" xlink:title="Press tearsheets" xlink:type="simple"><daodesc><p>Press tearsheets: undated</p></daodesc></dao></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>Press tearsheets cont'd.</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_181265741b5f3a0257d28069b5889d32">offsite</physloc><container id="aspace_dcf64c4b130de803a48c5c798415eae4" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_8543ae6e2d6ab7d163c40e831b7c2184" parent="aspace_dcf64c4b130de803a48c5c798415eae4" type="Folder">6a.</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref55.1" xlink:show="new" xlink:title="Press tearsheets cont'd." xlink:type="simple"><daodesc><p>Press tearsheets cont'd.: undated</p></daodesc></dao></did></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Flyers &amp; announcements</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_cf76570920c520bcf2b52ab45726b710">offsite</physloc><container id="aspace_2f9c5f6c48fbf2e1874217135b019cfe" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_d6def5291dc899ced3bd253378c61b70" parent="aspace_2f9c5f6c48fbf2e1874217135b019cfe" type="Folder">7</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref57.1" xlink:show="new" xlink:title="Flyers &amp; announcements" xlink:type="simple"><daodesc><p>Flyers &amp; announcements: undated</p></daodesc></dao></did></c><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>Internet information</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_c132f960b1d52ec4fcfab60c9d2f24ab">offsite</physloc><container id="aspace_6172fedcfef2f3490b79ad4b44d67c41" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_7cea0ad178ebbff99b890064c464eaf7" parent="aspace_6172fedcfef2f3490b79ad4b44d67c41" type="Folder">8</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref59.1" xlink:show="new" xlink:title="Internet information" xlink:type="simple"><daodesc><p>Internet information: undated</p></daodesc></dao></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>Materials previously contained in 3-ring binders (binder 1)-Binders contained articles, correspondence, flyers, photos, and other printed materials relating to the Mendez garden and other garden controversies; these materials have been kept in their original order.</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_7268e5b4a6c55dcbf9d31a2a17c438fa">offsite</physloc><container id="aspace_ab2c3e61755e8f2e1fed1b01ea696e8a" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_aa955a8201ed535528d833e541e2876a" parent="aspace_ab2c3e61755e8f2e1fed1b01ea696e8a" type="Folder">9</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref61.1" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 1)-Binders contained articles, correspondence, flyers, photos, and other printed materials relating to the Mendez garden and other garden controversies; these materials have been kept in their original order." xlink:type="simple"><daodesc><p>Materials previously contained in 3-ring binders (binder 1)-Binders contained articles, correspondence, flyers, photos, and other printed materials relating to the Mendez garden and other garden controversies; these materials have been kept in their original order.: undated</p></daodesc></dao></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>Materials previously contained in 3-ring binders (binder 1 cont'd.)</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_6bae645eed10b702577098e3f1485ed4">offsite</physloc><container id="aspace_0757f2d50cb8cd13bb7e90b3983b6757" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_ace30b00f641e6c51bb15b5fe9525eaf" parent="aspace_0757f2d50cb8cd13bb7e90b3983b6757" type="Folder">9a.</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref63.1" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 1 cont'd.)" xlink:type="simple"><daodesc><p>Materials previously contained in 3-ring binders (binder 1 cont'd.): undated</p></daodesc></dao></did></c><c id="aspace_ref65" level="otherlevel" otherlevel="unspecified"><did><unittitle>Materials previously contained in 3-ring binders (binder 1 cont'd.)</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_9090bc13ed01c4b0670f8b9470119d00">offsite</physloc><container id="aspace_0f7371b38204bf1dd2fe3c56fa17725e" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_45461b12ea31f4ea9333b021d748e071" parent="aspace_0f7371b38204bf1dd2fe3c56fa17725e" type="Folder">9b.</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref65.1" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 1 cont'd.)" xlink:type="simple"><daodesc><p>Materials previously contained in 3-ring binders (binder 1 cont'd.): undated</p></daodesc></dao></did></c><c id="aspace_ref67" level="otherlevel" otherlevel="unspecified"><did><unittitle>Materials previously contained in 3-ring binders (binder 2)</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_a51e4ccaf13b172569a7ab519a906398">offsite</physloc><container id="aspace_5cf711c28591b6c28147a0a7f4bb5cec" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_30d47bee98c031616cb90f1d1c3904bd" parent="aspace_5cf711c28591b6c28147a0a7f4bb5cec" type="Folder">9c.</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref67.1" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 2)" xlink:type="simple"><daodesc><p>Materials previously contained in 3-ring binders (binder 2): undated</p></daodesc></dao></did></c><c id="aspace_ref69" level="otherlevel" otherlevel="unspecified"><did><unittitle>Materials previously contained in 3-ring binders (binder 2 cont'd.)</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_a5fd3c98ed7b2f93753e39cb0d21ff10">offsite</physloc><container id="aspace_a4a95d0c33b30d75ce6be159033396bc" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_f63370784739b0a65c318f682b20f72e" parent="aspace_a4a95d0c33b30d75ce6be159033396bc" type="Folder">9d.</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref69.1" xlink:show="new" xlink:title="Materials previously contained in 3-ring binders (binder 2 cont'd.)" xlink:type="simple"><daodesc><p>Materials previously contained in 3-ring binders (binder 2 cont'd.): undated</p></daodesc></dao></did></c><c id="aspace_ref71" level="otherlevel" otherlevel="unspecified"><did><unittitle>Printed ephemera</unittitle><unitid>31142040617204</unitid><unitdate datechar="creation">undated</unitdate><physloc id="aspace_71f8edc976a9ea59a36101a96842f9c9">offsite</physloc><container id="aspace_f7ec6ba3d919447ed42e150c0c3e737a" label="Mixed Materials [31142040617204]" type="Box">2</container><container id="aspace_566ab6a6e5494d0f3969814bf8b08803" parent="aspace_f7ec6ba3d919447ed42e150c0c3e737a" type="Folder">10</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref71.1" xlink:show="new" xlink:title="Printed ephemera" xlink:type="simple"><daodesc><p>Printed ephemera: undated</p></daodesc></dao></did></c><c id="aspace_ref73" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspapers re: N.Y.C.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_774ab9633616988a0d954782fa006c68" label="Mixed Materials [31142063397973]" type="Box">3 (flat) </container><container id="aspace_ad20a8d0eaf64ea7a993f2f77c84a157" parent="aspace_774ab9633616988a0d954782fa006c68" type="Folder">11</container></did></c><c id="aspace_ref74" level="otherlevel" otherlevel="unspecified"><did><unittitle>Posters</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_2fc52bbf5d99e929351e234a4bed6826" label="Mixed Materials [31142063397973]" type="Box">3 (flat) </container><container id="aspace_fbb663073d82ca4bde3cd1e5ad798d1d" parent="aspace_2fc52bbf5d99e929351e234a4bed6826" type="Folder">12</container></did></c></c><c id="aspace_ref77" level="series"><did><unittitle>2008 Accretion</unittitle></did><c id="aspace_ref78" level="file"><did><unittitle>Community gardens </unittitle><unitdate datechar="creation">1997-2000</unitdate><container altrender="Manuscript box - Legal" id="aspace_50a626733a17902cbe26b57109b013a2" label="Mixed Materials [31142063600376]" type="Box">3</container><container id="aspace_e6ff69b1818a024d57257e94503ab04e" parent="aspace_50a626733a17902cbe26b57109b013a2" type="Folder">1</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref78.1" xlink:show="new" xlink:title="Community gardens " xlink:type="simple"><daodesc><p>Community gardens : 1997-2000</p></daodesc></dao></did></c><c id="aspace_ref79" level="file"><did><unittitle>Community gardens</unittitle><unitdate datechar="creation">1999-2000</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd2235b2335281e23e9f53db97f337b6" label="Mixed Materials [31142063600376]" type="Box">3</container><container id="aspace_22069eea68770f3a3b644bae9064f799" parent="aspace_fd2235b2335281e23e9f53db97f337b6" type="Folder">2</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref79.1" xlink:show="new" xlink:title="Community gardens" xlink:type="simple"><daodesc><p>Community gardens: 1999-2000</p></daodesc></dao></did></c><c id="aspace_ref80" level="file"><did><unittitle>Community gardens</unittitle><unitdate datechar="creation">1999-2000</unitdate><container altrender="Manuscript box - Legal" id="aspace_8fa4bff0ff450ec0466acdf76b26fc30" label="Mixed Materials [31142063600376]" type="Box">3</container><container id="aspace_5f7a7d0af559b70679041c6b6a6e500a" parent="aspace_8fa4bff0ff450ec0466acdf76b26fc30" type="Folder">3</container><dao xlink:actuate="onRequest" xlink:href="MSS 100.ref80.1" xlink:show="new" xlink:title="Community gardens" xlink:type="simple"><daodesc><p>Community gardens: 1999-2000</p></daodesc></dao></did></c><c id="aspace_ref81" level="file"><did><unittitle>Community gardens</unittitle><unitdate datechar="creation">1999-2000</unitdate><container altrender="Manuscript box - Legal" id="aspace_86350133e3a6177426adc1d55a4dffc8" label="Mixed Materials [31142063600376]" type="Box">3</container><container id="aspace_2142ffbc707e26762399530472068953" parent="aspace_86350133e3a6177426adc1d55a4dffc8" type="Folder">4</container></did></c></c></dsc>
+</archdesc>
 </ead>

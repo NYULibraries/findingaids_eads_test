@@ -1,263 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_198/">tam_198</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Preliminary Inventory to the Nora Roberts Papers <num>TAM.198</num></titleproper>
-        <author>Tamiment staff</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>12/22/2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:34:35 -0500</date>.</creation>
-      <langusage>Description is in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Nora Roberts Papers</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Roberts, Nora Ruth</persname>
-      </origination>
-      <unitid>TAM.198</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1950/1999" type="inclusive">circa 1950s-1990s</unitdate>
-      <abstract id="aspace_30f53a99dd88c50e74788de413001a68">Nora Ruth Roberts (b. ca. 1941) is an author of works on radical women writers, including Meridel Le Sueur, writings on gender, and several novels and short stories, some autobiographical in nature. She grew up as a Trotskyist and was a member of the Socialist Workers Party's affiliated youth organization, the Young Socialist Alliance. The collection contains typescripts of her fiction and non-fiction writings, poetry, reviews, a few letters, YSA internal documents, an anonymous book length typescript, "A Study of Capital," an autobiographical typescript by the late Trotskyist Daniel Rosenshine [1946-1993/4], and a small file on Eugene Dennett, a Seattle worker called before HUAC (House Un-American Activities Committee).</abstract>
-      <langmaterial id="aspace_23e97c25bfb1fc0f1d4f658d2aea63b0">Materials are in English</langmaterial>
-    </did>
-    <accessrestrict id="aspace_b49077e73eced18fabd1a21d6ef8dab8">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_c76be793ba0cb76cdfb6bad7e19edb68">
-      <head>Immediate Source of Acquisition</head>
-      <p>Materials found in repository; provenance is unknown. The accession number related to this collection is 1950.121.</p>
-    </acqinfo>
-    <arrangement id="aspace_c03ae1957c0b0e19b77d3578958bc590">
-      <head>Arrangement</head>
-      <p>Arranged alphabetically.</p>
-    </arrangement>
-    <bioghist id="aspace_3788d5661318f66ac14fdff662fe3080">
-      <head>Historical/Biographical Note</head>
-      <p>Nora Ruth Roberts (b. ca. 1941) is an author of works on radical women writers, including Meridel Le Sueur, writings on gender, and several novels and short stories, some autobiographical in nature, describing Roberts' Trotskyist upbringing (her parents were members of the Socialist Workers Party) and her activity in the Young Socialist Alliance (founded in 1960), which was affiliated with the SWP.</p>
-    </bioghist>
-    <prefercite id="aspace_a6200cb758ea007a176cf8943eaaa892">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Nora Roberts Papers; TAM 198; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <scopecontent id="aspace_331367d974f18adfbd3b549945de5a8f">
-      <head>Scope and Content Note</head>
-      <p>The collection contains typescripts of some of her unpublished and published fiction and non-fiction writings, poems, reviews, a few letters, internal documents from the Young Socialist Alliance, an anonymous book length typescript for the Trotsky School (SWP New York City Branch), titled "A Study of Capital," another anonymous typescript "Formal Logic and Dialectics," and a typescript on dialectical materialism by Roberts. Some of the fiction is autobiographical, focusing on Roberts' growing up in her particular radical milieu. The non-fiction writings are about women authors, including Meridel Le Sueur, and gender issues. There is also an autobiographical typescript by the late Trotskyist Daniel Rosenshine [1946-1993/4], who had been a member of the SWP and the YSA, and a small file on Eugene Dennett, a Seattle worker called before HUAC (the House Un-American Activities Committee of the U.S. Congress).</p>
-    </scopecontent>
-    <userestrict id="aspace_2401b75d77bd0fd49e3e10d6df204b83">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Nora Roberts was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Socialism and youth -- United States.</subject>
-      <genreform source="aat">Typescripts</genreform>
-      <subject source="lcsh">American literature |x Women authors.</subject>
-      <subject source="lcsh">Authors, American.</subject>
-      <subject source="local">Trotskyism -- United States.</subject>
-      <subject source="lcsh">Working class in literature.</subject>
-      <genreform source="aat">Autobiographies.</genreform>
-      <subject source="lcsh">Feminists -- United States.</subject>
-      <subject source="local">Trotskyists |z United States |v Fiction.</subject>
-      <subject source="local">Trotskyists  -- United States.</subject>
-      <subject source="lcsh">Women authors, American.</subject>
-      <corpname source="naf">Young Socialist Alliance (U.S.)</corpname>
-      <corpname source="naf">Socialist Workers Party</corpname>
-      <persname source="local">Dennett, Eugene</persname>
-      <persname source="naf">Le Sueur, Meridel</persname>
-      <corpname source="local">Trotsky School (Socialist Workers Party. New York City Branch)</corpname>
-      <persname source="naf">Marx, Karl, 1818-1883</persname>
-      <persname source="local">Rosenshine, Daniel, 1946-1993</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_198">tam_198</eadid><filedesc><titlestmt><titleproper>Preliminary Inventory to the Nora Roberts Papers <num>TAM.198</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/22/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:07:27 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Nora Roberts Papers</unittitle>
+    <origination label="Creator">
       <persname source="naf">Roberts, Nora Ruth</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>Autobiographical Typescripts</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ccbfc3e2df0dd94a274b53c4cbb22033" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_0db85d24375483f138989a040bfa6817" parent="aspace_ccbfc3e2df0dd94a274b53c4cbb22033" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_699820d1ea4be5c763c4baec1d4d471f" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_891ad119d4509a913609a4c4b3f1c5b1" parent="aspace_699820d1ea4be5c763c4baec1d4d471f" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Dennett, Eugene</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_93562ece6abb3cb22fb05d28e219aab9" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_bd401dcba88a67864e889be3e8a3f5d3" parent="aspace_93562ece6abb3cb22fb05d28e219aab9" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>Fiction: Published Stories</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a41267cdd38d13e486692c8299adf924" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_9b15af050c66c9ae79c0d046f8a6fb28" parent="aspace_a41267cdd38d13e486692c8299adf924" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Fiction Typescript: <emph render="doublequote">A Fable for Chiam</emph></unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f0c9cae7533ce8c22deec8b0fc2e4f39" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_48e7c05039d49d0361860b1068b9d8aa" parent="aspace_f0c9cae7533ce8c22deec8b0fc2e4f39" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Fiction Typescript: <emph render="italic">Green Pebbles under Glass: A Collection of Short Stories</emph></unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_ddce516acbdd4d2725172ee104b0b65c" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_7f4d85eb650ef5b7d30cb323331f1528" parent="aspace_ddce516acbdd4d2725172ee104b0b65c" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Fiction Typescript: <emph render="doublequote">Guide to the Eclipse</emph></unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_dbb5a5ec50e4416f709b3d54a9eab6c1" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_c1b133e7902d121476683602eeedbca0" parent="aspace_dbb5a5ec50e4416f709b3d54a9eab6c1" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>Fiction Typescript: <emph render="doublequote">In Search of Chaim Zhlitlovsky</emph> (by Nora R. Wainer)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_acb8779028ecb0df84c2f460f9a4a697" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_20bf61c453ff393e77bd23d142e7c3cd" parent="aspace_acb8779028ecb0df84c2f460f9a4a697" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>Fiction Typescript: <emph render="italic">Red Skies in the Morning: Sample Chapters</emph> (by Nora R. Wainer)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_1fd27fdd8fe6842cf59e8640ba2c5695" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_8674c0cf00d2084e0d5493780d541100" parent="aspace_1fd27fdd8fe6842cf59e8640ba2c5695" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Fiction Typescript: <emph render="doublequote">The Story of Caleb</emph></unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_365760095892bca5cb0d8f1840344b04" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_6860cb8ce2bca623bef44610978a4781" parent="aspace_365760095892bca5cb0d8f1840344b04" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Formal Logic And Dialectics: Lectures I (73 pp.)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5a9a650541b34c6c625acc64565d717a" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_8a166c73636e48349cd2d2f779576182" parent="aspace_5a9a650541b34c6c625acc64565d717a" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>Marx's Methodology--Dialectical Materialism: An Aid to the Study of Marx's <emph render="italic">Capital</emph> (by Nora RobertsP</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_36e2946214224f167dcbb84160ff074a" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_d7a62332d33fb0fe07599e8c92ebf0cc" parent="aspace_36e2946214224f167dcbb84160ff074a" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref34" level="file">
-        <did>
-          <unittitle>Non-Fiction Typescripts re: Women Authors, Gender, etc.</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b5b559bdcf820a4b6a2dc15be59353b1" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_4c709401af926e54655b4326bc91e176" parent="aspace_b5b559bdcf820a4b6a2dc15be59353b1" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>Poetry</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f9f54b5c644d3fce1bba5172dbcfb304" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_4bf7b3096c4ca4baafa7cf7033047b05" parent="aspace_f9f54b5c644d3fce1bba5172dbcfb304" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_ref36" level="file">
-        <did>
-          <unittitle>Reviews</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_470e62089eef407483b2e92365c43dd7" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_7bad52f78b854d63bdc930aaf0a53d9c" parent="aspace_470e62089eef407483b2e92365c43dd7" type="Folder">15</container>
-          <container altrender="Manuscript box - Legal" id="aspace_84094fe38f1cfb8b72ca521273ac9400" label="Mixed Materials [31142062765899]" type="Box">1</container>
-          <container id="aspace_245aff6b9b1615e220b9c188408d5108" parent="aspace_84094fe38f1cfb8b72ca521273ac9400" type="Folder">25</container>
-        </did>
-      </c>
-      <c id="aspace_ref37" level="file">
-        <did>
-          <unittitle>Rosenshine, Danial [1946-1993/4]: Autobiographical Typescript</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_b96ce06e0f8771c90f4168827534dba5" label="Mixed Materials [31142062765907]" type="Box">2</container>
-          <container id="aspace_95cbe5e35d523540a92baf964ec012db" parent="aspace_b96ce06e0f8771c90f4168827534dba5" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref38" level="file">
-        <did>
-          <unittitle>A Study of <emph render="italic">Capital</emph> [by L.K.?] for the Trotsky School (Part 1)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_609855dadf31731f71397b4bf832c1dd" label="Mixed Materials [31142062765907]" type="Box">2</container>
-          <container id="aspace_acc336820c429e4f24c785ea5f723831" parent="aspace_609855dadf31731f71397b4bf832c1dd" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref39" level="file">
-        <did>
-          <unittitle>A Study of <emph render="italic">Capital</emph> [by L.K.?] for the Trotsky School (Part 2)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_02cb63c5a1ad3351d2df15e092ee9d39" label="Mixed Materials [31142062765907]" type="Box">2</container>
-          <container id="aspace_4b0ce77fbce7827d1ca69952e76c3ab2" parent="aspace_02cb63c5a1ad3351d2df15e092ee9d39" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref40" level="file">
-        <did>
-          <unittitle>A Study of <emph render="italic">Capital</emph> [by L.K.?] for the Trotsky School (Part 3)</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_a7d5918b9f3473e190ddac9fcf590b1e" label="Mixed Materials [31142062765907]" type="Box">2</container>
-          <container id="aspace_cb5f31ccdf16341f797c6f4badcae6b8" parent="aspace_a7d5918b9f3473e190ddac9fcf590b1e" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref41" level="file">
-        <did>
-          <unittitle>Young Socialist Alliance</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_915c9aa27c35f05f61a2172d3f7f0782" label="Mixed Materials [31142062765907]" type="Box">2</container>
-          <container id="aspace_18f8639439bb642156101da2f4bae446" parent="aspace_915c9aa27c35f05f61a2172d3f7f0782" type="Folder">5</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>TAM.198</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1950/1999" type="inclusive">circa 1950s-1990s</unitdate>
+    <abstract id="aspace_30f53a99dd88c50e74788de413001a68">Nora Ruth Roberts (b. ca. 1941) is an author of works on radical women writers, including Meridel Le Sueur, writings on gender, and several novels and short stories, some autobiographical in nature. She grew up as a Trotskyist and was a member of the Socialist Workers Party's affiliated youth organization, the Young Socialist Alliance. The collection contains typescripts of her fiction and non-fiction writings, poetry, reviews, a few letters, YSA internal documents, an anonymous book length typescript, "A Study of Capital," an autobiographical typescript by the late Trotskyist Daniel Rosenshine [1946-1993/4], and a small file on Eugene Dennett, a Seattle worker called before HUAC (House Un-American Activities Committee).</abstract>
+    <langmaterial id="aspace_23e97c25bfb1fc0f1d4f658d2aea63b0">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_b49077e73eced18fabd1a21d6ef8dab8">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_c76be793ba0cb76cdfb6bad7e19edb68">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown. The accession number related to this collection is 1950.121.</p>  </acqinfo>
+  <arrangement id="aspace_c03ae1957c0b0e19b77d3578958bc590">
+    <head>Arrangement</head>
+<p>Arranged alphabetically.</p>  </arrangement>
+  <bioghist id="aspace_3788d5661318f66ac14fdff662fe3080">
+    <head>Historical/Biographical Note</head>
+<p>Nora Ruth Roberts (b. ca. 1941) is an author of works on radical women writers, including Meridel Le Sueur, writings on gender, and several novels and short stories, some autobiographical in nature, describing Roberts' Trotskyist upbringing (her parents were members of the Socialist Workers Party) and her activity in the Young Socialist Alliance (founded in 1960), which was affiliated with the SWP.</p>  </bioghist>
+  <prefercite id="aspace_a6200cb758ea007a176cf8943eaaa892">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Nora Roberts Papers; TAM 198; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_331367d974f18adfbd3b549945de5a8f">
+    <head>Scope and Content Note</head>
+<p>The collection contains typescripts of some of her unpublished and published fiction and non-fiction writings, poems, reviews, a few letters, internal documents from the Young Socialist Alliance, an anonymous book length typescript for the Trotsky School (SWP New York City Branch), titled "A Study of Capital," another anonymous typescript "Formal Logic and Dialectics," and a typescript on dialectical materialism by Roberts. Some of the fiction is autobiographical, focusing on Roberts' growing up in her particular radical milieu. The non-fiction writings are about women authors, including Meridel Le Sueur, and gender issues. There is also an autobiographical typescript by the late Trotskyist Daniel Rosenshine [1946-1993/4], who had been a member of the SWP and the YSA, and a small file on Eugene Dennett, a Seattle worker called before HUAC (the House Un-American Activities Committee of the U.S. Congress).</p>  </scopecontent>
+  <userestrict id="aspace_2401b75d77bd0fd49e3e10d6df204b83">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Nora Roberts was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Socialism and youth -- United States.</subject>
+    <genreform source="aat">Typescripts</genreform>
+    <subject source="lcsh">American literature |x Women authors.</subject>
+    <subject source="lcsh">Authors, American.</subject>
+    <subject source="local">Trotskyism -- United States.</subject>
+    <subject source="lcsh">Working class in literature.</subject>
+    <genreform source="aat">Autobiographies.</genreform>
+    <subject source="lcsh">Feminists -- United States.</subject>
+    <subject source="local">Trotskyists |z United States |v Fiction.</subject>
+    <subject source="local">Trotskyists  -- United States.</subject>
+    <subject source="lcsh">Women authors, American.</subject>
+    <corpname authfilenumber="(lccn)n86071883" source="naf">Young Socialist Alliance (U.S.)</corpname>
+    <corpname authfilenumber="(lccn)n79063200" source="naf">Socialist Workers Party</corpname>
+    <persname source="local">Dennett, Eugene</persname>
+    <persname source="naf">Le Sueur, Meridel</persname>
+    <corpname source="local">Trotsky School (Socialist Workers Party. New York City Branch)</corpname>
+    <persname source="naf">Marx, Karl, 1818-1883</persname>
+    <persname source="local">Rosenshine, Daniel, 1946-1993</persname>
+    <persname source="naf">Roberts, Nora Ruth</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref12" level="file"><did><unittitle>Autobiographical Typescripts</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7ec0f6f3d12d920dc207360a6d21e40b" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_ca081e4276160612c6ea3d93ccb3431f" parent="aspace_7ec0f6f3d12d920dc207360a6d21e40b" type="Folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_026c9f887c2f50a31c94c1a956817915" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_0a68e7fe0bc72a9e4f43476a354c82bb" parent="aspace_026c9f887c2f50a31c94c1a956817915" type="Folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Dennett, Eugene</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_38670d43274de283d4d0ee0cf31764d8" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_c40511e676b8435c70877c298916f340" parent="aspace_38670d43274de283d4d0ee0cf31764d8" type="Folder">3</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Fiction: Published Stories</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_94934bbb2a298c10f7384367f480bbcf" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_4a2513f9e8dc92de2a818cfceaad59bd" parent="aspace_94934bbb2a298c10f7384367f480bbcf" type="Folder">4</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Fiction Typescript: <emph render="doublequote">A Fable for Chiam</emph></unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d7f198c2030022a01a1509e591a1f6f8" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_bf0b62783538af0d448faf88af142bdc" parent="aspace_d7f198c2030022a01a1509e591a1f6f8" type="Folder">5</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Fiction Typescript: <emph render="italic">Green Pebbles under Glass: A Collection of Short Stories</emph></unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c21a38bc3da5164b9249344545c0918d" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_3dffa6814ec5b2b7e0a2ed3cd397b0b1" parent="aspace_c21a38bc3da5164b9249344545c0918d" type="Folder">6</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Fiction Typescript: <emph render="doublequote">Guide to the Eclipse</emph></unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_237dfc6cee63f21c56c24eba64192089" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_2f2731aeb3484ad0ce422f1e5ab1ad50" parent="aspace_237dfc6cee63f21c56c24eba64192089" type="Folder">7</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Fiction Typescript: <emph render="doublequote">In Search of Chaim Zhlitlovsky</emph> (by Nora R. Wainer)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f68331349c38291fac5487beb9dc8e72" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_f786dd577cbe0ad3b3a9b39081575449" parent="aspace_f68331349c38291fac5487beb9dc8e72" type="Folder">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Fiction Typescript: <emph render="italic">Red Skies in the Morning: Sample Chapters</emph> (by Nora R. Wainer)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4efe0370580f2d0878aa8e369a31b1ea" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_76581c4bd8d341afe8b15cb940752c3a" parent="aspace_4efe0370580f2d0878aa8e369a31b1ea" type="Folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Fiction Typescript: <emph render="doublequote">The Story of Caleb</emph></unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_91d4951e951657d9ec6323a120207e96" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_671a609abbb2543e3e9b7156cfcf2df6" parent="aspace_91d4951e951657d9ec6323a120207e96" type="Folder">10</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Formal Logic And Dialectics: Lectures I (73 pp.)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_fce6f37da72ff717aa0fb211bf2bafbe" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_ee78b782fba2aa4f3d0e2d37f8a86b52" parent="aspace_fce6f37da72ff717aa0fb211bf2bafbe" type="Folder">11</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Marx's Methodology--Dialectical Materialism: An Aid to the Study of Marx's <emph render="italic">Capital</emph> (by Nora RobertsP</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f4d72b4cb971f47de6d2cce56fee0588" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_a0fd86b0fb0cd2b09e9910f52ea01b19" parent="aspace_f4d72b4cb971f47de6d2cce56fee0588" type="Folder">12</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Non-Fiction Typescripts re: Women Authors, Gender, etc.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5efe4dc46606990bf9e0b22a893dc224" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_f86a1f56c8ab84f6fa1b4458d4ae9144" parent="aspace_5efe4dc46606990bf9e0b22a893dc224" type="Folder">13</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Poetry</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d7eb3d6e8dfce87426720edff502c9f7" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_0c8bc426b4f35bf3fec89ffef29274f8" parent="aspace_d7eb3d6e8dfce87426720edff502c9f7" type="Folder">14</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Reviews</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1fa939b971c35616e2baf21fca159944" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_a8432c70b94ebb733ed96eafc814fb5c" parent="aspace_1fa939b971c35616e2baf21fca159944" type="Folder">15</container><container altrender="Manuscript box - Legal" id="aspace_6d2da4d021f72e95c3cdc0af04c7217c" label="Mixed Materials [31142062765899]" type="Box">1</container><container id="aspace_efaf7bfbd1e1d6333ba6bdaa89a791fb" parent="aspace_6d2da4d021f72e95c3cdc0af04c7217c" type="Folder">25</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Rosenshine, Danial [1946-1993/4]: Autobiographical Typescript</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3722cf331535be0537f2848528c29ff9" label="Mixed Materials [31142062765907]" type="Box">2</container><container id="aspace_ee3ac380be8c47068c64bfc796530ac1" parent="aspace_3722cf331535be0537f2848528c29ff9" type="Folder">1</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>A Study of <emph render="italic">Capital</emph> [by L.K.?] for the Trotsky School (Part 1)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f9adfac04cfe1dd26290360215f16346" label="Mixed Materials [31142062765907]" type="Box">2</container><container id="aspace_3574e7555e49df4dbb1de519e46d3225" parent="aspace_f9adfac04cfe1dd26290360215f16346" type="Folder">2</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>A Study of <emph render="italic">Capital</emph> [by L.K.?] for the Trotsky School (Part 2)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d37e4f29ad5afa4dd7c897b620976d51" label="Mixed Materials [31142062765907]" type="Box">2</container><container id="aspace_c4821535244f013eeb5a45a6aecc6445" parent="aspace_d37e4f29ad5afa4dd7c897b620976d51" type="Folder">3</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>A Study of <emph render="italic">Capital</emph> [by L.K.?] for the Trotsky School (Part 3)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d953b090a7c1e73ecfe66ce409093291" label="Mixed Materials [31142062765907]" type="Box">2</container><container id="aspace_adae76cd189fbd38b91a8550c44b00b2" parent="aspace_d953b090a7c1e73ecfe66ce409093291" type="Folder">4</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Young Socialist Alliance</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2bd246feb4709f5e692d1c8fd9da43af" label="Mixed Materials [31142062765907]" type="Box">2</container><container id="aspace_c274f0418573e62f6d64268ca6736509" parent="aspace_2bd246feb4709f5e692d1c8fd9da43af" type="Folder">5</container></did></c></dsc>
+</archdesc>
 </ead>

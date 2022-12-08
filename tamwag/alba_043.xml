@@ -1,378 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_043">alba_043</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Alice Bache Gould Correspondence <num>ALBA.043</num></titleproper>
-        <author>Susan Tofte</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from a paper finding aid.</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2006</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:31:42 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>May 2021</date>
-        <item>Edited by Megan O’Shea to revise laudatory language in the Abstract, Biographical Note, and Scope and Contents Note</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Alice Bache Gould Correspondence</unittitle>
-      <origination label="Creator">
-        <persname source="naf">Gould, Alice Bache, 1868-1953</persname>
-      </origination>
-      <unitid>ALBA.043</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-        <extent altrender="carrier">(1 box)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1937/1946" type="inclusive">1937-1946</unitdate>
-      <abstract id="aspace_ec7a04bfecccb600f161b8b274b655b7">Alice Bache Gould (1868-1953) was an American mathematician and historian of early European explorers of the Americas.  She taught at a number of universities in the United States, endowed scholarship funds and left her research material to institutions in Spain and the United States.  The Alice Bache Gould Correspondence consists of Gould's correspondence with her trustee, Samuel Vaughn, and Spanish government officials in the United States.  Materials date from 1937 to 1946.</abstract>
-      <langmaterial id="aspace_c22d47bfe4c630927fc12230e65e054f">Materials are in English.</langmaterial>
-    </did>
-    <custodhist id="aspace_7c549b3a02514e6fbde730c447d79d95">
-      <head>Custodial History</head>
-      <p>The Alice Bache Gould Papers were donated to the Spanish Civil War archives at Brandeis University by Augustus P. Loring, a nephew of Samuel Vaughn, in 1973. Additional letters were donated by Mr. Loring in 1985. This collection came to New York University in January 2001 with the Abraham Lincoln Brigade Archive collections, formerly housed at Brandeis University.</p>
-    </custodhist>
-    <accessrestrict id="aspace_43d8203763f854395a90db2314eaadb1">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </accessrestrict>
-    <bioghist id="aspace_1ddf840068d86de5061b76627606e034">
-      <head>Biographical Note</head>
-      <p>Alice Bache Gould was born in Cambridge, Massachusetts in 1868. She was raised in Quincy and graduated from Bryn Mawr College in Bryn Mawr, Pennsylvania in 1889 and continued her education in mathematics at the Massachusetts Institute of Technology in Cambridge and the University of Chicago in Chicago, Illinois.  She was hired as a faculty member in mathematics at Bryn Mawr.  In 1903, her scholarly interest changed from mathematics to the study of the earliest voyages of Europeans to the Americas.  She spent seven years in Puerto Rico and most of four decades in Spain studying early European explorers.  She taught at a number of universities in the United States, endowed scholarship funds and left her research material to institutions in Spain and the United States.  She died on July 25, 1953 at her home in Simancas, Spain.</p>
-    </bioghist>
-    <scopecontent id="aspace_16a52f29d2c6cdd80e19dbf2604e2321">
-      <head>Scope and Contents</head>
-      <p>The Alice Bache Gould Correspondence consists of Gould's correspondence with her trustee, Samuel Vaughn, and Spanish government officials in the United States.  Materials date from 1937 to 1946, and most are from the period when she was living in Spain. The letters deal primarily with Gould's finances and with personal matters.</p>
-    </scopecontent>
-    <arrangement id="aspace_92296eebd581ebe090ecda25e1671569">
-      <head>Arrangement</head>
-      <p>Folders are arranged alphabetically.</p>
-      <p>The files are grouped into one series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, Correspondence</item>
-      </list>
-    </arrangement>
-    <relatedmaterial id="aspace_15a2e39aca77b44ca9648ef881dc2d88">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>Alice Bache Gould Student Notes, Institute Archives and Special Collections, M.I.T. Libraries</p>
-      <p>Alice B. Gould Papers, Special Collections Department, Bryn Mawr College Library</p>
-      <p>Alice B. Gould Papers, Massachusetts Historical Society</p>
-    </relatedmaterial>
-    <userestrict id="aspace_e5dcfbf6cd4e4baef8fb284731e973da">
-      <head>Use Restrictions</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </userestrict>
-    <prefercite id="aspace_5dddd3ffba11f6260c7f631b37cd7b5a">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Alice Bache Gould Correspondence ; ALBA 043; box number; folder number or item identifier; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <controlaccess>
-      <geogname source="lcsh">Spain -- Description and travel.</geogname>
-      <geogname source="lcsh">Quincy (Mass.)</geogname>
-      <geogname source="lcsh">Simancas (Spain).</geogname>
-      <genreform source="aat">Correspondence.</genreform>
-      <persname source="local">Vaughn, Samuel</persname>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_043">alba_043</eadid><filedesc><titlestmt><titleproper>Guide to the Alice Bache Gould Correspondence <num>ALBA.043</num></titleproper><author>Susan Tofte</author></titlestmt><editionstmt><p>This version was derived from a paper finding aid.</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2006</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:57:17 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>May 2021</date><item>Edited by Megan O’Shea to revise laudatory language in the Abstract, Biographical Note, and Scope and Contents Note</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Alice Bache Gould Correspondence</unittitle>
+    <origination label="Creator">
       <persname source="naf">Gould, Alice Bache, 1868-1953</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref15" level="series">
-        <did>
-          <unittitle>Series I: Correspondence</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Unidentified Correspondence</unittitle>
-            <unitdate datechar="creation">Jul 1937-Oct 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_93cc7d6ec86cb80fc86e55c73bc216d1" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_63bd004421f5690215a67db1f9c7217c" parent="aspace_93cc7d6ec86cb80fc86e55c73bc216d1" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Aug 1937 , Dec 1937</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_0716444d9d1d3d8262bbc899182c0e17" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_a2a22abe66557f32df127d8f703840e4" parent="aspace_0716444d9d1d3d8262bbc899182c0e17" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jan 1938-Apr 1938</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5be2e9311d50893ac55287e26b746f48" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_81a6ab0542a138dd6cc559e573c5d043" parent="aspace_5be2e9311d50893ac55287e26b746f48" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jan 1939-Apr 1939</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_54b42f63b3c1c0dbbbdfffc362e41d4f" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_42e271ff1138f19d17ef5284a49a8a5b" parent="aspace_54b42f63b3c1c0dbbbdfffc362e41d4f" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">May 1939-Jun 1939</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_11f1667d820e3b95bb00819b66c77779" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_ae6ec890dd060a2fb0ffda46f8fa3e25" parent="aspace_11f1667d820e3b95bb00819b66c77779" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jul 1939-Sep 1939</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4e696a7bf4d3e466e26b527dfa26d1e2" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_adb16edd2fc0b4f75aae558da62c1b54" parent="aspace_4e696a7bf4d3e466e26b527dfa26d1e2" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Nov 1939-Dec 1939</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_7b59ef4c4cc68d1a6daf96f1f266745a" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_cd0baa4485b700ae5ddc7d07c35932e3" parent="aspace_7b59ef4c4cc68d1a6daf96f1f266745a" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jan 1940-Feb 1940</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_305673627597797d5f3d2d265c9b5d42" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_76110515464681d234e2bae2f6cbf953" parent="aspace_305673627597797d5f3d2d265c9b5d42" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Mar 1940</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_e26ca34330132112cfcc916f1fdf3056" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_d4bb3a3555b078de475467ab16e259b6" parent="aspace_e26ca34330132112cfcc916f1fdf3056" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Apr 1940</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_8144103f194bd682864603ac60d8c70a" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_72d583df7244f2d7c23cbe18ef306925" parent="aspace_8144103f194bd682864603ac60d8c70a" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">May 1940</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_39dbbc43e882cb97201893e90e463f40" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_8d497115ddd4c86181063da4c8abeb39" parent="aspace_39dbbc43e882cb97201893e90e463f40" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jul 1940-Oct 1940</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_16d2110073e19b7ecc637e6aceb0c942" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_49f02743bce314b2819b886156f26af9" parent="aspace_16d2110073e19b7ecc637e6aceb0c942" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Nov 1940-Dec 1940</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_cee42f72afb4e5a051dd75473634e347" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_34b3aa38b94c96b823ad6e5ef373f910" parent="aspace_cee42f72afb4e5a051dd75473634e347" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jan 1941-Mar 1941</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_7f13c82dd352d16bb658896cd674f428" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_925ac0fa4ef4b87bbc5656206cfd40e6" parent="aspace_7f13c82dd352d16bb658896cd674f428" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Apr 1941</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_fde693be6545a69df56124c7a148d130" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_4760008c17a0489efa63945a0f011d53" parent="aspace_fde693be6545a69df56124c7a148d130" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">May 1941</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_37203eefb71e55ad6aebec45e6231e4e" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_d89b69d4caf70879d208db804d077656" parent="aspace_37203eefb71e55ad6aebec45e6231e4e" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jun 1941</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_d7d3bdbb8974c99c33c01f8f048f2228" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_e5c7c92a5b3141d001b00b2b1574d889" parent="aspace_d7d3bdbb8974c99c33c01f8f048f2228" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jul 1941</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_0fdbb2b3d07bccf07f65c1b0cb9104be" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_8a12deaacd5a10b4b3c7a474ed37c369" parent="aspace_0fdbb2b3d07bccf07f65c1b0cb9104be" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Aug 1941</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_11251b74e5855e07c66ca464788d51b3" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_eadb9929aa2f6b03b279b0946a1f002a" parent="aspace_11251b74e5855e07c66ca464788d51b3" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Sep 1941-Dec 1941</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4f09e2e1979f731cf32e668d91695925" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_93fcce0fbde32aefd02592fba1d2450b" parent="aspace_4f09e2e1979f731cf32e668d91695925" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Feb 1942-Mar 1942</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_cfe5482dc9e25c6d2a85b320b82e67ee" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_43ab8626516d3ebedecce681e184c1b2" parent="aspace_cfe5482dc9e25c6d2a85b320b82e67ee" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Apr 1942-Nov 1942</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_9518f1971b4d53f45bcbdd89624d8e9f" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_3db59ca9601c92b3c8388635fc971411" parent="aspace_9518f1971b4d53f45bcbdd89624d8e9f" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jan 1943</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_8ce6f2b657297805f02ffab6c9f394e6" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_c3b639b3ef0578c97459929df5def318" parent="aspace_8ce6f2b657297805f02ffab6c9f394e6" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Feb 1943</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_f49c2ebbf09e83a143baa64f69e9eb6a" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_40ca380a87c45a82c97715b9c5b60540" parent="aspace_f49c2ebbf09e83a143baa64f69e9eb6a" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jun 1943-Aug 1943</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_7f00cff889e2e1afc76b2dca858fa30b" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_910fc36b85b9072befe37954cfb59f29" parent="aspace_7f00cff889e2e1afc76b2dca858fa30b" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jan 1944-May 1944</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_2a4c4ff0d1f5f3c075f076fad26cfb84" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_d856eaa9a9c4ffa80d51c426d751f93c" parent="aspace_2a4c4ff0d1f5f3c075f076fad26cfb84" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Aug 1944</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5d25cd5dee06a40ee7e2e7870ef166e0" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_dabe26bbcb6bdead7e15184233a289ff" parent="aspace_5d25cd5dee06a40ee7e2e7870ef166e0" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Oct 1944</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_63d5c629e0511b0f5aaad855a942d761" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_901d311090154222ddcf975d919eaf54" parent="aspace_63d5c629e0511b0f5aaad855a942d761" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Nov 1944</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_42b9cdd966dc871136a260b5fb736d0a" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_061801e4ba3145a1dbd929c4fe72a39f" parent="aspace_42b9cdd966dc871136a260b5fb736d0a" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Dec 1944</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_37dde9d0eb02fd7d21a9f433d97589f9" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_0c83ab0d0fc55d9fe200d37085d98fe6" parent="aspace_37dde9d0eb02fd7d21a9f433d97589f9" type="Folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Sep 1945-Oct 1945</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_1273ccba2f6350efaaa59a90a1ef5e96" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_b6d8a8b9ec1548225c3c31e7e9693341" parent="aspace_1273ccba2f6350efaaa59a90a1ef5e96" type="Folder">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation">Jan 1946</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_e724ae3d3502efa485cc58ed11e06dfc" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_4e49bfa342b2d325cea8e6e2f79aa467" parent="aspace_e724ae3d3502efa485cc58ed11e06dfc" type="Folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle>
-            <unitdate datechar="creation" normal="1937/1946" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_fd0f400a29be24bdb6565ef63d7a4d58" label="Mixed Materials [31142062721199]" type="Box">1</container>
-            <container id="aspace_3382c2d3938f8537c4da3b48d84e984c" parent="aspace_fd0f400a29be24bdb6565ef63d7a4d58" type="Folder">33</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>ALBA.043</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1946" type="inclusive">1937-1946</unitdate>
+    <abstract id="aspace_ec7a04bfecccb600f161b8b274b655b7" label="Abstract">Alice Bache Gould (1868-1953) was an American mathematician and historian of early European explorers of the Americas.  She taught at a number of universities in the United States, endowed scholarship funds and left her research material to institutions in Spain and the United States.  The Alice Bache Gould Correspondence consists of Gould's correspondence with her trustee, Samuel Vaughn, and Spanish government officials in the United States.  Materials date from 1937 to 1946.</abstract>
+    <langmaterial id="aspace_c22d47bfe4c630927fc12230e65e054f">Materials are in English.</langmaterial>
+  </did>
+  <custodhist id="aspace_7c549b3a02514e6fbde730c447d79d95">
+    <head>Custodial History</head>
+<p>The Alice Bache Gould Papers were donated to the Spanish Civil War archives at Brandeis University by Augustus P. Loring, a nephew of Samuel Vaughn, in 1973. Additional letters were donated by Mr. Loring in 1985. This collection came to New York University in January 2001 with the Abraham Lincoln Brigade Archive collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <accessrestrict id="aspace_43d8203763f854395a90db2314eaadb1">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <bioghist id="aspace_1ddf840068d86de5061b76627606e034">
+    <head>Biographical Note</head>
+<p>Alice Bache Gould was born in Cambridge, Massachusetts in 1868. She was raised in Quincy and graduated from Bryn Mawr College in Bryn Mawr, Pennsylvania in 1889 and continued her education in mathematics at the Massachusetts Institute of Technology in Cambridge and the University of Chicago in Chicago, Illinois.  She was hired as a faculty member in mathematics at Bryn Mawr.  In 1903, her scholarly interest changed from mathematics to the study of the earliest voyages of Europeans to the Americas.  She spent seven years in Puerto Rico and most of four decades in Spain studying early European explorers.  She taught at a number of universities in the United States, endowed scholarship funds and left her research material to institutions in Spain and the United States.  She died on July 25, 1953 at her home in Simancas, Spain.</p>  </bioghist>
+  <scopecontent id="aspace_16a52f29d2c6cdd80e19dbf2604e2321">
+    <head>Scope and Contents</head>
+<p>The Alice Bache Gould Correspondence consists of Gould's correspondence with her trustee, Samuel Vaughn, and Spanish government officials in the United States.  Materials date from 1937 to 1946, and most are from the period when she was living in Spain. The letters deal primarily with Gould's finances and with personal matters.</p>  </scopecontent>
+  <arrangement id="aspace_92296eebd581ebe090ecda25e1671569">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Correspondence</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_15a2e39aca77b44ca9648ef881dc2d88">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Alice Bache Gould Student Notes, Institute Archives and Special Collections, M.I.T. Libraries</p><p>Alice B. Gould Papers, Special Collections Department, Bryn Mawr College Library</p><p>Alice B. Gould Papers, Massachusetts Historical Society</p>  </relatedmaterial>
+  <userestrict id="aspace_e5dcfbf6cd4e4baef8fb284731e973da">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <prefercite id="aspace_5dddd3ffba11f6260c7f631b37cd7b5a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Alice Bache Gould Correspondence ; ALBA 043; box number; folder number or item identifier; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Spain -- Description and travel.</geogname>
+    <geogname source="lcsh">Quincy (Mass.)</geogname>
+    <geogname source="lcsh">Simancas (Spain).</geogname>
+    <genreform source="aat">Correspondence.</genreform>
+    <persname source="local">Vaughn, Samuel</persname>
+    <persname source="naf">Gould, Alice Bache, 1868-1953</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: Correspondence</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>Unidentified Correspondence</unittitle><unitdate datechar="creation">Jul 1937-Oct 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_32655ff5b34dae259c7a0ad468dbe539" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_e5d7b788f31240c1b8e40a784bf89c48" parent="aspace_32655ff5b34dae259c7a0ad468dbe539" type="Folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Aug 1937 , Dec 1937</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0979fa7911da040c61a851f28b4ebaaa" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_6c3b754453eae2f99176b7ca4b2cdecd" parent="aspace_0979fa7911da040c61a851f28b4ebaaa" type="Folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jan 1938-Apr 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2d9ed05f47697d70833637868814f0de" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_b0202113caf3bfd7fbb190a12e989206" parent="aspace_2d9ed05f47697d70833637868814f0de" type="Folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jan 1939-Apr 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c9abbd43b4c91e710db1e5decef4d126" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_a15ad9b524534657f6c308ca15bfba12" parent="aspace_c9abbd43b4c91e710db1e5decef4d126" type="Folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">May 1939-Jun 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8076314163307360a6ab59e0845e8603" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_d7c6d0dc71ff96bb98e32ce91ee8e4ba" parent="aspace_8076314163307360a6ab59e0845e8603" type="Folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jul 1939-Sep 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a36864185961d2993574c90047faf893" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_844ac1c342158f03302645bfb59ba2cb" parent="aspace_a36864185961d2993574c90047faf893" type="Folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Nov 1939-Dec 1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e184eb578b7601ad7bb27878d827a203" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_53ffa64958ee97a7fbc0b73fb915138f" parent="aspace_e184eb578b7601ad7bb27878d827a203" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jan 1940-Feb 1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_09cf18f9904bed2343c39861c62fe617" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_99b8e02257a4d23c9b31ad133dc60fe4" parent="aspace_09cf18f9904bed2343c39861c62fe617" type="Folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Mar 1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d07dda6ad080d3f60ba66b1569d13a45" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_24503abe6871f88fd52a0d6b6d3ee774" parent="aspace_d07dda6ad080d3f60ba66b1569d13a45" type="Folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Apr 1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0ceb3fbcacb871f6f2cb9caa70a6e570" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_40ae28c43db7868f5cca58395836648b" parent="aspace_0ceb3fbcacb871f6f2cb9caa70a6e570" type="Folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">May 1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_82dde7ecce33a307205d9c432082934d" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_431cd1852ab0d0d0f8a0bd5b00fcabec" parent="aspace_82dde7ecce33a307205d9c432082934d" type="Folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jul 1940-Oct 1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d604158d81368ad3ac05322bc0d62f35" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_d2d5f60ccc7147bc623f7653196f6d99" parent="aspace_d604158d81368ad3ac05322bc0d62f35" type="Folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Nov 1940-Dec 1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_fba54a22784b5bb366f9f6226b407e04" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_fdd8c05c25f5c4645deb2b95031b8cc6" parent="aspace_fba54a22784b5bb366f9f6226b407e04" type="Folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jan 1941-Mar 1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0220e055b403553ade51b9b68b622a57" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_1df04447da7b8d1995d4b8634d8a72c9" parent="aspace_0220e055b403553ade51b9b68b622a57" type="Folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Apr 1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ffd06f3e42f5b10efe3b3bcde0254ea0" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_04ad3f235ec88ba19d072134b362657a" parent="aspace_ffd06f3e42f5b10efe3b3bcde0254ea0" type="Folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">May 1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a221a783331afd1e292cbead64a1f903" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_2a808f519646c3561a7dbf8d031e23ef" parent="aspace_a221a783331afd1e292cbead64a1f903" type="Folder">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jun 1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ce9c79e773bd2d31111ec51aa97f95ef" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_6c50d7c14347689d911cd1ecbd9ce8dd" parent="aspace_ce9c79e773bd2d31111ec51aa97f95ef" type="Folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jul 1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0203cb42586f98a15ac8b2e52b67c59d" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_88f82a6277130c728a53774da0993cd9" parent="aspace_0203cb42586f98a15ac8b2e52b67c59d" type="Folder">18</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Aug 1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f64a5783cd7199c658250611af357c16" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_646e5471b6ddd67d5e32a27e680803b0" parent="aspace_f64a5783cd7199c658250611af357c16" type="Folder">19</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Sep 1941-Dec 1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_27a81a9a0ce18f58d104a9a0fd07bbe7" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_f3a014d494ed2f4c995f655e65b3cc1a" parent="aspace_27a81a9a0ce18f58d104a9a0fd07bbe7" type="Folder">20</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Feb 1942-Mar 1942</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_38fceaaf47bce306fa4ff9df4b18bc87" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_06e4147eafcdce30ca2da096fc37f955" parent="aspace_38fceaaf47bce306fa4ff9df4b18bc87" type="Folder">21</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Apr 1942-Nov 1942</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d9eff7ce2ed2a6b30d998a6fd56f6923" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_f32f4c8511aa073498c3fa4c709e72ef" parent="aspace_d9eff7ce2ed2a6b30d998a6fd56f6923" type="Folder">22</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jan 1943</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5467fb7a3ba5b0513e3b7964d0789d3e" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_2979cac7fec6cba6f3ad3744c6d1e2b5" parent="aspace_5467fb7a3ba5b0513e3b7964d0789d3e" type="Folder">23</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Feb 1943</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a555e0a77e38dd9bb7c260a03b1a3028" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_6b1cf92231063f4e3a6541961de88b37" parent="aspace_a555e0a77e38dd9bb7c260a03b1a3028" type="Folder">24</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jun 1943-Aug 1943</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d5a641b90d75ff444991313d0f589943" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_b607b68c2dec7c6d5c49810ec7f8a613" parent="aspace_d5a641b90d75ff444991313d0f589943" type="Folder">25</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jan 1944-May 1944</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_209a54af0cef4fa9b9cf8cbf6648d7b7" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_8a404f2ee11433f93fb2380bad69012f" parent="aspace_209a54af0cef4fa9b9cf8cbf6648d7b7" type="Folder">26</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Aug 1944</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ff0daa2cd93d1e2d112a045c3d33bff3" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_28a7195625086a98851aeaf156f1763c" parent="aspace_ff0daa2cd93d1e2d112a045c3d33bff3" type="Folder">27</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Oct 1944</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_62c58ad465af94f4c2d67b7b7a89d35c" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_263380eda27f5916940f269a4fe2e819" parent="aspace_62c58ad465af94f4c2d67b7b7a89d35c" type="Folder">28</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Nov 1944</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4653568afba0fb3e1b173c221829b96b" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_4935d912c8e7d2fdbb7310b3b0722b78" parent="aspace_4653568afba0fb3e1b173c221829b96b" type="Folder">29</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Dec 1944</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bb29f5a4852c9d8c120a4dcada0494e6" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_66c5ebbf5709f80dc8fd0af0a389e8a8" parent="aspace_bb29f5a4852c9d8c120a4dcada0494e6" type="Folder">30</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Sep 1945-Oct 1945</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a607f8dfdbd6f3270dcd06b6f3354e7f" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_811f5a56ab6e4df86474b30d3ecaec56" parent="aspace_a607f8dfdbd6f3270dcd06b6f3354e7f" type="Folder">31</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation">Jan 1946</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_92a435b4ee70c109c047e1c6a698841e" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_30576eed9283afe7047b2c987cb26414" parent="aspace_92a435b4ee70c109c047e1c6a698841e" type="Folder">32</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Correspondence between Alice Bache Gould and Samuel Vaughn</unittitle><unitdate datechar="creation" normal="1937/1946" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1dd4ea95ce66f8c5b33c4e5fce46ef27" label="Mixed Materials [31142062721199]" type="Box">1</container><container id="aspace_9fe10ecde20d1de0e192814f49e9cdce" parent="aspace_1dd4ea95ce66f8c5b33c4e5fce46ef27" type="Folder">33</container></did></c></c></dsc>
+</archdesc>
 </ead>

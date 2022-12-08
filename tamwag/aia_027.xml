@@ -1,590 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_027">aia_027</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Peter F. Dolan Photographs <num>AIA.027</num></titleproper>
-        <author>Kate Feighery</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>April 17, 2012</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:21:45 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Peter F. Dolan Photographs</unittitle>
-      <origination label="Creator">
-        <persname source="local">Dolan, Peter F.</persname>
-      </origination>
-      <unitid>AIA.027</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-        <extent altrender="carrier">in 1 record carton</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1932/1989" type="inclusive">1932-1989</unitdate>
-      <unitdate datechar="creation" normal="1974/1989" type="bulk">1974-1989</unitdate>
-      <physloc id="aspace_d17b33e74541e14b63f9f2393b105833">Materials stored offsite and advance notice is required for use.  Please contact irishamerica.archives@nyu.edu at least two business days prior to research visit.</physloc>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_027">aia_027</eadid><filedesc><titlestmt><titleproper>Guide to the Peter F. Dolan Photographs <num>AIA.027</num></titleproper><author>Kate Feighery</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>April 17, 2012</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:42:15 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Peter F. Dolan Photographs</unittitle>
+    <origination label="Creator">
+      <persname source="local">Dolan, Peter F.</persname>
+    </origination>
+    <unitid>AIA.027</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 record carton</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1932/1989" type="inclusive">1932-1989</unitdate>
+    <unitdate datechar="creation" normal="1974/1989" type="bulk">1974-1989</unitdate>
+    <physloc id="aspace_d17b33e74541e14b63f9f2393b105833">Materials stored offsite and advance notice is required for use.  Please contact irishamerica.archives@nyu.edu at least two business days prior to research visit.</physloc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-    </did>
-    <arrangement id="aspace_4bab179b22194534743527eba4896510">
-      <head>Arrangement</head>
-      <p>This collection is arranged into 5 series:
+  </did>
+  <arrangement id="aspace_4bab179b22194534743527eba4896510">
+    <head>Arrangement</head>
+<p>This collection is arranged into 5 series:
 Series I: Parades; Series II: Politics &amp; Protests; Series III: Social Life; Series IV: People &amp; Places; Series V: Photos by Other People.
-As the majority of the photos in the collection are dated, the materials within each series are arranged chronologically, as is the material within each folder.  Any undated material appears at the back of the folder.</p>
-      <p>This collection is arranged into 5 series.  As the majority of the photos in the collection are dated, the materials within each series are arranged chronologically, as is the material within each folder.  Any undated material appears at the back of the folder.</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>Series I: Parades</item>
-        <item>Series II: Politics &amp; Protests</item>
-        <item>Series III: Social Life</item>
-        <item>Series IV: People &amp; Places</item>
-        <item>Series V: Photos by Other People</item>
-      </list>
-    </arrangement>
-    <userestrict id="aspace_5356136494728ec71c097595a8578ed1">
-      <head>Use Restrictions</head>
-      <p>Permission to publish materials must be obtained from the copyright holder.  For more information, contact the Archives of Irish America at: irishamerica.archives@nyu.edu</p>
-    </userestrict>
-    <processinfo id="aspace_bf0dd956f6b9cdb667d1d49fe42499aa">
-      <head>Processing Information</head>
-      <p>This collection was donated by Peter Dolan to the New York Irish History Roundtable (NYIHR), who then turned it over to the Archives of Irish America.  The NYIHR  organized some of the photos, and included with the photo collection was a series breakdown that NYIHR had created.  After going through the collection, the NYIHR series list was too extensive for the number of photographs in the collection.  Archivists merged some of their series into slightly more inclusive categories (for example, moved "Religion," "Special Events," and "Sports" into the more general "Social Life"), but kept others ("Parades" and "Protests").</p>
-    </processinfo>
-    <accessrestrict id="aspace_a3be8b28e74aa68456ed7ce1601a37a8">
-      <head>Access Restrictions</head>
-      <p>Open for research without restrictions.</p>
-    </accessrestrict>
-    <prefercite id="aspace_4a50a14ea2e7856bb366f11246c22c9f">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Peter F. Dolan Photograph Collection; AIA.027; box number; folder number; Archives of Irish America/Tamiment Library, New York University.</p>
-    </prefercite>
-    <scopecontent id="aspace_1aaca00526da888c178b0dac58dc2b9c">
-      <head>Scope and Content Note</head>
-      <p>This collection consists of approximately 250 photographs, arranged in 5 series.  The majority of the photos are black and white, 8 x 10 prints.  While the collection also contains some photos that Dolan collected from earlier in the twentieth century, the majority of the photos were taken and printed by Dolan himself during the 1970s and 1980s, and focus heavily on Irish-American social and political events in and around New York City.  The activities of many well-known Irish-American groups, such as the Ancient Order of Hibernians, The Friendly Sons of St. Patrick, the United Irish Counties Association (as well as individual county associations), and the Irish National Caucus are documented in the collection, along with images of the day-to-day life of individuals.  As Dolan lived and worked in the Inwood neighborhood of Manhattan, many of the photos are focused there.  There is also a heavy emphasis on Irish-American politics, particularly on protests about the political situation in Northern Ireland at the time.  </p>
-      <p>Dolan provided handwritten descriptions of the majority of the photos in the collection.  Most descriptions note the date, the event, and if known, identify the people in the photograph.  Often, there are individuals indentified in these descriptive notes who are not mentioned in the folder titles.  Although Dolan worked on a freelance basis, some of his photographs were published in Irish-American newspapers, and the description notes if the photograph was published.  </p>
-    </scopecontent>
-    <bioghist id="aspace_80a22efc1f9ae468b3d34ad96c103578">
-      <head>Biographical Note</head>
-      <p>Peter F. Dolan (1942-2011) was an Irish-American photographer.  Born in the Inwood neighborhood of Manhattan on November 8, 1942, he attended both Manhattan Prep and Manhattan College.  Throughout his life, he worked to document the political and social life of Irish and Irish-Americans in New York City through photography.  Although a freelance photographer, his work has appeared in such publications as the <emph render="italic">Irish Echo</emph> and the <emph render="italic">Irish Advocate</emph>.  His photography studio and apartment were located in Inwood, and many of his photographs depict Irish life in that neighborhood.  In addition to his photographic interests, Dolan was also interested in Irish music, particularly in the Irish tenor John McCormack.  He was the secretary of the John McCormack Society of America, and donated his collection on John McCormack to the Boston College Library.  He lived in New York City from birth through the 1990s, working at Keshkerrigan, a now-closed Irish-language book store on the Lower East Side, and in the office of Bronx Borough President Fernando Ferrer, and hosted Friday-night Irish music sessions in the Eagle Tavern (now closed) on 14th Street.  Later in his life, he moved to Connecticut, and died in Hartford on January 2, 2011.</p>
-    </bioghist>
-    <custodhist id="aspace_486d3f6948ba94328bb8cdf908016be0">
-      <head>Custodial History Note</head>
-      <p>Peter Dolan transferred ownership and copyright of his photos to the New York Irish History Roundtable, who then donated the collection to the Archives of Irish America.</p>
-    </custodhist>
-    <controlaccess>
-      <subject source="lcsh">Parades |z New York (State) |z New York |v Pictorial works.</subject>
-      <subject source="lcsh">Peace movements |z Northern Ireland.</subject>
-      <subject source="lcsh">Irish Americans -- Ethnic identity.</subject>
-      <subject source="lcsh">Irish Americans -- Music.</subject>
-      <genreform source="aat">Photographs.</genreform>
-      <subject source="lcsh">Picketing |v Pictorial works.</subject>
-      <subject source="lcsh">Photographers |z New York (State) |z New York.</subject>
-      <genreform source="aat">Photographic prints.</genreform>
-      <genreform source="local">Session (seisun).</genreform>
-      <subject source="lcsh">Irish Americans -- Social life and customs.</subject>
-      <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
-      <subject source="lcsh">Irish Americans |z New York (State) |z New York |x Politics and government.</subject>
-      <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
-      <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-      <genreform source="aat">Black-and-white photographs.</genreform>
-      <subject source="lcsh">Saint Patrick's Day.</subject>
-      <subject source="lcsh">Irish Americans -- Politics and government.</subject>
-      <subject source="local">Feis.</subject>
-      <subject source="lcsh">Demonstrations -- Pictorial works.</subject>
-      <genreform source="aat">Color photographs.</genreform>
-      <subject source="lcsh">Civil rights demonstrations |v Pictorial works.</subject>
-      <subject source="lcsh">Irish Americans.</subject>
-      <subject source="lcsh">Hunger strikes -- Northern Ireland.</subject>
-      <subject source="lcsh">Human rights |z Ireland.</subject>
-      <subject source="lcsh">Gaelic football.</subject>
-      <subject source="lcsh">Music festivals.</subject>
-      <subject source="lcsh">Irish -- Music.</subject>
-      <subject source="lcsh">Parades.</subject>
-      <geogname source="lcsh">Inwood (New York, N.Y.) |x History |v Pictorial works. </geogname>
-      <subject source="lcsh">Musicians |z New York (State) |z New York.</subject>
-      <geogname source="lcsh">New York (N.Y.) -- Pictorial works.</geogname>
-      <geogname source="lcsh">Bronx (New York, N.Y.)</geogname>
-      <corpname source="naf">Irish Northern Aid Committee</corpname>
-      <corpname rules="aacr" source="naf">United Irish Counties Association of N.Y.</corpname>
-      <corpname source="local">Irish Republican Clubs</corpname>
-      <persname source="naf">O'Dwyer, Paul, 1907-1998</persname>
-      <persname source="naf">McAliskey, Bernadette Devlin, 1947-</persname>
-      <corpname source="local">New York St. Patrick's Day Parade Committee</corpname>
-      <corpname source="naf">Friendly Sons of St. Patrick</corpname>
-      <corpname source="naf">Gaelic Athletic Association</corpname>
-      <corpname rules="dacs" source="local">Emerald Societies. N.Y.</corpname>
-      <persname source="naf">O'Brien, Nora Connolly</persname>
-      <corpname source="naf">Ancient Order of Hibernians</corpname>
-      <persname rules="dacs" source="naf">Carey, Hugh</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref2" level="series">
-        <did>
-          <unittitle>Series I: Parades</unittitle>
-          <unitdate datechar="creation">1977-1989</unitdate>
-        </did>
-        <scopecontent id="aspace_084d0bfdd584412c83323632cb9d0e70">
-          <head>Scope and Content Note</head>
-          <p>The photos in these series are mostly group shots of parade committee meetings or groups marching in various parades.  If the shots are with smaller groups of people, they are usually of the parade marshall or aides.</p>
-        </scopecontent>
-        <c id="aspace_ref5" level="file">
-          <did>
-            <unittitle>St. Patrick's Day Parade Committee Meetings</unittitle>
-            <unitdate datechar="creation">1977-1985</unitdate>
-            <container id="aspace_d811a1413e8f5ce40aa03d0851ba3769" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_92bd81c32f5eed419217403afe8c482a" parent="aspace_d811a1413e8f5ce40aa03d0851ba3769" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref6" level="file">
-          <did>
-            <unittitle>St. Patrick's Day Parade</unittitle>
-            <unitdate datechar="creation">1978-1985</unitdate>
-            <container id="aspace_f425b0c7d52df79a1b72c7c6f71194c4" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_3a17cf53a57a2a1363e325954a2c2882" parent="aspace_f425b0c7d52df79a1b72c7c6f71194c4" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>Rockaway Beach St. Patrick's Day Parade</unittitle>
-            <unitdate datechar="creation">1984</unitdate>
-            <container id="aspace_513c84349510cc3bd9a48a1f9174cc58" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_eb62fcfcf1c35cdbec4f4cb58bd3eb9a" parent="aspace_513c84349510cc3bd9a48a1f9174cc58" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Brooklyn Irish American Parade</unittitle>
-            <unitdate datechar="creation">1987-1989</unitdate>
-            <container id="aspace_a63d98e7cbec76090688e71a49530b09" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_f235ba44d65965e3887715398a495e8a" parent="aspace_a63d98e7cbec76090688e71a49530b09" type="Folder">4</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref9" level="series">
-        <did>
-          <unittitle>Series II: Politics &amp; Protests</unittitle>
-          <unitdate datechar="creation">1974-1989</unitdate>
-        </did>
-        <scopecontent id="aspace_eb20037808b875320425dcea075855a7">
-          <head>Scope and Content Note</head>
-          <p>The photos in these series consist mainly of group shots at protests and picket lines in New York City.  The majority of the people in the photos are not identified, although occassionaly there will be a shot of a more well-known speaker at a rally, like Paul O'Dwyer or Bernadette Devlin.</p>
-        </scopecontent>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>Stagg Commemorations</unittitle>
-            <unitdate datechar="creation">1974-1975</unitdate>
-            <container id="aspace_3e4c2bcaddba4efeb878907844e57b8f" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_9624cc50d5902c72c53f85a9d968d204" parent="aspace_3e4c2bcaddba4efeb878907844e57b8f" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Sargent Shriver with Washington Heights Sandhogs</unittitle>
-            <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_f2e744827f5ff245594e623a7d717696" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_8538a813c9641bd4f8a2c3a4a9032edc" parent="aspace_f2e744827f5ff245594e623a7d717696" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Anti-Carey Demonstrations</unittitle>
-            <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_c662d9a25a23193243eb379444436a2a" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_d0ab13b2a09c09951846e89cb26a98c1" parent="aspace_c662d9a25a23193243eb379444436a2a" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Matilde Tone Commemoration</unittitle>
-            <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_961cb4b1f0b2662ee4be1c87b31e4847" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_3fe704fd6180c82b5142d0edecaff5be" parent="aspace_961cb4b1f0b2662ee4be1c87b31e4847" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Padraig Pearse Commemoration</unittitle>
-            <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_ab792d59937def370cb5c862a3d3b7d5" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_56c67f4175f7f9553998dd16a0f7f0dc" parent="aspace_ab792d59937def370cb5c862a3d3b7d5" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Irish Republican Club</unittitle>
-            <unitdate datechar="creation">1979-1980</unitdate>
-            <container id="aspace_20edd12c72459708946e80612dec5223" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_011af49a7a30ee12a0763aee85303e48" parent="aspace_20edd12c72459708946e80612dec5223" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Hunger Strike Demonstrations, New York City</unittitle>
-            <unitdate datechar="creation">1979-1983</unitdate>
-            <container id="aspace_f86551bdb5cb08a9a73049337ceaa014" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_577f41c7971957b03758fe4d2778e4b8" parent="aspace_f86551bdb5cb08a9a73049337ceaa014" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Irish National Caucus</unittitle>
-            <unitdate datechar="creation">1979-1986</unitdate>
-            <container id="aspace_a227606a5985e5c45aac1b864c9140d9" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_f7bf5a578d2e795e8fa5f295e5a994d8" parent="aspace_a227606a5985e5c45aac1b864c9140d9" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>NORAID Demonstrations</unittitle>
-            <unitdate datechar="creation">1979-1987</unitdate>
-            <container id="aspace_61a6c0c399b5e29509ba4386aa13e81a" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_689917a01e52d0e8cfcdce41f45c8678" parent="aspace_61a6c0c399b5e29509ba4386aa13e81a" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Joe Doherty Demonstrations</unittitle>
-            <unitdate datechar="creation">1980-1988</unitdate>
-            <container id="aspace_bf877c02ad383829be30fa2696124d93" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_7a10f591d8c120d21e92fe8cd75231a8" parent="aspace_bf877c02ad383829be30fa2696124d93" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>TWU Strike</unittitle>
-            <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_276805499afbe5ca4eb798e61ca53e16" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_e66095aecfe1bf065bef07a938fe893c" parent="aspace_276805499afbe5ca4eb798e61ca53e16" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Protest against Prince of Wales Visit</unittitle>
-            <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_47846214ee880d1ac6e3c71877e18337" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_32d1494484e3274630ac6968db586f40" parent="aspace_47846214ee880d1ac6e3c71877e18337" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Irish Solidarity Day</unittitle>
-            <unitdate datechar="creation">1981-1986</unitdate>
-            <container id="aspace_f3e1d02c17ba43d69f14810a45ef9c53" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_37d6e004358ca55b48f657f250ece878" parent="aspace_f3e1d02c17ba43d69f14810a45ef9c53" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Political Protests</unittitle>
-            <unitdate datechar="creation">1981-1989</unitdate>
-            <container id="aspace_91383efddcabcc4aba39eb72d4bf8ecd" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_cf8b1caa36b1d205b052b31eb7002e59" parent="aspace_91383efddcabcc4aba39eb72d4bf8ecd" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Protest, Black Watch Regiment, Madison Square Garden</unittitle>
-            <unitdate datechar="creation">1982</unitdate>
-            <container id="aspace_035af0e5f425d56e5675a2c2e6827344" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_7a41aec5f5155da5c21800000d2264d3" parent="aspace_035af0e5f425d56e5675a2c2e6827344" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Conferences</unittitle>
-            <unitdate datechar="creation">1982-1983</unitdate>
-            <container id="aspace_cf439165f0bd43b2b25ec0486a749ee7" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_bfa7ea91d5099bc4bea4a5f7f666cbec" parent="aspace_cf439165f0bd43b2b25ec0486a749ee7" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Special Envoy to Northern Ireland</unittitle>
-            <unitdate datechar="creation">1983</unitdate>
-            <container id="aspace_13a4d98fcb25f3bc3f2a6a7655f5f2d2" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_a53a1e3a455e49f8831b6d791ac809e1" parent="aspace_13a4d98fcb25f3bc3f2a6a7655f5f2d2" type="Folder">21</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref29" level="series">
-        <did>
-          <unittitle>Series III: Social Life</unittitle>
-          <unitdate datechar="creation">1974-1988</unitdate>
-        </did>
-        <scopecontent id="aspace_a3b10cc550704197432be4140f784d5d">
-          <head>Scope and Content Note</head>
-          <p>The photos in this series deal with special events in the Irish-American community in and around New York City.  The majority of these are group shots of various social events.  Individuals are identified in accompanying notes when known.</p>
-        </scopecontent>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Cultural Events</unittitle>
-            <unitdate datechar="creation">1974-1986</unitdate>
-            <container id="aspace_765605d2555fa3e7e053e6262c8cfa9c" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_e2e8974ab6c010777c4c6c2ebc8167b2" parent="aspace_765605d2555fa3e7e053e6262c8cfa9c" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Music Festival, Floyd Bennet Field, Brooklyn</unittitle>
-            <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_61c1ce9f4e0ccac1441fd38e541b5685" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_f6f107ccabd7cc2fac47ffc3ecd11547" parent="aspace_61c1ce9f4e0ccac1441fd38e541b5685" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>New York County Association Events</unittitle>
-            <unitdate datechar="creation">1975-1985</unitdate>
-            <container id="aspace_c4731036345bfed765e1911ae15655d3" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_13281d4e388a1a0d834ea74446f97e7d" parent="aspace_c4731036345bfed765e1911ae15655d3" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Mt. Carmel Cemetery Restoration</unittitle>
-            <unitdate datechar="creation">1976-1982</unitdate>
-            <container id="aspace_b8c69ce713bbe558140ed9b75b5baa1e" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_132852ec3048af19778b4020a389b74a" parent="aspace_b8c69ce713bbe558140ed9b75b5baa1e" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Irish Freedom Show</unittitle>
-            <unitdate datechar="creation">1977-1982</unitdate>
-            <container id="aspace_c9aba7a7422568ced7a8f90e3c7e23ee" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_d2b9a8c33a4771b880df4ae98cf5713b" parent="aspace_c9aba7a7422568ced7a8f90e3c7e23ee" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Ancient Order of Hibernians, New York</unittitle>
-            <unitdate datechar="creation">1977-1986</unitdate>
-            <container id="aspace_868cb7bc266fe18c78975476f8e5cd87" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_65fa6c25ace3dc8b3f9912db3af3d9af" parent="aspace_868cb7bc266fe18c78975476f8e5cd87" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Emerald Society of the Courts of New York</unittitle>
-            <unitdate datechar="creation">1979-1985</unitdate>
-            <container id="aspace_1ff6c37e55b4f42451ccd59f5861c705" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_3d8efd35e4dddd933f14a3fb5a17c743" parent="aspace_1ff6c37e55b4f42451ccd59f5861c705" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Religious Events</unittitle>
-            <unitdate datechar="creation">1979-1988</unitdate>
-            <container id="aspace_a91ef7d875035d2784e4ea6bfdc35bb1" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_02c215d41b143dc31846b4d6458dbf43" parent="aspace_a91ef7d875035d2784e4ea6bfdc35bb1" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Mary from Dungloe Competition, Brooklyn</unittitle>
-            <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_c0a6d161ec5a45719ac7321dea04cb9c" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_40eba978526354103ec07d782493ffef" parent="aspace_c0a6d161ec5a45719ac7321dea04cb9c" type="Folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>The Society of the Friendly Sons of St. Patrick</unittitle>
-            <unitdate datechar="creation">1981-1986</unitdate>
-            <container id="aspace_1e07a45051af1da78cdd98f0c1895747" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_a6ea55c40e8a3d7cea23ce62fa44303a" parent="aspace_1e07a45051af1da78cdd98f0c1895747" type="Folder">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Gaelic Athletic Association (GAA) of New York Teams and Events</unittitle>
-            <unitdate datechar="creation">1982-1984</unitdate>
-            <container id="aspace_fc50a1a7e4e781bb41199d49e4fea011" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_5ff11a73eaed6a2643782d1c5a1838f1" parent="aspace_fc50a1a7e4e781bb41199d49e4fea011" type="Folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Kelly Games</unittitle>
-            <unitdate datechar="creation">1983-1984</unitdate>
-            <container id="aspace_e0586f81bfed8f1ca8218a409e36e620" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_9c46fbf9e2e827e2cea90eadb698fa88" parent="aspace_e0586f81bfed8f1ca8218a409e36e620" type="Folder">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>United Irish Counties Association Events</unittitle>
-            <unitdate datechar="creation">1983-1987</unitdate>
-            <container id="aspace_e37f1a5d6b182f1b9054df0dd436e5e8" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_eceb3220bbe5dcb99eecea32705c75e2" parent="aspace_e37f1a5d6b182f1b9054df0dd436e5e8" type="Folder">34</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>The Great Irish Fair, Coney Island</unittitle>
-            <unitdate datechar="creation">1985-1987</unitdate>
-            <container id="aspace_50869c6e72f4535e01edb68861dc3f81" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_90c6248da782f510d368b9b19d695648" parent="aspace_50869c6e72f4535e01edb68861dc3f81" type="Folder">35</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref44" level="series">
-        <did>
-          <unittitle>Series IV: People and Places</unittitle>
-          <unitdate datechar="creation">1973-1987</unitdate>
-        </did>
-        <scopecontent id="aspace_e4791a16f3e61c40711944011f3f6428">
-          <head>Scope and Content Note</head>
-          <p>This series consists of close-up photographs of individuals or small groups, many of which taken in the Inwood neighborhood of Manhattan.</p>
-        </scopecontent>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Portraits</unittitle>
-            <unitdate datechar="creation">1973-1985</unitdate>
-            <container id="aspace_578a29373151cca4d9ed52c519ab1f4a" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_6413864615eb1e90e67750e0eb68b2fa" parent="aspace_578a29373151cca4d9ed52c519ab1f4a" type="Folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Bernadette Devlin and Liam Kelly</unittitle>
-            <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_2f8b901fa8290de5362b400b02e16b89" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_31a1b39bbedbac7cdd610194292817c9" parent="aspace_2f8b901fa8290de5362b400b02e16b89" type="Folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>Inwood, Manhattan: Neighborhood Life</unittitle>
-            <unitdate datechar="creation">1974-1986</unitdate>
-            <container id="aspace_69bc5b97de351f1eb8c20c141dd0a8f3" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_440334ef0761bc3da274430f46fa40df" parent="aspace_69bc5b97de351f1eb8c20c141dd0a8f3" type="Folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Eagle Tavern</unittitle>
-            <unitdate datechar="creation">1975-1981</unitdate>
-            <container id="aspace_b523469608e2778294ce7c057d8f48a9" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_bc54bfcd945cc8c4779616987ae5117c" parent="aspace_b523469608e2778294ce7c057d8f48a9" type="Folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="file">
-          <did>
-            <unittitle>The Bronx</unittitle>
-            <unitdate datechar="creation">1975-1982</unitdate>
-            <container id="aspace_4020ebe6c2a8be648f23c953e2749364" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_62e273c4eb6be6758654378faf5e07cf" parent="aspace_4020ebe6c2a8be648f23c953e2749364" type="Folder">40</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="file">
-          <did>
-            <unittitle>Liam O'Leary</unittitle>
-            <unitdate datechar="creation">1978-1986</unitdate>
-            <container id="aspace_6fceb95b30cc7d5e1c8d8d2f3c14d224" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_364992fac3aad195ba6b2c94187633df" parent="aspace_6fceb95b30cc7d5e1c8d8d2f3c14d224" type="Folder">41</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="file">
-          <did>
-            <unittitle>Rockaway</unittitle>
-            <unitdate datechar="creation">1979-1980</unitdate>
-            <container id="aspace_49a85ef4b552e893a930e77b7dbceeeb" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_c62e6a7b785f227ae8ef358868a5b032" parent="aspace_49a85ef4b552e893a930e77b7dbceeeb" type="Folder">42</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="file">
-          <did>
-            <unittitle>Musicians, Portraits</unittitle>
-            <unitdate datechar="creation">1979-1987</unitdate>
-            <container id="aspace_415ce31672f372eaad65a2d2e80b4775" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_f91f2434747f1b4bd730c6d9d935b8ac" parent="aspace_415ce31672f372eaad65a2d2e80b4775" type="Folder">43</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="file">
-          <did>
-            <unittitle>Nora Connolly O'Brien</unittitle>
-            <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_86fa89b39738531d0ef406c9ffd18f21" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_448c7cbdda3b01ad8ef1eb63d7341208" parent="aspace_86fa89b39738531d0ef406c9ffd18f21" type="Folder">44</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref54" level="series">
-        <did>
-          <unittitle>Series V: Photos by Other People</unittitle>
-          <unitdate datechar="creation">1932-1981</unitdate>
-        </did>
-        <c id="aspace_ref55" level="file">
-          <did>
-            <unittitle>Paul Delaney, Image of Great-Grandfather</unittitle>
-            <unitdate datechar="creation">unknown</unitdate>
-            <container id="aspace_8f2d7e26c57a941c78b14a660a415dbb" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_68edec28807aded37bbbc6d8108d8397" parent="aspace_8f2d7e26c57a941c78b14a660a415dbb" type="Folder">45</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="file">
-          <did>
-            <unittitle>28th Annual UICA Irish Ball</unittitle>
-            <unitdate datechar="creation">1932</unitdate>
-            <container id="aspace_082ed998837cf1e7f43d7ddca1533e13" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_a897c691d77757ebb77f61cb5575b034" parent="aspace_082ed998837cf1e7f43d7ddca1533e13" type="Folder">46</container>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="file">
-          <did>
-            <unittitle>John McCormack Archive Photos</unittitle>
-            <unitdate datechar="creation">[1930s]</unitdate>
-            <container id="aspace_529edd2168d4f0338c8a8e1b8c20b0fe" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_a723013f7cb6f1eafa89524020277a11" parent="aspace_529edd2168d4f0338c8a8e1b8c20b0fe" type="Folder">47</container>
-          </did>
-        </c>
-        <c id="aspace_ref58" level="file">
-          <did>
-            <unittitle>Kathleen Cooke Drawing &amp; Sculpture</unittitle>
-            <unitdate datechar="creation">unknown</unitdate>
-            <container id="aspace_27e65b94bde6115c7264024138289be3" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_e3989368df37a548addfba8e484052b8" parent="aspace_27e65b94bde6115c7264024138289be3" type="Folder">48</container>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="file">
-          <did>
-            <unittitle>Hunger Striker Patsy O'Hara</unittitle>
-            <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_e1194b86ba975115f8edf7a39535d344" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_aeaf06bf177442af7f0e599f6744b8ad" parent="aspace_e1194b86ba975115f8edf7a39535d344" type="Folder">49</container>
-          </did>
-        </c>
-        <c id="aspace_ref60" level="file">
-          <did>
-            <unittitle>Josephine Patricia Smith</unittitle>
-            <unitdate datechar="creation">unknown</unitdate>
-            <container id="aspace_cf26078f5bc791c26844c77dffe9ec10" label="photographs [31142054615136]" type="Box">1</container>
-            <container id="aspace_1831e24ba18d1e18669e35c0df26629e" parent="aspace_cf26078f5bc791c26844c77dffe9ec10" type="Folder">50</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+As the majority of the photos in the collection are dated, the materials within each series are arranged chronologically, as is the material within each folder.  Any undated material appears at the back of the folder.</p><p>This collection is arranged into 5 series.  As the majority of the photos in the collection are dated, the materials within each series are arranged chronologically, as is the material within each folder.  Any undated material appears at the back of the folder.</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Parades</item>
+      <item>Series II: Politics &amp; Protests</item>
+      <item>Series III: Social Life</item>
+      <item>Series IV: People &amp; Places</item>
+      <item>Series V: Photos by Other People</item>
+    </list>
+  </arrangement>
+  <userestrict id="aspace_5356136494728ec71c097595a8578ed1">
+    <head>Use Restrictions</head>
+<p>Permission to publish materials must be obtained from the copyright holder.  For more information, contact the Archives of Irish America at: irishamerica.archives@nyu.edu</p>  </userestrict>
+  <processinfo id="aspace_bf0dd956f6b9cdb667d1d49fe42499aa">
+    <head>Processing Information</head>
+<p>This collection was donated by Peter Dolan to the New York Irish History Roundtable (NYIHR), who then turned it over to the Archives of Irish America.  The NYIHR  organized some of the photos, and included with the photo collection was a series breakdown that NYIHR had created.  After going through the collection, the NYIHR series list was too extensive for the number of photographs in the collection.  Archivists merged some of their series into slightly more inclusive categories (for example, moved "Religion," "Special Events," and "Sports" into the more general "Social Life"), but kept others ("Parades" and "Protests").</p>  </processinfo>
+  <accessrestrict id="aspace_a3be8b28e74aa68456ed7ce1601a37a8">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <prefercite id="aspace_4a50a14ea2e7856bb366f11246c22c9f">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Peter F. Dolan Photograph Collection; AIA.027; box number; folder number; Archives of Irish America/Tamiment Library, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_1aaca00526da888c178b0dac58dc2b9c">
+    <head>Scope and Content Note</head>
+<p>This collection consists of approximately 250 photographs, arranged in 5 series.  The majority of the photos are black and white, 8 x 10 prints.  While the collection also contains some photos that Dolan collected from earlier in the twentieth century, the majority of the photos were taken and printed by Dolan himself during the 1970s and 1980s, and focus heavily on Irish-American social and political events in and around New York City.  The activities of many well-known Irish-American groups, such as the Ancient Order of Hibernians, The Friendly Sons of St. Patrick, the United Irish Counties Association (as well as individual county associations), and the Irish National Caucus are documented in the collection, along with images of the day-to-day life of individuals.  As Dolan lived and worked in the Inwood neighborhood of Manhattan, many of the photos are focused there.  There is also a heavy emphasis on Irish-American politics, particularly on protests about the political situation in Northern Ireland at the time.  </p><p>Dolan provided handwritten descriptions of the majority of the photos in the collection.  Most descriptions note the date, the event, and if known, identify the people in the photograph.  Often, there are individuals indentified in these descriptive notes who are not mentioned in the folder titles.  Although Dolan worked on a freelance basis, some of his photographs were published in Irish-American newspapers, and the description notes if the photograph was published.  </p>  </scopecontent>
+  <bioghist id="aspace_80a22efc1f9ae468b3d34ad96c103578">
+    <head>Biographical Note</head>
+<p>Peter F. Dolan (1942-2011) was an Irish-American photographer.  Born in the Inwood neighborhood of Manhattan on November 8, 1942, he attended both Manhattan Prep and Manhattan College.  Throughout his life, he worked to document the political and social life of Irish and Irish-Americans in New York City through photography.  Although a freelance photographer, his work has appeared in such publications as the <emph render="italic">Irish Echo</emph> and the <emph render="italic">Irish Advocate</emph>.  His photography studio and apartment were located in Inwood, and many of his photographs depict Irish life in that neighborhood.  In addition to his photographic interests, Dolan was also interested in Irish music, particularly in the Irish tenor John McCormack.  He was the secretary of the John McCormack Society of America, and donated his collection on John McCormack to the Boston College Library.  He lived in New York City from birth through the 1990s, working at Keshkerrigan, a now-closed Irish-language book store on the Lower East Side, and in the office of Bronx Borough President Fernando Ferrer, and hosted Friday-night Irish music sessions in the Eagle Tavern (now closed) on 14th Street.  Later in his life, he moved to Connecticut, and died in Hartford on January 2, 2011.</p>  </bioghist>
+  <custodhist id="aspace_486d3f6948ba94328bb8cdf908016be0">
+    <head>Custodial History Note</head>
+<p>Peter Dolan transferred ownership and copyright of his photos to the New York Irish History Roundtable, who then donated the collection to the Archives of Irish America.</p>  </custodhist>
+  <controlaccess>
+    <subject source="lcsh">Parades |z New York (State) |z New York |v Pictorial works.</subject>
+    <subject source="lcsh">Peace movements -- Northern Ireland</subject>
+    <subject source="lcsh">Irish Americans -- Ethnic identity.</subject>
+    <subject source="lcsh">Irish Americans -- Music.</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <subject source="lcsh">Picketing |v Pictorial works.</subject>
+    <subject source="lcsh">Photographers |z New York (State) |z New York.</subject>
+    <genreform source="aat">Photographic prints.</genreform>
+    <genreform source="local">Session (seisun).</genreform>
+    <subject source="lcsh">Irish Americans -- Social life and customs.</subject>
+    <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
+    <subject source="lcsh">Irish Americans |z New York (State) |z New York |x Politics and government.</subject>
+    <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <subject source="lcsh">Saint Patrick's Day.</subject>
+    <subject source="lcsh">Irish Americans -- Politics and government.</subject>
+    <subject source="local">Feis.</subject>
+    <subject source="lcsh">Demonstrations -- Pictorial works.</subject>
+    <genreform source="aat">Color photographs.</genreform>
+    <subject source="lcsh">Civil rights demonstrations |v Pictorial works.</subject>
+    <subject source="lcsh">Irish Americans.</subject>
+    <subject source="lcsh">Hunger strikes -- Northern Ireland.</subject>
+    <subject source="lcsh">Human rights |z Ireland.</subject>
+    <subject source="lcsh">Gaelic football.</subject>
+    <subject source="lcsh">Music festivals.</subject>
+    <subject source="lcsh">Irish -- Music</subject>
+    <subject source="lcsh">Parades.</subject>
+    <geogname source="lcsh">Inwood (New York, N.Y.) |x History |v Pictorial works. </geogname>
+    <subject source="lcsh">Musicians |z New York (State) |z New York.</subject>
+    <geogname source="lcsh">New York (N.Y.) -- Pictorial works.</geogname>
+    <geogname source="lcsh">Bronx (New York, N.Y.)</geogname>
+    <corpname authfilenumber="(lccn)nb2006010765" source="naf">Irish Northern Aid Committee</corpname>
+    <corpname authfilenumber="(lccn)n85179809" rules="aacr" source="naf">United Irish Counties Association of N.Y.</corpname>
+    <corpname source="local">Irish Republican Clubs</corpname>
+    <persname source="naf">O'Dwyer, Paul, 1907-1998</persname>
+    <persname source="naf">McAliskey, Bernadette Devlin, 1947-</persname>
+    <corpname source="local">New York St. Patrick's Day Parade Committee</corpname>
+    <corpname authfilenumber="(lccn)n83189807" source="naf">Friendly Sons of St. Patrick</corpname>
+    <corpname authfilenumber="(lccn)n78025571" source="naf">Gaelic Athletic Association</corpname>
+    <corpname rules="dacs" source="local">Emerald Societies. N.Y.</corpname>
+    <persname source="naf">O'Brien, Nora Connolly</persname>
+    <corpname authfilenumber="(lccn)n84074583" source="naf">Ancient Order of Hibernians</corpname>
+    <persname rules="dacs" source="naf">Carey, Hugh</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="series"><did><unittitle>Series I: Parades</unittitle><unitdate datechar="creation">1977-1989</unitdate></did><scopecontent id="aspace_084d0bfdd584412c83323632cb9d0e70"><head>Scope and Content Note</head><p>The photos in these series are mostly group shots of parade committee meetings or groups marching in various parades.  If the shots are with smaller groups of people, they are usually of the parade marshall or aides.</p></scopecontent><c id="aspace_ref5" level="file"><did><unittitle>St. Patrick's Day Parade Committee Meetings</unittitle><unitdate datechar="creation">1977-1985</unitdate><container id="aspace_4f8146b36dbb14f1d1f4c2bb862c6435" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_c2d96aa47662bfeaec1dc1d7e55590a0" parent="aspace_4f8146b36dbb14f1d1f4c2bb862c6435" type="Folder">1</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>St. Patrick's Day Parade</unittitle><unitdate datechar="creation">1978-1985</unitdate><container id="aspace_2b23344d30dfdc0ab351fa6bed2f8d4e" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_c447b5174a1a98df489db30012153c65" parent="aspace_2b23344d30dfdc0ab351fa6bed2f8d4e" type="Folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Rockaway Beach St. Patrick's Day Parade</unittitle><unitdate datechar="creation">1984</unitdate><container id="aspace_2e21c87f368ff52ec93c7902da2ed012" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_505efc0a3fbdde3d4ec3160e0b0e4734" parent="aspace_2e21c87f368ff52ec93c7902da2ed012" type="Folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Brooklyn Irish American Parade</unittitle><unitdate datechar="creation">1987-1989</unitdate><container id="aspace_37f6169afc39027ae37c7c1e3348980e" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_5976d1817b3d6f7db25dfb26d49216ce" parent="aspace_37f6169afc39027ae37c7c1e3348980e" type="Folder">4</container></did></c></c><c id="aspace_ref9" level="series"><did><unittitle>Series II: Politics &amp; Protests</unittitle><unitdate datechar="creation">1974-1989</unitdate></did><scopecontent id="aspace_eb20037808b875320425dcea075855a7"><head>Scope and Content Note</head><p>The photos in these series consist mainly of group shots at protests and picket lines in New York City.  The majority of the people in the photos are not identified, although occassionaly there will be a shot of a more well-known speaker at a rally, like Paul O'Dwyer or Bernadette Devlin.</p></scopecontent><c id="aspace_ref12" level="file"><did><unittitle>Stagg Commemorations</unittitle><unitdate datechar="creation">1974-1975</unitdate><container id="aspace_b1250a3dda7021f7b9d24f3a8287c18b" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_251f35406a450a7d7dc14604cdc16e67" parent="aspace_b1250a3dda7021f7b9d24f3a8287c18b" type="Folder">5</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Sargent Shriver with Washington Heights Sandhogs</unittitle><unitdate datechar="creation">1975</unitdate><container id="aspace_afbf932cdf2d7c82b664282648001e8e" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_2b4dc71d7f701c7186ffc4d8b7687b30" parent="aspace_afbf932cdf2d7c82b664282648001e8e" type="Folder">6</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Anti-Carey Demonstrations</unittitle><unitdate datechar="creation">1977</unitdate><container id="aspace_1ba589e163dfa8288114c9d56692d802" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_3e77cc3bdbbe946da173a20c483b78a4" parent="aspace_1ba589e163dfa8288114c9d56692d802" type="Folder">7</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Matilde Tone Commemoration</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_5b9527bd6c486096b9e5dcb2e58925a7" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_cba4de64066621af9571334bcc54385a" parent="aspace_5b9527bd6c486096b9e5dcb2e58925a7" type="Folder">8</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Padraig Pearse Commemoration</unittitle><unitdate datechar="creation">1979</unitdate><container id="aspace_a61fa87417b81c7b493f80853483a1e9" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_79ebe46058a73a8957ab81cede24e0c4" parent="aspace_a61fa87417b81c7b493f80853483a1e9" type="Folder">9</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Irish Republican Club</unittitle><unitdate datechar="creation">1979-1980</unitdate><container id="aspace_425e87eeec8e12c942aee77ffa87535f" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_4ebac152492ccb1d0960cc2dfc9c5c27" parent="aspace_425e87eeec8e12c942aee77ffa87535f" type="Folder">10</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Hunger Strike Demonstrations, New York City</unittitle><unitdate datechar="creation">1979-1983</unitdate><container id="aspace_b6ee48fbe3f7542c0ffcc93a56d8291c" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_b051af074794920c6486bda3eb066cef" parent="aspace_b6ee48fbe3f7542c0ffcc93a56d8291c" type="Folder">11</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Irish National Caucus</unittitle><unitdate datechar="creation">1979-1986</unitdate><container id="aspace_0982a74ef1a49805df2e9bd934e68472" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_0a7cc6da078dc7ef09dac4277e727051" parent="aspace_0982a74ef1a49805df2e9bd934e68472" type="Folder">12</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>NORAID Demonstrations</unittitle><unitdate datechar="creation">1979-1987</unitdate><container id="aspace_7a43d2693c00a1dace8cec8a9a16a60d" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_353cff28c6b14af0734e9215c818e84b" parent="aspace_7a43d2693c00a1dace8cec8a9a16a60d" type="Folder">13</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Joe Doherty Demonstrations</unittitle><unitdate datechar="creation">1980-1988</unitdate><container id="aspace_a256d24c3e766936534faaa75913d1ae" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_89775e7b2ff180d5414804fbf96b7434" parent="aspace_a256d24c3e766936534faaa75913d1ae" type="Folder">14</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>TWU Strike</unittitle><unitdate datechar="creation">1981</unitdate><container id="aspace_5c4aacea7f31f8b536de11d4f8cdc369" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_26c5d2035762087dbfded412a27bfc19" parent="aspace_5c4aacea7f31f8b536de11d4f8cdc369" type="Folder">15</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Protest against Prince of Wales Visit</unittitle><unitdate datechar="creation">1981</unitdate><container id="aspace_44e5a93777612eec0efea78ef9d602fd" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_a065cb90d70908a6a57dd185f415df41" parent="aspace_44e5a93777612eec0efea78ef9d602fd" type="Folder">16</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Irish Solidarity Day</unittitle><unitdate datechar="creation">1981-1986</unitdate><container id="aspace_d02163c0d32db0f028838c636298ca31" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_82e55faa38b419f4cfb87c5d30f61b89" parent="aspace_d02163c0d32db0f028838c636298ca31" type="Folder">17</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Political Protests</unittitle><unitdate datechar="creation">1981-1989</unitdate><container id="aspace_09b160c4e877ffddff2d9ff9b587c608" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_e2c8f31c52dff98d249e7f33291409cb" parent="aspace_09b160c4e877ffddff2d9ff9b587c608" type="Folder">18</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Protest, Black Watch Regiment, Madison Square Garden</unittitle><unitdate datechar="creation">1982</unitdate><container id="aspace_df8ce5d4c8d2b58e493a5e54b45a3a02" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_c3a2563e5ff79cfb1e0faa7eacf12285" parent="aspace_df8ce5d4c8d2b58e493a5e54b45a3a02" type="Folder">19</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Conferences</unittitle><unitdate datechar="creation">1982-1983</unitdate><container id="aspace_5981c5ce19e7524dd9d405b973eb3f46" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_b91d55a8c1b84e26c8a401daad032b1f" parent="aspace_5981c5ce19e7524dd9d405b973eb3f46" type="Folder">20</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Special Envoy to Northern Ireland</unittitle><unitdate datechar="creation">1983</unitdate><container id="aspace_b606eaa0c2c18d9ac0cf0e1084283547" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_b075b385d1af7b0e7f74056cacf1c893" parent="aspace_b606eaa0c2c18d9ac0cf0e1084283547" type="Folder">21</container></did></c></c><c id="aspace_ref29" level="series"><did><unittitle>Series III: Social Life</unittitle><unitdate datechar="creation">1974-1988</unitdate></did><scopecontent id="aspace_a3b10cc550704197432be4140f784d5d"><head>Scope and Content Note</head><p>The photos in this series deal with special events in the Irish-American community in and around New York City.  The majority of these are group shots of various social events.  Individuals are identified in accompanying notes when known.</p></scopecontent><c id="aspace_ref30" level="file"><did><unittitle>Cultural Events</unittitle><unitdate datechar="creation">1974-1986</unitdate><container id="aspace_d49d9d30fa7b986e632670200e0d026d" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_a98799eda85b1646c0698c1f5668e830" parent="aspace_d49d9d30fa7b986e632670200e0d026d" type="Folder">22</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Music Festival, Floyd Bennet Field, Brooklyn</unittitle><unitdate datechar="creation">1975</unitdate><container id="aspace_55400c8458160f35ebd250b5a2139f25" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_66c301d989203a70dcff15c409ebbcd7" parent="aspace_55400c8458160f35ebd250b5a2139f25" type="Folder">23</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>New York County Association Events</unittitle><unitdate datechar="creation">1975-1985</unitdate><container id="aspace_b43063b460abf40422428f41ed5a8145" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_5b4576050fc523c597e90f79be3ba2db" parent="aspace_b43063b460abf40422428f41ed5a8145" type="Folder">24</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Mt. Carmel Cemetery Restoration</unittitle><unitdate datechar="creation">1976-1982</unitdate><container id="aspace_baae61d3e6af7a3d93a468969a27978f" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_2b8267d23030440ab5aeea80ae2a8703" parent="aspace_baae61d3e6af7a3d93a468969a27978f" type="Folder">25</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Irish Freedom Show</unittitle><unitdate datechar="creation">1977-1982</unitdate><container id="aspace_36a24eb7f73319f361b8690e037eb846" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_caf2dd6dcb49bcc9bccb0f66ff4349fb" parent="aspace_36a24eb7f73319f361b8690e037eb846" type="Folder">26</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Ancient Order of Hibernians, New York</unittitle><unitdate datechar="creation">1977-1986</unitdate><container id="aspace_520b454696635af9aa343d1f8011851f" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_6624c35ff1ec8626a053ca1ed2b8dbeb" parent="aspace_520b454696635af9aa343d1f8011851f" type="Folder">27</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Emerald Society of the Courts of New York</unittitle><unitdate datechar="creation">1979-1985</unitdate><container id="aspace_233fefafec4fd2d3f079fd4a396a39c1" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_20e016c285650087f653c66369ecea94" parent="aspace_233fefafec4fd2d3f079fd4a396a39c1" type="Folder">28</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Religious Events</unittitle><unitdate datechar="creation">1979-1988</unitdate><container id="aspace_61f4c4265916427588564a1940361519" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_c0b47128c846101f99bb839dddbf3ace" parent="aspace_61f4c4265916427588564a1940361519" type="Folder">29</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Mary from Dungloe Competition, Brooklyn</unittitle><unitdate datechar="creation">1981</unitdate><container id="aspace_f957fa28ba18b8b60428e42735f78a37" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_531aa89db147aa00f011b221516efc0f" parent="aspace_f957fa28ba18b8b60428e42735f78a37" type="Folder">30</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>The Society of the Friendly Sons of St. Patrick</unittitle><unitdate datechar="creation">1981-1986</unitdate><container id="aspace_f0a02d686177b5ce28f5ed54061f460a" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_85f96f30f3a8f443e70861b1f9de0cc5" parent="aspace_f0a02d686177b5ce28f5ed54061f460a" type="Folder">31</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Gaelic Athletic Association (GAA) of New York Teams and Events</unittitle><unitdate datechar="creation">1982-1984</unitdate><container id="aspace_230c9138771e4b3841b143dc3c4b911e" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_50712fee79655fa8884e18fb94021fc8" parent="aspace_230c9138771e4b3841b143dc3c4b911e" type="Folder">32</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Kelly Games</unittitle><unitdate datechar="creation">1983-1984</unitdate><container id="aspace_71e68b9c6aea29bb13ebb2f9528a9ff5" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_7202c9d165e7c5b709508740c4578183" parent="aspace_71e68b9c6aea29bb13ebb2f9528a9ff5" type="Folder">33</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>United Irish Counties Association Events</unittitle><unitdate datechar="creation">1983-1987</unitdate><container id="aspace_1c584796628abb246072613c7768675b" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_034e921d47cddd2e71b3d37a61db0efc" parent="aspace_1c584796628abb246072613c7768675b" type="Folder">34</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>The Great Irish Fair, Coney Island</unittitle><unitdate datechar="creation">1985-1987</unitdate><container id="aspace_679a8ded14f441ce020a38dd0d8ab85f" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_3157032a68be2e4f1048dbe76cc1eeb7" parent="aspace_679a8ded14f441ce020a38dd0d8ab85f" type="Folder">35</container></did></c></c><c id="aspace_ref44" level="series"><did><unittitle>Series IV: People and Places</unittitle><unitdate datechar="creation">1973-1987</unitdate></did><scopecontent id="aspace_e4791a16f3e61c40711944011f3f6428"><head>Scope and Content Note</head><p>This series consists of close-up photographs of individuals or small groups, many of which taken in the Inwood neighborhood of Manhattan.</p></scopecontent><c id="aspace_ref45" level="file"><did><unittitle>Portraits</unittitle><unitdate datechar="creation">1973-1985</unitdate><container id="aspace_e3828b41a855bd6749cebde685bf293f" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_0951744efbec3d48f77beb803758fc5f" parent="aspace_e3828b41a855bd6749cebde685bf293f" type="Folder">36</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Bernadette Devlin and Liam Kelly</unittitle><unitdate datechar="creation">1974</unitdate><container id="aspace_de9b0f1d864af3e8a9ea9433bd40333d" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_0a734f736d6750f94bd7d028a4a197b0" parent="aspace_de9b0f1d864af3e8a9ea9433bd40333d" type="Folder">37</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Inwood, Manhattan: Neighborhood Life</unittitle><unitdate datechar="creation">1974-1986</unitdate><container id="aspace_e7ef5a6a14b63d42e3c270b8ea716e22" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_b09a9d57165b9b474e28a9ff0b533027" parent="aspace_e7ef5a6a14b63d42e3c270b8ea716e22" type="Folder">38</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Eagle Tavern</unittitle><unitdate datechar="creation">1975-1981</unitdate><container id="aspace_dcc41035a7b157d73fdf2c8615b95e47" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_b3596050bdd2f044bb6dc753b6a5d7c6" parent="aspace_dcc41035a7b157d73fdf2c8615b95e47" type="Folder">39</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>The Bronx</unittitle><unitdate datechar="creation">1975-1982</unitdate><container id="aspace_34ddccdf6db88dde0f580c1b484ba614" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_43bd63cfc03b8f13160ff56f185c28bb" parent="aspace_34ddccdf6db88dde0f580c1b484ba614" type="Folder">40</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Liam O'Leary</unittitle><unitdate datechar="creation">1978-1986</unitdate><container id="aspace_600caee41d4a8bfcac6f0a80d13c8b80" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_c538c0962ec7a63beb03273b7bee2e49" parent="aspace_600caee41d4a8bfcac6f0a80d13c8b80" type="Folder">41</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Rockaway</unittitle><unitdate datechar="creation">1979-1980</unitdate><container id="aspace_bd40eefce2f7702bf97b0c9679f83062" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_931877f28b9f356e2a97467c1696cf4a" parent="aspace_bd40eefce2f7702bf97b0c9679f83062" type="Folder">42</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Musicians, Portraits</unittitle><unitdate datechar="creation">1979-1987</unitdate><container id="aspace_37dfaa4ae6f3df541b29fb2c3ff0baf1" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_6e8c828129a4391f14f874c3466f8ab8" parent="aspace_37dfaa4ae6f3df541b29fb2c3ff0baf1" type="Folder">43</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Nora Connolly O'Brien</unittitle><unitdate datechar="creation">1980</unitdate><container id="aspace_361b00e677ce782feb9ef7f1823e6772" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_b1df7aa0665da081ed1072c3c5213552" parent="aspace_361b00e677ce782feb9ef7f1823e6772" type="Folder">44</container></did></c></c><c id="aspace_ref54" level="series"><did><unittitle>Series V: Photos by Other People</unittitle><unitdate datechar="creation">1932-1981</unitdate></did><c id="aspace_ref55" level="file"><did><unittitle>Paul Delaney, Image of Great-Grandfather</unittitle><unitdate datechar="creation">unknown</unitdate><container id="aspace_19a9b8ec49df0ee6ceca94489b1e35b0" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_4790cc3327be1603e658af8e9b2f79f0" parent="aspace_19a9b8ec49df0ee6ceca94489b1e35b0" type="Folder">45</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>28th Annual UICA Irish Ball</unittitle><unitdate datechar="creation">1932</unitdate><container id="aspace_d776607e98ea36a1fb1733eb215d455e" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_111d5b4d99169bd68c584dc7ef85bdb5" parent="aspace_d776607e98ea36a1fb1733eb215d455e" type="Folder">46</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>John McCormack Archive Photos</unittitle><unitdate datechar="creation">[1930s]</unitdate><container id="aspace_0a05f2e0728bc62961d4442d4e6d5bb1" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_8e860f531db9cc5960869e73a2de6470" parent="aspace_0a05f2e0728bc62961d4442d4e6d5bb1" type="Folder">47</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Kathleen Cooke Drawing &amp; Sculpture</unittitle><unitdate datechar="creation">unknown</unitdate><container id="aspace_0bb593c33a6ea47f3e0d470e7a7a72f2" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_a6a9a89d5d359d2c89b6135d70339aa1" parent="aspace_0bb593c33a6ea47f3e0d470e7a7a72f2" type="Folder">48</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Hunger Striker Patsy O'Hara</unittitle><unitdate datechar="creation">1981</unitdate><container id="aspace_e88d0aecbb9ce6e0afb353a72ef62342" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_3ec4e7a6119fcc88791b03f60261597a" parent="aspace_e88d0aecbb9ce6e0afb353a72ef62342" type="Folder">49</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Josephine Patricia Smith</unittitle><unitdate datechar="creation">unknown</unitdate><container id="aspace_ed0cdeeee286f9fa7b86b09f9c5d58c5" label="Mixed Materials [31142054615136]" type="Box">1</container><container id="aspace_ed89af283986701d6dfa0a9b9ed587c9" parent="aspace_ed0cdeeee286f9fa7b86b09f9c5d58c5" type="Folder">50</container></did></c></c></dsc>
+</archdesc>
 </ead>

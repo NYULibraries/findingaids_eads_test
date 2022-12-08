@@ -1,668 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_166</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Godzilla Asian American Arts Network Archive<lb/><date>1990-2003</date><lb/> <num>MSS.166</num></titleproper>
-        <author>collection processed by Nicole Kenley, 2007.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:19:13 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Godzilla Asian American Arts Network Archive</unittitle>
-      <origination label="Creator">
-        <corpname source="local">Godzilla Asian American Arts Network</corpname>
-      </origination>
-      <unitid>MSS.166</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1990/2003" type="inclusive">1990-2003</unitdate>
-      <abstract id="aspace_74d903fa3e25846c39e861d6033142a7">The Godzilla Asian American Arts Network Archive houses the materials of the Godzilla Asian American Arts Network. The collection includes correspondence, exhibition dossiers, administrative materials, publications, and related materials.</abstract>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
-    </did>
-    <acqinfo id="aspace_15640fd146da2644614066c574bd35b0">
-      <head>Provenance</head>
-      <p>Ken Chu, founder of the Godzilla: Asian American Arts Network, donated the materials to the Fales Library in 2005.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_ab413958570da5850520585a29fd864b">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <userestrict id="aspace_527bf4ec538277be60e52ee33c6b6ae9">
-      <head>Use Restrictions</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </userestrict>
-    <bioghist id="aspace_8d7cd8de231fe1b55f8c0a860d2dfd95">
-      <head>Historical Note</head>
-      <p>Godzilla was an Asian American arts collective and support network founded in 1990. Godzilla's founding members believed that Asian American artists did not have a suitable organization to support, promote, and encourage their visual arts, and Godzilla sought to fill this need. Godzilla disbanded in 2001.</p>
-    </bioghist>
-    <scopecontent id="aspace_241f0e580fa77a3f8f81fa27f0e79429">
-      <head>Scope and Content Note</head>
-      <p>The Godzilla Asian American Arts Network Archive contains documents relating to the activities and goals of the Godzilla Asian American Arts Network. Included are documents detailing the administrative and artistic aspects of Godzilla and related arts organizations.</p>
-    </scopecontent>
-    <arrangement id="aspace_b6cab5483e9f0598d7ee0a20dcb371bb">
-      <head>Arrangement</head>
-      <p>The Godzilla Asian American Arts Network Archive has been arranged into five series: Correspondence, Exhibitions, Newsletters and Publicity, Administrative Materials, and Related Organizations. </p>
-      <p>Where applicable, the folders within the five series have been arranged chronologically. The contents of the folders are also arranged by date unless otherwise organized by Godzilla.</p>
-      <list numeration="arabic" type="ordered">
-        <head>Missing Title</head>
-        <item>Series I: Correspondence</item>
-        <item>Series II: Exhibitions</item>
-        <item>Series III: Newsletters and Publicity</item>
-        <item>Series IV: Administrative Materials</item>
-        <item>Series V: Related Organizations</item>
-        <item>OVERSIZE Series II: Exhibitions</item>
-        <item>OVERSIZE Series V: Related Organizations</item>
-      </list>
-    </arrangement>
-    <prefercite id="aspace_652ccc322a61e37d8fc9cb3bcfbe1329">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form:<lb/><lb/>
-Identification of item,  date (if known); The Godzilla Asian American Arts Network Archive; MSS 166; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <genreform source="aat">Photographs.</genreform>
-      <genreform source="aat">Correspondence.</genreform>
-      <subject source="lcsh">Multiculturalism.</subject>
-      <genreform source="aat">Clippings (information artifacts)</genreform>
-      <genreform source="aat">Periodicals</genreform>
-      <subject source="lcsh">Art |x Finance.</subject>
-      <geogname source="lcsh">New York (N.Y.).</geogname>
-      <subject source="lcsh">Art and society.</subject>
-      <genreform source="aat">Notes.</genreform>
-      <genreform source="aat">Grant proposals.</genreform>
-      <subject source="lcsh">Racism.</subject>
-      <genreform source="aat">Slides (photographs)</genreform>
-      <genreform source="aat">Fliers (printed matter)</genreform>
-      <subject source="lcsh">Asian American artists.</subject>
-      <subject source="lcsh">Asian American arts |z New York (State) |z New York.</subject>
-      <subject source="lcsh">Asian American arts |z New York (State) |z New York |v Periodicals.</subject>
-      <subject source="lcsh">Asian Americans -- Ethnic identity.</subject>
-      <subject source="lcsh">Artists and community -- United States</subject>
-      <subject source="lcsh">Asian American art |y 20th century |v Exhibitions.</subject>
-      <subject source="lcsh">Asian American art |y 21st century |v Exhibitions.</subject>
-      <subject source="lcsh">Asian American art -- Periodicals.</subject>
-      <subject source="lcsh">Asian American artists -- Exhibitions</subject>
-      <genreform source="aat">Financial records</genreform>
-      <subject source="lcsh">Asian American artists --  New York (State) -- New York -- Exhibitions.</subject>
-      <subject source="lcsh">Asian American artists -- New York (State) -- New York -- Societies.</subject>
-      <subject source="lcsh">Asian American artists |z United States |v Periodicals.</subject>
-      <subject source="lcsh">Art |x Finance |z United States</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_166">mss_166</eadid><filedesc><titlestmt><titleproper>Guide to the Godzilla Asian American Arts Network Archive<lb/><date>1990-2003</date><lb/> <num>MSS.166</num></titleproper><author>collection processed by Nicole Kenley, 2007.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 11:10:02 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Godzilla Asian American Arts Network Archive</unittitle>
+    <origination label="Creator">
       <corpname source="local">Godzilla Asian American Arts Network</corpname>
-      <persname source="naf">Yamamoto, Lynne, 1961-</persname>
-      <corpname source="naf">Asian American Arts Alliance</corpname>
-      <persname source="local">Chu, Ken</persname>
-      <corpname source="local">Godzilla (Group of artists) -- Exhibitions</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref11" level="series">
-        <did>
-          <unittitle>Series I: Correspondence</unittitle>
-        </did>
-        <scopecontent id="aspace_f6d238c368c2b1ed54116f2621cdb7bd">
-          <head>Scope and Contents note</head>
-          <p>This series contains Godzilla's correspondence from 1991-2001, as well as letters to send to artists and files kept by Lynne Yamamoto and Godzilla founder Ken Chu. Ken Chu's folders contain notices of upcoming art exhibitions sent to him by artitsts, two slides of his own work, and a newspaper clipping. Lynne Yamamoto's folder, separated into two parts, holds correspondence and administrative documents she collected.</p>
-        </scopecontent>
-        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Correspondence 1991-1993</unittitle>
-            <unitdate datechar="creation">1991-1993</unitdate>
-            <container altrender="Record carton" id="aspace_e8f4dc0a16572ec01c432e20b7a857fb" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_8605439e89cbc366b5aa3fbb34ba5e6e" parent="aspace_e8f4dc0a16572ec01c432e20b7a857fb" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Correspondence 1994</unittitle>
-            <unitdate datechar="creation">1994</unitdate>
-            <container altrender="Record carton" id="aspace_4c8eac1238d9f57786b09b43e9569aa6" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_700d9b25e2136e29e5974891e82d782c" parent="aspace_4c8eac1238d9f57786b09b43e9569aa6" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Correspondence 1995</unittitle>
-            <unitdate datechar="creation">1996</unitdate>
-            <container altrender="Record carton" id="aspace_c1b4a918eef205dbcc013a00a2d58c37" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_e0b0a08d19ea72848898a5d057f10365" parent="aspace_c1b4a918eef205dbcc013a00a2d58c37" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Correspondence 1996-2001</unittitle>
-            <unitdate datechar="creation">1996-2001</unitdate>
-            <container altrender="Record carton" id="aspace_83015fc91f1a952595bafa045788bbfc" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_27bb4f2b496f3b19c06f8e8da6d4d616" parent="aspace_83015fc91f1a952595bafa045788bbfc" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Undated Correspondence</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_e9664f161010c65097356f3f637214de" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_025931bd7bf137dabe879ccb9c09c6fb" parent="aspace_e9664f161010c65097356f3f637214de" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Correspondence to Godzilla artists regarding <emph render="italic">From Basement to Godzilla</emph></unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_a1547f926a3b96f77fb3028e9684bdb8" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_153b5a598eb43365753fccf296f88fb9" parent="aspace_a1547f926a3b96f77fb3028e9684bdb8" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Correspondence sent to Ken Chu</unittitle>
-            <unitdate datechar="creation">1994-1995</unitdate>
-            <container altrender="Record carton" id="aspace_6d5b932b722a19cc5e0b465072969b57" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_02ec42b4e4d7ae6fee3916dc9b9835d5" parent="aspace_6d5b932b722a19cc5e0b465072969b57" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Correspondence from Dan Gilbert to Ken Chu, enclosing two slides of Chu's artwork</unittitle>
-            <unitdate datechar="creation">1994</unitdate>
-            <container altrender="Record carton" id="aspace_e7fbd9e9a8a429b8b92080aa04b98b75" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_b383de3fc693210cb7d49a8a1b33d039" parent="aspace_e7fbd9e9a8a429b8b92080aa04b98b75" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Clipping of <emph render="italic">Off-Campus</emph> newspaper collected by Chu</unittitle>
-            <unitdate datechar="creation">1994</unitdate>
-            <container altrender="Record carton" id="aspace_6d0ae8901bfa4059c7973208d8cfd0b0" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_2f4fdd4c3fc6c9129118a0078648ed96" parent="aspace_6d0ae8901bfa4059c7973208d8cfd0b0" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Correspondence collected by Lynne Yamamoto</unittitle>
-            <unitdate datechar="creation">1991-1993</unitdate>
-            <container altrender="Record carton" id="aspace_9cede2a9bdbff3f89a38eac15a10296a" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_edfdef04cc230bc2b88aee9b2d0d5c6f" parent="aspace_9cede2a9bdbff3f89a38eac15a10296a" type="Folder">10 A</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Godzilla administrative documents collected by Lynne Yamamoto</unittitle>
-            <unitdate datechar="creation">1991</unitdate>
-            <container altrender="Record carton" id="aspace_ed06f9ca4907227596dfaa3fd858b9cf" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_22e548b75b5252ad2861a72b5de5545c" parent="aspace_ed06f9ca4907227596dfaa3fd858b9cf" type="Folder">10 B</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref24" level="series">
-        <did>
-          <unittitle>Series II: Exhibitions</unittitle>
-        </did>
-        <scopecontent id="aspace_d39562f80a7daa99d948ff0708052146">
-          <head>Scope and Contents note</head>
-          <p>This series contains dossiers from Godzilla's various exhibitions, including photographs, brochures, and logistical documents. Nine exhibitions are included, as well as miscellaneous photographs.</p>
-        </scopecontent>
-        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">New World Order III: The Curio Shop</emph> Exhibition Dossier</unittitle>
-            <unitdate datechar="creation">1993</unitdate>
-            <container altrender="Record carton" id="aspace_b2519feecb2909b805bf4225e2ba34fa" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_128177f1eca10f75560a806e26c90828" parent="aspace_b2519feecb2909b805bf4225e2ba34fa" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">Word Gets Around</emph> Project Materials</unittitle>
-            <unitdate datechar="creation">1994-1997</unitdate>
-            <container altrender="Record carton" id="aspace_0b8c77364a031880c95014e7f7890037" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_e61249bc83ece2af24db2cf783825a64" parent="aspace_0b8c77364a031880c95014e7f7890037" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">Teenage Mutant Ninja Turtles...Not!</emph> and Reed Arts Weekend Documents</unittitle>
-            <unitdate datechar="creation">1994-1995</unitdate>
-            <container altrender="Record carton" id="aspace_1f66c605d477f7199b45982dda22e8c8" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_ed480822f5e91052b19d7de1a90a9bad" parent="aspace_1f66c605d477f7199b45982dda22e8c8" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">Teenage Mutant Ninja Turtles...Not!</emph> Exibition Dossier</unittitle>
-            <unitdate datechar="creation">1995-1997</unitdate>
-            <container altrender="Record carton" id="aspace_47288583d846060f4b701ccd8fb694b1" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_671fc9a5dd93c99cc631789aa4801f03" parent="aspace_47288583d846060f4b701ccd8fb694b1" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">And We Speak</emph> Exhibition Dossier</unittitle>
-            <unitdate datechar="creation">1996</unitdate>
-            <container altrender="Record carton" id="aspace_3d9329d13609f3838e8ffef5d08d4978" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_4b4165f1d06f241fdbf0dc49c0ed4834" parent="aspace_3d9329d13609f3838e8ffef5d08d4978" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">Travel-Sized</emph> Exhibition Dossier</unittitle>
-            <unitdate datechar="creation">1997</unitdate>
-            <container altrender="Record carton" id="aspace_6f9ccb73d3b9f6aad9be47c01c6210fe" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_ca67a6d5db7121d6e0b62f3f9917f9ff" parent="aspace_6f9ccb73d3b9f6aad9be47c01c6210fe" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">The Bank/Why Are You Here?</emph> Exhibition Documents</unittitle>
-            <unitdate datechar="creation">1997</unitdate>
-            <container altrender="Record carton" id="aspace_b0c18ef8832644838a4de934a5802da6" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_45238f403790acb3d8856a50e4a0bf57" parent="aspace_b0c18ef8832644838a4de934a5802da6" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">Fermented</emph> Exhibition Documents</unittitle>
-            <unitdate datechar="creation">1997</unitdate>
-            <container altrender="Record carton" id="aspace_b8cf9dfc5dc0f854c1e4d820584ac281" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_0e4c788729952a9caabf40e699379061" parent="aspace_b8cf9dfc5dc0f854c1e4d820584ac281" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">Art in General:Why Asia?</emph> Exhibition Documents</unittitle>
-            <unitdate datechar="creation">2001</unitdate>
-            <container altrender="Record carton" id="aspace_d63c0f7623c1296f2d1bfad109addea2" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_bd13a372ae7132635bf5f25fd5949dd3" parent="aspace_d63c0f7623c1296f2d1bfad109addea2" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Miscellaneous Photos</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_b4460d3e8f499f35e151a6a2af451530" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_98ce9992fa10d5592525b5faaa77bdfd" parent="aspace_b4460d3e8f499f35e151a6a2af451530" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Gallery Submission Guidelines</unittitle>
-            <unitdate datechar="creation">various</unitdate>
-            <container altrender="Record carton" id="aspace_e00c916b386ac4a4bfd3876f1aee0d48" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_a10f8f32e36e21727f3096c4417e6203" parent="aspace_e00c916b386ac4a4bfd3876f1aee0d48" type="Folder">21</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref37" level="series">
-        <did>
-          <unittitle>Series III: Newsletters and Publicity</unittitle>
-        </did>
-        <scopecontent id="aspace_9f8934e9cc0f9f0f6ab9f1e5e7d024b5">
-          <head>Scope and Contents note</head>
-          <p>Series III comprises the <emph render="italic">Godzilla</emph> newsletter and publishing information as well as the "Godzillette" bulletin, an issue of <emph render="italic">New Observations</emph> magazine edited by Godzilla, and Godzilla events fliers.</p>
-        </scopecontent>
-        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">Godzilla</emph> Newsletters and Publication Information</unittitle>
-            <unitdate datechar="creation">1991-1995</unitdate>
-            <container altrender="Record carton" id="aspace_11d51b82987db51336eb314e55d11c14" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_ab4e4677c434ef6a5dcc55a65448e7d2" parent="aspace_11d51b82987db51336eb314e55d11c14" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>"Godzillettes"</unittitle>
-            <unitdate datechar="creation">1991-1996</unitdate>
-            <container altrender="Record carton" id="aspace_f10d0d8f42cd34e12e6af55491959d01" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_ce512ade2f34423082972e2720c28fd8" parent="aspace_f10d0d8f42cd34e12e6af55491959d01" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">New Observations</emph> Magazine #107 (Guest Editor: Godzilla)</unittitle>
-            <unitdate datechar="creation">1995</unitdate>
-            <container altrender="Record carton" id="aspace_8f2b6ce6814ee688532b15e02e2150ba" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_19b468d7f35f777ccfbc3f20d55795b1" parent="aspace_8f2b6ce6814ee688532b15e02e2150ba" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Godzilla Events Fliers</unittitle>
-            <unitdate datechar="creation">1992-2001</unitdate>
-            <container altrender="Record carton" id="aspace_84e8629a6befb547b5f9aacfc7ca3709" label="Mixed Materials [31142063598026]" type="Box">1</container>
-            <container id="aspace_ad6b23c78dc2f9d7fc7f9da1e0c3017b" parent="aspace_84e8629a6befb547b5f9aacfc7ca3709" type="Folder">25</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref43" level="series">
-        <did>
-          <unittitle>Series IV: Administrative Materials</unittitle>
-        </did>
-        <scopecontent id="aspace_6f930581cf57f26515c93beef9847f8e">
-          <head>Scope and Contents note</head>
-          <p>Series IV contains administrative materials broken down into two subseries: organizational documents and financial documents. Subseries A: Organizational Documents has introductory and operations information, contact sheets, steering committee minutes and other administrative documents such as a questionnaire and Godzilla stationary. Suberies B: Financial Documents holds Godzilla's financial records from 1991-2003, along with grant applications and miscellaneous/undated financial records and other document fragments.</p>
-        </scopecontent>
-        <c id="aspace_ref44" level="subseries">
-          <did>
-            <unittitle>Subseries A: Organizational Documents</unittitle>
-          </did>
-          <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Introduction and Operations Information</unittitle>
-              <unitdate datechar="creation">1994-1998</unitdate>
-              <container altrender="Record carton" id="aspace_f084fbe48c6833e8be8f0da240de94bf" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_8743742739b5cfd6123306dda733f5d5" parent="aspace_f084fbe48c6833e8be8f0da240de94bf" type="Folder">26</container>
-            </did>
-          </c>
-          <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Contact Sheets</unittitle>
-              <unitdate datechar="creation">various</unitdate>
-              <container altrender="Record carton" id="aspace_cf68556c2af410e230a36c6109cc7e6b" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_a949907ddaf30b430b3aeea61f377a64" parent="aspace_cf68556c2af410e230a36c6109cc7e6b" type="Folder">27</container>
-            </did>
-          </c>
-          <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Steering Committee Minutes</unittitle>
-              <unitdate datechar="creation">1993-1995</unitdate>
-              <container altrender="Record carton" id="aspace_9bb95d686f0f542b928b940df460be17" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_597f282324af997673e1aaffe05a9573" parent="aspace_9bb95d686f0f542b928b940df460be17" type="Folder">28</container>
-            </did>
-          </c>
-          <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Spring 1994 Questionnaire</unittitle>
-              <unitdate datechar="creation">1994</unitdate>
-              <container altrender="Record carton" id="aspace_d0ae8d6e6f3865d3fcd25271f1ebebd2" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_ee8d88eb3d832cbeb71fa454b054019e" parent="aspace_d0ae8d6e6f3865d3fcd25271f1ebebd2" type="Folder">29</container>
-            </did>
-          </c>
-          <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Stationary</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_fd43c75025f45bf2aad8fbc4a73afcb7" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_0380c1d87969adada7c25ee871b5a1d2" parent="aspace_fd43c75025f45bf2aad8fbc4a73afcb7" type="Folder">30</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_ref50" level="subseries">
-          <did>
-            <unittitle>Subseries B: Financial Documents</unittitle>
-          </did>
-          <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1991</unittitle>
-              <unitdate datechar="creation">1991</unitdate>
-              <container altrender="Record carton" id="aspace_356036c5835f862048b095315663320c" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_edfb0baa4e803b22ff38617c425db567" parent="aspace_356036c5835f862048b095315663320c" type="Folder">31</container>
-            </did>
-          </c>
-          <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1992</unittitle>
-              <unitdate datechar="creation">1992</unitdate>
-              <container altrender="Record carton" id="aspace_3fe15818d0f5486392d7dee69cc65a7a" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_40caa4e5be2f1ca151ff996ea3889d74" parent="aspace_3fe15818d0f5486392d7dee69cc65a7a" type="Folder">32</container>
-            </did>
-          </c>
-          <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1993</unittitle>
-              <unitdate datechar="creation">1993</unitdate>
-              <container altrender="Record carton" id="aspace_daef83e9803a25c710677a9d94591233" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_a3ffb97bc875bf5ece9db93e7595309d" parent="aspace_daef83e9803a25c710677a9d94591233" type="Folder">33</container>
-            </did>
-          </c>
-          <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1994</unittitle>
-              <unitdate datechar="creation">1994</unitdate>
-              <container altrender="Record carton" id="aspace_13296639d3c7fecd3138ccde25c54556" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_6f3ebe0a862fe0fde008cd79c13cfc75" parent="aspace_13296639d3c7fecd3138ccde25c54556" type="Folder">34</container>
-            </did>
-          </c>
-          <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1995</unittitle>
-              <unitdate datechar="creation">1995</unitdate>
-              <container altrender="Record carton" id="aspace_061958fc9dd0f6b67aa1c0259a50fdf5" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_427380f0f091ad4f76fefbec9f8002db" parent="aspace_061958fc9dd0f6b67aa1c0259a50fdf5" type="Folder">35</container>
-            </did>
-          </c>
-          <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1996</unittitle>
-              <unitdate datechar="creation">1996</unitdate>
-              <container altrender="Record carton" id="aspace_dec07e98e9404d06a525587628032299" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_b30b378f6ecb76c9d88781ce3c85a557" parent="aspace_dec07e98e9404d06a525587628032299" type="Folder">36</container>
-            </did>
-          </c>
-          <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1997</unittitle>
-              <unitdate datechar="creation">1997</unitdate>
-              <container altrender="Record carton" id="aspace_e5c8ac606369fe84da33a0313140e738" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_98c96863dc1772c69714b00cd2e11f90" parent="aspace_e5c8ac606369fe84da33a0313140e738" type="Folder">37</container>
-            </did>
-          </c>
-          <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1998</unittitle>
-              <unitdate datechar="creation">1998</unitdate>
-              <container altrender="Record carton" id="aspace_dc3f8784c71ef08053169fd7c502214d" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_6274fd46f6aba8eee3a8fbc5bbe244d7" parent="aspace_dc3f8784c71ef08053169fd7c502214d" type="Folder">38</container>
-            </did>
-          </c>
-          <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 1999</unittitle>
-              <unitdate datechar="creation">1999</unitdate>
-              <container altrender="Record carton" id="aspace_1562856d23f97b28bd70faef05933f50" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_84b1c05b1495eb2469aed5a6625bfed9" parent="aspace_1562856d23f97b28bd70faef05933f50" type="Folder">39</container>
-            </did>
-          </c>
-          <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 2000</unittitle>
-              <unitdate datechar="creation">2000</unitdate>
-              <container altrender="Record carton" id="aspace_b5e240e1ac696602d635399909bf9a2c" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_bbd91dc3a7e0a05f394734132c048d05" parent="aspace_b5e240e1ac696602d635399909bf9a2c" type="Folder">40</container>
-            </did>
-          </c>
-          <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 2001</unittitle>
-              <unitdate datechar="creation">2001</unitdate>
-              <container altrender="Record carton" id="aspace_d8d42c24493d5f901d5c9e7e67eee202" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_9b7fbcff845dcb323b0b63e7d47a2624" parent="aspace_d8d42c24493d5f901d5c9e7e67eee202" type="Folder">41</container>
-            </did>
-          </c>
-          <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 2002</unittitle>
-              <unitdate datechar="creation">2002</unitdate>
-              <container altrender="Record carton" id="aspace_983d59da147bdff795d574a70816f960" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_03743367b0fb150505aa7551a0d96621" parent="aspace_983d59da147bdff795d574a70816f960" type="Folder">42</container>
-            </did>
-          </c>
-          <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Financial Records 2003</unittitle>
-              <unitdate datechar="creation">2003</unitdate>
-              <container altrender="Record carton" id="aspace_5256b9b628b5dbe4b17798e4a5824297" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_7f4c4e99f85398d0f6410d67c3c04fb7" parent="aspace_5256b9b628b5dbe4b17798e4a5824297" type="Folder">43</container>
-            </did>
-          </c>
-          <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Miscellaneous Godzilla Financial Records</unittitle>
-              <unitdate datechar="creation">various</unitdate>
-              <container altrender="Record carton" id="aspace_982731c1e8ffbc63359c09f4276aad99" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_8f98745f1258b59f57142f2883893d3b" parent="aspace_982731c1e8ffbc63359c09f4276aad99" type="Folder">44</container>
-            </did>
-          </c>
-          <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Godzilla Grant Materials</unittitle>
-              <unitdate datechar="creation">1991-1995</unitdate>
-              <container altrender="Record carton" id="aspace_4a15ab6a5aa84ee9fa81552badf98b26" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_b8f444575a92930a309000f4dd64bc41" parent="aspace_4a15ab6a5aa84ee9fa81552badf98b26" type="Folder">45</container>
-            </did>
-          </c>
-          <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>North Star Fund Materials</unittitle>
-              <unitdate datechar="creation">1994</unitdate>
-              <container altrender="Record carton" id="aspace_feeaae58f9db03773171dec090f97219" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_9df3bfce59509c837f47f5fa8437e050" parent="aspace_feeaae58f9db03773171dec090f97219" type="Folder">46</container>
-            </did>
-          </c>
-          <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Miscellaneous Fragments</unittitle>
-              <unitdate datechar="creation">undated</unitdate>
-              <container altrender="Record carton" id="aspace_1f23ec7b5d49795116f9887bad76df7f" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_7ac955879d561d00a024b87a8fa05af6" parent="aspace_1f23ec7b5d49795116f9887bad76df7f" type="Folder">47</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="aspace_ref69" level="series">
-        <did>
-          <unittitle>Series V: Related Organizations</unittitle>
-        </did>
-        <scopecontent id="aspace_e5adf5d3e5897e8f28c6b574d97d93e3">
-          <head>Scope and Contents note</head>
-          <p>Series V comprises various documents, articles, and publications either published by or related to organizations related to Godzilla. Some organizations, such as the Asian American Arts Alliance, collaborated with Godzilla; others simply had a similar purpose. Series V contains three subseries: Documents, Publications, and Items of Interest to Godzilla. Series A: Documents houses ideas for collaboratory projects, financial information, and operating information about related organizations. Subseries B: Publications contains journals, newsletters, and exhibition brochures from similar arts organizations. Subseries C: Items of Interest to Godzilla holds newspaper clippings and articles collected by Godzilla that either feature Godzilla and/or a related organization, or address a cause related to Godzilla's purpose.</p>
-        </scopecontent>
-        <c id="aspace_ref70" level="subseries">
-          <did>
-            <unittitle>Subseries A: Documents from Related Organizations</unittitle>
-          </did>
-          <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Collaboratory Proposals</unittitle>
-              <unitdate datechar="creation">various</unitdate>
-              <container altrender="Record carton" id="aspace_60ed0727c150ca63f1adedaa642b0500" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_7d4ebbe274a7bba160d04a2f5412b41e" parent="aspace_60ed0727c150ca63f1adedaa642b0500" type="Folder">48</container>
-            </did>
-          </c>
-          <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Documents from Related Organizations</unittitle>
-              <unitdate datechar="creation">1993-1994</unitdate>
-              <container altrender="Record carton" id="aspace_717265a35c5e3bcdf18726e080219659" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_2c73e6932ecb58cdb58ba2892f789c9f" parent="aspace_717265a35c5e3bcdf18726e080219659" type="Folder">49</container>
-            </did>
-          </c>
-          <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Asian American Arts Alliance Financial Documents</unittitle>
-              <unitdate datechar="creation">1993, 1995</unitdate>
-              <container altrender="Record carton" id="aspace_d6c04d46132850dd2ddcece4dc9014e7" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_90f7468733368347f5bb805e4ec0016f" parent="aspace_d6c04d46132850dd2ddcece4dc9014e7" type="Folder">50</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_ref74" level="subseries">
-          <did>
-            <unittitle>Subseries B: Publications</unittitle>
-          </did>
-          <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Asian American Arts Alliance Publications</unittitle>
-              <unitdate datechar="creation">1990-1995</unitdate>
-              <container altrender="Record carton" id="aspace_3c476690f597e60b47a2c5fe78c4b464" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_31b45816cfc13146cc402811dc29d2be" parent="aspace_3c476690f597e60b47a2c5fe78c4b464" type="Folder">51</container>
-            </did>
-          </c>
-          <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Publications of Related Organizations</unittitle>
-              <unitdate datechar="creation">1986-1998</unitdate>
-              <container altrender="Record carton" id="aspace_c5805b0372fa38fe67efa527369fe960" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_502743fab9b355302ecde2adb6be1f85" parent="aspace_c5805b0372fa38fe67efa527369fe960" type="Folder">52</container>
-            </did>
-          </c>
-          <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Exhibit Brochures</unittitle>
-              <unitdate datechar="creation">1991-2001</unitdate>
-              <container altrender="Record carton" id="aspace_1c734a05c3de1ac8c23fe7f17d29024a" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_d285f4e50c8503b87904115838580ceb" parent="aspace_1c734a05c3de1ac8c23fe7f17d29024a" type="Folder">53</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_ref78" level="subseries">
-          <did>
-            <unittitle>Subseries C: Items of Interest to Godzilla</unittitle>
-          </did>
-          <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Newspaper Clippings</unittitle>
-              <unitdate datechar="creation">1991-1996</unitdate>
-              <container altrender="Record carton" id="aspace_0f2712ce6fc9f1baa1aba864fd9360dd" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_ad2b6833e189b5821ed52af8fbaa72f5" parent="aspace_0f2712ce6fc9f1baa1aba864fd9360dd" type="Folder">54</container>
-            </did>
-          </c>
-          <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Articles of Interest Collected by Godzilla</unittitle>
-              <unitdate datechar="creation">various</unitdate>
-              <container altrender="Record carton" id="aspace_7999a89f0b97a1b0b5ba47c81d002f64" label="Mixed Materials [31142063598026]" type="Box">1</container>
-              <container id="aspace_bc5c940d817d3fe02af3b84baf5d9c6e" parent="aspace_7999a89f0b97a1b0b5ba47c81d002f64" type="Folder">55</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="aspace_ref82" level="series">
-        <did>
-          <unittitle>OVERSIZE Series II: Exhibitions</unittitle>
-        </did>
-        <scopecontent id="aspace_bbc45f9c314db4c5e41380afc661066a">
-          <head>Scope and Contents note</head>
-          <p>Series II OVERSIZE houses a collector's set of prints from the <emph render="italic">From Basement to Godzilla</emph> exhibition.</p>
-        </scopecontent>
-        <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle><emph render="italic">From Basement to Godzilla</emph> Exhibition Prints</unittitle>
-            <unitdate datechar="creation">1991-1995</unitdate>
-            <container altrender="Hollinger Flat OS 16.75" id="aspace_e20ea0f3f3f61d627b1ace7a91ad922f" label="Mixed Materials [31142054896660]" type="Box">2</container>
-            <container id="aspace_f12039e785fdd4a04534fca782170373" parent="aspace_e20ea0f3f3f61d627b1ace7a91ad922f" type="Folder">56</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref85" level="series">
-        <did>
-          <unittitle>OVERSIZE Series V: Related Organizations</unittitle>
-        </did>
-        <c id="aspace_ref86" level="subseries">
-          <did>
-            <unittitle>Subseries B: Publications</unittitle>
-          </did>
-          <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle><emph render="italic">Gidra</emph> Magazine 20th Anniversary Edition</unittitle>
-              <unitdate datechar="creation">1990</unitdate>
-              <container altrender="Hollinger Flat OS 16.75" id="aspace_2a2ef7c327447f3571d7f59397a70100" label="Mixed Materials [31142054896660]" type="Box">2</container>
-              <container id="aspace_41645d0bbb9b7bc641d942e65670170b" parent="aspace_2a2ef7c327447f3571d7f59397a70100" type="Folder">57</container>
-            </did>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>MSS.166</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1990/2003" type="inclusive">1990-2003</unitdate>
+    <abstract id="aspace_74d903fa3e25846c39e861d6033142a7" label="Abstract">The Godzilla Asian American Arts Network Archive houses the materials of the Godzilla Asian American Arts Network. The collection includes correspondence, exhibition dossiers, administrative materials, publications, and related materials.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <acqinfo id="aspace_15640fd146da2644614066c574bd35b0">
+    <head>Provenance</head>
+<p>Ken Chu, founder of the Godzilla: Asian American Arts Network, donated the materials to the Fales Library in 2005.</p>  </acqinfo>
+  <accessrestrict id="aspace_ab413958570da5850520585a29fd864b">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <userestrict id="aspace_527bf4ec538277be60e52ee33c6b6ae9">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <bioghist id="aspace_8d7cd8de231fe1b55f8c0a860d2dfd95">
+    <head>Historical Note</head>
+<p>Godzilla was an Asian American arts collective and support network founded in 1990. Godzilla's founding members believed that Asian American artists did not have a suitable organization to support, promote, and encourage their visual arts, and Godzilla sought to fill this need. Godzilla disbanded in 2001.</p>  </bioghist>
+  <scopecontent id="aspace_241f0e580fa77a3f8f81fa27f0e79429">
+    <head>Scope and Content Note</head>
+<p>The Godzilla Asian American Arts Network Archive contains documents relating to the activities and goals of the Godzilla Asian American Arts Network. Included are documents detailing the administrative and artistic aspects of Godzilla and related arts organizations.</p>  </scopecontent>
+  <arrangement id="aspace_b6cab5483e9f0598d7ee0a20dcb371bb">
+    <head>Arrangement</head>
+
+
+<p>The Godzilla Asian American Arts Network Archive has been arranged into five series: Correspondence, Exhibitions, Newsletters and Publicity, Administrative Materials, and Related Organizations. </p><p>Where applicable, the folders within the five series have been arranged chronologically. The contents of the folders are also arranged by date unless otherwise organized by Godzilla.</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Correspondence</item>
+      <item>Series II: Exhibitions</item>
+      <item>Series III: Newsletters and Publicity</item>
+      <item>Series IV: Administrative Materials</item>
+      <item>Series V: Related Organizations</item>
+      <item>OVERSIZE Series II: Exhibitions</item>
+      <item>OVERSIZE Series V: Related Organizations</item>
+    </list>
+  </arrangement>
+  <prefercite id="aspace_652ccc322a61e37d8fc9cb3bcfbe1329">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form:<lb/><lb/>
+Identification of item,  date (if known); The Godzilla Asian American Arts Network Archive; MSS 166; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <subject source="lcsh">Multiculturalism.</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Periodicals</genreform>
+    <subject source="lcsh">Art |x Finance.</subject>
+    <geogname source="lcsh">New York (N.Y.).</geogname>
+    <subject source="lcsh">Art and society.</subject>
+    <genreform source="aat">Notes.</genreform>
+    <genreform source="aat">Grant proposals.</genreform>
+    <subject source="lcsh">Racism.</subject>
+    <genreform source="aat">Slides (photographs)</genreform>
+    <genreform source="aat">Fliers (printed matter)</genreform>
+    <subject source="lcsh">Asian American artists.</subject>
+    <subject source="lcsh">Asian American arts |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Asian American arts |z New York (State) |z New York |v Periodicals.</subject>
+    <subject source="lcsh">Asian Americans -- Ethnic identity.</subject>
+    <subject source="lcsh">Artists and community -- United States</subject>
+    <subject source="lcsh">Asian American art |y 20th century |v Exhibitions.</subject>
+    <subject source="lcsh">Asian American art |y 21st century |v Exhibitions.</subject>
+    <subject source="lcsh">Asian American art -- Periodicals.</subject>
+    <subject source="lcsh">Asian American artists -- Exhibitions</subject>
+    <genreform source="aat">Financial records</genreform>
+    <subject source="lcsh">Asian American artists --  New York (State) -- New York -- Exhibitions.</subject>
+    <subject source="lcsh">Asian American artists -- New York (State) -- New York -- Societies.</subject>
+    <subject source="lcsh">Asian American artists |z United States |v Periodicals.</subject>
+    <subject source="lcsh">Art |x Finance |z United States</subject>
+    <corpname source="local">Godzilla Asian American Arts Network</corpname>
+    <persname source="naf">Yamamoto, Lynne, 1961-</persname>
+    <corpname authfilenumber="(lccn)no00092807" source="naf">Asian American Arts Alliance</corpname>
+    <persname source="local">Chu, Ken</persname>
+    <corpname source="local">Godzilla (Group of artists) -- Exhibitions</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Correspondence</unittitle></did><scopecontent id="aspace_f6d238c368c2b1ed54116f2621cdb7bd"><head>Scope and Contents note</head><p>This series contains Godzilla's correspondence from 1991-2001, as well as letters to send to artists and files kept by Lynne Yamamoto and Godzilla founder Ken Chu. Ken Chu's folders contain notices of upcoming art exhibitions sent to him by artitsts, two slides of his own work, and a newspaper clipping. Lynne Yamamoto's folder, separated into two parts, holds correspondence and administrative documents she collected.</p></scopecontent><c id="aspace_ref12" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence 1991-1993</unittitle><unitdate datechar="creation">1991-1993</unitdate><container altrender="Record carton" id="aspace_2e02140c1b6c1765f2fe03c8bffc9ff7" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_57355dffa1e4bbe46484e8b388d5d073" parent="aspace_2e02140c1b6c1765f2fe03c8bffc9ff7" type="Folder">1</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence 1994</unittitle><unitdate datechar="creation">1994</unitdate><container altrender="Record carton" id="aspace_e9b156f8df4fda2ed4bf83e16dab4826" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_2fdade0c4c373f9166365a857764e187" parent="aspace_e9b156f8df4fda2ed4bf83e16dab4826" type="Folder">2</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence 1995</unittitle><unitdate datechar="creation">1996</unitdate><container altrender="Record carton" id="aspace_d2ac0d41a358595dfaada4799e254ba6" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_ceab55ab9505d4c6ee5e898470e691a6" parent="aspace_d2ac0d41a358595dfaada4799e254ba6" type="Folder">3</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence 1996-2001</unittitle><unitdate datechar="creation">1996-2001</unitdate><container altrender="Record carton" id="aspace_53de9de2fea73e2fd101a2414a88875a" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_1d16b79d783fb8cf15301ea9c3cda27c" parent="aspace_53de9de2fea73e2fd101a2414a88875a" type="Folder">4</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Undated Correspondence</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_1668d32932d794eff354e9ca31edee6f" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_20ecb83f09d3b655ebd00c74f0370d43" parent="aspace_1668d32932d794eff354e9ca31edee6f" type="Folder">5</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence to Godzilla artists regarding <emph render="italic">From Basement to Godzilla</emph></unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_919215b8ccbda2b551c7aa72ec41dc1c" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_ce80f65ef03385b6360cbc8d00b2c9d8" parent="aspace_919215b8ccbda2b551c7aa72ec41dc1c" type="Folder">6</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence sent to Ken Chu</unittitle><unitdate datechar="creation">1994-1995</unitdate><container altrender="Record carton" id="aspace_0ffc6ef336f339ae1d3216ea1fb0d3b1" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_fac1cf03643670ae95b1abfd94e0cb80" parent="aspace_0ffc6ef336f339ae1d3216ea1fb0d3b1" type="Folder">7</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence from Dan Gilbert to Ken Chu, enclosing two slides of Chu's artwork</unittitle><unitdate datechar="creation">1994</unitdate><container altrender="Record carton" id="aspace_3075d75c0af9180c5523a3bc3a234663" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_f6fd73becdd7772ae51cab27aa6b399c" parent="aspace_3075d75c0af9180c5523a3bc3a234663" type="Folder">8</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clipping of <emph render="italic">Off-Campus</emph> newspaper collected by Chu</unittitle><unitdate datechar="creation">1994</unitdate><container altrender="Record carton" id="aspace_84ef9d4c3febbf06f08e9704a27a6bae" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_330e89193d4580a2bc4dd59257865a88" parent="aspace_84ef9d4c3febbf06f08e9704a27a6bae" type="Folder">9</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence collected by Lynne Yamamoto</unittitle><unitdate datechar="creation">1991-1993</unitdate><container altrender="Record carton" id="aspace_118769cb43798a0469dc1f11d4fd5bcf" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_3912a2e20ea5c1d6cd9a6b0d45be5521" parent="aspace_118769cb43798a0469dc1f11d4fd5bcf" type="Folder">10 A</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla administrative documents collected by Lynne Yamamoto</unittitle><unitdate datechar="creation">1991</unitdate><container altrender="Record carton" id="aspace_1db40d6fb4a556181f804459f03d6018" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_370c9a576caac11fa45667a80fd94104" parent="aspace_1db40d6fb4a556181f804459f03d6018" type="Folder">10 B</container></did></c></c><c id="aspace_ref24" level="series"><did><unittitle>Series II: Exhibitions</unittitle></did><scopecontent id="aspace_d39562f80a7daa99d948ff0708052146"><head>Scope and Contents note</head><p>This series contains dossiers from Godzilla's various exhibitions, including photographs, brochures, and logistical documents. Nine exhibitions are included, as well as miscellaneous photographs.</p></scopecontent><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">New World Order III: The Curio Shop</emph> Exhibition Dossier</unittitle><unitdate datechar="creation">1993</unitdate><container altrender="Record carton" id="aspace_72ebdc81e5e3d42e94625baa5e95c64b" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_d226d204dac4824fa3320f2c1a311f41" parent="aspace_72ebdc81e5e3d42e94625baa5e95c64b" type="Folder">11</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Word Gets Around</emph> Project Materials</unittitle><unitdate datechar="creation">1994-1997</unitdate><container altrender="Record carton" id="aspace_f7d744d3861eda324ebe0566c96d1dac" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_d5b0a06c3c742688ae72230ceb5a45e8" parent="aspace_f7d744d3861eda324ebe0566c96d1dac" type="Folder">12</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Teenage Mutant Ninja Turtles...Not!</emph> and Reed Arts Weekend Documents</unittitle><unitdate datechar="creation">1994-1995</unitdate><container altrender="Record carton" id="aspace_c26b158a922e802b922d282b2069b9b0" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_d6d651a01b11430034a0cda0da554a09" parent="aspace_c26b158a922e802b922d282b2069b9b0" type="Folder">13</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Teenage Mutant Ninja Turtles...Not!</emph> Exibition Dossier</unittitle><unitdate datechar="creation">1995-1997</unitdate><container altrender="Record carton" id="aspace_24526d75a40bb70fa70f6d11816fab43" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_1c23989d3f2f4ad72da8a15a997ffcfd" parent="aspace_24526d75a40bb70fa70f6d11816fab43" type="Folder">14</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">And We Speak</emph> Exhibition Dossier</unittitle><unitdate datechar="creation">1996</unitdate><container altrender="Record carton" id="aspace_620efa13e50c240248fdb2730fd05b20" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_10e60f69643f7b1082c602b1ace019fe" parent="aspace_620efa13e50c240248fdb2730fd05b20" type="Folder">15</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Travel-Sized</emph> Exhibition Dossier</unittitle><unitdate datechar="creation">1997</unitdate><container altrender="Record carton" id="aspace_661e71809d9b75c37ca84654001d5966" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_c38df895f0576a3e0faf67ec8d0051e4" parent="aspace_661e71809d9b75c37ca84654001d5966" type="Folder">16</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">The Bank/Why Are You Here?</emph> Exhibition Documents</unittitle><unitdate datechar="creation">1997</unitdate><container altrender="Record carton" id="aspace_57879068517992662becbddc7248a0b3" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_dfe2e981e9c492ff1f80376f06b109ad" parent="aspace_57879068517992662becbddc7248a0b3" type="Folder">17</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Fermented</emph> Exhibition Documents</unittitle><unitdate datechar="creation">1997</unitdate><container altrender="Record carton" id="aspace_3da768ca10da9c483c78f65269b6b742" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_1cad799c81ec691def1bc90bf207ca1b" parent="aspace_3da768ca10da9c483c78f65269b6b742" type="Folder">18</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Art in General:Why Asia?</emph> Exhibition Documents</unittitle><unitdate datechar="creation">2001</unitdate><container altrender="Record carton" id="aspace_bd1029a523f2b9764e078957cbecdc65" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_9200636bf622a0dddc749b702527b56f" parent="aspace_bd1029a523f2b9764e078957cbecdc65" type="Folder">19</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Miscellaneous Photos</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_89a45f0a791d0cf55599f17cff74177b" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_a2ba13fcafd06e327f48a7a57cd4de0a" parent="aspace_89a45f0a791d0cf55599f17cff74177b" type="Folder">20</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>Gallery Submission Guidelines</unittitle><unitdate datechar="creation">various</unitdate><container altrender="Record carton" id="aspace_7e831e262891f4da18d5d1dbd39dd2fa" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_71059ae6b15b225f72bf0a6c87309daf" parent="aspace_7e831e262891f4da18d5d1dbd39dd2fa" type="Folder">21</container></did></c></c><c id="aspace_ref37" level="series"><did><unittitle>Series III: Newsletters and Publicity</unittitle></did><scopecontent id="aspace_9f8934e9cc0f9f0f6ab9f1e5e7d024b5"><head>Scope and Contents note</head><p>Series III comprises the <emph render="italic">Godzilla</emph> newsletter and publishing information as well as the "Godzillette" bulletin, an issue of <emph render="italic">New Observations</emph> magazine edited by Godzilla, and Godzilla events fliers.</p></scopecontent><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Godzilla</emph> Newsletters and Publication Information</unittitle><unitdate datechar="creation">1991-1995</unitdate><container altrender="Record carton" id="aspace_cc1529daaa855dec1313612bc780d742" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_c2c590a1307ad221049a08c236b4185a" parent="aspace_cc1529daaa855dec1313612bc780d742" type="Folder">22</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Godzillettes"</unittitle><unitdate datechar="creation">1991-1996</unitdate><container altrender="Record carton" id="aspace_1acaa013936e8f3e78c4f5a7a067ad66" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_359d134515938bac2a1b5dc109af1312" parent="aspace_1acaa013936e8f3e78c4f5a7a067ad66" type="Folder">23</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">New Observations</emph> Magazine #107 (Guest Editor: Godzilla)</unittitle><unitdate datechar="creation">1995</unitdate><container altrender="Record carton" id="aspace_37ad0d2fc570ceb0687af9ab5ba44544" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_c1968055497a6f5864963e5e8f72dbfb" parent="aspace_37ad0d2fc570ceb0687af9ab5ba44544" type="Folder">24</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Events Fliers</unittitle><unitdate datechar="creation">1992-2001</unitdate><container altrender="Record carton" id="aspace_0de643d9c87d58d1381401d6c7eaf268" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_82686f4001bcba6a6046ca00d9fb6192" parent="aspace_0de643d9c87d58d1381401d6c7eaf268" type="Folder">25</container></did></c></c><c id="aspace_ref43" level="series"><did><unittitle>Series IV: Administrative Materials</unittitle></did><scopecontent id="aspace_6f930581cf57f26515c93beef9847f8e"><head>Scope and Contents note</head><p>Series IV contains administrative materials broken down into two subseries: organizational documents and financial documents. Subseries A: Organizational Documents has introductory and operations information, contact sheets, steering committee minutes and other administrative documents such as a questionnaire and Godzilla stationary. Suberies B: Financial Documents holds Godzilla's financial records from 1991-2003, along with grant applications and miscellaneous/undated financial records and other document fragments.</p></scopecontent><c id="aspace_ref44" level="subseries"><did><unittitle>Subseries A: Organizational Documents</unittitle></did><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Introduction and Operations Information</unittitle><unitdate datechar="creation">1994-1998</unitdate><container altrender="Record carton" id="aspace_345a2c7d7ca1ff0b2c2413435a730246" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_906aa19f2634622ed6d71e28fb1fc568" parent="aspace_345a2c7d7ca1ff0b2c2413435a730246" type="Folder">26</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Contact Sheets</unittitle><unitdate datechar="creation">various</unitdate><container altrender="Record carton" id="aspace_8a8905705ac5f66fdb03a75b106aff7a" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_07a1bdc1790da89e7652cbf02b495fce" parent="aspace_8a8905705ac5f66fdb03a75b106aff7a" type="Folder">27</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Steering Committee Minutes</unittitle><unitdate datechar="creation">1993-1995</unitdate><container altrender="Record carton" id="aspace_4cabb294f36fbf057a75ea968c834527" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_99ae3796b8d47a3ddac3ad4de086ec5e" parent="aspace_4cabb294f36fbf057a75ea968c834527" type="Folder">28</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Spring 1994 Questionnaire</unittitle><unitdate datechar="creation">1994</unitdate><container altrender="Record carton" id="aspace_b3b1df1ab83ffa296299a24e1e8d03d1" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_b2450fedf9ebed75bb27f01e1cbb06d4" parent="aspace_b3b1df1ab83ffa296299a24e1e8d03d1" type="Folder">29</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Stationary</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_80c776ea4bd51c694495341a1ac68d65" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_4730c4ea0cb42502d35111b4199dd998" parent="aspace_80c776ea4bd51c694495341a1ac68d65" type="Folder">30</container></did></c></c><c id="aspace_ref50" level="subseries"><did><unittitle>Subseries B: Financial Documents</unittitle></did><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1991</unittitle><unitdate datechar="creation">1991</unitdate><container altrender="Record carton" id="aspace_c8527f4e515f7427a4b7ba97b4206f28" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_7b4c1973042bde8f5e79d08ac70138d6" parent="aspace_c8527f4e515f7427a4b7ba97b4206f28" type="Folder">31</container></did></c><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1992</unittitle><unitdate datechar="creation">1992</unitdate><container altrender="Record carton" id="aspace_cbcd0a20805753df714438d44be31cae" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_cfeae72576db59d70c16ad90f70341c4" parent="aspace_cbcd0a20805753df714438d44be31cae" type="Folder">32</container></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1993</unittitle><unitdate datechar="creation">1993</unitdate><container altrender="Record carton" id="aspace_9846e7b8ff48dba6708d28100d9ebf8c" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_e8b904d8693cdeb1cb522b47af972079" parent="aspace_9846e7b8ff48dba6708d28100d9ebf8c" type="Folder">33</container></did></c><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1994</unittitle><unitdate datechar="creation">1994</unitdate><container altrender="Record carton" id="aspace_a0729965196df67572cfea5a6e79dec8" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_3e277dddba2e5bda5afad2a0140c4804" parent="aspace_a0729965196df67572cfea5a6e79dec8" type="Folder">34</container></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1995</unittitle><unitdate datechar="creation">1995</unitdate><container altrender="Record carton" id="aspace_24c45aceb128477d2748cf3ed1524007" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_04c7bdfff17e025c39c0df18ace9e090" parent="aspace_24c45aceb128477d2748cf3ed1524007" type="Folder">35</container></did></c><c id="aspace_ref56" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1996</unittitle><unitdate datechar="creation">1996</unitdate><container altrender="Record carton" id="aspace_05a3e56ab3a982cbc92169af7d82c5e5" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_cca2c544a55c4b144392775e5cef0d63" parent="aspace_05a3e56ab3a982cbc92169af7d82c5e5" type="Folder">36</container></did></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1997</unittitle><unitdate datechar="creation">1997</unitdate><container altrender="Record carton" id="aspace_8f2b593e4a4d31140b12ea4c834a2f27" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_ac5ae2ef9963fc24d3dba10c029fb76c" parent="aspace_8f2b593e4a4d31140b12ea4c834a2f27" type="Folder">37</container></did></c><c id="aspace_ref58" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1998</unittitle><unitdate datechar="creation">1998</unitdate><container altrender="Record carton" id="aspace_1a81b04f706415410c3421d9a33d2df8" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_fe7bc6ae46e86665ae7bc0f29b5b4790" parent="aspace_1a81b04f706415410c3421d9a33d2df8" type="Folder">38</container></did></c><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 1999</unittitle><unitdate datechar="creation">1999</unitdate><container altrender="Record carton" id="aspace_bf10c58a3ff1d0a4b26d8c86050bf478" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_198462ec907b5615e22609d1c28b2d2c" parent="aspace_bf10c58a3ff1d0a4b26d8c86050bf478" type="Folder">39</container></did></c><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 2000</unittitle><unitdate datechar="creation">2000</unitdate><container altrender="Record carton" id="aspace_05178fed7a8b3290df3a3e384fe615c8" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_42de13da8a45737daae3eb0209211823" parent="aspace_05178fed7a8b3290df3a3e384fe615c8" type="Folder">40</container></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 2001</unittitle><unitdate datechar="creation">2001</unitdate><container altrender="Record carton" id="aspace_333f78c8e0b379e574b2637b91367e30" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_b478bec8e4df95960ecb78d0b0897fb4" parent="aspace_333f78c8e0b379e574b2637b91367e30" type="Folder">41</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 2002</unittitle><unitdate datechar="creation">2002</unitdate><container altrender="Record carton" id="aspace_38f45eaa24c497a3c77e3360d5a9eacf" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_b5ed1152b91a7202ded639ce32d3efb3" parent="aspace_38f45eaa24c497a3c77e3360d5a9eacf" type="Folder">42</container></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Financial Records 2003</unittitle><unitdate datechar="creation">2003</unitdate><container altrender="Record carton" id="aspace_0d5624bfa6b33b7ba50cc50eb3674baa" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_d24e999336351a8f2c21f5b5b2def101" parent="aspace_0d5624bfa6b33b7ba50cc50eb3674baa" type="Folder">43</container></did></c><c id="aspace_ref64" level="otherlevel" otherlevel="unspecified"><did><unittitle>Miscellaneous Godzilla Financial Records</unittitle><unitdate datechar="creation">various</unitdate><container altrender="Record carton" id="aspace_860b977e3f0710ac824c547a8fb46367" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_b87a94af4cba565c250b7ee551f8c28a" parent="aspace_860b977e3f0710ac824c547a8fb46367" type="Folder">44</container></did></c><c id="aspace_ref65" level="otherlevel" otherlevel="unspecified"><did><unittitle>Godzilla Grant Materials</unittitle><unitdate datechar="creation">1991-1995</unitdate><container altrender="Record carton" id="aspace_3c7a98c3eb39977e861fd7a7a0270973" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_968c1943a4d08cd8d5027155c62a3d0b" parent="aspace_3c7a98c3eb39977e861fd7a7a0270973" type="Folder">45</container></did></c><c id="aspace_ref66" level="otherlevel" otherlevel="unspecified"><did><unittitle>North Star Fund Materials</unittitle><unitdate datechar="creation">1994</unitdate><container altrender="Record carton" id="aspace_fb3563aa45b60230faf506a46f40fa71" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_6d014923042f963719318c0837a2c470" parent="aspace_fb3563aa45b60230faf506a46f40fa71" type="Folder">46</container></did></c><c id="aspace_ref67" level="otherlevel" otherlevel="unspecified"><did><unittitle>Miscellaneous Fragments</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_78c3c8f428b3ccf6d4f7ea16dbf392bf" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_6a0d39ca5abf39f724a4069954774d67" parent="aspace_78c3c8f428b3ccf6d4f7ea16dbf392bf" type="Folder">47</container></did></c></c></c><c id="aspace_ref69" level="series"><did><unittitle>Series V: Related Organizations</unittitle></did><scopecontent id="aspace_e5adf5d3e5897e8f28c6b574d97d93e3"><head>Scope and Contents note</head><p>Series V comprises various documents, articles, and publications either published by or related to organizations related to Godzilla. Some organizations, such as the Asian American Arts Alliance, collaborated with Godzilla; others simply had a similar purpose. Series V contains three subseries: Documents, Publications, and Items of Interest to Godzilla. Series A: Documents houses ideas for collaboratory projects, financial information, and operating information about related organizations. Subseries B: Publications contains journals, newsletters, and exhibition brochures from similar arts organizations. Subseries C: Items of Interest to Godzilla holds newspaper clippings and articles collected by Godzilla that either feature Godzilla and/or a related organization, or address a cause related to Godzilla's purpose.</p></scopecontent><c id="aspace_ref70" level="subseries"><did><unittitle>Subseries A: Documents from Related Organizations</unittitle></did><c id="aspace_ref71" level="otherlevel" otherlevel="unspecified"><did><unittitle>Collaboratory Proposals</unittitle><unitdate datechar="creation">various</unitdate><container altrender="Record carton" id="aspace_31eaf85a7c75f04ffff4b51f8e66932f" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_4e76eca18e9aa289832091d9e61a4e30" parent="aspace_31eaf85a7c75f04ffff4b51f8e66932f" type="Folder">48</container></did></c><c id="aspace_ref72" level="otherlevel" otherlevel="unspecified"><did><unittitle>Documents from Related Organizations</unittitle><unitdate datechar="creation">1993-1994</unitdate><container altrender="Record carton" id="aspace_dcf6ff3deb2479258f92568ed1c02cd4" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_399e16cb0ccd7fcd9488e0c1148e9c8a" parent="aspace_dcf6ff3deb2479258f92568ed1c02cd4" type="Folder">49</container></did></c><c id="aspace_ref73" level="otherlevel" otherlevel="unspecified"><did><unittitle>Asian American Arts Alliance Financial Documents</unittitle><unitdate datechar="creation">1993, 1995</unitdate><container altrender="Record carton" id="aspace_07b4d6905e902b62f35abec6a1913bc8" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_4892c395cdf5decafdb4427e5df188a0" parent="aspace_07b4d6905e902b62f35abec6a1913bc8" type="Folder">50</container></did></c></c><c id="aspace_ref74" level="subseries"><did><unittitle>Subseries B: Publications</unittitle></did><c id="aspace_ref75" level="otherlevel" otherlevel="unspecified"><did><unittitle>Asian American Arts Alliance Publications</unittitle><unitdate datechar="creation">1990-1995</unitdate><container altrender="Record carton" id="aspace_6d4000919454309ad611f81a7a591e6c" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_fd2b91dd97fe8d4824c5d0fb92095cc5" parent="aspace_6d4000919454309ad611f81a7a591e6c" type="Folder">51</container></did></c><c id="aspace_ref76" level="otherlevel" otherlevel="unspecified"><did><unittitle>Publications of Related Organizations</unittitle><unitdate datechar="creation">1986-1998</unitdate><container altrender="Record carton" id="aspace_7eb9d16fc1854cd6adcabf472f3f8340" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_1910d411a070dcbd23eca6dded607e04" parent="aspace_7eb9d16fc1854cd6adcabf472f3f8340" type="Folder">52</container></did></c><c id="aspace_ref77" level="otherlevel" otherlevel="unspecified"><did><unittitle>Exhibit Brochures</unittitle><unitdate datechar="creation">1991-2001</unitdate><container altrender="Record carton" id="aspace_473747a59595098464595e74d4b91dd9" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_515394b930c2ea235c556322784d9857" parent="aspace_473747a59595098464595e74d4b91dd9" type="Folder">53</container></did></c></c><c id="aspace_ref78" level="subseries"><did><unittitle>Subseries C: Items of Interest to Godzilla</unittitle></did><c id="aspace_ref79" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspaper Clippings</unittitle><unitdate datechar="creation">1991-1996</unitdate><container altrender="Record carton" id="aspace_2200af9cb99508bf3b87da011828caae" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_c07ad81a80661e2ad8af40a275aed718" parent="aspace_2200af9cb99508bf3b87da011828caae" type="Folder">54</container></did></c><c id="aspace_ref80" level="otherlevel" otherlevel="unspecified"><did><unittitle>Articles of Interest Collected by Godzilla</unittitle><unitdate datechar="creation">various</unitdate><container altrender="Record carton" id="aspace_f5936b47e9673d3370d9f61c945af337" label="Mixed Materials [31142063598026]" type="Box">1</container><container id="aspace_aa594dbdcfbff08af4e7c104fa407371" parent="aspace_f5936b47e9673d3370d9f61c945af337" type="Folder">55</container></did></c></c></c><c id="aspace_ref82" level="series"><did><unittitle>OVERSIZE Series II: Exhibitions</unittitle></did><scopecontent id="aspace_bbc45f9c314db4c5e41380afc661066a"><head>Scope and Contents note</head><p>Series II OVERSIZE houses a collector's set of prints from the <emph render="italic">From Basement to Godzilla</emph> exhibition.</p></scopecontent><c id="aspace_ref83" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">From Basement to Godzilla</emph> Exhibition Prints</unittitle><unitdate datechar="creation">1991-1995</unitdate><container altrender="Hollinger Flat OS 16.75" id="aspace_3828b74ad37f4ef79be734a0b7f8b604" label="Mixed Materials [31142054896660]" type="Box">2</container><container id="aspace_c21ddb74940a6f0c207e5676f459b65a" parent="aspace_3828b74ad37f4ef79be734a0b7f8b604" type="Folder">56</container></did></c></c><c id="aspace_ref85" level="series"><did><unittitle>OVERSIZE Series V: Related Organizations</unittitle></did><c id="aspace_ref86" level="subseries"><did><unittitle>Subseries B: Publications</unittitle></did><c id="aspace_ref87" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="italic">Gidra</emph> Magazine 20th Anniversary Edition</unittitle><unitdate datechar="creation">1990</unitdate><container altrender="Hollinger Flat OS 16.75" id="aspace_604e95811a26abd2173b97a4134fec2c" label="Mixed Materials [31142054896660]" type="Box">2</container><container id="aspace_2b99807798f2bda77a8ab4deed4f3a42" parent="aspace_604e95811a26abd2173b97a4134fec2c" type="Folder">57</container></did></c></c></c></dsc>
+</archdesc>
 </ead>

@@ -1,461 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_523">tam_523</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Marvin Gettleman Papers <num>TAM.523</num></titleproper>
-        <author>Peter Meyer Filardo and David Olson</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>Nov 20, 2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:58:41 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>March 2019</date>
-        <item>Updated by Amy C. Vo to include materials from accession number 2019.034</item>
-      </change>
-      <change>
-        <date>January 2020</date>
-        <item>Updated by Amy C. Vo to include materials from accession number 2020.009</item>
-      </change>
-      <change>
-        <date>July 2021</date>
-        <item>Updated by Rachel Mahre to reflect the digitization of audio materials.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Marvin Gettleman Papers</unittitle>
-      <origination label="Creator">
-        <corpname source="local">New York Faculty Committee for Non-Intervention in Central America and the Caribbean</corpname>
-      </origination>
-      <origination label="Creator">
-        <persname source="naf">Gettleman, Marvin E.</persname>
-      </origination>
-      <origination label="source">
-        <persname rules="dacs" source="naf">Schrecker, Ellen</persname>
-      </origination>
-      <unitid>TAM.523</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
-        <extent altrender="carrier">in 4 manuscript boxes and 1 media box.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1976/2000" type="inclusive">1976-2000</unitdate>
-      <abstract id="aspace_35ca5d654da8be63cc75234953ce3fbe">Marvin Gettleman (1933-2017) was an emeritus professor of history at the Polytechnic Institute of New York University. The collection reflects Gettleman's work as a historian, as well as with the New York Faculty Committee for Non-Intervention in Central America and the Caribbean. The collection also contains audio materials collected by Gettleman on a range of topics related to the left.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_523">tam_523</eadid><filedesc><titlestmt><titleproper>Guide to the Marvin Gettleman Papers <num>TAM.523</num></titleproper><author>Peter Meyer Filardo and David Olson</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>Nov 20, 2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:41:35 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>March 2019</date><item>Updated by Amy C. Vo to include materials from accession number 2019.034</item></change><change><date>January 2020</date><item>Updated by Amy C. Vo to include materials from accession number 2020.009</item></change><change><date>July 2021</date><item>Updated by Rachel Mahre to reflect the digitization of audio materials.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Marvin Gettleman Papers</unittitle>
+    <origination label="Creator">
+      <corpname source="local">New York Faculty Committee for Non-Intervention in Central America and the Caribbean</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Gettleman, Marvin E.</persname>
+    </origination>
+    <origination label="source">
+      <persname rules="dacs" source="naf">Schrecker, Ellen</persname>
+    </origination>
+    <unitid>TAM.523</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+      <extent altrender="carrier">in 4 manuscript boxes and 1 media box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1976/2000" type="inclusive">1976-2000</unitdate>
+    <abstract id="aspace_35ca5d654da8be63cc75234953ce3fbe">Marvin Gettleman (1933-2017) was an emeritus professor of history at the Polytechnic Institute of New York University. The collection reflects Gettleman's work as a historian, as well as with the New York Faculty Committee for Non-Intervention in Central America and the Caribbean. The collection also contains audio materials collected by Gettleman on a range of topics related to the left.
 
 The New York Faculty Committee for Non-Intervention in Central America and the Caribbean fought for human rights in Central America in the 1980s, with a focus on conditions in El Salvador and Guatemala. The group organized visits to the region and advocated for changes in United States foreign policy. The files contain reports, notes, newspaper and magazine clippings, correspondence, petitions, and research materials. There are newsletters, meeting minutes, and drafts of papers from an exchange between Gettleman and Harold Weissman.  
 
 Audio materials in the collection contain recordings of interviews, debates, and lectures. Four interviews document the experiences of those effected by the Rapp-Coudert Committee of the early 1940s. Recordings of debates and lectures document the study of movements on the left in North America, Latin America, and Europe from 1976-2000.</abstract>
-      <langmaterial id="aspace_7faf695a955a231029fce67c8adb721a">Materials are in English and Spanish.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_38c66405525abe3a8a53026f95ac363c">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_39d46727ba1e00cafea9ad3ba530f00f">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Marvin E. Gettleman in 2008; additional materials were donated by Marvin E. Gettleman and Ellen Schrecker in 2009, 2019, and 2020. The accession numbers associated with this gift are 2009.095, 2019.039, 2020.009.</p>
-    </acqinfo>
-    <arrangement id="aspace_c54eb8dac8355b5320b374dc05c924ed">
-      <head>Arrangement</head>
-      <p>The collection is arranged into four series: </p>
-      <p>Series I. New York Faculty Committee for Non-Intervention in Central America and the Caribbean </p>
-      <p>Series II. Audio Materials</p>
-      <p>Series III. 2019 Accretion</p>
-      <p>Series IV. 2020 Accretion. </p>
-      <p>Files within Series I-II are arranged chronologically; accretions are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <bioghist id="aspace_a7529deea78d54ee942d1e39e56ffc5a">
-      <head>Biographical Note</head>
-      <p>Marvin Gettleman (1933-2017) was an emeritus professor of history at the Polytechnic Institute of New York University. He was involved with many causes on the left, including the New York Faculty Committee for Non-Intervention in Central America and the Caribbean in the 1980s.</p>
-    </bioghist>
-    <prefercite id="aspace_485b525a87f75d60fa7c11fbaddc885c">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Marvin Gettleman Papers; TAM 523; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_ff9873f645077134532adcada2510cc0">
-      <head>Processing Information</head>
-      <p>The materials were donated to the repository in 2009, and the collection was broken into two pieces. The papers related to Central America were partially processed and arranged by language in a collection called: New York Faculty Committee for Non-Intervention in Central America and the Caribbean: Marvin Gettleman Files. The audio materials remained unprocessed. In 2013, the two parts were reunited, each being represented by a series, and materials were arranged chronologically. The collection was renamed the Marvin Gettleman Papers to better reflect the broader range of materials. </p>
-      <p>In March 2019, materials in the 2019 accretion were rehoused in an acid-free folder.</p>
-      <p>In January 2020, loose materials in the 2020 accretion were rehoused in acid free folders. Materials were refoldered where appropriate, with original titles used.</p>
-    </processinfo>
-    <scopecontent id="aspace_2bf254682c4d57f3553ae5f34c8900c3">
-      <head>Scope and Contents</head>
-      <p>The collection contains notes, clippings, articles, correspondence, and petitions documenting the activities of New York Faculty Committee for Non-Intervention in Central America and the Caribbean and human rights in Latin America.</p>
-      <p>Newsletters, meeting minutes, and drafts of papers from an exchange between Marvin Gettleman and Harold Weissman document some of Gettleman's activities as a historian. FBI files from FOIA requests cover subjects that Ellen Schrecker and Marvin Gettleman researched together such as the Smith Act Trials, Kang Jai Association, Chinese Hand Laundry Alliance, Benjamin Mandel, and Clinton E. Jencks. </p>
-      <p>Audio materials in the collection contain recordings of interviews, debates, and lectures documenting the study of movements on the Left in North America, Latin America, and Europe from 1976-2000. Four interviews document the experiences of those effected by the Rapp-Coudert Committee of the early 1940s.</p>
-    </scopecontent>
-    <phystech id="aspace_a99c5f372e19283090d3af2fa033e5f8">
-      <head>Audiovisual Access Policies and Procedures</head>
-      <p>Access to some audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. To request an access copy, or if you are unsure if an item has been digitized, please contact special.collections@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
-    </phystech>
-    <userestrict id="aspace_3195d3d578fb2f3323b057ebae147eeb">
-      <head>Conditions Governing Use</head>
-      <p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1976-2000, are expected to enter the public domain in 2120.</p>
-    </userestrict>
-    <controlaccess>
-      <geogname source="lcsh">Guatemala -- Politics and government -- 20th century</geogname>
-      <geogname source="lcsh">United States -- Foreign Relations -- El Salvador</geogname>
-      <subject source="lcsh">Human rights -- Guatemala.</subject>
-      <geogname source="lcsh">El Salvador -- Politics and government -- 1979-1992.</geogname>
-      <geogname source="lcsh">United States -- Foreign Relations -- Guatemala</geogname>
-      <subject source="lcsh">Human rights -- El Salvador</subject>
-      <genreform source="aat">Newsletters.</genreform>
-      <genreform source="aat">Drafts (documents)</genreform>
-      <genreform source="aat">Minutes (administrative records)</genreform>
-      <subject source="lcsh">Historians -- United States.</subject>
-      <genreform source="aat">Research (document genres).</genreform>
-      <subject source="lcsh">Communist Trial, New York, N.Y., 1952-1953</subject>
-      <corpname source="local">Faculty for Human Rights in El Salvador and Central America</corpname>
-      <persname role="fmo" rules="dacs" source="naf">Schrecker, Ellen</persname>
-      <persname rules="dacs" source="local">Weissman, Harold</persname>
-      <corpname source="naf">Organization of American Historians</corpname>
-      <corpname source="naf">New York (State). Legislature. Joint Legislative Committee to Investigate the Educational System of the State of New York</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I. New York Faculty Committee for Non-Intervention in Central America and the Caribbean</unittitle>
-          <unitdate datechar="creation" normal="1977/1985" type="inclusive">1977-1985</unitdate>
-        </did>
-        <bioghist id="aspace_e0922f3f98a0f761c3def36946583049">
-          <head>Historical/Biographical Note</head>
-          <p>The New York Faculty Committee for Non-Intervention in Central America and the Caribbean was an organization focused on human rights and United States foreign policy in Central America in the 1980s. Their activities included the investigation of human rights abuses, lobbying the United States government, and organizing visits to El Salvador and Guatemala. The organization worked in cooperation with Faculty for Human Rights in El Salvador and Central America (FACHRES).</p>
-        </bioghist>
-        <scopecontent id="aspace_5c37b41f2071069d8df258435ac05180">
-          <head>Scope and Contents</head>
-          <p>The series contains reports, notes, newspaper clippings, correspondence, articles, and petitions documenting the activities of New York Faculty Committee for Non-Intervention in Central America and the Caribbean and human rights in Latin America. The documents focus primarily on conditions in Guatemala and El Salvador. Notes and correspondence document members' visits to El Salvador and Guatemala. The series also contains research materials for writings on Central America, such as a photocopy of a special issue of <emph render="italic">Guatemalan Church in Exile</emph> titled "Guatemala, a New Way of Life: The Development Poles." Members corresponded with elected officials about United States foreign policy, and these materials are present. There are also documents from Faculty for Human Rights in El Salvador and Central America (FACHRES), the Peace Lobby, and other organizations.</p>
-        </scopecontent>
-        <c id="aspace_ref2" level="file">
-          <did>
-            <unittitle>1977-1979</unittitle>
-            <unitid>cuid33398</unitid>
-            <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_4422dd63b239ac3b97269a0ad8dc784a" label="Mixed Materials [31142062764751]" type="Box">1</container>
-            <container id="aspace_f8b693df2b74c0bdd69d65e5d32a6266" parent="aspace_4422dd63b239ac3b97269a0ad8dc784a" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>1980</unittitle>
-            <unitid>cuid33399</unitid>
-            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_76ab40cb73f6de59727580f166599028" label="Mixed Materials [31142062764751]" type="Box">1</container>
-            <container id="aspace_e7b04abd9a5d88dbb96f41394049715d" parent="aspace_76ab40cb73f6de59727580f166599028" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref3" level="file">
-          <did>
-            <unittitle>1981</unittitle>
-            <unitid>cuid33400</unitid>
-            <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
-            <langmaterial><language langcode="spa">Spanish; Castilian</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_64cf218f22fd8dfe2b03804ca41cd6ad" label="Mixed Materials [31142062764751]" type="Box">1</container>
-            <container id="aspace_cdf6358769358616d95789b374ec0b6b" parent="aspace_64cf218f22fd8dfe2b03804ca41cd6ad" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>1982</unittitle>
-            <unitid>cuid33401</unitid>
-            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_da72088dee3a5b0fbd16545aa2a1d03a" label="Mixed Materials [31142062764751]" type="Box">1</container>
-            <container id="aspace_28ff85e4c9757925a54804b80cbb75f1" parent="aspace_da72088dee3a5b0fbd16545aa2a1d03a" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>1984</unittitle>
-            <unitid>cuid33402</unitid>
-            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6fbc2710f020f6252fe4faeedbb8951b" label="Mixed Materials [31142062764751]" type="Box">1</container>
-            <container id="aspace_c11be7cf116f5ec8b20b9b5a06167970" parent="aspace_6fbc2710f020f6252fe4faeedbb8951b" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>1985</unittitle>
-            <unitid>cuid33403</unitid>
-            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9e103cbff557c9bb77235a122debde71" label="Mixed Materials [31142062764751]" type="Box">1</container>
-            <container id="aspace_0bb595be222b3db70557f08b0a7dfd16" parent="aspace_9e103cbff557c9bb77235a122debde71" type="Folder">6-7</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Undated</unittitle>
-            <unitid>cuid33404</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7e23d7ab38f5822081c53ef15a1a0776" label="Mixed Materials [31142062764751]" type="Box">1</container>
-            <container id="aspace_97a3653950e4605d57f41f9cd325da05" parent="aspace_7e23d7ab38f5822081c53ef15a1a0776" type="Folder">8-9</container>
-          </did>
-        </c>
-        <c id="aspace_81024d22ca150f7143d13f8f57ea4dc0" level="file">
-          <did>
-            <unittitle>Slides: Nicaragua, El Salvador</unittitle>
-            <unitid>cuid33421</unitid>
-            <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e88fa66e016a0a9c9dfae1851b9cadc1" label="Mixed Materials [31142062764751]" type="Box">1</container>
-            <container id="aspace_6496680ebb63d481e2c300f02aac9c8a" parent="aspace_e88fa66e016a0a9c9dfae1851b9cadc1" type="Folder">10</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref14" level="series">
-        <did>
-          <unittitle>Series II. Audio Materials</unittitle>
-          <unitdate datechar="creation" normal="1976/2000" type="inclusive">1976-2000</unitdate>
-        </did>
-        <scopecontent id="aspace_bfe4d5159b0e00f71cf580e4a2520d69">
-          <head>Scope and Content Note</head>
-          <p>This series contains recordings of interviews, debates, and lectures. Four interviews document the experiences of those effected by the Rapp-Coudert Committee of the early 1940s. Recordings of debates and lectures document the study of movements on the left in North America, Latin America, and Europe from 1976-2000.</p>
-        </scopecontent>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>E.P. Thompson at New York Socialist Conference</unittitle>
-            <unitid>cuid33405</unitid>
-            <unitdate datechar="creation" normal="1976/1976" type="inclusive">Feb 1976</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_2e00e10d7483e38baedb3280116fcb07" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Karen Spaulding on history of Peru and Professor Woods</unittitle>
-            <unitid>cuid33406</unitid>
-            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_46dc9ae2bfcc5080cba46ba97861f9dd" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Interview with Edward Rosen (Rapp-Coudert)</unittitle>
-            <unitid>cuid33407</unitid>
-            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_7786e7bee90759ef947dd35ed163971f" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Dorothy Healy and Michael Harrington at ITT Forum</unittitle>
-            <unitid>cuid33408</unitid>
-            <unitdate datechar="creation" normal="1978/1978" type="inclusive">Jan 16, 1978</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_e1f62b2e59920c74de295c9339a262f2" label="master cassette [31142062764769]" type="Box">2</container>
-            <container id="aspace_75a0383b540e305944084d1d9643674f" parent="aspace_e1f62b2e59920c74de295c9339a262f2" type="Cassette">cuid33408A, cuid33408B</container>
-            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_523.xml&amp;view=xml" xlink:role="audio-reading-room" xlink:show="new" xlink:title="Dorothy Healy and Michael Harrington at ITT Forum" xlink:type="simple">
-              <daodesc>
-                <p>Dorothy Healy and Michael Harrington at ITT Forum</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Interview with Oscar Shaftel (Rapp-Coudert)</unittitle>
-            <unitid>cuid33409</unitid>
-            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_57bec517a37f893e52402e9c4991a6f5" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Interview with Sidney Shanker (Rapp-Coudert)</unittitle>
-            <unitid>cuid33410</unitid>
-            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_cdacd6c3e53d722d6402303802e4d2ae" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Music recorded in visit to Lutheran Refugio outside of San Salvador</unittitle>
-            <unitid>cuid33411</unitid>
-            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_ca0600053a366ed9bc6328e76d539b7a" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Mark Naison, "Thinking About American Communism," Brecht Forum</unittitle>
-            <unitid>cuid33412</unitid>
-            <unitdate datechar="creation" normal="1988/1988" type="inclusive">Sep 29, 1988</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_b9af1dc9d938482681a1aaa8a6361df2" label="master cassette [31142062764769]" type="Box">2</container>
-            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_523.xml&amp;view=xml" xlink:role="audio-reading-room" xlink:show="new" xlink:title="Mark Naison, &quot;Thinking About American Communism,&quot; Brecht Forum" xlink:type="simple">
-              <daodesc>
-                <p>Mark Naison, "Thinking About American Communism," Brecht Forum</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>World Historical Conference, Montreal Canada</unittitle>
-            <unitid>cuid33413</unitid>
-            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_2ccbfdca9f88c2dd454ec5b374f1531e" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>New York Marxist School</unittitle>
-            <unitid>cuid33414</unitid>
-            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_36862b6fc6d129d4fa596fb79a69f395" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-          <phystech id="aspace_4f78df59bb2a44bdd2d101c97f737805">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>This tape was not digitized because it is blank.</p>
-          </phystech>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Havard Debates on the origins of the New Left</unittitle>
-            <unitid>cuid33415</unitid>
-            <unitdate datechar="creation" normal="2000/2000" type="inclusive">Apr 17, 2000</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_432a9cead898b085d0cda405f9395903" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Sam Bowles on political economy at John Jay College</unittitle>
-            <unitid>cuid33416</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_22406a5aa7251571433a489e178f7d14" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Marvin Gettleman, debates and lectures in Massachusetts</unittitle>
-            <unitid>cuid33417</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_08664c9266def33daca4e3be4bc7630c" label="master cassette [31142062764769]" type="Box">2</container>
-            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_523.xml&amp;view=xml" xlink:role="audio-reading-room" xlink:show="new" xlink:title="Marvin Gettleman, debates and lectures in Massachusetts" xlink:type="simple">
-              <daodesc>
-                <p>Marvin Gettleman, debates and lectures in Massachusetts</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>New York Marxist School [Brecht 3/10]</unittitle>
-            <unitid>cuid33418</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_1a8169f64ab6e76e25eee1af1e2f9ce8" label="master cassette [31142062764769]" type="Box">2</container>
-            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_523.xml&amp;view=xml" xlink:role="audio-reading-room" xlink:show="new" xlink:title="New York Marxist School [Brecht 3/10]" xlink:type="simple">
-              <daodesc>
-                <p>New York Marxist School [Brecht 3/10]</p>
-              </daodesc>
-            </dao>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle><title render="italic">Science and Society</title> event featuring Eric Foner and Eleanor Leacock</unittitle>
-            <unitid>cuid33419</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_137ea90fd854dc1fb32e28afc0775827" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Interview with Dudley Strauss (Rapp-Coudert)</unittitle>
-            <unitid>cuid33420</unitid>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Card Box 5.75" id="aspace_8d6e748d959efde9c6568367c5284411" label="master cassette [31142062764769]" type="Box">2</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_be0dbc61154a68c25960393824e2cf62" level="series">
-        <did>
-          <unittitle>Series III. 2019 Accretion</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-            <extent altrender="carrier">in 1 legal sized folder.</extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
-        </did>
-        <arrangement id="aspace_b88af6dc92e81853dc2db5c1e2e89197">
-          <head>Arrangement</head>
-          <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
-        </arrangement>
-        <scopecontent id="aspace_1d98057fa60c6dfb60021d5aaa2c5b27">
-          <head>Scope and Contents</head>
-          <p>This series contains newsletters and meeting minutes.</p>
-        </scopecontent>
-        <c id="aspace_c0c01b3f31e4df282a760640e371e2a1" level="file">
-          <did>
-            <unittitle>Newsletters, Meeting Minutes</unittitle>
-            <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_e4885e32945954f5cb54d80d346bbfaf" label="Mixed Materials [31142063349032]" type="Box">3</container>
-            <container id="aspace_1242f39f8ecaf3022a842380a41cb400" parent="aspace_e4885e32945954f5cb54d80d346bbfaf" type="Folder">1</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_90cf7611bf0da82ed7fe223aab37f5ea" level="series">
-        <did>
-          <unittitle>Series IV. 2020 Accretion</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-            <extent altrender="carrier">in 3 manuscript boxes. </extent>
-          </physdesc>
-          <unitdate datechar="creation" normal="1978/1999" type="inclusive">1978-1999</unitdate>
-        </did>
-        <arrangement id="aspace_9fa20debbbf78edc6dab5074b023169c">
-          <head>Arrangement</head>
-          <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
-        </arrangement>
-        <scopecontent id="aspace_95dfc5c82feff598336d67c2191b410c">
-          <head>Scope and Contents</head>
-          <p>This accretion consists of FBI files requested by Ellen Schrecker and Marvin Gettleman through the Freedom of Information Act (FOIA) during the 1990s. The FOIA requests primarily cover subjects such as the Smith Act Trials, Kang Jai Association, Chinese Hand Laundry Alliance, Benjamin Mandel, and Clinton E. Jencks.</p>
-        </scopecontent>
-        <c id="aspace_cd8bf39b4d7c38bcc3b8cfa8e1b873a5" level="file">
-          <did>
-            <unittitle>Research Files</unittitle>
-            <unitid>cuid33423</unitid>
-            <unitdate datechar="creation" normal="1978/1997" type="inclusive">1978, 1990, 1997</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_2e4bf132169ed6d09a27d2716c74e87f" label="Mixed Materials [31142063349032]" type="Box">3</container>
-            <container id="aspace_22073e022f19d07c1b2348e2c976cf98" parent="aspace_2e4bf132169ed6d09a27d2716c74e87f" type="Folder">2-7</container>
-          </did>
-        </c>
-        <c id="aspace_751dd8cfc42c7f6109d424a93c4ddf97" level="file">
-          <did>
-            <unittitle>Research Files</unittitle>
-            <unitid>cuid33424</unitid>
-            <unitdate datechar="creation" normal="1996/1999" type="inclusive">1996-1999</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_cb624f4a04c5625a50ec0819aa47db31" label="Mixed Materials [31142063349040]" type="Box">4</container>
-          </did>
-        </c>
-        <c id="aspace_78e9391b3c5aaa26fc4adf347fa9dd08" level="file">
-          <did>
-            <unittitle>Research Files</unittitle>
-            <unitid>cuid33425</unitid>
-            <unitdate datechar="creation" normal="1979/1996" type="inclusive">1979, 1981, 1996
-</unitdate>
-            <container altrender="Manuscript box - Letter" id="aspace_2e9db1a4660e62c14c2370ba47d9a4dc" label="Mixed Materials [31142063349057]" type="Box">5</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    <langmaterial id="aspace_7faf695a955a231029fce67c8adb721a">Materials are in English and Spanish.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_38c66405525abe3a8a53026f95ac363c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_39d46727ba1e00cafea9ad3ba530f00f">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Marvin E. Gettleman in 2008; additional materials were donated by Marvin E. Gettleman and Ellen Schrecker in 2009, 2019, and 2020. The accession numbers associated with this gift are 2009.095, 2019.039, 2020.009.</p>  </acqinfo>
+  <arrangement id="aspace_c54eb8dac8355b5320b374dc05c924ed">
+    <head>Arrangement</head>
+<p>The collection is arranged into four series: </p><p>Series I. New York Faculty Committee for Non-Intervention in Central America and the Caribbean </p><p>Series II. Audio Materials</p><p>Series III. 2019 Accretion</p><p>Series IV. 2020 Accretion. </p><p>Files within Series I-II are arranged chronologically; accretions are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_a7529deea78d54ee942d1e39e56ffc5a">
+    <head>Biographical Note</head>
+<p>Marvin Gettleman (1933-2017) was an emeritus professor of history at the Polytechnic Institute of New York University. He was involved with many causes on the left, including the New York Faculty Committee for Non-Intervention in Central America and the Caribbean in the 1980s.</p>  </bioghist>
+  <prefercite id="aspace_485b525a87f75d60fa7c11fbaddc885c">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Marvin Gettleman Papers; TAM 523; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_ff9873f645077134532adcada2510cc0">
+    <head>Processing Information</head>
+<p>The materials were donated to the repository in 2009, and the collection was broken into two pieces. The papers related to Central America were partially processed and arranged by language in a collection called: New York Faculty Committee for Non-Intervention in Central America and the Caribbean: Marvin Gettleman Files. The audio materials remained unprocessed. In 2013, the two parts were reunited, each being represented by a series, and materials were arranged chronologically. The collection was renamed the Marvin Gettleman Papers to better reflect the broader range of materials. </p><p>In March 2019, materials in the 2019 accretion were rehoused in an acid-free folder.</p><p>In January 2020, loose materials in the 2020 accretion were rehoused in acid free folders. Materials were refoldered where appropriate, with original titles used.</p>  </processinfo>
+  <scopecontent id="aspace_2bf254682c4d57f3553ae5f34c8900c3">
+    <head>Scope and Contents</head>
+<p>The collection contains notes, clippings, articles, correspondence, and petitions documenting the activities of New York Faculty Committee for Non-Intervention in Central America and the Caribbean and human rights in Latin America.</p><p>Newsletters, meeting minutes, and drafts of papers from an exchange between Marvin Gettleman and Harold Weissman document some of Gettleman's activities as a historian. FBI files from FOIA requests cover subjects that Ellen Schrecker and Marvin Gettleman researched together such as the Smith Act Trials, Kang Jai Association, Chinese Hand Laundry Alliance, Benjamin Mandel, and Clinton E. Jencks. </p><p>Audio materials in the collection contain recordings of interviews, debates, and lectures documenting the study of movements on the Left in North America, Latin America, and Europe from 1976-2000. Four interviews document the experiences of those effected by the Rapp-Coudert Committee of the early 1940s.</p>  </scopecontent>
+  <phystech id="aspace_a99c5f372e19283090d3af2fa033e5f8">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Access to some audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. To request an access copy, or if you are unsure if an item has been digitized, please contact special.collections@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_3195d3d578fb2f3323b057ebae147eeb">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1976-2000, are expected to enter the public domain in 2120.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Guatemala -- Politics and government -- 20th century</geogname>
+    <geogname source="lcsh">United States -- Foreign Relations -- El Salvador</geogname>
+    <subject source="lcsh">Human rights -- Guatemala.</subject>
+    <geogname source="lcsh">El Salvador -- Politics and government -- 1979-1992.</geogname>
+    <geogname source="lcsh">United States -- Foreign Relations -- Guatemala</geogname>
+    <subject source="lcsh">Human rights -- El Salvador</subject>
+    <genreform source="aat">Newsletters.</genreform>
+    <genreform source="aat">Drafts (documents)</genreform>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <subject source="lcsh">Historians -- United States.</subject>
+    <genreform source="aat">Research (document genres).</genreform>
+    <subject source="lcsh">Communist Trial, New York, N.Y., 1952-1953</subject>
+    <corpname authfilenumber="(lccn)n85261070" source="naf">Faculty for Human Rights in El Salvador and Central America (U.S.)</corpname>
+    <persname role="fmo" rules="dacs" source="naf">Schrecker, Ellen</persname>
+    <persname rules="dacs" source="local">Weissman, Harold</persname>
+    <corpname authfilenumber="(lccn)n50003494" source="naf">Organization of American Historians</corpname>
+    <corpname authfilenumber="(lccn)no2007055194" source="naf">New York (State). Legislature. Joint Legislative Committee to Investigate the Educational System of the State of New York</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I. New York Faculty Committee for Non-Intervention in Central America and the Caribbean</unittitle><unitdate datechar="creation" normal="1977/1985" type="inclusive">1977-1985</unitdate></did><bioghist id="aspace_e0922f3f98a0f761c3def36946583049"><head>Historical/Biographical Note</head><p>The New York Faculty Committee for Non-Intervention in Central America and the Caribbean was an organization focused on human rights and United States foreign policy in Central America in the 1980s. Their activities included the investigation of human rights abuses, lobbying the United States government, and organizing visits to El Salvador and Guatemala. The organization worked in cooperation with Faculty for Human Rights in El Salvador and Central America (FACHRES).</p></bioghist><scopecontent id="aspace_5c37b41f2071069d8df258435ac05180"><head>Scope and Contents</head><p>The series contains reports, notes, newspaper clippings, correspondence, articles, and petitions documenting the activities of New York Faculty Committee for Non-Intervention in Central America and the Caribbean and human rights in Latin America. The documents focus primarily on conditions in Guatemala and El Salvador. Notes and correspondence document members' visits to El Salvador and Guatemala. The series also contains research materials for writings on Central America, such as a photocopy of a special issue of <emph render="italic">Guatemalan Church in Exile</emph> titled "Guatemala, a New Way of Life: The Development Poles." Members corresponded with elected officials about United States foreign policy, and these materials are present. There are also documents from Faculty for Human Rights in El Salvador and Central America (FACHRES), the Peace Lobby, and other organizations.</p></scopecontent><c id="aspace_ref2" level="file"><did><unittitle>1977-1979</unittitle><unitid>cuid33398</unitid><unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_9e72d41d1ae68ecb849dea064eccb9fc" label="Mixed Materials [31142062764751]" type="Box">1</container><container id="aspace_294deb089592c6d243dac3a727485c9e" parent="aspace_9e72d41d1ae68ecb849dea064eccb9fc" type="Folder">1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>1980</unittitle><unitid>cuid33399</unitid><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_576cec3e08c1a00904ac7706bcfc3792" label="Mixed Materials [31142062764751]" type="Box">1</container><container id="aspace_97ae19fe73bb47fdf3bfc36aca955036" parent="aspace_576cec3e08c1a00904ac7706bcfc3792" type="Folder">2</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>1981</unittitle><unitid>cuid33400</unitid><unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate><langmaterial><language langcode="spa">Spanish; Castilian</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6f7cb9ca9ee01b02e8f2369ec5d901d3" label="Mixed Materials [31142062764751]" type="Box">1</container><container id="aspace_bed7dfcf2ab66d8ade0fe5172fb0a4b3" parent="aspace_6f7cb9ca9ee01b02e8f2369ec5d901d3" type="Folder">3</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>1982</unittitle><unitid>cuid33401</unitid><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_a850572c1484b3bcf136334ae83ca480" label="Mixed Materials [31142062764751]" type="Box">1</container><container id="aspace_0ab0fc812091d1b30847a102d267a3d3" parent="aspace_a850572c1484b3bcf136334ae83ca480" type="Folder">4</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>1984</unittitle><unitid>cuid33402</unitid><unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_1b4b0e663865320c8f2792110b108581" label="Mixed Materials [31142062764751]" type="Box">1</container><container id="aspace_b3c0322c3d1582d46905b113502c53bb" parent="aspace_1b4b0e663865320c8f2792110b108581" type="Folder">5</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>1985</unittitle><unitid>cuid33403</unitid><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_1b3024af37814cbfe7e2aa2b29263e1c" label="Mixed Materials [31142062764751]" type="Box">1</container><container id="aspace_64fef16516579d2ae6ded4d9c671e9bb" parent="aspace_1b3024af37814cbfe7e2aa2b29263e1c" type="Folder">6-7</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Undated</unittitle><unitid>cuid33404</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3aba65e0fd456ec2072d13596030c6cc" label="Mixed Materials [31142062764751]" type="Box">1</container><container id="aspace_c2c18222c4436b4dced4caa18a8dac8a" parent="aspace_3aba65e0fd456ec2072d13596030c6cc" type="Folder">8-9</container></did></c><c id="aspace_81024d22ca150f7143d13f8f57ea4dc0" level="file"><did><unittitle>Slides: Nicaragua, El Salvador</unittitle><unitid>cuid33421</unitid><unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_715bcfd9e64ea8f85f3b99af572c6fd0" label="Mixed Materials [31142062764751]" type="Box">1</container><container id="aspace_c4b66b3d4196349f592f832c5966fb65" parent="aspace_715bcfd9e64ea8f85f3b99af572c6fd0" type="Folder">10</container></did></c></c><c id="aspace_ref14" level="series"><did><unittitle>Series II. Audio Materials</unittitle><unitdate datechar="creation" normal="1976/2000" type="inclusive">1976-2000</unitdate></did><scopecontent id="aspace_bfe4d5159b0e00f71cf580e4a2520d69"><head>Scope and Content Note</head><p>This series contains recordings of interviews, debates, and lectures. Four interviews document the experiences of those effected by the Rapp-Coudert Committee of the early 1940s. Recordings of debates and lectures document the study of movements on the left in North America, Latin America, and Europe from 1976-2000.</p></scopecontent><c id="aspace_ref17" level="file"><did><unittitle>E.P. Thompson at New York Socialist Conference</unittitle><unitid>cuid33405</unitid><unitdate datechar="creation" normal="1976/1976" type="inclusive">Feb 1976</unitdate><container altrender="Card Box 5.75" id="aspace_b7137bca408eb136baf6d6ef472366a9" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Karen Spaulding on history of Peru and Professor Woods</unittitle><unitid>cuid33406</unitid><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Card Box 5.75" id="aspace_bb4f2d06f30104dd19fdb98e63085cc6" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Interview with Edward Rosen (Rapp-Coudert)</unittitle><unitid>cuid33407</unitid><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Card Box 5.75" id="aspace_36b3883974331e06f64eb0a271054ee1" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Dorothy Healy and Michael Harrington at ITT Forum</unittitle><unitid>cuid33408</unitid><unitdate datechar="creation" normal="1978/1978" type="inclusive">Jan 16, 1978</unitdate><container altrender="Card Box 5.75" id="aspace_da2c48c6a5e9e56c02bc7dfc96318daa" label="Audio [31142062764769]" type="Box">2</container><container id="aspace_dd572f01745f34975dac68d91cf773ae" parent="aspace_da2c48c6a5e9e56c02bc7dfc96318daa" type="Cassette">cuid33408A, cuid33408B</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_523.xml&amp;view=xml" xlink:role="audio-reading-room" xlink:show="new" xlink:title="Dorothy Healy and Michael Harrington at ITT Forum" xlink:type="simple"><daodesc><p>Dorothy Healy and Michael Harrington at ITT Forum</p></daodesc></dao></did></c><c id="aspace_ref21" level="file"><did><unittitle>Interview with Oscar Shaftel (Rapp-Coudert)</unittitle><unitid>cuid33409</unitid><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Card Box 5.75" id="aspace_7dac9ac846a292da64d7eb87e3d73983" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Interview with Sidney Shanker (Rapp-Coudert)</unittitle><unitid>cuid33410</unitid><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Card Box 5.75" id="aspace_2f01c2c482a865c1d88826240b6f33c5" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Music recorded in visit to Lutheran Refugio outside of San Salvador</unittitle><unitid>cuid33411</unitid><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Card Box 5.75" id="aspace_f22519cfc56e6f609388c6b04de89e90" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Mark Naison, "Thinking About American Communism," Brecht Forum</unittitle><unitid>cuid33412</unitid><unitdate datechar="creation" normal="1988/1988" type="inclusive">Sep 29, 1988</unitdate><container altrender="Card Box 5.75" id="aspace_69e42601bfe69639b8956756aa92b8ec" label="Audio [31142062764769]" type="Box">2</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_523.xml&amp;view=xml" xlink:role="audio-reading-room" xlink:show="new" xlink:title="Mark Naison, &quot;Thinking About American Communism,&quot; Brecht Forum" xlink:type="simple"><daodesc><p>Mark Naison, "Thinking About American Communism," Brecht Forum</p></daodesc></dao></did></c><c id="aspace_ref28" level="file"><did><unittitle>World Historical Conference, Montreal Canada</unittitle><unitid>cuid33413</unitid><unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate><container altrender="Card Box 5.75" id="aspace_e34f5999a1bba8d5f28fce018547d516" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>New York Marxist School</unittitle><unitid>cuid33414</unitid><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Card Box 5.75" id="aspace_06a4c570781c0bc27918bf7e86bcbc5a" label="Audio [31142062764769]" type="Box">2</container></did><phystech id="aspace_4f78df59bb2a44bdd2d101c97f737805"><head>Physical Characteristics and Technical Requirements</head><p>This tape was not digitized because it is blank.</p></phystech></c><c id="aspace_ref27" level="file"><did><unittitle>Havard Debates on the origins of the New Left</unittitle><unitid>cuid33415</unitid><unitdate datechar="creation" normal="2000/2000" type="inclusive">Apr 17, 2000</unitdate><container altrender="Card Box 5.75" id="aspace_c43ed0e9720d385d3f108f158acd58d9" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Sam Bowles on political economy at John Jay College</unittitle><unitid>cuid33416</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_e631e1a4f284c0d29dd31b9bac9914c1" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Marvin Gettleman, debates and lectures in Massachusetts</unittitle><unitid>cuid33417</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_6b155e37c41ad6e6d074577049dc8472" label="Audio [31142062764769]" type="Box">2</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_523.xml&amp;view=xml" xlink:role="audio-reading-room" xlink:show="new" xlink:title="Marvin Gettleman, debates and lectures in Massachusetts" xlink:type="simple"><daodesc><p>Marvin Gettleman, debates and lectures in Massachusetts</p></daodesc></dao></did></c><c id="aspace_ref30" level="file"><did><unittitle>New York Marxist School [Brecht 3/10]</unittitle><unitid>cuid33418</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_d8409c2ae6917b463218ac94c3a36ffc" label="Audio [31142062764769]" type="Box">2</container><dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/tam_523.xml&amp;view=xml" xlink:role="audio-reading-room" xlink:show="new" xlink:title="New York Marxist School [Brecht 3/10]" xlink:type="simple"><daodesc><p>New York Marxist School [Brecht 3/10]</p></daodesc></dao></did></c><c id="aspace_ref20" level="file"><did><unittitle><title render="italic">Science and Society</title> event featuring Eric Foner and Eleanor Leacock</unittitle><unitid>cuid33419</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_5ad847da8f95b45beef813045550cff8" label="Audio [31142062764769]" type="Box">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Interview with Dudley Strauss (Rapp-Coudert)</unittitle><unitid>cuid33420</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Card Box 5.75" id="aspace_fe204ac304e412427d7ec892a473a913" label="Audio [31142062764769]" type="Box">2</container></did></c></c><c id="aspace_be0dbc61154a68c25960393824e2cf62" level="series"><did><unittitle>Series III. 2019 Accretion</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent><extent altrender="carrier">in 1 legal sized folder.</extent></physdesc><unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate></did><arrangement id="aspace_b88af6dc92e81853dc2db5c1e2e89197"><head>Arrangement</head><p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p></arrangement><scopecontent id="aspace_1d98057fa60c6dfb60021d5aaa2c5b27"><head>Scope and Contents</head><p>This series contains newsletters and meeting minutes.</p></scopecontent><c id="aspace_c0c01b3f31e4df282a760640e371e2a1" level="file"><did><unittitle>Newsletters, Meeting Minutes</unittitle><unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate><container altrender="Manuscript box - Letter" id="aspace_c3c6a245d95b68f2918a786706804d88" label="Mixed Materials [31142063349032]" type="Box">3</container><container id="aspace_32867d79ca4cf29255eaf506f8c2eb34" parent="aspace_c3c6a245d95b68f2918a786706804d88" type="Folder">1</container></did></c></c><c id="aspace_90cf7611bf0da82ed7fe223aab37f5ea" level="series"><did><unittitle>Series IV. 2020 Accretion</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent><extent altrender="carrier">in 3 manuscript boxes. </extent></physdesc><unitdate datechar="creation" normal="1978/1999" type="inclusive">1978-1999</unitdate></did><arrangement id="aspace_9fa20debbbf78edc6dab5074b023169c"><head>Arrangement</head><p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p></arrangement><scopecontent id="aspace_95dfc5c82feff598336d67c2191b410c"><head>Scope and Contents</head><p>This accretion consists of FBI files requested by Ellen Schrecker and Marvin Gettleman through the Freedom of Information Act (FOIA) during the 1990s. The FOIA requests primarily cover subjects such as the Smith Act Trials, Kang Jai Association, Chinese Hand Laundry Alliance, Benjamin Mandel, and Clinton E. Jencks.</p></scopecontent><c id="aspace_cd8bf39b4d7c38bcc3b8cfa8e1b873a5" level="file"><did><unittitle>Research Files</unittitle><unitid>cuid33423</unitid><unitdate datechar="creation" normal="1978/1997" type="inclusive">1978, 1990, 1997</unitdate><container altrender="Manuscript box - Letter" id="aspace_93885873d2b68e568d0f9bf789b88c4c" label="Mixed Materials [31142063349032]" type="Box">3</container><container id="aspace_e1593f751936003aa97f79bdaeb10020" parent="aspace_93885873d2b68e568d0f9bf789b88c4c" type="Folder">2-7</container></did></c><c id="aspace_751dd8cfc42c7f6109d424a93c4ddf97" level="file"><did><unittitle>Research Files</unittitle><unitid>cuid33424</unitid><unitdate datechar="creation" normal="1996/1999" type="inclusive">1996-1999</unitdate><container altrender="Manuscript box - Letter" id="aspace_632f44d1c7787c7dd42cf2ed8790dd9e" label="Mixed Materials [31142063349040]" type="Box">4</container></did></c><c id="aspace_78e9391b3c5aaa26fc4adf347fa9dd08" level="file"><did><unittitle>Research Files</unittitle><unitid>cuid33425</unitid><unitdate datechar="creation" normal="1979/1996" type="inclusive">1979, 1981, 1996
+</unitdate><container altrender="Manuscript box - Letter" id="aspace_5785bde8ca98daa8f48a452f4cff94a2" label="Mixed Materials [31142063349057]" type="Box">5</container></did></c></c></dsc>
+</archdesc>
 </ead>

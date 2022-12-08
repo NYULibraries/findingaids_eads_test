@@ -1,571 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>photos_049</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Actors' Equity Association Photographs <num>PHOTOS.049</num></titleproper>
-        <author>Mary Allison Farley, 1987; Erika Gottfried, 2004.</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from NP49 Acotors' Equity FINAL DRAFT.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:41:46 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Actors' Equity Association Photographs</unittitle>
-      <origination label="Creator">
-        <corpname authfilenumber="(lccn)n50065539" role="dnr" source="naf">Actors' Equity Association</corpname>
-      </origination>
-      <unitid>PHOTOS.049</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 box</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1890/1974" type="inclusive">1900-1974</unitdate>
-      <abstract id="aspace_b52946cfae519178774bc23ea4c4f58d">Actors' Equity Association (AEA, "Equity"), the premiere theatrical performers' labor union in the United States, was founded in New York City in 1913, as the first of the American actors' unions. Its jurisdiction covers both actors and stage managers in the professional theater. The collection contains approximately 110 black and white photographs (and one negative), ranging in size from 3x5 to 8x10 inches. Although it encompasses a miscellany that includes images of AEA offices, AEA meetings, actors and actresses, and theaters, very little of Equity's early history is represented.</abstract>
-      <physdesc id="aspace_266d9b7afe5c48eb68ac9bdcaf56061b" label="General Physical Description note">51 folders; ca. 110 items (3x5; 5x7; 8x10; b&amp;w prints; 8x10 b&amp;w negative)</physdesc>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_049">photos_049</eadid><filedesc><titlestmt><titleproper>Guide to the Actors' Equity Association Photographs <num>PHOTOS.049</num></titleproper><author>Mary Allison Farley, 1987; Erika Gottfried, 2004.</author></titlestmt><editionstmt><p>This version was derived from NP49 Acotors' Equity FINAL DRAFT.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:51:54 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Actors' Equity Association Photographs</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n50065539" role="dnr" source="naf">Actors' Equity Association</corpname>
+    </origination>
+    <unitid>PHOTOS.049</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1890/1974" type="inclusive">1900-1974</unitdate>
+    <abstract id="aspace_b52946cfae519178774bc23ea4c4f58d" label="Abstract">Actors' Equity Association (AEA, "Equity"), the premiere theatrical performers' labor union in the United States, was founded in New York City in 1913, as the first of the American actors' unions. Its jurisdiction covers both actors and stage managers in the professional theater. The collection contains approximately 110 black and white photographs (and one negative), ranging in size from 3x5 to 8x10 inches. Although it encompasses a miscellany that includes images of AEA offices, AEA meetings, actors and actresses, and theaters, very little of Equity's early history is represented.</abstract>
+    <physdesc id="aspace_266d9b7afe5c48eb68ac9bdcaf56061b" label="General Physical Description note">51 folders; ca. 110 items (3x5; 5x7; 8x10; b&amp;w prints; 8x10 b&amp;w negative)</physdesc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-    </did>
-    <accessrestrict id="aspace_bb684c693d3b2347e3670c0b3e1cc8e2">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_4e24bbdd3c3335db5e289698d897e6d5">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by the Actors' Equity Association in 1982 and separated from the Actors' Equity Association Records (WAG 011). The accession number associated with this gift is 1982.003.</p>
-    </acqinfo>
-    <arrangement id="aspace_580964010d4e52fc1ace41152db40007">
-      <head>Arrangement</head>
-      <p>Files are arranged alphabetically by topic within series, except for Series III (People) and IV (Theaters), which are arranged alphabetically by name.</p>
-      <p>This collection is organized into five series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I. Actors' Equity Association</item>
-        <item>II. Events</item>
-        <item>III. People</item>
-        <item>IV. Theaters</item>
-        <item>V. Miscellaneous.</item>
-      </list>
-    </arrangement>
-    <bioghist id="aspace_eda464dbb8dd80e6c18efff0e7bd631e">
-      <head>Historical Note</head>
-      <p>Actors' Equity Association (AEA, Equity), the premiere theatrical performers' labor union in the United States, was founded in New York City in 1913 as the first of the American actors' unions. In July 1919, the American Federation of Labor (later to be the AFL-CIO) granted a charter to Equity as an autonomous branch of the newly-formed Associated Actors and Artists of America. One month later, Equity called the first actors' strike in the history of the American theater.</p>
-      <p>Today Equity's jurisdiction covers both actors and stage managers in the professional theater. It is governed by a council of delegates elected by its membership. Its headquarters are in New York City; it also maintains branches in Chicago, Los Angeles, and Orlando, Florida.</p>
-      <p>Sources:</p>
-      <p>
-        <list>
-          <item>For further historical information on the Actors' Equity Association and to review the scope and contents of its records, see <title render="italic">Guide to Records of the Actors' Equity Association</title>(Wagner #11). See also <title render="italic">About Equity -- A Handbook</title>(New York: Actors' Equity Association), and the Actors' Equity Association website: http://www.actorsequity.org/home.html.</item>
-        </list>
-      </p>
-    </bioghist>
-    <prefercite id="aspace_75a17b50369adaeb46db536f78e3d5ce">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <relatedmaterial id="aspace_7f3704528d47a73b850593a420a3763d">
-      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-      <p>Actors' Equity Association Records (Wagner 11)</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_f9f90e2bacfd82b5623ad4f48bd39be9">
-      <head>Scope and Content Note</head>
-      <p>The collection contains approximately 110 black and white photographs (and one negative), ranging in size from 3x5 to 8x10 inches; it encompasses a miscellany that includes images of Actors' Equity Association (AEA) offices, AEA meetings, actors and actresses, and theaters. Other than a 1919 production photograph of Brandon Tynan performing in "Equity" (a play created as a benefit during the organization's first strike), very little early AEA history is represented. Most of the images of theaters were evidently shot to document bad working conditions, so many of them show stage-door entrances littered with garbage and interiors with crumbling walls and defective plumbing, rather than glamorous facades. Notable images include a picket line by the Oriental Actors Guild in 1968, and Equity members, circa the early 1960s, gathered at the AEA New York City office's "Equity Lounge" to look for work and avail themselves of other member services. Only a few of the individual actors and actresses identified (in portraits or in production photographs) are prominent. They include: Ethel Barrymore; Ralph Bellamy; Jeanette Conner; John Cornell; William H. Crane; Butho Davenport; Paul Dullzell; Philip Loeb; Alan Howland; Harrison Hoy; Colin Keith; George Pierce; Elaine Klaw Roesen; Blythe Sherwood; Marguerite Sylva; and Cyril Vane.</p>
-    </scopecontent>
-    <userestrict id="aspace_7e0559dff718d80abd52a320f2af71a2">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Actors' Equity Association, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Actresses -- United States -- Portraits</subject>
-      <subject source="lcsh">Actors |x Labor unions |z United States |v Portraits.</subject>
-      <subject source="lcsh">Actors |z United States |v Portraits.</subject>
-      <genreform source="aat">Negatives (photographic)</genreform>
-      <genreform source="aat">Black-and-white photographs.</genreform>
-      <genreform source="aat">Portraits.</genreform>
-      <persname rules="dacs" source="local">Davenport, Butho -- Portraits.</persname>
-      <persname source="naf">Crane, William H., 1845-1928 -- Pictorial works.</persname>
-      <persname rules="dacs" source="local">Cornell, John -- Pictorial works. -- Portraits.</persname>
-      <persname rules="dacs" source="local">Conner, Jeanette -- Pictorial works -- Portraits.</persname>
-      <persname source="naf">Sylva, Marguerite, 1875-1957</persname>
-      <persname rules="dacs" source="local">Roesen, Elaine Claw -- Portraits</persname>
-      <persname source="local">Pierce, George -- Portraits.</persname>
-      <persname rules="dacs" source="local">Keith, Colin -- Portraits.</persname>
-      <persname rules="dacs" source="local">Howland, Alan -- Portraits.</persname>
-      <persname rules="dacs" source="local">Hoy, Harrison -- Portraits.</persname>
-      <persname source="naf">Loeb, Philip, 1894-1955 -- Portraits.</persname>
-      <persname source="local">Dullzell, Paul -- Portraits.</persname>
-      <corpname source="naf">Oriental Actors of America</corpname>
-      <persname rules="dacs" source="local">Vane, Cyril -- Portraits.</persname>
-      <persname source="naf">Tynan, Brandon, 1875-1967 -- Portraits.</persname>
-      <persname source="naf">Barrymore, Ethel, 1879-1959 -- Pictorial works.</persname>
-      <corpname authfilenumber="(lccn)n50065539" source="naf">Actors' Equity Association -- Pictorial works.</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I: Actors' Equity Association.</unittitle>
-        </did>
-        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>AEA (unidentified) Groundbreaking - some ID of individuals</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4d9d67368985ace3e51b4d8952106965" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_e88d3b9115d36de6de5f53abd90c2ed6" parent="aspace_4d9d67368985ace3e51b4d8952106965" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>AEA Meeting, Contact Sheet</unittitle>
-            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_cb1d0573d18af7f5853d32cac1e6736c" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_ae2aa51fa9a3786d679059e84ffbdf4a" parent="aspace_cb1d0573d18af7f5853d32cac1e6736c" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>AEA Meeting, Western Regional Membership</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_d59c9ab45045b222b6439e1c705ceac1" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_f1af28b6afd0a0eb0cc9e8e06e144757" parent="aspace_d59c9ab45045b222b6439e1c705ceac1" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Los Angeles Office, AEA</unittitle>
-            <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_f7a51162afca204f2facc5fb02eeeb15" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_22e1afd50d99ab02a908acf0d8ee9526" parent="aspace_f7a51162afca204f2facc5fb02eeeb15" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Los Angeles Office</unittitle>
-            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_c5dcec1e7fa3bbd8f4f5adaae8bf570c" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_b23cba6cb691c11b4a4c6ef68e2f7bc0" parent="aspace_c5dcec1e7fa3bbd8f4f5adaae8bf570c" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office, AEA</unittitle>
-            <unitdate datechar="creation" normal="1920/1929" type="inclusive">1920-1929</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_7be679d1711262252c45329a1db8001b" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_c79e984d048b5dc08c58c9b254d777ce" parent="aspace_7be679d1711262252c45329a1db8001b" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office, AEA</unittitle>
-            <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_8275feb48e80edd7a5ed6cbccceb7ab3" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_79dd5fd3b26fabb033e392a668a1e6ba" parent="aspace_8275feb48e80edd7a5ed6cbccceb7ab3" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office Photos, 226 W. 47th St., NY</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b7e53545380c92ac16caf89debec0aae" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_a9434d1ab50849ea06bdc78e4749a52a" parent="aspace_b7e53545380c92ac16caf89debec0aae" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office, 165 W. 46th St., NY</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_96075d83768068dc42fcc47daf98a2ed" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_0ff6400dd8897b043cdb6418fbab2d3d" parent="aspace_96075d83768068dc42fcc47daf98a2ed" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_e2800ac90ff908b985a5ff6a24f45ee4" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_1ba370b198461667ad11531913ec8443" parent="aspace_e2800ac90ff908b985a5ff6a24f45ee4" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office, Credit Union Annual Meeting</unittitle>
-            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_fef640c4d587e2ea4aca2fb662cc169e" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_1f98f8ff15f450b330da4b0a52526ba9" parent="aspace_fef640c4d587e2ea4aca2fb662cc169e" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office, Meeting</unittitle>
-            <unitdate datechar="creation">Mar 1974</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_cb94f7d9ba7dcf75c7e535b3dd845cb9" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_e173a2bef45fb4c4bc21793a9693417a" parent="aspace_cb94f7d9ba7dcf75c7e535b3dd845cb9" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office, Players Club Dinner</unittitle>
-            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_61dde583e467d1a80bc42119928f4ff5" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_a6cdb7d9052fc72a03e73b96a24088fb" parent="aspace_61dde583e467d1a80bc42119928f4ff5" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office, Labor News Conference</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_e9fb216bd48f0893ee5caf6c5e8f7c0d" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_390d6421fd5fc95d0c7134d426f7d67b" parent="aspace_e9fb216bd48f0893ee5caf6c5e8f7c0d" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>New York Office, Picket Line Supporting Soviet Dissidents</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_6c38e55b505dab9f5c0fac1b1d83503f" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_ffa2df668d56acf5e68624553015bafa" parent="aspace_6c38e55b505dab9f5c0fac1b1d83503f" type="Folder">15</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref29" level="series">
-        <did>
-          <unittitle>Series II: Events.</unittitle>
-        </did>
-        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Paul Robeson Awards Ceremony</unittitle>
-            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_47e10ddd9f7c7be22193fbaedf33a6f9" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_30a2d879337267c242cce815fd1379d2" parent="aspace_47e10ddd9f7c7be22193fbaedf33a6f9" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Lillian Russell Memorial Service</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_d62f9449331b4c95bbfccd173c0603fc" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_cee9675db1afe9793bb887cec7d1857f" parent="aspace_d62f9449331b4c95bbfccd173c0603fc" type="Folder">17</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref32" level="series">
-        <did>
-          <unittitle>Series III: People.</unittitle>
-        </did>
-        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Barrymore, Ethel</unittitle>
-            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_e73ffdff2b80277b2612f0951c3d65fb" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_a1ce836da66558a4c0c3b9986f4bd88c" parent="aspace_e73ffdff2b80277b2612f0951c3d65fb" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Bellamy, Ralph</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_bc247fd9d33285653a12553c6986e5aa" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_049fa9ca200d52f7ad04cf4c53a77369" parent="aspace_bc247fd9d33285653a12553c6986e5aa" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Booth, Edwin (Bust)</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_160d6c4adf9ff78c55447d1aee9ca540" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_c3595efaa093dfa948aba04ea6d8ea07" parent="aspace_160d6c4adf9ff78c55447d1aee9ca540" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Chorines Waiting to Audition</unittitle>
-            <unitdate datechar="creation" normal="1910/1939" type="inclusive">[1920-1929]</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5e1e36a83b6f41e992e90dc315b8b446" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_23f5aa77719f0cb22eddc4fd1e36f121" parent="aspace_5e1e36a83b6f41e992e90dc315b8b446" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Conner, Jeanette; Hoy, Harrison</unittitle>
-            <unitdate datechar="creation" normal="1910/1939" type="inclusive">[1920-1929]</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_9c99c4060a30618c7cb7be66c5cb4ddc" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_e42cfcd25790713d4ee6c19d98070782" parent="aspace_9c99c4060a30618c7cb7be66c5cb4ddc" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Cooke, George Frederick (Tomb of)</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4882e4fcdf6c4960f2a73b57f079f145" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_9452cde26d7193bc2d69d08bc26d2418" parent="aspace_4882e4fcdf6c4960f2a73b57f079f145" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Cornell, John</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_824fd8796d4278e20e766cf27ab636da" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_a3422522873ffa8a630a412e000fd6fe" parent="aspace_824fd8796d4278e20e766cf27ab636da" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Crane, William H</unittitle>
-            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4f20f2e3aaf11725f5e825e15715c28b" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_02a63352ed9930692ad21dad4b76ac7f" parent="aspace_4f20f2e3aaf11725f5e825e15715c28b" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Davenport, Butho</unittitle>
-            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_03c416918465b0c322086af0c4a8b718" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_7f6bd10695d40150c9d0ff10fd19d77f" parent="aspace_03c416918465b0c322086af0c4a8b718" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Dullzell, Paul; Pierce, George "The Trainer"</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_089afd38bfb95eeb88c383ff9ab48959" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_8e12cc2ead2086f011ad056ec31006eb" parent="aspace_089afd38bfb95eeb88c383ff9ab48959" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Loeb, Philip (Negatives)</unittitle>
-            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_34a3ade38a772a230c8c0e3c5b940c32" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_0703c9c1dcb9df523e59fd6ec95f9eab" parent="aspace_34a3ade38a772a230c8c0e3c5b940c32" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Oriental Actors of America</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b1d46f68160af3bc93c8a1423c54a341" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_fcf4364e0435fd1ec8c5871335dae7c2" parent="aspace_b1d46f68160af3bc93c8a1423c54a341" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Roesen, Elaine Klaw 1968</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_1623ba3f2c7b77196a9fdf5f28d3b7c9" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_152968f66062b99752c55f4e043cc971" parent="aspace_1623ba3f2c7b77196a9fdf5f28d3b7c9" type="Folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Sherwood, Blythe</unittitle>
-            <unitdate datechar="creation" normal="1900/1930" type="inclusive">[1910-1920]</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b4bb9856fc97eca48ebb594524c4de49" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_41c28a0a1f45d53bdcd965ddeb71b2e3" parent="aspace_b4bb9856fc97eca48ebb594524c4de49" type="Folder">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Sylva, Mme. Marguerite</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_2564a01d79335520dd143f20eb07045f" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_a7b7b809fee27b4a1e7ed232812cd85e" parent="aspace_2564a01d79335520dd143f20eb07045f" type="Folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Tynan, Brandon (in "Equity")</unittitle>
-            <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
-            <container altrender="Flat OS Box 17" id="aspace_9922fbdc98677f4e883c8c0e45802735" label="Mixed Materials [31142062760064]" type="Box">Tamiment Shared OS006</container>
-            <container id="aspace_b85f68574a72deaebff2827438e728ae" parent="aspace_9922fbdc98677f4e883c8c0e45802735" type="Folder">1</container>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_86929d1b7f8e9dec98035ae1ee609b5c" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_ec40d37750a30f228082aa3dbee09c52" parent="aspace_86929d1b7f8e9dec98035ae1ee609b5c" type="Folder">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Vane, Cyril (Marcellus); Keith, Colin (Hamlet); Howland, Alan (Horatio)</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_d6924642032dc8aab70e07ceb2bcfb8a" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_4adfad8244edc63728221d5abe198191" parent="aspace_d6924642032dc8aab70e07ceb2bcfb8a" type="Folder">34</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref50" level="series">
-        <did>
-          <unittitle>Series IV: Theaters.</unittitle>
-        </did>
-        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Academy of Music (New York City)</unittitle>
-            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_0c5c52712c8210f30a8491b0f95d1ae5" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_f09e9343d3414b79953492d4fa6546dd" parent="aspace_0c5c52712c8210f30a8491b0f95d1ae5" type="Folder">35</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Baird Marionette Theater (Jaipur, India)</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_dd335efe8c8edf01981e5091f729a7bd" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_4a459f60c4b703ee0736ce7434bbc31d" parent="aspace_dd335efe8c8edf01981e5091f729a7bd" type="Folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Baker Theater (Fort Leonard Wood, Missouri)</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_ccd6471a0654ae5014c321527f90c9f6" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_6d6f94634aad4cc643892626dfa2c310" parent="aspace_ccd6471a0654ae5014c321527f90c9f6" type="Folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Castle Square Garden</unittitle>
-            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_3946f0128e667005657e087623226e19" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_0c5672d4fa2de46298b83d0173fcfaec" parent="aspace_3946f0128e667005657e087623226e19" type="Folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Grand Ole Opry House [Ryman Auditorium], backstage (Nashville, Tennessee)</unittitle>
-            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_892ade5c9ba7c6e63f3d36a20071a6c5" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_e2d6db7a30b1e45379b937fdb13f631c" parent="aspace_892ade5c9ba7c6e63f3d36a20071a6c5" type="Folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>La Salle Theater, Stage Entrance (New York City)</unittitle>
-            <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_749aede477f07000fdb72d86fd1535c0" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_da11d830cebf5152bac3cab9925d8846" parent="aspace_749aede477f07000fdb72d86fd1535c0" type="Folder">40</container>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Nixon Theater, Backstage (Pittsburgh, Pennsylvania)</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_4ec1392297a6ef2a9c36401fbcb82ddb" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_8fd10315efc1fcbc68402fd1de7f9f3d" parent="aspace_4ec1392297a6ef2a9c36401fbcb82ddb" type="Folder">41</container>
-          </did>
-        </c>
-        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Olympic Theater, Stage Entrance (New York City)</unittitle>
-            <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_97892c18e8ef23b1f1e533809547b02c" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_5e93f4630f231e44440d364285a25c45" parent="aspace_97892c18e8ef23b1f1e533809547b02c" type="Folder">42</container>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Paramount Theater, Backstage (Portland, Oregon)</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5892fdc3e6b7c04969878c8570ec092c" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_956b48453815fa148126dc82feb2aec6" parent="aspace_5892fdc3e6b7c04969878c8570ec092c" type="Folder">43</container>
-          </did>
-        </c>
-        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Portable Theater</unittitle>
-            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_cfa51d2c5fad68079378df5bc86765e3" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_f986ac88e1390004229da174192a4e77" parent="aspace_cfa51d2c5fad68079378df5bc86765e3" type="Folder">44</container>
-          </did>
-        </c>
-        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>State Fair Music Hall (Dallas, Texas)</unittitle>
-            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_67266c24f7dd0fc5d1a0a90c1025c437" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_c2d520a3f3aff1200fe74dbf834a2914" parent="aspace_67266c24f7dd0fc5d1a0a90c1025c437" type="Folder">45</container>
-          </did>
-        </c>
-        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Theaters</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_906c39c82f498ddc68e1624106e5b5c9" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_74e013bd25d42736a25fd869a11fc24c" parent="aspace_906c39c82f498ddc68e1624106e5b5c9" type="Folder">46</container>
-          </did>
-        </c>
-        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Walnut Street Theater (Philadelphia, PA)</unittitle>
-            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_2f03edb53ec979ba58bfe0acf265de0a" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_640868db81b1b35eaba0f7b079490922" parent="aspace_2f03edb53ec979ba58bfe0acf265de0a" type="Folder">47</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref64" level="series">
-        <did>
-          <unittitle>Series V: Miscellaneous.</unittitle>
-        </did>
-        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>"The Little Racketeer," Billboard</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_1d04c97267312a6d0a20209e5c7f9d26" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_04ef638ffe85734bc87c2f3089901b88" parent="aspace_1d04c97267312a6d0a20209e5c7f9d26" type="Folder">48</container>
-          </did>
-        </c>
-        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Shakespearean Portraits</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_8723b044b2afb455d6505b78dd1b906e" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_9ea5469b928267f39ed1ec0df7fb7290" parent="aspace_8723b044b2afb455d6505b78dd1b906e" type="Folder">49</container>
-          </did>
-        </c>
-        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Stage Society Placard</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_5788f220a565f2d85ac77893b0b6537a" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_2e74d1f4bd9b42060db7492616472ab2" parent="aspace_5788f220a565f2d85ac77893b0b6537a" type="Folder">50</container>
-          </did>
-        </c>
-        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Veterans Music Program - The Veterans Bedside Network (not AEA) - separate organization</unittitle>
-            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_3b787f5c21df5c88d84da6299c0b2fb4" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_66954a0ac56cab9e645ec8af1dacc447" parent="aspace_3b787f5c21df5c88d84da6299c0b2fb4" type="Folder">51</container>
-          </did>
-        </c>
-        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Unidentified Old Photos</unittitle>
-            <unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_e912abc1ae2301e04b90c96f173ef252" label="Mixed Materials [31142062671311]" type="Box">1</container>
-            <container id="aspace_6ddd7f8a1f2dcaf9004637ad50fc8f5c" parent="aspace_e912abc1ae2301e04b90c96f173ef252" type="Folder">52</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+  </did>
+  <accessrestrict id="aspace_bb684c693d3b2347e3670c0b3e1cc8e2">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_4e24bbdd3c3335db5e289698d897e6d5">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by the Actors' Equity Association in 1982 and separated from the Actors' Equity Association Records (WAG 011). The accession number associated with this gift is 1982.003.</p>  </acqinfo>
+  <arrangement id="aspace_580964010d4e52fc1ace41152db40007">
+    <head>Arrangement</head>
+<p>Files are arranged alphabetically by topic within series, except for Series III (People) and IV (Theaters), which are arranged alphabetically by name.</p><p>This collection is organized into five series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I. Actors' Equity Association</item>
+      <item>II. Events</item>
+      <item>III. People</item>
+      <item>IV. Theaters</item>
+      <item>V. Miscellaneous.</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_eda464dbb8dd80e6c18efff0e7bd631e">
+    <head>Historical Note</head>
+<p>Actors' Equity Association (AEA, Equity), the premiere theatrical performers' labor union in the United States, was founded in New York City in 1913 as the first of the American actors' unions. In July 1919, the American Federation of Labor (later to be the AFL-CIO) granted a charter to Equity as an autonomous branch of the newly-formed Associated Actors and Artists of America. One month later, Equity called the first actors' strike in the history of the American theater.</p><p>Today Equity's jurisdiction covers both actors and stage managers in the professional theater. It is governed by a council of delegates elected by its membership. Its headquarters are in New York City; it also maintains branches in Chicago, Los Angeles, and Orlando, Florida.</p><p>Sources:</p><p><list><item>For further historical information on the Actors' Equity Association and to review the scope and contents of its records, see <title render="italic">Guide to Records of the Actors' Equity Association</title>(Wagner #11). See also <title render="italic">About Equity -- A Handbook</title>(New York: Actors' Equity Association), and the Actors' Equity Association website: http://www.actorsequity.org/home.html.</item></list></p>  </bioghist>
+  <prefercite id="aspace_75a17b50369adaeb46db536f78e3d5ce">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <relatedmaterial id="aspace_7f3704528d47a73b850593a420a3763d">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Actors' Equity Association Records (Wagner 11)</p>  </relatedmaterial>
+  <scopecontent id="aspace_f9f90e2bacfd82b5623ad4f48bd39be9">
+    <head>Scope and Content Note</head>
+<p>The collection contains approximately 110 black and white photographs (and one negative), ranging in size from 3x5 to 8x10 inches; it encompasses a miscellany that includes images of Actors' Equity Association (AEA) offices, AEA meetings, actors and actresses, and theaters. Other than a 1919 production photograph of Brandon Tynan performing in "Equity" (a play created as a benefit during the organization's first strike), very little early AEA history is represented. Most of the images of theaters were evidently shot to document bad working conditions, so many of them show stage-door entrances littered with garbage and interiors with crumbling walls and defective plumbing, rather than glamorous facades. Notable images include a picket line by the Oriental Actors Guild in 1968, and Equity members, circa the early 1960s, gathered at the AEA New York City office's "Equity Lounge" to look for work and avail themselves of other member services. Only a few of the individual actors and actresses identified (in portraits or in production photographs) are prominent. They include: Ethel Barrymore; Ralph Bellamy; Jeanette Conner; John Cornell; William H. Crane; Butho Davenport; Paul Dullzell; Philip Loeb; Alan Howland; Harrison Hoy; Colin Keith; George Pierce; Elaine Klaw Roesen; Blythe Sherwood; Marguerite Sylva; and Cyril Vane.</p>  </scopecontent>
+  <userestrict id="aspace_7e0559dff718d80abd52a320f2af71a2">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Actors' Equity Association, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Actresses -- United States -- Portraits</subject>
+    <subject source="lcsh">Actors |x Labor unions |z United States |v Portraits.</subject>
+    <subject source="lcsh">Actors |z United States |v Portraits.</subject>
+    <genreform source="aat">Negatives (photographic)</genreform>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Portraits.</genreform>
+    <persname rules="dacs" source="local">Davenport, Butho -- Portraits.</persname>
+    <persname source="naf">Crane, William H., 1845-1928 -- Pictorial works.</persname>
+    <persname rules="dacs" source="local">Cornell, John -- Pictorial works. -- Portraits.</persname>
+    <persname rules="dacs" source="local">Conner, Jeanette -- Pictorial works -- Portraits.</persname>
+    <persname source="naf">Sylva, Marguerite, 1875-1957</persname>
+    <persname rules="dacs" source="local">Roesen, Elaine Claw -- Portraits</persname>
+    <persname source="local">Pierce, George -- Portraits.</persname>
+    <persname rules="dacs" source="local">Keith, Colin -- Portraits.</persname>
+    <persname rules="dacs" source="local">Howland, Alan -- Portraits.</persname>
+    <persname rules="dacs" source="local">Hoy, Harrison -- Portraits.</persname>
+    <persname source="naf">Loeb, Philip, 1894-1955 -- Portraits.</persname>
+    <persname source="local">Dullzell, Paul -- Portraits.</persname>
+    <corpname source="naf">Oriental Actors of America</corpname>
+    <persname rules="dacs" source="local">Vane, Cyril -- Portraits.</persname>
+    <persname source="naf">Tynan, Brandon, 1875-1967 -- Portraits.</persname>
+    <persname source="naf">Barrymore, Ethel, 1879-1959 -- Pictorial works.</persname>
+    <corpname authfilenumber="(lccn)n50065539" source="naf">Actors' Equity Association -- Pictorial works.</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Actors' Equity Association.</unittitle></did><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>AEA (unidentified) Groundbreaking - some ID of individuals</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7867343a437a76402b206cb0cab0dcf1" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_f2e9d2308a43e54acfbcef16579c14f3" parent="aspace_7867343a437a76402b206cb0cab0dcf1" type="Folder">1</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>AEA Meeting, Contact Sheet</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_af8207e91fb048e484206b09996bb2bb" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_00d0511bad93d0e55f550ce252146755" parent="aspace_af8207e91fb048e484206b09996bb2bb" type="Folder">2</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>AEA Meeting, Western Regional Membership</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d10787e26d2e5eb2da4edd60a8ea09d0" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_8c3dcb28227cf43809eb1e5c659748e5" parent="aspace_d10787e26d2e5eb2da4edd60a8ea09d0" type="Folder">3</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Los Angeles Office, AEA</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_364eede3e9d880346f28b5a197226f06" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_bdffb32d42e1ca74f4f993b25d767521" parent="aspace_364eede3e9d880346f28b5a197226f06" type="Folder">4</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Los Angeles Office</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e1d118bdac16550250dc53a302f8990a" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_bbf430bf565d0930f0d0e05a19f5c5e0" parent="aspace_e1d118bdac16550250dc53a302f8990a" type="Folder">5</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office, AEA</unittitle><unitdate datechar="creation" normal="1920/1929" type="inclusive">1920-1929</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_92f1a7ad017330163e945247eb3695f1" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_d69eb4262ed38e8e4a8a0b34f5bc32c0" parent="aspace_92f1a7ad017330163e945247eb3695f1" type="Folder">6</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office, AEA</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a313fcc1acdeb7f3cf87ae51704841fc" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_7e5edf578c396fbd72290f60f0d32c59" parent="aspace_a313fcc1acdeb7f3cf87ae51704841fc" type="Folder">7</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office Photos, 226 W. 47th St., NY</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c82978753077ebe8a26ecbce313a68ec" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_dff13e2eabcdf70b56725c533c70280a" parent="aspace_c82978753077ebe8a26ecbce313a68ec" type="Folder">8</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office, 165 W. 46th St., NY</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e34b0de14681900e371d5b60c65e6368" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_68a550e3bd441b03c606636241221d1e" parent="aspace_e34b0de14681900e371d5b60c65e6368" type="Folder">9</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_70533fe1b47f9fc7cfd0e1e64ac3052e" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_f2a8e03da23b599bb4934ef385c943fe" parent="aspace_70533fe1b47f9fc7cfd0e1e64ac3052e" type="Folder">10</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office, Credit Union Annual Meeting</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7390e157563dfc14009514eb6d500b84" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_edd23aeb06ad7aa6c36d1bc9dafffe49" parent="aspace_7390e157563dfc14009514eb6d500b84" type="Folder">11</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office, Meeting</unittitle><unitdate datechar="creation">Mar 1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f3ca14aacc3805b0ae874c001df09739" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_89b5fed95e89aee612574e0765846ee2" parent="aspace_f3ca14aacc3805b0ae874c001df09739" type="Folder">12</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office, Players Club Dinner</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3e042cdaaa9e11c8c1b2cd4e0855b660" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_3996a8ddc918fab0694f89bf546bb4fa" parent="aspace_3e042cdaaa9e11c8c1b2cd4e0855b660" type="Folder">13</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office, Labor News Conference</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b46f8529c6ad273a9f1a3be066c833ec" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_17eff46022f32d465ca803fb06bc0fad" parent="aspace_b46f8529c6ad273a9f1a3be066c833ec" type="Folder">14</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>New York Office, Picket Line Supporting Soviet Dissidents</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4068ecf78752d1c4865c995b13ddbe61" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_f638f5167e85cf30a198bb4eccb5848d" parent="aspace_4068ecf78752d1c4865c995b13ddbe61" type="Folder">15</container></did></c></c><c id="aspace_ref29" level="series"><did><unittitle>Series II: Events.</unittitle></did><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>Paul Robeson Awards Ceremony</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4848d099f5f24a2e08a58cd414a99e36" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_35c9531e7720da1222029e6901c5a273" parent="aspace_4848d099f5f24a2e08a58cd414a99e36" type="Folder">16</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Lillian Russell Memorial Service</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2db2988381e7d02e9dd2ee8f991fe00e" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_2a61cbd38f6d03f343fb2bd9c7d336ed" parent="aspace_2db2988381e7d02e9dd2ee8f991fe00e" type="Folder">17</container></did></c></c><c id="aspace_ref32" level="series"><did><unittitle>Series III: People.</unittitle></did><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Barrymore, Ethel</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_24a53cfa63795f4cee24a0c342eb8d3a" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_14356b12eeb360126bf5dddd1837d841" parent="aspace_24a53cfa63795f4cee24a0c342eb8d3a" type="Folder">18</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Bellamy, Ralph</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5117e69f71c50fd7495d8f11af303896" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_a9a158979056343bfa5da856e51f087e" parent="aspace_5117e69f71c50fd7495d8f11af303896" type="Folder">19</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>Booth, Edwin (Bust)</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dd0b36ea133846df086c26204b653679" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_0740fc9ed8e599d09129992c3a30a13c" parent="aspace_dd0b36ea133846df086c26204b653679" type="Folder">20</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Chorines Waiting to Audition</unittitle><unitdate datechar="creation" normal="1910/1939" type="inclusive">[1920-1929]</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_72a929b61fdde3e74d1325c7fc172c02" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_d2ead02e248d5a84a4c2e3122d4ebb56" parent="aspace_72a929b61fdde3e74d1325c7fc172c02" type="Folder">21</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>Conner, Jeanette; Hoy, Harrison</unittitle><unitdate datechar="creation" normal="1910/1939" type="inclusive">[1920-1929]</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_03514d1b6364d18ef3b6bb5dc0661c20" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_77dd2b35f52fe5d7e1e52a82dc2f316d" parent="aspace_03514d1b6364d18ef3b6bb5dc0661c20" type="Folder">22</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Cooke, George Frederick (Tomb of)</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b618bb9ee8e8f8e5e74f9372d3b84e7f" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_8e4c582e21e9bd00d72b00acab94c7f7" parent="aspace_b618bb9ee8e8f8e5e74f9372d3b84e7f" type="Folder">23</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>Cornell, John</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4b83f7513108f15c85750ee5148e5ed3" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_8ac85bb011e495b9ff50f978467801f4" parent="aspace_4b83f7513108f15c85750ee5148e5ed3" type="Folder">24</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Crane, William H</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_38c3afdba36805d43f824db1d77ed6fc" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_d225a49d990c53bfceffb2ab34ac923c" parent="aspace_38c3afdba36805d43f824db1d77ed6fc" type="Folder">25</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Davenport, Butho</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a963e2af0224c361440734d80a5942b2" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_9967026604699d0fe1c8f969d8a829da" parent="aspace_a963e2af0224c361440734d80a5942b2" type="Folder">26</container></did></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dullzell, Paul; Pierce, George "The Trainer"</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_99f40c3e62f4cbba8ca08b64d0c37373" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_99007514ada180fe60441729f28e5e9d" parent="aspace_99f40c3e62f4cbba8ca08b64d0c37373" type="Folder">27</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Loeb, Philip (Negatives)</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_56faba5b25d4b5e1f460a53adc7bae22" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_4e37f66baffb8727c0158b079e7dd3c5" parent="aspace_56faba5b25d4b5e1f460a53adc7bae22" type="Folder">28</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oriental Actors of America</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3672e2abcb9410d45a6144dfaf244605" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_376076681efe99c6521d1a011138a76f" parent="aspace_3672e2abcb9410d45a6144dfaf244605" type="Folder">29</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Roesen, Elaine Klaw 1968</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3b7156f75365978e00fdb4e5426f61db" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_82adcbc6f7f22293de75d4f5e18f79d0" parent="aspace_3b7156f75365978e00fdb4e5426f61db" type="Folder">30</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sherwood, Blythe</unittitle><unitdate datechar="creation" normal="1900/1930" type="inclusive">[1910-1920]</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4f5e50f464de638471072305b4874669" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_28afd3c2bdff1f3b138c0028e0d529f0" parent="aspace_4f5e50f464de638471072305b4874669" type="Folder">31</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sylva, Mme. Marguerite</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e581a1fb50a8957d39ba6d77eb2f74ed" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_dc7a9923eb6539ae49f3eed981ed55c5" parent="aspace_e581a1fb50a8957d39ba6d77eb2f74ed" type="Folder">32</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Tynan, Brandon (in "Equity")</unittitle><unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate><container altrender="Flat OS Box 17" id="aspace_5b248876d21b7d405bbc50c6a23a38a0" label="Mixed Materials [31142062760064]" type="Box">Shared Tamiment OS006</container><container id="aspace_8f21a267ee225f1d38bbe25ddc29af7c" parent="aspace_5b248876d21b7d405bbc50c6a23a38a0" type="Folder">1</container><container altrender="Manuscript box - Legal - Half" id="aspace_3f694d6b427ac87e989a6fbae13adbf1" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_8f42c139dc9adbfa7a86ef10ef7bea5a" parent="aspace_3f694d6b427ac87e989a6fbae13adbf1" type="Folder">33</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Vane, Cyril (Marcellus); Keith, Colin (Hamlet); Howland, Alan (Horatio)</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6406853fd548d5caeb6f3611709c97b3" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_690e7c2f237ea2e5894afce5ace4081a" parent="aspace_6406853fd548d5caeb6f3611709c97b3" type="Folder">34</container></did></c></c><c id="aspace_ref50" level="series"><did><unittitle>Series IV: Theaters.</unittitle></did><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>Academy of Music (New York City)</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a07557a1434380ad77aebd91288ad24c" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_22945aaf3dd49b6b1a83ee7def8a2244" parent="aspace_a07557a1434380ad77aebd91288ad24c" type="Folder">35</container></did></c><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle>Baird Marionette Theater (Jaipur, India)</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dcb3d5de4c49debf358bea600b47d051" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_1e56cc53b66902f2e883bd5872666d62" parent="aspace_dcb3d5de4c49debf358bea600b47d051" type="Folder">36</container></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>Baker Theater (Fort Leonard Wood, Missouri)</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e71ac575cb5cd96dadd19f97ddc25252" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_6999e96d6e0cf6d643c46c821b30dd53" parent="aspace_e71ac575cb5cd96dadd19f97ddc25252" type="Folder">37</container></did></c><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>Castle Square Garden</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7a814d118c93f30da6c962eac94b51c0" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_cedad37ae48868abcd10ad704db0a120" parent="aspace_7a814d118c93f30da6c962eac94b51c0" type="Folder">38</container></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>Grand Ole Opry House [Ryman Auditorium], backstage (Nashville, Tennessee)</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d0076d8df181aa00d09a407965c9c9e1" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_2e4d69d78fe2386880a684034e6d226f" parent="aspace_d0076d8df181aa00d09a407965c9c9e1" type="Folder">39</container></did></c><c id="aspace_ref56" level="otherlevel" otherlevel="unspecified"><did><unittitle>La Salle Theater, Stage Entrance (New York City)</unittitle><unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3fa5bb6fc43718824fbbe4b05bb94994" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_7bdf4347966506a6898b9a652b3f5bf2" parent="aspace_3fa5bb6fc43718824fbbe4b05bb94994" type="Folder">40</container></did></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Nixon Theater, Backstage (Pittsburgh, Pennsylvania)</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_73d54380d5a1d35f35b6f77e989c5a47" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_cee7b47366b203188c543c1829af1d8d" parent="aspace_73d54380d5a1d35f35b6f77e989c5a47" type="Folder">41</container></did></c><c id="aspace_ref58" level="otherlevel" otherlevel="unspecified"><did><unittitle>Olympic Theater, Stage Entrance (New York City)</unittitle><unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dbfb0a8a02ca1cd3f598671fec560611" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_e2c0bf100d25d9efe5094f28f77c62f1" parent="aspace_dbfb0a8a02ca1cd3f598671fec560611" type="Folder">42</container></did></c><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>Paramount Theater, Backstage (Portland, Oregon)</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f56fb87d24713c5437890f6ac3b2fc01" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_1f593d49cc6e4df3a0f9aa0e86011eac" parent="aspace_f56fb87d24713c5437890f6ac3b2fc01" type="Folder">43</container></did></c><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>Portable Theater</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_adfe765df1100aa0aecd829852b3d156" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_22afa23e068a1b8774c63062067d54f0" parent="aspace_adfe765df1100aa0aecd829852b3d156" type="Folder">44</container></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>State Fair Music Hall (Dallas, Texas)</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1c18c716ca0ededadc4c8939b21e458b" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_ec7dcc57d07a5f5bcd0b825c705c1bc7" parent="aspace_1c18c716ca0ededadc4c8939b21e458b" type="Folder">45</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>Theaters</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bc383d49fa7ca0f1d3b27d9fbfea9633" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_910beaa41c2dedcbd5d1567a98a7e7da" parent="aspace_bc383d49fa7ca0f1d3b27d9fbfea9633" type="Folder">46</container></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>Walnut Street Theater (Philadelphia, PA)</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bd34d20b29e3d3b2e05121b51da0bbb9" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_94803ec56a36bbdc6c8b043b19cbc3c7" parent="aspace_bd34d20b29e3d3b2e05121b51da0bbb9" type="Folder">47</container></did></c></c><c id="aspace_ref64" level="series"><did><unittitle>Series V: Miscellaneous.</unittitle></did><c id="aspace_ref65" level="otherlevel" otherlevel="unspecified"><did><unittitle>"The Little Racketeer," Billboard</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_59ab1539adc68f4c37cd846d44b33037" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_ee9732a8a27947e2d90eb5e913c5b741" parent="aspace_59ab1539adc68f4c37cd846d44b33037" type="Folder">48</container></did></c><c id="aspace_ref66" level="otherlevel" otherlevel="unspecified"><did><unittitle>Shakespearean Portraits</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_181c68c0d85f877694a79e731d338118" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_a3d6d27b7d83478a596c9c4c0c79a78b" parent="aspace_181c68c0d85f877694a79e731d338118" type="Folder">49</container></did></c><c id="aspace_ref67" level="otherlevel" otherlevel="unspecified"><did><unittitle>Stage Society Placard</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_def708dcce213e9b9a031001f379c1d7" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_8843ef866d347042c14430eb0d1a1c00" parent="aspace_def708dcce213e9b9a031001f379c1d7" type="Folder">50</container></did></c><c id="aspace_ref68" level="otherlevel" otherlevel="unspecified"><did><unittitle>Veterans Music Program - The Veterans Bedside Network (not AEA) - separate organization</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_40ae67b486b4d8eb084ca1caa674da2d" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_25ca48cd75dc63c39306a1acd5151f27" parent="aspace_40ae67b486b4d8eb084ca1caa674da2d" type="Folder">51</container></did></c><c id="aspace_ref69" level="otherlevel" otherlevel="unspecified"><did><unittitle>Unidentified Old Photos</unittitle><unitdate datechar="creation" normal="1890/1974" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c9d6e312e30d0bd7e49a9b8ad3d6f83e" label="Mixed Materials [31142062671311]" type="Box">1</container><container id="aspace_161ebe5ed04ed576567b9db872bca302" parent="aspace_c9d6e312e30d0bd7e49a9b8ad3d6f83e" type="Folder">52</container></did></c></c></dsc>
+</archdesc>
 </ead>

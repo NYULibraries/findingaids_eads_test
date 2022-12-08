@@ -1,538 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_733">tam_733</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials <num>TAM.733</num></titleproper>
-        <author>Mark Simon Haydn, Jennifer Gargiulo, Mara Lasky, and Victoria Messana.</author>
-        <sponsor>The arrangement, description, and encoding of this collection has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the human endeavor.</sponsor>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>October 2017</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:29:35 -0500</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials</unittitle>
-      <origination label="Creator">
-        <corpname source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="naf">American Indian Historical Society</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="naf">Leonard Peltier Defense Committee</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">Federation of Native-Controlled Survival Schools</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="naf">Native American Solidarity Committee</corpname>
-      </origination>
-      <origination label="Creator">
-        <corpname rules="dacs" source="naf">Oglala Sioux Community College</corpname>
-      </origination>
-      <unitid>TAM.733</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.3 Linear Feet</extent>
-        <extent altrender="carrier">in 1 manuscript box, 1 half manuscript box, and 2 flat boxes</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1969/1998" type="inclusive">1969-1998</unitdate>
-      <abstract id="aspace_e319b143ebf9c425278b4e2b416e0c1c">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials groups 54 titles relating to Native American culture originally received by the Tamiment Library through subscriptions, donations, and as part of archival collections. The majority of the collection consists of incomplete runs of newspapers, newsletters, and mailings distributed by Native American tribes, committees, councils, schools, and community groups in the United States between 1969-2003. The publications document news and events, addressing education, human and civil rights issues, and environmental concerns, including land and water rights. Serials are in some cases entirely dedicated to, or otherwise contain substantial coverage of, the legal justice campaign in support of imprisoned activist Leonard Peltier. Titles often contain detailed accounts of meetings and community events, and are often rich with reproductions of photographs, illustrations, and poems. A small portion of the collection originates from outside the United States, collecting titles from Vancouver, Yellowknife, and Chase, in Canada; from Brussels, Belgium; and from Salta, Argentina.</abstract>
-      <physloc id="aspace_7de2ccb6f114bfae35d2b0102908380a">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_e6bed84d8fc194d774d6bf09f6d363a5">
-        <language>English</language>
-      </langmaterial>
-    </did>
-    <accessrestrict id="aspace_a23027a04140ad0a0c3957a583e87c01">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <acqinfo id="aspace_6a961b1dc34f6c055bdf097be55a1d2b">
-      <head>Immediate Source of Acquisition</head>
-      <p>This collection combines serials relating to Native Americans drawn from two discrete groups of material held by the Tamiment Library. The first was a partially inventoried backlog of serials received by the library through donations, subscriptions, and in archival collections. The second group consisted of around 1,700 serials, newspapers, and magazines, organized by title as an artificial collection, referred to as Periodicals.001 or Boxed Newspapers. This material was combined, inventoried, and arranged and described in subject-based categories in 2017. The accession number associated with this collection 2017.049.</p>
-    </acqinfo>
-    <arrangement id="aspace_8765384367bd0710ead19ce18ab80aa6">
-      <head>Arrangement</head>
-      <p>Material is arranged at the file level, in alphabetical order by publication title, with issues of each publication organized chronologically. Each title is listed alongside its publishing organization and city of origin, where available.</p>
-    </arrangement>
-    <prefercite id="aspace_dd7940b5fc80bbc44037a28e2bbd949a">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials; TAM.733; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_b6ee366fd8059300784848284765ced7">
-      <head>Processing Information</head>
-      <p>The material in this collection was assembled from various backlogs of uncataloged material held by the Tamiment Library. This material was inventoried, separated according to its subject matter, and grouped into this collection. Serials are arranged alphabetically by title, and where possible are listed alongside their publishing organization and place of publication.</p>
-    </processinfo>
-    <scopecontent id="aspace_f9754ba87387644ab6d312354a207bee">
-      <head>Scope and Contents</head>
-      <p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials groups 54 titles relating to Native American culture originally received by the Tamiment Library through subscriptions, donations, and as part of archival collections. The majority of the collection consists of incomplete runs of newspapers, newsletters, and mailings distributed by Native American tribes, councils, schools, community groups, legal organizations, and solidarity committees in the United States between 1969-2003. The publications provide contemporaneous coverage of news and events in local Native American communities, featuring reports on human
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_733">tam_733</eadid><filedesc><titlestmt><titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials <num>TAM.733</num></titleproper><author>Mark Simon Haydn, Jennifer Gargiulo, Mara Lasky, and Victoria Messana.</author><sponsor>The arrangement, description, and encoding of this collection has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the human endeavor.</sponsor></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>October 2017</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:41:49 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n50060159" rules="dacs" source="naf">American Indian Historical Society</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no94000191" rules="dacs" source="naf">Leonard Peltier Defense Committee</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Federation of Native-Controlled Survival Schools</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)no2012071661" rules="dacs" source="naf">Native American Solidarity Committee</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n91058610" rules="dacs" source="naf">Oglala Sioux Community College</corpname>
+    </origination>
+    <unitid>TAM.733</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.3 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box, 1 half manuscript box, and 2 flat boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1969/1998" type="inclusive">1969-1998</unitdate>
+    <abstract id="aspace_e319b143ebf9c425278b4e2b416e0c1c">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials groups 54 titles relating to Native American culture originally received by the Tamiment Library through subscriptions, donations, and as part of archival collections. The majority of the collection consists of incomplete runs of newspapers, newsletters, and mailings distributed by Native American tribes, committees, councils, schools, and community groups in the United States between 1969-2003. The publications document news and events, addressing education, human and civil rights issues, and environmental concerns, including land and water rights. Serials are in some cases entirely dedicated to, or otherwise contain substantial coverage of, the legal justice campaign in support of imprisoned activist Leonard Peltier. Titles often contain detailed accounts of meetings and community events, and are often rich with reproductions of photographs, illustrations, and poems. A small portion of the collection originates from outside the United States, collecting titles from Vancouver, Yellowknife, and Chase, in Canada; from Brussels, Belgium; and from Salta, Argentina.</abstract>
+    <physloc id="aspace_7de2ccb6f114bfae35d2b0102908380a">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_e6bed84d8fc194d774d6bf09f6d363a5"><language>English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_a23027a04140ad0a0c3957a583e87c01">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_6a961b1dc34f6c055bdf097be55a1d2b">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection combines serials relating to Native Americans drawn from two discrete groups of material held by the Tamiment Library. The first was a partially inventoried backlog of serials received by the library through donations, subscriptions, and in archival collections. The second group consisted of around 1,700 serials, newspapers, and magazines, organized by title as an artificial collection, referred to as Periodicals.001 or Boxed Newspapers. This material was combined, inventoried, and arranged and described in subject-based categories in 2017. The accession number associated with this collection 2017.049.</p>  </acqinfo>
+  <arrangement id="aspace_8765384367bd0710ead19ce18ab80aa6">
+    <head>Arrangement</head>
+<p>Material is arranged at the file level, in alphabetical order by publication title, with issues of each publication organized chronologically. Each title is listed alongside its publishing organization and city of origin, where available.</p>  </arrangement>
+  <prefercite id="aspace_dd7940b5fc80bbc44037a28e2bbd949a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials; TAM.733; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_b6ee366fd8059300784848284765ced7">
+    <head>Processing Information</head>
+<p>The material in this collection was assembled from various backlogs of uncataloged material held by the Tamiment Library. This material was inventoried, separated according to its subject matter, and grouped into this collection. Serials are arranged alphabetically by title, and where possible are listed alongside their publishing organization and place of publication.</p>  </processinfo>
+  <scopecontent id="aspace_f9754ba87387644ab6d312354a207bee">
+    <head>Scope and Contents</head>
+<p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Native American Serials groups 54 titles relating to Native American culture originally received by the Tamiment Library through subscriptions, donations, and as part of archival collections. The majority of the collection consists of incomplete runs of newspapers, newsletters, and mailings distributed by Native American tribes, councils, schools, community groups, legal organizations, and solidarity committees in the United States between 1969-2003. The publications provide contemporaneous coverage of news and events in local Native American communities, featuring reports on human
 and civil rights issues; education; and environmental concerns, including land and water rights, documenting disputes and changes
-in the laws governing farming and fishing. A significant portion of the collection is made up of publications specifically dedicated to or containing substantial coverage of the justice campaign supporting the exoneration of activist Leonard Peltier; these titles are mainly variations on <emph>Crazy Horse Spirit</emph> published by regional chapters of the Leonard Peltier Defense Committee, including <emph>Crazy Horse Spirit Newsletter</emph>, <emph>Crazy Horse News</emph>, <emph>Free the People</emph>, and various <emph>Peltier Update Reports</emph>. Other justice campaigns are also detailed, including legal efforts around Yvonne Wanrow, Dennis Banks, Paul Skyhorse, Richard Mohawk, and others. Additional holdings include issues of <emph>Council Fires</emph>, <emph>Indian Nation</emph>, <emph>Survival News</emph>, and several years of <emph>Wassaja</emph>. Serials in this collection contain detailed accounts of meetings and community events, and are often well-illustrated, reproducing photographs, artworks, and poems throughout. A small portion of the collection originates from outside the United States, collecting several titles from Vancouver, Yellowknife, and Chase, in Canada; from Brussels, Belgium; and from Salta, Argentina. No complete runs of publications are contained herein, and generally only a handful of issues of each publication are held.</p>
-    </scopecontent>
-    <userestrict id="aspace_24386058828ecbee573142056e3ac53d">
-      <head>Conditions Governing Use</head>
-      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library and Robert F. Wagner Labor Archive is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-    </userestrict>
-    <controlaccess>
-      <subject source="lcsh">Indians of North America.</subject>
-      <persname source="naf">Peltier, Leonard</persname>
-      <corpname rules="dacs" source="naf">American Indian Movement</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_645cf9f17ce17d30a2f8691f000e5447" level="file">
-        <did>
-          <unittitle>American Indian Journal : Institute for the Development of Indian Law, Washington, DC</unittitle>
-          <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c8113e29da4fb6d51092230b37b70c3e" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_a240a72b91ae4b11958a6bfc1e907ddf" parent="aspace_c8113e29da4fb6d51092230b37b70c3e" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_5d2603e4344b14ee3109d472c97d1ccc" level="file">
-        <did>
-          <unittitle>Americans Before Columbus : National Indian Youth Council, Albuquerque, NM</unittitle>
-          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_b207c79a69a73384992b392c659bbd25" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_cca59a62f34acba9ddbd10e466c8e983" parent="aspace_b207c79a69a73384992b392c659bbd25" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_599cca3ed199796ca9d693c227fb8e2f" level="file">
-        <did>
-          <unittitle>Big Mountain News : Big Mountain Support Group, Berkeley, CA</unittitle>
-          <unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_a298c51bf79855a49c7a271e8084fe09" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_484e89d39e5fb709710aa491dc034241" parent="aspace_a298c51bf79855a49c7a271e8084fe09" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_a733516acdc685309a9553cf7dd331e3" level="file">
-        <did>
-          <unittitle>Big Mountain/Leonard Peltier Update Report : Big Mountain/Leonard Peltier Support Group, West Chester, PA</unittitle>
-          <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_d58c5e069cac51c5c5f744a038a27ce5" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_0c2df872dc5753a529316da93b3aaf68" parent="aspace_d58c5e069cac51c5c5f744a038a27ce5" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_479652afe01652bd29e4a03173f254eb" level="file">
-        <did>
-          <unittitle>Bulletin : Association on American Indian Affairs, Inc., New York, NY</unittitle>
-          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_0be0b9da9f1a1205ddc1931c4f259ccf" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_649e033919e1cac2bbd33b2563a8a160" parent="aspace_0be0b9da9f1a1205ddc1931c4f259ccf" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_68fac70f1750ff5d2a88dd9e1b703b9c" level="file">
-        <did>
-          <unittitle>The Circle : Boston Indian Council, Jamaica Plain, MA</unittitle>
-          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_3cab60f1ec5adebda7165b9536a187ed" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_ec71c58843c324c71bb7ec1fb9cc797b" parent="aspace_3cab60f1ec5adebda7165b9536a187ed" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_70bb06fcd220e2b6c83e15742ab5fcca" level="file">
-        <did>
-          <unittitle>Council Fires : Couer d'Alene Tribal Council, Plummer, ID</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_931a7ad5dc58f283ee3608de4d5a8086" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_711b0855e26a12601f9f925c0bc75926" parent="aspace_931a7ad5dc58f283ee3608de4d5a8086" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_edddeb3466126b8a64d71d933c3f3a03" level="file">
-        <did>
-          <unittitle>Crazy Horse News : Crazy Horse News, Manderson, SD</unittitle>
-          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_6d283c0d1d530491e0a48d33a6675a14" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_7854ff28a543484a0f184ffe02d57546" parent="aspace_6d283c0d1d530491e0a48d33a6675a14" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_79eef8147aaeb35ac62027e0bd835d6a" level="file">
-        <did>
-          <unittitle>Crazy Horse Spirit - a special letter : Leonard Peltier Defense Committee, Kansas City, KS</unittitle>
-          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c051241c3713f05c61df4446832f2104" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_5f5e2ee1a9923431e7ece2f6d8bdf3d9" parent="aspace_c051241c3713f05c61df4446832f2104" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_d48d506a6c2558cddde3e18de8b5b06f" level="file">
-        <did>
-          <unittitle>Crazy Horse Spirit : Leonard Peltier Defense Committee, Los Angeles, CA</unittitle>
-          <unitdate datechar="creation" normal="1982/1985" type="inclusive">1982-1985</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_b8da164fba2bce220872c1b6da916d80" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_d008223c43cb49c1a77c7673fac23251" parent="aspace_b8da164fba2bce220872c1b6da916d80" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_c284f6c9b123d15e6754b00fd932dd88" level="file">
-        <did>
-          <unittitle>"Crazy Horse Spirit" : Leonard Peltier Defense Committee - L.A. Chapter, Los Angeles, CA</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_dcb89cf55ffb1237bb8e6d0ba67b91e2" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_6d7de311e46fac7da6a4c2238553fc54" parent="aspace_dcb89cf55ffb1237bb8e6d0ba67b91e2" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_29e7bfca63e98388a07e72e5906bb23a" level="file">
-        <did>
-          <unittitle>Crazy Horse Spirit Update Newsletter : Leonard Peltier Defense Committee, Seattle, WA</unittitle>
-          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_4f94a48c11769c96bb6b5f9484dfc9a7" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_39e3a751ba5400964d4cebe42fc41e88" parent="aspace_4f94a48c11769c96bb6b5f9484dfc9a7" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_3ae6462a46c17da3c96c3880e9d5b2ec" level="file">
-        <did>
-          <unittitle>dxwhiide : National Coalition to Support Indian Treaties, Seattle, WA</unittitle>
-          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_e63b5452b0a98f587f02405ddcdb5d17" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_ed2865e1ba1480bb8138dd6a1936d0f4" parent="aspace_e63b5452b0a98f587f02405ddcdb5d17" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_a5e86fcbdb32c2c3fddb2d572dc9696e" level="file">
-        <did>
-          <unittitle>Eagle : Partners in the Environment, Mount Vernon, VA</unittitle>
-          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_8aa74ccedd2bc288c2da7e810a92209f" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_a77da535ca4e04185ecd53fd9abb42d4" parent="aspace_8aa74ccedd2bc288c2da7e810a92209f" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_79f78fb46667884048de31b4955de091" level="file">
-        <did>
-          <unittitle>Eagle Wing Press : Eagle Wing Press, Inc., Naugatuck, CT</unittitle>
-          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_35c68877482d44215aa620299426beb1" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_9a9e6a2f15fd1b7d7b24399acc5d7e77" parent="aspace_35c68877482d44215aa620299426beb1" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ae27477ec325ad7d1bb5c776d974c844" level="file">
-        <did>
-          <unittitle>Energy : Oglala Sioux Community College, Pine Ridge, SD</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_13d264f6b998a9fb15fb6128f71d1262" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_2c9781258020cba3c082548860e25235" parent="aspace_13d264f6b998a9fb15fb6128f71d1262" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_a535e0a8177fc6197258d26408c5310c" level="file">
-        <did>
-          <unittitle>Free the People : Leonard Peltier Defense Group, St. Paul, MN</unittitle>
-          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_e25e6a7a4f2868e1186b6042311b7de3" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_33ba93c4c4a7723c3a1120a790f27d20" parent="aspace_e25e6a7a4f2868e1186b6042311b7de3" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_4f5328b608e9d1bb0b2689e135fbe7d4" level="file">
-        <did>
-          <unittitle>Free Yvonne Wanrow : Yvonne Wanrow Defense Committee, Seattle, WA</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_3a774b07a6988b1c76d8985b849a9116" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_b1f05ee945426382225f1ba666b3a0da" parent="aspace_3a774b07a6988b1c76d8985b849a9116" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_10ed54436d2db0d834f4b5eac895eaba" level="file">
-        <did>
-          <unittitle>Gwarth-ee-lass: Leonard Peltier Support Group, Mohegan Lake, NY</unittitle>
-          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_bae24dc952d5dd53be05137cbd3c431c" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_9935144767c955ff1c8220235f47327d" parent="aspace_bae24dc952d5dd53be05137cbd3c431c" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_1e83aa2b7c773527a79833b5c887d924" level="file">
-        <did>
-          <unittitle>Indian Nation : Leonard Peltier Defense Committee, Chase, Canada</unittitle>
-          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_415707b7a3031cc23b51aba926f68a93" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_5a41db64c6fffc8e950b948cf78b5b32" parent="aspace_415707b7a3031cc23b51aba926f68a93" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_50c28de1c8b37867d7aef9935ed6db06" level="file">
-        <did>
-          <unittitle>Indian Reader : The Indian Reader, Strawberry Plains, TN</unittitle>
-          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_74e5e1630bdf7a9790f7fcefb3595e6b" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_bf7fd713fd73347af4fc43af9a23a9c6" parent="aspace_74e5e1630bdf7a9790f7fcefb3595e6b" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_d56f3c038608962ef19319e75f112d05" level="file">
-        <did>
-          <unittitle>Indian Resistance News : Indian Resistance News, Kansas City, KS</unittitle>
-          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_bf64e1875246bf39b58fcb1c6ff8e7c0" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_64f21ea89209c515400367040d149c03" parent="aspace_bf64e1875246bf39b58fcb1c6ff8e7c0" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_2cc1fd78e8c966d2f94ab068f637dc39" level="file">
-        <did>
-          <unittitle>Indian Voice : The Indian Voice, Vancouver, Canada</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_27ae95ef420af78ff7469f544cf2ba56" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_d0c243c8fa9bf2e19d712a8a54f7e309" parent="aspace_27ae95ef420af78ff7469f544cf2ba56" type="Folder">16</container>
-        </did>
-      </c>
-      <c id="aspace_c5d3eda6f4607b5ea50d38c48c8b92f3" level="file">
-        <did>
-          <unittitle>Indigena : Indigena, Berkeley, CA</unittitle>
-          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_a20c942dd4c247eb30a0d6051c6b970e" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_4ad5de2576980d2c2acffa7289b8d7a1" parent="aspace_a20c942dd4c247eb30a0d6051c6b970e" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_3ec6193f7bc335b8747f7e3a70bf61b1" level="file">
-        <did>
-          <unittitle>Indigenous Thought : Committee for American Indian History, Gainesville, FL</unittitle>
-          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f6c6ce27c6db1ffe771ba29cb99d1769" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_5e7f0f68e696d599cf685a9d198c1710" parent="aspace_f6c6ce27c6db1ffe771ba29cb99d1769" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_d2849de4894e4ac70387e115c4039069" level="file">
-        <did>
-          <unittitle>Justice : Native American Rights Fund, Boulder, CO</unittitle>
-          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_bfcc7a003595d16565af4b029f344040" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_135ed9b9e1eccd2d797c1af8322db20e" parent="aspace_bfcc7a003595d16565af4b029f344040" type="Folder">18</container>
-        </did>
-      </c>
-      <c id="aspace_40c485cc7bfa16a01dcbb7be4978e8ac" level="file">
-        <did>
-          <unittitle>Katuah Journal : Katuah Journal, Leicester, NC</unittitle>
-          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c4a2a7b7de1937ea99227c429db2da1f" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_fbf95dafab9214b4f5e4f520a424daf1" parent="aspace_c4a2a7b7de1937ea99227c429db2da1f" type="Folder">19</container>
-        </did>
-      </c>
-      <c id="aspace_a0bf87240e30096232605e6f7766175a" level="file">
-        <did>
-          <unittitle>Lakota eyapaha : Oglala Sioux Community College, Pine Ridge, SD</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_14d118a63c96c267bd01a6e08676928e" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_5af1b00010d5a8fb32828d374147c0f7" parent="aspace_14d118a63c96c267bd01a6e08676928e" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_2295ab264684767669c3b79e527413f4" level="file">
-        <did>
-          <unittitle>Native American Publication</unittitle>
-          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_5a946248197abf32ea5a7fcc5cd1d88e" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_d7ac50bd23cef22422bb35e8a6d08205" parent="aspace_5a946248197abf32ea5a7fcc5cd1d88e" type="Folder">20</container>
-        </did>
-      </c>
-      <c id="aspace_1df2d9f09bd65027a759456bf050982b" level="file">
-        <did>
-          <unittitle>Native American Solidarity Committee newsletter : Native American Solidarity Committee, St. Paul, MN</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_f6b2238e6e4af29f2d0805dc254863b5" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_cc06c65c3da4a369dabf39354a2c8be6" parent="aspace_f6b2238e6e4af29f2d0805dc254863b5" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_d93d80991c2f71e645aec10e0507f811" level="file">
-        <did>
-          <unittitle>Native Peoples Film Festival : Oglala Sioux Community College, Pine Ridge, SD</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_fd356a06dba851dcd4abf8b1573cfb91" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_e9dc45d6bfbb5390dd3f0a2744c01a79" parent="aspace_fd356a06dba851dcd4abf8b1573cfb91" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_d133318fb72a58584ece023c91558781" level="file">
-        <did>
-          <unittitle>Native Press : Native Communications Society of the Western NWT, Yellowknife, Canada</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_f22e82082a1e04495930eccd906aa1e1" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_1a826e6995dd4282cf52a197da4426d9" parent="aspace_f22e82082a1e04495930eccd906aa1e1" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_605875f5b18c6a27c21c1f1117f226c8" level="file">
-        <did>
-          <unittitle>Newsletter : International Office of the Leonard Peltier Defense Committee, Seattle, WA/Kansas City, MO/Lawrence, KS</unittitle>
-          <unitdate datechar="creation" normal="1984/1990" type="inclusive">1984-1990</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_62a1493aec451a73919515a49b4bcc11" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_9fbd5160d5d16d6ac2c0c5b2cbb6b2e8" parent="aspace_62a1493aec451a73919515a49b4bcc11" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_5db19b718fbd470c34effb85f2cf5cdf" level="file">
-        <did>
-          <unittitle>Newsletter : Leonard Peltier Support Group - N.Y. Chapter, Mohegan Lake, NY</unittitle>
-          <unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate>
-          <container altrender="Manuscript box - Legal" id="aspace_c7299672fa03bd51a45c265be81c906d" label="Mixed Materials [31142063501558]" type="Box">1</container>
-          <container id="aspace_de8807dd19797ed765ab0fd3d689d718" parent="aspace_c7299672fa03bd51a45c265be81c906d" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_89707a855ea1a3de731eb7c5a37dd77d" level="file">
-        <did>
-          <unittitle>Newsletter : Native American Defense Committee, San Francisco, CA</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_aa40b7fb62a873c51ee6b479174a312a" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_48a9bb17c5dbec10b84042fb14f2f6d9" parent="aspace_aa40b7fb62a873c51ee6b479174a312a" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_09dde2595ae7de335caec16f3ac74069" level="file">
-        <did>
-          <unittitle>Oglala Nation News : Committee for Oglala Sioux Unity, Pine Ridge, SD</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_52f155d2dd70bec80ac819e4a6978727" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_ed25626363fd10f8cc3b9bb88b287423" parent="aspace_52f155d2dd70bec80ac819e4a6978727" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_8dce590d2931db1b2b54bf394d8d2da1" level="file">
-        <did>
-          <unittitle>Rainbow People : Gresham, OR</unittitle>
-          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_2edb16e0aaa20978f6d2314e4e0aec7a" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_71b53cf4e4ef424650c64f45f0acc441" parent="aspace_2edb16e0aaa20978f6d2314e4e0aec7a" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_16fb6e5083cb57e332c50e9222b3e30c" level="file">
-        <did>
-          <unittitle>Red Buffalo : State University of New York at Buffalo, Buffalo, NY</unittitle>
-          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_38cd1471d955424042a78748058ec7e7" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_4320d531a774f9aae7773221b6ace4ae" parent="aspace_38cd1471d955424042a78748058ec7e7" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_d96356e140d7ffdc82469a5b57cac1ab" level="file">
-        <did>
-          <unittitle>The Renegade : American Indian Association, Lacey, WA</unittitle>
-          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_ddd9b3cd56cb02aae1e320cf6176dfd0" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_edaebe019ac40eb716284c99fd9f459e" parent="aspace_ddd9b3cd56cb02aae1e320cf6176dfd0" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_cc047b8baffdb028c752597e80bd7fad" level="file">
-        <did>
-          <unittitle>Resolution in Support of First Amendment Rights of Navajo People Facing Forced Relocation : Big Mountain Legal Offices, Flagstaff, AZ</unittitle>
-          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_9b3d4d0f168a3ac9aaf441238f1817c4" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_8e3d0c153310ca294f57303383bf1f88" parent="aspace_9b3d4d0f168a3ac9aaf441238f1817c4" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_eaa08532b62b070de0f905f471b62c6a" level="file">
-        <did>
-          <unittitle>Resolution on the Path to Native American Indian Liberation : CPUSA/New Outlook Publishers, New York, NY</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_cab8362f0b2e4dd54349dc6612844f1d" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_bee4afe53d588d2ef367d8470e38587c" parent="aspace_cab8362f0b2e4dd54349dc6612844f1d" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_10c86734f7926990d5d99e308ee48ff3" level="file">
-        <did>
-          <unittitle>Sota Eya Ye Yapi : Sisseton-Wahpeton Sioux Tribe of the Lake Traverse Reservation, Sisseton, SD</unittitle>
-          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_22a949e8e85c4a5ba24264c37bd4b3b4" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_3ae1b7d566de5e5d7d76f3b33e19f38f" parent="aspace_22a949e8e85c4a5ba24264c37bd4b3b4" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_d60f9a26f18ec58e0a6c6fe7543dbb4f" level="file">
-        <did>
-          <unittitle>Spirit of Crazy Horse - Freedom for Leonard Peltier : Leonard Peltier Support Group N.Y. Chapter, Peekskill, NY</unittitle>
-          <unitdate datechar="creation" normal="1980/1989" type="inclusive">circa 1980s</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_401e96e249f86dc4cce2eb364038a1b1" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_d7d912a3c3409b92b22dcaa26dc74f62" parent="aspace_401e96e249f86dc4cce2eb364038a1b1" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_66d3b97d6f6e0b9a1e8216be3eaadfbd" level="file">
-        <did>
-          <unittitle>Spirit of Crazy Horse : Leonard Peltier Defense Committee, Lawrence, KS</unittitle>
-          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_7d67194dfa7cdb36312df43f8cade9f1" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_693598a47fbd4e16c54e433953c8c5ca" parent="aspace_7d67194dfa7cdb36312df43f8cade9f1" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_bf92cc55123ea9825e983d103808131a" level="file">
-        <did>
-          <unittitle>Spirit of the People : Native American Solidarity Committee, Saint Paul, MN</unittitle>
-          <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_f175f972bf34ee354843bf8944031c72" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_093c2fb2e8c65efb0f4dec00a18277d2" parent="aspace_f175f972bf34ee354843bf8944031c72" type="Folder">16</container>
-        </did>
-      </c>
-      <c id="aspace_17a2d0598a29e51e3d36b263acc0e078" level="file">
-        <did>
-          <unittitle>Survival News : Federation of Native-Controlled Survival Schools, Minneapolis, MN</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_49679c1c1af19366def4c8bda46fa3e7" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_ef3491f1b5d250dbf54b5a4de240d0f2" parent="aspace_49679c1c1af19366def4c8bda46fa3e7" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_a8822f202a39928fcc6b1f79a7d93f73" level="file">
-        <did>
-          <unittitle>Talasi Tattler : Talasi Tattler, Houston, TX</unittitle>
-          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_6ffd3546f276a6471263ab7b7d8a14f7" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_9f4a064ecd7ad7ce1ab78982f9e4bc19" parent="aspace_6ffd3546f276a6471263ab7b7d8a14f7" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_da0ea6cf8a1894082b1ef0d14f5736cf" level="file">
-        <did>
-          <unittitle>Talking Leaf : Indian Centers, Inc., Los Angeles, CA</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_9b16281139e0f0ae78e9d2865c27bfb0" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_cb46d7960dd9074e6d52049d21ced103" parent="aspace_9b16281139e0f0ae78e9d2865c27bfb0" type="Folder">18</container>
-        </did>
-      </c>
-      <c id="aspace_bf35ced07f185996b3877c41ff51b696" level="file">
-        <did>
-          <unittitle>Techqua Ikachi : Hotelvilla Village in the Hopi Independent Nation, Hotelvilla, AZ</unittitle>
-          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_3344cedbd316aa302207d576f86bc456" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_466dd287dd5307fd63e8bf3548dd4e0b" parent="aspace_3344cedbd316aa302207d576f86bc456" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_d2426039e326552e7da407cc6e2aa27f" level="file">
-        <did>
-          <unittitle>Tribal : Tribal Life Fund, Brussels, Belgium</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_deb2f537644185d6cf21a2e5ce841f0f" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_f18db504009cddf4e130f353600e012d" parent="aspace_deb2f537644185d6cf21a2e5ce841f0f" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_f6bbd1b521af22d6ec636fc2b5c761f3" level="file">
-        <did>
-          <unittitle>Tsistsistas Press : T-Press, Lame Deer, MT</unittitle>
-          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_eb17c92f92581a86a8902e88261d52a5" label="Mixed Materials [31142046746338]" type="Box">2</container>
-          <container id="aspace_0dacecc398715aa8ec41ca0e7512e10c" parent="aspace_eb17c92f92581a86a8902e88261d52a5" type="Folder">19</container>
-        </did>
-      </c>
-      <c id="aspace_989d8945ce027548691bc08849488226" level="file">
-        <did>
-          <unittitle>Warpath : United Native Americans Inc., San Francisco, CA</unittitle>
-          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_0c194cae390a2fe69211a589bb962d71" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_7f32a1ec1643b282f07e16ff65fbb0c5" parent="aspace_0c194cae390a2fe69211a589bb962d71" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_081b8c93c24013f186af7f6d4e148ba0" level="file">
-        <did>
-          <unittitle>Wassaja : American Indian Historical Society, San Francisco, CA</unittitle>
-          <unitdate datechar="creation" normal="1973/1983" type="inclusive">1973-1983</unitdate>
-          <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_8481bdfc1f681276d7ee9d5b9333e63d" label="Mixed Materials [31142046746775]" type="Box">3</container>
-          <container id="aspace_1aced4fc8e2496bcb46e7902982e295a" parent="aspace_8481bdfc1f681276d7ee9d5b9333e63d" type="Folder">1-3</container>
-        </did>
-      </c>
-      <c id="aspace_f427597b01e31c9d60dda07c0faf08f9" level="file">
-        <did>
-          <unittitle>Yakima Nation review : Yakima Indian Nation, Toppenish, WA</unittitle>
-          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Manuscript box - Legal - Half" id="aspace_e42bd29ad4a05db5a1f4ceec0347d427" label="Mixed Materials [31142063501541]" type="Box">4</container>
-          <container id="aspace_a59926541fa1101378c99ba9e5376948" parent="aspace_e42bd29ad4a05db5a1f4ceec0347d427" type="Folder">12</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+in the laws governing farming and fishing. A significant portion of the collection is made up of publications specifically dedicated to or containing substantial coverage of the justice campaign supporting the exoneration of activist Leonard Peltier; these titles are mainly variations on <emph>Crazy Horse Spirit</emph> published by regional chapters of the Leonard Peltier Defense Committee, including <emph>Crazy Horse Spirit Newsletter</emph>, <emph>Crazy Horse News</emph>, <emph>Free the People</emph>, and various <emph>Peltier Update Reports</emph>. Other justice campaigns are also detailed, including legal efforts around Yvonne Wanrow, Dennis Banks, Paul Skyhorse, Richard Mohawk, and others. Additional holdings include issues of <emph>Council Fires</emph>, <emph>Indian Nation</emph>, <emph>Survival News</emph>, and several years of <emph>Wassaja</emph>. Serials in this collection contain detailed accounts of meetings and community events, and are often well-illustrated, reproducing photographs, artworks, and poems throughout. A small portion of the collection originates from outside the United States, collecting several titles from Vancouver, Yellowknife, and Chase, in Canada; from Brussels, Belgium; and from Salta, Argentina. No complete runs of publications are contained herein, and generally only a handful of issues of each publication are held.</p>  </scopecontent>
+  <userestrict id="aspace_24386058828ecbee573142056e3ac53d">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library and Robert F. Wagner Labor Archive is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Indians of North America.</subject>
+    <persname source="naf">Peltier, Leonard</persname>
+    <corpname authfilenumber="(lccn)n82024042" rules="dacs" source="naf">American Indian Movement</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_645cf9f17ce17d30a2f8691f000e5447" level="file"><did><unittitle>American Indian Journal : Institute for the Development of Indian Law, Washington, DC</unittitle><unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_7856a437971d1c9ba30ea079bf90fe1a" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_9fa36b8b10cd39aff5c85b6ac10849fa" parent="aspace_7856a437971d1c9ba30ea079bf90fe1a" type="Folder">1</container></did></c><c id="aspace_5d2603e4344b14ee3109d472c97d1ccc" level="file"><did><unittitle>Americans Before Columbus : National Indian Youth Council, Albuquerque, NM</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_32813fa0a747795ade9b9ba1b7cc0cd2" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_70f2acdbeaa6f2a11d211e016db5ba0c" parent="aspace_32813fa0a747795ade9b9ba1b7cc0cd2" type="Folder">1</container></did></c><c id="aspace_599cca3ed199796ca9d693c227fb8e2f" level="file"><did><unittitle>Big Mountain News : Big Mountain Support Group, Berkeley, CA</unittitle><unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f1a5dbaf146f83cbfd8cabebf711fa4" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_d77f7b029a57f27e68b6e6371a80cc89" parent="aspace_9f1a5dbaf146f83cbfd8cabebf711fa4" type="Folder">2</container></did></c><c id="aspace_a733516acdc685309a9553cf7dd331e3" level="file"><did><unittitle>Big Mountain/Leonard Peltier Update Report : Big Mountain/Leonard Peltier Support Group, West Chester, PA</unittitle><unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_edfa246061bcb9c8ed10ca12e2e4728f" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_7072e8be5902f4dd2f5ac4a2929562a5" parent="aspace_edfa246061bcb9c8ed10ca12e2e4728f" type="Folder">3</container></did></c><c id="aspace_479652afe01652bd29e4a03173f254eb" level="file"><did><unittitle>Bulletin : Association on American Indian Affairs, Inc., New York, NY</unittitle><unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_05ff4d13f0a667861f7ee401dc7581e1" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_06c64e1c345a359fe52b38200a1ed19b" parent="aspace_05ff4d13f0a667861f7ee401dc7581e1" type="Folder">4</container></did></c><c id="aspace_68fac70f1750ff5d2a88dd9e1b703b9c" level="file"><did><unittitle>The Circle : Boston Indian Council, Jamaica Plain, MA</unittitle><unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_5873c02f6d74c25d7af4d7fe4d56d19b" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_ad79c41387638cef86705616f4f93248" parent="aspace_5873c02f6d74c25d7af4d7fe4d56d19b" type="Folder">2</container></did></c><c id="aspace_70bb06fcd220e2b6c83e15742ab5fcca" level="file"><did><unittitle>Council Fires : Couer d'Alene Tribal Council, Plummer, ID</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_3e26991cbf74a8025dceb821a7753f3f" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_f8afde26dcfb0de916b0361ffc67064a" parent="aspace_3e26991cbf74a8025dceb821a7753f3f" type="Folder">3</container></did></c><c id="aspace_edddeb3466126b8a64d71d933c3f3a03" level="file"><did><unittitle>Crazy Horse News : Crazy Horse News, Manderson, SD</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_0760ab7dc12fdbd4cbb576f5c893fa2c" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_1c92b1c5dbf6acb24a25908e33abb9a4" parent="aspace_0760ab7dc12fdbd4cbb576f5c893fa2c" type="Folder">4</container></did></c><c id="aspace_79eef8147aaeb35ac62027e0bd835d6a" level="file"><did><unittitle>Crazy Horse Spirit - a special letter : Leonard Peltier Defense Committee, Kansas City, KS</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Manuscript box - Legal" id="aspace_8d907ff9eabc100f18e37d3df38e7afb" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_8a72cc0585fdcfca95675e79af346dff" parent="aspace_8d907ff9eabc100f18e37d3df38e7afb" type="Folder">5</container></did></c><c id="aspace_d48d506a6c2558cddde3e18de8b5b06f" level="file"><did><unittitle>Crazy Horse Spirit : Leonard Peltier Defense Committee, Los Angeles, CA</unittitle><unitdate datechar="creation" normal="1982/1985" type="inclusive">1982-1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_7a723b31d824c5e25a85daa03896bef2" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_35b03fe4797348fa63c5a56702758675" parent="aspace_7a723b31d824c5e25a85daa03896bef2" type="Folder">6</container></did></c><c id="aspace_c284f6c9b123d15e6754b00fd932dd88" level="file"><did><unittitle>"Crazy Horse Spirit" : Leonard Peltier Defense Committee - L.A. Chapter, Los Angeles, CA</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_0e0ba9c38f8a666cf76b38d46ea287df" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_e0cdb6ad3a940923300176f5915bf309" parent="aspace_0e0ba9c38f8a666cf76b38d46ea287df" type="Folder">7</container></did></c><c id="aspace_29e7bfca63e98388a07e72e5906bb23a" level="file"><did><unittitle>Crazy Horse Spirit Update Newsletter : Leonard Peltier Defense Committee, Seattle, WA</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_2b4caf5ed438c50064e6eb30ed8ac116" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_3b3756f54c9dc6423c6c5018c38af784" parent="aspace_2b4caf5ed438c50064e6eb30ed8ac116" type="Folder">8</container></did></c><c id="aspace_3ae6462a46c17da3c96c3880e9d5b2ec" level="file"><did><unittitle>dxwhiide : National Coalition to Support Indian Treaties, Seattle, WA</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_d086a4b5ae2706751dbf0f0d3b9b445a" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_aa9d1a3e1628edc6c067b721492786e2" parent="aspace_d086a4b5ae2706751dbf0f0d3b9b445a" type="Folder">9</container></did></c><c id="aspace_a5e86fcbdb32c2c3fddb2d572dc9696e" level="file"><did><unittitle>Eagle : Partners in the Environment, Mount Vernon, VA</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_932414e5077c950b5140cb060bbb8222" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_eb48e8291818daba5ea8a74aa6b1e18f" parent="aspace_932414e5077c950b5140cb060bbb8222" type="Folder">10</container></did></c><c id="aspace_79f78fb46667884048de31b4955de091" level="file"><did><unittitle>Eagle Wing Press : Eagle Wing Press, Inc., Naugatuck, CT</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Manuscript box - Legal" id="aspace_f510035c4db5505275efdf23303d0d0d" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_3bd3ad677b73d014b6c2930536484877" parent="aspace_f510035c4db5505275efdf23303d0d0d" type="Folder">11</container></did></c><c id="aspace_ae27477ec325ad7d1bb5c776d974c844" level="file"><did><unittitle>Energy : Oglala Sioux Community College, Pine Ridge, SD</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_aaaa4aeaa98980e1522470385fa5eba2" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_d65cb531f0649ae02a509d9c8cb67e49" parent="aspace_aaaa4aeaa98980e1522470385fa5eba2" type="Folder">5</container></did></c><c id="aspace_a535e0a8177fc6197258d26408c5310c" level="file"><did><unittitle>Free the People : Leonard Peltier Defense Group, St. Paul, MN</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_427c19b6df0ce6d320967fe267240cc7" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_7534a8754ad6bb338d818c155d70fe0d" parent="aspace_427c19b6df0ce6d320967fe267240cc7" type="Folder">6</container></did></c><c id="aspace_4f5328b608e9d1bb0b2689e135fbe7d4" level="file"><did><unittitle>Free Yvonne Wanrow : Yvonne Wanrow Defense Committee, Seattle, WA</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_3b98b78e42c43aa587804b2cc4672c92" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_b4ca76f73f449a0ac21fbb0ebdaa4de2" parent="aspace_3b98b78e42c43aa587804b2cc4672c92" type="Folder">12</container></did></c><c id="aspace_10ed54436d2db0d834f4b5eac895eaba" level="file"><did><unittitle>Gwarth-ee-lass: Leonard Peltier Support Group, Mohegan Lake, NY</unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_f12f39ae5aafa9b26857f0ffe734603f" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_65f9ccb3dff5cd4328e7035d69c01213" parent="aspace_f12f39ae5aafa9b26857f0ffe734603f" type="Folder">13</container></did></c><c id="aspace_1e83aa2b7c773527a79833b5c887d924" level="file"><did><unittitle>Indian Nation : Leonard Peltier Defense Committee, Chase, Canada</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_68f67f7da0d95c331f22bff3326de8d3" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_1f0c4526783155904d34a0a92c07b6d8" parent="aspace_68f67f7da0d95c331f22bff3326de8d3" type="Folder">7</container></did></c><c id="aspace_50c28de1c8b37867d7aef9935ed6db06" level="file"><did><unittitle>Indian Reader : The Indian Reader, Strawberry Plains, TN</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_e0b9fc1187d0df97a712345831c5e045" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_a4577c1d81ea2098ca804dbcbbff0c35" parent="aspace_e0b9fc1187d0df97a712345831c5e045" type="Folder">14</container></did></c><c id="aspace_d56f3c038608962ef19319e75f112d05" level="file"><did><unittitle>Indian Resistance News : Indian Resistance News, Kansas City, KS</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_46aa1af689c45d25e3252b42b44cf6a9" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_1e61b277b01a0a5f60979c3c48f6ad70" parent="aspace_46aa1af689c45d25e3252b42b44cf6a9" type="Folder">15</container></did></c><c id="aspace_2cc1fd78e8c966d2f94ab068f637dc39" level="file"><did><unittitle>Indian Voice : The Indian Voice, Vancouver, Canada</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_e423497d1f9ba7ac0e98937796e905ff" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_6b4b69388626eba29d8b63d101c554b4" parent="aspace_e423497d1f9ba7ac0e98937796e905ff" type="Folder">16</container></did></c><c id="aspace_c5d3eda6f4607b5ea50d38c48c8b92f3" level="file"><did><unittitle>Indigena : Indigena, Berkeley, CA</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_81c21f37d7408f02699a7f488eb8dac4" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_cd05437491adcc9f990fb78f010e16c3" parent="aspace_81c21f37d7408f02699a7f488eb8dac4" type="Folder">8</container></did></c><c id="aspace_3ec6193f7bc335b8747f7e3a70bf61b1" level="file"><did><unittitle>Indigenous Thought : Committee for American Indian History, Gainesville, FL</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Manuscript box - Legal" id="aspace_49a705cc8a8448f4e1cedb715ac1be3d" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_2007c9d8fbe5983496b22c1135dc3aef" parent="aspace_49a705cc8a8448f4e1cedb715ac1be3d" type="Folder">17</container></did></c><c id="aspace_d2849de4894e4ac70387e115c4039069" level="file"><did><unittitle>Justice : Native American Rights Fund, Boulder, CO</unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_8c4d4688afac3e84be6b5aef4ac4c0a4" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_fd5082069fc8248fa6413e3c8a5dc594" parent="aspace_8c4d4688afac3e84be6b5aef4ac4c0a4" type="Folder">18</container></did></c><c id="aspace_40c485cc7bfa16a01dcbb7be4978e8ac" level="file"><did><unittitle>Katuah Journal : Katuah Journal, Leicester, NC</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Manuscript box - Legal" id="aspace_f4555b8a0ac280f2b28aa08aa1ff826b" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_96dddd0513ab07a0b0f3ae434aebd3e2" parent="aspace_f4555b8a0ac280f2b28aa08aa1ff826b" type="Folder">19</container></did></c><c id="aspace_a0bf87240e30096232605e6f7766175a" level="file"><did><unittitle>Lakota eyapaha : Oglala Sioux Community College, Pine Ridge, SD</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_3eac9df59e16acb8c6b650f0889e2493" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_d5a2052bc1c952663fe6cbba80edb326" parent="aspace_3eac9df59e16acb8c6b650f0889e2493" type="Folder">9</container></did></c><c id="aspace_2295ab264684767669c3b79e527413f4" level="file"><did><unittitle>Native American Publication</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_4788d53e0d579332d6b3be6a3ca8be99" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_7bbd77c59b4e9be66db4757080a38f28" parent="aspace_4788d53e0d579332d6b3be6a3ca8be99" type="Folder">20</container></did></c><c id="aspace_1df2d9f09bd65027a759456bf050982b" level="file"><did><unittitle>Native American Solidarity Committee newsletter : Native American Solidarity Committee, St. Paul, MN</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_e57da7800606734c00b0a0ae8d7a2a29" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_899ac3997e58797862523ff0f7df87b6" parent="aspace_e57da7800606734c00b0a0ae8d7a2a29" type="Folder">21</container></did></c><c id="aspace_d93d80991c2f71e645aec10e0507f811" level="file"><did><unittitle>Native Peoples Film Festival : Oglala Sioux Community College, Pine Ridge, SD</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_61a0df717ba9aa33e98f0b41063ee4b1" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_42a523cff40a10f6c1ae064f93f5eff0" parent="aspace_61a0df717ba9aa33e98f0b41063ee4b1" type="Folder">10</container></did></c><c id="aspace_d133318fb72a58584ece023c91558781" level="file"><did><unittitle>Native Press : Native Communications Society of the Western NWT, Yellowknife, Canada</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_6f7f717c85cf8aa0961d7cf7e4c4c05c" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_28397ca7def65fc0847882a73cee396b" parent="aspace_6f7f717c85cf8aa0961d7cf7e4c4c05c" type="Folder">11</container></did></c><c id="aspace_605875f5b18c6a27c21c1f1117f226c8" level="file"><did><unittitle>Newsletter : International Office of the Leonard Peltier Defense Committee, Seattle, WA/Kansas City, MO/Lawrence, KS</unittitle><unitdate datechar="creation" normal="1984/1990" type="inclusive">1984-1990</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_aceb85f2259a25a5cd6a6d3d65135ab4" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_eb3a604b611d0ff6700f69978397a4ad" parent="aspace_aceb85f2259a25a5cd6a6d3d65135ab4" type="Folder">2</container></did></c><c id="aspace_5db19b718fbd470c34effb85f2cf5cdf" level="file"><did><unittitle>Newsletter : Leonard Peltier Support Group - N.Y. Chapter, Mohegan Lake, NY</unittitle><unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_1efcbd4e0db9c23c418cd20b2c20778f" label="Mixed Materials [31142063501558]" type="Box">1</container><container id="aspace_df91bf16d35c433042726493ef5b7dc4" parent="aspace_1efcbd4e0db9c23c418cd20b2c20778f" type="Folder">22</container></did></c><c id="aspace_89707a855ea1a3de731eb7c5a37dd77d" level="file"><did><unittitle>Newsletter : Native American Defense Committee, San Francisco, CA</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_16ff55c1d848030b6ae166d0c878bdf7" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_01cfba25b403fd83c9d29d7b73eb94f3" parent="aspace_16ff55c1d848030b6ae166d0c878bdf7" type="Folder">1</container></did></c><c id="aspace_09dde2595ae7de335caec16f3ac74069" level="file"><did><unittitle>Oglala Nation News : Committee for Oglala Sioux Unity, Pine Ridge, SD</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_b113c229626e7fc845dafa0a4f6b2750" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_5f6a477b53c3b9b24719762f6c4ad0cf" parent="aspace_b113c229626e7fc845dafa0a4f6b2750" type="Folder">12</container></did></c><c id="aspace_8dce590d2931db1b2b54bf394d8d2da1" level="file"><did><unittitle>Rainbow People : Gresham, OR</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_dc8f60531061159e3d33023eca006bc9" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_89247d0b8a5de6e44128d35b06b057a7" parent="aspace_dc8f60531061159e3d33023eca006bc9" type="Folder">13</container></did></c><c id="aspace_16fb6e5083cb57e332c50e9222b3e30c" level="file"><did><unittitle>Red Buffalo : State University of New York at Buffalo, Buffalo, NY</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_fa3263ae4f43e16cff76e66bc4a77307" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_d5ff52fc7e9a75088c7aeb2d100c30ac" parent="aspace_fa3263ae4f43e16cff76e66bc4a77307" type="Folder">3</container></did></c><c id="aspace_d96356e140d7ffdc82469a5b57cac1ab" level="file"><did><unittitle>The Renegade : American Indian Association, Lacey, WA</unittitle><unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_850857df046e3f0f347778cb5c11c88c" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_bb931f9b96f6723d36907445ebef1cfc" parent="aspace_850857df046e3f0f347778cb5c11c88c" type="Folder">14</container></did></c><c id="aspace_cc047b8baffdb028c752597e80bd7fad" level="file"><did><unittitle>Resolution in Support of First Amendment Rights of Navajo People Facing Forced Relocation : Big Mountain Legal Offices, Flagstaff, AZ</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_df77fec89221ad100c89698cd06c100d" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_cb4b694920a5b53bdd2fa2461056c8b5" parent="aspace_df77fec89221ad100c89698cd06c100d" type="Folder">4</container></did></c><c id="aspace_eaa08532b62b070de0f905f471b62c6a" level="file"><did><unittitle>Resolution on the Path to Native American Indian Liberation : CPUSA/New Outlook Publishers, New York, NY</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_05ff186adf2467ffede497a91c45f4c3" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_80b5ba0c39c9337584052a8fd27bc25f" parent="aspace_05ff186adf2467ffede497a91c45f4c3" type="Folder">5</container></did></c><c id="aspace_10c86734f7926990d5d99e308ee48ff3" level="file"><did><unittitle>Sota Eya Ye Yapi : Sisseton-Wahpeton Sioux Tribe of the Lake Traverse Reservation, Sisseton, SD</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_5d6d98d6d9a494ec8229899916dbd61f" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_7aa6a4bc34e0dd3122632dbeb4a9d892" parent="aspace_5d6d98d6d9a494ec8229899916dbd61f" type="Folder">15</container></did></c><c id="aspace_d60f9a26f18ec58e0a6c6fe7543dbb4f" level="file"><did><unittitle>Spirit of Crazy Horse - Freedom for Leonard Peltier : Leonard Peltier Support Group N.Y. Chapter, Peekskill, NY</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">circa 1980s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_941a1873c12dfc77a19f17d356e4052c" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_23540ec0b203b647c85382e734fb8871" parent="aspace_941a1873c12dfc77a19f17d356e4052c" type="Folder">6</container></did></c><c id="aspace_66d3b97d6f6e0b9a1e8216be3eaadfbd" level="file"><did><unittitle>Spirit of Crazy Horse : Leonard Peltier Defense Committee, Lawrence, KS</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0931f3c9c6848a8f531ada1ebb26304d" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_b3e3194de0c5c78b5cc3e0a79beddf14" parent="aspace_0931f3c9c6848a8f531ada1ebb26304d" type="Folder">7</container></did></c><c id="aspace_bf92cc55123ea9825e983d103808131a" level="file"><did><unittitle>Spirit of the People : Native American Solidarity Committee, Saint Paul, MN</unittitle><unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_b07d5008f864dc77dc8b238a74fa39ed" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_4beee4ed145cb6461381e6426b3f9d79" parent="aspace_b07d5008f864dc77dc8b238a74fa39ed" type="Folder">16</container></did></c><c id="aspace_17a2d0598a29e51e3d36b263acc0e078" level="file"><did><unittitle>Survival News : Federation of Native-Controlled Survival Schools, Minneapolis, MN</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_79541b09dd44b156d60edb42cb7adb67" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_27b85b40bdea08f487667b5ba6f2d656" parent="aspace_79541b09dd44b156d60edb42cb7adb67" type="Folder">17</container></did></c><c id="aspace_a8822f202a39928fcc6b1f79a7d93f73" level="file"><did><unittitle>Talasi Tattler : Talasi Tattler, Houston, TX</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c08481a8c5a8f23b81f251af3869ee66" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_062143ded5c3fa68fe82b06fe5f98ed3" parent="aspace_c08481a8c5a8f23b81f251af3869ee66" type="Folder">8</container></did></c><c id="aspace_da0ea6cf8a1894082b1ef0d14f5736cf" level="file"><did><unittitle>Talking Leaf : Indian Centers, Inc., Los Angeles, CA</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_764917555adad99c259f78609c3c800d" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_7e8c67359812c8e4af70932a685b8732" parent="aspace_764917555adad99c259f78609c3c800d" type="Folder">18</container></did></c><c id="aspace_bf35ced07f185996b3877c41ff51b696" level="file"><did><unittitle>Techqua Ikachi : Hotelvilla Village in the Hopi Independent Nation, Hotelvilla, AZ</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_148824fb37f96e280489edb051e76fbf" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_0150a701a661b731f19995ecf45cedb8" parent="aspace_148824fb37f96e280489edb051e76fbf" type="Folder">9</container></did></c><c id="aspace_d2426039e326552e7da407cc6e2aa27f" level="file"><did><unittitle>Tribal : Tribal Life Fund, Brussels, Belgium</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1b1bab56573b341200ed8bf05a13803c" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_01c5c0356eee87886d1be790a70a3f39" parent="aspace_1b1bab56573b341200ed8bf05a13803c" type="Folder">10</container></did></c><c id="aspace_f6bbd1b521af22d6ec636fc2b5c761f3" level="file"><did><unittitle>Tsistsistas Press : T-Press, Lame Deer, MT</unittitle><unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_cd0d6059803f39677f2efa1213e57b60" label="Mixed Materials [31142046746338]" type="Box">2</container><container id="aspace_ae928e3792d6fd92bf94a3c50e20aefe" parent="aspace_cd0d6059803f39677f2efa1213e57b60" type="Folder">19</container></did></c><c id="aspace_989d8945ce027548691bc08849488226" level="file"><did><unittitle>Warpath : United Native Americans Inc., San Francisco, CA</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ae10487b94400a0851549359c2938978" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_c75fdffc20de1b7617f20ac087a1ff38" parent="aspace_ae10487b94400a0851549359c2938978" type="Folder">11</container></did></c><c id="aspace_081b8c93c24013f186af7f6d4e148ba0" level="file"><did><unittitle>Wassaja : American Indian Historical Society, San Francisco, CA</unittitle><unitdate datechar="creation" normal="1973/1983" type="inclusive">1973-1983</unitdate><container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_96db02275cb23b9e959534baf07c8c54" label="Mixed Materials [31142046746775]" type="Box">3</container><container id="aspace_23ddec3b8cc1e6262b66b6a5aeb4eb53" parent="aspace_96db02275cb23b9e959534baf07c8c54" type="Folder">1-3</container></did></c><c id="aspace_f427597b01e31c9d60dda07c0faf08f9" level="file"><did><unittitle>Yakima Nation review : Yakima Indian Nation, Toppenish, WA</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_db07a268232d6be84484f7addf2f108d" label="Mixed Materials [31142063501541]" type="Box">4</container><container id="aspace_e023f41418807b6fa2fc7e3a3d9eee79" parent="aspace_db07a268232d6be84484f7addf2f108d" type="Folder">12</container></did></c></dsc>
+</archdesc>
 </ead>

@@ -1,244 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_134">wag_134</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Consolidated Edison Employees Mutual Aid Society Records <num>WAG.134</num></titleproper>
-        <author>David A. Olson</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2014</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:52:44 -0500</date>.</creation>
-      <langusage>Finding written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Consolidated Edison Employees Mutual Aid Society Records</unittitle>
-      <origination label="Creator">
-        <corpname rules="dacs" source="local">Consolidated Edison Employees Mutual Aid Society</corpname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Westerkamp, Paul R.</persname>
-      </origination>
-      <unitid>WAG.134</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
-        <extent altrender="carrier">in 3 record cartons.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1893/1991" type="inclusive">1893-1991</unitdate>
-      <unitdate datechar="creation" normal="1930/1991" type="bulk">1930-1991</unitdate>
-      <abstract id="aspace_9126069f9edfd1e72f2448783c66446e">The Consolidated Edison Employees Mutual Aid Society was founded to provide insurance benefits, medical services, and recreational activities for gas and electrical workers in New York. The earliest of its predecessor organizations, the Gas Companies' Employees Mutual Aid Society of New York, was organized Feb 17, 1891. There were approximately two hundred members at the time of this voluntary organization's creation, and the initial goal was to promote socialization among workers and provide a burial fund. By the 1920s, the society ran a dispensary for medical care, provided dental care, and had expanded life insurance benefits. These services were supported by dues and social activities such as athletic events and dances. The Association of Employees of the New York Edison Company was founded in 1905, and the Employees of the United Electric Light and Power Company began in 1908. Each provided similar services to that of the gas companies' society. When the parent utility companies merged as ConEd from 1936-1937, the mutual aid societies followed suit.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_134">wag_134</eadid><filedesc><titlestmt><titleproper>Guide to the Consolidated Edison Employees Mutual Aid Society Records <num>WAG.134</num></titleproper><author>David A. Olson</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 13:08:26 -0500</date>.</creation><langusage>Finding written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Consolidated Edison Employees Mutual Aid Society Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Consolidated Edison Employees Mutual Aid Society</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Westerkamp, Paul R.</persname>
+    </origination>
+    <unitid>WAG.134</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      <extent altrender="carrier">in 3 record cartons.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1893/1991" type="inclusive">1893-1991</unitdate>
+    <unitdate datechar="creation" normal="1930/1991" type="bulk">1930-1991</unitdate>
+    <abstract id="aspace_9126069f9edfd1e72f2448783c66446e">The Consolidated Edison Employees Mutual Aid Society was founded to provide insurance benefits, medical services, and recreational activities for gas and electrical workers in New York. The earliest of its predecessor organizations, the Gas Companies' Employees Mutual Aid Society of New York, was organized Feb 17, 1891. There were approximately two hundred members at the time of this voluntary organization's creation, and the initial goal was to promote socialization among workers and provide a burial fund. By the 1920s, the society ran a dispensary for medical care, provided dental care, and had expanded life insurance benefits. These services were supported by dues and social activities such as athletic events and dances. The Association of Employees of the New York Edison Company was founded in 1905, and the Employees of the United Electric Light and Power Company began in 1908. Each provided similar services to that of the gas companies' society. When the parent utility companies merged as ConEd from 1936-1937, the mutual aid societies followed suit.
 
 The collection includes meeting minutes, reports, manuals, correspondence, filings with the State of New York, healthcare statistics, and an institutional history prepared for society's fiftieth anniversary. There are also albums containing brief biographical information and photographs of individuals who served on the Board of Managers and of gas company employees who served during the First World War. The records give insight into the the workings of another outlet for worker solidarity and cooperation that operated alongside the utility workers union.</abstract>
-      <physloc id="aspace_f22e61a09fa6138e3d7c99de5933371c">Materials are stored off-site and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two days prior to research visit.</physloc>
-      <langmaterial id="aspace_0cfb4c9a4fbc4c9d67f1daab1e6c5963">Materials are in English</langmaterial>
-    </did>
-    <prefercite id="aspace_5eaa2244f60e044e1831e0946544c840">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Consolidated Edison Employees Mutual Aid Society Records; WAG 134; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <relatedmaterial id="aspace_763bded373ff0d51a06d831ae7f22c17">
-      <head>Related Archival Materials</head>
-      <p>Utility Workers Union of America, Local 1-2 Records (WAG 131)</p>
-    </relatedmaterial>
-    <bioghist id="aspace_03ff2869ddadaddff121b9d64383eacb">
-      <head>Historical/Biographical Note</head>
-      <p>The Consolidated Edison Employees Mutual Aid Society was founded to provide insurance benefits, medical services, and recreational activities for gas and electrical workers in New York. The earliest of its predecessor organizations, the Gas Companies' Employees Mutual Aid Society of New York, was organized Feb 17, 1891. There were approximately two hundred members at the time of this voluntary organization's creation, and the initial goal was to promote socialization among workers and provide a burial fund. By the 1920s, the society ran a dispensary for medical care, provided dental care, and had expanded life insurance benefits. These services were supported by dues and social events such as athletic events and dances. The Association of Employees of the New York Edison Company was founded in 1905, and the Employees of the United Electric Light and Power Company in 1908. These societies had similar goals and offered similar services as the gas companies' organization. When the parent utility companies merged as ConEd from 1936-1937, the mutual aid societies followed suit. During the 1980s, the Consolidated Edison Employees Mutual Aid Society had a relationship with the Salvation Army. Collective bargaining for ConEd workers in New York City is represented by the Utility Workers Union of America, Local 1-2.</p>
-    </bioghist>
-    <accessrestrict id="aspace_1b0e9d7095eb1c53d280c54b1436faad">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <userestrict id="aspace_8b24bc198636242ab68ac4008bda33dd">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Consolidated Edison Employees Mutual Aid Society was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <acqinfo id="aspace_955ebca4e0747d80d5dff0c349a481e0">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Paul R. Westerkamp, Chief Administrative Officer of the Consolidated Edison Employees Mutual Aid Society, in 1998. The accession numbers associated with this gift are 1998.001, 1998.003, and NPA.2002.054</p>
-    </acqinfo>
-    <processinfo id="aspace_56761d359e63c9991062b184935f1627">
-      <head>Processing Information</head>
-      <p>Collection was processed in March of 2014. Photographs were separated from this collection during initial processing and were established as a separate collection, the Utility Workers Union of America, Local 1-2, Benefits Board Photographs (PHOTOS 117). In 2014, the photograph collection was reincorporated into the Consolidated Edison Employees Mutual Aid Society Records.</p>
-    </processinfo>
-    <scopecontent id="aspace_4afdc054e1d8e69832c3a905602e8307">
-      <head>Scope and Content Note</head>
-      <p>The Consolidated Edison Employees Mutual Aid Society Records document the organization's activities to provide insurance, healthcare services, and recreation for members. Documentation includes meeting minutes, reports, manuals, correspondence, filings with the State of New York, healthcare statistics, and an institutional history prepared for society's fiftieth anniversary. There are also albums containing brief biographical information and photographs of individuals who served on the Board of Managers and of gas company employees who served during the First World War. The records give insight into the the workings of another outlet for worker solidarity and cooperation that operated alongside the utility workers union.</p>
-    </scopecontent>
-    <arrangement id="aspace_adc1dd943a82441f6d2e627214753423">
-      <head>Arrangement</head>
-      <p>Collection is arranged chronologically.</p>
-    </arrangement>
-    <controlaccess>
-      <subject source="lcsh">Electric industry workers |z New York (State) |z New York |v Interviews.</subject>
-      <subject source="lcsh">Fraternal organizations |z New York (State) |z New York.</subject>
-      <subject source="lcsh">Working class |x Recreation |z United States</subject>
-      <subject source="lcsh">Insurance, Health |z New York (State) |z New York.</subject>
-      <corpname rules="aacr" source="naf">Salvation Army</corpname>
-      <corpname authfilenumber="(lccn)n80020305" source="naf">Consolidated Edison Company of New York, inc.</corpname>
-      <persname role="dnr" rules="dacs" source="local">Westerkamp, Paul R.</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref37" level="file">
-        <did>
-          <unittitle>Corporate Filings with State of New York (copies)</unittitle>
-          <unitdate datechar="creation" normal="1893/1963" type="inclusive">1893-1963</unitdate>
-          <container id="aspace_3ca8092d27d31732fa97d39c3ecd7b53" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle>Documents of Treasurer Benjamin Whitely of Gas Companies' Employees Mutual Aid Society of New York</unittitle>
-          <unitdate datechar="creation" normal="1902/1929" type="inclusive">1902-1929</unitdate>
-          <container id="aspace_2ee06be7e65edf29f4c55772beec4db1" label="Mixed Materials [31142054610277]" type="Box">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>Binder of records of Gas Companies' Employees Mutual Aid Society of New York</unittitle>
-          <unitdate datechar="creation" normal="1914/1933" type="inclusive">1914-1933</unitdate>
-          <container id="aspace_b30307723539dd6ca28452e97353c7b4" label="Mixed Materials [31142054610277]" type="Box">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Gas Companies' Employees Mutual Aid Society of New York Minutes Book</unittitle>
-          <unitdate datechar="creation" normal="1917/1936" type="inclusive">1917-1936</unitdate>
-          <container id="aspace_45bd7747a9478d2365a5905ced203cf6" label="Mixed Materials [31142054610277]" type="Box">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle>Dispensary Statistics</unittitle>
-          <unitdate datechar="creation" normal="1927/1938" type="inclusive">1927-1938</unitdate>
-          <container id="aspace_9d781d94782fc7283362a961baba29b9" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle>Association of Employees of the United Electric Light and Power Company, Board of Trustees Minutes</unittitle>
-          <unitdate datechar="creation" normal="1928/1935" type="inclusive">1928-1935</unitdate>
-          <container id="aspace_fa5f5265a7bbd7df432d2a1608699266" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle>Gas Companies' Employees Mutual Aid Society of New York and Consolidated Edison Employees Mutual Aid Society, Minutes, Reports of Officers, and Reports of Committees</unittitle>
-          <unitdate datechar="creation" normal="1931/1938" type="inclusive">1931-1938</unitdate>
-          <container id="aspace_506d2ab7f6faa0b109043d13c401662b" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref25" level="file">
-        <did>
-          <unittitle>Administrative Manuals</unittitle>
-          <unitdate datechar="creation" normal="1932/1966" type="inclusive">1932-1966</unitdate>
-          <container id="aspace_f9726f459c9d4e99b987a1db2dc6fb87" label="Mixed Materials [31142054610285]" type="Box">2</container>
-          <container id="aspace_879778feb7aa22cfa669d0059e2ea120" label="Mixed Materials [31142054610293]" type="Box">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Gas Companies' Employees Mutual Aid Society of New York and Consolidated Edison Employees Mutual Aid Society, Board of Managers Minutes</unittitle>
-          <unitdate datechar="creation" normal="1933/1944" type="inclusive">1933-1944</unitdate>
-          <container id="aspace_0a60a55e4c87629470c587973e95df69" label="Mixed Materials [31142054610277]" type="Box">1</container>
-          <container id="aspace_c7e17904340e826a7dae3bfdf3135d67" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle>Association of Employees of New York Edison Company, Board of Trustees Minutes</unittitle>
-          <unitdate datechar="creation" normal="1934/1937" type="inclusive">1934-1937</unitdate>
-          <container id="aspace_f6f8c9ddbff5cd52a7334dfd675a752d" label="Mixed Materials [31142054610277]" type="Box">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle>Gas and Electric Golf Association Annual Tournament</unittitle>
-          <unitdate datechar="creation" normal="1936/1939" type="inclusive">1936-1939</unitdate>
-          <container id="aspace_b7c8511045f412039716ba0e4ab928fb" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle>"Fifty Years of Mutual Aid, 1891-1941"</unittitle>
-          <unitdate datechar="creation" normal="1941/1941" type="inclusive">Feb 17, 1941</unitdate>
-          <container id="aspace_a5c4ceac3780f1544e08a43959ef04bb" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref30" level="file">
-        <did>
-          <unittitle>Routines and Procedures - Constitutional Items - Membership</unittitle>
-          <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
-          <container id="aspace_d95c5f0054ff80dd28b4b931bd13a270" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle>Bylaw Revisions Up to March 1961</unittitle>
-          <unitdate datechar="creation" normal="1963/1963" type="inclusive">Mar 12, 1963</unitdate>
-          <container id="aspace_78b7d5a93552804a0903c6d11779c520" label="Mixed Materials [31142054610293]" type="Box">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle>Annual Reports</unittitle>
-          <unitdate datechar="creation" normal="1966/1974" type="inclusive">1966-1974</unitdate>
-          <container id="aspace_390d28966282f5a658639e8cd96022f8" label="Mixed Materials [31142054610285]" type="Box">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref31" level="file">
-        <did>
-          <unittitle>Salvation Army Con Edison Mutual Aid Society Service Unit</unittitle>
-          <unitdate datechar="creation" normal="1983/1991" type="inclusive">1983-1991</unitdate>
-          <container id="aspace_7267d48d8b9c2d31d0497ef0e4665565" label="Mixed Materials [31142054610293]" type="Box">3</container>
-        </did>
-        <scopecontent id="aspace_fd2afbfc0a7d91b8fac49eb511dbf33d">
-          <head>Scope and Content Note</head>
-          <p>Contains correspondence, minutes of meetings of the Executive Committee, bank statements, and other documents.</p>
-        </scopecontent>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>Board of Managers Brief Biographies and Photographs</unittitle>
-          <unitdate datechar="creation" normal="1984/1984" type="inclusive">Circa 1984</unitdate>
-          <container id="aspace_5f50e56b2f041ad8e3ab9edf7198221f" label="Mixed Materials [31142054610293]" type="Box">3</container>
-        </did>
-        <scopecontent id="aspace_3be8e380db521ab69830c2db49392a70">
-          <head>Scope and Content Note</head>
-          <p>These files provide brief biographical information on members of the Board of Managers, including terms served, address, department, offices held, committees on which they participated, and a photograph. It is unclear when the organization began compiling this information, but it was maintained into the 1980s.</p>
-        </scopecontent>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>Photographs of World War I Veterans</unittitle>
-          <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_ed107ec5107bae044bf7b6cc6b62f859" label="Mixed Materials [31142054610293]" type="Box">3</container>
-        </did>
-        <scopecontent id="aspace_075177c70ff807c665aae56ba4d10d89">
-          <head>Scope and Content Note</head>
-          <p>Compiled album of photographs of gas company employees who served in the First World War. Often includes brief biography or obituary for veterans killed during the war.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+    <physloc id="aspace_f22e61a09fa6138e3d7c99de5933371c">Materials are stored off-site and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two days prior to research visit.</physloc>
+    <langmaterial id="aspace_0cfb4c9a4fbc4c9d67f1daab1e6c5963">Materials are in English</langmaterial>
+  </did>
+  <prefercite id="aspace_5eaa2244f60e044e1831e0946544c840">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Consolidated Edison Employees Mutual Aid Society Records; WAG 134; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_763bded373ff0d51a06d831ae7f22c17">
+    <head>Related Archival Materials</head>
+<p>Utility Workers Union of America, Local 1-2 Records (WAG 131)</p>  </relatedmaterial>
+  <bioghist id="aspace_03ff2869ddadaddff121b9d64383eacb">
+    <head>Historical/Biographical Note</head>
+<p>The Consolidated Edison Employees Mutual Aid Society was founded to provide insurance benefits, medical services, and recreational activities for gas and electrical workers in New York. The earliest of its predecessor organizations, the Gas Companies' Employees Mutual Aid Society of New York, was organized Feb 17, 1891. There were approximately two hundred members at the time of this voluntary organization's creation, and the initial goal was to promote socialization among workers and provide a burial fund. By the 1920s, the society ran a dispensary for medical care, provided dental care, and had expanded life insurance benefits. These services were supported by dues and social events such as athletic events and dances. The Association of Employees of the New York Edison Company was founded in 1905, and the Employees of the United Electric Light and Power Company in 1908. These societies had similar goals and offered similar services as the gas companies' organization. When the parent utility companies merged as ConEd from 1936-1937, the mutual aid societies followed suit. During the 1980s, the Consolidated Edison Employees Mutual Aid Society had a relationship with the Salvation Army. Collective bargaining for ConEd workers in New York City is represented by the Utility Workers Union of America, Local 1-2.</p>  </bioghist>
+  <accessrestrict id="aspace_1b0e9d7095eb1c53d280c54b1436faad">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_8b24bc198636242ab68ac4008bda33dd">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Consolidated Edison Employees Mutual Aid Society was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <acqinfo id="aspace_955ebca4e0747d80d5dff0c349a481e0">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Paul R. Westerkamp, Chief Administrative Officer of the Consolidated Edison Employees Mutual Aid Society, in 1998. The accession numbers associated with this gift are 1998.001, 1998.003, and NPA.2002.054</p>  </acqinfo>
+  <processinfo id="aspace_56761d359e63c9991062b184935f1627">
+    <head>Processing Information</head>
+<p>Collection was processed in March of 2014. Photographs were separated from this collection during initial processing and were established as a separate collection, the Utility Workers Union of America, Local 1-2, Benefits Board Photographs (PHOTOS 117). In 2014, the photograph collection was reincorporated into the Consolidated Edison Employees Mutual Aid Society Records.</p>  </processinfo>
+  <scopecontent id="aspace_4afdc054e1d8e69832c3a905602e8307">
+    <head>Scope and Content Note</head>
+<p>The Consolidated Edison Employees Mutual Aid Society Records document the organization's activities to provide insurance, healthcare services, and recreation for members. Documentation includes meeting minutes, reports, manuals, correspondence, filings with the State of New York, healthcare statistics, and an institutional history prepared for society's fiftieth anniversary. There are also albums containing brief biographical information and photographs of individuals who served on the Board of Managers and of gas company employees who served during the First World War. The records give insight into the the workings of another outlet for worker solidarity and cooperation that operated alongside the utility workers union.</p>  </scopecontent>
+  <arrangement id="aspace_adc1dd943a82441f6d2e627214753423">
+    <head>Arrangement</head>
+<p>Collection is arranged chronologically.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Electric industry workers |z New York (State) |z New York |v Interviews.</subject>
+    <subject source="lcsh">Fraternal organizations |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Working class |x Recreation |z United States</subject>
+    <subject source="lcsh">Insurance, Health |z New York (State) |z New York.</subject>
+    <corpname authfilenumber="(lccn)n79046615" rules="aacr" source="naf">Salvation Army</corpname>
+    <corpname authfilenumber="(lccn)n80020305" source="naf">Consolidated Edison Company of New York, inc.</corpname>
+    <persname role="dnr" rules="dacs" source="local">Westerkamp, Paul R.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref37" level="file"><did><unittitle>Corporate Filings with State of New York (copies)</unittitle><unitdate datechar="creation" normal="1893/1963" type="inclusive">1893-1963</unitdate><container id="aspace_851b295c5ac63bd8e950f3e2db5bfc81" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Documents of Treasurer Benjamin Whitely of Gas Companies' Employees Mutual Aid Society of New York</unittitle><unitdate datechar="creation" normal="1902/1929" type="inclusive">1902-1929</unitdate><container id="aspace_9546bb02ff75ba92d6d1eedd08dea1a8" label="Mixed Materials [31142054610277]" type="Box">1</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Binder of records of Gas Companies' Employees Mutual Aid Society of New York</unittitle><unitdate datechar="creation" normal="1914/1933" type="inclusive">1914-1933</unitdate><container id="aspace_955175d39c487d43738f93fd85b17d0e" label="Mixed Materials [31142054610277]" type="Box">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Gas Companies' Employees Mutual Aid Society of New York Minutes Book</unittitle><unitdate datechar="creation" normal="1917/1936" type="inclusive">1917-1936</unitdate><container id="aspace_bdadf41050546b4c24c1d05070d0ff34" label="Mixed Materials [31142054610277]" type="Box">1</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Dispensary Statistics</unittitle><unitdate datechar="creation" normal="1927/1938" type="inclusive">1927-1938</unitdate><container id="aspace_c7c619e8f7a71716467e1b8fcfa164a1" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Association of Employees of the United Electric Light and Power Company, Board of Trustees Minutes</unittitle><unitdate datechar="creation" normal="1928/1935" type="inclusive">1928-1935</unitdate><container id="aspace_d5f79f7097c4243bc48736566df0bbb3" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Gas Companies' Employees Mutual Aid Society of New York and Consolidated Edison Employees Mutual Aid Society, Minutes, Reports of Officers, and Reports of Committees</unittitle><unitdate datechar="creation" normal="1931/1938" type="inclusive">1931-1938</unitdate><container id="aspace_5c4c7e6990c693159dc6254fd2425e56" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Administrative Manuals</unittitle><unitdate datechar="creation" normal="1932/1966" type="inclusive">1932-1966</unitdate><container id="aspace_c03c620f5ea3d4f1ec12105b1904ffc0" label="Mixed Materials [31142054610285]" type="Box">2</container><container id="aspace_778fe8e24f65755f8da4b80d80d9bd9a" label="Mixed Materials [31142054610293]" type="Box">3</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Gas Companies' Employees Mutual Aid Society of New York and Consolidated Edison Employees Mutual Aid Society, Board of Managers Minutes</unittitle><unitdate datechar="creation" normal="1933/1944" type="inclusive">1933-1944</unitdate><container id="aspace_58892fa5f62781d2af71f7b8c0a8dc07" label="Mixed Materials [31142054610277]" type="Box">1</container><container id="aspace_56b8b4c34aa163878915516039864d78" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Association of Employees of New York Edison Company, Board of Trustees Minutes</unittitle><unitdate datechar="creation" normal="1934/1937" type="inclusive">1934-1937</unitdate><container id="aspace_078cd652d64d7b3fbd966ffbe2824fce" label="Mixed Materials [31142054610277]" type="Box">1</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Gas and Electric Golf Association Annual Tournament</unittitle><unitdate datechar="creation" normal="1936/1939" type="inclusive">1936-1939</unitdate><container id="aspace_e37aa0d7b220f31c6ad02147f6fa6508" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>"Fifty Years of Mutual Aid, 1891-1941"</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">Feb 17, 1941</unitdate><container id="aspace_e4a5a1d05abd07b4da04e6c1c1ffdb17" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Routines and Procedures - Constitutional Items - Membership</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate><container id="aspace_c60d6011cac792a305c8d566092ba3b7" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Bylaw Revisions Up to March 1961</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">Mar 12, 1963</unitdate><container id="aspace_eaf2af544715605c65fb1b989ad89b99" label="Mixed Materials [31142054610293]" type="Box">3</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Annual Reports</unittitle><unitdate datechar="creation" normal="1966/1974" type="inclusive">1966-1974</unitdate><container id="aspace_f3f1d670a862ce4359695d254bb25f76" label="Mixed Materials [31142054610285]" type="Box">2</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Salvation Army Con Edison Mutual Aid Society Service Unit</unittitle><unitdate datechar="creation" normal="1983/1991" type="inclusive">1983-1991</unitdate><container id="aspace_cd660290d0a9c8cf38f28615a6846c9b" label="Mixed Materials [31142054610293]" type="Box">3</container></did><scopecontent id="aspace_fd2afbfc0a7d91b8fac49eb511dbf33d"><head>Scope and Content Note</head><p>Contains correspondence, minutes of meetings of the Executive Committee, bank statements, and other documents.</p></scopecontent></c><c id="aspace_ref33" level="file"><did><unittitle>Board of Managers Brief Biographies and Photographs</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">Circa 1984</unitdate><container id="aspace_97aa202b5b6dd1f8d753acc927131fc1" label="Mixed Materials [31142054610293]" type="Box">3</container></did><scopecontent id="aspace_3be8e380db521ab69830c2db49392a70"><head>Scope and Content Note</head><p>These files provide brief biographical information on members of the Board of Managers, including terms served, address, department, offices held, committees on which they participated, and a photograph. It is unclear when the organization began compiling this information, but it was maintained into the 1980s.</p></scopecontent></c><c id="aspace_ref35" level="file"><did><unittitle>Photographs of World War I Veterans</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_4ff316a7ed9a98ba51ffa03d3a770f78" label="Mixed Materials [31142054610293]" type="Box">3</container></did><scopecontent id="aspace_075177c70ff807c665aae56ba4d10d89"><head>Scope and Content Note</head><p>Compiled album of photographs of gas company employees who served in the First World War. Often includes brief biography or obituary for veterans killed during the war.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>

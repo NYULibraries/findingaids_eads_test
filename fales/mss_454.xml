@@ -1,419 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_454">mss_454</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Ronald Vance Papers <num>MSS.454</num></titleproper>
-        <author>Emma Sarconi</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Fales Library and Special Collections</publisher>
-        <p>
-          <date>5/10/2016</date>
-        </p>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:50:33 -0500</date>.</creation>
-      <langusage>Finding aid written in English.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Fales Library and Special Collections</corpname>
-      </repository>
-      <unittitle>Ronald Vance Papers</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="naf">Vance, Ronald</persname>
-      </origination>
-      <unitid>MSS.454</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-        <extent altrender="carrier">in 1 record carton</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate>
-      <abstract id="aspace_63c8a7bbf73aea080a56253eb7c8f923">Ronald Vance is an artist and writer active in the United States and Europe during the later half of the 20th century. This collection consists of correspondence, as well as published and unpublished writings by Vance from the late 1960s through the mid 1980s. Works of fiction present in the collection were published in literary journals including <title render="italic">Sun and Moon</title>, <title render="italic">Not Guilty Magazine</title>, and <title render="italic">Interstate Magazine</title>. The collection also includes unpublished writings, including notes and drafts related to Vance's <title render="italic">I Went to Italy and Ate Chocolate</title>.</abstract>
-      <langmaterial id="aspace_afd276b6469a7a78d2cd0e456ac4bc60">Materials are in English.</langmaterial>
-    </did>
-    <scopecontent id="aspace_48ebb40677a34c3f5b10778cbb1b1a23">
-      <head>Scope and Contents</head>
-      <p>This collection consists of correspondence, as well as published and unpublished writings by Ronald Vance from the late 1960s through the mid 1980s. Works of fiction present in the collection were published in literary journals including <title render="italic">Sun and Moon</title>, <title render="italic">Not Guilty Magazine</title>, and <title render="italic">Interstate Magazine</title>. The collection also includes unpublished writings, including notes and drafts related to Vance's <title render="italic">I Went to Italy and Ate Chocolate</title>.</p>
-    </scopecontent>
-    <accessrestrict id="aspace_1712ded72e6597c76e078205fbdb5c4f">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
-    </accessrestrict>
-    <arrangement id="aspace_b7bc096a1a825c3c47c629cbc7e7e3dc">
-      <head>Arrangement</head>
-      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
-    </arrangement>
-    <bioghist id="aspace_de7bec5ab1fcc2afeac4a075701d14f5">
-      <head>Biographical / Historical</head>
-      <p>Ronald Vance is an artist and writer active during the 1960s through the 1980s. He was born in Connecticut and graduated from Yale University before lecturing on the history of art at Leicester College of Art and then moving to Italy. As of May 2016, he was living in Long Island and was retired.</p>
-    </bioghist>
-    <userestrict id="aspace_9a48833c90e29c5e24c4cc13e2c0ea6d">
-      <head>Conditions Governing Use</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by Ronald Vance, were transferred to New York University in 2016 by Ronald Vance. Permission to publish or reproduce materials in this collection must be secured from the Fales Library and Special Collections. Please contact fales.library@nyu.edu, 212-998-2596.</p>
-    </userestrict>
-    <acqinfo id="aspace_6170a1a87ba1c9e9e3361788b04575ec">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Ronald Vance in May 2016. The accession number associated with this gift is 2016.023.</p>
-    </acqinfo>
-    <prefercite id="aspace_d950a052181f5cdd7b231cf4537669ef">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_454">mss_454</eadid><filedesc><titlestmt><titleproper>Guide to the Ronald Vance Papers <num>MSS.454</num></titleproper><author>Emma Sarconi</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>5/10/2016</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:54:47 -0500</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>Ronald Vance Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Vance, Ronald</persname>
+    </origination>
+    <unitid>MSS.454</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 record carton</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate>
+    <abstract id="aspace_63c8a7bbf73aea080a56253eb7c8f923">Ronald Vance is an artist and writer active in the United States and Europe during the later half of the 20th century. This collection consists of correspondence, as well as published and unpublished writings by Vance from the late 1960s through the mid 1980s. Works of fiction present in the collection were published in literary journals including <title render="italic">Sun and Moon</title>, <title render="italic">Not Guilty Magazine</title>, and <title render="italic">Interstate Magazine</title>. The collection also includes unpublished writings, including notes and drafts related to Vance's <title render="italic">I Went to Italy and Ate Chocolate</title>.</abstract>
+    <langmaterial id="aspace_afd276b6469a7a78d2cd0e456ac4bc60">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_48ebb40677a34c3f5b10778cbb1b1a23">
+    <head>Scope and Contents</head>
+<p>This collection consists of correspondence, as well as published and unpublished writings by Ronald Vance from the late 1960s through the mid 1980s. Works of fiction present in the collection were published in literary journals including <title render="italic">Sun and Moon</title>, <title render="italic">Not Guilty Magazine</title>, and <title render="italic">Interstate Magazine</title>. The collection also includes unpublished writings, including notes and drafts related to Vance's <title render="italic">I Went to Italy and Ate Chocolate</title>.</p>  </scopecontent>
+  <accessrestrict id="aspace_1712ded72e6597c76e078205fbdb5c4f">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <arrangement id="aspace_b7bc096a1a825c3c47c629cbc7e7e3dc">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_de7bec5ab1fcc2afeac4a075701d14f5">
+    <head>Biographical / Historical</head>
+<p>Ronald Vance is an artist and writer active during the 1960s through the 1980s. He was born in Connecticut and graduated from Yale University before lecturing on the history of art at Leicester College of Art and then moving to Italy. As of May 2016, he was living in Long Island and was retired.</p>  </bioghist>
+  <userestrict id="aspace_9a48833c90e29c5e24c4cc13e2c0ea6d">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Ronald Vance, were transferred to New York University in 2016 by Ronald Vance. Permission to publish or reproduce materials in this collection must be secured from the Fales Library and Special Collections. Please contact fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <acqinfo id="aspace_6170a1a87ba1c9e9e3361788b04575ec">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Ronald Vance in May 2016. The accession number associated with this gift is 2016.023.</p>  </acqinfo>
+  <prefercite id="aspace_d950a052181f5cdd7b231cf4537669ef">
+    <head>Preferred Citation</head>
+<p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item, date; Ronald Vance Papers; MSS 454; box number; folder number; Fales Library and Special Collections, New York University.</p>
-    </prefercite>
-    <processinfo id="aspace_7620870ac20a7bf086844254cb370df6">
-      <head>Processing Information</head>
-      <p>At the time of accessioning, materials were rehoused in an acid-free box. Some folders were replaced when they were noticeably damaged, but the majority of the folders in the collection are original to the donor. The original folder order, as well as folder titles has been retained. No arrangement or other physical interventions have taken place.</p>
-    </processinfo>
-    <controlaccess>
-      <subject source="lcsh">Literature, Experimental.</subject>
-      <subject source="lcsh">Artists' writings</subject>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref12" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">Benzene Editions: The Nothing Issue Part One</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-          <container altrender="Record carton" id="aspace_59e683e7283444dc13035476be1b832f" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_b2eabbc8f8bdc721d227db62517827b4" parent="aspace_59e683e7283444dc13035476be1b832f" type="Folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ref13" level="file">
-        <did>
-          <unittitle>Ochiishi Postcard</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_375a2d8b54cf2c3d448d097e64a6b405" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_6ee4e474a3588ae8b665269e9352289a" parent="aspace_375a2d8b54cf2c3d448d097e64a6b405" type="Folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_ref14" level="file">
-        <did>
-          <unittitle>Ronald Vance: Photos</unittitle>
-          <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate>
-          <container altrender="Record carton" id="aspace_1600eb6fd865480da22fafc43d26043c" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_5b185ef91b4053031b559c68efafa667" parent="aspace_1600eb6fd865480da22fafc43d26043c" type="Folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_ref15" level="file">
-        <did>
-          <unittitle>Vance W Bob Wilson</unittitle>
-          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
-          <container altrender="Record carton" id="aspace_dcacff33a48200d9ff8ce0f5d702953a" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_94a2cb2122a792021ed1bae80471ee61" parent="aspace_dcacff33a48200d9ff8ce0f5d702953a" type="Folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_ref16" level="file">
-        <did>
-          <unittitle>Deem: Art and Artists, London (Ronald Vance)</unittitle>
-          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-          <container altrender="Record carton" id="aspace_d509f90593eef6f9ce411065c4bf3066" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_ad18246425b4bd58d8e9894f223ab83d" parent="aspace_d509f90593eef6f9ce411065c4bf3066" type="Folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_ref17" level="file">
-        <did>
-          <unittitle>Zone: Words by Ronald Vance</unittitle>
-          <unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate>
-          <container altrender="Record carton" id="aspace_82fef900c586e5bc1a27c465f67234d0" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_041e822f6f7fb3f472c367d96732be02" parent="aspace_82fef900c586e5bc1a27c465f67234d0" type="Folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_ref18" level="file">
-        <did>
-          <unittitle><title render="italic">X Journal</title>: "Field Notes"</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_d458f9f9c261517680e28e5fc026a78d" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_9f4557538e09130bc0aa2a87ce9ef217" parent="aspace_d458f9f9c261517680e28e5fc026a78d" type="Folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_ref19" level="file">
-        <did>
-          <unittitle><title render="italic">X Journal</title>: "Say It's a Chair"</unittitle>
-          <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_98bb05b2c10a0ced1e3b407b934eaf19" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_b6087eb12d242b3810c48f87e6c12ff7" parent="aspace_98bb05b2c10a0ced1e3b407b934eaf19" type="Folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_ref20" level="file">
-        <did>
-          <unittitle>"Dinner for Eight"</unittitle>
-          <unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate>
-          <container altrender="Record carton" id="aspace_7567c98af82c75f1136a3167db80eb78" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_49a38be16b45e98e55bff0a582c64bde" parent="aspace_7567c98af82c75f1136a3167db80eb78" type="Folder">9</container>
-        </did>
-      </c>
-      <c id="aspace_ref21" level="file">
-        <did>
-          <unittitle>Ray Johnson Mail Art, Correspondance School</unittitle>
-          <unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate>
-          <container altrender="Record carton" id="aspace_99434af97c6a38d3673618ff65518ca2" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_1d1f72446eef1e3fcc7f4b81224caec7" parent="aspace_99434af97c6a38d3673618ff65518ca2" type="Folder">10</container>
-        </did>
-      </c>
-      <c id="aspace_ref22" level="file">
-        <did>
-          <unittitle><title render="italic">Practice In Theory</title>: Ray Johnson</unittitle>
-          <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
-          <container altrender="Record carton" id="aspace_09a0fd9e1ae2a12a33c7a37212f622ed" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_01ff2b15fc08f4519d9d903c244ab7e5" parent="aspace_09a0fd9e1ae2a12a33c7a37212f622ed" type="Folder">11</container>
-        </did>
-      </c>
-      <c id="aspace_ref23" level="file">
-        <did>
-          <unittitle><title render="italic">Sun &amp; Moon</title>: "Canoeing/ Body Type, Rivers, Maryland"</unittitle>
-          <unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate>
-          <container altrender="Record carton" id="aspace_ce73a498f3d4e858a757939f27adb979" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_ade34d0dca5ddccad5182791c14cbaa8" parent="aspace_ce73a498f3d4e858a757939f27adb979" type="Folder">12</container>
-        </did>
-      </c>
-      <c id="aspace_ref24" level="file">
-        <did>
-          <unittitle><title render="italic">Sun &amp; Moon</title>: "Speed Reading"</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Record carton" id="aspace_0df4c20818045392b1f4705d51ef7c30" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_eedb4c783586818d0ad86ce2bc06750b" parent="aspace_0df4c20818045392b1f4705d51ef7c30" type="Folder">13</container>
-        </did>
-      </c>
-      <c id="aspace_ref25" level="file">
-        <did>
-          <unittitle><title render="italic">Sun &amp; Moon</title>: "New Yet to Be"</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_32f0229f10ef2c4b5be2a51d047f64bc" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_ae2cd1dea3a175530bb599d5177b891d" parent="aspace_32f0229f10ef2c4b5be2a51d047f64bc" type="Folder">14</container>
-        </did>
-      </c>
-      <c id="aspace_ref26" level="file">
-        <did>
-          <unittitle><title render="italic">Sun &amp; Moon</title>: "Bruna Sevini" (with George Deem)</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_6e851f0d340abc614123a19fafa2e259" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_16286e57aeb84038883fbd93af19c4a6" parent="aspace_6e851f0d340abc614123a19fafa2e259" type="Folder">15</container>
-        </did>
-      </c>
-      <c id="aspace_ref27" level="file">
-        <did>
-          <unittitle><title render="italic">Snappy Stanzas</title>: "Heigh! Heigh Ho!mocentric"</unittitle>
-          <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
-          <container altrender="Record carton" id="aspace_97748a129b46de17de351d8ac041c6c4" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_543255aa21657d10f804ac04f94bba46" parent="aspace_97748a129b46de17de351d8ac041c6c4" type="Folder">16</container>
-        </did>
-      </c>
-      <c id="aspace_ref28" level="file">
-        <did>
-          <unittitle><title render="italic">Oyez Review</title>: "Bad Cheat"</unittitle>
-          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-          <container altrender="Record carton" id="aspace_eacdc8e5fe0d6f0a0045f9b38b7d707a" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_5968c726145e08c9c43a05466a8e1056" parent="aspace_eacdc8e5fe0d6f0a0045f9b38b7d707a" type="Folder">17</container>
-        </did>
-      </c>
-      <c id="aspace_ref29" level="file">
-        <did>
-          <unittitle><title render="italic">Oyez Review</title>: "Even in Spain, a Love Story"</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_209b447a45e42f8fb081ef43e7c61dbf" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_91d29dbfa1cf69dc7ccbaa9cec43bc46" parent="aspace_209b447a45e42f8fb081ef43e7c61dbf" type="Folder">18</container>
-        </did>
-      </c>
-      <c id="aspace_ref30" level="file">
-        <did>
-          <unittitle><title render="italic">O.ARS Series: Toward a New Poetics</title> (<title render="italic">Per/Ception</title>) </unittitle>
-          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
-          <container altrender="Record carton" id="aspace_f3af717176f7bd20e875a0a84d5d09c9" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_e0d29dd0454e322f6de7367f21a7809f" parent="aspace_f3af717176f7bd20e875a0a84d5d09c9" type="Folder">19</container>
-        </did>
-      </c>
-      <c id="aspace_ref31" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">NRG Zine</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-          <container altrender="Record carton" id="aspace_30b8a62efc42f48b99d7db138b7b5c33" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_25f7b81674603e82f4f7f8a6bd4d7f42" parent="aspace_30b8a62efc42f48b99d7db138b7b5c33" type="Folder">20</container>
-        </did>
-      </c>
-      <c id="aspace_ref32" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">NGR Zine: Her Own Self</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_e39f9377bf71b149e60d3d5912fdaae6" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_3ebd1a6a1f1b37f043c7648623173ada" parent="aspace_e39f9377bf71b149e60d3d5912fdaae6" type="Folder">21</container>
-        </did>
-      </c>
-      <c id="aspace_ref33" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">NGR Zine: Plastic Sense Returns</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_52a1d3e638bff3d3d0df64c48844ab8d" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_881287e3e09134eb1d6019db73ed2f0d" parent="aspace_52a1d3e638bff3d3d0df64c48844ab8d" type="Folder">22</container>
-        </did>
-      </c>
-      <c id="aspace_ref34" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">NRG Zine: Eyes Now in Sight</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate>
-          <container altrender="Record carton" id="aspace_350e94b3dec0199614b263853f2d918e" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_19f75068d3eee6d51936a6af8d1e2529" parent="aspace_350e94b3dec0199614b263853f2d918e" type="Folder">23</container>
-        </did>
-      </c>
-      <c id="aspace_ref35" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">Not Guilty Mag: Core Tune Ease</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate>
-          <container altrender="Record carton" id="aspace_429a2f25143351093070cc4e252cb051" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_b1abc31671f0c7a4b0086a86a774f4e3" parent="aspace_429a2f25143351093070cc4e252cb051" type="Folder">24</container>
-        </did>
-      </c>
-      <c id="aspace_ref36" level="file">
-        <did>
-          <unittitle><title render="italic">Interstate</title>: Loris Essary</unittitle>
-          <unitdate datechar="creation" normal="1978/1982" type="inclusive">1978-1982</unitdate>
-          <container altrender="Record carton" id="aspace_520390860331200f7a4a17e0830184e3" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_99fbfb7db13e6389c137f87024c4b45d" parent="aspace_520390860331200f7a4a17e0830184e3" type="Folder">25</container>
-        </did>
-      </c>
-      <c id="aspace_ref37" level="file">
-        <did>
-          <unittitle><title render="italic">Interstate</title>: "Sonnets and Such"</unittitle>
-          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
-          <container altrender="Record carton" id="aspace_c134904d43bafbbf9a122fc8d929f48a" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_324788dc78ca2f8ae0c343c7c11db252" parent="aspace_c134904d43bafbbf9a122fc8d929f48a" type="Folder">26</container>
-        </did>
-      </c>
-      <c id="aspace_ref38" level="file">
-        <did>
-          <unittitle><title render="italic">Interstate</title>: "Just as Through the Same Of"</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Record carton" id="aspace_4f3ea22d467df95762b35d003fabfb26" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_8749a236624eb8ca61167e6deb9f611e" parent="aspace_4f3ea22d467df95762b35d003fabfb26" type="Folder">27</container>
-        </did>
-      </c>
-      <c id="aspace_ref39" level="file">
-        <did>
-          <unittitle><title render="italic">Epoch Magazine</title>: George Henry Freedman</unittitle>
-          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
-          <container altrender="Record carton" id="aspace_b5565ca60a3e77946988ae0065adce85" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_99eda365308e86fce0fd667ee93a6b06" parent="aspace_b5565ca60a3e77946988ae0065adce85" type="Folder">28</container>
-        </did>
-      </c>
-      <c id="aspace_ref40" level="file">
-        <did>
-          <unittitle><title render="italic">Cumberland Journal</title>: A Fallcious Belief </unittitle>
-          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
-          <container altrender="Record carton" id="aspace_ed7a67658f50302e70df612a52e9d196" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_b9ea6b99e5c1969597e5ca51edbcd494" parent="aspace_ed7a67658f50302e70df612a52e9d196" type="Folder">29</container>
-        </did>
-      </c>
-      <c id="aspace_ref41" level="file">
-        <did>
-          <unittitle><title render="italic">Cumberland Journal</title>: Geroge Myers Jr. (Correspondence)
-</unittitle>
-          <unitdate datechar="creation" normal="1978/1981" type="inclusive">1978-1981</unitdate>
-          <container altrender="Record carton" id="aspace_5ccc13c8f1602f7bee2553362cd325bc" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_d73082b8466fdd412d48f927dd52a848" parent="aspace_5ccc13c8f1602f7bee2553362cd325bc" type="Folder">30</container>
-        </did>
-      </c>
-      <c id="aspace_ref42" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">Home Gardeners Guide to Bulbs and Flowers</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate>
-          <container altrender="Record carton" id="aspace_e53aa2f5f0635863b814ee20970f23dc" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_7bdafe143eae922f2f3151c09923c93b" parent="aspace_e53aa2f5f0635863b814ee20970f23dc" type="Folder">31</container>
-        </did>
-      </c>
-      <c id="aspace_ref43" level="file">
-        <did>
-          <unittitle><title render="italic">Ear Magazine</title>: Paragraph for George Deem</unittitle>
-          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
-          <container altrender="Record carton" id="aspace_b9f8e922a069375d90fdb8d8dcd09ded" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_5b28b0fe196cf8508ee14777373c0ebb" parent="aspace_b9f8e922a069375d90fdb8d8dcd09ded" type="Folder">32</container>
-        </did>
-      </c>
-      <c id="aspace_ref44" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">Clown War</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1978/1980" type="inclusive">1978-1980</unitdate>
-          <container altrender="Record carton" id="aspace_cba8573b0389999caf92a318c51df221" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_06695701d299b8c5cfa49d82ae92c545" parent="aspace_cba8573b0389999caf92a318c51df221" type="Folder">33</container>
-        </did>
-      </c>
-      <c id="aspace_ref45" level="file">
-        <did>
-          <unittitle><title render="italic">Clown War</title> and <title render="italic">By Now</title></unittitle>
-          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
-          <container altrender="Record carton" id="aspace_408dd3b238f44333b261e070a2b91d28" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_2c0c3ea1c71331a525b347092c9ba939" parent="aspace_408dd3b238f44333b261e070a2b91d28" type="Folder">34</container>
-        </did>
-      </c>
-      <c id="aspace_ref46" level="file">
-        <did>
-          <unittitle><title render="italic">Clown War</title>: "The Underrated Bestseller"</unittitle>
-          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
-          <container altrender="Record carton" id="aspace_9d5e64171b8d2edaf14f108e2cf40200" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_b8985a1b1aba9346ab14c3024ad249a5" parent="aspace_9d5e64171b8d2edaf14f108e2cf40200" type="Folder">35</container>
-        </did>
-      </c>
-      <c id="aspace_ref47" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">Monday Mornings</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1972/1981" type="inclusive">1972-1981</unitdate>
-          <container altrender="Record carton" id="aspace_fa03cfc70de54aa6fbf565f1211475c1" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_4cb0044092b3d1a588bc110612610a29" parent="aspace_fa03cfc70de54aa6fbf565f1211475c1" type="Folder">36</container>
-        </did>
-      </c>
-      <c id="aspace_ref48" level="file">
-        <did>
-          <unittitle><title render="italic">Monday Mornings</title>: Benzene</unittitle>
-          <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
-          <container altrender="Record carton" id="aspace_f6031171528f9efe3199038459b58b05" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_1c71e442f5de74fd1c09cdd6fdfca436" parent="aspace_f6031171528f9efe3199038459b58b05" type="Folder">37</container>
-        </did>
-      </c>
-      <c id="aspace_ref49" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">I Went to Italy and Ate Chocolate</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
-          <container altrender="Record carton" id="aspace_5c1d092722a9d7ead3e233d51ea226fe" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_89ca989a41c0cea25890ad75f327ec66" parent="aspace_5c1d092722a9d7ead3e233d51ea226fe" type="Folder">40</container>
-          <container altrender="Record carton" id="aspace_8f85738f28304074edf536d5b6005966" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_f8dac33a5bf3a65f92a059fadd725b7f" parent="aspace_8f85738f28304074edf536d5b6005966" type="Folder">38</container>
-        </did>
-      </c>
-      <c id="aspace_ref50" level="file">
-        <did>
-          <unittitle>
-            <title render="italic">The Home Gardener's Guide to Bulb Flowers</title>
-          </unittitle>
-          <unitdate datechar="creation" normal="1967/1974" type="inclusive">1967-1974</unitdate>
-          <container altrender="Record carton" id="aspace_f28704bd95a03a150d4cd1d2e4084138" label="Mixed Materials [31142063514809]" type="Box">1</container>
-          <container id="aspace_c3bf379284e5c8d812477c8412cadb55" parent="aspace_f28704bd95a03a150d4cd1d2e4084138" type="Folder">39</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+Identification of item, date; Ronald Vance Papers; MSS 454; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
+  <processinfo id="aspace_7620870ac20a7bf086844254cb370df6">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in an acid-free box. Some folders were replaced when they were noticeably damaged, but the majority of the folders in the collection are original to the donor. The original folder order, as well as folder titles has been retained. No arrangement or other physical interventions have taken place.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Literature, Experimental.</subject>
+    <subject source="lcsh">Artists' writings</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref12" level="file"><did><unittitle><title render="italic">Benzene Editions: The Nothing Issue Part One</title></unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Record carton" id="aspace_c15b231ba08cf885579b579d0d35ab88" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_468f632b39d495d7630bad82cceb12f6" parent="aspace_c15b231ba08cf885579b579d0d35ab88" type="Folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Ochiishi Postcard</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_acecdf9cdf1c6a9b9082d6e80d3d7f50" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_68acbdb1120238234080f798d7439c3f" parent="aspace_acecdf9cdf1c6a9b9082d6e80d3d7f50" type="Folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Ronald Vance: Photos</unittitle><unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate><container altrender="Record carton" id="aspace_0d5b8d09cedce3cddadf0401438f68e0" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_8e6eb2219082fca15c08c5d007e0a68d" parent="aspace_0d5b8d09cedce3cddadf0401438f68e0" type="Folder">3</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Vance W Bob Wilson</unittitle><unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate><container altrender="Record carton" id="aspace_665b21dc2b59052ca65ae5ed16c775d2" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_4ba309b221e7deff01d73e34d2957c24" parent="aspace_665b21dc2b59052ca65ae5ed16c775d2" type="Folder">4</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Deem: Art and Artists, London (Ronald Vance)</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_cd025063e74c073a757d03106a17f792" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_012b26be86dbc275e888166e2d8e96d2" parent="aspace_cd025063e74c073a757d03106a17f792" type="Folder">5</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Zone: Words by Ronald Vance</unittitle><unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate><container altrender="Record carton" id="aspace_91106960d61abfe228da5376d8a901f1" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_2f3bc0102805ba1aa7f664bf03e04807" parent="aspace_91106960d61abfe228da5376d8a901f1" type="Folder">6</container></did></c><c id="aspace_ref18" level="file"><did><unittitle><title render="italic">X Journal</title>: "Field Notes"</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_b7567418ca5572cdfc1bfb1600d47db2" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_f898f818afa4f0f0f1a04c67a70bfbfd" parent="aspace_b7567418ca5572cdfc1bfb1600d47db2" type="Folder">7</container></did></c><c id="aspace_ref19" level="file"><did><unittitle><title render="italic">X Journal</title>: "Say It's a Chair"</unittitle><unitdate datechar="creation" normal="1978/1979" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_be98d79986e5bf9a2b9b24e4894c52ea" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_9b719747d3dda063693d77f4e57d6168" parent="aspace_be98d79986e5bf9a2b9b24e4894c52ea" type="Folder">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>"Dinner for Eight"</unittitle><unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate><container altrender="Record carton" id="aspace_3355a8308f18a0cb2604442e2fd9b512" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_2019e6955c5c0a70c0c2c62688fb22df" parent="aspace_3355a8308f18a0cb2604442e2fd9b512" type="Folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Ray Johnson Mail Art, Correspondance School</unittitle><unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate><container altrender="Record carton" id="aspace_f4741ef728d46b8258656d351f6b2b57" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_182118aa2e0f70a9daa29eba8b8daa4e" parent="aspace_f4741ef728d46b8258656d351f6b2b57" type="Folder">10</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><title render="italic">Practice In Theory</title>: Ray Johnson</unittitle><unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate><container altrender="Record carton" id="aspace_f48334530a9cf78ef215a64c4d0f77ae" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_c22799a1a9c7406bc4a2b44c4021cf78" parent="aspace_f48334530a9cf78ef215a64c4d0f77ae" type="Folder">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle><title render="italic">Sun &amp; Moon</title>: "Canoeing/ Body Type, Rivers, Maryland"</unittitle><unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate><container altrender="Record carton" id="aspace_556d425d06a81cc5da97f411d494a5e4" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_dd278b4f507c54d1ed6d91d601cce13e" parent="aspace_556d425d06a81cc5da97f411d494a5e4" type="Folder">12</container></did></c><c id="aspace_ref24" level="file"><did><unittitle><title render="italic">Sun &amp; Moon</title>: "Speed Reading"</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Record carton" id="aspace_706cfedac9c52543608dd0194c13656f" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_eac05e61c5644b60d46d3ecd70e67678" parent="aspace_706cfedac9c52543608dd0194c13656f" type="Folder">13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle><title render="italic">Sun &amp; Moon</title>: "New Yet to Be"</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_2bb94dcfc2a54e9a6aa57b280eaf68fc" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_280cc1f769503ed419e8de772bdae0a4" parent="aspace_2bb94dcfc2a54e9a6aa57b280eaf68fc" type="Folder">14</container></did></c><c id="aspace_ref26" level="file"><did><unittitle><title render="italic">Sun &amp; Moon</title>: "Bruna Sevini" (with George Deem)</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_1552d3272f014b76c231f912975451e5" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_0b31b01dddc146baa740b8f7f891d48e" parent="aspace_1552d3272f014b76c231f912975451e5" type="Folder">15</container></did></c><c id="aspace_ref27" level="file"><did><unittitle><title render="italic">Snappy Stanzas</title>: "Heigh! Heigh Ho!mocentric"</unittitle><unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate><container altrender="Record carton" id="aspace_4181f3249e06ca4393952fc9e45cb720" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_928eef7613416a73b5a4a7aada8ac14d" parent="aspace_4181f3249e06ca4393952fc9e45cb720" type="Folder">16</container></did></c><c id="aspace_ref28" level="file"><did><unittitle><title render="italic">Oyez Review</title>: "Bad Cheat"</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_c6fccb5e6b7bfb18a10b067c1dd94f9e" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_2efc425e45815cb1de233762127e2ab6" parent="aspace_c6fccb5e6b7bfb18a10b067c1dd94f9e" type="Folder">17</container></did></c><c id="aspace_ref29" level="file"><did><unittitle><title render="italic">Oyez Review</title>: "Even in Spain, a Love Story"</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_0140877001fae2b13565cd99575a0623" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_fc63488a92158feab729a021983a214b" parent="aspace_0140877001fae2b13565cd99575a0623" type="Folder">18</container></did></c><c id="aspace_ref30" level="file"><did><unittitle><title render="italic">O.ARS Series: Toward a New Poetics</title> (<title render="italic">Per/Ception</title>) </unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_87e65b80cbbd5fea38caf264dd451c9a" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_893a30f6feb4df64118dccf22c4f9019" parent="aspace_87e65b80cbbd5fea38caf264dd451c9a" type="Folder">19</container></did></c><c id="aspace_ref31" level="file"><did><unittitle><title render="italic">NRG Zine</title></unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_50a700d87bbd0d1809170d4df8297410" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_610e3ca33ff27c5ec86262409712fc2e" parent="aspace_50a700d87bbd0d1809170d4df8297410" type="Folder">20</container></did></c><c id="aspace_ref32" level="file"><did><unittitle><title render="italic">NGR Zine: Her Own Self</title></unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_e6c6618e97d04ef90978856fb5fc929e" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_07fc9026e0fe83570bde34055f59e199" parent="aspace_e6c6618e97d04ef90978856fb5fc929e" type="Folder">21</container></did></c><c id="aspace_ref33" level="file"><did><unittitle><title render="italic">NGR Zine: Plastic Sense Returns</title></unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_b11b23107001e8c6613643d6beff8a4b" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_0dccb119fd8872b766c8053774167be2" parent="aspace_b11b23107001e8c6613643d6beff8a4b" type="Folder">22</container></did></c><c id="aspace_ref34" level="file"><did><unittitle><title render="italic">NRG Zine: Eyes Now in Sight</title></unittitle><unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate><container altrender="Record carton" id="aspace_037a20f915263d8e7b5dce69b9d26d2b" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_2209a6e03b27d5485c4de754518c0e4d" parent="aspace_037a20f915263d8e7b5dce69b9d26d2b" type="Folder">23</container></did></c><c id="aspace_ref35" level="file"><did><unittitle><title render="italic">Not Guilty Mag: Core Tune Ease</title></unittitle><unitdate datechar="creation" normal="1968/1985" type="inclusive">1968-1985</unitdate><container altrender="Record carton" id="aspace_4117128576df574d73f30194f0ad136c" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_024214d6ded35a9fea5d88aef770a404" parent="aspace_4117128576df574d73f30194f0ad136c" type="Folder">24</container></did></c><c id="aspace_ref36" level="file"><did><unittitle><title render="italic">Interstate</title>: Loris Essary</unittitle><unitdate datechar="creation" normal="1978/1982" type="inclusive">1978-1982</unitdate><container altrender="Record carton" id="aspace_fb0a03b5cebab8c342d6b8e30b7d38da" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_29a7fe36076ef5ea4b4ba2e6a8cbfab4" parent="aspace_fb0a03b5cebab8c342d6b8e30b7d38da" type="Folder">25</container></did></c><c id="aspace_ref37" level="file"><did><unittitle><title render="italic">Interstate</title>: "Sonnets and Such"</unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Record carton" id="aspace_6ef7f73b94fec7b43877cbb10bdbf235" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_08428df3847a85c5f129894609260464" parent="aspace_6ef7f73b94fec7b43877cbb10bdbf235" type="Folder">26</container></did></c><c id="aspace_ref38" level="file"><did><unittitle><title render="italic">Interstate</title>: "Just as Through the Same Of"</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Record carton" id="aspace_e6a87930763cc7be25182143fa0b44b9" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_a70872b6136d28a324409e7370dc3003" parent="aspace_e6a87930763cc7be25182143fa0b44b9" type="Folder">27</container></did></c><c id="aspace_ref39" level="file"><did><unittitle><title render="italic">Epoch Magazine</title>: George Henry Freedman</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_8f191628d98542eaba6c001a9fc863bb" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_c94c7d9e400c3013488b774748dfe54e" parent="aspace_8f191628d98542eaba6c001a9fc863bb" type="Folder">28</container></did></c><c id="aspace_ref40" level="file"><did><unittitle><title render="italic">Cumberland Journal</title>: A Fallcious Belief </unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container altrender="Record carton" id="aspace_575cc1896ee54b49ebca3acac10a02a0" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_69f2db2f6bd7894b3cb52dc059954716" parent="aspace_575cc1896ee54b49ebca3acac10a02a0" type="Folder">29</container></did></c><c id="aspace_ref41" level="file"><did><unittitle><title render="italic">Cumberland Journal</title>: Geroge Myers Jr. (Correspondence)
+</unittitle><unitdate datechar="creation" normal="1978/1981" type="inclusive">1978-1981</unitdate><container altrender="Record carton" id="aspace_1ff5c4483eda73896cc54bd797bb2477" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_c0fbe66cc93e16007c728631d2f5e042" parent="aspace_1ff5c4483eda73896cc54bd797bb2477" type="Folder">30</container></did></c><c id="aspace_ref42" level="file"><did><unittitle><title render="italic">Home Gardeners Guide to Bulbs and Flowers</title></unittitle><unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate><container altrender="Record carton" id="aspace_cc107b9c44f8300f4daf8bf8d18e7250" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_f80ae83b2d214603ab3264c356b3938f" parent="aspace_cc107b9c44f8300f4daf8bf8d18e7250" type="Folder">31</container></did></c><c id="aspace_ref43" level="file"><did><unittitle><title render="italic">Ear Magazine</title>: Paragraph for George Deem</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_333a4d3c56ac989365b3d73d14783f18" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_3a9fb0caad30343ed84c79cdae53f09d" parent="aspace_333a4d3c56ac989365b3d73d14783f18" type="Folder">32</container></did></c><c id="aspace_ref44" level="file"><did><unittitle><title render="italic">Clown War</title></unittitle><unitdate datechar="creation" normal="1978/1980" type="inclusive">1978-1980</unitdate><container altrender="Record carton" id="aspace_86d0e3541895dbe656b4bce73e53bdd0" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_4bc2deed52be4e40f0c026cd26e8f78a" parent="aspace_86d0e3541895dbe656b4bce73e53bdd0" type="Folder">33</container></did></c><c id="aspace_ref45" level="file"><did><unittitle><title render="italic">Clown War</title> and <title render="italic">By Now</title></unittitle><unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Record carton" id="aspace_1b98166fc45fbd647c864954915b9d14" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_ef86acc95c5549107b6ab8af579f18b8" parent="aspace_1b98166fc45fbd647c864954915b9d14" type="Folder">34</container></did></c><c id="aspace_ref46" level="file"><did><unittitle><title render="italic">Clown War</title>: "The Underrated Bestseller"</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Record carton" id="aspace_89a68a7b259bef97ce932816a2a3b170" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_e28510fabd58688224e8b8e83b0caebb" parent="aspace_89a68a7b259bef97ce932816a2a3b170" type="Folder">35</container></did></c><c id="aspace_ref47" level="file"><did><unittitle><title render="italic">Monday Mornings</title></unittitle><unitdate datechar="creation" normal="1972/1981" type="inclusive">1972-1981</unitdate><container altrender="Record carton" id="aspace_fd3d28cbbbb5bb99ec3157bf1682563e" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_cc0e16f13fbce24805e9e59d21afa9dd" parent="aspace_fd3d28cbbbb5bb99ec3157bf1682563e" type="Folder">36</container></did></c><c id="aspace_ref48" level="file"><did><unittitle><title render="italic">Monday Mornings</title>: Benzene</unittitle><unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate><container altrender="Record carton" id="aspace_98394d1337c75cde34c2aa1ffedd5dc8" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_1fa9b3a6139e91496048ad0313f13acd" parent="aspace_98394d1337c75cde34c2aa1ffedd5dc8" type="Folder">37</container></did></c><c id="aspace_ref49" level="file"><did><unittitle><title render="italic">I Went to Italy and Ate Chocolate</title></unittitle><unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate><container altrender="Record carton" id="aspace_9aaf4125a0f84c28f73c691b29a4d22e" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_87d0ce5906523874f70ec65b3ae2b2e1" parent="aspace_9aaf4125a0f84c28f73c691b29a4d22e" type="Folder">40</container><container altrender="Record carton" id="aspace_bd4722ba2833582a09443068b75e8f49" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_0f19c3b93c985263251a0ec474146c73" parent="aspace_bd4722ba2833582a09443068b75e8f49" type="Folder">38</container></did></c><c id="aspace_ref50" level="file"><did><unittitle><title render="italic">The Home Gardener's Guide to Bulb Flowers</title></unittitle><unitdate datechar="creation" normal="1967/1974" type="inclusive">1967-1974</unitdate><container altrender="Record carton" id="aspace_d593f619e7641ca3c2697806bbafec23" label="Mixed Materials [31142063514809]" type="Box">1</container><container id="aspace_d2241e714d082cd0e0febf5d0c5a380e" parent="aspace_d593f619e7641ca3c2697806bbafec23" type="Folder">39</container></did></c></dsc>
+</archdesc>
 </ead>

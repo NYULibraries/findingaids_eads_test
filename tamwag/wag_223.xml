@@ -1,599 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_223">wag_223</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Joseph Magliacano Papers and Photographs <num>WAG.223</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:58:26 -0500</date>.</creation>
-      <langusage>English </langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Joseph Magliacano Papers and Photographs</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="local">Magliacano, Joseph</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Maglin, Richard</persname>
-      </origination>
-      <origination label="source">
-        <persname role="dnr" rules="dacs" source="local">Joan, Landzberg</persname>
-      </origination>
-      <unitid>WAG.223</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
-        <extent altrender="carrier">in two records cartons, one manuscript box, and one oversized folder.</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1913/1997" type="inclusive">circa 1913-1997</unitdate>
-      <unitdate datechar="creation" normal="1923/1997" type="bulk">1923-1997</unitdate>
-      <abstract id="aspace_2aa2d880d5181d7a60c2cae50ada8750">Joseph Magliacano (July 11, 1897-September 1997) was a labor activist in New Jersey and New York City. The collection contains correspondence and poetry, and notebooks, speeches and materials related to the United Furniture Workers of America (UFWA); it also includes photographs related to Joseph Magliacano's labor union activities (particularly the UFWA) as well as some personal and family photographs.</abstract>
-      <langmaterial id="aspace_475021767bb8eda76c5946c0f72e484e">Materials are in English</langmaterial>
-    </did>
-    <bioghist id="aspace_d3389cbe9171c91b1e448f74d34dd656">
-      <head>Historical/Biographical Note</head>
-      <p>Joseph Magliacano (July 11, 1897-September 1997) was a labor activist in New Jersey and New York City.   He was born in San Mango Piemonte, Italy, a village near Salerno, to a farming family some of whose members also worked in nearby textile factories.  He immigrated to the New York City in 1913, where he became a barber.   Not long after his arrival in the United States, he joined the labor movement and got involved in leftwing politics.  In 1915 he joined a barbers' union, and in 1917 the Socialist Party; in the 1920s and early 1930s he began to work as a union organizer for textile and shoe workers, as well as organizing a relief organization for striking coal miners in Pennsylvania, West Virginia, and Kentucky.  He also organized Italian immigrant textile workers in New Jersey and participated with them in the historic Passaic Strike of 1926, and appeared in the semi-fictional, semi-documentary film,  <emph render="italic">The Passaic Textile Strike</emph>(1926), as himself.  </p>
-      <p>In 1935 Magliacano was appointed organizer for Local 140 Upholstery International Union (UIU), AFL, and participated in successful drives to organize bedding and springs workers.   In December 1937, he was one of the delegates to a conference of breakaway UIU locals that led to the founding of the United Furniture Workers of America (UFWA).  In 1939, he was appointed organizer for the Newark, New Jersey-based Local 92 of the UFWA. He then remained with Local 140--serving as an elected officer in various capacities, as well as a business manager--until his retirement in 1968.   He also ran for political office on the Communist Party of the United States ticket--in 1933, as a candidate for the New York State Assembly (for Kings County, Brooklyn, 3rd District), in 1936, as a candidate for the United States House of Representatives (for New York City's 13th District), and was active in the Italian American anti-fascist movement.  </p>
-    </bioghist>
-    <relatedmaterial id="aspace_35287fa35d1d05e860107b8a197f2e9e">
-      <head>Related Archival Materials</head>
-      <p>There is a lengthy oral history interview (tape and transcript) with Joseph Magliacano  at the American Labor Museum/Botto House in Haledon, New Jersey, on the subject of the 1926 Passaic textile strike.</p>
-      <p>The Passaic textile strike [videorecording] / produced by International Workers' Aid. New York, N.Y. : Museum of Modern Art, c[198-?], silent, black and white, 40 minutes running time.</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_28ebefc051c17d3e6d0ceefed42eadb9">
-      <head>Scope and Content Note</head>
-      <p>The collection contains correspondence and poetry, and notebooks, speeches and materials related to the United Furniture Workers of America (UFWA); it also includes photographs related to Joseph Magliacano's labor union activities (particularly the UFWA) as well as some personal and family photographs.</p>
-    </scopecontent>
-    <processinfo id="aspace_ba9880c7f0b1f58a123833957f5c9b49">
-      <head>Processing Information</head>
-      <p>Photographs from this collection were established as a separate collection, the Joseph Magliacano Photographs (PHOTOS 057).  In June 2013, this photographs collection was reincorporated into the Joseph Magliacano Papers, which was then renamed the Joseph Magliacano Papers and Photographs. Among both papers and photographs there was no original order; arrangement was imposed by archivist.</p>
-    </processinfo>
-    <accessrestrict id="aspace_4d204719ed46c9c14f6a82231289c2fe">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <prefercite id="aspace_f4e8d523fc69d8e4e358b3b10f686e38">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date; Joseph Magliacano Papers and Photographs; WAG 223; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-    </prefercite>
-    <acqinfo id="aspace_14dc1a5d37a4bd9680831f88c80f71ba">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Richard Maglin and Joan Landzberg, children of Joseph Magliacano, in 1998. The accession numbers associated with this gift are 1998.010, 1998.011, and NPA.1998.012.</p>
-    </acqinfo>
-    <userestrict id="aspace_94b19cbbd59cea8209e6156a81e7bb12">
-      <head>Conditions Governing Use</head>
-      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Joseph Magliacano was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
-    </userestrict>
-    <arrangement id="aspace_95e25a7858b1625ee374b05544964caa">
-      <head>Arrangement</head>
-      <p>The files are grouped into two series; folders are arranged alphabetically by topic within Series I, and mostly chronologically within Series II.</p>
-      <p>Series I:  Papers, 1923-1997</p>
-      <p>Series II: Photographs, circa 1913-1989</p>
-    </arrangement>
-    <controlaccess>
-      <genreform source="aat">Black-and-white photographs.</genreform>
-      <genreform source="aat">Color photographs.</genreform>
-      <subject source="lcsh">Italian American labor leaders.</subject>
-      <subject source="local">Italian American communists.</subject>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_223">wag_223</eadid><filedesc><titlestmt><titleproper>Guide to the Joseph Magliacano Papers and Photographs <num>WAG.223</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 12:47:01 -0500</date>.</creation><langusage>English </langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Joseph Magliacano Papers and Photographs</unittitle>
+    <origination label="Creator">
       <persname rules="dacs" source="local">Magliacano, Joseph</persname>
-      <corpname source="naf">United Furniture Workers of America</corpname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Maglin, Richard</persname>
+    </origination>
+    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Joan, Landzberg</persname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref52" level="series">
-        <did>
-          <unittitle>Papers</unittitle>
-          <unitdate datechar="creation" normal="1923/1997" type="inclusive">1923-1997</unitdate>
-        </did>
-        <c id="aspace_ref2" level="file">
-          <did>
-            <unittitle>Awards, Certificates</unittitle>
-            <unitdate datechar="creation" normal="1952/1966" type="inclusive">1952-1966</unitdate>
-            <container altrender="Record carton" id="aspace_86aceb88abf003352c53c9bbb3fba136" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_58f726180644baab9f5f2ab3e6d4df34" parent="aspace_86aceb88abf003352c53c9bbb3fba136" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref3" level="file">
-          <did>
-            <unittitle>Biographical Material</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_9b7d1ba8c652c89cc11d5fbca18ed7c8" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_bda4060b40178fba2e5862c81900257f" parent="aspace_9b7d1ba8c652c89cc11d5fbca18ed7c8" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref4" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_eeaf9e3b5cde67fe96ae027b2372a26f" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_d228dc8da62736b82c935bbe724e2733" parent="aspace_eeaf9e3b5cde67fe96ae027b2372a26f" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref5" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
-            <container altrender="Record carton" id="aspace_df963350798941c175c096b05ddf699b" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_798e75b8c1c08be44f96dc9c36c7f60e" parent="aspace_df963350798941c175c096b05ddf699b" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref6" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
-            <container altrender="Record carton" id="aspace_a070b6eccaf48db019e38c7f20e6df2c" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_143c9c938a6f8d4301b589cf8d2f8cb0" parent="aspace_a070b6eccaf48db019e38c7f20e6df2c" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref7" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Record carton" id="aspace_7db5077da22920969be12dbdf1a58ff9" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_827e17eaee6c7a343a0394a8b17d4e21" parent="aspace_7db5077da22920969be12dbdf1a58ff9" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref8" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
-            <container altrender="Record carton" id="aspace_9565e2b1f30f118ba49d491dc088876f" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_96735628bd510e3bc415ca3c4aa7d2de" parent="aspace_9565e2b1f30f118ba49d491dc088876f" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref9" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate>
-            <container altrender="Record carton" id="aspace_3ef09163ce8b060e9144f1131df8b8f2" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_3bfecfbdc2de57ee9993768da1a8eb0b" parent="aspace_3ef09163ce8b060e9144f1131df8b8f2" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref10" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
-            <container altrender="Record carton" id="aspace_6a3faa9abbf014bf40e625dc0375ca75" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_60864cf54fa4fc830fedefc2194cd6a8" parent="aspace_6a3faa9abbf014bf40e625dc0375ca75" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref11" level="file">
-          <did>
-            <unittitle>Health Care</unittitle>
-            <unitdate datechar="creation" normal="1975/1988" type="inclusive">1975-1988</unitdate>
-            <container altrender="Record carton" id="aspace_1fc6afce8c657f75d16f2969c6e3da52" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_8ac46a1dd11605d96c5af4f0ce483675" parent="aspace_1fc6afce8c657f75d16f2969c6e3da52" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref12" level="file">
-          <did>
-            <unittitle>Health Care and Senior Citizens</unittitle>
-            <unitdate datechar="creation" normal="1973/1992" type="inclusive">1973-1992</unitdate>
-            <container altrender="Record carton" id="aspace_070f915caad7d815bd7643ec9a6102ad" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_b5c1e469cf6a4055b832bf1f7a23a0ae" parent="aspace_070f915caad7d815bd7643ec9a6102ad" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref13" level="file">
-          <did>
-            <unittitle>Magliacano, Lillian (Lee)</unittitle>
-            <unitdate datechar="creation" normal="1957/1980" type="inclusive">1957-1980</unitdate>
-            <container altrender="Record carton" id="aspace_4fa5a3fa0e38ec482aba6c387262c77d" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_6afb5feac584df4620f6d32e7c9c4772" parent="aspace_4fa5a3fa0e38ec482aba6c387262c77d" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Poetry</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_d35217eea8f02e06ddd226f00e5a0e2f" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_6fafae4cfb8cfe7b74d930010f408c82" parent="aspace_d35217eea8f02e06ddd226f00e5a0e2f" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Poetry</unittitle>
-            <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
-            <container altrender="Record carton" id="aspace_082afd1f4f02060f8271c9ed60729184" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_3490762b1fcafb39f0d20a287b8a105b" parent="aspace_082afd1f4f02060f8271c9ed60729184" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Poetry</unittitle>
-            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
-            <container altrender="Record carton" id="aspace_0cc9f2652b6986fe51b386e5246bad04" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_d5434352c72857fe0bf7d8ad65e6f194" parent="aspace_0cc9f2652b6986fe51b386e5246bad04" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Poetry</unittitle>
-            <unitdate datechar="creation" normal="1971/1979" type="inclusive">1971-1979</unitdate>
-            <container altrender="Record carton" id="aspace_21d70cd75446ddf5d2f5ffc6228177e1" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_82b64c239b2fd7d61e4ae6e28775b20c" parent="aspace_21d70cd75446ddf5d2f5ffc6228177e1" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Poetry</unittitle>
-            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate>
-            <container altrender="Record carton" id="aspace_dbccee046ed702703680c22bfd2a121c" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_a4ffc1a2ae315ba34360198ac973a28c" parent="aspace_dbccee046ed702703680c22bfd2a121c" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Poetry</unittitle>
-            <unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate>
-            <container altrender="Record carton" id="aspace_c7300c65288330a1677c3e0ceae58db5" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_28ffbca18dcf74a84e4bfbaede1d6175" parent="aspace_c7300c65288330a1677c3e0ceae58db5" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Publications: Articles by and about JM</unittitle>
-            <unitdate datechar="creation" normal="1956/1992" type="inclusive">1956-1992</unitdate>
-            <container altrender="Record carton" id="aspace_3229ab59cb8b74f1333b7b6c0a04779b" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_cbccf02c71f3393e227bd9fbe1fc3b5d" parent="aspace_3229ab59cb8b74f1333b7b6c0a04779b" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_e82b6a32d9a1015a7fdb7602b1b8deef" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_6201b8c7e3ee26f5e43d504f8a2a50be" parent="aspace_e82b6a32d9a1015a7fdb7602b1b8deef" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America</unittitle>
-            <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
-            <container altrender="Record carton" id="aspace_02e80056ae1841af17b139c26c130a94" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_5cf2f4305c668cb2e730c09267cdc1db" parent="aspace_02e80056ae1841af17b139c26c130a94" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America</unittitle>
-            <unitdate datechar="creation" normal="1951/1959" type="inclusive">1951-1959</unitdate>
-            <container altrender="Record carton" id="aspace_e9978e34a15f2c1e66e77c19d3586127" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_aae9a9c8f6eb8eda3961beb8d865b908" parent="aspace_e9978e34a15f2c1e66e77c19d3586127" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America</unittitle>
-            <unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate>
-            <container altrender="Record carton" id="aspace_905dff226dfb486eb636c62d90b9ccc8" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_f4b399d05d5810cc61ac4c9c14743c1e" parent="aspace_905dff226dfb486eb636c62d90b9ccc8" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America</unittitle>
-            <unitdate datechar="creation" normal="1964/1969" type="inclusive">1964-1969</unitdate>
-            <container altrender="Record carton" id="aspace_8d1a3e9577848069c2e3594b9f626ccc" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_9da447b0f0f9a3b890f4f82cebb1f47d" parent="aspace_8d1a3e9577848069c2e3594b9f626ccc" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America</unittitle>
-            <unitdate datechar="creation" normal="1970/1973" type="inclusive">1970-1973</unitdate>
-            <container altrender="Record carton" id="aspace_564e59421758dc8caa005f2842f8876b" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_39f925bd8276f6b3539677f49298694a" parent="aspace_564e59421758dc8caa005f2842f8876b" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America</unittitle>
-            <unitdate datechar="creation" normal="1980/1988" type="inclusive">1980-1988</unitdate>
-            <container altrender="Record carton" id="aspace_02e90267afa2b3c8b31e69b19606bf8b" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_309943c043a4a5aa986b37be56814970" parent="aspace_02e90267afa2b3c8b31e69b19606bf8b" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America</unittitle>
-            <unitdate datechar="creation" normal="1991/1997" type="inclusive">1991-1992; 1997</unitdate>
-            <container altrender="Record carton" id="aspace_1fdf73c506f2cfd529c1703b636f3520" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_6fa8c96fa8cc08c560947d9e7ee1f4d6" parent="aspace_1fdf73c506f2cfd529c1703b636f3520" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America: Journal</unittitle>
-            <unitdate datechar="creation" normal="1959/1961" type="inclusive">1959-1961</unitdate>
-            <container altrender="Record carton" id="aspace_e0686751f24736305b4c4fc5e6dc453b" label="Mixed Materials [31142062721272]" type="Box">1</container>
-            <container id="aspace_86ac1c2c800cd675459232c5896d8bad" parent="aspace_e0686751f24736305b4c4fc5e6dc453b" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_459b866534d814934b886604a83eee9a" level="file">
-          <did>
-            <unittitle>United Furniture Workers of America: Sticker</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_d83a31c89826ca5856cc3f367bce5745" label="Mixed Materials [31142063434230]" type="Box">Shared Tamiment 060</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Writings (Notebooks)</unittitle>
-            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
-            <container altrender="Record carton" id="aspace_baa6ddbeddca0b9f036ff2e4b486abf4" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_212e89dc1bb93a707cd2b633ec94bfd2" parent="aspace_baa6ddbeddca0b9f036ff2e4b486abf4" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Writings (Notebooks)</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
-            <container altrender="Record carton" id="aspace_5541b863017a27074a37a921460c9212" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_e24334d1662a0ccbebddcbff5481f943" parent="aspace_5541b863017a27074a37a921460c9212" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Writings (Notebooks)</unittitle>
-            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate>
-            <container altrender="Record carton" id="aspace_12b4531f6a92755297d8dafcae4aa749" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_e8536123104c974d893c07e6ab90c21e" parent="aspace_12b4531f6a92755297d8dafcae4aa749" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Writings (Notebooks)</unittitle>
-            <unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate>
-            <container altrender="Record carton" id="aspace_e83d1a9a3b34a72019adaddb7ab2fc70" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_2c8bc03209e64257dedd92d1cd9b05d7" parent="aspace_e83d1a9a3b34a72019adaddb7ab2fc70" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_56041baef5edc872531bd9cc0b530d0e" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_b6060712be17ff99801fc64f3bc407b3" parent="aspace_56041baef5edc872531bd9cc0b530d0e" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_43558f1e166dcf6b4daedcb431961bf7" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_ea479de3fe283dc6fea46442938ad9e4" parent="aspace_43558f1e166dcf6b4daedcb431961bf7" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_8078a233476153da899abec8f442b3d7" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_f6e3dbec4245f53878e12cd2ac4f2402" parent="aspace_8078a233476153da899abec8f442b3d7" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_c5302cad85a040471918c5d9de8860bc" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_ef9b801485b1fa0b3c36a932d58a181f" parent="aspace_c5302cad85a040471918c5d9de8860bc" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <container altrender="Record carton" id="aspace_bab1d665157d51a19c1c2754ef4cb5f1" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_b0066759385e5f6ed4bc618a583d503d" parent="aspace_bab1d665157d51a19c1c2754ef4cb5f1" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1920/1929" type="inclusive">1920s</unitdate>
-            <container altrender="Record carton" id="aspace_0960cb44b6bc56887289d82e964fb02c" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_b03f854758dc396ef9d7476e63c83af6" parent="aspace_0960cb44b6bc56887289d82e964fb02c" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate>
-            <container altrender="Record carton" id="aspace_17767822cc69596987a38c02e3e020bb" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_159e21273d9d917e5f438c9838013888" parent="aspace_17767822cc69596987a38c02e3e020bb" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate>
-            <container altrender="Record carton" id="aspace_96e79bbdf8838dd5ba9e4ccdad04b5eb" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_cc7ec3bd457a64f7c8f6f1d1e12ee226" parent="aspace_96e79bbdf8838dd5ba9e4ccdad04b5eb" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
-            <container altrender="Record carton" id="aspace_b49d1ecad96894d69686f9ec28ce5fda" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_632252e724d9dc4a199e41e3c1f7d4c2" parent="aspace_b49d1ecad96894d69686f9ec28ce5fda" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate>
-            <container altrender="Record carton" id="aspace_46cf137e478703b09f7c151cd302ba82" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_01aa78d505d0acc024bec3ef0365ee62" parent="aspace_46cf137e478703b09f7c151cd302ba82" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
-            <container altrender="Record carton" id="aspace_efdae7269a311cd519baa953b5318bd9" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_ac5c84206a65db7b58138c5569cd7fb6" parent="aspace_efdae7269a311cd519baa953b5318bd9" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
-            <container altrender="Record carton" id="aspace_a22bd67df73aacfe520508b5ba54694b" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_606c1974df0cdb16f5a41aef42818771" parent="aspace_a22bd67df73aacfe520508b5ba54694b" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate>
-            <container altrender="Record carton" id="aspace_d59e73e89e2b185851af8807e2152145" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_4fbbc1ebf577bc7f2a29f785729b65e3" parent="aspace_d59e73e89e2b185851af8807e2152145" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>Writings, Speeches</unittitle>
-            <unitdate datechar="creation" normal="1990/1999" type="inclusive">1990s</unitdate>
-            <container altrender="Record carton" id="aspace_ca97f449a2dd1bc9c3a1567ba68e45e3" label="Mixed Materials [31142062721280]" type="Box">2</container>
-            <container id="aspace_afec5ad49931d1b06ff5f80d054aeae0" parent="aspace_ca97f449a2dd1bc9c3a1567ba68e45e3" type="Folder">18</container>
-          </did>
-        </c>
-      </c>
-      <c id="aspace_ref53" level="series">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <unitdate datechar="creation" normal="1913/1989" type="inclusive">circa 1913-1989</unitdate>
-        </did>
-        <scopecontent id="aspace_ba58b910230e80bbb071d64394e3b18e">
-          <head>Scope and Content Note</head>
-          <p>112 photographic prints, all are black and white, with the exception of three color prints.  Three are also oversized. Folder of materials on testimonial dinner dance held in honor of Joseph Magliacan includes original front cover for album that contained this group of photographs and booklet distributed at the event that contains a photograph, brief biographical sketch and greetings from Magliacano's friends, family, and supporters.</p>
-        </scopecontent>
-        <c id="aspace_ref54" level="file">
-          <did>
-            <unittitle>1920s</unittitle>
-            <unitdate datechar="creation" normal="1920/1929" type="inclusive">circa 1920-1929</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_949902c159efe32ff2d311cc2af0bdf6" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_de4962cc0019801f69d07fc3e64041f3" parent="aspace_949902c159efe32ff2d311cc2af0bdf6" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="file">
-          <did>
-            <unittitle>1930s</unittitle>
-            <unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930-1939</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_759f8368e172665433497f2810581917" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_5649a1c6dc4b263f45af4ad04d083684" parent="aspace_759f8368e172665433497f2810581917" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref57" level="file">
-          <did>
-            <unittitle>1940s</unittitle>
-            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1941-1942, 1944-1945, 1948</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_e3c035c5eccbba651195d27e61541f86" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_d4cca517629c872415abce250315b043" parent="aspace_e3c035c5eccbba651195d27e61541f86" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref58" level="file">
-          <did>
-            <unittitle>1940s</unittitle>
-            <unitdate datechar="creation" normal="1940/1949" type="inclusive">circa 1940-1949</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_64805a9fef4044c877d3a1727f5fcfd9" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_77fffc5bfdf18fde98c4acc02f590b37" parent="aspace_64805a9fef4044c877d3a1727f5fcfd9" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref59" level="file">
-          <did>
-            <unittitle>1957</unittitle>
-            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_a94bfba13d95e1f5357a99db7c182a68" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_2c9c643a97b51279f26328dcc178e822" parent="aspace_a94bfba13d95e1f5357a99db7c182a68" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref60" level="file">
-          <did>
-            <unittitle>1950s</unittitle>
-            <unitdate datechar="creation" normal="1950/1959" type="inclusive">circa 1950-1959</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_f334c14528dbcfb3045dc96b3a7950b2" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_b9408672b2e2d3f84b073e90af3c18be" parent="aspace_f334c14528dbcfb3045dc96b3a7950b2" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref61" level="file">
-          <did>
-            <unittitle>Testimonial Dinner - Dance in Honor of Joseph Magliacano given by Local 92, United Furniture Workers - AFL-CIO, at Hotel Robert Treat, Newark, New Jersey.</unittitle>
-            <unitdate datechar="creation" normal="1960/1960" type="inclusive">March 12, 1960</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_1390b22fca5285f4996821557fb1738a" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_16cc4d3ff3ff82534822f053fd30ac43" parent="aspace_1390b22fca5285f4996821557fb1738a" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref63" level="file">
-          <did>
-            <unittitle>Local 92 United Furniture Workers First Pensioners Dinner</unittitle>
-            <unitdate datechar="creation" normal="1961/1961" type="inclusive">circa March 21, 1961</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_3030c975c31732cb8ed588d80fa78fc3" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_8b9d3d1fdb06e4df91c80d19bec29781" parent="aspace_3030c975c31732cb8ed588d80fa78fc3" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref64" level="file">
-          <did>
-            <unittitle>Testimonial Dinner and Dance [for Joseph Magliacano's retirement] Held at the Forum Room, Thomm's Restaurant, Newark, New Jersey</unittitle>
-            <unitdate datechar="creation" normal="1968/1968" type="inclusive">April 26, 1968</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_bce148639f25d77f884045618cddfd22" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_e4c0da03d13cfd109d64bf1090cd73f8" parent="aspace_bce148639f25d77f884045618cddfd22" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref65" level="file">
-          <did>
-            <unittitle>1960s</unittitle>
-            <unitdate datechar="creation" normal="1960/1969" type="inclusive">circa 1960-1969</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_d07f3daa3474087c941cbfaf5d4d3f13" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_d06e83774440d7fb458775b75510894e" parent="aspace_d07f3daa3474087c941cbfaf5d4d3f13" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref66" level="file">
-          <did>
-            <unittitle>1980s</unittitle>
-            <unitdate datechar="creation" normal="1980/1989" type="inclusive">circa 1980-1989</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_b60f808a268e123679e4405697e268ed" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_9956e7bd3534e9d401f53d055167c9bc" parent="aspace_b60f808a268e123679e4405697e268ed" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref67" level="file">
-          <did>
-            <unittitle>Personal/Family Photographs</unittitle>
-            <unitdate datechar="creation" normal="1913/1989" type="inclusive">circa 1913-1989</unitdate>
-            <container altrender="Manuscript box - Legal - Half" id="aspace_f8cb968699da86ac606996ab8a661656" label="photographs [31142062721298]" type="Box">3</container>
-            <container id="aspace_09e7df5132a9644df4f683341fd3f823" parent="aspace_f8cb968699da86ac606996ab8a661656" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref69" level="file">
-          <did>
-            <unittitle>Oversized Photographs</unittitle>
-            <unitdate datechar="creation" normal="1939/1956" type="inclusive">1939, 1941, 1956, undated</unitdate>
-            <container altrender="Flat OS Box 17" id="aspace_e572d94f8a2aafc456346a81cbcb887f" label="photographs [31142062759793]" type="Box">Tamiment Shared OS002</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+    </origination>
+    <unitid>WAG.223</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+      <extent altrender="carrier">in two records cartons, one manuscript box, and one oversized folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1913/1997" type="inclusive">circa 1913-1997</unitdate>
+    <unitdate datechar="creation" normal="1923/1997" type="bulk">1923-1997</unitdate>
+    <abstract id="aspace_2aa2d880d5181d7a60c2cae50ada8750">Joseph Magliacano (July 11, 1897-September 1997) was a labor activist in New Jersey and New York City. The collection contains correspondence and poetry, and notebooks, speeches and materials related to the United Furniture Workers of America (UFWA); it also includes photographs related to Joseph Magliacano's labor union activities (particularly the UFWA) as well as some personal and family photographs.</abstract>
+    <langmaterial id="aspace_475021767bb8eda76c5946c0f72e484e">Materials are in English</langmaterial>
+  </did>
+  <bioghist id="aspace_d3389cbe9171c91b1e448f74d34dd656">
+    <head>Historical/Biographical Note</head>
+<p>Joseph Magliacano (July 11, 1897-September 1997) was a labor activist in New Jersey and New York City.   He was born in San Mango Piemonte, Italy, a village near Salerno, to a farming family some of whose members also worked in nearby textile factories.  He immigrated to the New York City in 1913, where he became a barber.   Not long after his arrival in the United States, he joined the labor movement and got involved in leftwing politics.  In 1915 he joined a barbers' union, and in 1917 the Socialist Party; in the 1920s and early 1930s he began to work as a union organizer for textile and shoe workers, as well as organizing a relief organization for striking coal miners in Pennsylvania, West Virginia, and Kentucky.  He also organized Italian immigrant textile workers in New Jersey and participated with them in the historic Passaic Strike of 1926, and appeared in the semi-fictional, semi-documentary film,  <emph render="italic">The Passaic Textile Strike</emph>(1926), as himself.  </p><p>In 1935 Magliacano was appointed organizer for Local 140 Upholstery International Union (UIU), AFL, and participated in successful drives to organize bedding and springs workers.   In December 1937, he was one of the delegates to a conference of breakaway UIU locals that led to the founding of the United Furniture Workers of America (UFWA).  In 1939, he was appointed organizer for the Newark, New Jersey-based Local 92 of the UFWA. He then remained with Local 140--serving as an elected officer in various capacities, as well as a business manager--until his retirement in 1968.   He also ran for political office on the Communist Party of the United States ticket--in 1933, as a candidate for the New York State Assembly (for Kings County, Brooklyn, 3rd District), in 1936, as a candidate for the United States House of Representatives (for New York City's 13th District), and was active in the Italian American anti-fascist movement.  </p>  </bioghist>
+  <relatedmaterial id="aspace_35287fa35d1d05e860107b8a197f2e9e">
+    <head>Related Archival Materials</head>
+<p>There is a lengthy oral history interview (tape and transcript) with Joseph Magliacano  at the American Labor Museum/Botto House in Haledon, New Jersey, on the subject of the 1926 Passaic textile strike.</p><p>The Passaic textile strike [videorecording] / produced by International Workers' Aid. New York, N.Y. : Museum of Modern Art, c[198-?], silent, black and white, 40 minutes running time.</p>  </relatedmaterial>
+  <scopecontent id="aspace_28ebefc051c17d3e6d0ceefed42eadb9">
+    <head>Scope and Content Note</head>
+<p>The collection contains correspondence and poetry, and notebooks, speeches and materials related to the United Furniture Workers of America (UFWA); it also includes photographs related to Joseph Magliacano's labor union activities (particularly the UFWA) as well as some personal and family photographs.</p>  </scopecontent>
+  <processinfo id="aspace_ba9880c7f0b1f58a123833957f5c9b49">
+    <head>Processing Information</head>
+<p>Photographs from this collection were established as a separate collection, the Joseph Magliacano Photographs (PHOTOS 057).  In June 2013, this photographs collection was reincorporated into the Joseph Magliacano Papers, which was then renamed the Joseph Magliacano Papers and Photographs. Among both papers and photographs there was no original order; arrangement was imposed by archivist.</p>  </processinfo>
+  <accessrestrict id="aspace_4d204719ed46c9c14f6a82231289c2fe">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <prefercite id="aspace_f4e8d523fc69d8e4e358b3b10f686e38">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Joseph Magliacano Papers and Photographs; WAG 223; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <acqinfo id="aspace_14dc1a5d37a4bd9680831f88c80f71ba">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Richard Maglin and Joan Landzberg, children of Joseph Magliacano, in 1998. The accession numbers associated with this gift are 1998.010, 1998.011, and NPA.1998.012.</p>  </acqinfo>
+  <userestrict id="aspace_94b19cbbd59cea8209e6156a81e7bb12">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Joseph Magliacano was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <arrangement id="aspace_95e25a7858b1625ee374b05544964caa">
+    <head>Arrangement</head>
+<p>The files are grouped into two series; folders are arranged alphabetically by topic within Series I, and mostly chronologically within Series II.</p><p>Series I:  Papers, 1923-1997</p><p>Series II: Photographs, circa 1913-1989</p>  </arrangement>
+  <controlaccess>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <genreform source="aat">Color photographs.</genreform>
+    <subject source="lcsh">Italian American labor leaders.</subject>
+    <subject source="local">Italian American communists.</subject>
+    <persname rules="dacs" source="local">Magliacano, Joseph</persname>
+    <corpname authfilenumber="(lccn)n85185761" source="naf">United Furniture Workers of America</corpname>
+    <persname role="dnr" rules="dacs" source="local">Maglin, Richard</persname>
+    <persname role="dnr" rules="dacs" source="local">Joan, Landzberg</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref52" level="series"><did><unittitle>Papers</unittitle><unitdate datechar="creation" normal="1923/1997" type="inclusive">1923-1997</unitdate></did><c id="aspace_ref2" level="file"><did><unittitle>Awards, Certificates</unittitle><unitdate datechar="creation" normal="1952/1966" type="inclusive">1952-1966</unitdate><container altrender="Record carton" id="aspace_c1f76c78b8a481c428aa8a5eb9c1d182" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_fba7e647c925ec634b95254a6c61e25e" parent="aspace_c1f76c78b8a481c428aa8a5eb9c1d182" type="Folder">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Biographical Material</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_b9f1f3df3ef3f393692823a41c7ce46a" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_7b38996717b3617a5bfe2566455c005e" parent="aspace_b9f1f3df3ef3f393692823a41c7ce46a" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_6afae4e902a31c4563d8f0d7ed29093e" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_60ea82574008f69b05f54492ab2fb875" parent="aspace_6afae4e902a31c4563d8f0d7ed29093e" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_67ce33b42f2577d5830e043a03ed8047" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_11eee8ccc7bcedb6ec50d492f608f7f3" parent="aspace_67ce33b42f2577d5830e043a03ed8047" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate><container altrender="Record carton" id="aspace_f79dfbe5d15292233f19b8530a630414" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_057160d6f9fb453666533cc6b2b74584" parent="aspace_f79dfbe5d15292233f19b8530a630414" type="Folder">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Record carton" id="aspace_edcdba97654609fbf12d09cb43683c0a" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_67384ab52321ecd4f4d5fbce48abb5c0" parent="aspace_edcdba97654609fbf12d09cb43683c0a" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate><container altrender="Record carton" id="aspace_a19f16c47cf0dfd7ba48cea0b0916ca3" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_01c064ecb1b0ddd1102f558d2b86c839" parent="aspace_a19f16c47cf0dfd7ba48cea0b0916ca3" type="Folder">7</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate><container altrender="Record carton" id="aspace_0c4e150ddbeb60e403468532b1be8846" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_1a6888ec41adcd3b9ec6ed809de69fcf" parent="aspace_0c4e150ddbeb60e403468532b1be8846" type="Folder">8</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate><container altrender="Record carton" id="aspace_72d3fe08e9badda442cf9d8ad11506e8" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_dee41c96555c32d95aeecf97b604a3f0" parent="aspace_72d3fe08e9badda442cf9d8ad11506e8" type="Folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Health Care</unittitle><unitdate datechar="creation" normal="1975/1988" type="inclusive">1975-1988</unitdate><container altrender="Record carton" id="aspace_e1681b679692d7087162a243055be50f" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_64d7c295c2f5fd4c4ac52aa6e78f40b6" parent="aspace_e1681b679692d7087162a243055be50f" type="Folder">10</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Health Care and Senior Citizens</unittitle><unitdate datechar="creation" normal="1973/1992" type="inclusive">1973-1992</unitdate><container altrender="Record carton" id="aspace_1a01c7472b1dd2f2a91a3affd9352f65" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_f9d1059bafec72da3637044990753d73" parent="aspace_1a01c7472b1dd2f2a91a3affd9352f65" type="Folder">11</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Magliacano, Lillian (Lee)</unittitle><unitdate datechar="creation" normal="1957/1980" type="inclusive">1957-1980</unitdate><container altrender="Record carton" id="aspace_b436a144de2baeb31a257b0a56c547d5" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_3b59096a7d126e876565401e4d7b02e2" parent="aspace_b436a144de2baeb31a257b0a56c547d5" type="Folder">12</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Poetry</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_ee17dec5be41541bb20ff82828de7c96" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_cef6f889c68e13c5a3b0dcb89896cce4" parent="aspace_ee17dec5be41541bb20ff82828de7c96" type="Folder">13</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Poetry</unittitle><unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate><container altrender="Record carton" id="aspace_0c0b6bd30ac92bd5e793f334d668f93a" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_cb68f4b0bbcee493a914e75e9375daad" parent="aspace_0c0b6bd30ac92bd5e793f334d668f93a" type="Folder">14</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Poetry</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Record carton" id="aspace_f1bf068a797a3d6d38de40fc23c89d3d" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_1657d45972aaa76a041f950e3d4246a9" parent="aspace_f1bf068a797a3d6d38de40fc23c89d3d" type="Folder">15</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Poetry</unittitle><unitdate datechar="creation" normal="1971/1979" type="inclusive">1971-1979</unitdate><container altrender="Record carton" id="aspace_13e3dc692671451ab8f983aa9987393d" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_4778c5b48e7308afd46343bb44859d10" parent="aspace_13e3dc692671451ab8f983aa9987393d" type="Folder">16</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Poetry</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate><container altrender="Record carton" id="aspace_ae6a4537ccfb06db6800e208f55451a6" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_a366dfdf2571cf287c308b442dcafdf5" parent="aspace_ae6a4537ccfb06db6800e208f55451a6" type="Folder">17</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Poetry</unittitle><unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate><container altrender="Record carton" id="aspace_7aafa0659017e631d6863d1d75353e1c" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_7a4ca98a6d9531c5b90e133a4fea5053" parent="aspace_7aafa0659017e631d6863d1d75353e1c" type="Folder">18</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Publications: Articles by and about JM</unittitle><unitdate datechar="creation" normal="1956/1992" type="inclusive">1956-1992</unitdate><container altrender="Record carton" id="aspace_6fd3bf3788c8e3d60f6853a8fbdf1440" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_cb0884841ca78614975b4048f2d6b244" parent="aspace_6fd3bf3788c8e3d60f6853a8fbdf1440" type="Folder">19</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>United Furniture Workers of America</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_eb775d5fe2dfd067a3d896628a080ce2" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_ebbfc9aa7b3f221a25051acd4b24c4f1" parent="aspace_eb775d5fe2dfd067a3d896628a080ce2" type="Folder">20</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>United Furniture Workers of America</unittitle><unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate><container altrender="Record carton" id="aspace_c462f9bd78cf6be6faee9a0894182ce0" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_abce138f9c092daf97d0a837bf72aab4" parent="aspace_c462f9bd78cf6be6faee9a0894182ce0" type="Folder">21</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>United Furniture Workers of America</unittitle><unitdate datechar="creation" normal="1951/1959" type="inclusive">1951-1959</unitdate><container altrender="Record carton" id="aspace_45288ade054098704554934ca3783218" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_333a18add8d57fd7d8aab8f45e6e3cf0" parent="aspace_45288ade054098704554934ca3783218" type="Folder">22</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>United Furniture Workers of America</unittitle><unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate><container altrender="Record carton" id="aspace_43bb0dac4f2f5d51edcdf919cfe4c51a" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_0bdee870f4407213b6d79cb5d7c0b554" parent="aspace_43bb0dac4f2f5d51edcdf919cfe4c51a" type="Folder">23</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>United Furniture Workers of America</unittitle><unitdate datechar="creation" normal="1964/1969" type="inclusive">1964-1969</unitdate><container altrender="Record carton" id="aspace_7e11fbe8e7449bc9735585364d96e77f" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_1d99aec5614813728366f70a7d170d91" parent="aspace_7e11fbe8e7449bc9735585364d96e77f" type="Folder">24</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>United Furniture Workers of America</unittitle><unitdate datechar="creation" normal="1970/1973" type="inclusive">1970-1973</unitdate><container altrender="Record carton" id="aspace_1fd2915eb513ee9545208f4e83122323" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_a3f50be34d7f8446376402b7b9bfd00b" parent="aspace_1fd2915eb513ee9545208f4e83122323" type="Folder">25</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>United Furniture Workers of America</unittitle><unitdate datechar="creation" normal="1980/1988" type="inclusive">1980-1988</unitdate><container altrender="Record carton" id="aspace_1f2c08842cbbca0030d28bee92287254" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_641826eed54776eb7d3c1723ea589210" parent="aspace_1f2c08842cbbca0030d28bee92287254" type="Folder">26</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>United Furniture Workers of America</unittitle><unitdate datechar="creation" normal="1991/1997" type="inclusive">1991-1992; 1997</unitdate><container altrender="Record carton" id="aspace_1edd5cd064117fd4ac7c5f39d31e9667" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_a14c8ae6333f59585a8105f161b5930b" parent="aspace_1edd5cd064117fd4ac7c5f39d31e9667" type="Folder">27</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>United Furniture Workers of America: Journal</unittitle><unitdate datechar="creation" normal="1959/1961" type="inclusive">1959-1961</unitdate><container altrender="Record carton" id="aspace_94402e3f1dc197dfa2b426364d3ff1cc" label="Mixed Materials [31142062721272]" type="Box">1</container><container id="aspace_14c5fd97adc7d116ae3ce18574a891f2" parent="aspace_94402e3f1dc197dfa2b426364d3ff1cc" type="Folder">28</container></did></c><c id="aspace_459b866534d814934b886604a83eee9a" level="file"><did><unittitle>United Furniture Workers of America: Sticker</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ecfde42fde78464d2b481392e2b16f1" label="Mixed Materials [31142063434230]" type="Box">Shared Tamiment 060</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Writings (Notebooks)</unittitle><unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Record carton" id="aspace_08ca3d08e0d775607f8b6b3e40cb7e07" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_323726c0cb4f809dd1ba6ce27380a603" parent="aspace_08ca3d08e0d775607f8b6b3e40cb7e07" type="Folder">1</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Writings (Notebooks)</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate><container altrender="Record carton" id="aspace_5f22b5c40109bbf2e6a354f0bb4bbad2" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_9b61b53e546e320b103077f7e2546092" parent="aspace_5f22b5c40109bbf2e6a354f0bb4bbad2" type="Folder">2</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Writings (Notebooks)</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate><container altrender="Record carton" id="aspace_dc5736ad1f4a4c1128c9bcc8c541119d" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_3d603d92e5289d7a2fa8018e893bdbf3" parent="aspace_dc5736ad1f4a4c1128c9bcc8c541119d" type="Folder">3</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Writings (Notebooks)</unittitle><unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate><container altrender="Record carton" id="aspace_8bf20ecd7dc11e819c1225fc62b0dd8b" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_e0bb8af0308a1a01010ddf068a0d8a80" parent="aspace_8bf20ecd7dc11e819c1225fc62b0dd8b" type="Folder">4</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_ef32d664624bb0eca26ca810f358ae2f" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_d2ebae722f5265fcd1dcd7fcc30c10f9" parent="aspace_ef32d664624bb0eca26ca810f358ae2f" type="Folder">5</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_3d657a84cb464ae1950379feaeced398" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_91bd91fb818bb7dc10a5400545c9431f" parent="aspace_3d657a84cb464ae1950379feaeced398" type="Folder">6</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_10a3543073a60a6a917260e92c7c6426" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_aea48f424cb818f80293f97d86e58b59" parent="aspace_10a3543073a60a6a917260e92c7c6426" type="Folder">7</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_3805b2b077e0feb97fd125674a2ea0e0" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_15ba788eb3f8781e9ab9216c78459c1a" parent="aspace_3805b2b077e0feb97fd125674a2ea0e0" type="Folder">8</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_fb1b86f9ff6ab101ce339dccee591e45" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_2e9ffec48ad39c6501b6b247fe2c3acd" parent="aspace_fb1b86f9ff6ab101ce339dccee591e45" type="Folder">9</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1920/1929" type="inclusive">1920s</unitdate><container altrender="Record carton" id="aspace_34cb021c2d496e5544d0af532750d6a0" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_fcd7aeee5bf8b5126f9540967fa95619" parent="aspace_34cb021c2d496e5544d0af532750d6a0" type="Folder">10</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate><container altrender="Record carton" id="aspace_94a45e54a1a5eed6d6c009bbdce28fe8" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_078b5708bc86a0c18faecdb64f11e858" parent="aspace_94a45e54a1a5eed6d6c009bbdce28fe8" type="Folder">11</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate><container altrender="Record carton" id="aspace_8e2833cf208316c7c94e51f4db244ad3" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_4b86199d64d51f609b6b4e74df1af825" parent="aspace_8e2833cf208316c7c94e51f4db244ad3" type="Folder">12</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate><container altrender="Record carton" id="aspace_1f131105eefa2b2d8d3a3285dff4d747" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_aedc5400e9da6d45cdc1551d4919c9b2" parent="aspace_1f131105eefa2b2d8d3a3285dff4d747" type="Folder">13</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_b6f915bf8061cf0947c255e9aba2ff1a" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_0e8e13601bd7630456f24c20453ee76c" parent="aspace_b6f915bf8061cf0947c255e9aba2ff1a" type="Folder">14</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_85e25cf987bbfd5d00d925daf7dc31c0" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_2f883692ac09782e28383385088fde60" parent="aspace_85e25cf987bbfd5d00d925daf7dc31c0" type="Folder">15</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_49e85915d97eef8ff856b4a2a3e9611d" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_c1138d67afcc523908c5cbf94d528ee2" parent="aspace_49e85915d97eef8ff856b4a2a3e9611d" type="Folder">16</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_4bb785c5c58941fb885c9bb9063f8ae3" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_1499dd4e1c37d2b4c7a93e5259a84de6" parent="aspace_4bb785c5c58941fb885c9bb9063f8ae3" type="Folder">17</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Writings, Speeches</unittitle><unitdate datechar="creation" normal="1990/1999" type="inclusive">1990s</unitdate><container altrender="Record carton" id="aspace_d15e4b8f1d108694b56c3206a9230783" label="Mixed Materials [31142062721280]" type="Box">2</container><container id="aspace_096a3c58ae03ac16cd9374d75b7bbc38" parent="aspace_d15e4b8f1d108694b56c3206a9230783" type="Folder">18</container></did></c></c><c id="aspace_ref53" level="series"><did><unittitle>Photographs</unittitle><unitdate datechar="creation" normal="1913/1989" type="inclusive">circa 1913-1989</unitdate></did><scopecontent id="aspace_ba58b910230e80bbb071d64394e3b18e"><head>Scope and Content Note</head><p>112 photographic prints, all are black and white, with the exception of three color prints.  Three are also oversized. Folder of materials on testimonial dinner dance held in honor of Joseph Magliacan includes original front cover for album that contained this group of photographs and booklet distributed at the event that contains a photograph, brief biographical sketch and greetings from Magliacano's friends, family, and supporters.</p></scopecontent><c id="aspace_ref54" level="file"><did><unittitle>1920s</unittitle><unitdate datechar="creation" normal="1920/1929" type="inclusive">circa 1920-1929</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9e90f0a101cea63ec68812f5aecbf111" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_8daabd29bbb6da28e0189b0d4a11d654" parent="aspace_9e90f0a101cea63ec68812f5aecbf111" type="Folder">1</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>1930s</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930-1939</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3dd93c52a8dc71f15a18a05b6263b4a7" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_086007e904badc1492f205091aef7086" parent="aspace_3dd93c52a8dc71f15a18a05b6263b4a7" type="Folder">2</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>1940s</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">1941-1942, 1944-1945, 1948</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1b4a6bee828c1d0edff8548df77a4f7f" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_a5d4b769693a9fe2e063bafe0528ae07" parent="aspace_1b4a6bee828c1d0edff8548df77a4f7f" type="Folder">3</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>1940s</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">circa 1940-1949</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0962e7af28e6d4a5645c027b7f5124c6" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_96fa615615b7ae5e37c4e55ea8fe0d3d" parent="aspace_0962e7af28e6d4a5645c027b7f5124c6" type="Folder">4</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>1957</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_15a8c83e199841f42ad6b65312899181" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_ae7c9afc6197c92efc64b008cde0e505" parent="aspace_15a8c83e199841f42ad6b65312899181" type="Folder">5</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>1950s</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">circa 1950-1959</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_134793ff6f1d78f91d6e536fd26b7902" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_d566ddde32d407eaa14b32df20550f2c" parent="aspace_134793ff6f1d78f91d6e536fd26b7902" type="Folder">6</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Testimonial Dinner - Dance in Honor of Joseph Magliacano given by Local 92, United Furniture Workers - AFL-CIO, at Hotel Robert Treat, Newark, New Jersey.</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">March 12, 1960</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_670f5f94cb3cd82b694915ede9d2267b" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_ec514b632973696d170d8299ac7e6c66" parent="aspace_670f5f94cb3cd82b694915ede9d2267b" type="Folder">7</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Local 92 United Furniture Workers First Pensioners Dinner</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">circa March 21, 1961</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9c0e59a0ba4a687f47d4b9a43f28831d" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_37bdba6baa342252f0537c2f6bfd4aa9" parent="aspace_9c0e59a0ba4a687f47d4b9a43f28831d" type="Folder">8</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Testimonial Dinner and Dance [for Joseph Magliacano's retirement] Held at the Forum Room, Thomm's Restaurant, Newark, New Jersey</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">April 26, 1968</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_87f2ff09d5524b6fe56438957a9f5a5e" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_18b9f6bbcf940d1d6dfd07f3f020c13a" parent="aspace_87f2ff09d5524b6fe56438957a9f5a5e" type="Folder">9</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>1960s</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">circa 1960-1969</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_faa3db29c1f015ddf4b2bf713bf829b7" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_aaf7042128752b1c116f4dd607a9eb98" parent="aspace_faa3db29c1f015ddf4b2bf713bf829b7" type="Folder">10</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>1980s</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">circa 1980-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_36dff649198789824d9dc0f251640077" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_cf23d2bc2258ef4468120346239c8333" parent="aspace_36dff649198789824d9dc0f251640077" type="Folder">11</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Personal/Family Photographs</unittitle><unitdate datechar="creation" normal="1913/1989" type="inclusive">circa 1913-1989</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5e3c2c1445ef3010626faafcd6c58b3c" label="Mixed Materials [31142062721298]" type="Box">3</container><container id="aspace_a757aca130f45c536e097902dde00665" parent="aspace_5e3c2c1445ef3010626faafcd6c58b3c" type="Folder">12</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Oversized Photographs</unittitle><unitdate datechar="creation" normal="1939/1956" type="inclusive">1939, 1941, 1956, undated</unitdate><container altrender="Flat OS Box 17" id="aspace_2234989639229e87c4d291fb9a95b3c4" label="Mixed Materials [31142062759793]" type="Box">Shared Tamiment OS002</container></did></c></c></dsc>
+</archdesc>
 </ead>

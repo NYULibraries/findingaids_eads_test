@@ -1,417 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_25">mc_25</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Charles H. Snow Collection on NYU During World War I <num>MC.25</num></titleproper>
-        <author>Steven A. Walker. Electronic version and additional description prepared by Deborah Shapiro.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New York University Archives</publisher>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:32:50 -0500</date>.</creation>
-      <langusage>Finding aid written in English.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>June 2019</date>
-        <item>Updated by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New York University Archives</corpname>
-      </repository>
-      <unittitle>Charles H. Snow Collection on NYU During World War I</unittitle>
-      <origination label="Creator">
-        <persname rules="dacs" source="naf">Snow, Charles H. (Charles Henry), 1863-1957</persname>
-      </origination>
-      <origination label="source">
-        <persname rules="dacs" source="local">Jones, Theodore Francis, 1885-1968</persname>
-      </origination>
-      <unitid>MC.25</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-        <extent altrender="carrier">in 3 manuscript boxes</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1917/1943" type="inclusive">1917-1943</unitdate>
-      <unitdate datechar="creation" normal="1933/1943" type="bulk">1933-1943</unitdate>
-      <abstract id="aspace_79939cda3ce97498ce71de7a41924f3a">Charles Henry Snow was a dean of New York University's (NYU) School of Civil Engineering. This collection consists of material generated or collected in conjunction with Snow's unpublished manuscript, "The Camp on Campus: The Great War as Observed From a College Campus," which chronicles New York University's involvement with the military during World War I.</abstract>
-      <physloc id="aspace_dc62fe9fcfcf15205143bd20d173590a">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-      <langmaterial id="aspace_9a13b9ad101077b5093d6b054c7cb261">Materials are in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_f0d672f6f3075d0d0e9b386d8a8d6bdc">
-      <head>Conditions Governing Access</head>
-      <p>Materials are open without restrictions.</p>
-    </accessrestrict>
-    <arrangement id="aspace_b1b4a41c2b7f61c5d1bea587cac326cf">
-      <head>Arrangement</head>
-      <p>The collection has been arranged into two series. Series I contains correspondence and memoranda Dean Snow collected in obtaining source material for his manuscript. Series II contains several different versions and revisions of the manuscript itself over a period of thirteen years.</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>Series I: Correspondence and Memoranda</item>
-        <item>Series II: "The Camp on Campus" (Manuscript)</item>
-      </list>
-    </arrangement>
-    <bioghist id="aspace_cf7c88e84db1bf1951dc2c0362cea638">
-      <head>Biographical Note</head>
-      <p>Charles Henry Snow was born in New York City on March 24, 1863. He attended New York University's (NYU) School of Civil Engineering and graduated in 1886. He received an honorary Sc.M. in 1894 and a Sc.D. in 1898 from the Western University of Pennsylvania (now the University of Pittsburgh). He joined NYU's Engineering faculty in 1891, and, in 1897, became Dean of the School of Civil Engineering.</p>
-      <p>In 1899 school's name was changed to the School of Applied Science (and was later changed to the College of Engineering). With Dean Snow at its helm, the school played a leading role during World War I, as NYU was one of the first universities to respond to President Woodrow Wilson's call for the training of engineering personnel. Dean Snow was the civilian director of the National Army Training Detachment (later Student Army Training Corps, Section B), where eleven hundred "Fighting Mechanics" were trained at NYU's campus at University Heights. As civilian director of these units, Dean Snow acted as liaison between the U.S. War Department and the University.</p>
-      <p>Dean Snow was author of "The Principal Species of Wood," (1903, 1908); "Wood and Other Organic Structure Materials," (1917); and several other papers in transactions with technical societies. He was also a member of New York City Mayor's Commission for National Defense, 1915-18; New York City Mayor's Committee of Citizens to arrange the Public Celebration of July Fourth, 1916-17; and a U.S. War Department appraisal expert, aircraft production, service at large, 1919.</p>
-      <p>Dean Snow served as Vice President of the NYU Senate from 1920 to 1931 and was named emeritus dean in 1930. He died October 29, 1957.</p>
-    </bioghist>
-    <custodhist id="aspace_8aa756a6c70e520cd4eb9386234a9e30">
-      <head>Custodial History</head>
-      <p>The papers of Charles H. Snow were a part of a larger College of Engineering historical collection that covered the years 1897-1956. The collection was most likely accumulated at the University Heights Library over a period of approximately twenty years and was transferred to the University Archives when the School of Engineering closed in 1973.</p>
-    </custodhist>
-    <prefercite id="aspace_9f320311a9f1e591f08f1e575f428a97">
-      <head>Preferred Citation</head>
-      <p>Identification of item, date (if known); Charles H. Snow Papers; MC 25; box number; folder number; New York University Archives.</p>
-    </prefercite>
-    <relatedmaterial id="aspace_a58a09b404172832190713e184fd10c8">
-      <head>Related Materials</head>
-      <p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/satc/">Records of the Student Army Training Corps (1916-1921)</extref> RG 43.1</p>
-      <p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/bouton/">Administrative Papers of University College of Arts and Science, Office of the Dean (1899-1941)</extref> RG 18.0.2</p>
-      <p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/marshallbrown/">Marshall Brown Collection on NYU Faculty and Students in World War I</extref> MC 66</p>
-      <p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/mindil/">Clinton Mindil Collection on NYU Alumni in World War I</extref> MC 68</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_f9df5cbf3790069052d1e9f5ea59af0a">
-      <head>Scope and Contents</head>
-      <p>The collection consists of materials collected by Charles H. Snow for his unpublished manuscript, "The Camp on Campus: The Great War as Observed From a College Campus." The majority of the materials are drafts of the manuscript itself, which chronicles New York University's involvement with the military during World War I.  Additional material includes twenty years of correspondence and memoranda which Snow collected while conducting research for the manuscript. Photographs illustrating various historical points made in the manuscript are also included.</p>
-      <p>Series I includes original research material collected by Dr. Snow containing contemporary documentation from the World War I era. Also included is general correspondence ranging over eighteen years; some letters describes buildings and life on campus during the war years, and others relate to research and publication of the manuscript.</p>
-      <p>Included in Series II are many different versions of the manuscript preface, table of contents, eighteen chapters, appendices, and index. A 1943 note from Dr. Snow details what the object of his manuscript was and why he decided not to publish it.</p>
-    </scopecontent>
-    <userestrict id="aspace_e1b889b86543a1cb711d734b50a5cddf">
-      <head>Conditions Governing Use</head>
-      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>
-    </userestrict>
-    <processinfo id="aspace_1ee247b81d37b961be588e2b323c578b">
-      <head>Processing Information</head>
-      <p>Processing information before 2019 is unavailable.</p>
-    </processinfo>
-    <controlaccess>
-      <genreform source="aat">Manuscripts for publication.</genreform>
-      <subject source="lcsh">World War, 1914-1918</subject>
-      <subject source="lcsh">Engineering -- Study and teaching</subject>
-      <genreform source="aat">Correspondence.</genreform>
-      <genreform source="aat">Registers (lists).</genreform>
-      <genreform source="aat">Photographs.</genreform>
-      <subject source="lcsh">Influenza Epidemic -- 1918-1919 -- United States</subject>
-      <genreform source="aat">Memorandums.</genreform>
-      <corpname rules="dacs" source="naf">New York University. College of Engineering</corpname>
-      <corpname rules="dacs" source="local">New York University. School of Applied Science</corpname>
-      <persname role="fmo" rules="dacs" source="local">Jones, Theodore Francis, 1885-1968</persname>
-      <corpname source="naf">United States. War Department. Committee on Education and Special Training</corpname>
-      <corpname rules="dacs" source="local">New York University. Student Army Training Corps</corpname>
-      <corpname source="naf">New York University -- Students</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref11" level="series">
-        <did>
-          <unittitle>Series I: Correspondence and Memoranda</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">.5 Linear Feet</extent>
-          </physdesc>
-          <unitdate datechar="creation">1917-1935</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <scopecontent id="aspace_9867ea27cecd6844ca043a0a0c199ce7">
-          <head>Scope and Contents: Series I: Correspondence and Memoranda</head>
-          <p>Included in Series I is original research material collected by Dr. Snow that contains a considerable amount of contemporary documentation from the World War I era. There are charts depicting the relationship between the National Army Training Detachment and the Student Army Training Corps (SATC) on the New York University Heights campus, a letter describing military training on the campus during the years 1917-1918, a list describing the nationality of some of the NYU staff dating to just before the U.S. entrance into World War I, a letter describing the relationship between the University Heights Church and the SATC, and a letter describing the commissary serving the SATC on the Heights campus. Also included is general correspondence ranging over eighteen years, with letters describing buildings and life on campus during the war years, a copy of a March 1922 letter asking for aid from a professor in Petrograd, comments on the manuscript by Professor Theodore F. Jones, and several letters from Dr. Snow to publishers. Among the memoranda, 1917-1935, are lists of men who left the campus for duty in 1917, notes on the influenza epidemic of 1918-1919, a memorandum on a Memorial Tablet for Alumni, Faculty, and Students who died in service during World War I, and a 1930 report from the Dean of the College of Engineering defending military instruction on campus and criticizing the University for not having yet published a list of students who served in the war.</p>
-        </scopecontent>
-        <c id="aspace_ref20" level="subseries">
-          <did>
-            <unittitle>Subseries A: Correspondence</unittitle>
-            <unitdate datechar="creation">1917-1937</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          </did>
-          <c id="aspace_ref12" level="file">
-            <did>
-              <unittitle>Chart: relationship between NATD and SATC</unittitle>
-              <unitdate datechar="creation">1932 December</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_2b8080ae9aafb2f6989d2faa52a25470" label="Mixed Materials [31142063067063]" type="Box">1</container>
-              <container id="aspace_acb6f8ca48f5cbf4ef9cb8b551b1078e" parent="aspace_2b8080ae9aafb2f6989d2faa52a25470" type="Folder">1</container>
-            </did>
-          </c>
-          <c id="aspace_ref13" level="file">
-            <did>
-              <unittitle>General</unittitle>
-              <unitdate datechar="creation">1921-1937</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_69a6bb700b6a1bfe39b4e23f02a3371b" label="Mixed Materials [31142063067063]" type="Box">1</container>
-              <container id="aspace_a59fe2aea3034725e3b5835e1f76c2a4" parent="aspace_69a6bb700b6a1bfe39b4e23f02a3371b" type="Folder">2-3</container>
-            </did>
-          </c>
-          <c id="aspace_ref14" level="file">
-            <did>
-              <unittitle>Military Training at University Heights</unittitle>
-              <unitdate datechar="creation">1929 December</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_50a4ba5961495ad5d4019412c21bf954" label="Mixed Materials [31142063067063]" type="Box">1</container>
-              <container id="aspace_b2b332bf44198479f4ba5e64ca43344e" parent="aspace_50a4ba5961495ad5d4019412c21bf954" type="Folder">4</container>
-            </did>
-          </c>
-          <c id="aspace_ref15" level="file">
-            <did>
-              <unittitle>Nationality List</unittitle>
-              <unitdate datechar="creation">circa 1917, 1930</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_38fe1664a22158ed8d7df174665acc37" label="Mixed Materials [31142063067063]" type="Box">1</container>
-              <container id="aspace_c52fc16b83cdf11c4f797e4b54d0cb3c" parent="aspace_38fe1664a22158ed8d7df174665acc37" type="Folder">5</container>
-            </did>
-          </c>
-          <c id="aspace_ref16" level="file">
-            <did>
-              <unittitle>University Heights Church and SATC</unittitle>
-              <unitdate datechar="creation">1926 December</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_cfed2bcd5cac1a33141c04577536141e" label="Mixed Materials [31142063067063]" type="Box">1</container>
-              <container id="aspace_f5ad48bab78fd4ebe663d54c7ff5b983" parent="aspace_cfed2bcd5cac1a33141c04577536141e" type="Folder">6</container>
-            </did>
-          </c>
-          <c id="aspace_ref17" level="file">
-            <did>
-              <unittitle>War Commissary Experience</unittitle>
-              <unitdate datechar="creation">1925 January</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_7c55ca9946536bd02fa58290957de1cb" label="Mixed Materials [31142063067063]" type="Box">1</container>
-              <container id="aspace_4d40b8e291bbc4377162681fc7dbe783" parent="aspace_7c55ca9946536bd02fa58290957de1cb" type="Folder">7</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_ref22" level="subseries">
-          <did>
-            <unittitle>Subseries B: Memoranda</unittitle>
-            <unitdate datechar="creation">1917-1935</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          </did>
-          <c id="aspace_ref18" level="file">
-            <did>
-              <unittitle>General</unittitle>
-              <unitdate datechar="creation">1917-1935</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_a86d17a2c71fb072233d931de1bcde9f" label="Mixed Materials [31142063067063]" type="Box">1</container>
-              <container id="aspace_b75f8a28ab1a2b23568db2ac9a793778" parent="aspace_a86d17a2c71fb072233d931de1bcde9f" type="Folder">8</container>
-            </did>
-          </c>
-          <c id="aspace_ref19" level="file">
-            <did>
-              <unittitle>Report by Dean Snow</unittitle>
-              <unitdate datechar="creation">1930 October</unitdate>
-              <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container altrender="Manuscript box - Legal" id="aspace_670e0c532ed769cff3998568dca1e7f4" label="Mixed Materials [31142063067063]" type="Box">1</container>
-              <container id="aspace_a579d75afbc0c12255871474e382534d" parent="aspace_670e0c532ed769cff3998568dca1e7f4" type="Folder">9</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="aspace_ref23" level="series">
-        <did>
-          <unittitle>Series II: "The Camp on Campus" (Manuscript)</unittitle>
-          <unitdate datechar="creation">1930-1943</unitdate>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <scopecontent id="aspace_104d8a7ee0ede1fcc6276f3f9ac1e5ae">
-          <head>Scope and Contents: Series II: "The Camp on Campus" (Manuscript)</head>
-          <p>Included in Series II are many different versions of the preface, table of contents, eighteen chapters, appendices, and index; and the manuscript's final draft. The first five chapters of the manuscript explain the historical setting of the United States from the turn of the century until its entrance into the war. Chapters six through seventeen describe the many ways the ensuing World War affected life on campus and chapter eighteen records the period of reconstruction and the resumption of a normal routine on campus. Also included is a note from Dr. Snow dated December 15, 1943, detailing what the object of his manuscript was and why he decided not to publish it.</p>
-        </scopecontent>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Manuscript Fragments</unittitle>
-            <unitdate datechar="creation">1930</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_aa50f11b6134b3ea6a3eaa13c37fdc35" label="Mixed Materials [31142063067063]" type="Box">1</container>
-            <container id="aspace_3227aae32d68361867a08141843c656b" parent="aspace_aa50f11b6134b3ea6a3eaa13c37fdc35" type="Folder">10-13</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Manuscript Fragments</unittitle>
-            <unitdate datechar="creation">1933</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_7a7fb7a9c5bc466dc6d7df790bbd178f" label="Mixed Materials [31142063067063]" type="Box">1</container>
-            <container id="aspace_567419cfd2f2909c8f2c074171d00996" parent="aspace_7a7fb7a9c5bc466dc6d7df790bbd178f" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Introduction - Chapter 18</unittitle>
-            <unitdate datechar="creation">1934</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_d74f626a0c829f1387381f1bc4b4d20c" label="Mixed Materials [31142063067063]" type="Box">1</container>
-            <container id="aspace_23203cd96f52a86399fa224a9549045b" parent="aspace_d74f626a0c829f1387381f1bc4b4d20c" type="Folder">15-16</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Introduction - Chapter 5</unittitle>
-            <unitdate datechar="creation">1935</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_86d690b7d89fd2ef858f57c53f840c71" label="Mixed Materials [31142063067063]" type="Box">1</container>
-            <container id="aspace_e123aa362459f0783b143bcd35e94af9" parent="aspace_86d690b7d89fd2ef858f57c53f840c71" type="Folder">17-18</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Chapter 6 - Chapter 12</unittitle>
-            <unitdate datechar="creation">1935</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_018bc99f5b7cda59874a772f19c22816" label="Mixed Materials [31142063067071]" type="Box">2</container>
-            <container id="aspace_070cf6b2a67812bb8755dba6985a45c3" parent="aspace_018bc99f5b7cda59874a772f19c22816" type="Folder">1-2</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Chapter 13 - Chapter 17</unittitle>
-            <unitdate datechar="creation">1935</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_420c2306dc28f8c9d353cc237c855c54" label="Mixed Materials [31142063067071]" type="Box">2</container>
-            <container id="aspace_887e7dadb871bed7b8c6582f8f980ed2" parent="aspace_420c2306dc28f8c9d353cc237c855c54" type="Folder">3-4</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Introduction - Chapter 9</unittitle>
-            <unitdate datechar="creation">1936</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_71fa46b29e97740baaff4744979ab713" label="Mixed Materials [31142063067071]" type="Box">2</container>
-            <container id="aspace_6f45b185148a0512627453e6ae89b864" parent="aspace_71fa46b29e97740baaff4744979ab713" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Chapter 10 - Chapter 18</unittitle>
-            <unitdate datechar="creation">1936</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_737d052ca0814b15cc94183e1a896b1f" label="Mixed Materials [31142063067071]" type="Box">2</container>
-            <container id="aspace_8b26fe817e3f1ab06285506c9a6a68ca" parent="aspace_737d052ca0814b15cc94183e1a896b1f" type="Folder">6-9</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Introduction - Chapter 6</unittitle>
-            <unitdate datechar="creation">1937</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_c0bfb217a25d411eee3b4308f28aab24" label="Mixed Materials [31142063067071]" type="Box">2</container>
-            <container id="aspace_7aa3b5fce0080cafb99f82ff8ee34fc8" parent="aspace_c0bfb217a25d411eee3b4308f28aab24" type="Folder">10-11</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Chapter 7 - Chapter 12</unittitle>
-            <unitdate datechar="creation">1937</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_9f097167a75c92fab01d75566cb73e45" label="Mixed Materials [31142063067071]" type="Box">2</container>
-            <container id="aspace_7dc09d8d9301ef639da99fcbbbedb733" parent="aspace_9f097167a75c92fab01d75566cb73e45" type="Folder">12-13</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Chapter 13 - Chapter 18</unittitle>
-            <unitdate datechar="creation">1937</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_2ac7acbaf142f00a5a0a12c283c5d037" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_a85857722e755b2efd11913445f18c3c" parent="aspace_2ac7acbaf142f00a5a0a12c283c5d037" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Index</unittitle>
-            <unitdate datechar="creation">1937</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_4e6151046dd3bab67f5be625dc4f4afd" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_bc62d4d8c850e0804043df5e20f56441" parent="aspace_4e6151046dd3bab67f5be625dc4f4afd" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Introduction - Chapter 6</unittitle>
-            <unitdate datechar="creation">1937</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_01cf73fa64bb49dfa16437ecaf34d533" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_1f01a9aaf8adeef61a5991f4488ca0f2" parent="aspace_01cf73fa64bb49dfa16437ecaf34d533" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Chapter 7 - Appendix</unittitle>
-            <unitdate datechar="creation">1938</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_726a88905f59d23d7689b081990f05d6" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_61c46b6ac2064323e77f23bf91919a53" parent="aspace_726a88905f59d23d7689b081990f05d6" type="Folder">4</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Introduction</unittitle>
-            <unitdate datechar="creation">1940</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_3a54ef9d72f38794f2440e3da2060e71" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_79d99a740c71c2bafe2fe58f60fda545" parent="aspace_3a54ef9d72f38794f2440e3da2060e71" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Introduction - Chapter 8</unittitle>
-            <unitdate datechar="creation">1943</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_3a39b4f0b5d0ee000b1eea97b7fe0607" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_12d9c5852a40e0d6ad4d960e90c86300" parent="aspace_3a39b4f0b5d0ee000b1eea97b7fe0607" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Chapter 9 - Appendix</unittitle>
-            <unitdate datechar="creation">1943</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_dbae6be546c05a74f919fc60ba217deb" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_e51a1e8fa25770da386014f1642d36ce" parent="aspace_dbae6be546c05a74f919fc60ba217deb" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>Photographs</unittitle>
-            <unitdate datechar="creation">1917-1918</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_dff0073ca5c4dcff1753e6a3a13e4779" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_91246f669e6cc8e1849ba69e4cdef5fc" parent="aspace_dff0073ca5c4dcff1753e6a3a13e4779" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>Bibliography, Suggested</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_cc13be2942dcf059b716510fa67a429b" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_3c2466a76d7f60dbad5a15c6422fe596" parent="aspace_cc13be2942dcf059b716510fa67a429b" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Index</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_ffb38e5e45a24ba94418cd666e90c7d1" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_783dff999097384f9ee0096829ff5196" parent="aspace_ffb38e5e45a24ba94418cd666e90c7d1" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Manuscript Fragments</unittitle>
-            <unitdate datechar="creation">undated</unitdate>
-            <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container altrender="Manuscript box - Legal" id="aspace_5563ea3f9705bcccd2cd3fc6221ac7b8" label="Mixed Materials [31142063067089]" type="Box">3</container>
-            <container id="aspace_98b6ee304c8d3dd79de08649b8c36b0e" parent="aspace_5563ea3f9705bcccd2cd3fc6221ac7b8" type="Folder">11</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_25">mc_25</eadid><filedesc><titlestmt><titleproper>Guide to the Charles H. Snow Collection on NYU During World War I <num>MC.25</num></titleproper><author>Steven A. Walker. Electronic version and additional description prepared by Deborah Shapiro.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-11-30 10:40:32 -0500</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>June 2019</date><item>Updated by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Charles H. Snow Collection on NYU During World War I</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Snow, Charles H. (Charles Henry), 1863-1957</persname>
+    </origination>
+    <origination label="source">
+      <persname rules="dacs" source="local">Jones, Theodore Francis, 1885-1968</persname>
+    </origination>
+    <unitid>MC.25</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">in 3 manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1917/1943" type="inclusive">1917-1943</unitdate>
+    <unitdate datechar="creation" normal="1933/1943" type="bulk">1933-1943</unitdate>
+    <abstract id="aspace_79939cda3ce97498ce71de7a41924f3a" label="Abstract">Charles Henry Snow was a dean of New York University's (NYU) School of Civil Engineering. This collection consists of material generated or collected in conjunction with Snow's unpublished manuscript, "The Camp on Campus: The Great War as Observed From a College Campus," which chronicles New York University's involvement with the military during World War I.</abstract>
+    <physloc id="aspace_dc62fe9fcfcf15205143bd20d173590a">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_9a13b9ad101077b5093d6b054c7cb261">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_f0d672f6f3075d0d0e9b386d8a8d6bdc">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <arrangement id="aspace_b1b4a41c2b7f61c5d1bea587cac326cf">
+    <head>Arrangement</head>
+<p>The collection has been arranged into two series. Series I contains correspondence and memoranda Dean Snow collected in obtaining source material for his manuscript. Series II contains several different versions and revisions of the manuscript itself over a period of thirteen years.</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Correspondence and Memoranda</item>
+      <item>Series II: "The Camp on Campus" (Manuscript)</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_cf7c88e84db1bf1951dc2c0362cea638">
+    <head>Biographical Note</head>
+<p>Charles Henry Snow was born in New York City on March 24, 1863. He attended New York University's (NYU) School of Civil Engineering and graduated in 1886. He received an honorary Sc.M. in 1894 and a Sc.D. in 1898 from the Western University of Pennsylvania (now the University of Pittsburgh). He joined NYU's Engineering faculty in 1891, and, in 1897, became Dean of the School of Civil Engineering.</p><p>In 1899 school's name was changed to the School of Applied Science (and was later changed to the College of Engineering). With Dean Snow at its helm, the school played a leading role during World War I, as NYU was one of the first universities to respond to President Woodrow Wilson's call for the training of engineering personnel. Dean Snow was the civilian director of the National Army Training Detachment (later Student Army Training Corps, Section B), where eleven hundred "Fighting Mechanics" were trained at NYU's campus at University Heights. As civilian director of these units, Dean Snow acted as liaison between the U.S. War Department and the University.</p><p>Dean Snow was author of "The Principal Species of Wood," (1903, 1908); "Wood and Other Organic Structure Materials," (1917); and several other papers in transactions with technical societies. He was also a member of New York City Mayor's Commission for National Defense, 1915-18; New York City Mayor's Committee of Citizens to arrange the Public Celebration of July Fourth, 1916-17; and a U.S. War Department appraisal expert, aircraft production, service at large, 1919.</p><p>Dean Snow served as Vice President of the NYU Senate from 1920 to 1931 and was named emeritus dean in 1930. He died October 29, 1957.</p>  </bioghist>
+  <custodhist id="aspace_8aa756a6c70e520cd4eb9386234a9e30">
+    <head>Custodial History</head>
+<p>The papers of Charles H. Snow were a part of a larger College of Engineering historical collection that covered the years 1897-1956. The collection was most likely accumulated at the University Heights Library over a period of approximately twenty years and was transferred to the University Archives when the School of Engineering closed in 1973.</p>  </custodhist>
+  <prefercite id="aspace_9f320311a9f1e591f08f1e575f428a97">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Charles H. Snow Papers; MC 25; box number; folder number; New York University Archives.</p>  </prefercite>
+  <relatedmaterial id="aspace_a58a09b404172832190713e184fd10c8">
+    <head>Related Materials</head>
+<p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/satc/">Records of the Student Army Training Corps (1916-1921)</extref> RG 43.1</p><p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/bouton/">Administrative Papers of University College of Arts and Science, Office of the Dean (1899-1941)</extref> RG 18.0.2</p><p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/marshallbrown/">Marshall Brown Collection on NYU Faculty and Students in World War I</extref> MC 66</p><p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/mindil/">Clinton Mindil Collection on NYU Alumni in World War I</extref> MC 68</p>  </relatedmaterial>
+  <scopecontent id="aspace_f9df5cbf3790069052d1e9f5ea59af0a">
+    <head>Scope and Contents</head>
+<p>The collection consists of materials collected by Charles H. Snow for his unpublished manuscript, "The Camp on Campus: The Great War as Observed From a College Campus." The majority of the materials are drafts of the manuscript itself, which chronicles New York University's involvement with the military during World War I.  Additional material includes twenty years of correspondence and memoranda which Snow collected while conducting research for the manuscript. Photographs illustrating various historical points made in the manuscript are also included.</p><p>Series I includes original research material collected by Dr. Snow containing contemporary documentation from the World War I era. Also included is general correspondence ranging over eighteen years; some letters describes buildings and life on campus during the war years, and others relate to research and publication of the manuscript.</p><p>Included in Series II are many different versions of the manuscript preface, table of contents, eighteen chapters, appendices, and index. A 1943 note from Dr. Snow details what the object of his manuscript was and why he decided not to publish it.</p>  </scopecontent>
+  <userestrict id="aspace_e1b889b86543a1cb711d734b50a5cddf">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>  </userestrict>
+  <processinfo id="aspace_1ee247b81d37b961be588e2b323c578b">
+    <head>Processing Information</head>
+<p>Processing information before 2019 is unavailable.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Manuscripts for publication.</genreform>
+    <subject source="lcsh">World War, 1914-1918</subject>
+    <subject source="lcsh">Engineering -- Study and teaching</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Registers (lists).</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <subject source="lcsh">Influenza Epidemic -- 1918-1919 -- United States</subject>
+    <genreform source="aat">Memorandums.</genreform>
+    <corpname authfilenumber="(lccn)no93002872" rules="dacs" source="naf">New York University. College of Engineering</corpname>
+    <corpname rules="dacs" source="local">New York University. School of Applied Science</corpname>
+    <persname role="fmo" rules="dacs" source="local">Jones, Theodore Francis, 1885-1968</persname>
+    <corpname authfilenumber="(lccn)no94037466" source="naf">United States. War Department. Committee on Education and Special Training</corpname>
+    <corpname rules="dacs" source="local">New York University. Student Army Training Corps</corpname>
+    <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Students</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Correspondence and Memoranda</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">.5 Linear Feet</extent></physdesc><unitdate datechar="creation">1917-1935</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_9867ea27cecd6844ca043a0a0c199ce7"><head>Scope and Contents: Series I: Correspondence and Memoranda</head><p>Included in Series I is original research material collected by Dr. Snow that contains a considerable amount of contemporary documentation from the World War I era. There are charts depicting the relationship between the National Army Training Detachment and the Student Army Training Corps (SATC) on the New York University Heights campus, a letter describing military training on the campus during the years 1917-1918, a list describing the nationality of some of the NYU staff dating to just before the U.S. entrance into World War I, a letter describing the relationship between the University Heights Church and the SATC, and a letter describing the commissary serving the SATC on the Heights campus. Also included is general correspondence ranging over eighteen years, with letters describing buildings and life on campus during the war years, a copy of a March 1922 letter asking for aid from a professor in Petrograd, comments on the manuscript by Professor Theodore F. Jones, and several letters from Dr. Snow to publishers. Among the memoranda, 1917-1935, are lists of men who left the campus for duty in 1917, notes on the influenza epidemic of 1918-1919, a memorandum on a Memorial Tablet for Alumni, Faculty, and Students who died in service during World War I, and a 1930 report from the Dean of the College of Engineering defending military instruction on campus and criticizing the University for not having yet published a list of students who served in the war.</p></scopecontent><c id="aspace_ref20" level="subseries"><did><unittitle>Subseries A: Correspondence</unittitle><unitdate datechar="creation">1917-1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref12" level="file"><did><unittitle>Chart: relationship between NATD and SATC</unittitle><unitdate datechar="creation">1932 December</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_845f7dea3ecbf62bba23e75e98952692" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_af406429dcce9045cc83ff37a0ad0c11" parent="aspace_845f7dea3ecbf62bba23e75e98952692" type="Folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>General</unittitle><unitdate datechar="creation">1921-1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_07b3c7cc032df5ebfdc7dea2ab348969" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_601783b8d24bb466b32b7568489d0b3f" parent="aspace_07b3c7cc032df5ebfdc7dea2ab348969" type="Folder">2-3</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Military Training at University Heights</unittitle><unitdate datechar="creation">1929 December</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_98de6a257dd22bb2b1a8188c31eb9358" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_943f86f011ee89ad6be492cbfef52041" parent="aspace_98de6a257dd22bb2b1a8188c31eb9358" type="Folder">4</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Nationality List</unittitle><unitdate datechar="creation">circa 1917, 1930</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_09c08d1c7bac434585445d7cb6b97baf" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_6b2f55d4291aad642ff6e818d8a7a939" parent="aspace_09c08d1c7bac434585445d7cb6b97baf" type="Folder">5</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>University Heights Church and SATC</unittitle><unitdate datechar="creation">1926 December</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_3079ffe690a79ce55f0aeb71deba9fab" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_979609b69a3a8d7ac8602904d9e0efa6" parent="aspace_3079ffe690a79ce55f0aeb71deba9fab" type="Folder">6</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>War Commissary Experience</unittitle><unitdate datechar="creation">1925 January</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_53ae06f21c4afa6bc84829aa9c593518" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_3bb75ae23c40c4578069a8c69c71721c" parent="aspace_53ae06f21c4afa6bc84829aa9c593518" type="Folder">7</container></did></c></c><c id="aspace_ref22" level="subseries"><did><unittitle>Subseries B: Memoranda</unittitle><unitdate datechar="creation">1917-1935</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref18" level="file"><did><unittitle>General</unittitle><unitdate datechar="creation">1917-1935</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_c8942b699b2d965c7d59b9116a5d0a08" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_6605bf61bd0a4bc8a93087e843fdccfd" parent="aspace_c8942b699b2d965c7d59b9116a5d0a08" type="Folder">8</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Report by Dean Snow</unittitle><unitdate datechar="creation">1930 October</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_7fe49b488de2ce72b0730aac1e8d3d4f" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_21dfac847d0f4c6a6dfe47c401f9d97c" parent="aspace_7fe49b488de2ce72b0730aac1e8d3d4f" type="Folder">9</container></did></c></c></c><c id="aspace_ref23" level="series"><did><unittitle>Series II: "The Camp on Campus" (Manuscript)</unittitle><unitdate datechar="creation">1930-1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_104d8a7ee0ede1fcc6276f3f9ac1e5ae"><head>Scope and Contents: Series II: "The Camp on Campus" (Manuscript)</head><p>Included in Series II are many different versions of the preface, table of contents, eighteen chapters, appendices, and index; and the manuscript's final draft. The first five chapters of the manuscript explain the historical setting of the United States from the turn of the century until its entrance into the war. Chapters six through seventeen describe the many ways the ensuing World War affected life on campus and chapter eighteen records the period of reconstruction and the resumption of a normal routine on campus. Also included is a note from Dr. Snow dated December 15, 1943, detailing what the object of his manuscript was and why he decided not to publish it.</p></scopecontent><c id="aspace_ref24" level="file"><did><unittitle>Manuscript Fragments</unittitle><unitdate datechar="creation">1930</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_599feb9fd87e575ab8779c1891a8515e" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_be151294ef5269885366103efe81f7f6" parent="aspace_599feb9fd87e575ab8779c1891a8515e" type="Folder">10-13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Manuscript Fragments</unittitle><unitdate datechar="creation">1933</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_1b11fe6f664912eef5642e999993d3c2" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_59ad846276e9c2cf67955e988b9ea0b9" parent="aspace_1b11fe6f664912eef5642e999993d3c2" type="Folder">14</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Introduction - Chapter 18</unittitle><unitdate datechar="creation">1934</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4fe9b49aef007b0130dc375d31df52c9" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_78c084d3d94c3b31358713395d3009ea" parent="aspace_4fe9b49aef007b0130dc375d31df52c9" type="Folder">15-16</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Introduction - Chapter 5</unittitle><unitdate datechar="creation">1935</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_bd03661e9c367cf84f176a7ce65e6861" label="Mixed Materials [31142063067063]" type="Box">1</container><container id="aspace_8b117479c08377a03ecb4b2cf0235409" parent="aspace_bd03661e9c367cf84f176a7ce65e6861" type="Folder">17-18</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Chapter 6 - Chapter 12</unittitle><unitdate datechar="creation">1935</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_106b72e0e67b170f1252b4494ae5944b" label="Mixed Materials [31142063067071]" type="Box">2</container><container id="aspace_43945f429fa7cc33bed8d59309739ef1" parent="aspace_106b72e0e67b170f1252b4494ae5944b" type="Folder">1-2</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Chapter 13 - Chapter 17</unittitle><unitdate datechar="creation">1935</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_fd9356e1c988bd765a859bb344a1e508" label="Mixed Materials [31142063067071]" type="Box">2</container><container id="aspace_feb529d0037c86d03f73869f78af2c45" parent="aspace_fd9356e1c988bd765a859bb344a1e508" type="Folder">3-4</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Introduction - Chapter 9</unittitle><unitdate datechar="creation">1936</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_2237c2037d192cb404ac007c55d09874" label="Mixed Materials [31142063067071]" type="Box">2</container><container id="aspace_282cfd65036d258eb3d69ef5f14a04dc" parent="aspace_2237c2037d192cb404ac007c55d09874" type="Folder">5</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Chapter 10 - Chapter 18</unittitle><unitdate datechar="creation">1936</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_01001086c5f645fdf614370e1c68a908" label="Mixed Materials [31142063067071]" type="Box">2</container><container id="aspace_d3850e6fa184b7dc965c39b62219b0b9" parent="aspace_01001086c5f645fdf614370e1c68a908" type="Folder">6-9</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Introduction - Chapter 6</unittitle><unitdate datechar="creation">1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_8ed2b00ee7951b30d3362f54c309cea8" label="Mixed Materials [31142063067071]" type="Box">2</container><container id="aspace_0d063cda41a494efacb6f3842d9a7aa9" parent="aspace_8ed2b00ee7951b30d3362f54c309cea8" type="Folder">10-11</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Chapter 7 - Chapter 12</unittitle><unitdate datechar="creation">1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_14f7d9f16cad7d46048d259769a71b01" label="Mixed Materials [31142063067071]" type="Box">2</container><container id="aspace_1c576d58673037f9cafa6a1dcf01ba63" parent="aspace_14f7d9f16cad7d46048d259769a71b01" type="Folder">12-13</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Chapter 13 - Chapter 18</unittitle><unitdate datechar="creation">1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4f101520ae4236175350528e88ee6f48" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_6d01d31d6e3336763e1897e08480c4bf" parent="aspace_4f101520ae4236175350528e88ee6f48" type="Folder">1</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Index</unittitle><unitdate datechar="creation">1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_7a16ab3c90fe375792cd63f92c67fed2" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_07927ddbc4d35232ab7a44ee5c93449b" parent="aspace_7a16ab3c90fe375792cd63f92c67fed2" type="Folder">2</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Introduction - Chapter 6</unittitle><unitdate datechar="creation">1937</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_eae63bf1d89e538d70ed81d487ea29d2" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_a4ac4fbb5b6af570f6c73c673e10e9c9" parent="aspace_eae63bf1d89e538d70ed81d487ea29d2" type="Folder">3</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Chapter 7 - Appendix</unittitle><unitdate datechar="creation">1938</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4f10547a3fb07e09a68b31364a104d14" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_124376a9f194dd69210a5c93b8e55893" parent="aspace_4f10547a3fb07e09a68b31364a104d14" type="Folder">4</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Introduction</unittitle><unitdate datechar="creation">1940</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_7d871522852f1e5444a2f5c28a6eca1d" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_3e0066605a8ff2cd550422222757bf0e" parent="aspace_7d871522852f1e5444a2f5c28a6eca1d" type="Folder">5</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Introduction - Chapter 8</unittitle><unitdate datechar="creation">1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_dc1988dd6ff5928b81105cb8265a080a" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_d43b0c20cd3d5df9821206aeee414aa9" parent="aspace_dc1988dd6ff5928b81105cb8265a080a" type="Folder">6</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Chapter 9 - Appendix</unittitle><unitdate datechar="creation">1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_f37f442f942867f63dcfc268bf94c2d9" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_e6388a8feadc70dd6590bcfbc079ae1a" parent="aspace_f37f442f942867f63dcfc268bf94c2d9" type="Folder">7</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation">1917-1918</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_0b180055d8c6eca0324c8513a74dafb3" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_bfdfa9f2972e18efe78b424e864e9e36" parent="aspace_0b180055d8c6eca0324c8513a74dafb3" type="Folder">8</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Bibliography, Suggested</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_9c15178891a1ff6537bc03dcac3344fa" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_cbcc13b806f9c9db3b66700f138a0d69" parent="aspace_9c15178891a1ff6537bc03dcac3344fa" type="Folder">9</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Index</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_c16a567ae5d179fde5d8e0e176a132de" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_3137bdead6f78c1338f3ab99069ad11b" parent="aspace_c16a567ae5d179fde5d8e0e176a132de" type="Folder">10</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Manuscript Fragments</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_75fc9da93f7826f65dfa2b3a728958a9" label="Mixed Materials [31142063067089]" type="Box">3</container><container id="aspace_590baca86cb3e667e585fa77d542870b" parent="aspace_75fc9da93f7826f65dfa2b3a728958a9" type="Folder">11</container></did></c></c></dsc>
+</archdesc>
 </ead>
