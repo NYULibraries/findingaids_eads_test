@@ -1581,12 +1581,24 @@
         </c>
         <c id="aspace_7c4d41e52826eec1ee0f21625ae73961" level="file">
           <did>
-            <unittitle>Image-Service</unittitle>
+            <unittitle>Image-Service: example of imageset</unittitle>
             <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/dfn2z8sk"
                  xlink:role="image-service" xlink:show="new"
                  xlink:title="Three children in the Japanese Gardens: 1984" xlink:type="simple">
               <daodesc>
                 <p>Three children in the Japanese Gardens: 1984</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>Image-Service:  example of a single image</unittitle>
+            <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/nvx0k8nb"
+                 xlink:role="image-service" xlink:show="new"
+                 xlink:title="At work: 1935" xlink:type="simple">
+              <daodesc>
+                <p>At work: 1935</p>
               </daodesc>
             </dao>
           </did>
