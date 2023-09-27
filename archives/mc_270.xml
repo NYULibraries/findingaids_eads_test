@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Faculty Against the Sexton Plan Collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="dacs" source="local">New York University. Faculty Against the Sexton Plan.</corpname>
     </origination>
     <origination label="source">
@@ -54,6 +54,6 @@
     <persname role="dnr" source="naf">Lee, Andrew H.</persname>
     <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Faculty</corpname>
   </controlaccess>
-  <dsc><c id="aspace_9f132844a84f06f372ed093abc705b81" level="file"><did><unittitle><emph render="italic"> The Art of the Gouge: How NYU Squeezes Billions From Its Students and Where That Money Goes.</emph></unittitle><unitdate datechar="creation" normal="2015/2015">2015</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_7d29b0db05f55b81547cf7eeea28e19e" label="Mixed Materials [31142063595766]" type="Box">1</container><container id="aspace_04d1fc78513ff6dda139f60a90116605" parent="aspace_7d29b0db05f55b81547cf7eeea28e19e" type="Folder">1</container></did></c></dsc>
+  <dsc><c id="aspace_9f132844a84f06f372ed093abc705b81" level="file"><did><unittitle><emph render="italic"> The Art of the Gouge: How NYU Squeezes Billions From Its Students and Where That Money Goes.</emph></unittitle><unitdate datechar="creation" normal="2015/2015">2015</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_7d29b0db05f55b81547cf7eeea28e19e" label="Mixed Materials [31142063595766]" type="Box">1</container><container parent="aspace_7d29b0db05f55b81547cf7eeea28e19e" type="Folder">1</container></did></c></dsc>
 </archdesc>
 </ead>

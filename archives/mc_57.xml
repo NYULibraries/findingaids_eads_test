@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Robert Doremus Lectures</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="naf">Doremus, Robert Ogden, 1824-1906</persname>
     </origination>
     <unitid>MC.57</unitid>
@@ -45,6 +45,6 @@
     <subject source="lcsh">Astronomy.</subject>
     <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Students</corpname>
   </controlaccess>
-  <dsc><c id="aspace_ref7" level="file"><did><unittitle>Lectures by Robert Doremus</unittitle><unitdate datechar="creation">1872</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_f9fe80a06cffb1000eb9f65bce59349e" label="Mixed Materials [31142062742419]" type="Box">Shared University Archives 009</container><container id="aspace_f5b1ae30427bc826700bf0055fb9531d" parent="aspace_f9fe80a06cffb1000eb9f65bce59349e" type="Folder">1</container></did></c></dsc>
+  <dsc><c id="aspace_ref7" level="file"><did><unittitle>Lectures by Robert Doremus</unittitle><unitdate datechar="creation">1872</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_f9fe80a06cffb1000eb9f65bce59349e" label="Mixed Materials [31142062742419]" type="Box">Shared University Archives 009</container><container parent="aspace_f9fe80a06cffb1000eb9f65bce59349e" type="Folder">1</container></did></c></dsc>
 </archdesc>
 </ead>

@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Records of the Courant Institute of Mathematical Sciences Ultracomputer</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname authfilenumber="(lccn)n50017637" source="naf">Courant Institute of Mathematical Sciences</corpname>
     </origination>
     <origination label="source">
@@ -50,6 +50,6 @@
     <subject source="lcsh">Computer science.</subject>
     <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
   </controlaccess>
-  <dsc><c id="aspace_fdff26d7116949da3ab1ec43b7ad50ae" level="file"><did><unittitle>Logs and Schematics</unittitle><unitdate datechar="creation" normal="1987/1987">1987</unitdate><container altrender="Flat OS Box 17" id="aspace_1fef2a898583198062538acbfb7c2b76" label="Mixed Materials [31142066998587]" type="Box">1</container><container id="aspace_a1be9b27113c28d600fcbdc483326350" parent="aspace_1fef2a898583198062538acbfb7c2b76" type="Folder">1-5</container></did></c></dsc>
+  <dsc><c id="aspace_fdff26d7116949da3ab1ec43b7ad50ae" level="file"><did><unittitle>Logs and Schematics</unittitle><unitdate datechar="creation" normal="1987/1987">1987</unitdate><container altrender="Flat OS Box 17" id="aspace_1fef2a898583198062538acbfb7c2b76" label="Mixed Materials [31142066998587]" type="Box">1</container><container parent="aspace_1fef2a898583198062538acbfb7c2b76" type="Folder">1-5</container></did></c></dsc>
 </archdesc>
 </ead>

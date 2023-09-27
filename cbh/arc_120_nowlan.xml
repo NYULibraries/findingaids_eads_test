@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Donald L. Nowlan Brooklyn collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" rules="dacs" source="local">Nowlan, Donald L.</persname>
     </origination>
     <unitid>ARC.120</unitid>
@@ -21,8 +21,8 @@
     <container id="aspace_74a1987edf5b8faa5ce2a2b6c8409513" label="Graphic Materials" type="Box">Postcards</container>
     <container id="aspace_889e1815ac5bc11afcfb1450a05551cd" label="Graphic Materials" type="Box">Postcards</container>
     <container altrender="Medium Flat Box 26" id="aspace_1105e17fd355cdc83da803db3ca46771" label="Graphic Materials" type="Box">Slides by Accession 2</container>
-    <container id="aspace_d3755ba9726b2dce0562be695e1bd479" parent="aspace_1105e17fd355cdc83da803db3ca46771" type="Box">1</container>
-    <container id="aspace_7f7692215b7a502a63b158f7b68a5291" parent="aspace_d3755ba9726b2dce0562be695e1bd479" type="item">V1990.2.1-165</container>
+    <container parent="aspace_1105e17fd355cdc83da803db3ca46771" type="Box">1</container>
+    <container parent="aspace_1105e17fd355cdc83da803db3ca46771" type="item">V1990.2.1-165</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_544782b8ce76e820338b82b00c69a632" label="Mixed Materials" type="Box">A0053</container>
   </did>
   <bioghist id="aspace_fec32f058a893744fe602ad2795f7963">

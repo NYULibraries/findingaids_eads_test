@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Hotel St. George collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="dacs" source="naf">Hotel St. George (Brooklyn, New York, N.Y.)</corpname>
     </origination>
     <unitid>ARC.100</unitid>
@@ -20,11 +20,11 @@
       <language langcode="eng">English</language>
 .    </langmaterial>
     <container altrender="Medium Flat Box 26" id="aspace_b6b54d423575e88f983b42e8de409eb9" label="Graphic Materials" type="Box">Slides by Accession 1</container>
-    <container id="aspace_14605d7c072c3e0ea17d457020631429" parent="aspace_b6b54d423575e88f983b42e8de409eb9" type="Box">6</container>
-    <container id="aspace_73d86a1decc0997eadf2dda41378aeb9" parent="aspace_14605d7c072c3e0ea17d457020631429" type="item">V1989.30.20 - .23</container>
+    <container parent="aspace_b6b54d423575e88f983b42e8de409eb9" type="Box">6</container>
+    <container parent="aspace_b6b54d423575e88f983b42e8de409eb9" type="item">V1989.30.20 - .23</container>
     <container id="aspace_54209e3a64ad362f38b0432e58efc31e" label="Text" type="Box">1</container>
     <container id="aspace_7cc4ebf3864cd0597001e5f077459831" label="Graphic Materials" type="bin">Postcards by Accession 1</container>
-    <container id="aspace_476e799805c3040b0f3c28bc0e371dd1" parent="aspace_7cc4ebf3864cd0597001e5f077459831" type="item">V1989.30.1 - .19</container>
+    <container parent="aspace_7cc4ebf3864cd0597001e5f077459831" type="item">V1989.30.1 - .19</container>
   </did>
   <accessrestrict id="aspace_e3a813cd66de5e4c7c32807ecf0f8a38">
     <head>Conditions Governing Access</head>

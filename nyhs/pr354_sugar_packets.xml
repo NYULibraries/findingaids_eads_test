@@ -5,7 +5,7 @@
       <corpname>New-York Historical Society</corpname>
     </repository>
     <unittitle>Crago-Kramer collection of sugar packets</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="rda" source="local">Crago, Priscilla Hayward</persname>
     </origination>
     <unitid>PR 354</unitid>
@@ -48,6 +48,6 @@
     <genreform source="aat">Packets (containers)</genreform>
     <genreform source="aat">Ephemera.</genreform>
   </controlaccess>
-  <dsc><c id="aspace_ref13_ab0" level="file"><did><unittitle>Sugar Packets (7 folders)</unittitle><unitdate datechar="creation">circa 1939-1960s</unitdate><container id="aspace_9e4da70d0465535f3f02bfca65e5613b" label="Mixed Materials" type="Box">1</container><container id="aspace_7c8b0a63f968915f6f231f08bebe0e85" parent="aspace_9e4da70d0465535f3f02bfca65e5613b" type="Folder">1-7</container></did></c></dsc>
+  <dsc><c id="aspace_ref13_ab0" level="file"><did><unittitle>Sugar Packets (7 folders)</unittitle><unitdate datechar="creation">circa 1939-1960s</unitdate><container id="aspace_9e4da70d0465535f3f02bfca65e5613b" label="Mixed Materials" type="Box">1</container><container parent="aspace_9e4da70d0465535f3f02bfca65e5613b" type="Folder">1-7</container></did></c></dsc>
 </archdesc>
 </ead>

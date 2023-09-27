@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Records of the Department of Comparative Literature</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="dacs" source="local">New York University. Department of Comparative Literature.</corpname>
     </origination>
     <origination label="source">
@@ -51,6 +51,6 @@
     <subject source="lcsh">Literature -- Study and teaching</subject>
     <corpname role="dnr" rules="dacs" source="local">New York University. Department of Comparative Literature.</corpname>
   </controlaccess>
-  <dsc><c id="aspace_76ac984c7f8c366302fe96d335731514" level="file"><did><unittitle><emph render="italic">Barricade</emph></unittitle><unitdate datechar="creation" normal="2018/2019" type="inclusive">2018-2019</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_24b210770f640c298895f5f8bd085b15" label="Mixed Materials [31142063345089]" type="Box">1</container><container id="aspace_53abb4028f1640b47536991742e39a3f" parent="aspace_24b210770f640c298895f5f8bd085b15" type="Folder">1</container></did></c><c id="aspace_042401a6db19674b9af03723d15d0577" level="file"><did><unittitle><emph render="italic">Brio</emph></unittitle><unitdate datechar="creation" normal="2010/2019" type="inclusive">2010, 2016-2019</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_b11ab601ee33453ba7a5dbace4f8adba" label="Mixed Materials [31142063345089]" type="Box">1</container><container id="aspace_85f4626f5a3bd85d6efd6065498b0fcf" parent="aspace_b11ab601ee33453ba7a5dbace4f8adba" type="Folder">2</container></did></c></dsc>
+  <dsc><c id="aspace_76ac984c7f8c366302fe96d335731514" level="file"><did><unittitle><emph render="italic">Barricade</emph></unittitle><unitdate datechar="creation" normal="2018/2019" type="inclusive">2018-2019</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_24b210770f640c298895f5f8bd085b15" label="Mixed Materials [31142063345089]" type="Box">1</container><container parent="aspace_24b210770f640c298895f5f8bd085b15" type="Folder">1</container></did></c><c id="aspace_042401a6db19674b9af03723d15d0577" level="file"><did><unittitle><emph render="italic">Brio</emph></unittitle><unitdate datechar="creation" normal="2010/2019" type="inclusive">2010, 2016-2019</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_b11ab601ee33453ba7a5dbace4f8adba" label="Mixed Materials [31142063345089]" type="Box">1</container><container parent="aspace_b11ab601ee33453ba7a5dbace4f8adba" type="Folder">2</container></did></c></dsc>
 </archdesc>
 </ead>

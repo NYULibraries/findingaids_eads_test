@@ -5,7 +5,7 @@
       <corpname>New-York Historical Society</corpname>
     </repository>
     <unittitle>Alexander Garrigue letters</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="rda" source="local">Garrigue, Alexander, 1887-1943</persname>
     </origination>
     <unitid>MS 3198</unitid>
@@ -53,6 +53,6 @@ Application to use images from this collection for publication should be made in
     <corpname rules="rda" source="naf">United States. Army. Depot Brigade, 152nd.</corpname>
     <corpname rules="rda" source="local">United States. Army. Field Artillery Regiment, 305th.</corpname>
   </controlaccess>
-  <dsc><c id="aspace_fccf9db1a13f1f5d0cccd948fea893f4" level="file"><did><unittitle>Letters (12 folders)</unittitle><unitdate datechar="creation" type="inclusive">1917-1918</unitdate><container id="aspace_f22c6b334d4a78e1d6891a0f15f39233" label="Text" type="Box">1</container><container id="aspace_08fdcdcfd275b41dcbeec81215882db6" parent="aspace_f22c6b334d4a78e1d6891a0f15f39233" type="Folder">1-12</container></did></c></dsc>
+  <dsc><c id="aspace_fccf9db1a13f1f5d0cccd948fea893f4" level="file"><did><unittitle>Letters (12 folders)</unittitle><unitdate datechar="creation" type="inclusive">1917-1918</unitdate><container id="aspace_f22c6b334d4a78e1d6891a0f15f39233" label="Text" type="Box">1</container><container parent="aspace_f22c6b334d4a78e1d6891a0f15f39233" type="Folder">1-12</container></did></c></dsc>
 </archdesc>
 </ead>

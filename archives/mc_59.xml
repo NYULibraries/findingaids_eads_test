@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Edward Wegmann Notebook</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="naf">Wegmann, Edward, 1850-1935</persname>
     </origination>
     <unitid>MC.59</unitid>
@@ -44,6 +44,6 @@
     <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Faculty</corpname>
     <corpname authfilenumber="(lccn)n79034394" source="naf">New York University. School of Engineering and Science</corpname>
   </controlaccess>
-  <dsc><c id="aspace_ref10" level="file"><did><unittitle>Edward J. Wegmann, Jr. Notebook</unittitle><unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_cee5e71e1c99b25a53ccf50c75e5f813" label="Mixed Materials [31142062742419]" type="Box">Shared University Archives 009</container><container id="aspace_981b068acd6b9f3b89c3d33d32670fa7" parent="aspace_cee5e71e1c99b25a53ccf50c75e5f813" type="Folder">8</container></did></c></dsc>
+  <dsc><c id="aspace_ref10" level="file"><did><unittitle>Edward J. Wegmann, Jr. Notebook</unittitle><unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_cee5e71e1c99b25a53ccf50c75e5f813" label="Mixed Materials [31142062742419]" type="Box">Shared University Archives 009</container><container parent="aspace_cee5e71e1c99b25a53ccf50c75e5f813" type="Folder">8</container></did></c></dsc>
 </archdesc>
 </ead>

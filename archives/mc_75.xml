@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Robert Ewing Anthony, Jr. notebook</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Anthony, Robert Ewing, Jr.</persname>
     </origination>
     <unitid>MC.75</unitid>
@@ -48,6 +48,6 @@
     <subject source="lcsh">Hydraulics</subject>
     <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Students</corpname>
   </controlaccess>
-  <dsc><c id="aspace_ref3" level="file"><did><unittitle>Student Notebook</unittitle><unitdate datechar="creation" normal="1883-01/1883-01">January 1883</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_285c64658f858d3d15f2a1041a25b358" label="Mixed Materials [31142062747988]" type="Box">1</container><container id="aspace_c1c699b6cd2fed16dea5a1bdd45e3627" parent="aspace_285c64658f858d3d15f2a1041a25b358" type="Folder">1</container></did></c></dsc>
+  <dsc><c id="aspace_ref3" level="file"><did><unittitle>Student Notebook</unittitle><unitdate datechar="creation" normal="1883-01/1883-01">January 1883</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter - Half" id="aspace_285c64658f858d3d15f2a1041a25b358" label="Mixed Materials [31142062747988]" type="Box">1</container><container parent="aspace_285c64658f858d3d15f2a1041a25b358" type="Folder">1</container></did></c></dsc>
 </archdesc>
 </ead>

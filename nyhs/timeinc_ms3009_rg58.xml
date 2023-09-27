@@ -5,7 +5,7 @@
       <corpname>New-York Historical Society</corpname>
     </repository>
     <unittitle>Time Inc. Consumer Marketing Records</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname role="cre" rules="rda" source="naf">Time, inc.</corpname>
     </origination>
     <unitid>MS 3009-RG 58</unitid>
@@ -55,6 +55,6 @@
     <corpname rules="rda" source="naf">Time, inc. -- Archives.</corpname>
     <corpname rules="rda" source="naf">Time, inc. -- History.</corpname>
   </controlaccess>
-  <dsc><c id="aspace_f5c7b6bbea0d131c3d0132d558fa4e76" level="file"><did><unittitle>B.E.A.R.S. SE 00 BUD 01</unittitle><unitdate datechar="creation" type="inclusive">2000</unitdate><container id="aspace_2f99981090e3733fa051b2cbf47e1558" label="Mixed Materials [10170000012360]" type="Offsite-Box">4292</container><container id="aspace_0d8b9e5b78ac873b92f66d0c743fd55b" parent="aspace_2f99981090e3733fa051b2cbf47e1558" type="Folder">1-3</container></did></c></dsc>
+  <dsc><c id="aspace_f5c7b6bbea0d131c3d0132d558fa4e76" level="file"><did><unittitle>B.E.A.R.S. SE 00 BUD 01</unittitle><unitdate datechar="creation" type="inclusive">2000</unitdate><container id="aspace_2f99981090e3733fa051b2cbf47e1558" label="Mixed Materials [10170000012360]" type="Offsite-Box">4292</container><container parent="aspace_2f99981090e3733fa051b2cbf47e1558" type="Folder">1-3</container></did></c></dsc>
 </archdesc>
 </ead>

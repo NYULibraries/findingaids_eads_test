@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Robert Hall Notebook</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname source="local">Hall, Robert William, b. 1853</persname>
     </origination>
     <unitid>MC.62</unitid>
@@ -52,6 +52,6 @@
     <corpname rules="dacs" source="local">University of the City of New York. School of Analytical and Practical Chemistry</corpname>
     <corpname authfilenumber="(lccn)no2015037695" rules="aacr" source="naf">New York University. Department of Chemistry</corpname>
   </controlaccess>
-  <dsc><c id="aspace_ref11" level="file"><did><unittitle>Notes on Quantitative Chemical Analysis</unittitle><unitdate datechar="creation">circa 1894-1904</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_87a52a7863778b03446896618a9cca77" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container id="aspace_7f5732b566885749d40ce4e00718f87d" parent="aspace_87a52a7863778b03446896618a9cca77" type="Folder">4</container></did></c></dsc>
+  <dsc><c id="aspace_ref11" level="file"><did><unittitle>Notes on Quantitative Chemical Analysis</unittitle><unitdate datechar="creation">circa 1894-1904</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_87a52a7863778b03446896618a9cca77" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container parent="aspace_87a52a7863778b03446896618a9cca77" type="Folder">4</container></did></c></dsc>
 </archdesc>
 </ead>

@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Henry Lloyd ledgers</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="aacr" source="naf">Lloyd, Henry</persname>
     </origination>
     <unitid>1974.117</unitid>
@@ -17,9 +17,9 @@
     <abstract id="aspace_11c2dfbff6a84475ccbfe73c89af7459">Six ledgers of Henry Lloyd, recording financial transactions and accounts throughout the period 1703 to 1744.</abstract>
     <langmaterial id="aspace_f751494fef1ad63fdbc95f6a83afd270">Materials are in English.</langmaterial>
     <container altrender="Large Flat Box" id="aspace_35837d96952a6d5bf24127370adb37a8" label="Text" type="Box">1</container>
-    <container id="aspace_40883689f1b9d28bbd8ab4e3f8b04c15" parent="aspace_35837d96952a6d5bf24127370adb37a8" type="item">4 ledgers</container>
+    <container parent="aspace_35837d96952a6d5bf24127370adb37a8" type="item">4 ledgers</container>
     <container altrender="Medium Flat Box 4" id="aspace_61eeffb35d624e15439223458526664e" label="Text" type="Box">2</container>
-    <container id="aspace_fa68f22cbf84aea8ee77d8b80e7179fa" parent="aspace_61eeffb35d624e15439223458526664e" type="item">2 ledgers</container>
+    <container parent="aspace_61eeffb35d624e15439223458526664e" type="item">2 ledgers</container>
   </did>
   <userestrict id="aspace_f51d86f1e30594aeea693053096503a4">
     <head>Conditions Governing Use</head>

@@ -6,7 +6,7 @@
       <corpname>New-York Historical Society</corpname>
     </repository>
     <unittitle>Peter Brandt photographs of the TWA Flight Center</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="rda" source="local">Brandt, Peter C., 1947-</persname>
     </origination>
     <unitid>PR 304</unitid>
@@ -44,6 +44,6 @@
     <corpname rules="rda" source="naf">John F. Kennedy International Airport</corpname>
     <corpname source="naf">Trans World Airlines Terminal (New York, N.Y.) -- Photographs.</corpname>
   </controlaccess>
-  <dsc><c id="aspace_cb2743ee4c6cec4cf5860a1da3b8c3f1" level="file"><did><unittitle>TWA Flight Center photographs (2 folders)</unittitle><unitdate datechar="creation" type="inclusive">2004-2005</unitdate><container id="aspace_68657fcb91490e6f11d9ec57e5eb7b54" label="Graphic Materials" type="Box">1</container><container id="aspace_2a81c07bda2adb2ff41948b33765eaa2" parent="aspace_68657fcb91490e6f11d9ec57e5eb7b54" type="Folder">1-2</container></did></c></dsc>
+  <dsc><c id="aspace_cb2743ee4c6cec4cf5860a1da3b8c3f1" level="file"><did><unittitle>TWA Flight Center photographs (2 folders)</unittitle><unitdate datechar="creation" type="inclusive">2004-2005</unitdate><container id="aspace_68657fcb91490e6f11d9ec57e5eb7b54" label="Graphic Materials" type="Box">1</container><container parent="aspace_68657fcb91490e6f11d9ec57e5eb7b54" type="Folder">1-2</container></did></c></dsc>
 </archdesc>
 </ead>

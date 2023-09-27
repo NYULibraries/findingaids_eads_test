@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Edna Glyde photography collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Glyde, Edna</persname>
     </origination>
     <unitid>V1988.001</unitid>
@@ -21,13 +21,13 @@
     <container altrender="Full Manuscript Box Legal" id="aspace_abbc37f59953298ab991e3386fe4da2a" label="Graphic Materials" type="Box">Slides: V1988.001 Box 1 of 1; V1988.012 Box 1 of 1</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_7e9efdd5a883314d83510b191c56b3b7" label="Graphic Materials" type="Box">Prints by Accession 54</container>
     <container altrender="Medium Flat Box 26" id="aspace_07a0e4055d931f929c0152061cdc5bbe" label="Graphic Materials" type="Box">Slides by Accession 2</container>
-    <container id="aspace_ab7721a4e0fdc319db3753fad28edcbb" parent="aspace_07a0e4055d931f929c0152061cdc5bbe" type="Box">6</container>
-    <container id="aspace_03c23c8a0ffb3908d9c7a6ecfa9c4ffa" parent="aspace_ab7721a4e0fdc319db3753fad28edcbb" type="item">V1988.1.98-143</container>
+    <container parent="aspace_07a0e4055d931f929c0152061cdc5bbe" type="Box">6</container>
+    <container parent="aspace_07a0e4055d931f929c0152061cdc5bbe" type="item">V1988.1.98-143</container>
     <container altrender="Medium Flat Box 26" id="aspace_225fbd67257015a018787b584130bc79" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_ad270f561fc879f1915ebb29aebbf8f1" parent="aspace_225fbd67257015a018787b584130bc79" type="Box">1</container>
-    <container id="aspace_0f93be3de71599966f20db389c792e99" parent="aspace_ad270f561fc879f1915ebb29aebbf8f1" type="item">V1988.1.144-197</container>
+    <container parent="aspace_225fbd67257015a018787b584130bc79" type="Box">1</container>
+    <container parent="aspace_225fbd67257015a018787b584130bc79" type="item">V1988.1.144-197</container>
     <container altrender="Large negatives box" id="aspace_ec1d6337942736aea7c7e77982c9cab6" label="Graphic Materials" type="Box">Medium Format Negatives 6</container>
-    <container id="aspace_266234008d92cf8bff72b59dbe77e380" parent="aspace_ec1d6337942736aea7c7e77982c9cab6" type="item">V1988.1.1-5, 8, 10, 12-16, 23-97</container>
+    <container parent="aspace_ec1d6337942736aea7c7e77982c9cab6" type="item">V1988.1.1-5, 8, 10, 12-16, 23-97</container>
   </did>
   <bioghist id="aspace_d4a3b3ca4961a175005b60cd97879221">
     <head>Biographical note</head>

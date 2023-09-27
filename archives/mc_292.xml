@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Frank Baranowski Collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Baranowski, Frank</persname>
     </origination>
     <origination label="source">
@@ -52,6 +52,6 @@
     <persname role="dnr" rules="dacs" source="local">Baranowski, Susan</persname>
     <corpname authfilenumber="(lccn)no93002872" rules="dacs" source="naf">New York University. College of Engineering</corpname>
   </controlaccess>
-  <dsc><c id="aspace_d27ddb7518d5a8e6cd5bf45978028078" level="file"><did><unittitle>Freshman Certificate  and Graduation Programs</unittitle><unitdate datechar="creation" normal="1939/1943" type="inclusive">1939, 1943</unitdate><container altrender="Manuscript box - Letter" id="aspace_5a5321ca17f340a573cd464838a93b0d" label="Mixed Materials [31142063344959]" type="Box">Shared University Archives 055</container><container id="aspace_b934452bc590f04da7fd627821990cc7" parent="aspace_5a5321ca17f340a573cd464838a93b0d" type="Folder">4</container></did></c></dsc>
+  <dsc><c id="aspace_d27ddb7518d5a8e6cd5bf45978028078" level="file"><did><unittitle>Freshman Certificate  and Graduation Programs</unittitle><unitdate datechar="creation" normal="1939/1943" type="inclusive">1939, 1943</unitdate><container altrender="Manuscript box - Letter" id="aspace_5a5321ca17f340a573cd464838a93b0d" label="Mixed Materials [31142063344959]" type="Box">Shared University Archives 055</container><container parent="aspace_5a5321ca17f340a573cd464838a93b0d" type="Folder">4</container></did></c></dsc>
 </archdesc>
 </ead>

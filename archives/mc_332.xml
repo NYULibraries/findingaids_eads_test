@@ -5,10 +5,10 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>New York University Archives Collection of University-Related Materials</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="dacs" source="local">New York University Archives</corpname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname source="naf">Butler, Benjamin F., 1795-1858</persname>
     </origination>
     <unitid>MC.332</unitid>
@@ -54,6 +54,6 @@
     <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Buildings -- History</corpname>
     <corpname rules="dacs" source="local">New York University. University Heights</corpname>
   </controlaccess>
-  <dsc><c id="aspace_c39be509ee2a9026f043aa336836ee18" level="file"><did><unittitle>Benjamin Franklin Butler Letter</unittitle><unitdate datechar="creation" normal="1838/1838">1838</unitdate><container altrender="Manuscript box - Letter" id="aspace_f8b0d137bfd55d494342128686dc7f27" label="Mixed Materials [31142063344959]" type="Box">Shared University Archives 055</container><container id="aspace_39a5c82437d0046ccbc9c8fc673f1fff" parent="aspace_f8b0d137bfd55d494342128686dc7f27" type="Folder">6</container></did></c><c id="aspace_a2a3df9bb54f5b297dcb0dd0464d5773" level="file"><did><unittitle>New York Fire Department Inspection Certificate for Sanitary Engineering Research Lab (University Heights)</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container altrender="Manuscript box - Letter" id="aspace_9fa4fab637302fbd8f9bfde4045371af" label="Mixed Materials [31142067189087]" type="Box">Shared University Archives 059</container><container id="aspace_40a6622da5700d720b527713789861b4" parent="aspace_9fa4fab637302fbd8f9bfde4045371af" type="Folder">5</container></did></c><c id="aspace_72a5d49d2968abbbc6c80b6ba084acce" level="file"><did><unittitle>NYU Athletics Promotional Card and Harvard Tobacco Leather</unittitle><unitdate datechar="creation" normal="1907/1916" type="inclusive">circa 1911</unitdate><container altrender="Manuscript box - Letter" id="aspace_8f0360f93ba5f0793a5ed28b23648f0d" label="Mixed Materials [31142067189087]" type="Box">Shared University Archives 059</container><container id="aspace_606b562001e644480f37bfdcaa2e4b57" parent="aspace_8f0360f93ba5f0793a5ed28b23648f0d" type="Folder">6</container></did></c></dsc>
+  <dsc><c id="aspace_c39be509ee2a9026f043aa336836ee18" level="file"><did><unittitle>Benjamin Franklin Butler Letter</unittitle><unitdate datechar="creation" normal="1838/1838">1838</unitdate><container altrender="Manuscript box - Letter" id="aspace_f8b0d137bfd55d494342128686dc7f27" label="Mixed Materials [31142063344959]" type="Box">Shared University Archives 055</container><container parent="aspace_f8b0d137bfd55d494342128686dc7f27" type="Folder">6</container></did></c><c id="aspace_a2a3df9bb54f5b297dcb0dd0464d5773" level="file"><did><unittitle>New York Fire Department Inspection Certificate for Sanitary Engineering Research Lab (University Heights)</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate><container altrender="Manuscript box - Letter" id="aspace_9fa4fab637302fbd8f9bfde4045371af" label="Mixed Materials [31142067189087]" type="Box">Shared University Archives 059</container><container parent="aspace_9fa4fab637302fbd8f9bfde4045371af" type="Folder">5</container></did></c><c id="aspace_72a5d49d2968abbbc6c80b6ba084acce" level="file"><did><unittitle>NYU Athletics Promotional Card and Harvard Tobacco Leather</unittitle><unitdate datechar="creation" normal="1907/1916" type="inclusive">circa 1911</unitdate><container altrender="Manuscript box - Letter" id="aspace_8f0360f93ba5f0793a5ed28b23648f0d" label="Mixed Materials [31142067189087]" type="Box">Shared University Archives 059</container><container parent="aspace_8f0360f93ba5f0793a5ed28b23648f0d" type="Folder">6</container></did></c></dsc>
 </archdesc>
 </ead>

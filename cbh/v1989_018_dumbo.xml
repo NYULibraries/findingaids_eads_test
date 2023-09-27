@@ -5,10 +5,10 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>DUMBO, Brooklyn waterfront photographs and slides</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" rules="dacs" source="local">Maraio, Joseph</persname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" rules="dacs" source="local">Beirne, Elizabeth</persname>
     </origination>
     <unitid>V1989.018</unitid>
@@ -23,8 +23,8 @@
 .    </langmaterial>
     <container altrender="Full Manuscript Box Legal" id="aspace_2dead40d6ea7b4f556d318d2e2be5d60" label="Graphic Materials" type="Box">Prints by Accession 55</container>
     <container altrender="Medium Flat Box 26" id="aspace_56376a4d24161d00993535170696bc44" label="Graphic Materials" type="Box">Slides by Accession 1</container>
-    <container id="aspace_4184923403de89b81529eea265e9c424" parent="aspace_56376a4d24161d00993535170696bc44" type="Box">6</container>
-    <container id="aspace_90abf4587e859bafe8c4eeee86a5c630" parent="aspace_4184923403de89b81529eea265e9c424" type="item">V1989.18.1-70</container>
+    <container parent="aspace_56376a4d24161d00993535170696bc44" type="Box">6</container>
+    <container parent="aspace_56376a4d24161d00993535170696bc44" type="item">V1989.18.1-70</container>
   </did>
   <acqinfo id="aspace_ce337b1e0e2694fa6199373e5a3730b5">
     <head>Immediate Source of Acquisition</head>

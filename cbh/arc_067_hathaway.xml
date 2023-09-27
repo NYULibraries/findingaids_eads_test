@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Paul Hathaway McGinnis family papers</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname source="local">McGinnis, Paul Hathaway</persname>
     </origination>
     <unitid>ARC.067</unitid>
@@ -19,7 +19,7 @@
     <container id="aspace_30e315c4197ee2ecaf06f1cfc0d36331" label="Graphic Materials" type="Oversize">Photograph Box 13</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_fd8348813332c4eef3ac2de49f91a8aa" label="Mixed Materials" type="Box">ARC.067 1 of 1</container>
     <container altrender="Shoe Box 13" id="aspace_a75628d31521d28b790c42301feee543" label="Graphic Materials" type="Box">Daguerreotypes 3</container>
-    <container id="aspace_dc620f19264d99087e1974a37e0a9475" parent="aspace_a75628d31521d28b790c42301feee543" type="item">DAG.01</container>
+    <container parent="aspace_a75628d31521d28b790c42301feee543" type="item">DAG.01</container>
   </did>
   <scopecontent id="aspace_e1281ea561cbe71d8a2f5069c521e6d2">
     <head>Scope and Contents</head>
@@ -79,6 +79,6 @@
     <corpname rules="aacr" source="naf">Hofstra College</corpname>
     <corpname rules="aacr" source="naf">St. Paul's School (Garden City, N.Y.)</corpname>
   </controlaccess>
-  <dsc></dsc>
+  <dsc/>
 </archdesc>
 </ead>

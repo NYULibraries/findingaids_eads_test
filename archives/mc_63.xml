@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Morris Loeb Scrapbook</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname authfilenumber="(lccn)no2015037695" rules="aacr" source="naf">New York University. Department of Chemistry</corpname>
     </origination>
     <unitid>MC.63</unitid>
@@ -51,6 +51,6 @@
     <subject source="lcsh">Chemistry -- Study and teaching</subject>
     <persname source="naf">Loeb, Morris, 1863-1912</persname>
   </controlaccess>
-  <dsc><c id="aspace_ref10" level="file"><did><unittitle>Scrapbook</unittitle><unitdate datechar="creation" normal="1912/1912">1912</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_1e6e5a553149071611e1a1c8c6b6175c" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container id="aspace_74bfd91bac00324973fbc329ba7b32be" parent="aspace_1e6e5a553149071611e1a1c8c6b6175c" type="Folder">5</container></did></c></dsc>
+  <dsc><c id="aspace_ref10" level="file"><did><unittitle>Scrapbook</unittitle><unitdate datechar="creation" normal="1912/1912">1912</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_1e6e5a553149071611e1a1c8c6b6175c" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container parent="aspace_1e6e5a553149071611e1a1c8c6b6175c" type="Folder">5</container></did></c></dsc>
 </archdesc>
 </ead>

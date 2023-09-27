@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>New York University Archives Collection of NYU Postcards</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="dacs" source="local">New York University Archives</corpname>
     </origination>
     <unitid>MC.356</unitid>
@@ -45,6 +45,6 @@
     <genreform source="aat">Postcards.</genreform>
     <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
   </controlaccess>
-  <dsc><c id="aspace_067371751a2d87a0589e3173a0c8a250" level="file"><did><unittitle>Camp Sebago Copper Plate</unittitle><unitdate datechar="creation" normal="1942/1942">1942</unitdate><container altrender="Manuscript box - Letter" id="aspace_50f0aa1bcf4894ad6c61366c789fed92" label="Mixed Materials [31142062839959]" type="Box">Shared University Archives 099</container><container id="aspace_84abace9301ad252da8d2da2dd459768" parent="aspace_50f0aa1bcf4894ad6c61366c789fed92" type="Folder">4</container></did></c><c id="aspace_a45f8734ffbcbefe6afd8e793e3b2694" level="file"><did><unittitle>Camp Sebago Postcards</unittitle><unitdate datechar="creation" normal="1900/2000" type="inclusive">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_9b2a8cc6eb0b235ef5914b66a1ecdebb" label="Mixed Materials [31142062839959]" type="Box">Shared University Archives 099</container><container id="aspace_f06b490463659e03c461ed930674dbf2" parent="aspace_9b2a8cc6eb0b235ef5914b66a1ecdebb" type="Folder">5</container></did></c></dsc>
+  <dsc><c id="aspace_067371751a2d87a0589e3173a0c8a250" level="file"><did><unittitle>Camp Sebago Copper Plate</unittitle><unitdate datechar="creation" normal="1942/1942">1942</unitdate><container altrender="Manuscript box - Letter" id="aspace_50f0aa1bcf4894ad6c61366c789fed92" label="Mixed Materials [31142062839959]" type="Box">Shared University Archives 099</container><container parent="aspace_50f0aa1bcf4894ad6c61366c789fed92" type="Folder">4</container></did></c><c id="aspace_a45f8734ffbcbefe6afd8e793e3b2694" level="file"><did><unittitle>Camp Sebago Postcards</unittitle><unitdate datechar="creation" normal="1900/2000" type="inclusive">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_9b2a8cc6eb0b235ef5914b66a1ecdebb" label="Mixed Materials [31142062839959]" type="Box">Shared University Archives 099</container><container parent="aspace_9b2a8cc6eb0b235ef5914b66a1ecdebb" type="Folder">5</container></did></c></dsc>
 </archdesc>
 </ead>

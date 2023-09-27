@@ -5,7 +5,7 @@
       <corpname>New-York Historical Society</corpname>
     </repository>
     <unittitle>Lewis E. Shaw papers</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="rda" source="local">Shaw, Lewis E., -1926</persname>
     </origination>
     <unitid>MS 671.1</unitid>
@@ -52,6 +52,6 @@
     <corpname rules="rda" source="naf">United States. Army. American Expeditionary Forces</corpname>
     <corpname rules="rda" source="naf">United States. Army. Infantry Regiment, 369th</corpname>
   </controlaccess>
-  <dsc><c id="aspace_ref12_i08" level="file"><did><unittitle>Letters, November 12, 1917-June 17, 1918</unittitle><unitdate datechar="creation" type="inclusive">1917-1918</unitdate><container id="aspace_ed08c9c99d32891088a53904dc19d961" label="Mixed Materials" type="Box">1</container><container id="aspace_d4d0dbdfc78d005541177ce18eff9af3" parent="aspace_ed08c9c99d32891088a53904dc19d961" type="Folder">1</container></did></c><c id="aspace_ref13_7rc" level="file"><did><unittitle>Letters and postcard, July 1, 1918-Jan. 27, 1919</unittitle><unitdate datechar="creation" type="inclusive">1918-1919</unitdate><container id="aspace_9df511d0a147e64dc76216f76ab3c0c0" label="Mixed Materials" type="Box">1</container><container id="aspace_e53ca67698277797bc9fc30de5c0b788" parent="aspace_9df511d0a147e64dc76216f76ab3c0c0" type="Folder">2</container></did></c><c id="aspace_ref14_naf" level="file"><did><unittitle>Official Papers and Map of Ypres</unittitle><container id="aspace_b6bb6417d3e1e1861938060502122dbb" label="Mixed Materials" type="Box">1</container><container id="aspace_c11df3cde1f14dff2dc0c3e138d7717b" parent="aspace_b6bb6417d3e1e1861938060502122dbb" type="Folder">3</container></did></c></dsc>
+  <dsc><c id="aspace_ref12_i08" level="file"><did><unittitle>Letters, November 12, 1917-June 17, 1918</unittitle><unitdate datechar="creation" type="inclusive">1917-1918</unitdate><container id="aspace_ed08c9c99d32891088a53904dc19d961" label="Mixed Materials" type="Box">1</container><container parent="aspace_ed08c9c99d32891088a53904dc19d961" type="Folder">1</container></did></c><c id="aspace_ref13_7rc" level="file"><did><unittitle>Letters and postcard, July 1, 1918-Jan. 27, 1919</unittitle><unitdate datechar="creation" type="inclusive">1918-1919</unitdate><container id="aspace_9df511d0a147e64dc76216f76ab3c0c0" label="Mixed Materials" type="Box">1</container><container parent="aspace_9df511d0a147e64dc76216f76ab3c0c0" type="Folder">2</container></did></c><c id="aspace_ref14_naf" level="file"><did><unittitle>Official Papers and Map of Ypres</unittitle><container id="aspace_b6bb6417d3e1e1861938060502122dbb" label="Mixed Materials" type="Box">1</container><container parent="aspace_b6bb6417d3e1e1861938060502122dbb" type="Folder">3</container></did></c></dsc>
 </archdesc>
 </ead>

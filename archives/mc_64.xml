@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Atwood Townsend Papers</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname source="naf">Townsend, Atwood H. (Atwood Halsey) , 1896-1967</persname>
     </origination>
     <unitid>MC.64</unitid>
@@ -50,6 +50,6 @@
     <persname role="wam" source="naf">Snow, Edgar, 1905-1972</persname>
     <persname role="wam" source="naf">Yutang, Lin , 1895-1976</persname>
   </controlaccess>
-  <dsc><c id="aspace_ref1" level="file"><did><unittitle>"Good Reading Questionnaire" </unittitle><unitdate datechar="creation" normal="1941/1943" type="inclusive">1941-1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_3c016d58e03e5c3aadc75b640f7f31ce" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container id="aspace_d13c787b1ad5d29a50c2afcd9f230a55" parent="aspace_3c016d58e03e5c3aadc75b640f7f31ce" type="Folder">6</container></did></c></dsc>
+  <dsc><c id="aspace_ref1" level="file"><did><unittitle>"Good Reading Questionnaire" </unittitle><unitdate datechar="creation" normal="1941/1943" type="inclusive">1941-1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal - Half" id="aspace_3c016d58e03e5c3aadc75b640f7f31ce" label="Mixed Materials [31142062745800]" type="Box">Shared University Archives 008</container><container parent="aspace_3c016d58e03e5c3aadc75b640f7f31ce" type="Folder">6</container></did></c></dsc>
 </archdesc>
 </ead>

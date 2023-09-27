@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Jeremiah Johnson manuscript on the Flatbush Dutch Reformed Church</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Johnson, Jeremiah</persname>
     </origination>
     <unitid>1973.128</unitid>
@@ -19,9 +19,9 @@
       <language langcode="eng">English</language>
 .    </langmaterial>
     <container altrender="Full Manuscript Box Legal" id="aspace_54fd9f97648fe9d682aeb144a24f13dd" label="Text" type="Box">A0002</container>
-    <container id="aspace_9d7a9b642bca95d444c581d26cd14c61" parent="aspace_54fd9f97648fe9d682aeb144a24f13dd" type="Folder">Access photocopies</container>
+    <container parent="aspace_54fd9f97648fe9d682aeb144a24f13dd" type="Folder">Access photocopies</container>
     <container altrender="Large Flat Box" id="aspace_8ac20a73929fb8422092153cb6364142" label="Text" type="Box">OS-25</container>
-    <container id="aspace_61651fbdddddc3b6af1eeb6402e0c12b" parent="aspace_8ac20a73929fb8422092153cb6364142" type="Folder">Originals</container>
+    <container parent="aspace_8ac20a73929fb8422092153cb6364142" type="Folder">Originals</container>
   </did>
   <accessrestrict id="aspace_6504b330f943d04f57d2cd6335fcc641">
     <head>Conditions Governing Access</head>

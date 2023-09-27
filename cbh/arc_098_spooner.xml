@@ -5,13 +5,13 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Alden Spooner family papers</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="aacr" source="naf">Spooner, Alden</persname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname source="local">Spooner, Alden J. (Alden Jermain)</persname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="aacr" source="naf">Spooner, Edwin B.</persname>
     </origination>
     <unitid>ARC.098</unitid>
@@ -25,7 +25,7 @@
       <language langcode="eng">English</language>
 .    </langmaterial>
     <container altrender="Shoe Box 13" id="aspace_9d9eaed0c5b583c927aec02b92ce4941" label="Graphic Materials" type="Box">Daguerreotypes 3</container>
-    <container id="aspace_7b8c75eb0964790e0e1f455e438a515c" parent="aspace_9d9eaed0c5b583c927aec02b92ce4941" type="item">V1990.72.1</container>
+    <container parent="aspace_9d9eaed0c5b583c927aec02b92ce4941" type="item">V1990.72.1</container>
     <container altrender="Large Flat Box" id="aspace_2c11a2ccc6eca99a038c7f1b2e306e2d" label="Text" type="Box">OS-20</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_866294c1aefecbdaeb6a036facebeea8" label="Mixed Materials" type="Box">A0045</container>
   </did>

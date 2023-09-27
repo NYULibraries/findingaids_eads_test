@@ -5,10 +5,10 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Pfizer Inc. collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="aacr" source="naf">Pfizer Inc.</corpname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="aacr" source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.)</corpname>
     </origination>
     <unitid>ARC.084</unitid>
@@ -24,8 +24,8 @@
     <container altrender="Record Carton" id="aspace_8bacb9968c3ac80ba77bf99023ce442f" label="Mixed Materials" type="carton">1 of 1</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_5db1d7764e972bb006a0945bb7271289" label="Mixed Materials" type="Box">A0045</container>
     <container altrender="Large Flat Box" id="aspace_5afeec1f18daa6d85dcb27bbfcf07fa2" label="Mixed Materials" type="Box">OS-38</container>
-    <container id="aspace_87b450dba74b5f8c2520fccc7f0fb1e8" parent="aspace_5afeec1f18daa6d85dcb27bbfcf07fa2" type="Folder">11</container>
-    <container id="aspace_5246b1f023e9225acd4ef0f74539998c" parent="aspace_87b450dba74b5f8c2520fccc7f0fb1e8" type="item">V1990.36.1</container>
+    <container parent="aspace_5afeec1f18daa6d85dcb27bbfcf07fa2" type="Folder">11</container>
+    <container parent="aspace_5afeec1f18daa6d85dcb27bbfcf07fa2" type="item">V1990.36.1</container>
   </did>
   <bioghist id="aspace_ab4cd3a37a8cdb30c24b0f272df8c711">
     <head>Historical Note</head>

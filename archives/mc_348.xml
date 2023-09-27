@@ -5,10 +5,10 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Curtis and Linda Hoffman Collection on the University Heights Campus Closing</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Hoffman, Linda</persname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Hoffman, Curtis</persname>
     </origination>
     <unitid>MC.348</unitid>
@@ -46,6 +46,6 @@
     <subject source="lcsh">Student activities.</subject>
     <corpname rules="dacs" source="local">New York University. University Heights</corpname>
   </controlaccess>
-  <dsc><c id="aspace_65ba2e6342ea308f7236c433735dca68" level="file"><did><unittitle>Button and Song Lyrics</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container altrender="Manuscript box - Letter" id="aspace_0b5c20240c3dde5bf9e281b6eb715310" label="Mixed Materials [31142062839959]" type="Box">Shared University Archives 099</container><container id="aspace_c937fc118330f9507cb9fcf3f01552e4" parent="aspace_0b5c20240c3dde5bf9e281b6eb715310" type="Folder">2</container></did></c></dsc>
+  <dsc><c id="aspace_65ba2e6342ea308f7236c433735dca68" level="file"><did><unittitle>Button and Song Lyrics</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container altrender="Manuscript box - Letter" id="aspace_0b5c20240c3dde5bf9e281b6eb715310" label="Mixed Materials [31142062839959]" type="Box">Shared University Archives 099</container><container parent="aspace_0b5c20240c3dde5bf9e281b6eb715310" type="Folder">2</container></did></c></dsc>
 </archdesc>
 </ead>

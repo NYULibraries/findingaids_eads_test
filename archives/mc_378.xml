@@ -5,10 +5,10 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Jerry and Sandra Sanders Simelson Collection on New York University</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Simelson, Jerry</persname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Simelson, Sandra</persname>
     </origination>
     <origination label="source">
@@ -50,6 +50,6 @@
     <subject source="lcsh">Student activities.</subject>
     <persname role="dnr" rules="dacs" source="local">Kaplan, Nina</persname>
   </controlaccess>
-  <dsc><c id="aspace_6539674822eaab8f0fe26cad3b572c09" level="file"><did><unittitle>Photographs, Certificates, Ephemera</unittitle><unitdate datechar="creation" normal="1954/1957" type="inclusive">1954-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_652746fee292076884542fd9bbae4f51" label="Mixed Materials [31142066996433]" type="Box">Shared University Archives 149</container><container id="aspace_3c6f11092ae6ef126fd0e7505d970745" parent="aspace_652746fee292076884542fd9bbae4f51" type="Folder">5</container></did></c></dsc>
+  <dsc><c id="aspace_6539674822eaab8f0fe26cad3b572c09" level="file"><did><unittitle>Photographs, Certificates, Ephemera</unittitle><unitdate datechar="creation" normal="1954/1957" type="inclusive">1954-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_652746fee292076884542fd9bbae4f51" label="Mixed Materials [31142066996433]" type="Box">Shared University Archives 149</container><container parent="aspace_652746fee292076884542fd9bbae4f51" type="Folder">5</container></did></c></dsc>
 </archdesc>
 </ead>

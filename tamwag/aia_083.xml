@@ -8,7 +8,7 @@
     <origination label="source">
       <persname source="naf">Casey, Marion R., 1962-</persname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <famname source="naf">Fitzsimmons family</famname>
     </origination>
     <unitid>AIA.083</unitid>
@@ -55,6 +55,6 @@
     <persname source="naf">O'Hara, Maureen, 1920-2015</persname>
     <persname role="fmo" source="naf">Casey, Marion R., 1962-</persname>
   </controlaccess>
-  <dsc><c id="aspace_07acc3a9959ab11626eaa738e86c5c08" level="file"><did><unittitle>Letters</unittitle><unitdate datechar="creation" normal="1941/1977" type="inclusive">1941-1977</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b2ed5cc43452ffea87c9739c54d719ba" label="Mixed Materials [31142063577749]" type="Box">1</container><container id="aspace_dd4f1665b38dfe81e07882db3a3c1bc6" parent="aspace_b2ed5cc43452ffea87c9739c54d719ba" type="Folder">1-6</container></did></c></dsc>
+  <dsc><c id="aspace_07acc3a9959ab11626eaa738e86c5c08" level="file"><did><unittitle>Letters</unittitle><unitdate datechar="creation" normal="1941/1977" type="inclusive">1941-1977</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b2ed5cc43452ffea87c9739c54d719ba" label="Mixed Materials [31142063577749]" type="Box">1</container><container parent="aspace_b2ed5cc43452ffea87c9739c54d719ba" type="Folder">1-6</container></did></c></dsc>
 </archdesc>
 </ead>

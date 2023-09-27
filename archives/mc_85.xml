@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Holmes Condict Jackson Laboratory Manual</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname authfilenumber="(lccn)no2016033004" source="naf">Jackson, Holmes Condict, 1875-</persname>
     </origination>
     <unitid>MC.85</unitid>
@@ -14,7 +14,7 @@
       <extent altrender="carrier">in 1 folder in shared half manuscript box</extent>
     </physdesc>
     <unitdate datechar="creation" normal="1917/1917">1917</unitdate>
-    <abstract id="aspace_1007b39d5fcedcf0586cfcf1616d95a5">Holmes Condict Jackson (1875-1927) was a professor of physiology and director of the laboratory of physiology at University and Bellevue Medical College, New York University. He was the author of <emph render='italic'>Manual of Physiological Chemistry</emph> and <emph render='italic'>Laboratory Exercises in Physiology</emph>. The Holmes Condict Jackson Laboratory Manual consists of <emph render='italic'>Laboratory Exercises in Physiology</emph>, 1917, published by New York University Press. The manual was intended for medical students and contains diagrams and instructions on the apparatuses used for various experiments, instructions on how to write reports, and instructions for the experiments themselves.</abstract>
+    <abstract id="aspace_1007b39d5fcedcf0586cfcf1616d95a5">Holmes Condict Jackson (1875-1927) was a professor of physiology and director of the laboratory of physiology at University and Bellevue Medical College, New York University. He was the author of <emph render="italic">Manual of Physiological Chemistry</emph> and <emph render="italic">Laboratory Exercises in Physiology</emph>. The Holmes Condict Jackson Laboratory Manual consists of <emph render="italic">Laboratory Exercises in Physiology</emph>, 1917, published by New York University Press. The manual was intended for medical students and contains diagrams and instructions on the apparatuses used for various experiments, instructions on how to write reports, and instructions for the experiments themselves.</abstract>
     <langmaterial id="aspace_5a5283279c66e2a631de3ef81d004a7e">Materials are in English.</langmaterial>
   </did>
   <accessrestrict id="aspace_40640c9b8242f182e40dcad4ca9c9cf6">
@@ -25,7 +25,7 @@
 <p>Materials found in collection; there is no documentation concerning the provenance of these materials.</p>  </acqinfo>
   <bioghist id="aspace_d333639dd7b098223de169545fb35b18">
     <head>Biographical Note</head>
-<p>Holmes Condict Jackson (1875-1927) was a professor of physiology and director of the laboratory of physiology at University and Bellevue Medical College, New York University. He was the author of <emph render='italic'>Manual of Physiological Chemistry</emph> and <emph render='italic'>Laboratory Exercises in Physiology</emph>.</p>  </bioghist>
+<p>Holmes Condict Jackson (1875-1927) was a professor of physiology and director of the laboratory of physiology at University and Bellevue Medical College, New York University. He was the author of <emph render="italic">Manual of Physiological Chemistry</emph> and <emph render="italic">Laboratory Exercises in Physiology</emph>.</p>  </bioghist>
   <prefercite id="aspace_d2d15c3bd0cdc66cd396c410a8221892">
     <head>Preferred Citation</head>
 <p>Identification of item, date; Holmes Condict Jackson Laboratory Manual; MC 85; box number; folder number or item identifier; New York University Archives, New York University.</p>  </prefercite>
@@ -34,7 +34,7 @@
 <p>Materials were most likely removed from a binder, then placed in a new acid-free folder and box at an unknown date.</p>  </processinfo>
   <scopecontent id="aspace_0248ba5726398d6afe9feb7a7b2f3889">
     <head>Scope and Contents</head>
-<p>The Holmes Condict Jackson Laboratory Manual consists of <emph render='italic'>Laboratory Exercises in Physiology</emph>, 1917, published by New York University Press. The manual was intended for medical students and contains diagrams and instructions on the apparatuses used for various experiments, instructions on how to write reports, and instructions for the experiments themselves.</p>  </scopecontent>
+<p>The Holmes Condict Jackson Laboratory Manual consists of <emph render="italic">Laboratory Exercises in Physiology</emph>, 1917, published by New York University Press. The manual was intended for medical students and contains diagrams and instructions on the apparatuses used for various experiments, instructions on how to write reports, and instructions for the experiments themselves.</p>  </scopecontent>
   <userestrict id="aspace_5b74d8a58c6d9d30bee531ca0c3eaf15">
     <head>Conditions Governing Use</head>
 <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
@@ -43,6 +43,6 @@
     <subject source="lcsh">Medical education.</subject>
     <genreform source="aat">Handbooks.</genreform>
   </controlaccess>
-  <dsc><c id="aspace_fd51c9009c8c2313160c566047d44cd2" level="file"><did><unittitle><emph render='italic'>Laboratory Exercises in Physiology</emph></unittitle><unitdate datechar="creation" normal="1917/1917">1917</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5476804f7b901c1adf36e1035cf41d4a" label="Mixed Materials [31142063070737]" type="Box">Shared University Archives 031</container><container id="aspace_b4235e83deca35b67417f5b6c888d073" parent="aspace_5476804f7b901c1adf36e1035cf41d4a" type="Folder">8</container></did></c></dsc>
+  <dsc><c id="aspace_fd51c9009c8c2313160c566047d44cd2" level="file"><did><unittitle><emph render="italic">Laboratory Exercises in Physiology</emph></unittitle><unitdate datechar="creation" normal="1917/1917">1917</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5476804f7b901c1adf36e1035cf41d4a" label="Mixed Materials [31142063070737]" type="Box">Shared University Archives 031</container><container parent="aspace_5476804f7b901c1adf36e1035cf41d4a" type="Folder">8</container></did></c></dsc>
 </archdesc>
 </ead>
