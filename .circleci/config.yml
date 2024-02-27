@@ -11,10 +11,9 @@ auth_quay: &auth_quay
 
 hermes_deploy: &hermes_deploy
   run:
-    name: Disabled Deploy via Hermes
+    name: Deploy via Hermes
     command: |
-      echo "Disabled deploy!"
-      #docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-index -concurrent=true
+      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-index -concurrent=true
       # timeout 60m sh -c 'until docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master jobStatus -job=specialcollections-git-trigger-index -wait=false; do sleep 5; done'
 
 version: 2
