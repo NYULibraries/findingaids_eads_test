@@ -48,6 +48,3 @@ workflows:
     jobs:
       # - deploy-prod
       - deploy-dev
-        #    filters:
-        #      branches:
-        #        only: main 
