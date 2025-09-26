@@ -1,3 +1,7 @@
+# $${\color{red}THIS\ REPO\ IS\ OBSOLETE\ (ARCHIVED\ ON\ 9/26/25)}$$
+
+---
+
 # Special Collections Finding Aids EAD Repository
 
 This repository contains a live cut of the ArchiveSpace-exported EADs describing finding aids from various NYU-associated special collections. This data is harvested into a Solr index for the [finding aids discovery portal](https://github.com/NYULibraries/specialcollections).
